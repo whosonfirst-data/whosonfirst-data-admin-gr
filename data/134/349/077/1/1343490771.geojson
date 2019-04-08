@@ -1,0 +1,77 @@
+{
+  "id": 1343490771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55156,38.42689,20.55156,38.42689",
+    "geom:latitude":38.42689,
+    "geom:longitude":20.55156,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Vigli",
+    "gn:country_code":"GR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251954,
+    "gn:latitude":38.42689,
+    "gn:longitude":20.55156,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Vigl\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vigl\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b9\u03b3\u03bb\u03af"
+    ],
+    "name:und_x_variant":[
+        "Vil\u00ed",
+        "Vingl\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251954
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"44ce6a48c559db9127fe40b42bfef74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343490771,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1343490771,
+    "wof:lastmodified":1537624163,
+    "wof:name":"Vigli",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55156,
+    38.42689,
+    20.55156,
+    38.42689
+],
+  "geometry": {"coordinates":[20.55156,38.42689],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327263059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71498,38.79845,20.71498,38.79845",
+    "geom:latitude":38.79845,
+    "geom:longitude":20.71498,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Kariotai",
+    "gn:country_code":"GR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260943,
+    "gn:latitude":38.79845,
+    "gn:longitude":20.71498,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Kari\u00f3tai",
+    "gn:population":532,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b9\u03ce\u03c4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kariotes"
+    ],
+    "name:und_x_variant":[
+        "Kari\u00f3tes",
+        "Kari\u00f3tai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260943
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1805b858c2e7ecea9a2a4ad324d398fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327263059,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327263059,
+    "wof:lastmodified":1537624566,
+    "wof:name":"Kariotai",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":532,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71498,
+    38.79845,
+    20.71498,
+    38.79845
+],
+  "geometry": {"coordinates":[20.71498,38.79845],"type":"Point"}
+}

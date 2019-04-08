@@ -1,0 +1,132 @@
+{
+  "id": 85902641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17893700.001938,
+    "geom:bbox":"25.722257,35.260579,25.722257,35.260579",
+    "geom:latitude":35.260579,
+    "geom:longitude":25.722257,
+    "gn:latitude":35.26643,
+    "gn:longitude":25.71104,
+    "gn:population":115,
+    "iso:country":"GR",
+    "lbl:latitude":35.260579,
+    "lbl:longitude":25.722257,
+    "mps:latitude":35.256919,
+    "mps:longitude":25.709276,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03ac\u03bd\u03c9 \u0395\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u0395\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_colloquial":[
+        "Epano Elounda"
+    ],
+    "name:eng_x_preferred":[
+        "Ep\u00e1no Elo\u00fanda"
+    ],
+    "name:eng_x_variant":[
+        "Epano Elounta",
+        "Epano Elounda",
+        "Upper Elounda",
+        "Ano Elounda",
+        "Pano Elounda"
+    ],
+    "name:und_x_variant":[
+        "Epano Elounta"
+    ],
+    "name:unk_x_variant":[
+        "Ep\u00e1no Elo\u00fanda"
+    ],
+    "qs:gn_adm0_cc":"GR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":262701,
+    "qs:gn_nam_loc":"Elounda, Agios Nikolaos, Crete, Crete, GR",
+    "qs:gn_namadm1":"ESYE43",
+    "qs:gn_name":"Ep\u00e1no Elo\u00fanda",
+    "qs:local_max":582,
+    "qs:local_sum":825,
+    "qs:localhoods":2,
+    "qs:name":"Ep\u00e1no Elo\u00fanda",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Crete",
+    "qs:name_adm2":"Crete",
+    "qs:name_lau":"Agios Nikolaos",
+    "qs:name_local":"Elounda",
+    "qs:photo_max":166,
+    "qs:photo_sum":582,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424833,
+    "qs:woe_adm1":56558064,
+    "qs:woe_adm2":12577885,
+    "qs:woe_lau":56558229,
+    "qs:woe_local":949137,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        101848173,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262681,
+        "gp:id":949174,
+        "qs:id":240594,
+        "qs_pg:id":240594
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9887242d910b2e2fa6df2954be46860e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848173,
+            "neighbourhood_id":85902641,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":85902641,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935916,
+    "wof:name":"Ep\u00e1no Elo\u00fanda",
+    "wof:parent_id":101848173,
+    "wof:placetype":"neighbourhood",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.722257,
+    35.260579,
+    25.722257,
+    35.260579
+],
+  "geometry": {"coordinates":[25.722257,35.260579],"type":"Point"}
+}

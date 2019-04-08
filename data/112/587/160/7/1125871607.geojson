@@ -1,0 +1,98 @@
+{
+  "id": 1125871607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06667,37.85,22.06667,37.85",
+    "geom:latitude":37.85,
+    "geom:longitude":22.06667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":37.85,
+    "lbl:longitude":22.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Skotani"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c4\u03ac\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Skotani"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c4\u03ac\u03bd\u03b7 \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f3kova"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253561,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Skotani",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":358379,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962429,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253561,
+        "gp:id":962429,
+        "qs_pg:id":358379,
+        "wd:id":"Q7536407"
+    },
+    "wof:country":"GR",
+    "wof:created":1497294331,
+    "wof:geomhash":"623ec78567f0c47562ecb6b11062e122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125871607,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1125871607,
+    "wof:lastmodified":1514444053,
+    "wof:name":"Skotani",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06667,
+    37.85,
+    22.06667,
+    37.85
+],
+  "geometry": {"coordinates":[22.06667,37.85],"type":"Point"}
+}

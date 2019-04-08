@@ -1,0 +1,77 @@
+{
+  "id": 1360118551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94368,37.79105,24.94368,37.79105",
+    "geom:latitude":37.79105,
+    "geom:longitude":24.94368,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9268",
+    "gn:asciiname":"Kochylou",
+    "gn:country_code":"GR",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259606,
+    "gn:latitude":37.79105,
+    "gn:longitude":24.94368,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Koch\u00fdlou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Koch\u00fdlou"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c7\u03cd\u03bb\u03bf\u03c5"
+    ],
+    "name:und_x_variant":[
+        "Kokh\u00edlou",
+        "K\u00f3khilos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259606
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"102fb64c549aefb33a6edfba489982b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360118551,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1360118551,
+    "wof:lastmodified":1537624499,
+    "wof:name":"Kochylou",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94368,
+    37.79105,
+    24.94368,
+    37.79105
+],
+  "geometry": {"coordinates":[24.94368,37.79105],"type":"Point"}
+}

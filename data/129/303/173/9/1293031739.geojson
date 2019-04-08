@@ -1,0 +1,76 @@
+{
+  "id": 1293031739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88996,37.87595,21.88996,37.87595",
+    "geom:latitude":37.87595,
+    "geom:longitude":21.88996,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133.0",
+    "gn:asciiname":"Ano Psofida",
+    "gn:country_code":"GR",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494552,
+    "gn:latitude":37.87595,
+    "gn:longitude":21.88996,
+    "gn:modification_date":"2017-03-08",
+    "gn:name":"Ano Psofida",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0386\u03bd\u03c9 \u03a8\u03c9\u03c6\u03af\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u03a8\u03c9\u03c6\u03af\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u03a8\u03c9\u03c6\u03af\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494552
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"088ecdbaed6f667bbaa299ce1ed3cee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293031739,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293031739,
+    "wof:lastmodified":1537625117,
+    "wof:name":"Ano Psofida",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88996,
+    37.87595,
+    21.88996,
+    37.87595
+],
+  "geometry": {"coordinates":[21.88996,37.87595],"type":"Point"}
+}

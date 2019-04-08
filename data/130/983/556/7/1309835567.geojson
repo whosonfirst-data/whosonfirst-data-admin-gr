@@ -1,0 +1,73 @@
+{
+  "id": 1309835567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28119,39.29789,21.28119,39.29789",
+    "geom:latitude":39.29789,
+    "geom:longitude":21.28119,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Petra",
+    "gn:country_code":"GR",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255440,
+    "gn:latitude":39.29789,
+    "gn:longitude":21.28119,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"P\u00e9tra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e9tra"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255440
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cfb0bd3712b82782d445a06cc7a80851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309835567,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1309835567,
+    "wof:lastmodified":1537624306,
+    "wof:name":"Petra",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28119,
+    39.29789,
+    21.28119,
+    39.29789
+],
+  "geometry": {"coordinates":[21.28119,39.29789],"type":"Point"}
+}

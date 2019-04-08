@@ -1,0 +1,76 @@
+{
+  "id": 1209251811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69549,35.46955,23.69549,35.46955",
+    "geom:latitude":35.46955,
+    "geom:longitude":23.69549,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Potamida",
+    "gn:country_code":"GR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254821,
+    "gn:latitude":35.46955,
+    "gn:longitude":23.69549,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Potam\u00edda",
+    "gn:population":224,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03af\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Potamida"
+    ],
+    "name:und_x_variant":[
+        "Potam\u00edda",
+        "Potam\u00eddha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254821
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"de5479bd1333cef23436eadc02ebaf03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209251811
+        }
+    ],
+    "wof:id":1209251811,
+    "wof:lastmodified":1537624280,
+    "wof:name":"Potamida",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":224,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69549,
+    35.46955,
+    23.69549,
+    35.46955
+],
+  "geometry": {"coordinates":[23.69549,35.46955],"type":"Point"}
+}

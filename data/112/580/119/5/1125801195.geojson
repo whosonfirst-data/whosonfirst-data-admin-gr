@@ -1,0 +1,113 @@
+{
+  "id": 1125801195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18778,39.76,21.18778,39.76",
+    "geom:latitude":39.76,
+    "geom:longitude":21.18778,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":668,
+    "gn:population":587,
+    "iso:country":"GR",
+    "lbl:latitude":39.76,
+    "lbl:longitude":21.18778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Anilio"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ae\u03bb\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03ae\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Anilio"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03ae\u03bb\u03b9\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:rup_x_preferred":[
+        "Chiar\u00e3"
+    ],
+    "name:swe_x_preferred":[
+        "An\u00edlio"
+    ],
+    "name:unk_x_variant":[
+        "An\u00edlio"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":264982,
+    "qs_pg:gn_pop":668,
+    "qs_pg:name":"Anilion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":490734,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":945776,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264982,
+        "gp:id":945776,
+        "qs_pg:id":490734,
+        "wd:id":"Q12873527"
+    },
+    "wof:country":"GR",
+    "wof:created":1497291268,
+    "wof:geomhash":"5f195db57c285e5b66113d0f3771c5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125801195,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125801195,
+    "wof:lastmodified":1514443919,
+    "wof:name":"Anilion",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":587,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18778,
+    39.76,
+    21.18778,
+    39.76
+],
+  "geometry": {"coordinates":[21.18778,39.76],"type":"Point"}
+}

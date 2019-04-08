@@ -1,0 +1,74 @@
+{
+  "id": 1360218283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75237,35.34552,24.75237,35.34552",
+    "geom:latitude":35.34552,
+    "geom:longitude":24.75237,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Dhamavolos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263269,
+    "gn:latitude":35.34552,
+    "gn:longitude":24.75237,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Dhamav\u00f3los",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dham\u00e1voulon",
+        "Dham\u00e1volon",
+        "Dham\u00e1lovon",
+        "Dhamav\u00f3los"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263269
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fd5e12b4fb77052f6a034a6f3e9dfdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360218283,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360218283,
+    "wof:lastmodified":1537624676,
+    "wof:name":"Dhamavolos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75237000000001,
+    35.34552,
+    24.75237000000001,
+    35.34552
+],
+  "geometry": {"coordinates":[24.75237000000001,35.34552],"type":"Point"}
+}

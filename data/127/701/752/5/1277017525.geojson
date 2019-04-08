@@ -1,0 +1,92 @@
+{
+  "id": 1277017525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31641,37.71786,22.31641,37.71786",
+    "geom:latitude":37.71786,
+    "geom:longitude":22.31641,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Orchomenos",
+    "gn:country_code":"GR",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261297,
+    "gn:latitude":37.71786,
+    "gn:longitude":22.31641,
+    "gn:modification_date":"2015-11-11",
+    "gn:name":"Orchomen\u00f3s",
+    "gn:population":15,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03bb\u03c0\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03c7\u03bf\u03bc\u03b5\u03bd\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03c0\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_historical":[
+        "Kalpaki"
+    ],
+    "name:eng_x_preferred":[
+        "Orchomenos"
+    ],
+    "name:eng_x_variant":[
+        "Kalpaki"
+    ],
+    "name:und_x_variant":[
+        "Kalp\u00e1ki",
+        "Kalp\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261297
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ae217279062013b58701a17bd113c2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277017525,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277017525,
+    "wof:lastmodified":1537624582,
+    "wof:name":"Orchomenos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31641,
+    37.71786,
+    22.31641,
+    37.71786
+],
+  "geometry": {"coordinates":[22.31641,37.71786],"type":"Point"}
+}

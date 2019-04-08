@@ -1,0 +1,81 @@
+{
+  "id": 1293625175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35005,39.07921,22.35005,39.07921",
+    "geom:latitude":39.07921,
+    "geom:longitude":22.35005,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9159",
+    "gn:asciiname":"Nea Makrisi",
+    "gn:country_code":"GR",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256597,
+    "gn:latitude":39.07921,
+    "gn:longitude":22.35005,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"N\u00e9a M\u00e1krisi",
+    "gn:population":152,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u039c\u03ac\u03ba\u03c1\u03b9\u03c3\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Makrisi"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yios Athan\u00e1sios",
+        "K\u00e1to Alkh\u00e1ni",
+        "N\u00e9a M\u00e1krisi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256597
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3bd1492a3c8d443e5218b568901bf7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625175,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293625175,
+    "wof:lastmodified":1537624364,
+    "wof:name":"Nea Makrisi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35005,
+    39.07921,
+    22.35005,
+    39.07921
+],
+  "geometry": {"coordinates":[22.35005,39.07921],"type":"Point"}
+}

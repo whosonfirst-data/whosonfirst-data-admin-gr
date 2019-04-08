@@ -1,0 +1,77 @@
+{
+  "id": 1276802047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89529,41.23928,25.89529,41.23928",
+    "geom:latitude":41.23928,
+    "geom:longitude":25.89529,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9019",
+    "gn:asciiname":"Kato Kampi",
+    "gn:country_code":"GR",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735903,
+    "gn:latitude":41.23928,
+    "gn:longitude":25.89529,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"K\u00e1to Kamp\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Kamp\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03bc\u03c0\u03ae"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Kaberl\u00e9r",
+        "K\u00e1to Kamb\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735903
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"642f28c95ecaebc08f4883cd2488689b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276802047,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276802047,
+    "wof:lastmodified":1537624929,
+    "wof:name":"Kato Kampi",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89529,
+    41.23928,
+    25.89529,
+    41.23928
+],
+  "geometry": {"coordinates":[25.89529,41.23928],"type":"Point"}
+}

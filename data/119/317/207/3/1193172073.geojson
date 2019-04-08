@@ -1,0 +1,77 @@
+{
+  "id": 1193172073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74497,38.15094,20.74497,38.15094",
+    "geom:latitude":38.15094,
+    "geom:longitude":20.74497,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Afragia",
+    "gn:country_code":"GR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":265648,
+    "gn:latitude":38.15094,
+    "gn:longitude":20.74497,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Afragi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Afragi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c6\u03c1\u03b1\u03b3\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Afrayi\u00e1",
+        "Afrayi\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265648
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b4a73284c056fd3f7deab7d5b35ae821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193172073,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1193172073,
+    "wof:lastmodified":1537624787,
+    "wof:name":"Afragia",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74497,
+    38.15094000000001,
+    20.74497,
+    38.15094000000001
+],
+  "geometry": {"coordinates":[20.74497,38.15094000000001],"type":"Point"}
+}

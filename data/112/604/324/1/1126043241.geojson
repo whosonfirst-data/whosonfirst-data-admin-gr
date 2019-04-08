@@ -1,0 +1,82 @@
+{
+  "id": 1126043241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46556,39.8675,21.46556,39.8675",
+    "geom:latitude":39.8675,
+    "geom:longitude":21.46556,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":601,
+    "gn:population":601,
+    "iso:country":"GR",
+    "lbl:latitude":39.8675,
+    "lbl:longitude":21.46556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03bd\u03b1\u03bd\u03c4\u03b9\u03ac"
+    ],
+    "name:unk_x_variant":[
+        "Ostrov\u00f3s"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":265624,
+    "qs_pg:gn_pop":601,
+    "qs_pg:name":"Agnanti\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546962,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265624,
+        "qs_pg:id":546962
+    },
+    "wof:country":"GR",
+    "wof:created":1497302280,
+    "wof:geomhash":"4232796368e1903a89c56f6ce46997a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126043241,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126043241,
+    "wof:lastmodified":1509408682,
+    "wof:name":"Agnanti\u00e1",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":601,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46556,
+    39.8675,
+    21.46556,
+    39.8675
+],
+  "geometry": {"coordinates":[21.46556,39.8675],"type":"Point"}
+}

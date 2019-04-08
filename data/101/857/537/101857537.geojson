@@ -1,0 +1,140 @@
+{
+  "id": 101857537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.734205,40.625232,22.734205,40.625232",
+    "geom:latitude":40.625232,
+    "geom:longitude":22.734205,
+    "gn:population":7360,
+    "iso:country":"GR",
+    "lbl:latitude":40.625232,
+    "lbl:longitude":22.734205,
+    "mps:latitude":40.625232,
+    "mps:longitude":22.734205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0644\u0627\u0633\u062a\u0631\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u043a\u0438\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "Chalastra"
+    ],
+    "name:dut_x_preferred":[
+        "Chalastra"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03ac\u03c3\u03c4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chalastra"
+    ],
+    "name:fin_x_preferred":[
+        "Chal\u00e1stra"
+    ],
+    "name:fre_x_preferred":[
+        "Chalastra"
+    ],
+    "name:ger_x_preferred":[
+        "Chalastra"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03ac\u03c3\u03c4\u03c1\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Chalastra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e9\u30b9\u30c8\u30e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u045c\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u045c\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Khal\u00e1stra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0433\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Calestra"
+    ],
+    "name:swe_x_preferred":[
+        "Chal\u00e1stra"
+    ],
+    "name:unk_x_variant":[
+        "Koulo\u00fakia"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a7\u0391\u039b\u0391\u03a3\u03a4\u03a1\u0391",
+    "qs:loc_alt":"XALASTRA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":255,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734622,
+        "gp:id":952913,
+        "qs:id":129037,
+        "wd:id":"Q1059457",
+        "wk:page":"Chalastra"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dc77e4ddfb8005382bc514f917745511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857537,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857537,
+    "wof:lastmodified":1544743947,
+    "wof:name":"\u03a7\u0391\u039b\u0391\u03a3\u03a4\u03a1\u0391",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":7360,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.734205,
+    40.625232,
+    22.734205,
+    40.625232
+],
+  "geometry": {"coordinates":[22.734205,40.625232],"type":"Point"}
+}

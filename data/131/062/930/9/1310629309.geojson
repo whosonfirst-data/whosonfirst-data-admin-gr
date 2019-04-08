@@ -1,0 +1,73 @@
+{
+  "id": 1310629309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03839,38.09742,22.03839,38.09742",
+    "geom:latitude":38.09742,
+    "geom:longitude":22.03839,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Petsakoi",
+    "gn:country_code":"GR",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255370,
+    "gn:latitude":38.09742,
+    "gn:longitude":22.03839,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Pets\u00e1koi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pets\u00e1koi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c4\u03c3\u03ac\u03ba\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255370
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4e26ba27351fdc56e0d6bd357f0de0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310629309,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310629309,
+    "wof:lastmodified":1537624303,
+    "wof:name":"Petsakoi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03839,
+    38.09742,
+    22.03839,
+    38.09742
+],
+  "geometry": {"coordinates":[22.03839,38.09742],"type":"Point"}
+}

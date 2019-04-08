@@ -1,0 +1,74 @@
+{
+  "id": 1209951575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41531,37.89189,21.41531,37.89189",
+    "geom:latitude":37.89189,
+    "geom:longitude":21.41531,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Sklirou",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253595,
+    "gn:latitude":37.89189,
+    "gn:longitude":21.41531,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Skliro\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bb\u03b7\u03c1\u03bf\u03cd"
+    ],
+    "name:und_x_variant":[
+        "Skliro\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253595,
+        "wk:page":"Sklirou"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"acb387dfd009504b22aadef840132703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209951575,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209951575,
+    "wof:lastmodified":1537624228,
+    "wof:name":"Sklirou",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41531,
+    37.89189,
+    21.41531,
+    37.89189
+],
+  "geometry": {"coordinates":[21.41531,37.89189],"type":"Point"}
+}

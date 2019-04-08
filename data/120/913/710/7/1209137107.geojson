@@ -1,0 +1,70 @@
+{
+  "id": 1209137107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27344,39.45914,21.27344,39.45914",
+    "geom:latitude":39.45914,
+    "geom:longitude":21.27344,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"9113",
+    "gn:asciiname":"Kapriatsa",
+    "gn:country_code":"GR",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261100,
+    "gn:latitude":39.45914,
+    "gn:longitude":21.27344,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kapri\u00e1tsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c0\u03c1\u03b9\u03ac\u03c4\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kopri\u00e1tsa",
+        "Kapri\u00e1tsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261100
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b960d2683cf91d8d97e1a9f2970de423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209137107
+        }
+    ],
+    "wof:id":1209137107,
+    "wof:lastmodified":1537624574,
+    "wof:name":"Kapriatsa",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27344,
+    39.45914000000001,
+    21.27344,
+    39.45914000000001
+],
+  "geometry": {"coordinates":[21.27344,39.45914000000001],"type":"Point"}
+}

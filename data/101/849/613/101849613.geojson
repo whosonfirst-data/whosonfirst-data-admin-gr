@@ -1,0 +1,134 @@
+{
+  "id": 101849613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.648977,38.252014,20.648977,38.252014",
+    "geom:latitude":38.252014,
+    "geom:longitude":20.648977,
+    "gn:population":1347,
+    "iso:country":"GR",
+    "lbl:latitude":38.252014,
+    "lbl:longitude":20.648977,
+    "mps:latitude":38.252014,
+    "mps:longitude":20.648977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645\u064a\u060c \u0643\u064a\u0641\u0627\u0644\u064a\u0646\u064a\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Sami"
+    ],
+    "name:dut_x_preferred":[
+        "Sami"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bc\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03b1\u03bb\u03cc\u03c2",
+        "\u03a3\u03ac\u03bc\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Sami"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e1mi"
+    ],
+    "name:fra_x_preferred":[
+        "Sami"
+    ],
+    "name:fre_x_preferred":[
+        "Sami"
+    ],
+    "name:ger_x_preferred":[
+        "Sami"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03b7 \u039a\u03b5\u03c6\u03b1\u03bb\u03bb\u03bf\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Sami"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30df"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00e1mi"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e1mi"
+    ],
+    "name:unk_x_variant":[
+        "Yial\u00f3s"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0399\u039f\u039d\u0399\u0391 \u039d\u0397\u03a3\u0399\u0391",
+    "qs:a1_alt":"IONIA NHSIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KEFALLHNIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u0391\u039c\u0397",
+    "qs:loc_alt":"SAMH",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":162,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254123,
+        "gp:id":961475,
+        "qs:id":917274,
+        "qs_pg:id":917274,
+        "wd:id":"Q1021651",
+        "wk:page":"Sami, Cephalonia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e99b489355e091b4b6bd74bc7b17d6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849613,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":101849613,
+    "wof:lastmodified":1544741033,
+    "wof:name":"\u03a3\u0391\u039c\u0397",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":1347,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.648977,
+    38.252014,
+    20.648977,
+    38.252014
+],
+  "geometry": {"coordinates":[20.648977,38.252014],"type":"Point"}
+}

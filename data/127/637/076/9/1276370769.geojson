@@ -1,0 +1,73 @@
+{
+  "id": 1276370769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66257,35.33455,25.66257,35.33455",
+    "geom:latitude":35.33455,
+    "geom:longitude":25.66257,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310.0",
+    "gn:asciiname":"Agios Nikolaos Neapolis",
+    "gn:country_code":"GR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10792427,
+    "gn:latitude":35.33455,
+    "gn:longitude":25.66257,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"\u00c1gios Nik\u00f3laos Ne\u00e1polis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u039d\u03b5\u03ac\u03c0\u03bf\u03bb\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Nikolaos Neapolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792427
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a812d1485eac51a1bb408f8019e40a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276370769,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276370769,
+    "wof:lastmodified":1537625089,
+    "wof:name":"Agios Nikolaos Neapolis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66257,
+    35.33455,
+    25.66257,
+    35.33455
+],
+  "geometry": {"coordinates":[25.66257,35.33455],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293914625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53637,35.3634,23.53637,35.3634",
+    "geom:latitude":35.3634,
+    "geom:longitude":23.53637,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Livadia",
+    "gn:country_code":"GR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469368,
+    "gn:latitude":35.3634,
+    "gn:longitude":23.53637,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Liv\u00e1dia",
+    "gn:population":76,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Livadia"
+    ],
+    "name:und_x_variant":[
+        "Liv\u00e1dia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469368
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a6a3dc82273d41c518ad28c6909099cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293914625,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293914625,
+    "wof:lastmodified":1537625009,
+    "wof:name":"Livadia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53637,
+    35.3634,
+    23.53637,
+    35.3634
+],
+  "geometry": {"coordinates":[23.53637,35.3634],"type":"Point"}
+}

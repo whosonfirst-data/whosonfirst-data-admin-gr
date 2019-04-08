@@ -1,0 +1,80 @@
+{
+  "id": 1327064231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97591,37.13356,21.97591,37.13356",
+    "geom:latitude":37.13356,
+    "geom:longitude":21.97591,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Aristodimeio",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264648,
+    "gn:latitude":37.13356,
+    "gn:longitude":21.97591,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Aristod\u00edmeio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Aristod\u00edmeio"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03b9\u03c3\u03c4\u03bf\u03b4\u03ae\u03bc\u03b5\u03b9\u03bf",
+        "Aristod\u00edmeion",
+        "\u0391\u03c1\u03b9\u03c3\u03c4\u03bf\u03b4\u03ae\u03bc\u03b5\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Has\u00e1n Pash\u00e1",
+        "Aristodh\u00edmion Khas\u00e1n Passa",
+        "Aristodh\u00edmion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264648
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6d9627b2a9e3badd1f71357700ab14ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327064231,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327064231,
+    "wof:lastmodified":1537624735,
+    "wof:name":"Aristodimeio",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97591,
+    37.13356,
+    21.97591,
+    37.13356
+],
+  "geometry": {"coordinates":[21.97591,37.13356],"type":"Point"}
+}

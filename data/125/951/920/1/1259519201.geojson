@@ -1,0 +1,79 @@
+{
+  "id": 1259519201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46931,37.05117,25.46931,37.05117",
+    "geom:latitude":37.05117,
+    "geom:longitude":25.46931,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292.0",
+    "gn:asciiname":"Damalas",
+    "gn:country_code":"GR",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794111,
+    "gn:latitude":37.05117,
+    "gn:longitude":25.46931,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Damal\u00e1s",
+    "gn:population":32,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03bc\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Damalas"
+    ],
+    "name:und_x_variant":[
+        "Dhamal\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794111
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"02a505a3a87f0da27a8acc204f94e75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259519201,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1259519201,
+    "wof:lastmodified":1537625091,
+    "wof:name":"Damalas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46931,
+    37.05117,
+    25.46931,
+    37.05117
+],
+  "geometry": {"coordinates":[25.46931,37.05117],"type":"Point"}
+}

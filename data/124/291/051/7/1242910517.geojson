@@ -1,0 +1,73 @@
+{
+  "id": 1242910517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68431,35.20565,24.68431,35.20565",
+    "geom:latitude":35.20565,
+    "geom:longitude":24.68431,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Petrokhorion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255402,
+    "gn:latitude":35.20565,
+    "gn:longitude":24.68431,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Petrokh\u00f3rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apos\u00e9ti",
+        "Petrokh\u00f3ri",
+        "Petrokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255402
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4e5fa81a897b0f6dceff32accb87c6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242910517,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242910517,
+    "wof:lastmodified":1537624305,
+    "wof:name":"Petrokhorion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68431,
+    35.20565,
+    24.68431,
+    35.20565
+],
+  "geometry": {"coordinates":[24.68431,35.20565],"type":"Point"}
+}

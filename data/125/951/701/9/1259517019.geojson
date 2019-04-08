@@ -1,0 +1,73 @@
+{
+  "id": 1259517019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57228,38.63779,22.57228,38.63779",
+    "geom:latitude":38.63779,
+    "geom:longitude":22.57228,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9158",
+    "gn:asciiname":"Pefkovrysi",
+    "gn:country_code":"GR",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535023,
+    "gn:latitude":38.63779,
+    "gn:longitude":22.57228,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Pefk\u00f3vrysi",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c5\u03ba\u03cc\u03b2\u03c1\u03c5\u03c3\u03b7"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535023
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c42588dcf529239641b99b0a09def32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259517019,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1259517019,
+    "wof:lastmodified":1537551191,
+    "wof:name":"Pefkovrysi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57228,
+    38.63779,
+    22.57228,
+    38.63779
+],
+  "geometry": {"coordinates":[22.57228,38.63779],"type":"Point"}
+}

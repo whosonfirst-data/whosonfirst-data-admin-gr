@@ -1,0 +1,69 @@
+{
+  "id": 1209035615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4656,38.04356,23.4656,38.04356",
+    "geom:latitude":38.04356,
+    "geom:longitude":23.4656,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230",
+    "gn:asciiname":"Loutsa Mandras",
+    "gn:country_code":"GR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9036823,
+    "gn:latitude":38.04356,
+    "gn:longitude":23.4656,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Lo\u00fatsa M\u00e1ndras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03c4\u03c3\u03b1 \u039c\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Loutsa Mandras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036823
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fa30a50808bffd19051a9dd06443ad79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209035615
+        }
+    ],
+    "wof:id":1209035615,
+    "wof:lastmodified":1537625044,
+    "wof:name":"Loutsa Mandras",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4656,
+    38.04356,
+    23.4656,
+    38.04356
+],
+  "geometry": {"coordinates":[23.4656,38.04356],"type":"Point"}
+}

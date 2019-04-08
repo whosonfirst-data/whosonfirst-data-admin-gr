@@ -1,0 +1,79 @@
+{
+  "id": 1226783189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2629,39.35999,26.2629,39.35999",
+    "geom:latitude":39.35999,
+    "geom:longitude":26.2629,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Argennos",
+    "gn:country_code":"GR",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264534,
+    "gn:latitude":39.35999,
+    "gn:longitude":26.2629,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"\u00c1rgennos",
+    "gn:population":209,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03b3\u03b5\u03bd\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Argennos"
+    ],
+    "name:und_x_variant":[
+        "\u00c1ryenos",
+        "\u00c1ryennos",
+        "\u00c1rgennos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264534
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d575ba9c75fba10cde765b43d11b389d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1226783189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226783189,
+    "wof:lastmodified":1537624730,
+    "wof:name":"Argennos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2629,
+    39.35999,
+    26.2629,
+    39.35999
+],
+  "geometry": {"coordinates":[26.2629,39.35999],"type":"Point"}
+}

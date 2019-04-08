@@ -1,0 +1,74 @@
+{
+  "id": 1209850421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97463,37.84217,21.97463,37.84217",
+    "geom:latitude":37.84217,
+    "geom:longitude":21.97463,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133.0",
+    "gn:asciiname":"Paleos Paos",
+    "gn:country_code":"GR",
+    "gn:dem":628,
+    "gn:elevation":"647.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257237,
+    "gn:latitude":37.84217,
+    "gn:longitude":21.97463,
+    "gn:modification_date":"2016-09-19",
+    "gn:name":"Paleos Paos",
+    "gn:population":253,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c2 \u03a0\u03ac\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257237
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9beb2df1132be22a75e83f71aa84a85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209850421,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209850421,
+    "wof:lastmodified":1537551221,
+    "wof:name":"Paleos Paos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":253,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97463,
+    37.84217,
+    21.97463,
+    37.84217
+],
+  "geometry": {"coordinates":[21.97463,37.84217],"type":"Point"}
+}

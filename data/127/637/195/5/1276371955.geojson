@@ -1,0 +1,85 @@
+{
+  "id": 1276371955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71222,38.69131,20.71222,38.69131",
+    "geom:latitude":38.69131,
+    "geom:longitude":20.71222,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Yenion",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251451,
+    "gn:latitude":38.69131,
+    "gn:longitude":20.71222,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Y\u00e9nion",
+    "gn:population":86,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ad\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Geni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Akhouria",
+        "Y\u00e9nion",
+        "Yeni",
+        "Geni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251451
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"19e999e0d76e338aba05e4aa95e9c7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276371955,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1276371955,
+    "wof:lastmodified":1537624141,
+    "wof:name":"Yenion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71222,
+    38.69131,
+    20.71222,
+    38.69131
+],
+  "geometry": {"coordinates":[20.71222,38.69131],"type":"Point"}
+}

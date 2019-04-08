@@ -1,0 +1,101 @@
+{
+  "id": 1125823661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63861,39.88806,21.63861,39.88806",
+    "geom:latitude":39.88806,
+    "geom:longitude":21.63861,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":198,
+    "gn:population":198,
+    "iso:country":"GR",
+    "lbl:latitude":39.88806,
+    "lbl:longitude":21.63861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0438\u0444\u0438\u043b\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Trifylli"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03c6\u03cd\u03bb\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03b9\u03c6\u03cd\u03bb\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Trifylli"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03c6\u03cd\u03bb\u03bb\u03b9 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u043b\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Trif\u00edlli"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252670,
+    "qs_pg:gn_pop":198,
+    "qs_pg:name":"Trif\u00fdllion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":79740,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252670,
+        "qs_pg:id":79740,
+        "wd:id":"Q12296978"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292180,
+    "wof:geomhash":"4187547e01a6360dbaefbde130cd6120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125823661,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125823661,
+    "wof:lastmodified":1553816555,
+    "wof:name":"Trif\u00fdllion",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63861,
+    39.88806,
+    21.63861,
+    39.88806
+],
+  "geometry": {"coordinates":[21.63861,39.88806],"type":"Point"}
+}

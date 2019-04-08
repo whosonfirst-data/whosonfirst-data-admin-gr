@@ -1,0 +1,95 @@
+{
+  "id": 1125968977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53333,40.5,25.53333,40.5",
+    "geom:latitude":40.5,
+    "geom:longitude":25.53333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":40.5,
+    "lbl:longitude":25.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Palai\u00f3poli"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c0\u03bf\u03bb\u03b7",
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Pali\u00f3poli"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734808,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Palai\u00f3polis",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167830,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":958865,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734808,
+        "gp:id":958865,
+        "qs_pg:id":1167830
+    },
+    "wof:country":"GR",
+    "wof:created":1497298088,
+    "wof:geomhash":"94076e0aada4c5986ab7d9a1cb4f1e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125968977,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125968977,
+    "wof:lastmodified":1509403842,
+    "wof:name":"Palai\u00f3polis",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53333,
+    40.5,
+    25.53333,
+    40.5
+],
+  "geometry": {"coordinates":[25.53333,40.5],"type":"Point"}
+}

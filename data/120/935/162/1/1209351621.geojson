@@ -1,0 +1,67 @@
+{
+  "id": 1209351621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30452,37.62399,26.30452,37.62399",
+    "geom:latitude":37.62399,
+    "geom:longitude":26.30452,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Therma",
+    "gn:country_code":"GR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265947,
+    "gn:latitude":37.62399,
+    "gn:longitude":26.30452,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Th\u00e9rma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Th\u00e9rma"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03ad\u03c1\u03bc\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265947
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0834ef84b2f4124ba3a166808c3bd0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209351621
+        }
+    ],
+    "wof:id":1209351621,
+    "wof:lastmodified":1537625115,
+    "wof:name":"Therma",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30452,
+    37.62399,
+    26.30452,
+    37.62399
+],
+  "geometry": {"coordinates":[26.30452,37.62399],"type":"Point"}
+}

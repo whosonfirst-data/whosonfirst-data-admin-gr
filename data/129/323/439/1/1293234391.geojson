@@ -1,0 +1,79 @@
+{
+  "id": 1293234391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68675,35.09475,25.68675,35.09475",
+    "geom:latitude":35.09475,
+    "geom:longitude":25.68675,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Prina",
+    "gn:country_code":"GR",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254691,
+    "gn:latitude":35.09475,
+    "gn:longitude":25.68675,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Pr\u00edna",
+    "gn:population":90,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Prina"
+    ],
+    "name:und_x_variant":[
+        "Pr\u00edna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254691
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bd1740b59a56ea9afd4393963f991c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293234391,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293234391,
+    "wof:lastmodified":1537624276,
+    "wof:name":"Prina",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68675,
+    35.09475,
+    25.68675,
+    35.09475
+],
+  "geometry": {"coordinates":[25.68675,35.09475],"type":"Point"}
+}

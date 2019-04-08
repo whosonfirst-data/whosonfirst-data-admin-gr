@@ -1,0 +1,78 @@
+{
+  "id": 1293718625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0625,39.41844,21.0625,39.41844",
+    "geom:latitude":39.41844,
+    "geom:longitude":21.0625,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Selio",
+    "gn:country_code":"GR",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253868,
+    "gn:latitude":39.41844,
+    "gn:longitude":21.0625,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Seli\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Seli\u00f3n"
+    ],
+    "name:ell_x_variant":[
+        "Seli\u00f3",
+        "\u03a3\u03b5\u03bb\u03b9\u03cc",
+        "\u03a3\u03b5\u03bb\u03b9\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "S\u00edlion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253868
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"012c45dedb98383851fb05a4f5d218ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293718625,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293718625,
+    "wof:lastmodified":1537624241,
+    "wof:name":"Selio",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0625,
+    39.41844,
+    21.0625,
+    39.41844
+],
+  "geometry": {"coordinates":[21.0625,39.41844],"type":"Point"}
+}

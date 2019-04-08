@@ -1,0 +1,72 @@
+{
+  "id": 1242808735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12003,39.13442,22.12003,39.13442",
+    "geom:latitude":39.13442,
+    "geom:longitude":22.12003,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9096",
+    "gn:asciiname":"Kato Ktimeni",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260545,
+    "gn:latitude":39.13442,
+    "gn:longitude":22.12003,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"K\u00e1to Ktim\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e1to Dhran\u00edsta",
+        "K\u00e1to Ktim\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260545
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63eeb95eb1192ac560c1973667b09673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242808735,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242808735,
+    "wof:lastmodified":1537624546,
+    "wof:name":"Kato Ktimeni",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12003,
+    39.13442,
+    22.12003,
+    39.13442
+],
+  "geometry": {"coordinates":[22.12003,39.13442],"type":"Point"}
+}

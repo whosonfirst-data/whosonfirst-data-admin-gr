@@ -1,0 +1,80 @@
+{
+  "id": 1242708571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92439,38.99804,22.92439,38.99804",
+    "geom:latitude":38.99804,
+    "geom:longitude":22.92439,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Ayioi Theodhoroi",
+    "gn:country_code":"GR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264063,
+    "gn:latitude":38.99804,
+    "gn:longitude":22.92439,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"\u00c1yioi The\u00f3dhoroi",
+    "gn:population":318,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Agioi Theodoroi"
+    ],
+    "name:und_x_variant":[
+        "\u00c1uioi The\u00f3dhoroi",
+        "\u00c1yioi The\u00f3dhoroi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264063
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4c20e46a8516786b804ad44eef8b917a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242708571,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242708571,
+    "wof:lastmodified":1537624711,
+    "wof:name":"Ayioi Theodhoroi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":318,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92439,
+    38.99804,
+    22.92439,
+    38.99804
+],
+  "geometry": {"coordinates":[22.92439,38.99804],"type":"Point"}
+}

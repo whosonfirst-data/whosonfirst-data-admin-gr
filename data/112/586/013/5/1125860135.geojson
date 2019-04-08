@@ -1,0 +1,80 @@
+{
+  "id": 1125860135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.517506,36.869038,25.517506,36.869038",
+    "geom:latitude":36.869038,
+    "geom:longitude":25.517506,
+    "gn:gn_country":"GR",
+    "iso:country":"GR",
+    "lbl:latitude":36.869038,
+    "lbl:longitude":25.517506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:name":"Skhoino\u00fassa",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":79,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":79,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1102196,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962313,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":962313,
+        "qs_pg:id":1102196
+    },
+    "wof:country":"GR",
+    "wof:created":1497293793,
+    "wof:geomhash":"1108c08d11952f7dee2c094a925bfc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125860135,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125860135,
+    "wof:lastmodified":1509396539,
+    "wof:name":"Skhoino\u00fassa",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.517506,
+    36.869038,
+    25.517506,
+    36.869038
+],
+  "geometry": {"coordinates":[25.517506,36.869038],"type":"Point"}
+}

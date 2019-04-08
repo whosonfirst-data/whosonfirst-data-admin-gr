@@ -1,0 +1,72 @@
+{
+  "id": 1242611979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45768,36.38802,25.45768,36.38802",
+    "geom:latitude":36.38802,
+    "geom:longitude":25.45768,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9270",
+    "gn:asciiname":"Exo Gonia",
+    "gn:country_code":"GR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262551,
+    "gn:latitude":36.38802,
+    "gn:longitude":25.45768,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"\u00c9xo Goni\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0388\u03be\u03c9 \u0393\u03c9\u03bd\u03b9\u03ac",
+        "Exo Ghonia",
+        "\u00c9xo Goni\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262551
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"207efbda924a6fd4eed9771a2b19095f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242611979,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1242611979,
+    "wof:lastmodified":1537624638,
+    "wof:name":"Exo Gonia",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45768,
+    36.38802,
+    25.45768,
+    36.38802
+],
+  "geometry": {"coordinates":[25.45768,36.38802],"type":"Point"}
+}

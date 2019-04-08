@@ -1,0 +1,77 @@
+{
+  "id": 1226078701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50791,37.69822,23.50791,37.69822",
+    "geom:latitude":37.69822,
+    "geom:longitude":23.50791,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9208",
+    "gn:asciiname":"Vlakhidhes",
+    "gn:country_code":"GR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251899,
+    "gn:latitude":37.69822,
+    "gn:longitude":23.50791,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Vl\u00e1khidhes",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03ac\u03c7\u03b7\u03b4\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Vl\u00e1kidhes",
+        "Vl\u00e1khidhes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251899
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f316b177f1bf50ba532af5c1775cd504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226078701,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226078701,
+    "wof:lastmodified":1537624160,
+    "wof:name":"Vlakhidhes",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50791,
+    37.69822,
+    23.50791,
+    37.69822
+],
+  "geometry": {"coordinates":[23.50791,37.69822],"type":"Point"}
+}

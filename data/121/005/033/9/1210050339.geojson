@@ -1,0 +1,74 @@
+{
+  "id": 1210050339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88709,38.56635,25.88709,38.56635",
+    "geom:latitude":38.56635,
+    "geom:longitude":25.88709,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"50.0",
+    "gn:admin3_code":"9266",
+    "gn:asciiname":"Kosmados",
+    "gn:country_code":"GR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444889,
+    "gn:latitude":38.56635,
+    "gn:longitude":25.88709,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Kosm\u00e1dos",
+    "gn:population":16,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c3\u03bc\u03ac\u03b4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kosmados"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444889
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cdfe7c52e4b26b5cd9c63a554188fc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1210050339,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210050339,
+    "wof:lastmodified":1537624793,
+    "wof:name":"Kosmados",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88709,
+    38.56635,
+    25.88709,
+    38.56635
+],
+  "geometry": {"coordinates":[25.88709,38.56635],"type":"Point"}
+}

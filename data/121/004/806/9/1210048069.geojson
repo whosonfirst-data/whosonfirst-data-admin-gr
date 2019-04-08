@@ -1,0 +1,73 @@
+{
+  "id": 1210048069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1742,35.25644,24.1742,35.25644",
+    "geom:latitude":35.25644,
+    "geom:longitude":24.1742,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9324",
+    "gn:asciiname":"Chalara",
+    "gn:country_code":"GR",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523536,
+    "gn:latitude":35.25644,
+    "gn:longitude":24.1742,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ch\u00e1lara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ch\u00e1lara"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03bb\u03b1\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523536
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2e16ec8912ecb0ea50ded61371b5f11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210048069,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1210048069,
+    "wof:lastmodified":1537625016,
+    "wof:name":"Chalara",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1742,
+    35.25644000000001,
+    24.1742,
+    35.25644000000001
+],
+  "geometry": {"coordinates":[24.1742,35.25644000000001],"type":"Point"}
+}

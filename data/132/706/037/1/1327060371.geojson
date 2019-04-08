@@ -1,0 +1,74 @@
+{
+  "id": 1327060371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79695,38.07404,20.79695,38.07404",
+    "geom:latitude":38.07404,
+    "geom:longitude":20.79695,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Skala",
+    "gn:country_code":"GR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692669,
+    "gn:latitude":38.07404,
+    "gn:longitude":20.79695,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b1\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Skala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692669,
+        "wk:page":"Skala%2C_Kefalonia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"74856a3e1291da26ccb216aa9c9a2ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327060371,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327060371,
+    "wof:lastmodified":1537563175,
+    "wof:name":"Skala",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79695,
+    38.07404,
+    20.79695,
+    38.07404
+],
+  "geometry": {"coordinates":[20.79695,38.07404],"type":"Point"}
+}

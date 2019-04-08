@@ -1,0 +1,73 @@
+{
+  "id": 1343792707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67975,38.5524,22.67975,38.5524",
+    "geom:latitude":38.5524,
+    "geom:longitude":22.67975,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9158",
+    "gn:asciiname":"Iera Moni Agias Marinas",
+    "gn:country_code":"GR",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9535029,
+    "gn:latitude":38.5524,
+    "gn:longitude":22.67975,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Ier\u00e1 Mon\u00ed Ag\u00edas Mar\u00ednas",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03b5\u03c1\u03ac \u039c\u03bf\u03bd\u03ae \u0391\u03b3\u03af\u03b1\u03c2 \u039c\u03b1\u03c1\u03af\u03bd\u03b1\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535029
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9d9e0bc24d4f62040b23927c304e7095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343792707,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343792707,
+    "wof:lastmodified":1537551191,
+    "wof:name":"Iera Moni Agias Marinas",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67975,
+    38.5524,
+    22.67975,
+    38.5524
+],
+  "geometry": {"coordinates":[22.67975,38.5524],"type":"Point"}
+}

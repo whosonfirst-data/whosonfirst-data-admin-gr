@@ -1,0 +1,79 @@
+{
+  "id": 1226572259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64735,35.28882,25.64735,35.28882",
+    "geom:latitude":35.28882,
+    "geom:longitude":25.64735,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Perampela",
+    "gn:country_code":"GR",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605520,
+    "gn:latitude":35.28882,
+    "gn:longitude":25.64735,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Per\u00e1mpela",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03ac\u03bc\u03c0\u03b5\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Perampela"
+    ],
+    "name:und_x_variant":[
+        "Per\u00e1mpela"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605520
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e1e4e485c6de10c92ca6741af647eaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226572259,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226572259,
+    "wof:lastmodified":1537625025,
+    "wof:name":"Perampela",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64735,
+    35.28882,
+    25.64735,
+    35.28882
+],
+  "geometry": {"coordinates":[25.64735,35.28882],"type":"Point"}
+}

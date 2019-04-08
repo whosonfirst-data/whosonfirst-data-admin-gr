@@ -1,0 +1,73 @@
+{
+  "id": 1260115243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0728,35.30484,25.0728,35.30484",
+    "geom:latitude":35.30484,
+    "geom:longitude":25.0728,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9305",
+    "gn:asciiname":"Metochi Katechaki",
+    "gn:country_code":"GR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560592,
+    "gn:latitude":35.30484,
+    "gn:longitude":25.0728,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Met\u00f3chi Katech\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Met\u00f3chi Katech\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c4\u03cc\u03c7\u03b9 \u039a\u03b1\u03c4\u03b5\u03c7\u03ac\u03ba\u03b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560592
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ebe0d7fb4c2b233d165d484e8bc82622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260115243,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260115243,
+    "wof:lastmodified":1537625022,
+    "wof:name":"Metochi Katechaki",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0728,
+    35.30484000000001,
+    25.0728,
+    35.30484000000001
+],
+  "geometry": {"coordinates":[25.0728,35.30484000000001],"type":"Point"}
+}

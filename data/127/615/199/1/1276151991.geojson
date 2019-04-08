@@ -1,0 +1,76 @@
+{
+  "id": 1276151991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53576,37.94917,23.53576,37.94917",
+    "geom:latitude":37.94917,
+    "geom:longitude":23.53576,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9211",
+    "gn:asciiname":"Spithari",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9470391,
+    "gn:latitude":37.94917,
+    "gn:longitude":23.53576,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Spith\u00e1ri",
+    "gn:population":136,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03b9\u03b8\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Spithari"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9470391
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b404170d8b0a589c90f2af09b1056c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276151991,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1276151991,
+    "wof:lastmodified":1537625070,
+    "wof:name":"Spithari",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53576,
+    37.94917,
+    23.53576,
+    37.94917
+],
+  "geometry": {"coordinates":[23.53576,37.94917],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326464367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34314,40.12896,24.34314,40.12896",
+    "geom:latitude":40.12896,
+    "geom:longitude":24.34314,
+    "gn:admin1_code":"736572",
+    "gn:asciiname":"Skiti Kafsokalyvion",
+    "gn:country_code":"GR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":734231,
+    "gn:latitude":40.12896,
+    "gn:longitude":24.34314,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Sk\u00edti Kafsokal\u00fdvion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sk\u00edti Kafsokal\u00fdvion"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03ae\u03c4\u03b7 \u039a\u03b1\u03c5\u03c3\u03bf\u03ba\u03b1\u03bb\u03cd\u03b2\u03b9\u03c9\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kapsokal\u00edvia",
+        "Sk\u00edti Kavsokal\u00edvia",
+        "Sk\u00edti Ay\u00edas Tri\u00e1dhos",
+        "Skiti Kavsokalivion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734231
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b4b101d759fac3fed1afbde185d04f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326464367,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1326464367,
+    "wof:lastmodified":1537624829,
+    "wof:name":"Skiti Kafsokalyvion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34314,
+    40.12896,
+    24.34314,
+    40.12896
+],
+  "geometry": {"coordinates":[24.34314,40.12896],"type":"Point"}
+}

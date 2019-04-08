@@ -1,0 +1,76 @@
+{
+  "id": 1310140839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52496,40.45405,21.52496,40.45405",
+    "geom:latitude":40.45405,
+    "geom:longitude":21.52496,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9067",
+    "gn:asciiname":"Vlasti",
+    "gn:country_code":"GR",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733883,
+    "gn:latitude":40.45405,
+    "gn:longitude":21.52496,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Vl\u00e1sti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03ac\u03c3\u03c4\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Vl\u00e1tsi",
+        "Polin\u00e9ri",
+        "Vl\u00e1sti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733883,
+        "wk:page":"Vlasti"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e4a3908dcadbd8fbc22f9257f1c1913c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310140839,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1310140839,
+    "wof:lastmodified":1537624811,
+    "wof:name":"Vlasti",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52496,
+    40.45405,
+    21.52496,
+    40.45405
+],
+  "geometry": {"coordinates":[21.52496,40.45405],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1343595217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17054,40.69332,21.17054,40.69332",
+    "geom:latitude":40.69332,
+    "geom:longitude":21.17054,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9071",
+    "gn:asciiname":"Kotas",
+    "gn:country_code":"GR",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735595,
+    "gn:latitude":40.69332,
+    "gn:longitude":21.17054,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"K\u00f3tas",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a1\u03bf\u03cd\u03bb\u03b9\u03b1",
+        "\u039a\u03b1\u03c4\u03c9\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ce\u03c4\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03cd\u03bb\u03b9\u03b1",
+        "\u039a\u03b1\u03c4\u03c9\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_historical":[
+        "Katochori",
+        "Roulia"
+    ],
+    "name:eng_x_preferred":[
+        "Kotas"
+    ],
+    "name:eng_x_variant":[
+        "Katochori",
+        "Roulia"
+    ],
+    "name:und_x_variant":[
+        "Ro\u00falia",
+        "K\u00f3tta",
+        "Katokh\u00f3ri",
+        "K\u00f3tas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735595
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4deb3840d8b759168f3155f7378dc73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343595217,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343595217,
+    "wof:lastmodified":1537624913,
+    "wof:name":"Kotas",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17054,
+    40.69332,
+    21.17054,
+    40.69332
+],
+  "geometry": {"coordinates":[21.17054,40.69332],"type":"Point"}
+}

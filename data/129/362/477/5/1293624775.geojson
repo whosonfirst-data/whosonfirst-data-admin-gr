@@ -1,0 +1,84 @@
+{
+  "id": 1293624775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73195,40.87864,24.73195,40.87864",
+    "geom:latitude":40.87864,
+    "geom:longitude":24.73195,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Monastiraki",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735061,
+    "gn:latitude":40.87864,
+    "gn:longitude":24.73195,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Monastir\u00e1ki",
+    "gn:population":230,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Monastiraki"
+    ],
+    "name:und_x_variant":[
+        "Res\u00edt-B\u00e9\u00ef",
+        "Monastir\u00e1ki",
+        "Monastir\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735061
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"36a5ffe145f62622c5110a837eefd4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293624775,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293624775,
+    "wof:lastmodified":1537624877,
+    "wof:name":"Monastiraki",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73195,
+    40.87864,
+    24.73195,
+    40.87864
+],
+  "geometry": {"coordinates":[24.73195,40.87864],"type":"Point"}
+}

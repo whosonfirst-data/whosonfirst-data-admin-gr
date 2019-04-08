@@ -1,0 +1,75 @@
+{
+  "id": 1276587501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41131,41.08879,25.41131,41.08879",
+    "geom:latitude":41.08879,
+    "geom:longitude":25.41131,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Kosmio",
+    "gn:country_code":"GR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735601,
+    "gn:latitude":41.08879,
+    "gn:longitude":25.41131,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"K\u00f3smio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c3\u03bc\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "K\u00f3smio",
+        "K\u00f3smion",
+        "\u039a\u03cc\u03c3\u03bc\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735601
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d8b8912333d3daf4726e342dbe1dd096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276587501,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276587501,
+    "wof:lastmodified":1537624913,
+    "wof:name":"Kosmio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41131,
+    41.08879,
+    25.41131,
+    41.08879
+],
+  "geometry": {"coordinates":[25.41131,41.08879],"type":"Point"}
+}

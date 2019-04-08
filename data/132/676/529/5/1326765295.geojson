@@ -1,0 +1,85 @@
+{
+  "id": 1326765295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5102,36.75709,24.5102,36.75709",
+    "geom:latitude":36.75709,
+    "geom:longitude":24.5102,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9287",
+    "gn:asciiname":"Fylakopi",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644205,
+    "gn:latitude":36.75709,
+    "gn:longitude":24.5102,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Fylakop\u00ed",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u03a6\u03bb\u03b1\u03ba\u03c9\u03c0\u03ae"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03c5\u03bb\u03b1\u03ba\u03c9\u03c0\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bb\u03b1\u03ba\u03c9\u03c0\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Fylakopi"
+    ],
+    "name:und_x_variant":[
+        "Filakopi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644205
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6fe56a630b7363e31c6cd202d754b7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326765295,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1326765295,
+    "wof:lastmodified":1537625034,
+    "wof:name":"Fylakopi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5102,
+    36.75709000000001,
+    24.5102,
+    36.75709000000001
+],
+  "geometry": {"coordinates":[24.5102,36.75709000000001],"type":"Point"}
+}

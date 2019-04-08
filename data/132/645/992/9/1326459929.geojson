@@ -1,0 +1,90 @@
+{
+  "id": 1326459929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16444,36.95681,22.16444,36.95681",
+    "geom:latitude":36.95681,
+    "geom:longitude":22.16444,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9253",
+    "gn:asciiname":"Megali Mantineia",
+    "gn:country_code":"GR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257430,
+    "gn:latitude":36.95681,
+    "gn:longitude":22.16444,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"Meg\u00e1li Mant\u00edneia",
+    "gn:population":191,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0386\u03bd\u03c9 \u039c\u03b1\u03bd\u03c4\u03af\u03bd\u03b5\u03b9\u03b1",
+        "\u0386\u03bd\u03c9 \u03a7\u03ce\u03c1\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u039c\u03b1\u03bd\u03c4\u03af\u03bd\u03b5\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u039c\u03b1\u03bd\u03c4\u03af\u03bd\u03b5\u03b9\u03b1",
+        "\u0386\u03bd\u03c9 \u03a7\u03ce\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Megali Mantineia"
+    ],
+    "name:und_x_variant":[
+        "Meg\u00e1li Mantin\u00eda",
+        "Meg\u00e1les Mand\u00ednies",
+        "Meg\u00e1li Mand\u00ednia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257430,
+        "wk:page":"Megali_Mantineia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fac6883b5520217c79e694cfa7c785c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326459929,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1326459929,
+    "wof:lastmodified":1537624405,
+    "wof:name":"Megali Mantineia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16444,
+    36.95681,
+    22.16444,
+    36.95681
+],
+  "geometry": {"coordinates":[22.16444,36.95681],"type":"Point"}
+}

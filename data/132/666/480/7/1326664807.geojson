@@ -1,0 +1,83 @@
+{
+  "id": 1326664807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41159,36.57254,22.41159,36.57254",
+    "geom:latitude":36.57254,
+    "geom:longitude":22.41159,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Vamvaka",
+    "gn:country_code":"GR",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252309,
+    "gn:latitude":36.57254,
+    "gn:longitude":22.41159,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"V\u00e1mvaka",
+    "gn:population":32,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03bc\u03b2\u03b1\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bc\u03c0\u03b1\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vamvaka"
+    ],
+    "name:und_x_variant":[
+        "V\u00e1mbaka",
+        "V\u00e1mvaka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252309
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cf195123b0ef1a6de7d0613a09af9c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326664807,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1326664807,
+    "wof:lastmodified":1537624178,
+    "wof:name":"Vamvaka",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41159,
+    36.57254,
+    22.41159,
+    36.57254
+],
+  "geometry": {"coordinates":[22.41159,36.57254],"type":"Point"}
+}

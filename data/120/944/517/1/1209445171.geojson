@@ -1,0 +1,77 @@
+{
+  "id": 1209445171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39146,38.11709,22.39146,38.11709",
+    "geom:latitude":38.11709,
+    "geom:longitude":22.39146,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Ano Aiyialos",
+    "gn:country_code":"GR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264970,
+    "gn:latitude":38.11709,
+    "gn:longitude":22.39146,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"\u00c1no Aiyial\u00f3s",
+    "gn:population":136,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0391\u03b9\u03b3\u03b9\u03b1\u03bb\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Aigialos"
+    ],
+    "name:und_x_variant":[
+        "Ep\u00e1no P\u00e1los",
+        "Ep\u00e1no Yial\u00f3s",
+        "\u00c1no Aiyial\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264970
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"afe4fba1f6a566b190d71a129e6ec8bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209445171
+        }
+    ],
+    "wof:id":1209445171,
+    "wof:lastmodified":1537624754,
+    "wof:name":"Ano Aiyialos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39146,
+    38.11709000000001,
+    22.39146,
+    38.11709000000001
+],
+  "geometry": {"coordinates":[22.39146,38.11709000000001],"type":"Point"}
+}

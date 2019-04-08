@@ -1,0 +1,74 @@
+{
+  "id": 1243002481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82906,37.79098,26.82906,37.79098",
+    "geom:latitude":37.79098,
+    "geom:longitude":26.82906,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Margharhites",
+    "gn:country_code":"GR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383239,
+    "gn:latitude":37.79098,
+    "gn:longitude":26.82906,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Margharh\u00edtes",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b3\u03b1\u03c1\u03af\u03c4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Margarites"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383239
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"806f74f9f6fde85dae59286ef5c113e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1243002481,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243002481,
+    "wof:lastmodified":1537625062,
+    "wof:name":"Margharhites",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82906,
+    37.79098,
+    26.82906,
+    37.79098
+],
+  "geometry": {"coordinates":[26.82906,37.79098],"type":"Point"}
+}

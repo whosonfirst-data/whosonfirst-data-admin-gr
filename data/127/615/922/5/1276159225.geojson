@@ -1,0 +1,88 @@
+{
+  "id": 1276159225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9387,41.00683,23.9387,41.00683",
+    "geom:latitude":41.00683,
+    "geom:longitude":23.9387,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9053",
+    "gn:asciiname":"Stathmos Angistas",
+    "gn:country_code":"GR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659360,
+    "gn:latitude":41.00683,
+    "gn:longitude":23.9387,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"Stathm\u00f3s Ang\u00edstas",
+    "gn:population":177,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0442\u043c\u043e\u0441 \u0410\u043d\u0433\u0438\u0441\u0442\u0438\u0441"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u0430\u0440\u0430 \u0410\u043d\u0433\u0438\u0441\u0442\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2 \u0391\u03b3\u03b3\u03af\u03c3\u03c4\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2 \u0391\u03b3\u03b3\u03af\u03c3\u03c4\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stathmos Angistas"
+    ],
+    "name:und_x_variant":[
+        "Stathm\u00f3s Ang\u00edstas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659360
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"db6ddfa6343377ca76e73e9b056b194e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276159225,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1276159225,
+    "wof:lastmodified":1537625035,
+    "wof:name":"Stathmos Angistas",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9387,
+    41.00683,
+    23.9387,
+    41.00683
+],
+  "geometry": {"coordinates":[23.9387,41.00683],"type":"Point"}
+}

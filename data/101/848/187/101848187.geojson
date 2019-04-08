@@ -1,0 +1,136 @@
+{
+  "id": 101848187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.914179,37.752503,23.914179,37.752503",
+    "geom:latitude":37.752503,
+    "geom:longitude":23.914179,
+    "gn:population":2932,
+    "iso:country":"GR",
+    "lbl:latitude":37.752503,
+    "lbl:longitude":23.914179,
+    "mps:latitude":37.752503,
+    "mps:longitude":23.914179,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0631\u0648\u0646\u064a\u062f\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u7f85\u5c3c\u624e"
+    ],
+    "name:dut_x_preferred":[
+        "Saronida"
+    ],
+    "name:ell_x_historical":[
+        "\u0393\u03ba\u03b9\u03bf\u03c5\u03c1\u03bd\u03c4\u03ac\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03c9\u03bd\u03af\u03b4\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Saron\u00eds",
+        "\u03a3\u03b1\u03c1\u03c9\u03bd\u03af\u03c2",
+        "Saron\u00edda",
+        "\u03a3\u03b1\u03c1\u03c9\u03bd\u03af\u03b4\u03b1",
+        "\u0393\u03ba\u03b9\u03bf\u03c5\u03c1\u03bd\u03c4\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saronida"
+    ],
+    "name:fin_x_preferred":[
+        "Saron\u00edda"
+    ],
+    "name:fre_x_preferred":[
+        "Saronida"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03c9\u03bd\u03af\u03b4\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Saronida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ed\u30cb\u30c0"
+    ],
+    "name:nno_x_preferred":[
+        "Saron\u00edda"
+    ],
+    "name:pol_x_preferred":[
+        "Saronida"
+    ],
+    "name:swe_x_preferred":[
+        "Saron\u00edda"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
+    "qs:a1_alt":"ATTIKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"ANATOLIKH ATTIKH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u0391\u03a1\u03a9\u039d\u0399\u03a3",
+    "qs:loc_alt":"SARVNIS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":37.733333,
+    "wd:longitude":23.9,
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7324476,
+        "gp:id":55869304,
+        "qs:id":1114954,
+        "qs_pg:id":1114954,
+        "wd:id":"Q2277297",
+        "wk:page":"Saronida"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"664b474536d7f426c9f37e26f407dacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848187,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":101848187,
+    "wof:lastmodified":1544740299,
+    "wof:name":"\u03a3\u0391\u03a1\u03a9\u039d\u0399\u03a3",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":2932,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.914179,
+    37.752503,
+    23.914179,
+    37.752503
+],
+  "geometry": {"coordinates":[23.914179,37.752503],"type":"Point"}
+}

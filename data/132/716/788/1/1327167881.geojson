@@ -1,0 +1,78 @@
+{
+  "id": 1327167881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26906,36.84893,22.26906,36.84893",
+    "geom:latitude":36.84893,
+    "geom:longitude":22.26906,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9253",
+    "gn:asciiname":"Lefktro",
+    "gn:country_code":"GR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258413,
+    "gn:latitude":36.84893,
+    "gn:longitude":22.26906,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"L\u00e9fktro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e9fktro"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03cd\u03ba\u03c4\u03c1\u03bf",
+        "L\u00e9fktron",
+        "\u039b\u03b5\u03cd\u03ba\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "L\u00e9vktron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258413
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fb67ba1798da6f0d367d92fcb8180e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327167881,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327167881,
+    "wof:lastmodified":1537624446,
+    "wof:name":"Lefktro",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26906,
+    36.84893,
+    22.26906,
+    36.84893
+],
+  "geometry": {"coordinates":[22.26906,36.84893],"type":"Point"}
+}

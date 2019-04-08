@@ -1,0 +1,76 @@
+{
+  "id": 1327268797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11489,37.54386,23.11489,37.54386",
+    "geom:latitude":37.54386,
+    "geom:longitude":23.11489,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Mataranga",
+    "gn:country_code":"GR",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257595,
+    "gn:latitude":37.54386,
+    "gn:longitude":23.11489,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Matar\u00e1nga",
+    "gn:population":23,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c4\u03b1\u03c1\u03ac\u03b3\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mataragka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257595
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b6e20d0347cf8057fb4d9574a725b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327268797,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327268797,
+    "wof:lastmodified":1537624411,
+    "wof:name":"Mataranga",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11489,
+    37.54386,
+    23.11489,
+    37.54386
+],
+  "geometry": {"coordinates":[23.11489,37.54386],"type":"Point"}
+}

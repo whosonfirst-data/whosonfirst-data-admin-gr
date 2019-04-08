@@ -1,0 +1,74 @@
+{
+  "id": 1209950697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9253,40.26264,21.9253,40.26264",
+    "geom:latitude":40.26264,
+    "geom:longitude":21.9253,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9069",
+    "gn:asciiname":"Mesiani",
+    "gn:country_code":"GR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735199,
+    "gn:latitude":40.26264,
+    "gn:longitude":21.9253,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mesian\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03b9\u03b1\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Mesian\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735199,
+        "wk:page":"Mesiani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"92c5ecc8a793ee6ebdc530038d09729e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209950697,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1209950697,
+    "wof:lastmodified":1537624887,
+    "wof:name":"Mesiani",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9253,
+    40.26264000000001,
+    21.9253,
+    40.26264000000001
+],
+  "geometry": {"coordinates":[21.9253,40.26264000000001],"type":"Point"}
+}

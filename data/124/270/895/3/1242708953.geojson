@@ -1,0 +1,76 @@
+{
+  "id": 1242708953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62466,39.40576,21.62466,39.40576",
+    "geom:latitude":39.40576,
+    "geom:longitude":21.62466,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9094",
+    "gn:asciiname":"Palaiokastro",
+    "gn:country_code":"GR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445161,
+    "gn:latitude":39.40576,
+    "gn:longitude":21.62466,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Palai\u00f3kastro",
+    "gn:population":16,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Palaiokastro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445161
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5e543d9a0af5ab1818272ae582cffcec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242708953,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242708953,
+    "wof:lastmodified":1537624798,
+    "wof:name":"Palaiokastro",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62466,
+    39.40576,
+    21.62466,
+    39.40576
+],
+  "geometry": {"coordinates":[21.62466,39.40576],"type":"Point"}
+}

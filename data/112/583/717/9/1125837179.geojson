@@ -1,0 +1,117 @@
+{
+  "id": 1125837179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13379,35.46412,24.13379,35.46412",
+    "geom:latitude":35.46412,
+    "geom:longitude":24.13379,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":35.46412,
+    "lbl:longitude":24.13379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Aptera"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03c4\u03ad\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Aptera"
+    ],
+    "name:fin_x_preferred":[
+        "Aptera"
+    ],
+    "name:fre_x_preferred":[
+        "Aptera"
+    ],
+    "name:ger_x_preferred":[
+        "Aptera"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03c0\u03c4\u03b5\u03c1\u03b1"
+    ],
+    "name:por_x_preferred":[
+        "\u00c1ptera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0442\u0435\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aptera"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":264725,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Aptera",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":165,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":165,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894702,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":946273,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264725,
+        "gp:id":946273,
+        "qs_pg:id":894702,
+        "wd:id":"Q622234"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292764,
+    "wof:geomhash":"061a59dfa6eb94b06382c06b6cc823a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125837179,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125837179,
+    "wof:lastmodified":1553816562,
+    "wof:name":"Aptera",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13379,
+    35.46412,
+    24.13379,
+    35.46412
+],
+  "geometry": {"coordinates":[24.13379,35.46412],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343495937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84055,37.123,21.84055,37.123",
+    "geom:latitude":37.123,
+    "geom:longitude":21.84055,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Ammoudero",
+    "gn:country_code":"GR",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265152,
+    "gn:latitude":37.123,
+    "gn:longitude":21.84055,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ammouder\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ammouder\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03bc\u03bf\u03c5\u03b4\u03b5\u03c1\u03cc",
+        "Ammouder\u00f3n",
+        "\u0391\u03bc\u03bc\u03bf\u03c5\u03b4\u03b5\u03c1\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Khamouz\u00e1",
+        "Ammoudher\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265152
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d3d7142449feb4bed85463fd0daca840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343495937,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343495937,
+    "wof:lastmodified":1537624762,
+    "wof:name":"Ammoudero",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84055,
+    37.12300000000001,
+    21.84055,
+    37.12300000000001
+],
+  "geometry": {"coordinates":[21.84055,37.12300000000001],"type":"Point"}
+}

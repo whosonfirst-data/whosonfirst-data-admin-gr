@@ -1,0 +1,142 @@
+{
+  "id": 101849621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.205345,39.231701,26.205345,39.231701",
+    "geom:latitude":39.231701,
+    "geom:longitude":26.205345,
+    "gn:population":1776,
+    "iso:country":"GR",
+    "lbl:latitude":39.231701,
+    "lbl:longitude":26.205345,
+    "mps:latitude":39.231701,
+    "mps:longitude":26.205345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0644\u0648\u0646\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u6d1b\u5c3c"
+    ],
+    "name:deu_x_preferred":[
+        "Kalloni"
+    ],
+    "name:dut_x_preferred":[
+        "Kalloni"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae",
+        "\u039a\u03b5\u03bb\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kalloni"
+    ],
+    "name:fin_x_preferred":[
+        "Kallon\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Kalloni"
+    ],
+    "name:ger_x_preferred":[
+        "Kalloni"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae \u039b\u03ad\u03c3\u03b2\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Kalloni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ed\u30cb"
+    ],
+    "name:nld_x_preferred":[
+        "Kalloni"
+    ],
+    "name:nno_x_preferred":[
+        "Kallon\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Kallon\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Akhir\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6d1b\u5c3c"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0392\u039f\u03a1\u0395\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"BOREIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LESBOS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u0391\u039b\u039b\u039f\u039d\u0397",
+    "qs:loc_alt":"KALLONH",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.23278,
+    "wd:longitude":26.20694,
+    "wd:wordcount":631,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261398,
+        "gp:id":951083,
+        "qs:id":217472,
+        "qs_pg:id":1060760,
+        "wd:id":"Q1722519",
+        "wk:page":"Kalloni"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8b29aaa772180c32a58ce1dced6cb49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849621,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":101849621,
+    "wof:lastmodified":1544741037,
+    "wof:name":"\u039a\u0391\u039b\u039b\u039f\u039d\u0397",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:population":1776,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.205345,
+    39.231701,
+    26.205345,
+    39.231701
+],
+  "geometry": {"coordinates":[26.205345,39.231701],"type":"Point"}
+}

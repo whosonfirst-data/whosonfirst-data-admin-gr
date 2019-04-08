@@ -1,0 +1,95 @@
+{
+  "id": 1125876275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45056,39.05167,21.45056,39.05167",
+    "geom:latitude":39.05167,
+    "geom:longitude":21.45056,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":31,
+    "gn:population":31,
+    "iso:country":"GR",
+    "lbl:latitude":39.05167,
+    "lbl:longitude":21.45056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03c1\u03bd\u03b9\u03ba\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03ad\u03c1\u03bd\u03b9\u03ba\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "V\u00e9rniko"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252018,
+    "qs_pg:gn_pop":31,
+    "qs_pg:name":"Vernikon",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":424001,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":964501,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252018,
+        "gp:id":964501,
+        "qs_pg:id":424001
+    },
+    "wof:country":"GR",
+    "wof:created":1497294556,
+    "wof:geomhash":"80b126a87288a1c5fbf886395db2f1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125876275,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125876275,
+    "wof:lastmodified":1509397738,
+    "wof:name":"Vernikon",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45056,
+    39.05167,
+    21.45056,
+    39.05167
+],
+  "geometry": {"coordinates":[21.45056,39.05167],"type":"Point"}
+}

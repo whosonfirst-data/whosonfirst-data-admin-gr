@@ -1,0 +1,77 @@
+{
+  "id": 1292935157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43778,38.087,22.43778,38.087",
+    "geom:latitude":38.087,
+    "geom:longitude":22.43778,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Pirgos",
+    "gn:country_code":"GR",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255227,
+    "gn:latitude":38.087,
+    "gn:longitude":22.43778,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"P\u00edrgos",
+    "gn:population":469,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pyrgos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255227,
+        "wk:page":"Pyrgos,_Corinthia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"344d8a121e53c5c6f240f0acdcbb1097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292935157,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1292935157,
+    "wof:lastmodified":1537624296,
+    "wof:name":"Pirgos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":469,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43778,
+    38.087,
+    22.43778,
+    38.087
+],
+  "geometry": {"coordinates":[22.43778,38.087],"type":"Point"}
+}

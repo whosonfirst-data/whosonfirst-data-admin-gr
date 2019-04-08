@@ -1,0 +1,73 @@
+{
+  "id": 1259412583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79938,41.26279,24.79938,41.26279",
+    "geom:latitude":41.26279,
+    "geom:longitude":24.79938,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9016",
+    "gn:asciiname":"Theotokos",
+    "gn:country_code":"GR",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734085,
+    "gn:latitude":41.26279,
+    "gn:longitude":24.79938,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Theot\u00f3kos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Theot\u00f3kos"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03b5\u03bf\u03c4\u03cc\u03ba\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734085
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ea86b1750d79a553bff69844684a5d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259412583,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259412583,
+    "wof:lastmodified":1537624822,
+    "wof:name":"Theotokos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79938,
+    41.26279,
+    24.79938,
+    41.26279
+],
+  "geometry": {"coordinates":[24.79938,41.26279],"type":"Point"}
+}

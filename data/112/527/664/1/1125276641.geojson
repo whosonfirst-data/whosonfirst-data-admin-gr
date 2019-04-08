@@ -1,0 +1,79 @@
+{
+  "id": 1125276641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51489,40.44481,22.51489,40.44481",
+    "geom:latitude":40.44481,
+    "geom:longitude":22.51489,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":17153,
+    "gn:population":17153,
+    "iso:country":"GR",
+    "lbl:latitude":40.44481,
+    "lbl:longitude":22.51489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03b4\u03bd\u03b1\u03c2 - \u039a\u03bf\u03bb\u03b9\u03bd\u03b4\u03c1\u03bf\u03cd"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133861,
+    "qs_pg:gn_pop":17153,
+    "qs_pg:name":"Dimos Pydna-Kolindros",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109676,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133861,
+        "qs_pg:id":109676
+    },
+    "wof:country":"GR",
+    "wof:created":1497042344,
+    "wof:geomhash":"f9233e168fe38962b43fe07757dccf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125276641,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125276641,
+    "wof:lastmodified":1509387169,
+    "wof:name":"Dimos Pydna-Kolindros",
+    "wof:parent_id":85684637,
+    "wof:placetype":"localadmin",
+    "wof:population":17153,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51489,
+    40.44481,
+    22.51489,
+    40.44481
+],
+  "geometry": {"coordinates":[22.51489,40.44481],"type":"Point"}
+}

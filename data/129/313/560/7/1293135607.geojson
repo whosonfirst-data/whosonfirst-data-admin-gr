@@ -1,0 +1,74 @@
+{
+  "id": 1293135607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16055,37.22722,22.16055,37.22722",
+    "geom:latitude":37.22722,
+    "geom:longitude":22.16055,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Goupata",
+    "gn:country_code":"GR",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261951,
+    "gn:latitude":37.22722,
+    "gn:longitude":22.16055,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Go\u00fapata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03cd\u03c0\u03b1\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Go\u00fapato",
+        "Go\u00fapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261951
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8b1b569fbebc8cf50c607772437824f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293135607,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293135607,
+    "wof:lastmodified":1537624613,
+    "wof:name":"Goupata",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16055,
+    37.22722,
+    22.16055,
+    37.22722
+],
+  "geometry": {"coordinates":[22.16055,37.22722],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1343995009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20911,38.60814,23.20911,38.60814",
+    "geom:latitude":38.60814,
+    "geom:longitude":23.20911,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9161",
+    "gn:asciiname":"Mazion",
+    "gn:country_code":"GR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257460,
+    "gn:latitude":38.60814,
+    "gn:longitude":23.20911,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"M\u00e1zion",
+    "gn:population":90,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03b6\u03b9\u03bf",
+        "\u039c\u03ac\u03b6\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Pevkokh\u00f3ri",
+        "M\u00e1zi",
+        "M\u00f3zion",
+        "M\u00e1zion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257460
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4ea2d2130d79ff5dfbedb394d7568bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343995009,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343995009,
+    "wof:lastmodified":1537624406,
+    "wof:name":"Mazion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20911,
+    38.60814,
+    23.20911,
+    38.60814
+],
+  "geometry": {"coordinates":[23.20911,38.60814],"type":"Point"}
+}

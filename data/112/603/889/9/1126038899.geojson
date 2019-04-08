@@ -1,0 +1,92 @@
+{
+  "id": 1126038899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08333,34.83333,24.08333,34.83333",
+    "geom:latitude":34.83333,
+    "geom:longitude":24.08333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":37,
+    "iso:country":"GR",
+    "lbl:latitude":34.83333,
+    "lbl:longitude":24.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c4\u03c1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Kastri"
+    ],
+    "name:fin_x_preferred":[
+        "Kastr\u00ed"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c4\u03c1\u03af \u0393\u03b1\u03cd\u03b4\u03bf\u03c5"
+    ],
+    "name:unk_x_variant":[
+        "Kastr\u00edon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":260764,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kastr\u00ed",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117542,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260764,
+        "qs_pg:id":1117542,
+        "wd:id":"Q21758160"
+    },
+    "wof:country":"GR",
+    "wof:created":1497301996,
+    "wof:geomhash":"b35c89af89b320e86d3bd2205e3e75ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126038899,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1126038899,
+    "wof:lastmodified":1514443973,
+    "wof:name":"Kastr\u00ed",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08333,
+    34.83333,
+    24.08333,
+    34.83333
+],
+  "geometry": {"coordinates":[24.08333,34.83333],"type":"Point"}
+}

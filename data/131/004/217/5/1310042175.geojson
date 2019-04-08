@@ -1,0 +1,79 @@
+{
+  "id": 1310042175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73522,40.28996,21.73522,40.28996",
+    "geom:latitude":40.28996,
+    "geom:longitude":21.73522,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Vatero",
+    "gn:country_code":"GR",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733937,
+    "gn:latitude":40.28996,
+    "gn:longitude":21.73522,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Vater\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vater\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c4\u03b5\u03c1\u03cc",
+        "\u0392\u03b1\u03c4\u03b5\u03c1\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Koj\u00e1-Matl\u00ed",
+        "Vater\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733937,
+        "wk:page":"Vatero"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"85cb4ce91392998aad413936a3f81e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310042175,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1310042175,
+    "wof:lastmodified":1537624815,
+    "wof:name":"Vatero",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73522,
+    40.28996,
+    21.73522,
+    40.28996
+],
+  "geometry": {"coordinates":[21.73522,40.28996],"type":"Point"}
+}

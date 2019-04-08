@@ -1,0 +1,70 @@
+{
+  "id": 1209546791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1139,38.48385,24.1139,38.48385",
+    "geom:latitude":38.48385,
+    "geom:longitude":24.1139,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Lofiskos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258165,
+    "gn:latitude":38.48385,
+    "gn:longitude":24.1139,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Lof\u00edskos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo\u00fazi",
+        "Vo\u00fazion",
+        "Vo\u00fazi",
+        "Lof\u00edskos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258165
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aceb90ed98e3bef75185ab2b59a9ba14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209546791
+        }
+    ],
+    "wof:id":1209546791,
+    "wof:lastmodified":1537624435,
+    "wof:name":"Lofiskos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1139,
+    38.48385,
+    24.1139,
+    38.48385
+],
+  "geometry": {"coordinates":[24.1139,38.48385],"type":"Point"}
+}

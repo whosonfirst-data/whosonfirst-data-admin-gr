@@ -1,0 +1,77 @@
+{
+  "id": 1209243751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3768,41.11363,23.3768,41.11363",
+    "geom:latitude":41.11363,
+    "geom:longitude":23.3768,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9052",
+    "gn:asciiname":"Nea Tiroloi",
+    "gn:country_code":"GR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734980,
+    "gn:latitude":41.11363,
+    "gn:longitude":23.3768,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"N\u00e9a Tirol\u00f3\u00ef",
+    "gn:population":669,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u03a4\u03c5\u03c1\u03bf\u03bb\u03cc\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Tyroloi"
+    ],
+    "name:und_x_variant":[
+        "Top\u00e1lovon",
+        "N\u00e9a Tirol\u00f3r",
+        "N\u00e9a Tirol\u00f3\u00ef"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734980
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"34aecf18561537668a1e4dd3488adf5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209243751
+        }
+    ],
+    "wof:id":1209243751,
+    "wof:lastmodified":1537624872,
+    "wof:name":"Nea Tiroloi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":669,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3768,
+    41.11363,
+    23.3768,
+    41.11363
+],
+  "geometry": {"coordinates":[23.3768,41.11363],"type":"Point"}
+}

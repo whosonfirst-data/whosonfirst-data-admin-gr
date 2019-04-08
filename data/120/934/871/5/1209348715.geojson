@@ -1,0 +1,75 @@
+{
+  "id": 1209348715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72878,39.54454,20.72878,39.54454",
+    "geom:latitude":39.54454,
+    "geom:longitude":20.72878,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Bagaioi",
+    "gn:country_code":"GR",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973056,
+    "gn:latitude":39.54454,
+    "gn:longitude":20.72878,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"Baga\u00edoi",
+    "gn:population":21,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b3\u03b1\u03af\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Bagaioi"
+    ],
+    "name:und_x_variant":[
+        "Mpagaioi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973056
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"be58aa92877be4cf3ba4e980e926c5ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209348715
+        }
+    ],
+    "wof:id":1209348715,
+    "wof:lastmodified":1537625079,
+    "wof:name":"Bagaioi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72878,
+    39.54454000000001,
+    20.72878,
+    39.54454000000001
+],
+  "geometry": {"coordinates":[20.72878,39.54454000000001],"type":"Point"}
+}

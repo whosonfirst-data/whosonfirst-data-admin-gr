@@ -1,0 +1,67 @@
+{
+  "id": 1226178613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43052,40.90524,25.43052,40.90524",
+    "geom:latitude":40.90524,
+    "geom:longitude":25.43052,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022.0",
+    "gn:asciiname":"Krioneri",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11054694,
+    "gn:latitude":40.90524,
+    "gn:longitude":25.43052,
+    "gn:modification_date":"2016-02-02",
+    "gn:name":"Krioneri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054694
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eaaa1c3c57dcb9bf9827b90226b9f735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226178613,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226178613,
+    "wof:lastmodified":1537029015,
+    "wof:name":"Krioneri",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43052,
+    40.90524,
+    25.43052,
+    40.90524
+],
+  "geometry": {"coordinates":[25.43052,40.90524],"type":"Point"}
+}

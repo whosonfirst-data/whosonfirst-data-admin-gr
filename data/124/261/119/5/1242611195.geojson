@@ -1,0 +1,77 @@
+{
+  "id": 1242611195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87713,40.46876,21.87713,40.46876",
+    "geom:latitude":40.46876,
+    "geom:longitude":21.87713,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Exochi",
+    "gn:country_code":"GR",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736280,
+    "gn:latitude":40.46876,
+    "gn:longitude":21.87713,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Exoch\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Exoch\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03be\u03bf\u03c7\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Barakl\u00ed",
+        "Exokh\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736280
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"77fde642269ba9215ae7dbf96833d136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242611195,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1242611195,
+    "wof:lastmodified":1537624948,
+    "wof:name":"Exochi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87713,
+    40.46876,
+    21.87713,
+    40.46876
+],
+  "geometry": {"coordinates":[21.87713,40.46876],"type":"Point"}
+}

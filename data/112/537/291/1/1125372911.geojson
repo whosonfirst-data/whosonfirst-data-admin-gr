@@ -1,0 +1,93 @@
+{
+  "id": 1125372911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77204,38.05157,23.77204,38.05157",
+    "geom:latitude":38.05157,
+    "geom:longitude":23.77204,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":48132,
+    "gn:population":49642,
+    "iso:country":"GR",
+    "lbl:latitude":38.05157,
+    "lbl:longitude":23.77204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133693,
+    "qs_pg:gn_pop":48132,
+    "qs_pg:name":"Irakleio",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":344005,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":24543947,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133693,
+        "gp:id":24543947,
+        "qs_pg:id":344005
+    },
+    "wof:country":"GR",
+    "wof:created":1497047533,
+    "wof:geomhash":"6cdb4b331c353c4ac65e99710c1eba4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125372911,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1125372911,
+    "wof:lastmodified":1509389371,
+    "wof:name":"Irakleio",
+    "wof:parent_id":85684697,
+    "wof:placetype":"localadmin",
+    "wof:population":49642,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77204,
+    38.05157,
+    23.77204,
+    38.05157
+],
+  "geometry": {"coordinates":[23.77204,38.05157],"type":"Point"}
+}

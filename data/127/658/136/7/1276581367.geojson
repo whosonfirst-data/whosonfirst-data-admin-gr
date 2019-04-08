@@ -1,0 +1,79 @@
+{
+  "id": 1276581367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54599,40.736,23.54599,40.736",
+    "geom:latitude":40.736,
+    "geom:longitude":23.54599,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9027",
+    "gn:asciiname":"Lefkouda",
+    "gn:country_code":"GR",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735437,
+    "gn:latitude":40.736,
+    "gn:longitude":23.54599,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Lefko\u00fada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lefko\u00fada"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c5\u03ba\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kav\u00e1ki",
+        "Lovko\u00fadha",
+        "Levko\u00fadha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735437,
+        "wk:page":"Lefkouda"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e95ad730f52a9e4c83351549c684db3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276581367,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1276581367,
+    "wof:lastmodified":1537624903,
+    "wof:name":"Lefkouda",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54599,
+    40.736,
+    23.54599,
+    40.736
+],
+  "geometry": {"coordinates":[23.54599,40.736],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 101848361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.397115,37.447632,25.397115,37.447632",
+    "geom:latitude":37.447632,
+    "geom:longitude":25.397115,
+    "gn:population":1459,
+    "iso:country":"GR",
+    "lbl:latitude":37.447632,
+    "lbl:longitude":25.397115,
+    "mps:latitude":37.447632,
+    "mps:longitude":25.397115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u039c\u03b5\u03c1\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Mera"
+    ],
+    "name:unk_x_variant":[
+        "\u00c1no Mer\u00e1"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039d\u039f\u03a4\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"NOTIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KYKLADES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u039d\u03a9 \u039c\u0395\u03a1\u0391",
+    "qs:loc_alt":"ANV MERA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264878,
+        "gp:id":945985,
+        "qs:id":123880
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63ed1a51277646de6d91810f941105fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848361,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":101848361,
+    "wof:lastmodified":1544740408,
+    "wof:name":"\u0391\u039d\u03a9 \u039c\u0395\u03a1\u0391",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":1459,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.397115,
+    37.447632,
+    25.397115,
+    37.447632
+],
+  "geometry": {"coordinates":[25.397115,37.447632],"type":"Point"}
+}

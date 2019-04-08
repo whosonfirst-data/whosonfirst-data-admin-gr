@@ -1,0 +1,73 @@
+{
+  "id": 1276263955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78083,35.46984,23.78083,35.46984",
+    "geom:latitude":35.46984,
+    "geom:longitude":23.78083,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Koumares",
+    "gn:country_code":"GR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259098,
+    "gn:latitude":35.46984,
+    "gn:longitude":23.78083,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Koumar\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Koumar\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bc\u03b1\u03c1\u03ad\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259098
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e5991ae18ed5302c2958de8a47b7493e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276263955,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276263955,
+    "wof:lastmodified":1537624479,
+    "wof:name":"Koumares",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78083,
+    35.46984000000001,
+    23.78083,
+    35.46984000000001
+],
+  "geometry": {"coordinates":[23.78083,35.46984000000001],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226681011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36501,41.26818,23.36501,41.26818",
+    "geom:latitude":41.26818,
+    "geom:longitude":23.36501,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9055",
+    "gn:asciiname":"Thermopiyi",
+    "gn:country_code":"GR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734078,
+    "gn:latitude":41.26818,
+    "gn:longitude":23.36501,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Thermopiy\u00ed",
+    "gn:population":154,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03c1\u03bc\u03bf\u03c0\u03b7\u03b3\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Thermopigi"
+    ],
+    "name:und_x_variant":[
+        "Po\u00faliovon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734078
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cf158220699864656cb801086170731c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226681011,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226681011,
+    "wof:lastmodified":1537624821,
+    "wof:name":"Thermopiyi",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36501,
+    41.26818,
+    23.36501,
+    41.26818
+],
+  "geometry": {"coordinates":[23.36501,41.26818],"type":"Point"}
+}

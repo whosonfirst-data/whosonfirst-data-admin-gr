@@ -1,0 +1,73 @@
+{
+  "id": 1276910927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26329,40.14949,21.26329,40.14949",
+    "geom:latitude":40.14949,
+    "geom:longitude":21.26329,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Pano Ekklisia",
+    "gn:country_code":"GR",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074396,
+    "gn:latitude":40.14949,
+    "gn:longitude":21.26329,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"P\u00e1no Ekklisi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1no Ekklisi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0395\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074396
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"73468a8dba3d44139ef0c960add33500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276910927,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1276910927,
+    "wof:lastmodified":1537625046,
+    "wof:name":"Pano Ekklisia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26329,
+    40.14949,
+    21.26329,
+    40.14949
+],
+  "geometry": {"coordinates":[21.26329,40.14949],"type":"Point"}
+}

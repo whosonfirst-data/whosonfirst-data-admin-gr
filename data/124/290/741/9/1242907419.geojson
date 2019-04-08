@@ -1,0 +1,74 @@
+{
+  "id": 1242907419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67183,38.05697,21.67183,38.05697",
+    "geom:latitude":38.05697,
+    "geom:longitude":21.67183,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Komi",
+    "gn:country_code":"GR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259445,
+    "gn:latitude":38.05697,
+    "gn:longitude":21.67183,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00f3mi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ce\u03bc\u03b7"
+    ],
+    "name:und_x_variant":[
+        "K\u00f3mi",
+        "K\u00f3mis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259445
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bdeb614ea1c7ba5c28f3f8ececeee1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242907419,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1242907419,
+    "wof:lastmodified":1537624492,
+    "wof:name":"Komi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67183,
+    38.05697,
+    21.67183,
+    38.05697
+],
+  "geometry": {"coordinates":[21.67183,38.05697],"type":"Point"}
+}

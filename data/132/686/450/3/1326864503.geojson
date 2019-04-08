@@ -1,0 +1,73 @@
+{
+  "id": 1326864503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40508,37.97168,23.40508,37.97168",
+    "geom:latitude":37.97168,
+    "geom:longitude":23.40508,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9231.0",
+    "gn:asciiname":"Iremo Kyma",
+    "gn:country_code":"GR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038164,
+    "gn:latitude":37.97168,
+    "gn:longitude":23.40508,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00cdremo K\u00fdma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00cdremo K\u00fdma"
+    ],
+    "name:ell_x_variant":[
+        "\u0389\u03c1\u03b5\u03bc\u03bf \u039a\u03cd\u03bc\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038164
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7f74d33faad4c2d32123e99826875bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326864503,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1326864503,
+    "wof:lastmodified":1537625105,
+    "wof:name":"Iremo Kyma",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40508,
+    37.97168,
+    23.40508,
+    37.97168
+],
+  "geometry": {"coordinates":[23.40508,37.97168],"type":"Point"}
+}

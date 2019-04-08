@@ -1,0 +1,74 @@
+{
+  "id": 1343490981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20089,40.13858,21.20089,40.13858",
+    "geom:latitude":40.13858,
+    "geom:longitude":21.20089,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Kalloni",
+    "gn:country_code":"GR",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736033,
+    "gn:latitude":40.13858,
+    "gn:longitude":21.20089,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kallon\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Lo\u00fantsi",
+        "Kallon\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736033
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cfcd6a0964385df523bcedec9256f80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343490981,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343490981,
+    "wof:lastmodified":1537624936,
+    "wof:name":"Kalloni",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20089,
+    40.13858,
+    21.20089,
+    40.13858
+],
+  "geometry": {"coordinates":[21.20089,40.13858],"type":"Point"}
+}

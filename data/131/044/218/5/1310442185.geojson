@@ -1,0 +1,74 @@
+{
+  "id": 1310442185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07722,38.19506,22.07722,38.19506",
+    "geom:latitude":38.19506,
+    "geom:longitude":22.07722,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Lakka",
+    "gn:country_code":"GR",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258682,
+    "gn:latitude":38.19506,
+    "gn:longitude":22.07722,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"L\u00e1kka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03ba\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Akho\u00faria",
+        "L\u00e1kka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258682
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"554f39558876a2dbab7ed780c059b89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310442185,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310442185,
+    "wof:lastmodified":1537624460,
+    "wof:name":"Lakka",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07722,
+    38.19506,
+    22.07722,
+    38.19506
+],
+  "geometry": {"coordinates":[22.07722,38.19506],"type":"Point"}
+}

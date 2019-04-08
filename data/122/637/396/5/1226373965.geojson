@@ -1,0 +1,77 @@
+{
+  "id": 1226373965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96692,37.14791,21.96692,37.14791",
+    "geom:latitude":37.14791,
+    "geom:longitude":21.96692,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Lampaina",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258644,
+    "gn:latitude":37.14791,
+    "gn:longitude":21.96692,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"L\u00e1mpaina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e1mpaina"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03bc\u03c0\u03b1\u03b9\u03bd\u03b1"
+    ],
+    "name:und_x_variant":[
+        "L\u00e9zi",
+        "L\u00e1mbaina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258644
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"27db10ede12a9afb79dff811c5afa3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226373965,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226373965,
+    "wof:lastmodified":1537624459,
+    "wof:name":"Lampaina",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96692,
+    37.14791,
+    21.96692,
+    37.14791
+],
+  "geometry": {"coordinates":[21.96692,37.14791],"type":"Point"}
+}

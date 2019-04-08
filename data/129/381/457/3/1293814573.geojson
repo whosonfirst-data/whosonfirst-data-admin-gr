@@ -1,0 +1,80 @@
+{
+  "id": 1293814573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75519,40.61524,21.75519,40.61524",
+    "geom:latitude":40.61524,
+    "geom:longitude":21.75519,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9070",
+    "gn:asciiname":"Pelargos",
+    "gn:country_code":"GR",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734730,
+    "gn:latitude":40.61524,
+    "gn:longitude":21.75519,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Pelarg\u00f3s",
+    "gn:population":325,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bb\u03b1\u03c1\u03b3\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pelargos"
+    ],
+    "name:und_x_variant":[
+        "Mural\u00e1r",
+        "Pelarg\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734730
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aabe60702633da5d2d72cc9455b30226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293814573,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293814573,
+    "wof:lastmodified":1537624858,
+    "wof:name":"Pelargos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75519,
+    40.61524,
+    21.75519,
+    40.61524
+],
+  "geometry": {"coordinates":[21.75519,40.61524],"type":"Point"}
+}

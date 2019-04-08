@@ -1,0 +1,70 @@
+{
+  "id": 1226682503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32927,37.96573,21.32927,37.96573",
+    "geom:latitude":37.96573,
+    "geom:longitude":21.32927,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9135.0",
+    "gn:asciiname":"Ano Kourtesi",
+    "gn:country_code":"GR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11524101,
+    "gn:latitude":37.96573,
+    "gn:longitude":21.32927,
+    "gn:modification_date":"2017-04-25",
+    "gn:name":"Ano Kourt\u00e9si",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u039a\u03bf\u03c5\u03c1\u03c4\u03ad\u03c3\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11524101
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"12f0c703faba5c74ff846fefc8ad6d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682503,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226682503,
+    "wof:lastmodified":1537625119,
+    "wof:name":"Ano Kourtesi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32927,
+    37.96573,
+    21.32927,
+    37.96573
+],
+  "geometry": {"coordinates":[21.32927,37.96573],"type":"Point"}
+}

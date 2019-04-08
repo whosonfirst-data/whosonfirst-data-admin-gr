@@ -1,0 +1,76 @@
+{
+  "id": 1276588465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62616,39.53404,21.62616,39.53404",
+    "geom:latitude":39.53404,
+    "geom:longitude":21.62616,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"9114",
+    "gn:asciiname":"Exalofos",
+    "gn:country_code":"GR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259225,
+    "gn:latitude":39.53404,
+    "gn:longitude":21.62616,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ex\u00e1lofos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03be\u03ac\u03bb\u03bf\u03c6\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ex\u00e1lofos",
+        "Kostarella\u00edika",
+        "Kostarela\u00ed\u00efka",
+        "Kostar\u00e9\u00efka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259225
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c4e18b5f3903c4b672a0716a6695e27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276588465,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1276588465,
+    "wof:lastmodified":1537624484,
+    "wof:name":"Exalofos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62616,
+    39.53404000000001,
+    21.62616,
+    39.53404000000001
+],
+  "geometry": {"coordinates":[21.62616,39.53404000000001],"type":"Point"}
+}

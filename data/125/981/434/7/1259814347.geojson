@@ -1,0 +1,76 @@
+{
+  "id": 1259814347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62075,40.596,24.62075,40.596",
+    "geom:latitude":40.596,
+    "geom:longitude":24.62075,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9011",
+    "gn:asciiname":"Rosogkremos",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9407065,
+    "gn:latitude":40.596,
+    "gn:longitude":24.62075,
+    "gn:modification_date":"2014-08-21",
+    "gn:name":"Rosogkrem\u00f3s",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03c9\u03c3\u03bf\u03b3\u03ba\u03c1\u03b5\u03bc\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Rosogkremos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9407065
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"726e83528c125d3de995316ef1751b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259814347,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259814347,
+    "wof:lastmodified":1537625065,
+    "wof:name":"Rosogkremos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62075,
+    40.596,
+    24.62075,
+    40.596
+],
+  "geometry": {"coordinates":[24.62075,40.596],"type":"Point"}
+}

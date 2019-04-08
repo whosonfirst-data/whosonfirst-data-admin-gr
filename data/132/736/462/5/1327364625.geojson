@@ -1,0 +1,77 @@
+{
+  "id": 1327364625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.07245,35.05218,26.07245,35.05218",
+    "geom:latitude":35.05218,
+    "geom:longitude":26.07245,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Epano Perivolakia",
+    "gn:country_code":"GR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":262666,
+    "gn:latitude":35.05218,
+    "gn:longitude":26.07245,
+    "gn:modification_date":"2015-09-10",
+    "gn:name":"Ep\u00e1no Perivol\u00e1kia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03ac\u03bd\u03c9 \u03a0\u03b5\u03c1\u03b9\u03b2\u03bf\u03bb\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Epano Perivolakia"
+    ],
+    "name:und_x_variant":[
+        "Ep\u00e1no Pervol\u00e1kia",
+        "Ep\u00e1no Perivol\u00e1kia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262666
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0eed5cba2df73d040177e183ad4ddfc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327364625,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327364625,
+    "wof:lastmodified":1537624642,
+    "wof:name":"Epano Perivolakia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07245,
+    35.05218,
+    26.07245,
+    35.05218
+],
+  "geometry": {"coordinates":[26.07245,35.05218],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1209250961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39367,36.62104,22.39367,36.62104",
+    "geom:latitude":36.62104,
+    "geom:longitude":22.39367,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Gklezi",
+    "gn:country_code":"GR",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262041,
+    "gn:latitude":36.62104,
+    "gn:longitude":22.39367,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Gkl\u00e9zi",
+    "gn:population":26,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bb\u03ad\u03b6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03bb\u03ad\u03b6\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Gklezi"
+    ],
+    "name:eng_x_variant":[
+        "Gklezou"
+    ],
+    "name:und_x_variant":[
+        "Gl\u00e9zi",
+        "Glezi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262041
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0ffd6792ca35d41f00195ce89999c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209250961
+        }
+    ],
+    "wof:id":1209250961,
+    "wof:lastmodified":1537624617,
+    "wof:name":"Gklezi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39367,
+    36.62104,
+    22.39367,
+    36.62104
+],
+  "geometry": {"coordinates":[22.39367,36.62104],"type":"Point"}
+}

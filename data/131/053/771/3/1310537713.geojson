@@ -1,0 +1,78 @@
+{
+  "id": 1310537713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89255,36.83055,21.89255,36.83055",
+    "geom:latitude":36.83055,
+    "geom:longitude":21.89255,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Chomatero",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259945,
+    "gn:latitude":36.83055,
+    "gn:longitude":21.89255,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Chomater\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chomater\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c9\u03bc\u03b1\u03c4\u03b5\u03c1\u03cc",
+        "Chomater\u00f3n",
+        "\u03a7\u03c9\u03bc\u03b1\u03c4\u03b5\u03c1\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Khomater\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259945
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1931d96dc009a0350e21a101006ba99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310537713,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310537713,
+    "wof:lastmodified":1537624515,
+    "wof:name":"Chomatero",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89255,
+    36.83055,
+    21.89255,
+    36.83055
+],
+  "geometry": {"coordinates":[21.89255,36.83055],"type":"Point"}
+}

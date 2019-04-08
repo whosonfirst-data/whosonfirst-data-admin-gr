@@ -1,0 +1,73 @@
+{
+  "id": 1260214349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02932,37.60014,23.02932,37.60014",
+    "geom:latitude":37.60014,
+    "geom:longitude":23.02932,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Asklipeiio Epidavrou",
+    "gn:country_code":"GR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257387,
+    "gn:latitude":37.60014,
+    "gn:longitude":23.02932,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Asklipe\u00edio Epid\u00e1vrou",
+    "gn:population":19,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ba\u03bb\u03b7\u03c0\u03b9\u03b5\u03af\u03bf \u0395\u03c0\u03b9\u03b4\u03b1\u03cd\u03c1\u03bf\u03c5"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257387
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"791f27d83e4f0125ad33e84dde4c613d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260214349,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260214349,
+    "wof:lastmodified":1537551174,
+    "wof:name":"Asklipeiio Epidavrou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02932,
+    37.60014,
+    23.02932,
+    37.60014
+],
+  "geometry": {"coordinates":[23.02932,37.60014],"type":"Point"}
+}

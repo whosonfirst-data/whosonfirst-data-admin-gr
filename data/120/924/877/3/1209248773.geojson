@@ -1,0 +1,76 @@
+{
+  "id": 1209248773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08055,34.82775,24.08055,34.82775",
+    "geom:latitude":34.82775,
+    "geom:longitude":24.08055,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9320",
+    "gn:asciiname":"Xenaki",
+    "gn:country_code":"GR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":251589,
+    "gn:latitude":34.82775,
+    "gn:longitude":24.08055,
+    "gn:modification_date":"2015-09-21",
+    "gn:name":"Xen\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039e\u03b5\u03bd\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03b5\u03bd\u03ac\u03ba\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Xenaki"
+    ],
+    "name:und_x_variant":[
+        "Xenian\u00e1",
+        "Xen\u00e1ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251589
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ee1d12ffcc7baa62da8001e77a1bc447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248773
+        }
+    ],
+    "wof:id":1209248773,
+    "wof:lastmodified":1537624146,
+    "wof:name":"Xenaki",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08055,
+    34.82775,
+    24.08055,
+    34.82775
+],
+  "geometry": {"coordinates":[24.08055,34.82775],"type":"Point"}
+}

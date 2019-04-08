@@ -1,0 +1,76 @@
+{
+  "id": 1193172193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90179,37.39824,24.90179,37.39824",
+    "geom:latitude":37.39824,
+    "geom:longitude":24.90179,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Adeiata",
+    "gn:country_code":"GR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259380,
+    "gn:latitude":37.39824,
+    "gn:longitude":24.90179,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"\u00c1deiata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1deiata"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b4\u03b5\u03b9\u03b1\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Konizop\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259380
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2790bc3346655a028807dcdb3f5fa6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193172193,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1193172193,
+    "wof:lastmodified":1537624488,
+    "wof:name":"Adeiata",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90179,
+    37.39824,
+    24.90179,
+    37.39824
+],
+  "geometry": {"coordinates":[24.90179,37.39824],"type":"Point"}
+}

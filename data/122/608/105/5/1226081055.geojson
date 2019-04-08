@@ -1,0 +1,77 @@
+{
+  "id": 1226081055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98866,37.61101,21.98866,37.61101",
+    "geom:latitude":37.61101,
+    "geom:longitude":21.98866,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Arachova",
+    "gn:country_code":"GR",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264716,
+    "gn:latitude":37.61101,
+    "gn:longitude":21.98866,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ar\u00e1chova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ar\u00e1chova"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03ac\u03c7\u03bf\u03b2\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kiss\u00f3s",
+        "Ar\u00e1khova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264716
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ae2ae5d013d01322c7d5efc2bd02d91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226081055,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226081055,
+    "wof:lastmodified":1537624737,
+    "wof:name":"Arachova",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98866,
+    37.61101,
+    21.98866,
+    37.61101
+],
+  "geometry": {"coordinates":[21.98866,37.61101],"type":"Point"}
+}

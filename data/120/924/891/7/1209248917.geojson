@@ -1,0 +1,73 @@
+{
+  "id": 1209248917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.34836,38.86683,21.34836,38.86683",
+    "geom:latitude":38.86683,
+    "geom:longitude":21.34836,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Amorgianoi",
+    "gn:country_code":"GR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265140,
+    "gn:latitude":38.86683,
+    "gn:longitude":21.34836,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Amorgiano\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Amorgiano\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03bf\u03c1\u03b3\u03b9\u03b1\u03bd\u03bf\u03af"
+    ],
+    "name:und_x_variant":[
+        "Amari\u00e1nous",
+        "Amoryiano\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265140
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cd5ff4266b4d386f02904c07da91fb8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248917
+        }
+    ],
+    "wof:id":1209248917,
+    "wof:lastmodified":1537624761,
+    "wof:name":"Amorgianoi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.34836,
+    38.86683,
+    21.34836,
+    38.86683
+],
+  "geometry": {"coordinates":[21.34836,38.86683],"type":"Point"}
+}

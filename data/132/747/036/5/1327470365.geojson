@@ -1,0 +1,73 @@
+{
+  "id": 1327470365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51617,39.26467,20.51617,39.26467",
+    "geom:latitude":39.26467,
+    "geom:longitude":20.51617,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9089",
+    "gn:asciiname":"Sideraioi",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445346,
+    "gn:latitude":39.26467,
+    "gn:longitude":20.51617,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Sidera\u00edoi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sidera\u00edoi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03b4\u03b5\u03c1\u03b1\u03af\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445346
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"681f17b29b6240f8d06efbfa5aa9763d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327470365,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1327470365,
+    "wof:lastmodified":1537624804,
+    "wof:name":"Sideraioi",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51617,
+    39.26467,
+    20.51617,
+    39.26467
+],
+  "geometry": {"coordinates":[20.51617,39.26467],"type":"Point"}
+}

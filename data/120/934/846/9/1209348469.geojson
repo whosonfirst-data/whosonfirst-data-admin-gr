@@ -1,0 +1,72 @@
+{
+  "id": 1209348469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26714,38.88674,22.26714,38.88674",
+    "geom:latitude":38.88674,
+    "geom:longitude":22.26714,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Varka",
+    "gn:country_code":"GR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252256,
+    "gn:latitude":38.88674,
+    "gn:longitude":22.26714,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Vark\u00e1",
+    "gn:population":42,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03ba\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Varka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252256
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"52bc040d6e81bbb83ebec619e7e0f1c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209348469
+        }
+    ],
+    "wof:id":1209348469,
+    "wof:lastmodified":1537624175,
+    "wof:name":"Varka",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26714,
+    38.88674,
+    22.26714,
+    38.88674
+],
+  "geometry": {"coordinates":[22.26714,38.88674],"type":"Point"}
+}

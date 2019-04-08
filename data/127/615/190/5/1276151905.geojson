@@ -1,0 +1,73 @@
+{
+  "id": 1276151905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.42453,38.12391,23.42453,38.12391",
+    "geom:latitude":38.12391,
+    "geom:longitude":23.42453,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230.0",
+    "gn:asciiname":"Fichthi",
+    "gn:country_code":"GR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035328,
+    "gn:latitude":38.12391,
+    "gn:longitude":23.42453,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"F\u00edchthi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "F\u00edchthi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03af\u03c7\u03b8\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035328
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a6f1cbadf37be2b19531c51629232967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276151905,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1276151905,
+    "wof:lastmodified":1537625104,
+    "wof:name":"Fichthi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42453,
+    38.12391,
+    23.42453,
+    38.12391
+],
+  "geometry": {"coordinates":[23.42453,38.12391],"type":"Point"}
+}

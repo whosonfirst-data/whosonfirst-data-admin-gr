@@ -1,0 +1,85 @@
+{
+  "id": 1243007405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68199,35.194,25.68199,35.194",
+    "geom:latitude":35.194,
+    "geom:longitude":25.68199,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Kakokamotes",
+    "gn:country_code":"GR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261652,
+    "gn:latitude":35.194,
+    "gn:longitude":25.68199,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Kakok\u00e1motes",
+    "gn:population":53,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ba\u03bf\u03ba\u03ac\u03bc\u03c9\u03c4\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03ba\u03bf\u03ba\u03ac\u03bc\u03c9\u03c4\u03b1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kakokamotes"
+    ],
+    "name:und_x_variant":[
+        "Met\u00f3khi Kakok\u00e1motes",
+        "Kakok\u00e1motes Met\u00f3khi",
+        "Kakok\u00e1motai",
+        "Kakok\u00e1motes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261652
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b084e248222f7f38bf07de4101c9ff6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243007405,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243007405,
+    "wof:lastmodified":1537624602,
+    "wof:name":"Kakokamotes",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68199,
+    35.194,
+    25.68199,
+    35.194
+],
+  "geometry": {"coordinates":[25.68199,35.194],"type":"Point"}
+}

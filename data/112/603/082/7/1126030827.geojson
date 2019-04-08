@@ -1,0 +1,130 @@
+{
+  "id": 1126030827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31667,41.05,23.31667,41.05",
+    "geom:latitude":41.05,
+    "geom:longitude":23.31667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1869,
+    "gn:population":1619,
+    "iso:country":"GR",
+    "lbl:latitude":41.05,
+    "lbl:longitude":23.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0631\u064a\u0645\u0648\u0646\u064a\u0643\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u043b\u044f\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Strymoniko"
+    ],
+    "name:ell_x_preferred":[
+        "Strymonik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03c1\u03c5\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc",
+        "Strymonik\u00f3n",
+        "\u03a3\u03c4\u03c1\u03c5\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Strymoniko"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03c1\u03c5\u03bc\u03c9\u03bd\u03b9\u03ba\u03cc \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Strymoniko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30ea\u30e2\u30cb\u30b3"
+    ],
+    "name:mac_x_preferred":[
+        "\u041e\u0440\u0459\u0430\u043a"
+    ],
+    "name:nno_x_preferred":[
+        "Strymonik\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Strymonik\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "\u00d3rliakon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734128,
+    "qs_pg:gn_pop":1869,
+    "qs_pg:name":"Strimonikon",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":256214,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":963028,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734128,
+        "gp:id":963028,
+        "qs_pg:id":256214,
+        "wd:id":"Q3405120"
+    },
+    "wof:country":"GR",
+    "wof:created":1497301460,
+    "wof:geomhash":"020d837c041abc679208861447e776df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126030827,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1126030827,
+    "wof:lastmodified":1514444058,
+    "wof:name":"Strimonikon",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1619,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31667,
+    41.05,
+    23.31667,
+    41.05
+],
+  "geometry": {"coordinates":[23.31667,41.05],"type":"Point"}
+}

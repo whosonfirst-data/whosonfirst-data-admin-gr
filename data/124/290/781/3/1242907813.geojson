@@ -1,0 +1,67 @@
+{
+  "id": 1242907813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85789,37.60572,21.85789,37.60572",
+    "geom:latitude":37.60572,
+    "geom:longitude":21.85789,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238.0",
+    "gn:asciiname":"Heraia",
+    "gn:country_code":"GR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11395680,
+    "gn:latitude":37.60572,
+    "gn:longitude":21.85789,
+    "gn:modification_date":"2016-12-16",
+    "gn:name":"Heraia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395680
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9fecd7c8111aef295bae3a7f8c285ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242907813,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242907813,
+    "wof:lastmodified":1537081927,
+    "wof:name":"Heraia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85789,
+    37.60572,
+    21.85789,
+    37.60572
+],
+  "geometry": {"coordinates":[21.85789,37.60572],"type":"Point"}
+}

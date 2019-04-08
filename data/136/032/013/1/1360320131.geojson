@@ -1,0 +1,77 @@
+{
+  "id": 1360320131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82795,37.6554,22.82795,37.6554",
+    "geom:latitude":37.6554,
+    "geom:longitude":22.82795,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Dhendra",
+    "gn:country_code":"GR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263200,
+    "gn:latitude":37.6554,
+    "gn:longitude":22.82795,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Dh\u00e9ndra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03ad\u03bd\u03b4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Dendra"
+    ],
+    "name:und_x_variant":[
+        "Dh\u00e9ndhra",
+        "Dh\u00e9ndra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263200
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"05c9841a14c589e58638f1085423b47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360320131,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1360320131,
+    "wof:lastmodified":1537624672,
+    "wof:name":"Dhendra",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82795,
+    37.6554,
+    22.82795,
+    37.6554
+],
+  "geometry": {"coordinates":[22.82795,37.6554],"type":"Point"}
+}

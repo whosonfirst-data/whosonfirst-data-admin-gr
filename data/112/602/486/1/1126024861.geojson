@@ -1,0 +1,110 @@
+{
+  "id": 1126024861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11639,39.97944,21.11639,39.97944",
+    "geom:latitude":39.97944,
+    "geom:longitude":21.11639,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":500,
+    "gn:population":500,
+    "iso:country":"GR",
+    "lbl:latitude":39.97944,
+    "lbl:longitude":21.11639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u0432\u043e\u043b\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Perivoli"
+    ],
+    "name:eng_x_preferred":[
+        "Perivoli"
+    ],
+    "name:fre_x_preferred":[
+        "Perivoli"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Perivoli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ea\u30f4\u30a9\u30ea"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u0432\u043e\u043b\u0438"
+    ],
+    "name:nno_x_preferred":[
+        "Periv\u00f3li"
+    ],
+    "name:swe_x_preferred":[
+        "Periv\u00f3lion- PREVALE"
+    ],
+    "name:unk_x_variant":[
+        "Periv\u00f3li"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255497,
+    "qs_pg:gn_pop":500,
+    "qs_pg:name":"Periv\u00f3lion- PREVALE",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546515,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255497,
+        "qs_pg:id":546515,
+        "wd:id":"Q2642890"
+    },
+    "wof:country":"GR",
+    "wof:created":1497301071,
+    "wof:geomhash":"f8228216d38866c24f24870df1dcc0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126024861,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1126024861,
+    "wof:lastmodified":1553816708,
+    "wof:name":"Periv\u00f3lion- PREVALE",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11639,
+    39.97944,
+    21.11639,
+    39.97944
+],
+  "geometry": {"coordinates":[21.11639,39.97944],"type":"Point"}
+}

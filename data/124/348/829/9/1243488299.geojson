@@ -1,0 +1,78 @@
+{
+  "id": 1243488299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14148,39.37362,22.14148,39.37362",
+    "geom:latitude":39.37362,
+    "geom:longitude":22.14148,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9096",
+    "gn:asciiname":"Kypseli",
+    "gn:country_code":"GR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259747,
+    "gn:latitude":39.37362,
+    "gn:longitude":22.14148,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kyps\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kyps\u00e9li"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03c8\u03ad\u03bb\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Baltal\u00e1r",
+        "Batal\u00e1r",
+        "Kips\u00e9li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259747
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ec4427cfa9c569e83de0620e0db883e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243488299,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243488299,
+    "wof:lastmodified":1537624505,
+    "wof:name":"Kypseli",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14148,
+    39.37362,
+    22.14148,
+    39.37362
+],
+  "geometry": {"coordinates":[22.14148,39.37362],"type":"Point"}
+}

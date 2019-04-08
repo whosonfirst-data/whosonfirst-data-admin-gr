@@ -1,0 +1,66 @@
+{
+  "id": 1209249569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40798,37.89883,21.40798,37.89883",
+    "geom:latitude":37.89883,
+    "geom:longitude":21.40798,
+    "gn:admin1_code":"ESYE25",
+    "gn:asciiname":"Ayios Dhimitrios",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263987,
+    "gn:latitude":37.89883,
+    "gn:longitude":21.40798,
+    "gn:modification_date":"2011-02-22",
+    "gn:name":"\u00c1yios Dhim\u00edtrios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marin\u00e1ki",
+        "\u00c1yios Dhim\u00edtrios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263987
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6fb63d191a58cbf32907ccd41bb617f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209249569
+        }
+    ],
+    "wof:id":1209249569,
+    "wof:lastmodified":1537624707,
+    "wof:name":"Ayios Dhimitrios",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40798,
+    37.89883,
+    21.40798,
+    37.89883
+],
+  "geometry": {"coordinates":[21.40798,37.89883],"type":"Point"}
+}

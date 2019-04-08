@@ -1,0 +1,133 @@
+{
+  "id": 1125847579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.23333,38.15,24.23333,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":24.23333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":38.15,
+    "lbl:longitude":24.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Estira"
+    ],
+    "name:dut_x_preferred":[
+        "Styra"
+    ],
+    "name:ell_x_preferred":[
+        "St\u00fdra"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03cd\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Styra"
+    ],
+    "name:fre_x_preferred":[
+        "Styra"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03cd\u03c1\u03b1 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d9\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Styra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c6\u30a3\u30e9"
+    ],
+    "name:lat_x_preferred":[
+        "Styra"
+    ],
+    "name:nno_x_preferred":[
+        "St\u00fdra"
+    ],
+    "name:oci_x_preferred":[
+        "Styra"
+    ],
+    "name:spa_x_preferred":[
+        "Estira"
+    ],
+    "name:swe_x_preferred":[
+        "St\u00fdra"
+    ],
+    "name:unk_x_variant":[
+        "Stura"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253163,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Styra",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":249025,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":966018,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253163,
+        "gp:id":966018,
+        "qs_pg:id":249025,
+        "wd:id":"Q47373"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293238,
+    "wof:geomhash":"ffc23b40cd22748fd3d91a0b6e96a0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125847579,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125847579,
+    "wof:lastmodified":1514444058,
+    "wof:name":"Styra",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23333,
+    38.15,
+    24.23333,
+    38.15
+],
+  "geometry": {"coordinates":[24.23333,38.15],"type":"Point"}
+}

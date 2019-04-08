@@ -1,0 +1,73 @@
+{
+  "id": 1209136633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.77714,37.06776,22.77714,37.06776",
+    "geom:latitude":37.06776,
+    "geom:longitude":22.77714,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9240",
+    "gn:asciiname":"Fylatika",
+    "gn:country_code":"GR",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262427,
+    "gn:latitude":37.06776,
+    "gn:longitude":22.77714,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Fyl\u00e1tika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fyl\u00e1tika"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03c5\u03bb\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Fil\u00e1",
+        "Fil\u00e1tika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262427
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"327febdbf8376aea1f5f990b6e7242f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209136633
+        }
+    ],
+    "wof:id":1209136633,
+    "wof:lastmodified":1537624632,
+    "wof:name":"Fylatika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.77714,
+    37.06776,
+    22.77714,
+    37.06776
+],
+  "geometry": {"coordinates":[22.77714,37.06776],"type":"Point"}
+}

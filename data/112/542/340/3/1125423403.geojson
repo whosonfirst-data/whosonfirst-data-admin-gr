@@ -1,0 +1,79 @@
+{
+  "id": 1125423403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84097,39.28318,20.84097,39.28318",
+    "geom:latitude":39.28318,
+    "geom:longitude":20.84097,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15410,
+    "gn:population":15410,
+    "iso:country":"GR",
+    "lbl:latitude":39.28318,
+    "lbl:longitude":20.84097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0396\u03b7\u03c1\u03bf\u03cd"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133741,
+    "qs_pg:gn_pop":15410,
+    "qs_pg:name":"Dimos Ziros",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109643,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133741,
+        "qs_pg:id":109643
+    },
+    "wof:country":"GR",
+    "wof:created":1497052686,
+    "wof:geomhash":"031684ea61c3c09f756e8ea2add10114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125423403,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125423403,
+    "wof:lastmodified":1509390539,
+    "wof:name":"Dimos Ziros",
+    "wof:parent_id":85684631,
+    "wof:placetype":"localadmin",
+    "wof:population":15410,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84097,
+    39.28318,
+    20.84097,
+    39.28318
+],
+  "geometry": {"coordinates":[20.84097,39.28318],"type":"Point"}
+}

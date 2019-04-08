@@ -1,0 +1,70 @@
+{
+  "id": 1209552481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65106,38.94958,21.65106,38.94958",
+    "geom:latitude":38.94958,
+    "geom:longitude":21.65106,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9156",
+    "gn:asciiname":"Marathia",
+    "gn:country_code":"GR",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257739,
+    "gn:latitude":38.94958,
+    "gn:longitude":21.65106,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Marathi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03b8\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Marathi\u00e1",
+        "Marath\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257739
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a70d107f78bb807369d097c0a3c06c53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209552481
+        }
+    ],
+    "wof:id":1209552481,
+    "wof:lastmodified":1537624416,
+    "wof:name":"Marathia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65106,
+    38.94958,
+    21.65106,
+    38.94958
+],
+  "geometry": {"coordinates":[21.65106,38.94958],"type":"Point"}
+}

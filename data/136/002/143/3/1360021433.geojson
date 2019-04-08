@@ -1,0 +1,76 @@
+{
+  "id": 1360021433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82285,39.77533,19.82285,39.77533",
+    "geom:latitude":39.77533,
+    "geom:longitude":19.82285,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Lazaratika",
+    "gn:country_code":"GR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165924,
+    "gn:latitude":39.77533,
+    "gn:longitude":19.82285,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Lazar\u00e1tika",
+    "gn:population":47,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b6\u03b1\u03c1\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lazaratika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165924
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e55710ff2ea8c23818f0a3a93513b0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360021433,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1360021433,
+    "wof:lastmodified":1537625049,
+    "wof:name":"Lazaratika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82285,
+    39.77533,
+    19.82285,
+    39.77533
+],
+  "geometry": {"coordinates":[19.82285,39.77533],"type":"Point"}
+}

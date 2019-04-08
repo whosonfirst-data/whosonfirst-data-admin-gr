@@ -1,0 +1,81 @@
+{
+  "id": 1293134591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28835,41.2501,23.28835,41.2501",
+    "geom:latitude":41.2501,
+    "geom:longitude":23.28835,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9055",
+    "gn:asciiname":"Agriolevka",
+    "gn:country_code":"GR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":736975,
+    "gn:latitude":41.2501,
+    "gn:longitude":23.28835,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Agriol\u00e9vka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u039f\u03c5\u03bc\u03c0\u03b1\u03b3\u03b9\u03ac"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03c1\u03b9\u03cc\u03bb\u03b5\u03c5\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03bc\u03c0\u03b1\u03b3\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Ubay\u00e1",
+        "Agri\u00f3levka",
+        "Agriol\u00e9vki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736975
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f05e029b5a5a0de096ddd19544314ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293134591,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293134591,
+    "wof:lastmodified":1537624988,
+    "wof:name":"Agriolevka",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28835,
+    41.2501,
+    23.28835,
+    41.2501
+],
+  "geometry": {"coordinates":[23.28835,41.2501],"type":"Point"}
+}

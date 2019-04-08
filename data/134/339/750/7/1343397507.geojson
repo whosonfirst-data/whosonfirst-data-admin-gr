@@ -1,0 +1,73 @@
+{
+  "id": 1343397507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73572,38.72653,21.73572,38.72653",
+    "geom:latitude":38.72653,
+    "geom:longitude":21.73572,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Granas",
+    "gn:country_code":"GR",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261887,
+    "gn:latitude":38.72653,
+    "gn:longitude":21.73572,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Gran\u00e1s",
+    "gn:population":24,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03bd\u03ac\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261887
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"05346fe09df060e5856c865b97101daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343397507,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343397507,
+    "wof:lastmodified":1537550987,
+    "wof:name":"Granas",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73572,
+    38.72653,
+    21.73572,
+    38.72653
+],
+  "geometry": {"coordinates":[21.73572,38.72653],"type":"Point"}
+}

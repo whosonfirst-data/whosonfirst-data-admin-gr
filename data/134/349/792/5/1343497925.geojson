@@ -1,0 +1,71 @@
+{
+  "id": 1343497925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09205,38.2452,26.09205,38.2452",
+    "geom:latitude":38.2452,
+    "geom:longitude":26.09205,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"50.0",
+    "gn:admin3_code":"9266",
+    "gn:asciiname":"Moni Taksiarchon",
+    "gn:country_code":"GR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9353170,
+    "gn:latitude":38.2452,
+    "gn:longitude":26.09205,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Mon\u00ed Taksiarch\u00f3n",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u03a4\u03b1\u03be\u03b9\u03b1\u03c1\u03c7\u03ce\u03bd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9353170
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"902630f764ffdc7f8484831b10510e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1343497925,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343497925,
+    "wof:lastmodified":1537551179,
+    "wof:name":"Moni Taksiarchon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09205,
+    38.2452,
+    26.09205,
+    38.2452
+],
+  "geometry": {"coordinates":[26.09205,38.2452],"type":"Point"}
+}

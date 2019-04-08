@@ -1,0 +1,79 @@
+{
+  "id": 1276910891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45085,36.46737,22.45085,36.46737",
+    "geom:latitude":36.46737,
+    "geom:longitude":22.45085,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Xerolakkos",
+    "gn:country_code":"GR",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":251489,
+    "gn:latitude":36.46737,
+    "gn:longitude":22.45085,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Xer\u00f3lakkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039e\u03b5\u03c1\u03cc\u03bb\u03b1\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03b7\u03c1\u03cc\u03bb\u03b1\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Xerolakkos"
+    ],
+    "name:und_x_variant":[
+        "Xir\u00f3lakkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251489
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0d56029d49880b2cd0f0bc9cdbc707de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276910891,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276910891,
+    "wof:lastmodified":1537624143,
+    "wof:name":"Xerolakkos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45085,
+    36.46737,
+    22.45085,
+    36.46737
+],
+  "geometry": {"coordinates":[22.45085,36.46737],"type":"Point"}
+}

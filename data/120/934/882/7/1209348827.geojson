@@ -1,0 +1,73 @@
+{
+  "id": 1209348827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00665,37.20131,22.00665,37.20131",
+    "geom:latitude":37.20131,
+    "geom:longitude":22.00665,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9256",
+    "gn:asciiname":"Tsoukalaiika",
+    "gn:country_code":"GR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252423,
+    "gn:latitude":37.20131,
+    "gn:longitude":22.00665,
+    "gn:modification_date":"2014-05-09",
+    "gn:name":"Tsoukala\u00edika",
+    "gn:population":306,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03ba\u03b1\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Tsoukal\u00e9\u00efka",
+        "Tsoukala\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252423
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1a30af11af976ce3d27aad369bc35285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209348827
+        }
+    ],
+    "wof:id":1209348827,
+    "wof:lastmodified":1537624182,
+    "wof:name":"Tsoukalaiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00665,
+    37.20131,
+    22.00665,
+    37.20131
+],
+  "geometry": {"coordinates":[22.00665,37.20131],"type":"Point"}
+}

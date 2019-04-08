@@ -1,0 +1,98 @@
+{
+  "id": 1310339065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60637,35.37792,24.60637,35.37792",
+    "geom:latitude":35.37792,
+    "geom:longitude":24.60637,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Magnisia",
+    "gn:country_code":"GR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258014,
+    "gn:latitude":35.37792,
+    "gn:longitude":24.60637,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Magnis\u00eda",
+    "gn:population":169,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u039d\u03ad\u03b1 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1"
+    ],
+    "name:ell_x_historical":[
+        "\u039d\u03ad\u03b1 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b1 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1"
+    ],
+    "name:eng_x_colloquial":[
+        "Nea Magnisia"
+    ],
+    "name:eng_x_historical":[
+        "Nea Magnisia"
+    ],
+    "name:eng_x_preferred":[
+        "Magnisia"
+    ],
+    "name:eng_x_variant":[
+        "Nea Magnisia"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9a Magnis\u00eda",
+        "Magnis\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258014
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"743b3a16d1eed34cd2102d7288412d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310339065,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310339065,
+    "wof:lastmodified":1537624427,
+    "wof:name":"Magnisia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60637,
+    35.37792,
+    24.60637,
+    35.37792
+],
+  "geometry": {"coordinates":[24.60637,35.37792],"type":"Point"}
+}

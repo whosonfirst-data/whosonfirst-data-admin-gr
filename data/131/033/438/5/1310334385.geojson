@@ -1,0 +1,77 @@
+{
+  "id": 1310334385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66511,37.96491,23.66511,37.96491",
+    "geom:latitude":37.96491,
+    "geom:longitude":23.66511,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9204",
+    "gn:asciiname":"Agios Ioannis Rentis",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8478257,
+    "gn:latitude":37.96491,
+    "gn:longitude":23.66511,
+    "gn:modification_date":"2014-05-23",
+    "gn:name":"Agios Ioannis Rentis",
+    "gn:population":16050,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a1\u03ad\u03bd\u03c4\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03ad\u03bd\u03c4\u03b7\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8478257,
+        "wk:page":"Agios_Ioannis_Rentis"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f6f88d1c56312d737b53f154608855ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310334385,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1310334385,
+    "wof:lastmodified":1537563177,
+    "wof:name":"Agios Ioannis Rentis",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":16050,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66511,
+    37.96491,
+    23.66511,
+    37.96491
+],
+  "geometry": {"coordinates":[23.66511,37.96491],"type":"Point"}
+}

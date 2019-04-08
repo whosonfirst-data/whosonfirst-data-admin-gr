@@ -1,0 +1,74 @@
+{
+  "id": 1310435993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98083,41.30121,25.98083,41.30121",
+    "geom:latitude":41.30121,
+    "geom:longitude":25.98083,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9010",
+    "gn:asciiname":"Sarpidonia",
+    "gn:country_code":"GR",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":734340,
+    "gn:latitude":41.30121,
+    "gn:longitude":25.98083,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Sarpidon\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Sarpidon\u00eda"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03c0\u03b7\u03b4\u03bf\u03bd\u03af\u03b1",
+        "Sarpidhon\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734340
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"748564c08638f288881679074b20e523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310435993,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310435993,
+    "wof:lastmodified":1537624837,
+    "wof:name":"Sarpidonia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98083,
+    41.30121,
+    25.98083,
+    41.30121
+],
+  "geometry": {"coordinates":[25.98083,41.30121],"type":"Point"}
+}

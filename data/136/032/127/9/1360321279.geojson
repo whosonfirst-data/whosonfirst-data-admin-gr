@@ -1,0 +1,78 @@
+{
+  "id": 1360321279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02492,39.20311,26.02492,39.20311",
+    "geom:latitude":39.20311,
+    "geom:longitude":26.02492,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Khidhira",
+    "gn:country_code":"GR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259997,
+    "gn:latitude":39.20311,
+    "gn:longitude":26.02492,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"Kh\u00eddhira",
+    "gn:population":472,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03af\u03b4\u03b7\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03cd\u03b4\u03b7\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chidira"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259997,
+        "wk:page":"Chidira"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d419aa7a3529e189e98b562b5a69d9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1360321279,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360321279,
+    "wof:lastmodified":1537624517,
+    "wof:name":"Khidhira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":472,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02492,
+    39.20311,
+    26.02492,
+    39.20311
+],
+  "geometry": {"coordinates":[26.02492,39.20311],"type":"Point"}
+}

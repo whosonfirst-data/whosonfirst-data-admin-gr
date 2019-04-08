@@ -1,0 +1,78 @@
+{
+  "id": 1293420493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11667,40.92604,26.11667,40.92604",
+    "geom:latitude":40.92604,
+    "geom:longitude":26.11667,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Pylaia",
+    "gn:country_code":"GR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734642,
+    "gn:latitude":40.92604,
+    "gn:longitude":26.11667,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Pyla\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c5\u03bb\u03b1\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Pyla\u00eda"
+    ],
+    "name:und_x_variant":[
+        "Turbal\u00edko\u00ef",
+        "Pila\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734642,
+        "wk:page":"Pylaia%2C_Evros"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"97a55b77ea916a04157c2976a2d1102e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293420493,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293420493,
+    "wof:lastmodified":1537624854,
+    "wof:name":"Pylaia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11667000000001,
+    40.92604,
+    26.11667000000001,
+    40.92604
+],
+  "geometry": {"coordinates":[26.11667000000001,40.92604],"type":"Point"}
+}

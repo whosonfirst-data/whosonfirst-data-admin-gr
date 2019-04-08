@@ -1,0 +1,80 @@
+{
+  "id": 1293619953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8702,37.09927,22.8702,37.09927",
+    "geom:latitude":37.09927,
+    "geom:longitude":22.8702,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9240",
+    "gn:asciiname":"Pyrgoudi",
+    "gn:country_code":"GR",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255208,
+    "gn:latitude":37.09927,
+    "gn:longitude":22.8702,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Pyrgo\u00fadi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pyrgo\u00fadi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c5\u03c1\u03b3\u03bf\u03cd\u03b4\u03b9",
+        "Pyrgo\u00fadion",
+        "\u03a0\u03c5\u03c1\u03b3\u03bf\u03cd\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Pirgo\u00fasi",
+        "Pirgo\u00fadhi",
+        "Pirgo\u00fadhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255208
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"20da3b69add8e8865c27a226a924da28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293619953,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293619953,
+    "wof:lastmodified":1537624295,
+    "wof:name":"Pyrgoudi",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8702,
+    37.09927,
+    22.8702,
+    37.09927
+],
+  "geometry": {"coordinates":[22.8702,37.09927],"type":"Point"}
+}

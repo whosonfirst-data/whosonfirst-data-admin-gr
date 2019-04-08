@@ -1,0 +1,82 @@
+{
+  "id": 1210050383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69857,40.89537,23.69857,40.89537",
+    "geom:latitude":40.89537,
+    "geom:longitude":23.69857,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9050",
+    "gn:asciiname":"Ivira",
+    "gn:country_code":"GR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736091,
+    "gn:latitude":40.89537,
+    "gn:longitude":23.69857,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"\u00cdvira",
+    "gn:population":615,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0432\u0438\u0440\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03b2\u03b7\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u00cdvira"
+    ],
+    "name:eng_x_preferred":[
+        "Ivira"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736091
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b58420401f0f43cb7dac04b98e364243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210050383,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1210050383,
+    "wof:lastmodified":1537624939,
+    "wof:name":"Ivira",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":615,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69857,
+    40.89537,
+    23.69857,
+    40.89537
+],
+  "geometry": {"coordinates":[23.69857,40.89537],"type":"Point"}
+}

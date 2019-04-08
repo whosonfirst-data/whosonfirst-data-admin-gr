@@ -1,0 +1,73 @@
+{
+  "id": 1309842031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6074,37.04996,21.6074,37.04996",
+    "geom:latitude":37.04996,
+    "geom:longitude":21.6074,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Kanalos",
+    "gn:country_code":"GR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261166,
+    "gn:latitude":37.04996,
+    "gn:longitude":21.6074,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"K\u00e1nalos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1nalos"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03bd\u03b1\u03bb\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261166
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"47e7f36e8cac1fffdadbf2693fa9287e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309842031,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1309842031,
+    "wof:lastmodified":1537624577,
+    "wof:name":"Kanalos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6074,
+    37.04996,
+    21.6074,
+    37.04996
+],
+  "geometry": {"coordinates":[21.6074,37.04996],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226571431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.636,35.27814,25.636,35.27814",
+    "geom:latitude":35.27814,
+    "geom:longitude":25.636,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Kourounes",
+    "gn:country_code":"GR",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259003,
+    "gn:latitude":35.27814,
+    "gn:longitude":25.636,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Kouro\u00fanes",
+    "gn:population":45,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03bf\u03cd\u03bd\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kourounes"
+    ],
+    "name:und_x_variant":[
+        "Kouro\u00fanes",
+        "Kouro\u00fanai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259003
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"73ef4e60e2c41df31814af78df6f6867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226571431,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226571431,
+    "wof:lastmodified":1537624475,
+    "wof:name":"Kourounes",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.636,
+    35.27814,
+    25.636,
+    35.27814
+],
+  "geometry": {"coordinates":[25.636,35.27814],"type":"Point"}
+}

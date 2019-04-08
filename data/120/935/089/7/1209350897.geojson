@@ -1,0 +1,70 @@
+{
+  "id": 1209350897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03663,39.45354,21.03663,39.45354",
+    "geom:latitude":39.45354,
+    "geom:longitude":21.03663,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Frasta",
+    "gn:country_code":"GR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262230,
+    "gn:latitude":39.45354,
+    "gn:longitude":21.03663,
+    "gn:modification_date":"2015-02-02",
+    "gn:name":"Fr\u00e1sta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03c1\u03ac\u03c3\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Sinoikism\u00f3s Frast\u00e1",
+        "Fr\u00e1sta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262230
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6df28461e12311679f8bde93c5573376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209350897
+        }
+    ],
+    "wof:id":1209350897,
+    "wof:lastmodified":1537624624,
+    "wof:name":"Frasta",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03663,
+    39.45354,
+    21.03663,
+    39.45354
+],
+  "geometry": {"coordinates":[21.03663,39.45354],"type":"Point"}
+}

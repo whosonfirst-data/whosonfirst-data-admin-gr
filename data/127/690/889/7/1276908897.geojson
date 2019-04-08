@@ -1,0 +1,72 @@
+{
+  "id": 1276908897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.57151,39.07578,26.57151,39.07578",
+    "geom:latitude":39.07578,
+    "geom:longitude":26.57151,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Akrotirion",
+    "gn:country_code":"GR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265395,
+    "gn:latitude":39.07578,
+    "gn:longitude":26.57151,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"Akrot\u00edrion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03ba\u03c1\u03c9\u03c4\u03b7\u03c1\u03b9",
+        "\u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265395
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7570d295f813411d94fddebb4c5d27a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276908897,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276908897,
+    "wof:lastmodified":1537624775,
+    "wof:name":"Akrotirion",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.57151,
+    39.07578,
+    26.57151,
+    39.07578
+],
+  "geometry": {"coordinates":[26.57151,39.07578],"type":"Point"}
+}

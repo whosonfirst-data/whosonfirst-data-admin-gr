@@ -1,0 +1,75 @@
+{
+  "id": 1343594939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93235,40.82279,21.93235,40.82279",
+    "geom:latitude":40.82279,
+    "geom:longitude":21.93235,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9043",
+    "gn:asciiname":"Nisi",
+    "gn:country_code":"GR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734905,
+    "gn:latitude":40.82279,
+    "gn:longitude":21.93235,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Nis\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Nis\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b7\u03c3\u03af",
+        "Nis\u00edon",
+        "\u039d\u03b7\u03c3\u03af\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734905
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4632b919b75f091e2bdc9241da0305c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343594939,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1343594939,
+    "wof:lastmodified":1537624869,
+    "wof:name":"Nisi",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93235,
+    40.82279000000001,
+    21.93235,
+    40.82279000000001
+],
+  "geometry": {"coordinates":[21.93235,40.82279000000001],"type":"Point"}
+}

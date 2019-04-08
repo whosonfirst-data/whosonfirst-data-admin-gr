@@ -1,0 +1,77 @@
+{
+  "id": 1277111105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84311,37.21453,21.84311,37.21453",
+    "geom:latitude":37.21453,
+    "geom:longitude":21.84311,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Chrysotopos",
+    "gn:country_code":"GR",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259855,
+    "gn:latitude":37.21453,
+    "gn:longitude":21.84311,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Chrys\u00f3topos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chrys\u00f3topos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c1\u03c5\u03c3\u03cc\u03c4\u03bf\u03c0\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Khr\u00edsovo",
+        "Khris\u00f3topos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259855
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bbcf2a6ad8ff9eadbb9ceff550b37ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277111105,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277111105,
+    "wof:lastmodified":1537624511,
+    "wof:name":"Chrysotopos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84311,
+    37.21453,
+    21.84311,
+    37.21453
+],
+  "geometry": {"coordinates":[21.84311,37.21453],"type":"Point"}
+}

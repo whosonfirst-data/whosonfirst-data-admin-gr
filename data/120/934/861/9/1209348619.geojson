@@ -1,0 +1,84 @@
+{
+  "id": 1209348619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66652,38.87343,21.66652,38.87343",
+    "geom:latitude":38.87343,
+    "geom:longitude":21.66652,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Fidhakia",
+    "gn:country_code":"GR",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262442,
+    "gn:latitude":38.87343,
+    "gn:longitude":21.66652,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Fidh\u00e1kia",
+    "gn:population":27,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a6\u03b5\u03b9\u03b4\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b9\u03b4\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b5\u03b9\u03b4\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Feidakia"
+    ],
+    "name:eng_x_preferred":[
+        "Fidakia"
+    ],
+    "name:eng_x_variant":[
+        "Feidakia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262442
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e41c7a450e0db670382e7fc62d78d072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209348619
+        }
+    ],
+    "wof:id":1209348619,
+    "wof:lastmodified":1537624633,
+    "wof:name":"Fidhakia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66652,
+    38.87343,
+    21.66652,
+    38.87343
+],
+  "geometry": {"coordinates":[21.66652,38.87343],"type":"Point"}
+}

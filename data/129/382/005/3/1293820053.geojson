@@ -1,0 +1,78 @@
+{
+  "id": 1293820053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0143,39.40169,22.0143,39.40169",
+    "geom:latitude":39.40169,
+    "geom:longitude":22.0143,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9095",
+    "gn:asciiname":"Gorgovites",
+    "gn:country_code":"GR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261987,
+    "gn:latitude":39.40169,
+    "gn:longitude":22.0143,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gorgov\u00edtes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Gorgov\u00edtes"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03bf\u03c1\u03b3\u03bf\u03b2\u03af\u03c4\u03b5\u03c2",
+        "\u0393\u03bf\u03c1\u03b3\u03bf\u03b2\u03af\u03c4\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Gourgov\u00edtes",
+        "Gorgov\u00edtai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261987
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5ea1e13c306f130b9104ca6f894d62e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293820053,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293820053,
+    "wof:lastmodified":1537624615,
+    "wof:name":"Gorgovites",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0143,
+    39.40169,
+    22.0143,
+    39.40169
+],
+  "geometry": {"coordinates":[22.0143,39.40169],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293420183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62186,37.58518,22.62186,37.58518",
+    "geom:latitude":37.58518,
+    "geom:longitude":22.62186,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Zogka",
+    "gn:country_code":"GR",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257336,
+    "gn:latitude":37.58518,
+    "gn:longitude":22.62186,
+    "gn:modification_date":"2014-07-30",
+    "gn:name":"Z\u00f3gka",
+    "gn:population":17,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03cc\u03b3\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Zogka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257336
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0eee5e7a84091bbabf8acc53234f6a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293420183,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293420183,
+    "wof:lastmodified":1537625055,
+    "wof:name":"Zogka",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62186,
+    37.58518,
+    22.62186,
+    37.58518
+],
+  "geometry": {"coordinates":[22.62186,37.58518],"type":"Point"}
+}

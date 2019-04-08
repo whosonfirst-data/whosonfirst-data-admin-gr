@@ -1,0 +1,144 @@
+{
+  "id": 101857657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.158234,40.767681,22.158234,40.767681",
+    "geom:latitude":40.767681,
+    "geom:longitude":22.158234,
+    "gn:population":4562,
+    "iso:country":"GR",
+    "lbl:latitude":40.767681,
+    "lbl:longitude":22.158234,
+    "mps:latitude":40.767681,
+    "mps:longitude":22.158234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0643\u064a\u062f\u0631\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0442\u043e\u043a\u043e\u043f"
+    ],
+    "name:dut_x_preferred":[
+        "Skydra"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03cd\u03b4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Skydra"
+    ],
+    "name:fin_x_preferred":[
+        "Sk\u00fddra"
+    ],
+    "name:fre_x_preferred":[
+        "Skydra"
+    ],
+    "name:ger_x_preferred":[
+        "Skydra"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ba\u03cd\u03b4\u03c1\u03b1"
+    ],
+    "name:hun_x_preferred":[
+        "Skydra"
+    ],
+    "name:ita_x_preferred":[
+        "Skydra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ad\u30c9\u30e9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0440\u0442\u0438\u043a\u043e\u043f"
+    ],
+    "name:nno_x_preferred":[
+        "Sk\u00fddra"
+    ],
+    "name:pol_x_preferred":[
+        "Skidra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0438\u0434\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Skydra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0438\u0434\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dimos Skydra"
+    ],
+    "name:unk_x_variant":[
+        "Vertek\u00f3p"
+    ],
+    "name:vie_x_preferred":[
+        "Skydra"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"PELLA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u039a\u03a5\u0394\u03a1\u0391",
+    "qs:loc_alt":"SKYDRA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734235,
+        "gp:id":56558201,
+        "qs:id":947057,
+        "wd:id":"Q1195159"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ea615765e6b6e4f909c3de73b7476941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857657,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857657,
+    "wof:lastmodified":1544744010,
+    "wof:name":"\u03a3\u039a\u03a5\u0394\u03a1\u0391",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":4562,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.158234,
+    40.767681,
+    22.158234,
+    40.767681
+],
+  "geometry": {"coordinates":[22.158234,40.767681],"type":"Point"}
+}

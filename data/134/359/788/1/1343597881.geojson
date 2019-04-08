@@ -1,0 +1,73 @@
+{
+  "id": 1343597881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55199,41.28815,25.55199,41.28815",
+    "geom:latitude":41.28815,
+    "geom:longitude":25.55199,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Sarakini",
+    "gn:country_code":"GR",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734349,
+    "gn:latitude":41.28815,
+    "gn:longitude":25.55199,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Sarakin\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sarakin\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03b1\u03ba\u03b7\u03bd\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734349
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"929ea04978cfc6c2e51701fdd3669acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343597881,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343597881,
+    "wof:lastmodified":1537624837,
+    "wof:name":"Sarakini",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55199,
+    41.28815,
+    25.55199,
+    41.28815
+],
+  "geometry": {"coordinates":[25.55199,41.28815],"type":"Point"}
+}

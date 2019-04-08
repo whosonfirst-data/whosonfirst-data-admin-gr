@@ -1,0 +1,77 @@
+{
+  "id": 1242714713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54844,38.05425,24.54844,38.05425",
+    "geom:latitude":38.05425,
+    "geom:longitude":24.54844,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Katochori",
+    "gn:country_code":"GR",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260652,
+    "gn:latitude":38.05425,
+    "gn:longitude":24.54844,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Katoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Katoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c4\u03c9\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Khori\u00f3",
+        "Katikh\u00f3ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260652
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"153a3cdeb15119256ffe91c418493cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242714713,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1242714713,
+    "wof:lastmodified":1537624554,
+    "wof:name":"Katochori",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54844,
+    38.05425,
+    24.54844,
+    38.05425
+],
+  "geometry": {"coordinates":[24.54844,38.05425],"type":"Point"}
+}

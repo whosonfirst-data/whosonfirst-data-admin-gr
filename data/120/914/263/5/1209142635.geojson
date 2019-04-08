@@ -1,0 +1,74 @@
+{
+  "id": 1209142635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85336,37.87053,21.85336,37.87053",
+    "geom:latitude":37.87053,
+    "geom:longitude":21.85336,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Oreini",
+    "gn:country_code":"GR",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256276,
+    "gn:latitude":37.87053,
+    "gn:longitude":21.85336,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Orein\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Orein\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03b5\u03b9\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Bosten\u00edtsa",
+        "Mosten\u00edtsa",
+        "Orin\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256276
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"81c2ef0ddf7fd94ba7c700b6730ccdad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209142635
+        }
+    ],
+    "wof:id":1209142635,
+    "wof:lastmodified":1537624346,
+    "wof:name":"Oreini",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85336,
+    37.87053,
+    21.85336,
+    37.87053
+],
+  "geometry": {"coordinates":[21.85336,37.87053],"type":"Point"}
+}

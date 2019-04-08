@@ -1,0 +1,74 @@
+{
+  "id": 1293036791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24185,35.12638,25.24185,35.12638",
+    "geom:latitude":35.12638,
+    "geom:longitude":25.24185,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Agia Semni",
+    "gn:country_code":"GR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264160,
+    "gn:latitude":35.12638,
+    "gn:longitude":25.24185,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ag\u00eda Semn\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ag\u00eda Semn\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u03a3\u03b5\u03bc\u03bd\u03ae",
+        "Ay\u00eda Semn\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264160
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8e4d2ba62ddd9596ab6f2341c5662b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293036791,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293036791,
+    "wof:lastmodified":1537624716,
+    "wof:name":"Agia Semni",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24185,
+    35.12638,
+    25.24185,
+    35.12638
+],
+  "geometry": {"coordinates":[25.24185,35.12638],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209552439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.89544,37.75087,20.89544,37.75087",
+    "geom:latitude":37.75087,
+    "geom:longitude":20.89544,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Margaraiiika",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166438,
+    "gn:latitude":37.75087,
+    "gn:longitude":20.89544,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Margara\u00ediika",
+    "gn:population":303,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b3\u03b1\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Margaraiika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166438
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d65d804b9e088609a763f84a1fd423a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209552439
+        }
+    ],
+    "wof:id":1209552439,
+    "wof:lastmodified":1537625052,
+    "wof:name":"Margaraiiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89544,
+    37.75087,
+    20.89544,
+    37.75087
+],
+  "geometry": {"coordinates":[20.89544,37.75087],"type":"Point"}
+}

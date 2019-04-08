@@ -1,0 +1,78 @@
+{
+  "id": 1226682483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52528,38.14658,23.52528,38.14658",
+    "geom:latitude":38.14658,
+    "geom:longitude":23.52528,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9147",
+    "gn:asciiname":"Kokkini",
+    "gn:country_code":"GR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259577,
+    "gn:latitude":38.14658,
+    "gn:longitude":23.52528,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kokk\u00edni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03af\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03ba\u03ba\u03af\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kokk\u00ednis",
+        "Kokk\u00edni",
+        "Kokk\u00ednion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259577
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"abb86517dfae196692131f498c136c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682483,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226682483,
+    "wof:lastmodified":1537624498,
+    "wof:name":"Kokkini",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52528,
+    38.14658,
+    23.52528,
+    38.14658
+],
+  "geometry": {"coordinates":[23.52528,38.14658],"type":"Point"}
+}

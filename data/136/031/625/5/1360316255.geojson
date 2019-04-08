@@ -1,0 +1,79 @@
+{
+  "id": 1360316255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59561,35.34377,23.59561,35.34377",
+    "geom:latitude":35.34377,
+    "geom:longitude":23.59561,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Tzitzifia",
+    "gn:country_code":"GR",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252377,
+    "gn:latitude":35.34377,
+    "gn:longitude":23.59561,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Tzitzifi\u00e1",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03c4\u03b6\u03b9\u03c6\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Tzitzifia"
+    ],
+    "name:und_x_variant":[
+        "Tzitzifi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252377
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f036817221f76789e9a0f9b7ed09ff64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360316255,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360316255,
+    "wof:lastmodified":1537624181,
+    "wof:name":"Tzitzifia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59561,
+    35.34377,
+    23.59561,
+    35.34377
+],
+  "geometry": {"coordinates":[23.59561,35.34377],"type":"Point"}
+}

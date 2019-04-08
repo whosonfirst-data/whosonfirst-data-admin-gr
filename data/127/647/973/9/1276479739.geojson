@@ -1,0 +1,77 @@
+{
+  "id": 1276479739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97244,40.29194,21.97244,40.29194",
+    "geom:latitude":40.29194,
+    "geom:longitude":21.97244,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9069",
+    "gn:asciiname":"Lefkara",
+    "gn:country_code":"GR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735451,
+    "gn:latitude":40.29194,
+    "gn:longitude":21.97244,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"L\u00e9fkara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e9fkara"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03cd\u03ba\u03b1\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Ak-Sakl\u00ed",
+        "L\u00e9vkara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735451
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"229cd8fec1d482b9c0536dcf6ab420e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276479739,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1276479739,
+    "wof:lastmodified":1537624904,
+    "wof:name":"Lefkara",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97244,
+    40.29194,
+    21.97244,
+    40.29194
+],
+  "geometry": {"coordinates":[21.97244,40.29194],"type":"Point"}
+}

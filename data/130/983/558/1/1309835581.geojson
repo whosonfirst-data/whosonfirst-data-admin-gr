@@ -1,0 +1,74 @@
+{
+  "id": 1309835581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70763,35.32584,23.70763,35.32584",
+    "geom:latitude":35.32584,
+    "geom:longitude":23.70763,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Kopetoi",
+    "gn:country_code":"GR",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259367,
+    "gn:latitude":35.32584,
+    "gn:longitude":23.70763,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kopeto\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c0\u03b5\u03c4\u03bf\u03af"
+    ],
+    "name:und_x_variant":[
+        "Kop\u00e9tsi",
+        "Kopeto\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259367
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4a326d057dbe4009c106df74772c30c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309835581,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1309835581,
+    "wof:lastmodified":1537624488,
+    "wof:name":"Kopetoi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70763,
+    35.32584,
+    23.70763,
+    35.32584
+],
+  "geometry": {"coordinates":[23.70763,35.32584],"type":"Point"}
+}

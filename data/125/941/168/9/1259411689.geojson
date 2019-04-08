@@ -1,0 +1,77 @@
+{
+  "id": 1259411689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39069,37.86122,21.39069,37.86122",
+    "geom:latitude":37.86122,
+    "geom:longitude":21.39069,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Pera Chavari",
+    "gn:country_code":"GR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256074,
+    "gn:latitude":37.86122,
+    "gn:longitude":21.39069,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"P\u00e9ra Ch\u00e1vari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e9ra Ch\u00e1vari"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c1\u03b1 \u03a7\u03ac\u03b2\u03b1\u03c1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Palai\u00e1 Kh\u00e1vari",
+        "Palai\u00f3n Khav\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256074
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"97a889aad80e374d01ab6adaacde5b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259411689,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259411689,
+    "wof:lastmodified":1537624335,
+    "wof:name":"Pera Chavari",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39069,
+    37.86122,
+    21.39069,
+    37.86122
+],
+  "geometry": {"coordinates":[21.39069,37.86122],"type":"Point"}
+}

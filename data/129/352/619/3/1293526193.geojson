@@ -1,0 +1,79 @@
+{
+  "id": 1293526193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69325,35.24081,25.69325,35.24081",
+    "geom:latitude":35.24081,
+    "geom:longitude":25.69325,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Kalos Lakkos",
+    "gn:country_code":"GR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261348,
+    "gn:latitude":35.24081,
+    "gn:longitude":25.69325,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Kal\u00f3s L\u00e1kkos",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03cc\u03c2 \u039b\u03ac\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kalos Lakkos"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00f3s L\u00e1kkos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261348
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e051e5a53026ef08d709c29c40429fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293526193,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293526193,
+    "wof:lastmodified":1537624584,
+    "wof:name":"Kalos Lakkos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69325,
+    35.24081,
+    25.69325,
+    35.24081
+],
+  "geometry": {"coordinates":[25.69325,35.24081],"type":"Point"}
+}

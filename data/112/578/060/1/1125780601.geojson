@@ -1,0 +1,85 @@
+{
+  "id": 1125780601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74139,39.51111,21.74139,39.51111",
+    "geom:latitude":39.51111,
+    "geom:longitude":21.74139,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":523,
+    "gn:population":523,
+    "iso:country":"GR",
+    "lbl:latitude":39.51111,
+    "lbl:longitude":21.74139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0394\u03c1\u03bf\u03c3\u03b5\u03c1\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03bf\u03c3\u03b5\u03c1\u03cc\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Stefanosa\u00edoi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":262873,
+    "qs_pg:gn_pop":523,
+    "qs_pg:name":"Droser\u00f3n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546835,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262873,
+        "qs_pg:id":546835
+    },
+    "wof:country":"GR",
+    "wof:created":1497290453,
+    "wof:geomhash":"8c1cbb4c08e788ccf1566635b7cda0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125780601,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125780601,
+    "wof:lastmodified":1509391538,
+    "wof:name":"Droser\u00f3n",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":523,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74139,
+    39.51111,
+    21.74139,
+    39.51111
+],
+  "geometry": {"coordinates":[21.74139,39.51111],"type":"Point"}
+}

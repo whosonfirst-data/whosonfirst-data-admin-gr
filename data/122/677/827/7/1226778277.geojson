@@ -1,0 +1,74 @@
+{
+  "id": 1226778277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61491,40.3015,22.61491,40.3015",
+    "geom:latitude":40.3015,
+    "geom:longitude":22.61491,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"9047",
+    "gn:asciiname":"Skala Korinou",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734257,
+    "gn:latitude":40.3015,
+    "gn:longitude":22.61491,
+    "gn:modification_date":"2017-07-28",
+    "gn:name":"Sk\u00e1la Korino\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "Sk\u00e1la Korino\u00fa",
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03bf\u03cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734257
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"57e1534291f494be53e494b443cd2f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226778277,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226778277,
+    "wof:lastmodified":1537624832,
+    "wof:name":"Skala Korinou",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61491,
+    40.3015,
+    22.61491,
+    40.3015
+],
+  "geometry": {"coordinates":[22.61491,40.3015],"type":"Point"}
+}

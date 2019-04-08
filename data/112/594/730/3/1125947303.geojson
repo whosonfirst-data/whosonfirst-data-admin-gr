@@ -1,0 +1,101 @@
+{
+  "id": 1125947303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97885,36.50805,22.97885,36.50805",
+    "geom:latitude":36.50805,
+    "geom:longitude":22.97885,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":745,
+    "gn:population":745,
+    "iso:country":"GR",
+    "lbl:latitude":36.50805,
+    "lbl:longitude":22.97885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Elafonisos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b1\u03c6\u03cc\u03bd\u03b7\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Elafonisos"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c9lafonissos"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0430\u0444\u043e\u043d\u0438\u0441\u0438"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":262817,
+    "qs_pg:gn_pop":745,
+    "qs_pg:name":"Elafonisos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":272,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":272,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":3992,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":948985,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262817,
+        "gp:id":948985,
+        "qs_pg:id":3992
+    },
+    "wof:country":"GR",
+    "wof:created":1497297332,
+    "wof:geomhash":"480d0ccb917396a5b1f25aebe6b0c27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125947303,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125947303,
+    "wof:lastmodified":1509402465,
+    "wof:name":"Elafonisos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":745,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97885,
+    36.50805,
+    22.97885,
+    36.50805
+],
+  "geometry": {"coordinates":[22.97885,36.50805],"type":"Point"}
+}

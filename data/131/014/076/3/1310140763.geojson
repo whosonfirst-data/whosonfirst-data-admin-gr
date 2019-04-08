@@ -1,0 +1,76 @@
+{
+  "id": 1310140763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44715,37.14889,24.44715,37.14889",
+    "geom:latitude":37.14889,
+    "geom:longitude":24.44715,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9288",
+    "gn:asciiname":"Megalon Khorion",
+    "gn:country_code":"GR",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257399,
+    "gn:latitude":37.14889,
+    "gn:longitude":24.44715,
+    "gn:modification_date":"2014-06-25",
+    "gn:name":"Meg\u00e1lon Khor\u00edon",
+    "gn:population":12,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b3\u03ac\u03bb\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Megalo Chorio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257399
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2bdabfccf499e0ab3c2c94369982257e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310140763,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1310140763,
+    "wof:lastmodified":1537550917,
+    "wof:name":"Megalon Khorion",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44715,
+    37.14889,
+    24.44715,
+    37.14889
+],
+  "geometry": {"coordinates":[24.44715,37.14889],"type":"Point"}
+}

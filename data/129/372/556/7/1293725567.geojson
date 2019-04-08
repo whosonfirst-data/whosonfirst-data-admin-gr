@@ -1,0 +1,79 @@
+{
+  "id": 1293725567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95198,38.12497,23.95198,38.12497",
+    "geom:latitude":38.12497,
+    "geom:longitude":23.95198,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220",
+    "gn:asciiname":"Vrana",
+    "gn:country_code":"GR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251671,
+    "gn:latitude":38.12497,
+    "gn:longitude":23.95198,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Vran\u00e1",
+    "gn:population":1082,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03b1\u03bd\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vranas"
+    ],
+    "name:und_x_variant":[
+        "Vran\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251671
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2e0c606ecb7b146cdf5d5e5bedae0ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293725567,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293725567,
+    "wof:lastmodified":1537624150,
+    "wof:name":"Vrana",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":1082,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95198,
+    38.12497000000001,
+    23.95198,
+    38.12497000000001
+],
+  "geometry": {"coordinates":[23.95198,38.12497000000001],"type":"Point"}
+}

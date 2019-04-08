@@ -1,0 +1,72 @@
+{
+  "id": 1226473035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21667,35.23333,25.21667,35.23333",
+    "geom:latitude":35.23333,
+    "geom:longitude":25.21667,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9302",
+    "gn:asciiname":"Varvaron",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252236,
+    "gn:latitude":35.23333,
+    "gn:longitude":25.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00e1rvaron",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varv\u00e1roi",
+        "V\u00e1rvaron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252236
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bed9de8bdd0500fa809026c3fc6b52b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226473035,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226473035,
+    "wof:lastmodified":1537624174,
+    "wof:name":"Varvaron",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21667,
+    35.23333,
+    25.21667,
+    35.23333
+],
+  "geometry": {"coordinates":[25.21667,35.23333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209448831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1246,35.43291,24.1246,35.43291",
+    "geom:latitude":35.43291,
+    "geom:longitude":24.1246,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Stylos",
+    "gn:country_code":"GR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253169,
+    "gn:latitude":35.43291,
+    "gn:longitude":24.1246,
+    "gn:modification_date":"2015-11-18",
+    "gn:name":"St\u1ef3los",
+    "gn:population":319,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03cd\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stylos"
+    ],
+    "name:und_x_variant":[
+        "St\u00edlos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253169,
+        "wk:page":"Stilos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0d480195903634c39e4cdfe91f3f3e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209448831
+        }
+    ],
+    "wof:id":1209448831,
+    "wof:lastmodified":1537624208,
+    "wof:name":"Stylos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":319,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1246,
+    35.43291,
+    24.1246,
+    35.43291
+],
+  "geometry": {"coordinates":[24.1246,35.43291],"type":"Point"}
+}

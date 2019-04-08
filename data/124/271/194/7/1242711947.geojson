@@ -1,0 +1,83 @@
+{
+  "id": 1242711947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47717,36.61723,22.47717,36.61723",
+    "geom:latitude":36.61723,
+    "geom:longitude":22.47717,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Chalikia Vatta",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260151,
+    "gn:latitude":36.61723,
+    "gn:longitude":22.47717,
+    "gn:modification_date":"2015-05-04",
+    "gn:name":"Chaliki\u00e1 V\u00e1tta",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03b9\u03ba\u03b9\u03ac \u0392\u03ac\u03c4\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bb\u03b9\u03ba\u03b9\u03ac \u0392\u03ac\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chalikia Vatta"
+    ],
+    "name:und_x_variant":[
+        "Khalki\u00e1",
+        "Khal\u00edkia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260151
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bda2a918581effc077b59165f3c9ec24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242711947,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242711947,
+    "wof:lastmodified":1537624526,
+    "wof:name":"Chalikia Vatta",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47717,
+    36.61723,
+    22.47717,
+    36.61723
+],
+  "geometry": {"coordinates":[22.47717,36.61723],"type":"Point"}
+}

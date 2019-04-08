@@ -1,0 +1,99 @@
+{
+  "id": 1310241595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1401,40.7899,21.1401,40.7899",
+    "geom:latitude":40.7899,
+    "geom:longitude":21.1401,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9071",
+    "gn:asciiname":"Levkon",
+    "gn:country_code":"GR",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735445,
+    "gn:latitude":40.7899,
+    "gn:longitude":21.1401,
+    "gn:modification_date":"2017-12-20",
+    "gn:name":"Levk\u00f3n",
+    "gn:population":116,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a0\u03cc\u03c0\u03bb\u03b7",
+        "\u03a0\u03ce\u03c0\u03bb\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c5\u03ba\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c5\u03ba\u03ce\u03bd",
+        "\u03a0\u03cc\u03c0\u03bb\u03b7",
+        "\u03a0\u03ce\u03c0\u03bb\u03b7"
+    ],
+    "name:eng_x_historical":[
+        "Popli"
+    ],
+    "name:eng_x_preferred":[
+        "Lefkonas"
+    ],
+    "name:eng_x_variant":[
+        "Popli"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u2019\u043f\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "P\u00f3pli",
+        "Levk\u00f3nas",
+        "Levk\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735445
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5bc45f849d17ad2c099155549a795a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310241595,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1310241595,
+    "wof:lastmodified":1537624904,
+    "wof:name":"Levkon",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1401,
+    40.7899,
+    21.1401,
+    40.7899
+],
+  "geometry": {"coordinates":[21.1401,40.7899],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 101856025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.810713,39.92508,21.810713,39.92508",
+    "geom:latitude":39.92508,
+    "geom:longitude":21.810713,
+    "gn:population":3856,
+    "iso:country":"GR",
+    "lbl:latitude":39.92508,
+    "lbl:longitude":21.810713,
+    "mps:latitude":39.92508,
+    "mps:longitude":21.810713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b5\u03c3\u03ba\u03ac\u03c4\u03b7"
+    ],
+    "name:unk_x_variant":[
+        "Dhisk\u00e1ta"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"DYTIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"GREBENA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0394\u0395\u03a3\u039a\u0391\u03a4\u0397",
+    "qs:loc_alt":"DESKAU",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263166,
+        "gp:id":56558360,
+        "qs:id":947138
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"37a7cb64b3cb1cacb34efc88cb55a81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101856025,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":101856025,
+    "wof:lastmodified":1544743195,
+    "wof:name":"\u0394\u0395\u03a3\u039a\u0391\u03a4\u0397",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":3856,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.810713,
+    39.92508,
+    21.810713,
+    39.92508
+],
+  "geometry": {"coordinates":[21.810713,39.92508],"type":"Point"}
+}

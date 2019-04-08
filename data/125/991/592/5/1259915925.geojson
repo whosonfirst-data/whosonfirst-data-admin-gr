@@ -1,0 +1,80 @@
+{
+  "id": 1259915925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.986,38.2389,21.986,38.2389",
+    "geom:latitude":38.2389,
+    "geom:longitude":21.986,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Lakka",
+    "gn:country_code":"GR",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258681,
+    "gn:latitude":38.2389,
+    "gn:longitude":21.986,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"L\u00e1kka",
+    "gn:population":147,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03ba\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lakka"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00f3pa",
+        "L\u00e1kka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258681
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"70e78377053022fdcd0cf0f1dbde45d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259915925,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259915925,
+    "wof:lastmodified":1537624460,
+    "wof:name":"Lakka",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.986,
+    38.2389,
+    21.986,
+    38.2389
+],
+  "geometry": {"coordinates":[21.986,38.2389],"type":"Point"}
+}

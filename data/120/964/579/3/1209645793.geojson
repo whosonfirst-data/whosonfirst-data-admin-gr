@@ -1,0 +1,91 @@
+{
+  "id": 1209645793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59598,38.38811,23.59598,38.38811",
+    "geom:latitude":38.38811,
+    "geom:longitude":23.59598,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9155",
+    "gn:asciiname":"Kalochori - Panteichi",
+    "gn:country_code":"GR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261364,
+    "gn:latitude":38.38811,
+    "gn:longitude":23.59598,
+    "gn:modification_date":"2015-04-29",
+    "gn:name":"Kaloch\u00f3ri - Pante\u00edchi",
+    "gn:population":922,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03bb\u03cc\u03bd \u03a7\u03c9\u03c1\u03af\u03bf\u03bd",
+        "\u039a\u03c1\u03b9\u03bc\u03c0\u03ac\u03c4\u03c3\u03b9",
+        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9 - \u03a0\u03b1\u03bd\u03c4\u03b5\u03af\u03c7\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03cc\u03bd \u03a7\u03c9\u03c1\u03af\u03bf\u03bd",
+        "\u039a\u03c1\u03b9\u03bc\u03c0\u03ac\u03c4\u03c3\u03b9",
+        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
+        "\u039a\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "\u03a0\u03b1\u03bd\u03c4\u03b5\u03af\u03c7\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kalochori - Panteichi"
+    ],
+    "name:eng_x_variant":[
+        "Kalochori",
+        "Panteichi"
+    ],
+    "name:und_x_variant":[
+        "Krimb\u00e1tsi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261364
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"80a7f7a44f5ed520737a0d821d866134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209645793
+        }
+    ],
+    "wof:id":1209645793,
+    "wof:lastmodified":1537624585,
+    "wof:name":"Kalochori - Panteichi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":922,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59598,
+    38.38811,
+    23.59598,
+    38.38811
+],
+  "geometry": {"coordinates":[23.59598,38.38811],"type":"Point"}
+}

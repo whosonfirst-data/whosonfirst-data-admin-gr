@@ -1,0 +1,73 @@
+{
+  "id": 1360118599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95097,37.99545,23.95097,37.99545",
+    "geom:latitude":37.99545,
+    "geom:longitude":23.95097,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9226",
+    "gn:asciiname":"Imeros Pefkos",
+    "gn:country_code":"GR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036780,
+    "gn:latitude":37.99545,
+    "gn:longitude":23.95097,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Imeros P\u00e9fkos",
+    "gn:population":211,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0389\u03bc\u03b5\u03c1\u03bf\u03c2 \u03a0\u03b5\u03cd\u03ba\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036780
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c60f87b955a5a6466f99bbb80b135f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360118599,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1360118599,
+    "wof:lastmodified":1537551160,
+    "wof:name":"Imeros Pefkos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95097,
+    37.99545,
+    23.95097,
+    37.99545
+],
+  "geometry": {"coordinates":[23.95097,37.99545],"type":"Point"}
+}

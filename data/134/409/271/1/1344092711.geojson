@@ -1,0 +1,71 @@
+{
+  "id": 1344092711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62444,40.36333,22.62444,40.36333",
+    "geom:latitude":40.36333,
+    "geom:longitude":22.62444,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"9048",
+    "gn:asciiname":"Tuzla",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736925,
+    "gn:latitude":40.36333,
+    "gn:longitude":22.62444,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Tuzla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alik\u00ed",
+        "Alyk\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736925
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"300a128f133a1c2c8f4d9c1be64b8220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344092711,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1344092711,
+    "wof:lastmodified":1537624984,
+    "wof:name":"Tuzla",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62444,
+    40.36333,
+    22.62444,
+    40.36333
+],
+  "geometry": {"coordinates":[22.62444,40.36333],"type":"Point"}
+}

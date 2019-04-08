@@ -1,0 +1,77 @@
+{
+  "id": 1326564671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56994,37.93925,21.56994,37.93925",
+    "geom:latitude":37.93925,
+    "geom:longitude":21.56994,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Portes",
+    "gn:country_code":"GR",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254852,
+    "gn:latitude":37.93925,
+    "gn:longitude":21.56994,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"P\u00f3rtes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03c1\u03c4\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cc\u03c1\u03c4\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "P\u00f3rtes",
+        "P\u00f3rtai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254852
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"68ae58d7de96f0486e9cae3d3e1311c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326564671,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1326564671,
+    "wof:lastmodified":1537624281,
+    "wof:name":"Portes",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56994,
+    37.93925,
+    21.56994,
+    37.93925
+],
+  "geometry": {"coordinates":[21.56994,37.93925],"type":"Point"}
+}

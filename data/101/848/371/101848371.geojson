@@ -1,0 +1,120 @@
+{
+  "id": 101848371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.077417,35.536331,24.077417,35.536331",
+    "geom:latitude":35.536331,
+    "geom:longitude":24.077417,
+    "iso:country":"GR",
+    "lbl:latitude":35.536331,
+    "lbl:longitude":24.077417,
+    "mps:latitude":35.536331,
+    "mps:longitude":24.077417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u0648\u0628\u064a\u062f\u064a\u0627\u0646\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Kounoupidiana"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03b4\u03b9\u03b1\u03bd\u03ac \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Kounoupidian\u00e1",
+        "\u039a\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03b4\u03b9\u03b1\u03bd\u03ac",
+        "Kounoupidhian\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Kounoupidhiana"
+    ],
+    "name:eng_x_variant":[
+        "Kounoupidhian\u00e1",
+        "Kounoupidiana"
+    ],
+    "name:fin_x_preferred":[
+        "Kounoupidian\u00e1"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03b4\u03b9\u03b1\u03bd\u03ac \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    ],
+    "name:nno_x_preferred":[
+        "Kounoupidian\u00e1"
+    ],
+    "name:und_x_variant":[
+        "\u039a\u039f\u03a5\u039d\u039f\u03a5\u03a0\u0399\u0394\u0399\u0391\u039d\u0391"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u03a1\u0397\u03a4\u0397",
+    "qs:a1_alt":"KRHTH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"REUYMNO",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u039f\u03a5\u039d\u039f\u03a5\u03a0\u0399\u0394\u0399\u0391\u039d\u0391",
+    "qs:loc_alt":"KOYNOYPIDIANA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":35.536,
+    "wd:longitude":24.076,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"114ed000-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":259038,
+        "gp:id":954377,
+        "qs:id":191600,
+        "qs_pg:id":191600,
+        "wd:id":"Q6434654",
+        "wk:page":"Kounoupidiana"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6c8cac071d18120d031017bb971ba6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848371,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":101848371,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740415,
+    "wof:name":"\u039a\u039f\u03a5\u039d\u039f\u03a5\u03a0\u0399\u0394\u0399\u0391\u039d\u0391",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.077417,
+    35.536331,
+    24.077417,
+    35.536331
+],
+  "geometry": {"coordinates":[24.077417,35.536331],"type":"Point"}
+}

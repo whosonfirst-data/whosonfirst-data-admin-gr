@@ -1,0 +1,89 @@
+{
+  "id": 1293914093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90764,38.75626,21.90764,38.75626",
+    "geom:latitude":38.75626,
+    "geom:longitude":21.90764,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Ampliani",
+    "gn:country_code":"GR",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253257,
+    "gn:latitude":38.75626,
+    "gn:longitude":21.90764,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Ampliani",
+    "gn:population":13,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c0\u03ae\u03b3\u03b9\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bc\u03c0\u03bb\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03bb\u03b9\u03b1\u03bd\u03b7",
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c0\u03ae\u03b3\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Ampliani"
+    ],
+    "name:und_x_variant":[
+        "\u00c1mbliani",
+        "Stavroply\u00ed",
+        "Stavropiy\u00ed",
+        "Stavrop\u00edyion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253257
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9660d8a36f11d7cbaacf349153f5ffd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293914093,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293914093,
+    "wof:lastmodified":1537624212,
+    "wof:name":"Ampliani",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90764,
+    38.75626,
+    21.90764,
+    38.75626
+],
+  "geometry": {"coordinates":[21.90764,38.75626],"type":"Point"}
+}

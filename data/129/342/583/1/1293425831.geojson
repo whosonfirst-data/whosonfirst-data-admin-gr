@@ -1,0 +1,80 @@
+{
+  "id": 1293425831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89647,38.42502,23.89647,38.42502",
+    "geom:latitude":38.42502,
+    "geom:longitude":23.89647,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9149",
+    "gn:asciiname":"Kallithea",
+    "gn:country_code":"GR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261409,
+    "gn:latitude":38.42502,
+    "gn:longitude":23.89647,
+    "gn:modification_date":"2015-01-16",
+    "gn:name":"Kallith\u00e9a",
+    "gn:population":458,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kallithea"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to M\u00e1moula",
+        "Kallith\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261409
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1cd7caa24180c230b9e83888376ad843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293425831,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293425831,
+    "wof:lastmodified":1537624588,
+    "wof:name":"Kallithea",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":458,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89647,
+    38.42502,
+    23.89647,
+    38.42502
+],
+  "geometry": {"coordinates":[23.89647,38.42502],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276905679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19699,41.35234,26.19699,41.35234",
+    "geom:latitude":41.35234,
+    "geom:longitude":26.19699,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9010",
+    "gn:asciiname":"Korymvos",
+    "gn:country_code":"GR",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735616,
+    "gn:latitude":41.35234,
+    "gn:longitude":26.19699,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"K\u00f3rymvos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00f3rymvos"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03cc\u03c1\u03c5\u03bc\u03b2\u03bf\u03c2",
+        "K\u00f3rimvos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735616
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a1ab6674dc6dee611b0374545d2f6d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276905679,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276905679,
+    "wof:lastmodified":1537624914,
+    "wof:name":"Korymvos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19699,
+    41.35234000000001,
+    26.19699,
+    41.35234000000001
+],
+  "geometry": {"coordinates":[26.19699,41.35234000000001],"type":"Point"}
+}

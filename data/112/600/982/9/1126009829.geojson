@@ -1,0 +1,97 @@
+{
+  "id": 1126009829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28333,38.7,21.28333,38.7",
+    "geom:latitude":38.7,
+    "geom:longitude":21.28333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2170,
+    "gn:population":2090,
+    "iso:country":"GR",
+    "lbl:latitude":38.7,
+    "lbl:longitude":21.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c0\u03b5\u03bd\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Lepenou"
+    ],
+    "name:unk_x_variant":[
+        "Lepeno\u00fa"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258497,
+    "qs_pg:gn_pop":2170,
+    "qs_pg:name":"Lepenou",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123814,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":955185,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258497,
+        "gp:id":955185,
+        "qs_pg:id":123814
+    },
+    "wof:country":"GR",
+    "wof:created":1497300198,
+    "wof:geomhash":"6df194152ee7c9b2922c5875a72223f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126009829,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1126009829,
+    "wof:lastmodified":1509406604,
+    "wof:name":"Lepenou",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":2090,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28333,
+    38.7,
+    21.28333,
+    38.7
+],
+  "geometry": {"coordinates":[21.28333,38.7],"type":"Point"}
+}

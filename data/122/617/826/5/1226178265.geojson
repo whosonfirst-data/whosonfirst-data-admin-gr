@@ -1,0 +1,80 @@
+{
+  "id": 1226178265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63069,35.40742,23.63069,35.40742",
+    "geom:latitude":35.40742,
+    "geom:longitude":23.63069,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Kostogiannides",
+    "gn:country_code":"GR",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259403,
+    "gn:latitude":35.40742,
+    "gn:longitude":23.63069,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Kostogi\u00e1nnides",
+    "gn:population":32,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c9\u03c3\u03c4\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kostogiannides"
+    ],
+    "name:und_x_variant":[
+        "Kostogi\u00e1nnides",
+        "Kondoyi\u00e1nnidhes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259403
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fcac84a11f068daff05bfd29983954b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226178265,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226178265,
+    "wof:lastmodified":1537624489,
+    "wof:name":"Kostogiannides",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63069,
+    35.40742,
+    23.63069,
+    35.40742
+],
+  "geometry": {"coordinates":[23.63069,35.40742],"type":"Point"}
+}

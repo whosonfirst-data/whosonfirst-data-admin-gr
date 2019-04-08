@@ -1,0 +1,132 @@
+{
+  "id": 101857721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.975378,40.920384,23.975378,40.920384",
+    "geom:latitude":40.920384,
+    "geom:longitude":23.975378,
+    "gn:population":2072,
+    "iso:country":"GR",
+    "lbl:latitude":40.920384,
+    "lbl:longitude":23.975378,
+    "mps:latitude":40.920384,
+    "mps:longitude":23.975378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043b\u0438\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Rodolivos"
+    ],
+    "name:ell_x_historical":[
+        "\u03a1\u03bf\u03b4\u03bf\u03bb\u03b5\u03af\u03b2\u03bf\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03bf\u03b4\u03bf\u03bb\u03af\u03b2\u03bf\u03c5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Rodol\u00edvos",
+        "\u03a1\u03bf\u03b4\u03bf\u03bb\u03af\u03b2\u03bf\u03c2",
+        "\u03a1\u03bf\u03b4\u03bf\u03bb\u03b5\u03af\u03b2\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Rodolivos"
+    ],
+    "name:epo_x_preferred":[
+        "Rodolivos"
+    ],
+    "name:fin_x_preferred":[
+        "Rodol\u00edvos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03bf\u03b4\u03bf\u03bb\u03af\u03b2\u03bf\u03c5\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Rodolivos"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u043b\u0438\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0430\u0434\u0443\u043b\u0435\u0432\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "Rodol\u00edvos"
+    ],
+    "name:swe_x_preferred":[
+        "Rodol\u00edvos"
+    ],
+    "name:unk_x_variant":[
+        "Rodoleivos"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a1\u039f\u0394\u039f\u039b\u0399\u0392\u039f\u03a3",
+    "qs:loc_alt":"RODOLIBOS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":225,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734377,
+        "gp:id":966127,
+        "qs:id":1026823,
+        "qs_pg:id":1026823,
+        "wd:id":"Q2016397",
+        "wk:page":"Rodolivos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1c6d59743f64f54a1a257372795d86f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857721,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857721,
+    "wof:lastmodified":1544744044,
+    "wof:name":"\u03a1\u039f\u0394\u039f\u039b\u0399\u0392\u039f\u03a3",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2072,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.975378,
+    40.920384,
+    23.975378,
+    40.920384
+],
+  "geometry": {"coordinates":[23.975378,40.920384],"type":"Point"}
+}

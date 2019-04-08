@@ -1,0 +1,79 @@
+{
+  "id": 1310140207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71559,35.04791,25.71559,35.04791",
+    "geom:latitude":35.04791,
+    "geom:longitude":25.71559,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Kefala",
+    "gn:country_code":"GR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608494,
+    "gn:latitude":35.04791,
+    "gn:longitude":25.71559,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Kef\u00e1la",
+    "gn:population":21,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kefala"
+    ],
+    "name:und_x_variant":[
+        "Kef\u00e1la"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608494
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1ea0820a3f766407e543db53b19eb5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310140207,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310140207,
+    "wof:lastmodified":1537625028,
+    "wof:name":"Kefala",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71559,
+    35.04790999999999,
+    25.71559,
+    35.04790999999999
+],
+  "geometry": {"coordinates":[25.71559,35.04790999999999],"type":"Point"}
+}

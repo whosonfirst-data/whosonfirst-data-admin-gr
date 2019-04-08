@@ -1,0 +1,67 @@
+{
+  "id": 1309834913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46777,36.4482,22.46777,36.4482",
+    "geom:latitude":36.4482,
+    "geom:longitude":22.46777,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Porakhia",
+    "gn:country_code":"GR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254871,
+    "gn:latitude":36.4482,
+    "gn:longitude":22.46777,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Por\u00e1khia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254871
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0e68e657fb6dd391b4373286f59bb12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309834913,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1309834913,
+    "wof:lastmodified":1536888862,
+    "wof:name":"Porakhia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46777,
+    36.4482,
+    22.46777,
+    36.4482
+],
+  "geometry": {"coordinates":[22.46777,36.4482],"type":"Point"}
+}

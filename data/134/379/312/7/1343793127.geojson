@@ -1,0 +1,73 @@
+{
+  "id": 1343793127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.76578,38.97442,20.76578,38.97442",
+    "geom:latitude":38.97442,
+    "geom:longitude":20.76578,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9090",
+    "gn:asciiname":"Psathaki",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9196822,
+    "gn:latitude":38.97442,
+    "gn:longitude":20.76578,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Psath\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Psath\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u03a8\u03b1\u03b8\u03ac\u03ba\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9196822
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6a0bdcc8fbf74ed0e3100378d06e1dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343793127,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1343793127,
+    "wof:lastmodified":1537625055,
+    "wof:name":"Psathaki",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.76578,
+    38.97442,
+    20.76578,
+    38.97442
+],
+  "geometry": {"coordinates":[20.76578,38.97442],"type":"Point"}
+}

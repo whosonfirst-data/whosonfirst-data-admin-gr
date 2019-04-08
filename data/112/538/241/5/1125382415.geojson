@@ -1,0 +1,75 @@
+{
+  "id": 1125382415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73294,38.40494,20.73294,38.40494",
+    "geom:latitude":38.40494,
+    "geom:longitude":20.73294,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3212,
+    "gn:population":3212,
+    "iso:country":"GR",
+    "lbl:latitude":38.40494,
+    "lbl:longitude":20.73294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0399\u03b8\u03ac\u03ba\u03b7\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133849,
+    "qs_pg:gn_pop":3212,
+    "qs_pg:name":"Dimos Ithaca",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":381483,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133849,
+        "qs_pg:id":381483
+    },
+    "wof:country":"GR",
+    "wof:created":1497048125,
+    "wof:geomhash":"7830ef71d3b61d09dcf19d6531edc685",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125382415,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125382415,
+    "wof:lastmodified":1509389610,
+    "wof:name":"Dimos Ithaca",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":3212,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73294,
+    38.40494,
+    20.73294,
+    38.40494
+],
+  "geometry": {"coordinates":[20.73294,38.40494],"type":"Point"}
+}

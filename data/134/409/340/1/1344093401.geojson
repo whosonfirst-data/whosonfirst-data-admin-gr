@@ -1,0 +1,80 @@
+{
+  "id": 1344093401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48298,37.74501,23.48298,37.74501",
+    "geom:latitude":37.74501,
+    "geom:longitude":23.48298,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9208",
+    "gn:asciiname":"Kondos",
+    "gn:country_code":"GR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259410,
+    "gn:latitude":37.74501,
+    "gn:longitude":23.48298,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Kond\u00f3s",
+    "gn:population":138,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c4\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kontos"
+    ],
+    "name:und_x_variant":[
+        "K\u00f3ntos",
+        "Kond\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259410
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f60878678cd0762c6dd55daf53ac12f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344093401,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1344093401,
+    "wof:lastmodified":1537624490,
+    "wof:name":"Kondos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":138,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48298,
+    37.74501,
+    23.48298,
+    37.74501
+],
+  "geometry": {"coordinates":[23.48298,37.74501],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209846927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0566,35.26531,25.0566,35.26531",
+    "geom:latitude":35.26531,
+    "geom:longitude":25.0566,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9305",
+    "gn:asciiname":"Voutai",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":245,
+    "gn:elevation":"240.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251719,
+    "gn:latitude":35.26531,
+    "gn:longitude":25.0566,
+    "gn:modification_date":"2012-03-25",
+    "gn:name":"Vo\u00fatai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vo\u00fates",
+        "Vo\u00fatais",
+        "Vo\u00fatai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251719
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1ddc0daeb70aa4ec7aad2ac075032b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209846927,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1209846927,
+    "wof:lastmodified":1537624153,
+    "wof:name":"Voutai",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0566,
+    35.26531,
+    25.0566,
+    35.26531
+],
+  "geometry": {"coordinates":[25.0566,35.26531],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1126042441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25826,35.32794,25.25826,35.32794",
+    "geom:latitude":35.32794,
+    "geom:longitude":25.25826,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1385,
+    "gn:population":1755,
+    "iso:country":"GR",
+    "lbl:latitude":35.32794,
+    "lbl:longitude":25.25826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03af\u03bd\u03b7 \u03a7\u03ac\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03bd\u03b9 \u03c4\u03bf\u03c5 \u039a\u03bf\u03ba\u03ba\u03af\u03bd\u03b7",
+        "\u03a7\u03ac\u03bd\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u039a\u03bf\u03ba\u03ba\u03af\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Kokkini Chani"
+    ],
+    "name:swe_x_preferred":[
+        "Kokkini Chani"
+    ],
+    "name:unk_x_variant":[
+        "Met\u00f3khi Kokk\u00edni"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":259578,
+    "qs_pg:gn_pop":1385,
+    "qs_pg:name":"Kokkini Hani",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":546682,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259578,
+        "qs_pg:id":546682
+    },
+    "wof:country":"GR",
+    "wof:created":1497302239,
+    "wof:geomhash":"b644822bd152d0eb1a1a53aec2915ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042441,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1126042441,
+    "wof:lastmodified":1509408629,
+    "wof:name":"Kokkini Hani",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":1755,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25826,
+    35.32794,
+    25.25826,
+    35.32794
+],
+  "geometry": {"coordinates":[25.25826,35.32794],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226682033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.38137,41.37399,26.38137,41.37399",
+    "geom:latitude":41.37399,
+    "geom:longitude":26.38137,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9007",
+    "gn:asciiname":"Kyani",
+    "gn:country_code":"GR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735744,
+    "gn:latitude":41.37399,
+    "gn:longitude":26.38137,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kyan\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kyan\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b1\u03bd\u03ae",
+        "Kian\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735744,
+        "wk:page":"Kyani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3f52c7297fbb593df15f7f4e05c70a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682033,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226682033,
+    "wof:lastmodified":1537624921,
+    "wof:name":"Kyani",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38137,
+    41.37399,
+    26.38137,
+    41.37399
+],
+  "geometry": {"coordinates":[26.38137,41.37399],"type":"Point"}
+}

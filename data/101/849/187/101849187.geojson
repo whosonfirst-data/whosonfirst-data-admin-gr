@@ -1,0 +1,75 @@
+{
+  "id": 101849187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.073202,39.397335,22.073202,39.397335",
+    "geom:latitude":39.397335,
+    "geom:longitude":22.073202,
+    "iso:country":"GR",
+    "lbl:latitude":39.397335,
+    "lbl:longitude":22.073202,
+    "mps:latitude":39.397335,
+    "mps:longitude":22.073202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KARDITSA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u0391\u03a4\u0391\u03a1\u0391\u0393\u039a\u0391",
+    "qs:loc_alt":"MATARAGKA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":956379,
+        "qs:id":5
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"191886f167429de496310bd9aeb1544b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849187,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849187,
+    "wof:lastmodified":1544740824,
+    "wof:name":"\u039c\u0391\u03a4\u0391\u03a1\u0391\u0393\u039a\u0391",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.073202,
+    39.397335,
+    22.073202,
+    39.397335
+],
+  "geometry": {"coordinates":[22.073202,39.397335],"type":"Point"}
+}

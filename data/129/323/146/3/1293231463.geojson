@@ -1,0 +1,70 @@
+{
+  "id": 1293231463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20992,35.34622,24.20992,35.34622",
+    "geom:latitude":35.34622,
+    "geom:longitude":24.20992,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Alikambos",
+    "gn:country_code":"GR",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265336,
+    "gn:latitude":35.34622,
+    "gn:longitude":24.20992,
+    "gn:modification_date":"2017-03-29",
+    "gn:name":"Al\u00edkambos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03af\u03ba\u03b1\u03bc\u03c0\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265336
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0f16cc1a5488dcfef2fc4650991992ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293231463,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293231463,
+    "wof:lastmodified":1537624771,
+    "wof:name":"Alikambos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20992,
+    35.34622,
+    24.20992,
+    35.34622
+],
+  "geometry": {"coordinates":[24.20992,35.34622],"type":"Point"}
+}

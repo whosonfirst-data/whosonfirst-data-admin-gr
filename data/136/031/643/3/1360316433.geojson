@@ -1,0 +1,77 @@
+{
+  "id": 1360316433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65783,37.77378,21.65783,37.77378",
+    "geom:latitude":37.77378,
+    "geom:longitude":21.65783,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141",
+    "gn:asciiname":"Pefki",
+    "gn:country_code":"GR",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255362,
+    "gn:latitude":37.77378,
+    "gn:longitude":21.65783,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"P\u00e9fki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e9fki"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03cd\u03ba\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Bend\u00e9ni",
+        "P\u00e9vki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255362
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eed4dce6e92f83c87f1bbcc647b005d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360316433,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360316433,
+    "wof:lastmodified":1537624302,
+    "wof:name":"Pefki",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65783,
+    37.77378,
+    21.65783,
+    37.77378
+],
+  "geometry": {"coordinates":[21.65783,37.77378],"type":"Point"}
+}

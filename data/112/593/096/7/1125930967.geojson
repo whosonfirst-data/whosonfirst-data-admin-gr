@@ -1,0 +1,118 @@
+{
+  "id": 1125930967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,39.46667,22.73333,39.46667",
+    "geom:latitude":39.46667,
+    "geom:longitude":22.73333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2016,
+    "gn:population":1970,
+    "iso:country":"GR",
+    "lbl:latitude":39.46667,
+    "lbl:longitude":22.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u064a\u0641\u0627\u0646\u0648\u0641\u064a\u0643\u064a\u0648\u0646\u060c \u0645\u0627\u063a\u0646\u064a\u0633\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Stefanovikeio"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03b2\u03af\u03ba\u03b5\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03b2\u03af\u03ba\u03b9",
+        "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03b2\u03af\u03ba\u03b9\u03bf\u03bd",
+        "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03b2\u03af\u03ba\u03b5\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Stefanovikeio"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03b2\u03af\u03ba\u03b5\u03b9\u03bf \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Stefanov\u00edkio"
+    ],
+    "name:swe_x_preferred":[
+        "Stefanov\u00edkeio"
+    ],
+    "name:unk_x_variant":[
+        "Haj\u00edmisi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253218,
+    "qs_pg:gn_pop":2016,
+    "qs_pg:name":"Stefanavikion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":182411,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962886,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253218,
+        "gp:id":962886,
+        "qs_pg:id":182411,
+        "wd:id":"Q7606526"
+    },
+    "wof:country":"GR",
+    "wof:created":1497296803,
+    "wof:geomhash":"0627fdf97d85d8c6c00a2b4e1556217f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125930967,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125930967,
+    "wof:lastmodified":1514444057,
+    "wof:name":"Stefanavikion",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1970,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    39.46667,
+    22.73333,
+    39.46667
+],
+  "geometry": {"coordinates":[22.73333,39.46667],"type":"Point"}
+}

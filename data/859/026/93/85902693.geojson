@@ -1,0 +1,109 @@
+{
+  "id": 85902693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000246,
+    "geom:area_square_m":2399658.863057,
+    "geom:bbox":"23.7524414063,38.0087950386,23.7716674805,38.0264587115",
+    "geom:latitude":38.018067,
+    "geom:longitude":23.761699,
+    "gn:id":"",
+    "iso:country":"GR",
+    "lbl:latitude":38.016454,
+    "lbl:longitude":23.758121,
+    "mps:latitude":38.017677,
+    "mps:longitude":23.762479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dup",
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Psikhiko"
+    ],
+    "name:eng_x_preferred":[
+        "Psikhik\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Psikhik\u00f3"
+    ],
+    "qs:gn_adm0_cc":"GR",
+    "qs:gn_id":0,
+    "qs:gn_local":264371,
+    "qs:gn_nam_loc":"Athens, Athens, Attica, Attica, GR",
+    "qs:gn_namadm1":"ESYE31",
+    "qs:local_max":27412,
+    "qs:local_sum":157250,
+    "qs:localhoods":61,
+    "qs:name":"Psikhik\u00f3",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Attica",
+    "qs:name_adm2":"Attica",
+    "qs:name_lau":"Filothei-Psychiko",
+    "qs:name_local":"Athens",
+    "qs:photo_max":15,
+    "qs:photo_sum":53,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424833,
+    "qs:woe_adm1":56558063,
+    "qs:woe_adm2":12577879,
+    "qs:woe_lau":56558364,
+    "qs:woe_local":946738,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":960886,
+        "qs:id":1101999,
+        "qs_pg:id":1101999
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d0716bf54ce226fb46c372fa5de6e470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":85902693,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":85902693,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1538606688,
+    "wof:name":"Psikhik\u00f3",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75244140628337,
+    38.00879503855546,
+    23.77166748047534,
+    38.02645871150004
+],
+  "geometry": {"coordinates":[[[23.76892089841488,38.01347623100007],[23.76892089842511,38.01256461117102],[23.76832888905255,38.01131224472519],[23.7683287758162,38.01131210100006],[23.76513272836382,38.01131210100006],[23.76342778472241,38.00914822650003],[23.76342773440012,38.0091481626321],[23.76340986705111,38.00912548581168],[23.76210804567285,38.00879503855546],[23.76127321449354,38.00914822650003],[23.75793457029999,38.00914822650003],[23.75793457030005,38.01023021164995],[23.75673703956534,38.00947026147001],[23.75661482465017,38.00950128402219],[23.75518798830012,38.01131225461442],[23.75518798830012,38.01347623100007],[23.75244140630014,38.01347623100007],[23.75244140628547,38.01488871438366],[23.75244140628337,38.01780391617508],[23.75244140628337,38.01780398010004],[23.75244140628763,38.02213140965038],[23.75244140630014,38.02213147350011],[23.7579345703158,38.02213147350011],[23.7579345703079,38.02504611541194],[23.75793457029999,38.02645871150004],[23.76068115231294,38.02645871150004],[23.76342773440012,38.02645871150004],[23.76892089840004,38.02645871150004],[23.76892089840004,38.02504611542774],[23.77058991932472,38.02433986499609],[23.77166748047534,38.02297192658723],[23.77166748047534,38.02213140965038],[23.77144658874039,38.02157060909551],[23.76892089842511,38.01996759902531],[23.76892089841499,38.01780398010004],[23.76892089841488,38.01347623100007]]],"type":"Polygon"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1277111087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39422,40.3346,23.39422,40.3346",
+    "geom:latitude":40.3346,
+    "geom:longitude":23.39422,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Patelidas",
+    "gn:country_code":"GR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734739,
+    "gn:latitude":40.3346,
+    "gn:longitude":23.39422,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Patelid\u00e1s",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c4\u03b5\u03bb\u03b9\u03b4\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Patelid\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Patelidas"
+    ],
+    "name:und_x_variant":[
+        "Patlidh\u00e1",
+        "Petalidh\u00e1s",
+        "Patelidh\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734739
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ec246de1c0fad2f4cccc4137ddd24d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277111087,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1277111087,
+    "wof:lastmodified":1537624859,
+    "wof:name":"Patelidas",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39422,
+    40.3346,
+    23.39422,
+    40.3346
+],
+  "geometry": {"coordinates":[23.39422,40.3346],"type":"Point"}
+}

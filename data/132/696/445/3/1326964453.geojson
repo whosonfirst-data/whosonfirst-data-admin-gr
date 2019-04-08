@@ -1,0 +1,73 @@
+{
+  "id": 1326964453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70214,40.26898,23.70214,40.26898",
+    "geom:latitude":40.26898,
+    "geom:longitude":23.70214,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9060",
+    "gn:asciiname":"Pyrgos",
+    "gn:country_code":"GR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9353143,
+    "gn:latitude":40.26898,
+    "gn:longitude":23.70214,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Pyrgos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pyrgos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9353143
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6b73137a0147f45777c51e4c69b5316e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326964453,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1326964453,
+    "wof:lastmodified":1537625060,
+    "wof:name":"Pyrgos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70214,
+    40.26898,
+    23.70214,
+    40.26898
+],
+  "geometry": {"coordinates":[23.70214,40.26898],"type":"Point"}
+}

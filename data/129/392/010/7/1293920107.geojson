@@ -1,0 +1,74 @@
+{
+  "id": 1293920107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46958,36.60972,22.46958,36.60972",
+    "geom:latitude":36.60972,
+    "geom:longitude":22.46958,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Zouda",
+    "gn:country_code":"GR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":251177,
+    "gn:latitude":36.60972,
+    "gn:longitude":22.46958,
+    "gn:modification_date":"2015-05-04",
+    "gn:name":"Zo\u00fada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Xo\u00fadha",
+        "Zo\u00fafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251177
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bd819f39caee7fe06cdf66400419bc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293920107,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293920107,
+    "wof:lastmodified":1537624129,
+    "wof:name":"Zouda",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46958,
+    36.60972,
+    22.46958,
+    36.60972
+],
+  "geometry": {"coordinates":[22.46958,36.60972],"type":"Point"}
+}

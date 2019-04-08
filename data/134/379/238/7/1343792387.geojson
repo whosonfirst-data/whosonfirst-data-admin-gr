@@ -1,0 +1,77 @@
+{
+  "id": 1343792387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97194,39.35472,20.97194,39.35472",
+    "geom:latitude":39.35472,
+    "geom:longitude":20.97194,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9073",
+    "gn:asciiname":"Chaskaiika",
+    "gn:country_code":"GR",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":260045,
+    "gn:latitude":39.35472,
+    "gn:longitude":20.97194,
+    "gn:modification_date":"2015-10-25",
+    "gn:name":"Chaska\u00ed\u00efka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c3\u03ba\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chaskaiika"
+    ],
+    "name:und_x_variant":[
+        "Khaska\u00edika",
+        "Chaska\u00ed\u00efka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260045
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"897c51c56a6081df16cba83f538df384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343792387,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1343792387,
+    "wof:lastmodified":1537624519,
+    "wof:name":"Chaskaiika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97194,
+    39.35472,
+    20.97194,
+    39.35472
+],
+  "geometry": {"coordinates":[20.97194,39.35472],"type":"Point"}
+}

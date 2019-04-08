@@ -1,0 +1,82 @@
+{
+  "id": 1225975355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73035,38.30241,23.73035,38.30241",
+    "geom:latitude":38.30241,
+    "geom:longitude":23.73035,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9227",
+    "gn:asciiname":"Sykamino",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253913,
+    "gn:latitude":38.30241,
+    "gn:longitude":23.73035,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Syk\u00e1mino",
+    "gn:population":910,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c5\u03ba\u03ac\u03bc\u03b9\u03bd\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Sykamino"
+    ],
+    "name:und_x_variant":[
+        "Sik\u00e1minos",
+        "Sik\u00e1minon",
+        "Syk\u00e1mino"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253913,
+        "wk:page":"Sykamino"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"caffcc2ae66ebc7ece01c245e6db3db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225975355,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1225975355,
+    "wof:lastmodified":1537624245,
+    "wof:name":"Sykamino",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":910,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73035,
+    38.30241,
+    23.73035,
+    38.30241
+],
+  "geometry": {"coordinates":[23.73035,38.30241],"type":"Point"}
+}

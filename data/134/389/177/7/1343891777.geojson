@@ -1,0 +1,80 @@
+{
+  "id": 1343891777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68849,35.32637,24.68849,35.32637",
+    "geom:latitude":35.32637,
+    "geom:longitude":24.68849,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Ano Tripado",
+    "gn:country_code":"GR",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264830,
+    "gn:latitude":35.32637,
+    "gn:longitude":24.68849,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"\u00c1no Trip\u00e1do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Trip\u00e1do"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u03a4\u03c1\u03b9\u03c0\u03ac\u03b4\u03bf",
+        "\u00c1no Trip\u00e1don",
+        "\u0386\u03bd\u03c9 \u03a4\u03c1\u03b9\u03c0\u03ac\u03b4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Trip\u00f3dho Ano",
+        "\u00c1no Trip\u00f3dho",
+        "\u00c1no Trip\u00f3dhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264830
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ae9a0e5c441aa1b43ea38c2ab1c33692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343891777,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343891777,
+    "wof:lastmodified":1537624743,
+    "wof:name":"Ano Tripado",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68849,
+    35.32637000000001,
+    24.68849,
+    35.32637000000001
+],
+  "geometry": {"coordinates":[24.68849,35.32637000000001],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1276909935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65,37.96667,23.65,37.96667",
+    "geom:latitude":37.96667,
+    "geom:longitude":23.65,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9204",
+    "gn:asciiname":"Nikaia",
+    "gn:country_code":"GR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":256429,
+    "gn:latitude":37.96667,
+    "gn:longitude":23.65,
+    "gn:modification_date":"2014-05-26",
+    "gn:name":"N\u00edkaia",
+    "gn:population":89380,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039d\u03ad\u03b1 \u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03b9\u03ac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03ba\u03b1\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b1 \u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Nikaia"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9a Kokkini\u00e1",
+        "Neokokinis",
+        "N\u00edkaia",
+        "Nikea"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256429,
+        "wk:page":"Nikaia%2C_Attica"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a5f6f9c7cdd4d0b3b9eb7cc431e6b1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276909935,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1276909935,
+    "wof:lastmodified":1537624352,
+    "wof:name":"Nikaia",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":89380,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65,
+    37.96667,
+    23.65,
+    37.96667
+],
+  "geometry": {"coordinates":[23.65,37.96667],"type":"Point"}
+}

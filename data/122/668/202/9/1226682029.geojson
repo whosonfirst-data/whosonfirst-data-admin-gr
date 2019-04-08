@@ -1,0 +1,79 @@
+{
+  "id": 1226682029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7378,40.99718,25.7378,40.99718",
+    "geom:latitude":40.99718,
+    "geom:longitude":25.7378,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022",
+    "gn:asciiname":"Kassiteres",
+    "gn:country_code":"GR",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735945,
+    "gn:latitude":40.99718,
+    "gn:longitude":25.7378,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kassiter\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kassiter\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c3\u03c3\u03b9\u03c4\u03b5\u03c1\u03ad\u03c2",
+        "\u039a\u03b1\u03c3\u03c3\u03b9\u03c4\u03b5\u03c1\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "Kassitar\u00e1",
+        "Kassiter\u00e1",
+        "Kassitera\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735945
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5c4ad78907554c781d8db39e0732b12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682029,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226682029,
+    "wof:lastmodified":1537624931,
+    "wof:name":"Kassiteres",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7378,
+    40.99718,
+    25.7378,
+    40.99718
+],
+  "geometry": {"coordinates":[25.7378,40.99718],"type":"Point"}
+}

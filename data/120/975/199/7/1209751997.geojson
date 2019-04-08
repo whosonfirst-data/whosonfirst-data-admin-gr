@@ -1,0 +1,89 @@
+{
+  "id": 1209751997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34344,38.16054,22.34344,38.16054",
+    "geom:latitude":38.16054,
+    "geom:longitude":22.34344,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Krathion",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255774,
+    "gn:latitude":38.16054,
+    "gn:longitude":22.34344,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Kr\u00e1thion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u0391\u03ba\u03c1\u03ac\u03c4\u03b1\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ac\u03b8\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u0391\u03ba\u03c1\u03ac\u03c4\u03b1\u03c2",
+        "\u039a\u03c1\u03ac\u03b8\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_historical":[
+        "Paralia Akratas"
+    ],
+    "name:eng_x_preferred":[
+        "Krathi"
+    ],
+    "name:eng_x_variant":[
+        "Paralia Akratas"
+    ],
+    "name:und_x_variant":[
+        "Paral\u00eda Akr\u00e1tas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255774
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"135a5c28e5cbe6a09ccb682eaf890e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209751997,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209751997,
+    "wof:lastmodified":1537624320,
+    "wof:name":"Krathion",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34344,
+    38.16054000000001,
+    22.34344,
+    38.16054000000001
+],
+  "geometry": {"coordinates":[22.34344,38.16054000000001],"type":"Point"}
+}

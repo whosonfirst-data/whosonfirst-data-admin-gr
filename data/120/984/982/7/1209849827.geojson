@@ -1,0 +1,79 @@
+{
+  "id": 1209849827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78843,37.64394,22.78843,37.64394",
+    "geom:latitude":37.64394,
+    "geom:longitude":22.78843,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Iraion",
+    "gn:country_code":"GR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257424,
+    "gn:latitude":37.64394,
+    "gn:longitude":22.78843,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Ira\u00edon",
+    "gn:population":130,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0397\u03c1\u03b1\u03af\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Iraio"
+    ],
+    "name:und_x_variant":[
+        "Ireo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257424
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e4614f0495d7df0ae6f620ab8e69dc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209849827,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209849827,
+    "wof:lastmodified":1537625058,
+    "wof:name":"Iraion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78843,
+    37.64394,
+    22.78843,
+    37.64394
+],
+  "geometry": {"coordinates":[22.78843,37.64394],"type":"Point"}
+}

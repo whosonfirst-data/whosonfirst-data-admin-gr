@@ -1,0 +1,76 @@
+{
+  "id": 1260218189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27385,41.05404,26.27385,41.05404",
+    "geom:latitude":41.05404,
+    "geom:longitude":26.27385,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9010",
+    "gn:asciiname":"Fylakto",
+    "gn:country_code":"GR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736254,
+    "gn:latitude":41.05404,
+    "gn:longitude":26.27385,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Fylakt\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fylakt\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03c5\u03bb\u03b1\u03ba\u03c4\u03cc",
+        "Filakt\u00f3n",
+        "Fylakt\u00f3n",
+        "\u03a6\u03c5\u03bb\u03b1\u03ba\u03c4\u03cc\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736254
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b92464b66abc5ed5737e4364cf9038b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260218189,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260218189,
+    "wof:lastmodified":1537624946,
+    "wof:name":"Fylakto",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27385,
+    41.05404,
+    26.27385,
+    41.05404
+],
+  "geometry": {"coordinates":[26.27385,41.05404],"type":"Point"}
+}

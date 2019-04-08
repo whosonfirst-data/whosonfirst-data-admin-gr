@@ -1,0 +1,76 @@
+{
+  "id": 1276479007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91808,36.69413,22.91808,36.69413",
+    "geom:latitude":36.69413,
+    "geom:longitude":22.91808,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9251",
+    "gn:asciiname":"Floka",
+    "gn:country_code":"GR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262355,
+    "gn:latitude":36.69413,
+    "gn:longitude":22.91808,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"Fl\u00f3ka",
+    "gn:population":39,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03cc\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Floka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262355
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"06b9894727fc4cae376d0dd0af2cf04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276479007,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276479007,
+    "wof:lastmodified":1537624629,
+    "wof:name":"Floka",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91808,
+    36.69413,
+    22.91808,
+    36.69413
+],
+  "geometry": {"coordinates":[22.91808,36.69413],"type":"Point"}
+}

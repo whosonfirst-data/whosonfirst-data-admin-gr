@@ -1,0 +1,74 @@
+{
+  "id": 1326761713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40991,40.29292,21.40991,40.29292",
+    "geom:latitude":40.29292,
+    "geom:longitude":21.40991,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Peponia",
+    "gn:country_code":"GR",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734714,
+    "gn:latitude":40.29292,
+    "gn:longitude":21.40991,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Peponi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c0\u03bf\u03bd\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1\u00ef",
+        "Peponi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734714
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0926cd6164ecc089fd76c254112d6b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326761713,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1326761713,
+    "wof:lastmodified":1537624857,
+    "wof:name":"Peponia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40991,
+    40.29292,
+    21.40991,
+    40.29292
+],
+  "geometry": {"coordinates":[21.40991,40.29292],"type":"Point"}
+}

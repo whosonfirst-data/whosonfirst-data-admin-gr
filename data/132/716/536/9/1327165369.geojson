@@ -1,0 +1,74 @@
+{
+  "id": 1327165369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10953,38.44075,24.10953,38.44075",
+    "geom:latitude":38.44075,
+    "geom:longitude":24.10953,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Nikoletta",
+    "gn:country_code":"GR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256411,
+    "gn:latitude":38.44075,
+    "gn:longitude":24.10953,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Nikol\u00e9tta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03bf\u03bb\u03ad\u03c4\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Nikol\u00e9ta",
+        "Nikol\u00e9tta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256411
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cdeeebc208f5e610516e239c3a4adb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327165369,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327165369,
+    "wof:lastmodified":1537624350,
+    "wof:name":"Nikoletta",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10953,
+    38.44075,
+    24.10953,
+    38.44075
+],
+  "geometry": {"coordinates":[24.10953,38.44075],"type":"Point"}
+}

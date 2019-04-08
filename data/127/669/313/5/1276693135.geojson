@@ -1,0 +1,77 @@
+{
+  "id": 1276693135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.54273,40.98832,25.54273,40.98832",
+    "geom:latitude":40.98832,
+    "geom:longitude":25.54273,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022",
+    "gn:asciiname":"Strymi",
+    "gn:country_code":"GR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734129,
+    "gn:latitude":40.98832,
+    "gn:longitude":25.54273,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Str\u00fdmi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Str\u00fdmi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03c1\u03cd\u03bc\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Str\u00edmi",
+        "Str\u00edmni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734129
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cc76143b80c6d1af828bae60a7eb3fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276693135,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276693135,
+    "wof:lastmodified":1537624824,
+    "wof:name":"Strymi",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54273,
+    40.98832,
+    25.54273,
+    40.98832
+],
+  "geometry": {"coordinates":[25.54273,40.98832],"type":"Point"}
+}

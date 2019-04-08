@@ -1,0 +1,78 @@
+{
+  "id": 1209040557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16655,37.03665,22.16655,37.03665",
+    "geom:latitude":37.03665,
+    "geom:longitude":22.16655,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Pano Galari",
+    "gn:country_code":"GR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9960341,
+    "gn:latitude":37.03665,
+    "gn:longitude":22.16655,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"P\u00e1no Gal\u00e1ri",
+    "gn:population":37,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0393\u03b1\u03bb\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bc\u03c0\u03b9\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pano Galari"
+    ],
+    "name:eng_x_variant":[
+        "Kampinari"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9960341
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d657d5aef737f27100f37cb1bbc49146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209040557
+        }
+    ],
+    "wof:id":1209040557,
+    "wof:lastmodified":1537625078,
+    "wof:name":"Pano Galari",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16655,
+    37.03665,
+    22.16655,
+    37.03665
+],
+  "geometry": {"coordinates":[22.16655,37.03665],"type":"Point"}
+}

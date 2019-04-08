@@ -1,0 +1,130 @@
+{
+  "id": 101849231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.466163,39.562699,22.466163,39.562699",
+    "geom:latitude":39.562699,
+    "geom:longitude":22.466163,
+    "gn:population":3274,
+    "iso:country":"GR",
+    "lbl:latitude":39.562699,
+    "lbl:longitude":22.466163,
+    "mps:latitude":39.562699,
+    "mps:longitude":22.466163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u0627\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Nikaia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03af\u03ba\u03b1\u03b9\u03b1\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03af\u03ba\u03b1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nikaia"
+    ],
+    "name:fin_x_preferred":[
+        "N\u00edkaia"
+    ],
+    "name:fre_x_preferred":[
+        "Nikaia"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03af\u03ba\u03b1\u03b9\u03b1\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Nikaia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30b1\u30a2"
+    ],
+    "name:nno_x_preferred":[
+        "N\u00edkea i L\u00e1risa"
+    ],
+    "name:ron_x_preferred":[
+        "Nikaia"
+    ],
+    "name:rum_x_preferred":[
+        "Nikaia"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00edkaia"
+    ],
+    "name:unk_x_variant":[
+        "Nebegl\u00e9r"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LARISA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039d\u0399\u039a\u0391\u0399\u0391",
+    "qs:loc_alt":"NIKAIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256428,
+        "gp:id":958324,
+        "qs:id":201963,
+        "qs_pg:id":909158,
+        "wd:id":"Q2466366",
+        "wk:page":"Nikaia, Larissa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aae15e74b44aae17df6be53141d9720f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849231,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849231,
+    "wof:lastmodified":1544740846,
+    "wof:name":"\u039d\u0399\u039a\u0391\u0399\u0391",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":3274,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.466163,
+    39.562699,
+    22.466163,
+    39.562699
+],
+  "geometry": {"coordinates":[22.466163,39.562699],"type":"Point"}
+}

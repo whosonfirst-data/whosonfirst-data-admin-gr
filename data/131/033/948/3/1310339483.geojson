@@ -1,0 +1,80 @@
+{
+  "id": 1310339483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43747,36.49139,22.43747,36.49139",
+    "geom:latitude":36.49139,
+    "geom:longitude":22.43747,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Mountanistika",
+    "gn:country_code":"GR",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256796,
+    "gn:latitude":36.49139,
+    "gn:longitude":22.43747,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Mountan\u00edstika",
+    "gn:population":17,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03bd\u03c4\u03b1\u03bd\u03af\u03c3\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mountanistika"
+    ],
+    "name:und_x_variant":[
+        "Moundan\u00edstika",
+        "Mondan\u00edstika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256796
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7006fd815f48fb7bc0dec8e79b1cb04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310339483,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310339483,
+    "wof:lastmodified":1537624371,
+    "wof:name":"Mountanistika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43747,
+    36.49139,
+    22.43747,
+    36.49139
+],
+  "geometry": {"coordinates":[22.43747,36.49139],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242908511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76195,40.41047,21.76195,40.41047",
+    "geom:latitude":40.41047,
+    "geom:longitude":21.76195,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Pontokomi",
+    "gn:country_code":"GR",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734510,
+    "gn:latitude":40.41047,
+    "gn:longitude":21.76195,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Pontok\u00f3mi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pontok\u00f3mi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bd\u03c4\u03bf\u03ba\u03ce\u03bc\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Ertom\u00fas",
+        "Pondok\u00f3mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734510,
+        "wk:page":"Pontokomi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c1d9572e6894e1c4f202f08e8bf5626f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242908511,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1242908511,
+    "wof:lastmodified":1537624845,
+    "wof:name":"Pontokomi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76195,
+    40.41047,
+    21.76195,
+    40.41047
+],
+  "geometry": {"coordinates":[21.76195,40.41047],"type":"Point"}
+}

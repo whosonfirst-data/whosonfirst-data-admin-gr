@@ -1,0 +1,87 @@
+{
+  "id": 1310039481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.57344,38.27198,23.57344,38.27198",
+    "geom:latitude":38.27198,
+    "geom:longitude":23.57344,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9147",
+    "gn:asciiname":"Kleidi",
+    "gn:country_code":"GR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259679,
+    "gn:latitude":38.27198,
+    "gn:longitude":23.57344,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"Kleid\u00ed",
+    "gn:population":368,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03bb\u03b5\u03b9\u03b4\u03ad\u03c4\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03b5\u03b9\u03b4\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bb\u03b5\u03b9\u03b4\u03ad\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kleidi"
+    ],
+    "name:und_x_variant":[
+        "Klidh\u00ed",
+        "Klidh\u00e9ti",
+        "Klidh\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259679
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1912f71350f56bdb7f5a7fff212e1308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310039481,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1310039481,
+    "wof:lastmodified":1537624502,
+    "wof:name":"Kleidi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57344,
+    38.27198,
+    23.57344,
+    38.27198
+],
+  "geometry": {"coordinates":[23.57344,38.27198],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209042941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.77849,37.66507,26.77849,37.66507",
+    "geom:latitude":37.66507,
+    "geom:longitude":26.77849,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Kyrgianni",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383276,
+    "gn:latitude":37.66507,
+    "gn:longitude":26.77849,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Kyrgianni",
+    "gn:population":25,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03cd\u03c1\u03b3\u03b9\u03b1\u03bd\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Kyrgianni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383276
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e3b580a059a5108ed8d696f343368859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209042941
+        }
+    ],
+    "wof:id":1209042941,
+    "wof:lastmodified":1537625063,
+    "wof:name":"Kyrgianni",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77849,
+    37.66507,
+    26.77849,
+    37.66507
+],
+  "geometry": {"coordinates":[26.77849,37.66507],"type":"Point"}
+}

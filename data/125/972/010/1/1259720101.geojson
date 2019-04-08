@@ -1,0 +1,80 @@
+{
+  "id": 1259720101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59685,35.37269,24.59685,35.37269",
+    "geom:latitude":35.37269,
+    "geom:longitude":24.59685,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Chamalevri",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260125,
+    "gn:latitude":35.37269,
+    "gn:longitude":24.59685,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Chamal\u00e9vri",
+    "gn:population":111,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03b1\u03bb\u03b5\u03cd\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Chamalevri"
+    ],
+    "name:und_x_variant":[
+        "Khamal\u00e9vri",
+        "Khamal\u00e9vrion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260125
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"94c2464f131f648ef4022bdf3c7ecf84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259720101,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259720101,
+    "wof:lastmodified":1537624524,
+    "wof:name":"Chamalevri",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59685,
+    35.37269000000001,
+    24.59685,
+    35.37269000000001
+],
+  "geometry": {"coordinates":[24.59685,35.37269000000001],"type":"Point"}
+}

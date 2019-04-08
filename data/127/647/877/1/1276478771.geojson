@@ -1,0 +1,74 @@
+{
+  "id": 1276478771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20797,35.42316,24.20797,35.42316",
+    "geom:latitude":35.42316,
+    "geom:longitude":24.20797,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Agios Pavlos",
+    "gn:country_code":"GR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263767,
+    "gn:latitude":35.42316,
+    "gn:longitude":24.20797,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"\u00c1gios P\u00e1vlos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios P\u00e1vlos"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2",
+        "\u00c1yios P\u00e1vlos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263767
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2ff7c092e7839d9d65601049131211b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276478771,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276478771,
+    "wof:lastmodified":1537624697,
+    "wof:name":"Agios Pavlos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20797,
+    35.42316,
+    24.20797,
+    35.42316
+],
+  "geometry": {"coordinates":[24.20797,35.42316],"type":"Point"}
+}

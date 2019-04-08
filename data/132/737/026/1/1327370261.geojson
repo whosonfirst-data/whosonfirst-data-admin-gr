@@ -1,0 +1,76 @@
+{
+  "id": 1327370261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03554,38.87759,23.03554,38.87759",
+    "geom:latitude":38.87759,
+    "geom:longitude":23.03554,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Paralia Agiou Nikolaou",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227035,
+    "gn:latitude":38.87759,
+    "gn:longitude":23.03554,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Paral\u00eda Ag\u00edou Nikol\u00e1ou",
+    "gn:population":448,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u0391\u03b3\u03af\u03bf\u03c5 \u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Paralia Agiou Nikolaou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227035
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e4a849595a40c8400581549f1df30a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327370261,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327370261,
+    "wof:lastmodified":1537625084,
+    "wof:name":"Paralia Agiou Nikolaou",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":448,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03554,
+    38.87759000000001,
+    23.03554,
+    38.87759000000001
+],
+  "geometry": {"coordinates":[23.03554,38.87759000000001],"type":"Point"}
+}

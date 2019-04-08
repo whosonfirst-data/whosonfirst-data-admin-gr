@@ -1,0 +1,77 @@
+{
+  "id": 1343295759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98705,35.04766,25.98705,35.04766",
+    "geom:latitude":35.04766,
+    "geom:longitude":25.98705,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Aspros Potamos",
+    "gn:country_code":"GR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609891,
+    "gn:latitude":35.04766,
+    "gn:longitude":25.98705,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"\u00c1spros Potam\u00f3s",
+    "gn:population":35,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03c3\u03c0\u03c1\u03bf\u03c2 \u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Aspros Potamos"
+    ],
+    "name:und_x_variant":[
+        "\u00c1spros Potam\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609891
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"024a2a07436ec4ce618448f76f7938cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1343295759,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343295759,
+    "wof:lastmodified":1537625031,
+    "wof:name":"Aspros Potamos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98705,
+    35.04766,
+    25.98705,
+    35.04766
+],
+  "geometry": {"coordinates":[25.98705,35.04766],"type":"Point"}
+}

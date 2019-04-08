@@ -1,0 +1,78 @@
+{
+  "id": 1243399843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27983,39.07711,21.27983,39.07711",
+    "geom:latitude":39.07711,
+    "geom:longitude":21.27983,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Dafnopigadi",
+    "gn:country_code":"GR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263292,
+    "gn:latitude":39.07711,
+    "gn:longitude":21.27983,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Dafnopig\u00e1di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dafnopig\u00e1di"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b1\u03c6\u03bd\u03bf\u03c0\u03b7\u03b3\u03ac\u03b4\u03b9",
+        "\u0394\u03b1\u03c6\u03bd\u03bf\u03c0\u03b7\u03b3\u03ac\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Dhafnopig\u00e1dhion",
+        "Dafnopig\u00e1dion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263292
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"80691aafe11887cf18782973a73c3785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243399843,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243399843,
+    "wof:lastmodified":1537624678,
+    "wof:name":"Dafnopigadi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27983,
+    39.07711,
+    21.27983,
+    39.07711
+],
+  "geometry": {"coordinates":[21.27983,39.07711],"type":"Point"}
+}

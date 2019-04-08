@@ -1,0 +1,73 @@
+{
+  "id": 1260010469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98104,35.07943,24.98104,35.07943",
+    "geom:latitude":35.07943,
+    "geom:longitude":24.98104,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9304",
+    "gn:asciiname":"Vourvoulitis",
+    "gn:country_code":"GR",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251724,
+    "gn:latitude":35.07943,
+    "gn:longitude":24.98104,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Vourvoul\u00edtis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vourvoul\u00edtis"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03c5\u03c1\u03b2\u03bf\u03c5\u03bb\u03af\u03c4\u03b7\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251724
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f0cb77cf839d291f0a60ea1d75b71b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260010469,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260010469,
+    "wof:lastmodified":1537624153,
+    "wof:name":"Vourvoulitis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98104,
+    35.07943,
+    24.98104,
+    35.07943
+],
+  "geometry": {"coordinates":[24.98104,35.07943],"type":"Point"}
+}

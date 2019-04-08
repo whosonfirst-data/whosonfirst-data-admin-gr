@@ -1,0 +1,79 @@
+{
+  "id": 1293328833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.953,37.87272,21.953,37.87272",
+    "geom:latitude":37.87272,
+    "geom:longitude":21.953,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Seires",
+    "gn:country_code":"GR",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253783,
+    "gn:latitude":37.87272,
+    "gn:longitude":21.953,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Seir\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Seir\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b5\u03b9\u03c1\u03ad\u03c2",
+        "Seira\u00ed",
+        "\u03a3\u03b5\u03b9\u03c1\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "Vers\u00edtsi",
+        "Sira\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253783
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9e6970da34090c5e6028848ba0fa7542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293328833,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293328833,
+    "wof:lastmodified":1537624237,
+    "wof:name":"Seires",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95300000000001,
+    37.87272,
+    21.95300000000001,
+    37.87272
+],
+  "geometry": {"coordinates":[21.95300000000001,37.87272],"type":"Point"}
+}

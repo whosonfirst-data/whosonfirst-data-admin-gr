@@ -1,0 +1,79 @@
+{
+  "id": 1209945995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27946,41.10379,24.27946,41.10379",
+    "geom:latitude":41.10379,
+    "geom:longitude":24.27946,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9001",
+    "gn:asciiname":"Evrypedo",
+    "gn:country_code":"GR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736289,
+    "gn:latitude":41.10379,
+    "gn:longitude":24.27946,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Evr\u00fdpedo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Evr\u00fdpedo"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c5\u03c1\u03cd\u03c0\u03b5\u03b4\u03bf",
+        "Evr\u00fdpedon",
+        "\u0395\u03c5\u03c1\u03cd\u03c0\u03b5\u03b4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Asa\u00e1-Mahal\u00e9",
+        "Evr\u00edpedhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736289
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4924103145105f2ab6fff62d6999f7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209945995,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1209945995,
+    "wof:lastmodified":1537624948,
+    "wof:name":"Evrypedo",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27946,
+    41.10379,
+    24.27946,
+    41.10379
+],
+  "geometry": {"coordinates":[24.27946,41.10379],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1125872083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26667,39.25,23.26667,39.25",
+    "geom:latitude":39.25,
+    "geom:longitude":23.26667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":39.25,
+    "lbl:longitude":23.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Xinovrysi"
+    ],
+    "name:ell_x_preferred":[
+        "Xyn\u00f3vrysi"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03c5\u03bd\u03cc\u03b2\u03c1\u03c5\u03c3\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Xinovrysi"
+    ],
+    "name:gre_x_preferred":[
+        "\u039e\u03b9\u03bd\u03cc\u03b2\u03c1\u03c5\u03c3\u03b7 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Best\u00ednika"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":251510,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Xinovrisi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos":25,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":39661,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":965201,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251510,
+        "gp:id":965201,
+        "qs_pg:id":39661,
+        "wd:id":"Q8044642"
+    },
+    "wof:country":"GR",
+    "wof:created":1497294350,
+    "wof:geomhash":"834883da9ca9a4e85c523c7f03c983d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125872083,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125872083,
+    "wof:lastmodified":1514444076,
+    "wof:name":"Xinovrisi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26667,
+    39.25,
+    23.26667,
+    39.25
+],
+  "geometry": {"coordinates":[23.26667,39.25],"type":"Point"}
+}

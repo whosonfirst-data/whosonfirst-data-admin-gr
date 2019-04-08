@@ -1,0 +1,67 @@
+{
+  "id": 1242907327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33542,35.25172,25.33542,35.25172",
+    "geom:latitude":35.25172,
+    "geom:longitude":25.33542,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Lagos",
+    "gn:country_code":"GR",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258707,
+    "gn:latitude":35.25172,
+    "gn:longitude":25.33542,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Lag\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258707
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b85bc2bb796236427395b66049f5bcb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242907327,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242907327,
+    "wof:lastmodified":1537082650,
+    "wof:name":"Lagos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33542000000001,
+    35.25172,
+    25.33542000000001,
+    35.25172
+],
+  "geometry": {"coordinates":[25.33542000000001,35.25172],"type":"Point"}
+}

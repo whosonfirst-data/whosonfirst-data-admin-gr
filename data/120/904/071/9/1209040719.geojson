@@ -1,0 +1,72 @@
+{
+  "id": 1209040719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50473,36.79723,22.50473,36.79723",
+    "geom:latitude":36.79723,
+    "geom:longitude":22.50473,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Synora",
+    "gn:country_code":"GR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258963,
+    "gn:latitude":36.79723,
+    "gn:longitude":22.50473,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"S\u00fdnora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "S\u00fdnora"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03cd\u03bd\u03bf\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Koutoumo\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258963
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c2b08d82e30312e57fbd40c80d287891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209040719
+        }
+    ],
+    "wof:id":1209040719,
+    "wof:lastmodified":1537624473,
+    "wof:name":"Synora",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50473,
+    36.79723,
+    22.50473,
+    36.79723
+],
+  "geometry": {"coordinates":[22.50473,36.79723],"type":"Point"}
+}

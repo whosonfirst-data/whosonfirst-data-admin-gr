@@ -1,0 +1,101 @@
+{
+  "id": 1126024903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43833,39.51,20.43833,39.51",
+    "geom:latitude":39.51,
+    "geom:longitude":20.43833,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":214,
+    "gn:population":214,
+    "iso:country":"GR",
+    "lbl:latitude":39.51,
+    "lbl:longitude":20.43833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Njihori"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Neochori"
+    ],
+    "name:ger_x_preferred":[
+        "Neochori"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9 \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Neoch\u00f3ri"
+    ],
+    "name:unk_x_variant":[
+        "Neoch\u00f3ri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256505,
+    "qs_pg:gn_pop":214,
+    "qs_pg:name":"Neoch\u00f3rion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256505,
+        "qs_pg:id":546561,
+        "wd:id":"Q16350435"
+    },
+    "wof:country":"GR",
+    "wof:created":1497301074,
+    "wof:geomhash":"e4a4bf3bb1803527b07f0f678cd11ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126024903,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126024903,
+    "wof:lastmodified":1553816708,
+    "wof:name":"Neoch\u00f3rion",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43833,
+    39.51,
+    20.43833,
+    39.51
+],
+  "geometry": {"coordinates":[20.43833,39.51],"type":"Point"}
+}

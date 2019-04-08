@@ -1,0 +1,78 @@
+{
+  "id": 1343293061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70867,36.89028,21.70867,36.89028",
+    "geom:latitude":36.89028,
+    "geom:longitude":21.70867,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Palaionero",
+    "gn:country_code":"GR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256076,
+    "gn:latitude":36.89028,
+    "gn:longitude":21.70867,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Palai\u00f3nero",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Palai\u00f3nero"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03bd\u03b5\u03c1\u03bf",
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03bd\u03b5\u03c1\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Pali\u00f3neron",
+        "Palai\u00f3neron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256076
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"04bd3114700f7f5788f1666d0f5fd853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343293061,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343293061,
+    "wof:lastmodified":1537624335,
+    "wof:name":"Palaionero",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70867,
+    36.89028,
+    21.70867,
+    36.89028
+],
+  "geometry": {"coordinates":[21.70867,36.89028],"type":"Point"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 101849323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.841305,38.948147,22.841305,38.948147",
+    "geom:latitude":38.948147,
+    "geom:longitude":22.841305,
+    "gn:population":1497,
+    "iso:country":"GR",
+    "lbl:latitude":38.948147,
+    "lbl:longitude":22.841305,
+    "mps:latitude":38.948147,
+    "mps:longitude":22.841305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0627\u0633\u064a\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Pelasgia"
+    ],
+    "name:ell_x_historical":[
+        "\u0393\u03b1\u03c1\u03b4\u03af\u03ba\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b5\u03bb\u03b1\u03c3\u03b3\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03bb\u03b1\u03c3\u03b3\u03af\u03b1",
+        "\u0393\u03b1\u03c1\u03b4\u03af\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pelasgia"
+    ],
+    "name:fra_x_preferred":[
+        "Pelasg\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Pelasg\u00eda"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03bb\u03b1\u03c3\u03b3\u03af\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Pelasgia"
+    ],
+    "name:nno_x_preferred":[
+        "Pelasj\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Pelasgia"
+    ],
+    "name:swe_x_preferred":[
+        "Pelasg\u00eda"
+    ],
+    "name:unk_x_variant":[
+        "Gardh\u00edki"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"FUIVTIDA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0395\u039b\u0391\u03a3\u0393\u0399\u0391",
+    "qs:loc_alt":"PELASGIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":686,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255638,
+        "gp:id":966025,
+        "qs:id":256233,
+        "qs_pg:id":256233,
+        "wd:id":"Q2471029",
+        "wk:page":"Pelasgia, Phthiotis"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9e2d94d9ed7b537deb7deab163c00c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849323,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849323,
+    "wof:lastmodified":1544740894,
+    "wof:name":"\u03a0\u0395\u039b\u0391\u03a3\u0393\u0399\u0391",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1497,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.841305,
+    38.948147,
+    22.841305,
+    38.948147
+],
+  "geometry": {"coordinates":[22.841305,38.948147],"type":"Point"}
+}

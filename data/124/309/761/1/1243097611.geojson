@@ -1,0 +1,89 @@
+{
+  "id": 1243097611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78258,38.69981,21.78258,38.69981",
+    "geom:latitude":38.69981,
+    "geom:longitude":21.78258,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Ryaki",
+    "gn:country_code":"GR",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260963,
+    "gn:latitude":38.69981,
+    "gn:longitude":21.78258,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ry\u00e1ki",
+    "gn:population":40,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03c1\u03c5\u03ac"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03c5\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03c5\u03ac",
+        "Ry\u00e1ki",
+        "Ry\u00e1kion",
+        "\u03a1\u03c5\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Ryaki"
+    ],
+    "name:und_x_variant":[
+        "Kari\u00e1",
+        "Riaki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260963
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a4867c4a07e802c57a994d1a13644f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243097611,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1243097611,
+    "wof:lastmodified":1537624567,
+    "wof:name":"Ryaki",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78258,
+    38.69981,
+    21.78258,
+    38.69981
+],
+  "geometry": {"coordinates":[21.78258,38.69981],"type":"Point"}
+}

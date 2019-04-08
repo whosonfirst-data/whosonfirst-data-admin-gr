@@ -1,0 +1,78 @@
+{
+  "id": 1310535217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1487,37.62674,22.1487,37.62674",
+    "geom:latitude":37.62674,
+    "geom:longitude":22.1487,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Elati",
+    "gn:country_code":"GR",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263038,
+    "gn:latitude":37.62674,
+    "gn:longitude":22.1487,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"El\u00e1ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "El\u00e1ti"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03bb\u03ac\u03c4\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Gortseniko\u00fa",
+        "Gorzen\u00edkou",
+        "Dh\u00edrrevma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263038
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"14ce903126aca2b23a414498c394c288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310535217,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310535217,
+    "wof:lastmodified":1537624664,
+    "wof:name":"Elati",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1487,
+    37.62674000000001,
+    22.1487,
+    37.62674000000001
+],
+  "geometry": {"coordinates":[22.1487,37.62674000000001],"type":"Point"}
+}

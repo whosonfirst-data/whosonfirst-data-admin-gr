@@ -1,0 +1,73 @@
+{
+  "id": 1327365075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97444,37.97512,23.97444,37.97512",
+    "geom:latitude":37.97512,
+    "geom:longitude":23.97444,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9226",
+    "gn:asciiname":"Velanidia",
+    "gn:country_code":"GR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036786,
+    "gn:latitude":37.97512,
+    "gn:longitude":23.97444,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Velanidi\u00e1",
+    "gn:population":257,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03bb\u03b1\u03bd\u03b9\u03b4\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036786
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"abadfebc6816e4f07c4dc73f83323bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327365075,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1327365075,
+    "wof:lastmodified":1537551161,
+    "wof:name":"Velanidia",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":257,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97444,
+    37.97512,
+    23.97444,
+    37.97512
+],
+  "geometry": {"coordinates":[23.97444,37.97512],"type":"Point"}
+}

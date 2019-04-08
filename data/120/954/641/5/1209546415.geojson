@@ -1,0 +1,74 @@
+{
+  "id": 1209546415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20724,39.23318,26.20724,39.23318",
+    "geom:latitude":39.23318,
+    "geom:longitude":26.20724,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Kalloni",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261396,
+    "gn:latitude":39.23318,
+    "gn:longitude":26.20724,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Kallon\u00ed",
+    "gn:population":1776,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Akhir\u00f3n",
+        "Kallon\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261396,
+        "wk:page":"Kalloni"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"de62570e0dc82395420a4ffbe9b272eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209546415
+        }
+    ],
+    "wof:id":1209546415,
+    "wof:lastmodified":1537624587,
+    "wof:name":"Kalloni",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":1776,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20724,
+    39.23318,
+    26.20724,
+    39.23318
+],
+  "geometry": {"coordinates":[26.20724,39.23318],"type":"Point"}
+}

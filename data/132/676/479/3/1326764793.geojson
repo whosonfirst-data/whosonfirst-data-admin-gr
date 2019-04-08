@@ -1,0 +1,80 @@
+{
+  "id": 1326764793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48661,39.24289,22.48661,39.24289",
+    "geom:latitude":39.24289,
+    "geom:longitude":22.48661,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9103",
+    "gn:asciiname":"Narthaki",
+    "gn:country_code":"GR",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256647,
+    "gn:latitude":39.24289,
+    "gn:longitude":22.48661,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Narth\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Narth\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b1\u03c1\u03b8\u03ac\u03ba\u03b9",
+        "\u039d\u03b1\u03c1\u03b8\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kiopekl\u00edon",
+        "Kopekl\u00ed",
+        "Narth\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256647,
+        "wk:page":"Narthaki"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dc0b48cc3409ed29b7733a8aa3d4ddee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326764793,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326764793,
+    "wof:lastmodified":1537624366,
+    "wof:name":"Narthaki",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48661,
+    39.24289,
+    22.48661,
+    39.24289
+],
+  "geometry": {"coordinates":[22.48661,39.24289],"type":"Point"}
+}

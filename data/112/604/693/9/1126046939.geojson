@@ -1,0 +1,85 @@
+{
+  "id": 1126046939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05361,40.78028,22.05361,40.78028",
+    "geom:latitude":40.78028,
+    "geom:longitude":22.05361,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":61,
+    "gn:population":61,
+    "iso:country":"GR",
+    "lbl:latitude":40.78028,
+    "lbl:longitude":22.05361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03bf\u03ac\u03c3\u03c4\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03bf\u03ac\u03c3\u03c4\u03b9\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Pro\u00e1stio"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":865325,
+    "qs_pg:gn_pop":61,
+    "qs_pg:name":"Pro\u00e1stion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":554690,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865325,
+        "qs_pg:id":554690
+    },
+    "wof:country":"GR",
+    "wof:created":1497302490,
+    "wof:geomhash":"a14c7acfe48bb4e43e1d5fad596a8c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126046939,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1126046939,
+    "wof:lastmodified":1509408919,
+    "wof:name":"Pro\u00e1stion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05361,
+    40.78028,
+    22.05361,
+    40.78028
+],
+  "geometry": {"coordinates":[22.05361,40.78028],"type":"Point"}
+}

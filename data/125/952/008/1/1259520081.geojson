@@ -1,0 +1,78 @@
+{
+  "id": 1259520081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16546,37.06947,22.16546,37.06947",
+    "geom:latitude":37.06947,
+    "geom:longitude":22.16546,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Kato Karveli",
+    "gn:country_code":"GR",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260584,
+    "gn:latitude":37.06947,
+    "gn:longitude":22.16546,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"K\u00e1to Karv\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Karv\u00e9li"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03c1\u03b2\u03ad\u03bb\u03b9",
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03c1\u03b2\u03ad\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Khan\u00e1kia",
+        "K\u00e1to Karv\u00e9lion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260584
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d7cc2c01621b6c529192a01be3d13dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259520081,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259520081,
+    "wof:lastmodified":1537624549,
+    "wof:name":"Kato Karveli",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16546,
+    37.06947,
+    22.16546,
+    37.06947
+],
+  "geometry": {"coordinates":[22.16546,37.06947],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209043153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23164,37.33411,22.23164,37.33411",
+    "geom:latitude":37.33411,
+    "geom:longitude":22.23164,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Kato Anavryto",
+    "gn:country_code":"GR",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260636,
+    "gn:latitude":37.33411,
+    "gn:longitude":22.23164,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"K\u00e1to Anavryt\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Anavryt\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03bd\u03b1\u03b2\u03c1\u03c5\u03c4\u03cc",
+        "K\u00e1to Anavryt\u00f3n",
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03bd\u03b1\u03b2\u03c1\u03c5\u03c4\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Anavrit\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260636
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"55f091fd887aeec5a1f5f7be0a7e31c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209043153
+        }
+    ],
+    "wof:id":1209043153,
+    "wof:lastmodified":1537624552,
+    "wof:name":"Kato Anavryto",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23164,
+    37.33411,
+    22.23164,
+    37.33411
+],
+  "geometry": {"coordinates":[22.23164,37.33411],"type":"Point"}
+}

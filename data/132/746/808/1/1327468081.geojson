@@ -1,0 +1,73 @@
+{
+  "id": 1327468081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99081,35.25326,24.99081,35.25326",
+    "geom:latitude":35.25326,
+    "geom:longitude":24.99081,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306",
+    "gn:asciiname":"Loutrakion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258068,
+    "gn:latitude":35.25326,
+    "gn:longitude":24.99081,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Loutr\u00e1kion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ano Loutr\u00e1ki",
+        "Loutr\u00e1ki",
+        "Loutr\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258068
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9670f2dc3d5397675631dacbc0520d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327468081,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327468081,
+    "wof:lastmodified":1537624430,
+    "wof:name":"Loutrakion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99081,
+    35.25326,
+    24.99081,
+    35.25326
+],
+  "geometry": {"coordinates":[24.99081,35.25326],"type":"Point"}
+}

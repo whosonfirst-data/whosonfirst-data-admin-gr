@@ -1,0 +1,75 @@
+{
+  "id": 1327168019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68269,35.37542,24.68269,35.37542",
+    "geom:latitude":35.37542,
+    "geom:longitude":24.68269,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Chani Alexandrou",
+    "gn:country_code":"GR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529195,
+    "gn:latitude":35.37542,
+    "gn:longitude":24.68269,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ch\u00e1ni Alex\u00e1ndrou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ch\u00e1ni Alex\u00e1ndrou"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03bd\u03b9 \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03bf\u03c5",
+        "Ch\u00e1nion Alex\u00e1ndrou",
+        "\u03a7\u03ac\u03bd\u03b9\u03bf\u03bd \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03bf\u03c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529195
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5b7729a533d5e60056b62cda8c6f6378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327168019,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327168019,
+    "wof:lastmodified":1537625018,
+    "wof:name":"Chani Alexandrou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68269,
+    35.37542,
+    24.68269,
+    35.37542
+],
+  "geometry": {"coordinates":[24.68269,35.37542],"type":"Point"}
+}

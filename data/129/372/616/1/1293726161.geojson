@@ -1,0 +1,80 @@
+{
+  "id": 1293726161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29517,37.62852,22.29517,37.62852",
+    "geom:latitude":37.62852,
+    "geom:longitude":22.29517,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Kardaras",
+    "gn:country_code":"GR",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260996,
+    "gn:latitude":37.62852,
+    "gn:longitude":22.29517,
+    "gn:modification_date":"2015-11-11",
+    "gn:name":"Kardar\u00e1s",
+    "gn:population":20,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b4\u03b1\u03c1\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kardaras"
+    ],
+    "name:und_x_variant":[
+        "Kardhar\u00e1",
+        "Kardhar\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260996
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4295b2e84eb33698ff4fbb0578a6ef5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293726161,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293726161,
+    "wof:lastmodified":1537624569,
+    "wof:name":"Kardaras",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29517,
+    37.62852,
+    22.29517,
+    37.62852
+],
+  "geometry": {"coordinates":[22.29517,37.62852],"type":"Point"}
+}

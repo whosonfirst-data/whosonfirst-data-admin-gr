@@ -1,0 +1,85 @@
+{
+  "id": 1226178235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57122,39.85581,20.57122,39.85581",
+    "geom:latitude":39.85581,
+    "geom:longitude":20.57122,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9087",
+    "gn:asciiname":"Stavrodromi Parakalamou",
+    "gn:country_code":"GR",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259399,
+    "gn:latitude":39.85581,
+    "gn:longitude":20.57122,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Stavrodr\u00f3mi Parakal\u00e1mou",
+    "gn:population":74,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9 \u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03ac\u03bc\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Stavrodromi Parakalamou"
+    ],
+    "name:und_x_variant":[
+        "K\u00f3ntra",
+        "Stavrodr\u00f3mi",
+        "K\u00f3ndra",
+        "Stavrodr\u00f3mion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259399
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"87281b1f57b97fa411394e6e69d66ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226178235,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1226178235,
+    "wof:lastmodified":1537624489,
+    "wof:name":"Stavrodromi Parakalamou",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57122,
+    39.85581,
+    20.57122,
+    39.85581
+],
+  "geometry": {"coordinates":[20.57122,39.85581],"type":"Point"}
+}

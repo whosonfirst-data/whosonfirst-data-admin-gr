@@ -1,0 +1,78 @@
+{
+  "id": 1242808377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75,37.56667,21.75,37.56667",
+    "geom:latitude":37.56667,
+    "geom:longitude":21.75,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Ladiko",
+    "gn:country_code":"GR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":258731,
+    "gn:latitude":37.56667,
+    "gn:longitude":21.75,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ladik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Ladik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03b4\u03b9\u03ba\u03cc",
+        "Ladik\u00f3n",
+        "\u039b\u03b1\u03b4\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ladhik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258731
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1062ae1518b3ec0e5d3a6a1fe58036fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242808377,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1242808377,
+    "wof:lastmodified":1537624463,
+    "wof:name":"Ladiko",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75,
+    37.56667,
+    21.75,
+    37.56667
+],
+  "geometry": {"coordinates":[21.75,37.56667],"type":"Point"}
+}

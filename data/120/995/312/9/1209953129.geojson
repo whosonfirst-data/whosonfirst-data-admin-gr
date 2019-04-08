@@ -1,0 +1,72 @@
+{
+  "id": 1209953129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05148,38.54874,24.05148,38.54874",
+    "geom:latitude":38.54874,
+    "geom:longitude":24.05148,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Vrisi",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251637,
+    "gn:latitude":38.54874,
+    "gn:longitude":24.05148,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Vr\u00edsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vr\u00edsis",
+        "Vr\u00edsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251637
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3a3cf5f9eba61a21f65a048ae30ba328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209953129,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1209953129,
+    "wof:lastmodified":1537624148,
+    "wof:name":"Vrisi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05148,
+    38.54874,
+    24.05148,
+    38.54874
+],
+  "geometry": {"coordinates":[24.05148,38.54874],"type":"Point"}
+}

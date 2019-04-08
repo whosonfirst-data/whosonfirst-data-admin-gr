@@ -1,0 +1,82 @@
+{
+  "id": 1343797971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18264,39.06425,22.18264,39.06425",
+    "geom:latitude":39.06425,
+    "geom:longitude":22.18264,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9159",
+    "gn:asciiname":"Perivoli",
+    "gn:country_code":"GR",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255499,
+    "gn:latitude":39.06425,
+    "gn:longitude":22.18264,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Periv\u00f3li",
+    "gn:population":435,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Perivoli"
+    ],
+    "name:und_x_variant":[
+        "Dherel\u00ed",
+        "Periv\u00f3li",
+        "Derel\u00ed",
+        "Periv\u00f3lion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255499
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"619e5e6dbc92b72498414ba757e7b28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343797971,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343797971,
+    "wof:lastmodified":1537624309,
+    "wof:name":"Perivoli",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":435,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18264,
+    39.06425,
+    22.18264,
+    39.06425
+],
+  "geometry": {"coordinates":[22.18264,39.06425],"type":"Point"}
+}

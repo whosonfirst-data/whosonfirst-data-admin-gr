@@ -1,0 +1,77 @@
+{
+  "id": 1193054245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08675,38.36089,23.08675,38.36089",
+    "geom:latitude":38.36089,
+    "geom:longitude":23.08675,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9142",
+    "gn:asciiname":"Mazi",
+    "gn:country_code":"GR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257461,
+    "gn:latitude":38.36089,
+    "gn:longitude":23.08675,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"M\u00e1zi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03b6\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "M\u00e1zi",
+        "M\u00e1zion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257461
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7c0bd58b707a83ce3afe7fa0664d7c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193054245,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1193054245,
+    "wof:lastmodified":1537624406,
+    "wof:name":"Mazi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08675,
+    38.36089000000001,
+    23.08675,
+    38.36089000000001
+],
+  "geometry": {"coordinates":[23.08675,38.36089000000001],"type":"Point"}
+}

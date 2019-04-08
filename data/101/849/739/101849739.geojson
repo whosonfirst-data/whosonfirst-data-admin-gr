@@ -1,0 +1,153 @@
+{
+  "id": 101849739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.150349,38.954087,23.150349,38.954087",
+    "geom:latitude":38.954087,
+    "geom:longitude":23.150349,
+    "gn:population":4339,
+    "iso:country":"GR",
+    "lbl:latitude":38.954087,
+    "lbl:longitude":23.150349,
+    "mps:latitude":38.954087,
+    "mps:longitude":23.150349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u0633\u062a\u064a\u0627\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Istiaia"
+    ],
+    "name:ell_x_historical":[
+        "\u039e\u03b7\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03c4\u03b9\u03b1\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03b7\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Istiaia"
+    ],
+    "name:eng_x_variant":[
+        "Istiea"
+    ],
+    "name:fin_x_preferred":[
+        "Istia\u00eda"
+    ],
+    "name:fra_x_preferred":[
+        "Istia\u00eda"
+    ],
+    "name:fra_x_variant":[
+        "Istiea"
+    ],
+    "name:fre_x_preferred":[
+        "Istia\u00eda"
+    ],
+    "name:gre_x_preferred":[
+        "\u0399\u03c3\u03c4\u03b9\u03b1\u03af\u03b1 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
+    ],
+    "name:hbs_x_preferred":[
+        "Istieja"
+    ],
+    "name:ita_x_preferred":[
+        "Istiaia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30b9\u30c6\u30a3\u30a2\u30a8\u30a2"
+    ],
+    "name:lat_x_preferred":[
+        "Histiaea"
+    ],
+    "name:nno_x_preferred":[
+        "Isti\u00e9a"
+    ],
+    "name:nob_x_preferred":[
+        "Istiaia"
+    ],
+    "name:nor_x_preferred":[
+        "Istiaia"
+    ],
+    "name:pol_x_preferred":[
+        "Istiea"
+    ],
+    "name:swe_x_preferred":[
+        "Istia\u00eda"
+    ],
+    "name:unk_x_variant":[
+        "Xirokh\u00f3rion"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"EYVOIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0399\u03a3\u03a4\u0399\u0391\u0399\u0391",
+    "qs:loc_alt":"ISTIAIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.95,
+    "wd:longitude":23.15,
+    "wd:wordcount":316,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261720,
+        "gp:id":950561,
+        "qs:id":347382,
+        "qs_pg:id":347382,
+        "wd:id":"Q733574",
+        "wk:page":"Istiaia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fb58399ba49b39a2ad4e828a3668e863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849739,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849739,
+    "wof:lastmodified":1544741094,
+    "wof:name":"\u0399\u03a3\u03a4\u0399\u0391\u0399\u0391",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":4339,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.150349,
+    38.954087,
+    23.150349,
+    38.954087
+],
+  "geometry": {"coordinates":[23.150349,38.954087],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309835741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92117,38.03944,21.92117,38.03944",
+    "geom:latitude":38.03944,
+    "geom:longitude":21.92117,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Menychtaiika",
+    "gn:country_code":"GR",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257266,
+    "gn:latitude":38.03944,
+    "gn:longitude":21.92117,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Menychta\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Menychta\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03bd\u03c5\u03c7\u03c4\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Sougl\u00e9\u00efka",
+        "Menikhta\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257266
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"db3506c52c9a3f8266f9079a1dc341f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309835741,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309835741,
+    "wof:lastmodified":1537624398,
+    "wof:name":"Menychtaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92117,
+    38.03944,
+    21.92117,
+    38.03944
+],
+  "geometry": {"coordinates":[21.92117,38.03944],"type":"Point"}
+}

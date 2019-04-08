@@ -1,0 +1,73 @@
+{
+  "id": 1343695731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93833,39.74483,19.93833,39.74483",
+    "geom:latitude":39.74483,
+    "geom:longitude":19.93833,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Kouloura",
+    "gn:country_code":"GR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565262,
+    "gn:latitude":39.74483,
+    "gn:longitude":19.93833,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Koulo\u00fara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Koulo\u00fara"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bb\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565262
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"38720ce24a6ba32b3a6212993a479dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343695731,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1343695731,
+    "wof:lastmodified":1537624995,
+    "wof:name":"Kouloura",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93833,
+    39.74483,
+    19.93833,
+    39.74483
+],
+  "geometry": {"coordinates":[19.93833,39.74483],"type":"Point"}
+}

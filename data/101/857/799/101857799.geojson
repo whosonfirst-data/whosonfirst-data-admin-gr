@@ -1,0 +1,148 @@
+{
+  "id": 101857799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17399,40.893318,26.17399,40.893318",
+    "geom:latitude":40.893318,
+    "geom:longitude":26.17399,
+    "gn:population":5403,
+    "iso:country":"GR",
+    "lbl:latitude":40.893318,
+    "lbl:longitude":26.17399,
+    "mps:latitude":40.893318,
+    "mps:longitude":26.17399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u0440\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Feres"
+    ],
+    "name:dut_x_preferred":[
+        "Feres"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2#\u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03b5\u03c1\u03ce\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03ad\u03c1\u03b1\u03b9",
+        "\u03a6\u03ad\u03c1\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Feres"
+    ],
+    "name:fra_x_preferred":[
+        "Ph\u00e8res"
+    ],
+    "name:fre_x_preferred":[
+        "Feres"
+    ],
+    "name:ger_x_preferred":[
+        "Feres"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03ad\u03c1\u03b5\u03c2 \u0388\u03b2\u03c1\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Feres"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30ec\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Feres"
+    ],
+    "name:nno_x_preferred":[
+        "F\u00e9res i \u00c9vros"
+    ],
+    "name:ron_x_preferred":[
+        "Feres"
+    ],
+    "name:rum_x_preferred":[
+        "Feres"
+    ],
+    "name:spa_x_preferred":[
+        "Feres"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00e9res"
+    ],
+    "name:tur_x_preferred":[
+        "Ferecik"
+    ],
+    "name:unk_x_variant":[
+        "Pherrai"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
+    "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"EBROS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a6\u0395\u03a1\u0391\u0399",
+    "qs:loc_alt":"FERAI",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":40.893333,
+    "wd:longitude":26.173889,
+    "wd:wordcount":331,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736261,
+        "gp:id":966163,
+        "qs:id":786544,
+        "qs_pg:id":786544,
+        "wd:id":"Q943354",
+        "wk:page":"Feres, Evros"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b5ddb5be9da42bf3e44948b2826d4d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857799,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":101857799,
+    "wof:lastmodified":1544744083,
+    "wof:name":"\u03a6\u0395\u03a1\u0391\u0399",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":5403,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17399,
+    40.893318,
+    26.17399,
+    40.893318
+],
+  "geometry": {"coordinates":[26.17399,40.893318],"type":"Point"}
+}

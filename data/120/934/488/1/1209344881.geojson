@@ -1,0 +1,77 @@
+{
+  "id": 1209344881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82322,38.29839,21.82322,38.29839",
+    "geom:latitude":38.29839,
+    "geom:longitude":21.82322,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134",
+    "gn:asciiname":"Platani",
+    "gn:country_code":"GR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255052,
+    "gn:latitude":38.29839,
+    "gn:longitude":21.82322,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Plat\u00e1ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03ac\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03ac\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Platani"
+    ],
+    "name:und_x_variant":[
+        "Plat\u00e1ni",
+        "Plat\u00e1nion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255052,
+        "wk:page":"Platani,_Achaea"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b54deec67d93b8e1a4bc1eaf178f7cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209344881
+        }
+    ],
+    "wof:id":1209344881,
+    "wof:lastmodified":1537624289,
+    "wof:name":"Platani",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82322000000001,
+    38.29839000000001,
+    21.82322000000001,
+    38.29839000000001
+],
+  "geometry": {"coordinates":[21.82322000000001,38.29839000000001],"type":"Point"}
+}

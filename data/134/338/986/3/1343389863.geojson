@@ -1,0 +1,73 @@
+{
+  "id": 1343389863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39533,35.08971,25.39533,35.08971",
+    "geom:latitude":35.08971,
+    "geom:longitude":25.39533,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9303",
+    "gn:asciiname":"Milliaradhon",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256977,
+    "gn:latitude":35.08971,
+    "gn:longitude":25.39533,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Milliar\u00e1dhon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miliar\u00e1dhes",
+        "Milliar\u00e1dhes",
+        "Milliar\u00e1dhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256977
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"24646750a197cf4f9d7d029af6ac609c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343389863,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343389863,
+    "wof:lastmodified":1537624379,
+    "wof:name":"Milliaradhon",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39533,
+    35.08971,
+    25.39533,
+    35.08971
+],
+  "geometry": {"coordinates":[25.39533,35.08971],"type":"Point"}
+}

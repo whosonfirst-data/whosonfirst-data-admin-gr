@@ -1,0 +1,81 @@
+{
+  "id": 1360019959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35764,37.62166,23.35764,37.62166",
+    "geom:latitude":37.62166,
+    "geom:longitude":23.35764,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9213",
+    "gn:asciiname":"Makrilongos",
+    "gn:country_code":"GR",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257943,
+    "gn:latitude":37.62166,
+    "gn:longitude":23.35764,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Makr\u00edlongos",
+    "gn:population":24,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03c1\u03cd\u03bb\u03bf\u03b3\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Makrylongos"
+    ],
+    "name:und_x_variant":[
+        "Mo\u00faskha \u00c1no",
+        "Makr\u00f3longos",
+        "Makr\u00edlongos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257943
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"20394868d8adb8cb16847d2f50323643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360019959,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1360019959,
+    "wof:lastmodified":1537624424,
+    "wof:name":"Makrilongos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35764,
+    37.62166,
+    23.35764,
+    37.62166
+],
+  "geometry": {"coordinates":[23.35764,37.62166],"type":"Point"}
+}

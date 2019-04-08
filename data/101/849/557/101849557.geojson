@@ -1,0 +1,141 @@
+{
+  "id": 101849557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.352947,38.43856,21.352947,38.43856",
+    "geom:latitude":38.43856,
+    "geom:longitude":21.352947,
+    "gn:population":4323,
+    "iso:country":"GR",
+    "lbl:latitude":38.43856,
+    "lbl:longitude":21.352947,
+    "mps:latitude":38.43856,
+    "mps:longitude":21.352947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a\u0648\u0644\u064a\u0643\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Etoliko"
+    ],
+    "name:dut_x_preferred":[
+        "Aitoliko"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Aitoliko"
+    ],
+    "name:fre_x_preferred":[
+        "Aitoliko"
+    ],
+    "name:ger_x_preferred":[
+        "Etoliko"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Aitoliko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c8\u30ea\u30b3"
+    ],
+    "name:nno_x_preferred":[
+        "Etolik\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "Etoliko"
+    ],
+    "name:ron_x_preferred":[
+        "Aitoliko"
+    ],
+    "name:rum_x_preferred":[
+        "Aitoliko"
+    ],
+    "name:swe_x_preferred":[
+        "Aitolik\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Etolikon"
+    ],
+    "name:wel_x_preferred":[
+        "Aitoliko"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"AITVLIA KAI AKARNANIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0399\u03a4\u03a9\u039b\u0399\u039a\u039f\u039d",
+    "qs:loc_alt":"AITVLIKON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.447222,
+    "wd:longitude":21.369167,
+    "wd:wordcount":922,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265507,
+        "gp:id":965976,
+        "qs:id":917314,
+        "qs_pg:id":917314,
+        "wd:id":"Q1371634",
+        "wk:page":"Aitoliko"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c10b3080e0380d97d45872c7f039265d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849557,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849557,
+    "wof:lastmodified":1544741006,
+    "wof:name":"\u0391\u0399\u03a4\u03a9\u039b\u0399\u039a\u039f\u039d",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":4323,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.352947,
+    38.43856,
+    21.352947,
+    38.43856
+],
+  "geometry": {"coordinates":[21.352947,38.43856],"type":"Point"}
+}

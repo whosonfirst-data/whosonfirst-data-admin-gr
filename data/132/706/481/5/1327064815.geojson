@@ -1,0 +1,75 @@
+{
+  "id": 1327064815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33409,41.06083,25.33409,41.06083",
+    "geom:latitude":41.06083,
+    "geom:longitude":25.33409,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Mega Kranovouni",
+    "gn:country_code":"GR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735268,
+    "gn:latitude":41.06083,
+    "gn:longitude":25.33409,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"M\u00e9ga Kranovo\u00fani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00e9ga Kranovo\u00fani"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ad\u03b3\u03b1 \u039a\u03c1\u03b1\u03bd\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9",
+        "M\u00e9ga Kranovo\u00fanion",
+        "\u039c\u03ad\u03b3\u03b1 \u039a\u03c1\u03b1\u03bd\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735268
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"910d2705a07926f97b9d94e8cbe47f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327064815,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327064815,
+    "wof:lastmodified":1537624891,
+    "wof:name":"Mega Kranovouni",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33409,
+    41.06083,
+    25.33409,
+    41.06083
+],
+  "geometry": {"coordinates":[25.33409,41.06083],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209345427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39863,38.10555,22.39863,38.10555",
+    "geom:latitude":38.10555,
+    "geom:longitude":22.39863,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Koumarias",
+    "gn:country_code":"GR",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409144,
+    "gn:latitude":38.10555,
+    "gn:longitude":22.39863,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Koumari\u00e1s",
+    "gn:population":61,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bc\u03b1\u03c1\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Koumarias"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409144
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2609ea3c17c8f66365bbe0c181155211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209345427
+        }
+    ],
+    "wof:id":1209345427,
+    "wof:lastmodified":1537625068,
+    "wof:name":"Koumarias",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39863,
+    38.10555,
+    22.39863,
+    38.10555
+],
+  "geometry": {"coordinates":[22.39863,38.10555],"type":"Point"}
+}

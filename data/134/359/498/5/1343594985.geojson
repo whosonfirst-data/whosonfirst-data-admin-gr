@@ -1,0 +1,82 @@
+{
+  "id": 1343594985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18796,35.14459,26.18796,35.14459",
+    "geom:latitude":35.14459,
+    "geom:longitude":26.18796,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Vrysidi",
+    "gn:country_code":"GR",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251633,
+    "gn:latitude":35.14459,
+    "gn:longitude":26.18796,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Vrys\u00eddi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vrys\u00eddi"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03c5\u03c3\u03af\u03b4\u03b9",
+        "Vrys\u00eddion",
+        "Magkas\u00e1",
+        "\u0392\u03c1\u03c5\u03c3\u03af\u03b4\u03b9\u03bf\u03bd",
+        "\u039c\u03b1\u03b3\u03ba\u03b1\u03c3\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Mangas\u00e1",
+        "Mangas\u00e1s",
+        "Vris\u00eddhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251633
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"96093a75b34aeda3a11af4831b98c47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343594985,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343594985,
+    "wof:lastmodified":1537624148,
+    "wof:name":"Vrysidi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18796,
+    35.14459,
+    26.18796,
+    35.14459
+],
+  "geometry": {"coordinates":[26.18796,35.14459],"type":"Point"}
+}

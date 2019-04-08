@@ -1,0 +1,76 @@
+{
+  "id": 1209953039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10529,40.96612,24.10529,40.96612",
+    "geom:latitude":40.96612,
+    "geom:longitude":24.10529,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9049",
+    "gn:asciiname":"Moni Eikosifoinissis",
+    "gn:country_code":"GR",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9402920,
+    "gn:latitude":40.96612,
+    "gn:longitude":24.10529,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Mon\u00ed Eikosifoin\u00edssis",
+    "gn:population":24,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0438 \u0418\u043a\u043e\u0441\u0438\u0444\u0438\u043d\u0438\u0441\u0438\u0441"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u0395\u03b9\u03ba\u03bf\u03c3\u03b9\u03c6\u03bf\u03b9\u03bd\u03af\u03c3\u03c3\u03b7\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9402920
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3612f1cbd15e3ad531b67b549cb49e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209953039,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1209953039,
+    "wof:lastmodified":1537625065,
+    "wof:name":"Moni Eikosifoinissis",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10529,
+    40.96612,
+    24.10529,
+    40.96612
+],
+  "geometry": {"coordinates":[24.10529,40.96612],"type":"Point"}
+}

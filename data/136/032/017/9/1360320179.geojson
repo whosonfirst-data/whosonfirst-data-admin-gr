@@ -1,0 +1,67 @@
+{
+  "id": 1360320179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18115,37.29997,23.18115,37.29997",
+    "geom:latitude":37.29997,
+    "geom:longitude":23.18115,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Loumousiotaiika",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":258101,
+    "gn:latitude":37.29997,
+    "gn:longitude":23.18115,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Loumousiota\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258101
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"25cfde022147dbbb827b8ad972132859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360320179,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1360320179,
+    "wof:lastmodified":1536603393,
+    "wof:name":"Loumousiotaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18115,
+    37.29997,
+    23.18115,
+    37.29997
+],
+  "geometry": {"coordinates":[23.18115,37.29997],"type":"Point"}
+}

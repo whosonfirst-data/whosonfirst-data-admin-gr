@@ -1,0 +1,70 @@
+{
+  "id": 1209547153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40872,40.24184,21.40872,40.24184",
+    "geom:latitude":40.24184,
+    "geom:longitude":21.40872,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Klima",
+    "gn:country_code":"GR",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735692,
+    "gn:latitude":40.24184,
+    "gn:longitude":21.40872,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kl\u00edma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03ae\u03bc\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Fourg\u00e1tsi",
+        "Kl\u00edma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735692
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8d37bcd717b49ee6e5d3aa467d2a018b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209547153
+        }
+    ],
+    "wof:id":1209547153,
+    "wof:lastmodified":1537624918,
+    "wof:name":"Klima",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40872,
+    40.24184,
+    21.40872,
+    40.24184
+],
+  "geometry": {"coordinates":[21.40872,40.24184],"type":"Point"}
+}

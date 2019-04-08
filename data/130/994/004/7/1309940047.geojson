@@ -1,0 +1,74 @@
+{
+  "id": 1309940047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34522,38.09647,22.34522,38.09647",
+    "geom:latitude":38.09647,
+    "geom:longitude":22.34522,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Kouros",
+    "gn:country_code":"GR",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259007,
+    "gn:latitude":38.09647,
+    "gn:longitude":22.34522,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ko\u00faros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c1\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Go\u00fara",
+        "Ko\u00faros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259007
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aefc7d7381eb054a69b17a1d6a0ab0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309940047,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309940047,
+    "wof:lastmodified":1537624475,
+    "wof:name":"Kouros",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34522,
+    38.09647,
+    22.34522,
+    38.09647
+],
+  "geometry": {"coordinates":[22.34522,38.09647],"type":"Point"}
+}

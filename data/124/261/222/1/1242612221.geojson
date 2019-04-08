@@ -1,0 +1,74 @@
+{
+  "id": 1242612221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33067,40.96279,26.33067,40.96279",
+    "geom:latitude":40.96279,
+    "geom:longitude":26.33067,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Gemisti",
+    "gn:country_code":"GR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733800,
+    "gn:latitude":40.96279,
+    "gn:longitude":26.33067,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Gemist\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Gemist\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03bc\u03b9\u03c3\u03c4\u03ae",
+        "Yemist\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733800
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"319603da5f1926e463c901456f5fbae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242612221,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1242612221,
+    "wof:lastmodified":1537624807,
+    "wof:name":"Gemisti",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33067,
+    40.96279000000001,
+    26.33067,
+    40.96279000000001
+],
+  "geometry": {"coordinates":[26.33067,40.96279000000001],"type":"Point"}
+}

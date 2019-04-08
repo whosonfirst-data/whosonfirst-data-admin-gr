@@ -1,0 +1,73 @@
+{
+  "id": 1193173513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05615,37.76084,24.05615,37.76084",
+    "geom:latitude":37.76084,
+    "geom:longitude":24.05615,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Elaiochori",
+    "gn:country_code":"GR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036739,
+    "gn:latitude":37.76084,
+    "gn:longitude":24.05615,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Elaioch\u00f3ri",
+    "gn:population":41,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036739
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e383c0baa35ffef431e986ac8701b745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193173513,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1193173513,
+    "wof:lastmodified":1537551158,
+    "wof:name":"Elaiochori",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05615,
+    37.76084,
+    24.05615,
+    37.76084
+],
+  "geometry": {"coordinates":[24.05615,37.76084],"type":"Point"}
+}

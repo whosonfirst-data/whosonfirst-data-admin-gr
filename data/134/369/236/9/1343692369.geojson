@@ -1,0 +1,80 @@
+{
+  "id": 1343692369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81879,38.45334,23.81879,38.45334",
+    "geom:latitude":38.45334,
+    "geom:longitude":23.81879,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9149",
+    "gn:asciiname":"Yerontas",
+    "gn:country_code":"GR",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251382,
+    "gn:latitude":38.45334,
+    "gn:longitude":23.81879,
+    "gn:modification_date":"2015-01-16",
+    "gn:name":"Y\u00e9rontas",
+    "gn:population":4,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Gerontas"
+    ],
+    "name:und_x_variant":[
+        "Y\u00e9ronda",
+        "Y\u00e9rondas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251382
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7205729afee84c42a15f13222b66ea27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343692369,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343692369,
+    "wof:lastmodified":1537624138,
+    "wof:name":"Yerontas",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81879,
+    38.45334,
+    23.81879,
+    38.45334
+],
+  "geometry": {"coordinates":[23.81879,38.45334],"type":"Point"}
+}

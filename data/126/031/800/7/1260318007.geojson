@@ -1,0 +1,84 @@
+{
+  "id": 1260318007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03002,37.68186,22.03002,37.68186",
+    "geom:latitude":37.68186,
+    "geom:longitude":22.03002,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Langadhia",
+    "gn:country_code":"GR",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258600,
+    "gn:latitude":37.68186,
+    "gn:longitude":22.03002,
+    "gn:modification_date":"2013-11-18",
+    "gn:name":"Lang\u00e1dhia",
+    "gn:population":1363,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Langadia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03ba\u03ac\u03b4\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lagkadia"
+    ],
+    "name:und_x_variant":[
+        "Langadia",
+        "Lang\u00e1dhia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258600,
+        "wk:page":"Langadia%2C_Arcadia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b63021c151fc9db70b8535fa73d9f304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260318007,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260318007,
+    "wof:lastmodified":1537624456,
+    "wof:name":"Langadhia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1363,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03002,
+    37.68186,
+    22.03002,
+    37.68186
+],
+  "geometry": {"coordinates":[22.03002,37.68186],"type":"Point"}
+}

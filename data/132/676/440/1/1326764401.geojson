@@ -1,0 +1,80 @@
+{
+  "id": 1326764401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.97932,41.13629,24.97932,41.13629",
+    "geom:latitude":41.13629,
+    "geom:longitude":24.97932,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9015",
+    "gn:asciiname":"Lefkopetra",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735442,
+    "gn:latitude":41.13629,
+    "gn:longitude":24.97932,
+    "gn:modification_date":"2015-11-01",
+    "gn:name":"Lefk\u00f3petra",
+    "gn:population":700,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lefkopetra"
+    ],
+    "name:und_x_variant":[
+        "Lefk\u00f3petra",
+        "Levk\u00f3petra"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735442
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"739e7687df0fd5053c0ec6ed7bcfd7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326764401,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1326764401,
+    "wof:lastmodified":1537624903,
+    "wof:name":"Lefkopetra",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.97932,
+    41.13629,
+    24.97932,
+    41.13629
+],
+  "geometry": {"coordinates":[24.97932,41.13629],"type":"Point"}
+}

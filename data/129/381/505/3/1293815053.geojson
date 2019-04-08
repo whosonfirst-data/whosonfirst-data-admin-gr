@@ -1,0 +1,73 @@
+{
+  "id": 1293815053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48422,38.11161,24.48422,38.11161",
+    "geom:latitude":38.11161,
+    "geom:longitude":24.48422,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Lenosaioi",
+    "gn:country_code":"GR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258511,
+    "gn:latitude":38.11161,
+    "gn:longitude":24.48422,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Lenosa\u00edoi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lenosa\u00edoi"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03bd\u03bf\u03c3\u03b1\u03af\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258511
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"baefe2a0a15b4e91fae27cc7f6eb60a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293815053,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293815053,
+    "wof:lastmodified":1537624452,
+    "wof:name":"Lenosaioi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48422,
+    38.11161,
+    24.48422,
+    38.11161
+],
+  "geometry": {"coordinates":[24.48422,38.11161],"type":"Point"}
+}

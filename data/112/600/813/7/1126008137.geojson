@@ -1,0 +1,88 @@
+{
+  "id": 1126008137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75667,39.40472,21.75667,39.40472",
+    "geom:latitude":39.40472,
+    "geom:longitude":21.75667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":290,
+    "gn:population":290,
+    "iso:country":"GR",
+    "lbl:latitude":39.40472,
+    "lbl:longitude":21.75667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "P\u00fdrgos Ith\u00f3mis"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u0399\u03b8\u03ce\u03bc\u03b7\u03c2"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0433\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "P\u00edrgos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255218,
+    "qs_pg:gn_pop":290,
+    "qs_pg:name":"P\u00fdrgos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546500,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255218,
+        "qs_pg:id":546500
+    },
+    "wof:country":"GR",
+    "wof:created":1497300105,
+    "wof:geomhash":"ff1b2c1f46f70718c0ff4f3a36a0f24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126008137,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126008137,
+    "wof:lastmodified":1509406506,
+    "wof:name":"P\u00fdrgos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75667,
+    39.40472,
+    21.75667,
+    39.40472
+],
+  "geometry": {"coordinates":[21.75667,39.40472],"type":"Point"}
+}

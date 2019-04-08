@@ -1,0 +1,81 @@
+{
+  "id": 1293323443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34553,37.71239,22.34553,37.71239",
+    "geom:latitude":37.71239,
+    "geom:longitude":22.34553,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Palaiopyrgos",
+    "gn:country_code":"GR",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256068,
+    "gn:latitude":37.71239,
+    "gn:longitude":22.34553,
+    "gn:modification_date":"2015-11-11",
+    "gn:name":"Palai\u00f3pyrgos",
+    "gn:population":164,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c0\u03c5\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Palaiopyrgos"
+    ],
+    "name:und_x_variant":[
+        "Bondi\u00e1",
+        "Pali\u00f3pirgos",
+        "Palai\u00f3pirgos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256068
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"364e7b348717c436b264d119bf9fbbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293323443,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293323443,
+    "wof:lastmodified":1537624334,
+    "wof:name":"Palaiopyrgos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34553,
+    37.71239,
+    22.34553,
+    37.71239
+],
+  "geometry": {"coordinates":[22.34553,37.71239],"type":"Point"}
+}

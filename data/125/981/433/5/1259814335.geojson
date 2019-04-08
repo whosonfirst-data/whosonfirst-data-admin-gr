@@ -1,0 +1,91 @@
+{
+  "id": 1259814335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55415,38.52641,21.55415,38.52641",
+    "geom:latitude":38.52641,
+    "geom:longitude":21.55415,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Ayios Andreas",
+    "gn:country_code":"GR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257139,
+    "gn:latitude":38.52641,
+    "gn:longitude":21.55415,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"\u00c1yios Andr\u00e9as",
+    "gn:population":574,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03bb\u03ad\u03c3\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03bb\u03ad\u03c3\u03b9\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Bourlesia"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Andreas"
+    ],
+    "name:eng_x_variant":[
+        "Bourlesia"
+    ],
+    "name:und_x_variant":[
+        "Bourl\u00e9sia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257139
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bd1372e43b23358d8ac80d9a7df09914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259814335,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259814335,
+    "wof:lastmodified":1537624390,
+    "wof:name":"Ayios Andreas",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":574,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55415,
+    38.52641,
+    21.55415,
+    38.52641
+],
+  "geometry": {"coordinates":[21.55415,38.52641],"type":"Point"}
+}

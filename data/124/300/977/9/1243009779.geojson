@@ -1,0 +1,73 @@
+{
+  "id": 1243009779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54826,36.77598,24.54826,36.77598",
+    "geom:latitude":36.77598,
+    "geom:longitude":24.54826,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9286",
+    "gn:asciiname":"Kalamitsi",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740242,
+    "gn:latitude":36.77598,
+    "gn:longitude":24.54826,
+    "gn:modification_date":"2014-03-25",
+    "gn:name":"Kalam\u00edtsi",
+    "gn:population":6,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03bc\u03af\u03c4\u03c3\u03b9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740242
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e2b03ebdef2a86d73d8aa33f8833bc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243009779,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243009779,
+    "wof:lastmodified":1537625037,
+    "wof:name":"Kalamitsi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54826,
+    36.77598,
+    24.54826,
+    36.77598
+],
+  "geometry": {"coordinates":[24.54826,36.77598],"type":"Point"}
+}

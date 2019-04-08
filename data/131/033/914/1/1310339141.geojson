@@ -1,0 +1,73 @@
+{
+  "id": 1310339141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.055,38.38775,24.055,38.38775",
+    "geom:latitude":38.38775,
+    "geom:longitude":24.055,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Anthoupoli",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264782,
+    "gn:latitude":38.38775,
+    "gn:longitude":24.055,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Antho\u00fapoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Antho\u00fapoli"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03b8\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "Antho\u00fapolis",
+        "\u0391\u03bd\u03b8\u03bf\u03cd\u03c0\u03bf\u03bb\u03b9\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264782
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e85451a5908294e81428f21f9755fea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1310339141,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310339141,
+    "wof:lastmodified":1537624739,
+    "wof:name":"Anthoupoli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.055,
+    38.38775,
+    24.055,
+    38.38775
+],
+  "geometry": {"coordinates":[24.055,38.38775],"type":"Point"}
+}

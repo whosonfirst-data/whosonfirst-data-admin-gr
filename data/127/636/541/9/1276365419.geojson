@@ -1,0 +1,75 @@
+{
+  "id": 1276365419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70947,35.30654,23.70947,35.30654",
+    "geom:latitude":35.30654,
+    "geom:longitude":23.70947,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Armi",
+    "gn:country_code":"GR",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522531,
+    "gn:latitude":35.30654,
+    "gn:longitude":23.70947,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Arm\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Arm\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03bc\u03af",
+        "Arm\u00edon",
+        "\u0391\u03c1\u03bc\u03af\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522531
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0cb57df97ec68f5fd9b50cc82d797052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276365419,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276365419,
+    "wof:lastmodified":1537625014,
+    "wof:name":"Armi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70947,
+    35.30654000000001,
+    23.70947,
+    35.30654000000001
+],
+  "geometry": {"coordinates":[23.70947,35.30654000000001],"type":"Point"}
+}

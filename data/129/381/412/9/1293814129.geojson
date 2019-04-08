@@ -1,0 +1,83 @@
+{
+  "id": 1293814129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63664,41.15677,24.63664,41.15677",
+    "geom:latitude":41.15677,
+    "geom:longitude":24.63664,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Kechrokampos",
+    "gn:country_code":"GR",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735837,
+    "gn:latitude":41.15677,
+    "gn:longitude":24.63664,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Kechr\u00f3kampos",
+    "gn:population":359,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c7\u03c1\u03cc\u03ba\u03b1\u03bc\u03c0\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Kechr\u00f3kampos"
+    ],
+    "name:eng_x_preferred":[
+        "Kechrokampos"
+    ],
+    "name:und_x_variant":[
+        "D\u00e1rova",
+        "Kekhr\u00f3kambos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735837
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"882e87ef688917b9c1d05a86123ca941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293814129,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293814129,
+    "wof:lastmodified":1537624926,
+    "wof:name":"Kechrokampos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63664,
+    41.15677,
+    24.63664,
+    41.15677
+],
+  "geometry": {"coordinates":[24.63664,41.15677],"type":"Point"}
+}

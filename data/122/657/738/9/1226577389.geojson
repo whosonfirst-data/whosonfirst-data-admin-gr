@@ -1,0 +1,80 @@
+{
+  "id": 1226577389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19033,41.57693,26.19033,41.57693",
+    "geom:latitude":41.57693,
+    "geom:longitude":26.19033,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9008",
+    "gn:asciiname":"Therapeio",
+    "gn:country_code":"GR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734084,
+    "gn:latitude":41.57693,
+    "gn:longitude":26.19033,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Therapei\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Therapei\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03cc",
+        "Therapei\u00f3n",
+        "\u0398\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Therapi\u00f3",
+        "Therapi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734084,
+        "wk:page":"Therapeio"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e62253f5179e3251b0be1cf6ca44849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226577389,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226577389,
+    "wof:lastmodified":1537624822,
+    "wof:name":"Therapeio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19033,
+    41.57693,
+    26.19033,
+    41.57693
+],
+  "geometry": {"coordinates":[26.19033,41.57693],"type":"Point"}
+}

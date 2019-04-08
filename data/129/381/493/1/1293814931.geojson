@@ -1,0 +1,67 @@
+{
+  "id": 1293814931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72013,35.32188,23.72013,35.32188",
+    "geom:latitude":35.32188,
+    "geom:longitude":23.72013,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Plemeniana",
+    "gn:country_code":"GR",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254962,
+    "gn:latitude":35.32188,
+    "gn:longitude":23.72013,
+    "gn:modification_date":"2012-10-30",
+    "gn:name":"Plemenian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254962
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"719641f9b61384b492483b6b46e41040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293814931,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293814931,
+    "wof:lastmodified":1536811639,
+    "wof:name":"Plemeniana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72013,
+    35.32188,
+    23.72013,
+    35.32188
+],
+  "geometry": {"coordinates":[23.72013,35.32188],"type":"Point"}
+}

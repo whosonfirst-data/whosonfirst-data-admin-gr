@@ -1,0 +1,74 @@
+{
+  "id": 1343894875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4727,41.28635,24.4727,41.28635",
+    "geom:latitude":41.28635,
+    "geom:longitude":24.4727,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Temenos",
+    "gn:country_code":"GR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734104,
+    "gn:latitude":41.28635,
+    "gn:longitude":24.4727,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"T\u00e9menos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03bc\u03b5\u03bd\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Jam\u00ed-Mahal\u00e9",
+        "T\u00e9menos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734104
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"65996b39d867e19bcb6d5a9548f6020f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343894875,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343894875,
+    "wof:lastmodified":1537624823,
+    "wof:name":"Temenos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4727,
+    41.28635,
+    24.4727,
+    41.28635
+],
+  "geometry": {"coordinates":[24.4727,41.28635],"type":"Point"}
+}

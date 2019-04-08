@@ -1,0 +1,80 @@
+{
+  "id": 1243100987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56407,35.27316,25.56407,35.27316",
+    "geom:latitude":35.27316,
+    "geom:longitude":25.56407,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Vrachasi",
+    "gn:country_code":"GR",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251686,
+    "gn:latitude":35.27316,
+    "gn:longitude":25.56407,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Vrach\u00e1si",
+    "gn:population":311,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03b1\u03c7\u03ac\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Vrachasi"
+    ],
+    "name:und_x_variant":[
+        "Vrakh\u00e1si",
+        "Vrakh\u00e1sion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251686
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4e0fdc3485410f4b832f6edbaf30ef0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243100987,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243100987,
+    "wof:lastmodified":1537624151,
+    "wof:name":"Vrachasi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56407,
+    35.27316,
+    25.56407,
+    35.27316
+],
+  "geometry": {"coordinates":[25.56407,35.27316],"type":"Point"}
+}

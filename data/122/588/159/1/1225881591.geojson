@@ -1,0 +1,85 @@
+{
+  "id": 1225881591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46432,38.72652,22.46432,38.72652",
+    "geom:latitude":38.72652,
+    "geom:longitude":22.46432,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9158",
+    "gn:asciiname":"Bralos",
+    "gn:country_code":"GR",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263374,
+    "gn:latitude":38.72652,
+    "gn:longitude":22.46432,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Br\u00e1los",
+    "gn:population":114,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ac\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Bralos"
+    ],
+    "name:eng_x_variant":[
+        "Mpralos"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Br\u00e1llos",
+        "Br\u00e1llos",
+        "Br\u00e1los"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263374,
+        "wk:page":"Bralos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"be0dee224eb8d86a896967f027f7b0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225881591,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1225881591,
+    "wof:lastmodified":1537624682,
+    "wof:name":"Bralos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":114,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46432,
+    38.72652,
+    22.46432,
+    38.72652
+],
+  "geometry": {"coordinates":[22.46432,38.72652],"type":"Point"}
+}

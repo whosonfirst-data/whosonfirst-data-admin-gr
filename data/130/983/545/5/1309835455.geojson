@@ -1,0 +1,78 @@
+{
+  "id": 1309835455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96769,41.3583,24.96769,41.3583",
+    "geom:latitude":41.3583,
+    "geom:longitude":24.96769,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9016",
+    "gn:asciiname":"Ano Thermes",
+    "gn:country_code":"GR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736783,
+    "gn:latitude":41.3583,
+    "gn:longitude":24.96769,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"\u00c1no Th\u00e9rmes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Th\u00e9rmes"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u0398\u03ad\u03c1\u03bc\u03b5\u03c2",
+        "\u0386\u03bd\u03c9 \u0398\u03ad\u03c1\u03bc\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Th\u00e9rmai Ano",
+        "\u00c1no Th\u00e9rmai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736783
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e229643b7937efe02b5ae86e7265663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309835455,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1309835455,
+    "wof:lastmodified":1537624975,
+    "wof:name":"Ano Thermes",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96769,
+    41.3583,
+    24.96769,
+    41.3583
+],
+  "geometry": {"coordinates":[24.96769,41.3583],"type":"Point"}
+}

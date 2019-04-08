@@ -1,0 +1,76 @@
+{
+  "id": 1293724131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49024,38.90105,22.49024,38.90105",
+    "geom:latitude":38.90105,
+    "geom:longitude":22.49024,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Agia Paraskevi Lamieon",
+    "gn:country_code":"GR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535130,
+    "gn:latitude":38.90105,
+    "gn:longitude":22.49024,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Ag\u00eda Paraskev\u00ed Lami\u00e9on",
+    "gn:population":922,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u039b\u03b1\u03bc\u03b9\u03ad\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Paraskevi Lamieon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535130
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c77a217b578b339bc8c503ed3a1df458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293724131,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293724131,
+    "wof:lastmodified":1537625071,
+    "wof:name":"Agia Paraskevi Lamieon",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":922,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49024,
+    38.90105,
+    22.49024,
+    38.90105
+],
+  "geometry": {"coordinates":[22.49024,38.90105],"type":"Point"}
+}

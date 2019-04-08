@@ -1,0 +1,80 @@
+{
+  "id": 1125860591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.618618,38.072926,22.618618,38.072926",
+    "geom:latitude":38.072926,
+    "geom:longitude":22.618618,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":38.072926,
+    "lbl:longitude":22.618618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Xilokastron",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1102618,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":965176,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":965176,
+        "qs_pg:id":1102618
+    },
+    "wof:country":"GR",
+    "wof:created":1497293810,
+    "wof:geomhash":"a7cb9a4e218f68354fd9b8bb35068d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125860591,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125860591,
+    "wof:lastmodified":1509396588,
+    "wof:name":"Xilokastron",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.618618,
+    38.072926,
+    22.618618,
+    38.072926
+],
+  "geometry": {"coordinates":[22.618618,38.072926],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343695667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74658,38.8356,20.74658,38.8356",
+    "geom:latitude":38.8356,
+    "geom:longitude":20.74658,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9124",
+    "gn:asciiname":"Ayia Varvara",
+    "gn:country_code":"GR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264108,
+    "gn:latitude":38.8356,
+    "gn:longitude":20.74658,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Ay\u00eda Varv\u00e1ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264108
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fdc3a66c8e5808a283048f5b5e295109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343695667,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343695667,
+    "wof:lastmodified":1536904514,
+    "wof:name":"Ayia Varvara",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74658,
+    38.8356,
+    20.74658,
+    38.8356
+],
+  "geometry": {"coordinates":[20.74658,38.8356],"type":"Point"}
+}

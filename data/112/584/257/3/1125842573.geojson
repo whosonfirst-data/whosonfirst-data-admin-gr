@@ -1,0 +1,80 @@
+{
+  "id": 1125842573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6779,39.950806,20.6779,39.950806",
+    "geom:latitude":39.950806,
+    "geom:longitude":20.6779,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":39.950806,
+    "lbl:longitude":20.6779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ayios Minas",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1172826,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":947297,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":947297,
+        "qs_pg:id":1172826
+    },
+    "wof:country":"GR",
+    "wof:created":1497292990,
+    "wof:geomhash":"a1532f7fdcdc65a27ac9efdcd6d9db82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125842573,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125842573,
+    "wof:lastmodified":1509395372,
+    "wof:name":"Ayios Minas",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6779,
+    39.950806,
+    20.6779,
+    39.950806
+],
+  "geometry": {"coordinates":[20.6779,39.950806],"type":"Point"}
+}

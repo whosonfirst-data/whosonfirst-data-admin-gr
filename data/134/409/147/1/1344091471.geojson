@@ -1,0 +1,73 @@
+{
+  "id": 1344091471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5745,39.37011,20.5745,39.37011",
+    "geom:latitude":39.37011,
+    "geom:longitude":20.5745,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"18.0",
+    "gn:admin3_code":"9078",
+    "gn:asciiname":"Kotsiati",
+    "gn:country_code":"GR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259196,
+    "gn:latitude":39.37011,
+    "gn:longitude":20.5745,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kotsi\u00e1ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kotsi\u00e1ti"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c4\u03c3\u03b9\u03ac\u03c4\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259196
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2d51f0cb05e8ae1a27a4bc42cad92853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344091471,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1344091471,
+    "wof:lastmodified":1537624483,
+    "wof:name":"Kotsiati",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5745,
+    39.37011,
+    20.5745,
+    39.37011
+],
+  "geometry": {"coordinates":[20.5745,39.37011],"type":"Point"}
+}

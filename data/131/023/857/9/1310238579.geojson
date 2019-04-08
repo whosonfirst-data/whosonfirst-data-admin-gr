@@ -1,0 +1,76 @@
+{
+  "id": 1310238579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43663,38.02734,23.43663,38.02734",
+    "geom:latitude":38.02734,
+    "geom:longitude":23.43663,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9231",
+    "gn:asciiname":"Vlychada",
+    "gn:country_code":"GR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036830,
+    "gn:latitude":38.02734,
+    "gn:longitude":23.43663,
+    "gn:modification_date":"2014-05-23",
+    "gn:name":"Vlych\u00e1da",
+    "gn:population":1462,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03c5\u03c7\u03ac\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vlychada"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036830
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0397b6c77efd2050dc6ea85007707e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310238579,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1310238579,
+    "wof:lastmodified":1537625045,
+    "wof:name":"Vlychada",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":1462,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43663,
+    38.02734,
+    23.43663,
+    38.02734
+],
+  "geometry": {"coordinates":[23.43663,38.02734],"type":"Point"}
+}

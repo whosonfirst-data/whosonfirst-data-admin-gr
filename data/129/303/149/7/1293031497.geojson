@@ -1,0 +1,79 @@
+{
+  "id": 1293031497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64293,39.2842,22.64293,39.2842",
+    "geom:latitude":39.2842,
+    "geom:longitude":22.64293,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9108",
+    "gn:asciiname":"Eleftherochori",
+    "gn:country_code":"GR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130932,
+    "gn:latitude":39.2842,
+    "gn:longitude":22.64293,
+    "gn:modification_date":"2015-04-30",
+    "gn:name":"Eleftheroch\u00f3ri",
+    "gn:population":101,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Eleftherochori"
+    ],
+    "name:und_x_variant":[
+        "Eleftheroch\u00f3ri"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130932
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"76e7285b7999a6391441bd39aa43e52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293031497,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293031497,
+    "wof:lastmodified":1537625080,
+    "wof:name":"Eleftherochori",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64293,
+    39.2842,
+    22.64293,
+    39.2842
+],
+  "geometry": {"coordinates":[22.64293,39.2842],"type":"Point"}
+}

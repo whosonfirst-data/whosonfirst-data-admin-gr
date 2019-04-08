@@ -1,0 +1,73 @@
+{
+  "id": 1344191773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79879,37.92673,22.79879,37.92673",
+    "geom:latitude":37.92673,
+    "geom:longitude":22.79879,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9242.0",
+    "gn:asciiname":"Agios Nikolaos Vochas",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079740,
+    "gn:latitude":37.92673,
+    "gn:longitude":22.79879,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Nik\u00f3laos V\u00f3chas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Nik\u00f3laos V\u00f3chas"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u0392\u03cc\u03c7\u03b1\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079740
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a9bc8214a9f9cb96c0bf1a51a6005285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344191773,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1344191773,
+    "wof:lastmodified":1537625111,
+    "wof:name":"Agios Nikolaos Vochas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79879,
+    37.92673,
+    22.79879,
+    37.92673
+],
+  "geometry": {"coordinates":[22.79879,37.92673],"type":"Point"}
+}

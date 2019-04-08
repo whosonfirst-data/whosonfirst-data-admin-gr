@@ -1,0 +1,73 @@
+{
+  "id": 1226273749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71667,38.75,20.71667,38.75",
+    "geom:latitude":38.75,
+    "geom:longitude":20.71667,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Fraxi",
+    "gn:country_code":"GR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":262225,
+    "gn:latitude":38.75,
+    "gn:longitude":20.71667,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Frax\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03c1\u03b1\u03be\u03af"
+    ],
+    "name:und_x_variant":[
+        "Fraksi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262225
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"77cb850effa7b84a8167f15221daf127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226273749,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226273749,
+    "wof:lastmodified":1537624624,
+    "wof:name":"Fraxi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71667,
+    38.75,
+    20.71667,
+    38.75
+],
+  "geometry": {"coordinates":[20.71667,38.75],"type":"Point"}
+}

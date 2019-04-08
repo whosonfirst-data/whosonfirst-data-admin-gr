@@ -1,0 +1,72 @@
+{
+  "id": 1209349365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60122,38.25692,20.60122,38.25692",
+    "geom:latitude":38.25692,
+    "geom:longitude":20.60122,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Vlachata",
+    "gn:country_code":"GR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251908,
+    "gn:latitude":38.25692,
+    "gn:longitude":20.60122,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Vlach\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vlach\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bb\u03b1\u03c7\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Vlakh\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251908
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b312f245a505f01c41705aaebf003728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209349365
+        }
+    ],
+    "wof:id":1209349365,
+    "wof:lastmodified":1537624160,
+    "wof:name":"Vlachata",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60122,
+    38.25692,
+    20.60122,
+    38.25692
+],
+  "geometry": {"coordinates":[20.60122,38.25692],"type":"Point"}
+}

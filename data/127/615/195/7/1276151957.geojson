@@ -1,0 +1,84 @@
+{
+  "id": 1276151957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43319,36.4961,22.43319,36.4961",
+    "geom:latitude":36.4961,
+    "geom:longitude":22.43319,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Leontakis",
+    "gn:country_code":"GR",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258510,
+    "gn:latitude":36.4961,
+    "gn:longitude":22.43319,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Leont\u00e1kis",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03ba\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03ba\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Leontakis"
+    ],
+    "name:und_x_variant":[
+        "Leond\u00e1ki",
+        "Leond\u00e1kis",
+        "Leondakis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258510
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3e760ca863f7280942bbf40852dd9367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276151957,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276151957,
+    "wof:lastmodified":1537624452,
+    "wof:name":"Leontakis",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43319,
+    36.4961,
+    22.43319,
+    36.4961
+],
+  "geometry": {"coordinates":[22.43319,36.4961],"type":"Point"}
+}

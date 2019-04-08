@@ -1,0 +1,71 @@
+{
+  "id": 1226682103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65888,38.51639,21.65888,38.51639",
+    "geom:latitude":38.51639,
+    "geom:longitude":21.65888,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9126",
+    "gn:asciiname":"Morosklavon",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256752,
+    "gn:latitude":38.51639,
+    "gn:longitude":21.65888,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mor\u00f3sklavon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Br\u00f3sklavon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256752
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d1dc3ce0e6cf63f897214195723a35ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682103,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226682103,
+    "wof:lastmodified":1537624370,
+    "wof:name":"Morosklavon",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65888,
+    38.51639,
+    21.65888,
+    38.51639
+],
+  "geometry": {"coordinates":[21.65888,38.51639],"type":"Point"}
+}

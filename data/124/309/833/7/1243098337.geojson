@@ -1,0 +1,75 @@
+{
+  "id": 1243098337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91075,36.99786,21.91075,36.99786",
+    "geom:latitude":36.99786,
+    "geom:longitude":21.91075,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Karpofora",
+    "gn:country_code":"GR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260887,
+    "gn:latitude":36.99786,
+    "gn:longitude":21.91075,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Karpof\u00f3ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03c0\u03bf\u03c6\u03cc\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Karkav\u00e9li",
+        "Karakav\u00e9li",
+        "Karpof\u00f3ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260887
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0ef44ce9462de397d378187d2ed582f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243098337,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243098337,
+    "wof:lastmodified":1537624563,
+    "wof:name":"Karpofora",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91075,
+    36.99786,
+    21.91075,
+    36.99786
+],
+  "geometry": {"coordinates":[21.91075,36.99786],"type":"Point"}
+}

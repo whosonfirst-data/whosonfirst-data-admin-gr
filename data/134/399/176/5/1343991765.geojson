@@ -1,0 +1,107 @@
+{
+  "id": 1343991765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03886,40.77648,21.03886,40.77648",
+    "geom:latitude":40.77648,
+    "geom:longitude":21.03886,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9071",
+    "gn:asciiname":"Pyli",
+    "gn:country_code":"GR",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734641,
+    "gn:latitude":40.77648,
+    "gn:longitude":21.03886,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"P\u00fdli",
+    "gn:population":89,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0392\u03af\u03bd\u03b5\u03bd\u03b9",
+        "\u0392\u03af\u03b2\u03b1\u03bd\u03b9",
+        "\u0392\u03af\u03b2\u03b1\u03bd\u03b7",
+        "\u0392\u03af\u03bd\u03c9\u03bd\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03af\u03bd\u03b5\u03bd\u03b9",
+        "\u0392\u03af\u03b2\u03b1\u03bd\u03b9",
+        "\u0392\u03af\u03b2\u03b1\u03bd\u03b7",
+        "\u0392\u03af\u03bd\u03c9\u03bd\u03b7"
+    ],
+    "name:eng_x_historical":[
+        "Vivani",
+        "Vineni"
+    ],
+    "name:eng_x_preferred":[
+        "Pyli"
+    ],
+    "name:eng_x_variant":[
+        "Vivani",
+        "Vineni"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "P\u00edli",
+        "Vivoni",
+        "V\u00ednoni",
+        "V\u00edvani",
+        "Vineni",
+        "P\u00fdli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734641
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0e4a9f610e122d51611d105cc702646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343991765,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343991765,
+    "wof:lastmodified":1537624854,
+    "wof:name":"Pyli",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03886,
+    40.77648,
+    21.03886,
+    40.77648
+],
+  "geometry": {"coordinates":[21.03886,40.77648],"type":"Point"}
+}

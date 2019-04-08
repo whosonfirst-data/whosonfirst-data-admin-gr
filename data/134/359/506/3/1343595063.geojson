@@ -1,0 +1,77 @@
+{
+  "id": 1343595063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00472,38.08491,22.00472,38.08491",
+    "geom:latitude":38.08491,
+    "geom:longitude":22.00472,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133.0",
+    "gn:asciiname":"Bosi",
+    "gn:country_code":"GR",
+    "gn:dem":780,
+    "gn:elevation":"688.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257047,
+    "gn:latitude":38.08491,
+    "gn:longitude":22.00472,
+    "gn:modification_date":"2016-09-15",
+    "gn:name":"Bosi",
+    "gn:population":28,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03cc\u03c3\u03b9 \u0391\u03c7\u03b1\u03aa\u03b1\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257047
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"be5950d2896cb8c4268b2de63cafaf9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343595063,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343595063,
+    "wof:lastmodified":1537625113,
+    "wof:name":"Bosi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00472,
+    38.08491,
+    22.00472,
+    38.08491
+],
+  "geometry": {"coordinates":[22.00472,38.08491],"type":"Point"}
+}

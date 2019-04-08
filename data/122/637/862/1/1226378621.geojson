@@ -1,0 +1,80 @@
+{
+  "id": 1226378621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83503,39.08567,21.83503,39.08567",
+    "geom:latitude":39.08567,
+    "geom:longitude":21.83503,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Platanos",
+    "gn:country_code":"GR",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255025,
+    "gn:latitude":39.08567,
+    "gn:longitude":21.83503,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pl\u00e1tanos",
+    "gn:population":72,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Platanos"
+    ],
+    "name:und_x_variant":[
+        "Plat\u00e1nia",
+        "Pl\u00e1tanos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255025
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"67d728f06f28fcbfaaf13a2e11603ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226378621,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226378621,
+    "wof:lastmodified":1537624288,
+    "wof:name":"Platanos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83503,
+    39.08567,
+    21.83503,
+    39.08567
+],
+  "geometry": {"coordinates":[21.83503,39.08567],"type":"Point"}
+}

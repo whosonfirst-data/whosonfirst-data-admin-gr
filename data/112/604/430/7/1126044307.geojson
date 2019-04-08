@@ -1,0 +1,76 @@
+{
+  "id": 1126044307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14778,39.32611,21.14778,39.32611",
+    "geom:latitude":39.32611,
+    "geom:longitude":21.14778,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":81,
+    "gn:population":81,
+    "iso:country":"GR",
+    "lbl:latitude":39.32611,
+    "lbl:longitude":21.14778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":445214,
+    "qs_pg:gn_pop":81,
+    "qs_pg:name":"Than\u00e1sia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":548385,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445214,
+        "qs_pg:id":548385
+    },
+    "wof:country":"GR",
+    "wof:created":1497302337,
+    "wof:geomhash":"c5a9d4d3337c93c47077b40f2f0634c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126044307,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126044307,
+    "wof:lastmodified":1509408753,
+    "wof:name":"Than\u00e1sia",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14778,
+    39.32611,
+    21.14778,
+    39.32611
+],
+  "geometry": {"coordinates":[21.14778,39.32611],"type":"Point"}
+}

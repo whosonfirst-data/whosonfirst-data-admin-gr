@@ -1,0 +1,76 @@
+{
+  "id": 1225981007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.12824,37.44805,23.12824,37.44805",
+    "geom:latitude":37.44805,
+    "geom:longitude":23.12824,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Salanti",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257419,
+    "gn:latitude":37.44805,
+    "gn:longitude":23.12824,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Sal\u00e1nti",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03ac\u03bd\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Salanti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257419
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"940d78c6ca502ca5b1bee2b62a399471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225981007,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1225981007,
+    "wof:lastmodified":1537625057,
+    "wof:name":"Salanti",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.12824,
+    37.44805,
+    23.12824,
+    37.44805
+],
+  "geometry": {"coordinates":[23.12824,37.44805],"type":"Point"}
+}

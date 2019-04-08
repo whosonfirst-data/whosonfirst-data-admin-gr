@@ -1,0 +1,76 @@
+{
+  "id": 1293135041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10078,38.16122,22.10078,38.16122",
+    "geom:latitude":38.16122,
+    "geom:longitude":22.10078,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Boufouskia",
+    "gn:country_code":"GR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263417,
+    "gn:latitude":38.16122,
+    "gn:longitude":22.10078,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Boufo\u00faskia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c6\u03bf\u03cd\u03c3\u03ba\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Bouf\u00f3ska",
+        "Bifousia",
+        "Boufon\u00e1kia",
+        "Boufo\u00faskia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263417
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c6ade26d093942e737db2bb219123c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293135041,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293135041,
+    "wof:lastmodified":1537624685,
+    "wof:name":"Boufouskia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10078,
+    38.16122,
+    22.10078,
+    38.16122
+],
+  "geometry": {"coordinates":[22.10078,38.16122],"type":"Point"}
+}

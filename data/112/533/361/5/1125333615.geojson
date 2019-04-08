@@ -1,0 +1,91 @@
+{
+  "id": 1125333615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5332,38.08073,23.5332,38.08073",
+    "geom:latitude":38.08073,
+    "geom:longitude":23.5332,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":29879,
+    "gn:population":29902,
+    "iso:country":"GR",
+    "lbl:latitude":38.08073,
+    "lbl:longitude":23.5332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b5\u03c5\u03c3\u03af\u03bd\u03b1\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133883,
+    "qs_pg:gn_pop":29879,
+    "qs_pg:name":"Elefsina",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":377,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1118678,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56558152,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133883,
+        "gp:id":56558152,
+        "qs_pg:id":1118678
+    },
+    "wof:country":"GR",
+    "wof:created":1497045273,
+    "wof:geomhash":"c15e3869aa695b41dfbe3628a34525b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125333615,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1125333615,
+    "wof:lastmodified":1509388442,
+    "wof:name":"Elefsina",
+    "wof:parent_id":85684697,
+    "wof:placetype":"localadmin",
+    "wof:population":29902,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5332,
+    38.08073,
+    23.5332,
+    38.08073
+],
+  "geometry": {"coordinates":[23.5332,38.08073],"type":"Point"}
+}

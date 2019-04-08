@@ -1,0 +1,79 @@
+{
+  "id": 1125774147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.865123,39.730821,22.865123,39.730821",
+    "geom:latitude":39.730821,
+    "geom:longitude":22.865123,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":39.730821,
+    "lbl:longitude":22.865123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kato Sotiritsa",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":267349,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56023322,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56023322,
+        "qs_pg:id":267349
+    },
+    "wof:country":"GR",
+    "wof:created":1497290183,
+    "wof:geomhash":"062638f1fa8878ae061875f5570c0a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125774147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125774147,
+    "wof:lastmodified":1509391172,
+    "wof:name":"Kato Sotiritsa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.865123,
+    39.730821,
+    22.865123,
+    39.730821
+],
+  "geometry": {"coordinates":[22.865123,39.730821],"type":"Point"}
+}

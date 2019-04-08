@@ -1,0 +1,72 @@
+{
+  "id": 1209348361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15059,40.50147,21.15059,40.50147",
+    "geom:latitude":40.50147,
+    "geom:longitude":21.15059,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9063",
+    "gn:asciiname":"Pallinostountes",
+    "gn:country_code":"GR",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10176815,
+    "gn:latitude":40.50147,
+    "gn:longitude":21.15059,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Pallinosto\u00fantes",
+    "gn:population":112,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03bb\u03b9\u03bd\u03bf\u03c3\u03c4\u03bf\u03cd\u03bd\u03c4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pallinostountes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10176815
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"77c26f6eba7230a5aef8b2b13ea45f6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209348361
+        }
+    ],
+    "wof:id":1209348361,
+    "wof:lastmodified":1537625083,
+    "wof:name":"Pallinostountes",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15059,
+    40.50147,
+    21.15059,
+    40.50147
+],
+  "geometry": {"coordinates":[21.15059,40.50147],"type":"Point"}
+}

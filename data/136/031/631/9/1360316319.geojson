@@ -1,0 +1,78 @@
+{
+  "id": 1360316319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58099,39.06809,26.58099,39.06809",
+    "geom:latitude":39.06809,
+    "geom:longitude":26.58099,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Pligonion",
+    "gn:country_code":"GR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254955,
+    "gn:latitude":39.06809,
+    "gn:longitude":26.58099,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"Plig\u00f3nion",
+    "gn:population":230,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b9\u03b3\u03cc\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pligoni"
+    ],
+    "name:und_x_variant":[
+        "Plig\u00f3ni",
+        "Plig\u00f3nion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254955
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"80487cd73b12b0acff56e992728fff72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1360316319,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360316319,
+    "wof:lastmodified":1537624285,
+    "wof:name":"Pligonion",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58099,
+    39.06809000000001,
+    26.58099,
+    39.06809000000001
+],
+  "geometry": {"coordinates":[26.58099,39.06809000000001],"type":"Point"}
+}

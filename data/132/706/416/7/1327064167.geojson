@@ -1,0 +1,73 @@
+{
+  "id": 1327064167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66903,39.54673,21.66903,39.54673",
+    "geom:latitude":39.54673,
+    "geom:longitude":21.66903,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"9114",
+    "gn:asciiname":"Meligos",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257321,
+    "gn:latitude":39.54673,
+    "gn:longitude":21.66903,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"M\u00e9ligos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00e9ligos"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ad\u03bb\u03b9\u03b3\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257321
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5cc06c900e39b488c1a74a33daa82a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327064167,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1327064167,
+    "wof:lastmodified":1537624400,
+    "wof:name":"Meligos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66903,
+    39.54673,
+    21.66903,
+    39.54673
+],
+  "geometry": {"coordinates":[21.66903,39.54673],"type":"Point"}
+}

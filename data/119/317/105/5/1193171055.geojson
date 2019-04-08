@@ -1,0 +1,76 @@
+{
+  "id": 1193171055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60434,35.22647,25.60434,35.22647",
+    "geom:latitude":35.22647,
+    "geom:longitude":25.60434,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Drasi",
+    "gn:country_code":"GR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8605517,
+    "gn:latitude":35.22647,
+    "gn:longitude":25.60434,
+    "gn:modification_date":"2015-09-12",
+    "gn:name":"Dr\u00e1si",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0394\u03c1\u03ac\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Drasi"
+    ],
+    "name:und_x_variant":[
+        "Dr\u00e1si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605517
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6b4e69d548c42fc0cec02d7e567a088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193171055,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1193171055,
+    "wof:lastmodified":1537625025,
+    "wof:name":"Drasi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60434,
+    35.22647,
+    25.60434,
+    35.22647
+],
+  "geometry": {"coordinates":[25.60434,35.22647],"type":"Point"}
+}

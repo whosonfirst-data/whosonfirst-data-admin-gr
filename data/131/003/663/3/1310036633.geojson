@@ -1,0 +1,73 @@
+{
+  "id": 1310036633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46726,36.71169,22.46726,36.71169",
+    "geom:latitude":36.71169,
+    "geom:longitude":22.46726,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Plokos",
+    "gn:country_code":"GR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":254950,
+    "gn:latitude":36.71169,
+    "gn:longitude":22.46726,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Plok\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Plok\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03bf\u03ba\u03cc\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254950
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4b3199b1c6bd87519afb23ac9a654218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310036633,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310036633,
+    "wof:lastmodified":1537624285,
+    "wof:name":"Plokos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46726,
+    36.71169,
+    22.46726,
+    36.71169
+],
+  "geometry": {"coordinates":[22.46726,36.71169],"type":"Point"}
+}

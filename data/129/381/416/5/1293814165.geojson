@@ -1,0 +1,76 @@
+{
+  "id": 1293814165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82012,37.79754,20.82012,37.79754",
+    "geom:latitude":37.79754,
+    "geom:longitude":20.82012,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Psaraiika",
+    "gn:country_code":"GR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166414,
+    "gn:latitude":37.79754,
+    "gn:longitude":20.82012,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Psara\u00edika",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a8\u03b1\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Psaraiika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166414
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9c79787959bbe04822b06bc43442c422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293814165,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293814165,
+    "wof:lastmodified":1537625052,
+    "wof:name":"Psaraiika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82012000000001,
+    37.79754000000001,
+    20.82012000000001,
+    37.79754000000001
+],
+  "geometry": {"coordinates":[20.82012000000001,37.79754000000001],"type":"Point"}
+}

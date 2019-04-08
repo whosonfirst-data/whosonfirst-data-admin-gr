@@ -1,0 +1,75 @@
+{
+  "id": 1327170347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01395,37.36349,22.01395,37.36349",
+    "geom:latitude":37.36349,
+    "geom:longitude":22.01395,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Isaris",
+    "gn:country_code":"GR",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261736,
+    "gn:latitude":37.36349,
+    "gn:longitude":22.01395,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"\u00cdsaris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u038a\u03c3\u03b1\u03c1\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "\u00cdsari",
+        "\u00cdsaris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261736,
+        "wk:page":"Isaris"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6b79c99b40bc2cc65cefaafd1b048a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170347,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327170347,
+    "wof:lastmodified":1537624605,
+    "wof:name":"Isaris",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01395,
+    37.36349000000001,
+    22.01395,
+    37.36349000000001
+],
+  "geometry": {"coordinates":[22.01395,37.36349000000001],"type":"Point"}
+}

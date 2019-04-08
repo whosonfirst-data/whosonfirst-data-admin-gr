@@ -1,0 +1,94 @@
+{
+  "id": 1343994137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5429,40.79094,21.5429,40.79094",
+    "geom:latitude":40.79094,
+    "geom:longitude":21.5429,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Sitaria",
+    "gn:country_code":"GR",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734267,
+    "gn:latitude":40.79094,
+    "gn:longitude":21.5429,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Sitari\u00e1",
+    "gn:population":718,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a1\u03cc\u03c3\u03bd\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c4\u03b1\u03c1\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03cc\u03c3\u03bd\u03b1",
+        "\u03a3\u03b9\u03c4\u03b1\u03c1\u03b3\u03b9\u03ac"
+    ],
+    "name:eng_x_historical":[
+        "Rosna"
+    ],
+    "name:eng_x_preferred":[
+        "Sitaria"
+    ],
+    "name:eng_x_variant":[
+        "Sitari\u00e1",
+        "Rosna"
+    ],
+    "name:und_x_variant":[
+        "R\u00f3sna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734267,
+        "wk:page":"Sitaria"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b7367447616fe7079da310e975bca2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343994137,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343994137,
+    "wof:lastmodified":1537624832,
+    "wof:name":"Sitaria",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":718,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5429,
+    40.79094,
+    21.5429,
+    40.79094
+],
+  "geometry": {"coordinates":[21.5429,40.79094],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1108942411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7312485882,37.9858331531,23.7312485882,37.9858331531",
+    "geom:latitude":37.985833,
+    "geom:longitude":23.731249,
+    "iso:country":"GR",
+    "lbl:latitude":37.985833,
+    "lbl:longitude":23.731249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_metro":30,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u039a\u03ac\u03bd\u03b9\u03b3\u03b3\u03bf\u03c2"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1175612731,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GR",
+    "wof:created":1491363078,
+    "wof:geomhash":"bacb5166c3c72933dc0b7349a56e6e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1175612731,
+            "neighbourhood_id":1108942411,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1108942411,
+    "wof:lastmodified":1538606682,
+    "wof:name":"Kaniggos Square",
+    "wof:parent_id":1175612731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73124858824123,
+    37.98583315307862,
+    23.73124858824123,
+    37.98583315307862
+],
+  "geometry": {"coordinates":[23.73124858824123,37.98583315307862],"type":"Point"}
+}

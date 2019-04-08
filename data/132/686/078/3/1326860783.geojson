@@ -1,0 +1,85 @@
+{
+  "id": 1326860783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33785,38.54555,21.33785,38.54555",
+    "geom:latitude":38.54555,
+    "geom:longitude":21.33785,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Lisimakhia",
+    "gn:country_code":"GR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258250,
+    "gn:latitude":38.54555,
+    "gn:longitude":21.33785,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"Lisim\u00e1khia",
+    "gn:population":335,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03c5\u03c3\u03b9\u03bc\u03ac\u03c7\u03b5\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03c5\u03c3\u03b9\u03bc\u03b1\u03c7\u03b5\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lysimacheia"
+    ],
+    "name:und_x_variant":[
+        "Moursti\u00e1non",
+        "Moursti\u00e1nou",
+        "Lisim\u00e1khia",
+        "Lysim\u00e1cheia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258250
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"25db336172503cecac096d74f0f25b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326860783,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1326860783,
+    "wof:lastmodified":1537624439,
+    "wof:name":"Lisimakhia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33785,
+    38.54555,
+    21.33785,
+    38.54555
+],
+  "geometry": {"coordinates":[21.33785,38.54555],"type":"Point"}
+}

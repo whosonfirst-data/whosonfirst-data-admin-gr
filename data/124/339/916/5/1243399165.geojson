@@ -1,0 +1,76 @@
+{
+  "id": 1243399165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4559,39.97081,23.4559,39.97081",
+    "geom:latitude":39.97081,
+    "geom:longitude":23.4559,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Moles Kalyves",
+    "gn:country_code":"GR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9317502,
+    "gn:latitude":39.97081,
+    "gn:longitude":23.4559,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"M\u00f3les Kalyves",
+    "gn:population":125,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bb\u03b5\u03c2 \u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Moles Kalyves"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9317502
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9fe08735c7a760aebc8289f42409b3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243399165,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1243399165,
+    "wof:lastmodified":1537625058,
+    "wof:name":"Moles Kalyves",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4559,
+    39.97081,
+    23.4559,
+    39.97081
+],
+  "geometry": {"coordinates":[23.4559,39.97081],"type":"Point"}
+}

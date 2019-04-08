@@ -1,0 +1,80 @@
+{
+  "id": 1293523999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73333,39.45108,20.73333,39.45108",
+    "geom:latitude":39.45108,
+    "geom:longitude":20.73333,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Vardas",
+    "gn:country_code":"GR",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252290,
+    "gn:latitude":39.45108,
+    "gn:longitude":20.73333,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"V\u00e1rdas",
+    "gn:population":25,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03c1\u03b4\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vardas"
+    ],
+    "name:und_x_variant":[
+        "V\u00e1rdha",
+        "V\u00e1rdas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252290
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6217322f60447955d57f20ca891d5520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293523999,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293523999,
+    "wof:lastmodified":1537624177,
+    "wof:name":"Vardas",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73333,
+    39.45108,
+    20.73333,
+    39.45108
+],
+  "geometry": {"coordinates":[20.73333,39.45108],"type":"Point"}
+}

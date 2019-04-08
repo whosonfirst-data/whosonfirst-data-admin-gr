@@ -1,0 +1,77 @@
+{
+  "id": 1326966267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76687,36.87478,21.76687,36.87478",
+    "geom:latitude":36.87478,
+    "geom:longitude":21.76687,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Chomatada",
+    "gn:country_code":"GR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259946,
+    "gn:latitude":36.87478,
+    "gn:longitude":21.76687,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Chomat\u00e1da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chomat\u00e1da"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c9\u03bc\u03b1\u03c4\u03ac\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Khomat\u00e1dhes",
+        "Khomat\u00e1dha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259946
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"06405b55dc96a3882f3d97b5975704e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326966267,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1326966267,
+    "wof:lastmodified":1537624516,
+    "wof:name":"Chomatada",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76687,
+    36.87478,
+    21.76687,
+    36.87478
+],
+  "geometry": {"coordinates":[21.76687,36.87478],"type":"Point"}
+}

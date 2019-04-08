@@ -1,0 +1,79 @@
+{
+  "id": 1309835327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.90503,35.05073,25.90503,35.05073",
+    "geom:latitude":35.05073,
+    "geom:longitude":25.90503,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Kalyvitis",
+    "gn:country_code":"GR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609869,
+    "gn:latitude":35.05073,
+    "gn:longitude":25.90503,
+    "gn:modification_date":"2015-09-10",
+    "gn:name":"Kalyv\u00edtis",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03c5\u03b2\u03af\u03c4\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kalyvitis"
+    ],
+    "name:und_x_variant":[
+        "Kalyv\u00edtis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609869
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bc1e81bb376f13922a7b5a85ff6fd9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309835327,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1309835327,
+    "wof:lastmodified":1537625031,
+    "wof:name":"Kalyvitis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.90503,
+    35.05073,
+    25.90503,
+    35.05073
+],
+  "geometry": {"coordinates":[25.90503,35.05073],"type":"Point"}
+}

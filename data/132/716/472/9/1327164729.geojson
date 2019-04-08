@@ -1,0 +1,81 @@
+{
+  "id": 1327164729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66657,38.74177,20.66657,38.74177",
+    "geom:latitude":38.74177,
+    "geom:longitude":20.66657,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Platistoma",
+    "gn:country_code":"GR",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254983,
+    "gn:latitude":38.74177,
+    "gn:longitude":20.66657,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Plat\u00edstoma",
+    "gn:population":54,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03cd\u03c3\u03c4\u03bf\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Platystoma"
+    ],
+    "name:und_x_variant":[
+        "Platistomon",
+        "Plat\u00edstoma",
+        "Platistoma"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254983
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e5cfa155f40ce3829c71715d4dbee2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327164729,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327164729,
+    "wof:lastmodified":1537624286,
+    "wof:name":"Platistoma",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66657,
+    38.74177,
+    20.66657,
+    38.74177
+],
+  "geometry": {"coordinates":[20.66657,38.74177],"type":"Point"}
+}

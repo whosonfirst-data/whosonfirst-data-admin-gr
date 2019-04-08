@@ -1,0 +1,73 @@
+{
+  "id": 1260111301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87028,39.80122,19.87028,39.80122",
+    "geom:latitude":39.80122,
+    "geom:longitude":19.87028,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Pelekito",
+    "gn:country_code":"GR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165932,
+    "gn:latitude":39.80122,
+    "gn:longitude":19.87028,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Pelekit\u00f3",
+    "gn:population":126,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bb\u03b5\u03ba\u03b7\u03c4\u03cc"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165932
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1703e9b9c0ff30fe67d76f8e2763e934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260111301,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1260111301,
+    "wof:lastmodified":1537551167,
+    "wof:name":"Pelekito",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87028,
+    39.80122,
+    19.87028,
+    39.80122
+],
+  "geometry": {"coordinates":[19.87028,39.80122],"type":"Point"}
+}

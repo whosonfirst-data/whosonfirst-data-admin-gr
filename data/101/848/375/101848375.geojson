@@ -1,0 +1,138 @@
+{
+  "id": 101848375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.927441,35.515136,23.927441,35.515136",
+    "geom:latitude":35.515136,
+    "geom:longitude":23.927441,
+    "gn:population":2005,
+    "iso:country":"GR",
+    "lbl:latitude":35.515136,
+    "lbl:longitude":23.927441,
+    "mps:latitude":35.515136,
+    "mps:longitude":23.927441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u064a\u0627 \u0645\u0627\u0631\u064a\u0646\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Agia Marina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Ag\u00eda Mar\u00edna"
+    ],
+    "name:eng_x_preferred":[
+        "Ayia Marina"
+    ],
+    "name:eng_x_variant":[
+        "Agia Marina",
+        "Ay\u00eda Mar\u00edna"
+    ],
+    "name:fin_x_preferred":[
+        "Ag\u00eda Mar\u00edna"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    ],
+    "name:nld_x_preferred":[
+        "Agia Marina"
+    ],
+    "name:nno_x_preferred":[
+        "Aj\u00eda Mar\u00edna i Khani\u00e1"
+    ],
+    "name:nob_x_preferred":[
+        "Agia Marina"
+    ],
+    "name:nor_x_preferred":[
+        "Agia Marina"
+    ],
+    "name:por_x_preferred":[
+        "Agia Marina"
+    ],
+    "name:swe_x_preferred":[
+        "Agia Marina"
+    ],
+    "name:und_x_variant":[
+        "\u0391\u0393\u0399\u0391 \u039c\u0391\u03a1\u0399\u039d\u0391"
+    ],
+    "name:unk_x_variant":[
+        "Ay\u00eda Mar\u00edna"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u03a1\u0397\u03a4\u0397",
+    "qs:a1_alt":"KRHTH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"REUYMNO",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0393\u0399\u0391 \u039c\u0391\u03a1\u0399\u039d\u0391",
+    "qs:loc_alt":"AGIA MARINA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1150aae2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":264217,
+        "gp:id":946909,
+        "qs:id":123873,
+        "qs_pg:id":1352071,
+        "wd:id":"Q4692505",
+        "wk:page":"Agia Marina, Crete"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"efdbaaba495caaeca3aa11ad5265b0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848375,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":101848375,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740417,
+    "wof:name":"\u0391\u0393\u0399\u0391 \u039c\u0391\u03a1\u0399\u039d\u0391",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":2005,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.927441,
+    35.515136,
+    23.927441,
+    35.515136
+],
+  "geometry": {"coordinates":[23.927441,35.515136],"type":"Point"}
+}

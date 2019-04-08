@@ -1,0 +1,73 @@
+{
+  "id": 1310139851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65531,39.38772,21.65531,39.38772",
+    "geom:latitude":39.38772,
+    "geom:longitude":21.65531,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9094",
+    "gn:asciiname":"Padi",
+    "gn:country_code":"GR",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445165,
+    "gn:latitude":39.38772,
+    "gn:longitude":21.65531,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"P\u00e1di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1di"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03b4\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445165
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"33539d101ca9eb3c88336f9a67011f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310139851,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1310139851,
+    "wof:lastmodified":1537624798,
+    "wof:name":"Padi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65531,
+    39.38772,
+    21.65531,
+    39.38772
+],
+  "geometry": {"coordinates":[21.65531,39.38772],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326765031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0654,35.12361,26.0654,35.12361",
+    "geom:latitude":35.12361,
+    "geom:longitude":26.0654,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Agios Georgios",
+    "gn:country_code":"GR",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263676,
+    "gn:latitude":35.12361,
+    "gn:longitude":26.0654,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"\u00c1gios Ge\u00f3rgios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Ge\u00f3rgios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Tourto\u00faloi",
+        "Tourto\u00fala",
+        "\u00c1yios Ye\u00f3ryios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263676
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c3fe61cfda961eef7e6afdade66b48de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326765031,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1326765031,
+    "wof:lastmodified":1537624694,
+    "wof:name":"Agios Georgios",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0654,
+    35.12361,
+    26.0654,
+    35.12361
+],
+  "geometry": {"coordinates":[26.0654,35.12361],"type":"Point"}
+}

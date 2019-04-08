@@ -1,0 +1,86 @@
+{
+  "id": 1243489481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61858,40.88172,23.61858,40.88172",
+    "geom:latitude":40.88172,
+    "geom:longitude":23.61858,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9050",
+    "gn:asciiname":"Sitochori",
+    "gn:country_code":"GR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734263,
+    "gn:latitude":40.88172,
+    "gn:longitude":23.61858,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Sitoch\u00f3ri",
+    "gn:population":531,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Sitoch\u00f3ri",
+        "Sitoch\u00f3rion",
+        "\u03a3\u03b9\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Sitochori"
+    ],
+    "name:und_x_variant":[
+        "Sitokh\u00f3ri",
+        "Ts\u00edntzos",
+        "Sitokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734263
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"42b007b134187fc4cb0c102a570e091f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243489481,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1243489481,
+    "wof:lastmodified":1537624832,
+    "wof:name":"Sitochori",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":531,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61858,
+    40.88172,
+    23.61858,
+    40.88172
+],
+  "geometry": {"coordinates":[23.61858,40.88172],"type":"Point"}
+}

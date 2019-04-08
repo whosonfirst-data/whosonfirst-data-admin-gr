@@ -1,0 +1,73 @@
+{
+  "id": 1209852267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6799,35.34911,24.6799,35.34911",
+    "geom:latitude":35.34911,
+    "geom:longitude":24.6799,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Stavromenos",
+    "gn:country_code":"GR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253260,
+    "gn:latitude":35.34911,
+    "gn:longitude":24.6799,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Stavrom\u00e9nos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Stavrom\u00e9nos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03c9\u03bc\u03ad\u03bd\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253260
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"593f913862dcb2e13f5dcfa779e1dea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209852267,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1209852267,
+    "wof:lastmodified":1537624212,
+    "wof:name":"Stavromenos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6799,
+    35.34911,
+    24.6799,
+    35.34911
+],
+  "geometry": {"coordinates":[24.6799,35.34911],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277017117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59264,39.35025,21.59264,39.35025",
+    "geom:latitude":39.35025,
+    "geom:longitude":21.59264,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9094",
+    "gn:asciiname":"Palaiampela",
+    "gn:country_code":"GR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445174,
+    "gn:latitude":39.35025,
+    "gn:longitude":21.59264,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Palai\u00e1mpela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03ac\u03bc\u03c0\u03b5\u03bb\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Palai\u00e1mbela",
+        "Palai\u00e1mpela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445174
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"26b274476137ea72a689597fc2583a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277017117,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1277017117,
+    "wof:lastmodified":1537624798,
+    "wof:name":"Palaiampela",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59264,
+    39.35025,
+    21.59264,
+    39.35025
+],
+  "geometry": {"coordinates":[21.59264,39.35025],"type":"Point"}
+}

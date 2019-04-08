@@ -1,0 +1,75 @@
+{
+  "id": 1259914303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58904,40.731,22.58904,40.731",
+    "geom:latitude":40.731,
+    "geom:longitude":22.58904,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9038",
+    "gn:asciiname":"Ampelonas",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865271,
+    "gn:latitude":40.731,
+    "gn:longitude":22.58904,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Ampel\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ampel\u00f3nas"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03b5\u03bb\u03ce\u03bd\u03b1\u03c2",
+        "Ampel\u00f3n",
+        "\u0391\u03bc\u03c0\u03b5\u03bb\u03ce\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865271
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"87769c1c06fd9fb4879e75651f8b5223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259914303,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259914303,
+    "wof:lastmodified":1537624990,
+    "wof:name":"Ampelonas",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58904,
+    40.731,
+    22.58904,
+    40.731
+],
+  "geometry": {"coordinates":[22.58904,40.731],"type":"Point"}
+}

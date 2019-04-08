@@ -1,0 +1,107 @@
+{
+  "id": 85902637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7600539.785933,
+    "geom:bbox":"19.910248,39.637914,19.910248,39.637914",
+    "geom:latitude":39.637914,
+    "geom:longitude":19.910248,
+    "gn:id":"",
+    "iso:country":"GR",
+    "lbl:latitude":39.637914,
+    "lbl:longitude":19.910248,
+    "mps:latitude":39.603572,
+    "mps:longitude":19.871521,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_colloquial":[
+        "Ayios Rokkos",
+        "Ayios Rokos",
+        "Ayios Spiridhon"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c1yios Spir\u00eddhon"
+    ],
+    "name:eng_x_variant":[
+        "\u00c1yios R\u00f3kkos",
+        "\u00c1yios R\u00f3kos"
+    ],
+    "name:unk_x_variant":[
+        "\u00c1yios Spir\u00eddhon"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":9378,
+    "qs:local_sum":9393,
+    "qs:localhoods":2,
+    "qs:name":"\u00c1yios Spir\u00eddhon",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs:name_adm2":"Ionian Islands",
+    "qs:name_lau":"Corfu",
+    "qs:name_local":"Corfu",
+    "qs:photo_max":8,
+    "qs:photo_sum":15,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424833,
+    "qs:woe_adm1":56558068,
+    "qs:woe_adm2":12577882,
+    "qs:woe_lau":56558271,
+    "qs:woe_local":948092,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":947389,
+        "qs:id":1100005,
+        "qs_pg:id":1100005
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bd2e7842d42547ce0acfea19c91c37bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85902637,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85902637,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935915,
+    "wof:name":"\u00c1yios Spir\u00eddhon",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.910248,
+    39.637914,
+    19.910248,
+    39.637914
+],
+  "geometry": {"coordinates":[19.910248,39.637914],"type":"Point"}
+}

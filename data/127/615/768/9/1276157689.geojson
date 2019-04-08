@@ -1,0 +1,74 @@
+{
+  "id": 1276157689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86161,41.21381,24.86161,41.21381",
+    "geom:latitude":41.21381,
+    "geom:longitude":24.86161,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9016",
+    "gn:asciiname":"Alma",
+    "gn:country_code":"GR",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736918,
+    "gn:latitude":41.21381,
+    "gn:longitude":24.86161,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"\u00c1lma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bb\u03bc\u03b1"
+    ],
+    "name:und_x_variant":[
+        "\u00c1lma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736918,
+        "wk:page":"Alma%2C_Greece"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a0e05ada8f63a869cc6a78c50eb2499b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276157689,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276157689,
+    "wof:lastmodified":1537624984,
+    "wof:name":"Alma",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86161,
+    41.21381,
+    24.86161,
+    41.21381
+],
+  "geometry": {"coordinates":[24.86161,41.21381],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1125276647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.94386,40.90552,23.94386,40.90552",
+    "geom:latitude":40.90552,
+    "geom:longitude":23.94386,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11860,
+    "gn:population":11860,
+    "iso:country":"GR",
+    "lbl:latitude":40.90552,
+    "lbl:longitude":23.94386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c6\u03af\u03c0\u03bf\u03bb\u03b7\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133862,
+    "qs_pg:gn_pop":11860,
+    "qs_pg:name":"Dimos Amfipoli",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109677,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133862,
+        "qs_pg:id":109677
+    },
+    "wof:country":"GR",
+    "wof:created":1497042344,
+    "wof:geomhash":"f04d624eed02ba75268fb4b75b04803d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125276647,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125276647,
+    "wof:lastmodified":1509387169,
+    "wof:name":"Dimos Amfipoli",
+    "wof:parent_id":85684637,
+    "wof:placetype":"localadmin",
+    "wof:population":11860,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94386,
+    40.90552,
+    23.94386,
+    40.90552
+],
+  "geometry": {"coordinates":[23.94386,40.90552],"type":"Point"}
+}

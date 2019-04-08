@@ -1,0 +1,89 @@
+{
+  "id": 1293329379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46715,38.11406,22.46715,38.11406",
+    "geom:latitude":38.11406,
+    "geom:longitude":22.46715,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Vizianika",
+    "gn:country_code":"GR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":251914,
+    "gn:latitude":38.11406,
+    "gn:longitude":22.46715,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Vizi\u00e1nika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u0392\u03bf\u03c5\u03b6\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c5\u03b6\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03c5\u03b6\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Vouzanika"
+    ],
+    "name:eng_x_preferred":[
+        "Vyzianika"
+    ],
+    "name:eng_x_variant":[
+        "Vouzanika"
+    ],
+    "name:und_x_variant":[
+        "Vizdhi\u00e1nika",
+        "Vizi\u00e1nika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251914
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63f66c4fb72a1560e6ca10c961907878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293329379,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293329379,
+    "wof:lastmodified":1537624161,
+    "wof:name":"Vizianika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46715,
+    38.11406,
+    22.46715,
+    38.11406
+],
+  "geometry": {"coordinates":[22.46715,38.11406],"type":"Point"}
+}

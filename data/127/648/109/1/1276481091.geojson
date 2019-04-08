@@ -1,0 +1,74 @@
+{
+  "id": 1276481091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35358,38.99587,26.35358,38.99587",
+    "geom:latitude":38.99587,
+    "geom:longitude":26.35358,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Ano Chorio",
+    "gn:country_code":"GR",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9034644,
+    "gn:latitude":38.99587,
+    "gn:longitude":26.35358,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"\u00c1no Chori\u00f3",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Chorio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9034644
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ed528ecabb3ecc9ef44d1f315fe5dba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276481091,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276481091,
+    "wof:lastmodified":1537625039,
+    "wof:name":"Ano Chorio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35358,
+    38.99587,
+    26.35358,
+    38.99587
+],
+  "geometry": {"coordinates":[26.35358,38.99587],"type":"Point"}
+}

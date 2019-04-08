@@ -1,0 +1,76 @@
+{
+  "id": 1277110445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18832,37.3587,23.18832,37.3587",
+    "geom:latitude":37.3587,
+    "geom:longitude":23.18832,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Diskouria",
+    "gn:country_code":"GR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257409,
+    "gn:latitude":37.3587,
+    "gn:longitude":23.18832,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Disko\u00faria",
+    "gn:population":26,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03c3\u03ba\u03bf\u03cd\u03c1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Diskouria"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257409
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c9c3e19d7d5d6dfe5d047ef733ef0bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277110445,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277110445,
+    "wof:lastmodified":1537625057,
+    "wof:name":"Diskouria",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18832,
+    37.3587,
+    23.18832,
+    37.3587
+],
+  "geometry": {"coordinates":[23.18832,37.3587],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243484887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28896,41.16804,23.28896,41.16804",
+    "geom:latitude":41.16804,
+    "geom:longitude":23.28896,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9052",
+    "gn:asciiname":"Sarakatsanaiiko",
+    "gn:country_code":"GR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":734352,
+    "gn:latitude":41.16804,
+    "gn:longitude":23.28896,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"Sarakatsana\u00ediko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b1\u03ba\u03b1\u03c4\u03c3\u03b1\u03bd\u03b1\u03af\u03b9\u03ba\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03b1\u03ba\u03b1\u03c4\u03c3\u03b1\u03bd\u03b1\u03af\u03b9\u03ba\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Sarakatsanaiiko"
+    ],
+    "name:und_x_variant":[
+        "Sarakatsana\u00ediko",
+        "Sarakatsana\u00edikon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734352
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"124344e15a6a916fe094efd1189ed64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243484887,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1243484887,
+    "wof:lastmodified":1537624837,
+    "wof:name":"Sarakatsanaiiko",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28896,
+    41.16804000000001,
+    23.28896,
+    41.16804000000001
+],
+  "geometry": {"coordinates":[23.28896,41.16804000000001],"type":"Point"}
+}

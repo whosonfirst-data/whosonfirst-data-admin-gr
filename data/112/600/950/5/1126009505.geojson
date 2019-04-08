@@ -1,0 +1,89 @@
+{
+  "id": 1126009505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29333,40.23944,22.29333,40.23944",
+    "geom:latitude":40.23944,
+    "geom:longitude":22.29333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":183,
+    "gn:population":183,
+    "iso:country":"GR",
+    "lbl:latitude":40.23944,
+    "lbl:longitude":22.29333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Kary\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03c5\u03ad\u03c2",
+        "\u039a\u03b1\u03c1\u03c5\u03b1\u03af"
+    ],
+    "name:mkd_x_preferred":[
+        "Karje"
+    ],
+    "name:unk_x_variant":[
+        "Karia\u00ed"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735973,
+    "qs_pg:gn_pop":183,
+    "qs_pg:name":"Karya\u00ed",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":552957,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735973,
+        "qs_pg:id":552957
+    },
+    "wof:country":"GR",
+    "wof:created":1497300181,
+    "wof:geomhash":"c8f371d075405a8b7488b5fb0d412050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126009505,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1126009505,
+    "wof:lastmodified":1509406588,
+    "wof:name":"Karya\u00ed",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29333,
+    40.23944,
+    22.29333,
+    40.23944
+],
+  "geometry": {"coordinates":[22.29333,40.23944],"type":"Point"}
+}

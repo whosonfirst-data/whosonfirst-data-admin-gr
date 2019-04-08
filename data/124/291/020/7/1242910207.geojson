@@ -1,0 +1,73 @@
+{
+  "id": 1242910207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63351,36.897,25.63351,36.897",
+    "geom:latitude":36.897,
+    "geom:longitude":25.63351,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292",
+    "gn:asciiname":"Keros",
+    "gn:country_code":"GR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10177171,
+    "gn:latitude":36.897,
+    "gn:longitude":25.63351,
+    "gn:modification_date":"2015-04-04",
+    "gn:name":"K\u00e9ros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039a\u03ad\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Keros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10177171
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1de55559453397e9de22de648cdc9d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242910207,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1242910207,
+    "wof:lastmodified":1537625083,
+    "wof:name":"Keros",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63351,
+    36.897,
+    25.63351,
+    36.897
+],
+  "geometry": {"coordinates":[25.63351,36.897],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277013209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9,41.21667,23.9,41.21667",
+    "geom:latitude":41.21667,
+    "geom:longitude":23.9,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9005",
+    "gn:asciiname":"Prinotopos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734471,
+    "gn:latitude":41.21667,
+    "gn:longitude":23.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Prin\u00f3topos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dosp\u00e1t",
+        "Dhosp\u00e1t",
+        "Prin\u00f3topos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734471
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f659f47261e00a76ace960be917ef88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277013209,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1277013209,
+    "wof:lastmodified":1537624842,
+    "wof:name":"Prinotopos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9,
+    41.21667,
+    23.9,
+    41.21667
+],
+  "geometry": {"coordinates":[23.9,41.21667],"type":"Point"}
+}

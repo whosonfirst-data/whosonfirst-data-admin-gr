@@ -1,0 +1,82 @@
+{
+  "id": 1193167919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88508,39.47933,20.88508,39.47933",
+    "geom:latitude":39.47933,
+    "geom:longitude":20.88508,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Perdika",
+    "gn:country_code":"GR",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255561,
+    "gn:latitude":39.47933,
+    "gn:longitude":20.88508,
+    "gn:modification_date":"2015-02-02",
+    "gn:name":"P\u00e9rdika",
+    "gn:population":120,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03b4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Perdika"
+    ],
+    "name:und_x_variant":[
+        "Mo\u00fales",
+        "P\u00e9rdhika",
+        "Mo\u00falai",
+        "P\u00e9rdika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255561
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5e4767e87da000cf386ce78db4009774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193167919,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1193167919,
+    "wof:lastmodified":1537624312,
+    "wof:name":"Perdika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88508,
+    39.47933,
+    20.88508,
+    39.47933
+],
+  "geometry": {"coordinates":[20.88508,39.47933],"type":"Point"}
+}

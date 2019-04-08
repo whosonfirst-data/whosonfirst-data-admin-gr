@@ -1,0 +1,80 @@
+{
+  "id": 1125859341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.817626,37.65447,26.817626,37.65447",
+    "geom:latitude":37.65447,
+    "geom:longitude":26.817626,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":37.65447,
+    "lbl:longitude":26.817626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pagondhas",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":151,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":151,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1101619,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":958656,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":958656,
+        "qs_pg:id":1101619
+    },
+    "wof:country":"GR",
+    "wof:created":1497293761,
+    "wof:geomhash":"7e04044d7f6cd5aad6de0e696afa1d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125859341,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1125859341,
+    "wof:lastmodified":1538594940,
+    "wof:name":"Pagondhas",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.817626,
+    37.65447,
+    26.817626,
+    37.65447
+],
+  "geometry": {"coordinates":[26.817626,37.65447],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327268489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68719,35.30481,25.68719,35.30481",
+    "geom:latitude":35.30481,
+    "geom:longitude":25.68719,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Chondrovolakoi",
+    "gn:country_code":"GR",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8605594,
+    "gn:latitude":35.30481,
+    "gn:longitude":25.68719,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Chondrovol\u00e1koi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03bd\u03b4\u03c1\u03bf\u03b2\u03bf\u03bb\u03ac\u03ba\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Chondrovolakoi"
+    ],
+    "name:und_x_variant":[
+        "Chondrovol\u00e1koi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605594
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d6af1e41660a463d648d1ad35b2bd318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327268489,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327268489,
+    "wof:lastmodified":1537625026,
+    "wof:name":"Chondrovolakoi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68719,
+    35.30481,
+    25.68719,
+    35.30481
+],
+  "geometry": {"coordinates":[25.68719,35.30481],"type":"Point"}
+}

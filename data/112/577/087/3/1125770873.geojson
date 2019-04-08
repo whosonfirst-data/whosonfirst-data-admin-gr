@@ -1,0 +1,98 @@
+{
+  "id": 1125770873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9775,39.45444,19.9775,39.45444",
+    "geom:latitude":39.45444,
+    "geom:longitude":19.9775,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":394,
+    "gn:population":295,
+    "iso:country":"GR",
+    "lbl:latitude":39.45444,
+    "lbl:longitude":19.9775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kouspades"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c3\u03c0\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kouspades"
+    ],
+    "name:ger_x_preferred":[
+        "Boukaris"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03ba\u03b1\u03c1\u03b7\u03c2 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Kousp\u00e1des"
+    ],
+    "name:unk_x_variant":[
+        "Kousp\u00e1dhes"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2463651,
+    "qs_pg:gn_pop":394,
+    "qs_pg:name":"Kousp\u00e1des",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463651,
+        "qs_pg:id":574129,
+        "wd:id":"Q895030"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290059,
+    "wof:geomhash":"b235bc893e7c5a4930f47ddf453225c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125770873,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125770873,
+    "wof:lastmodified":1514443988,
+    "wof:name":"Kousp\u00e1des",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":295,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9775,
+    39.45444,
+    19.9775,
+    39.45444
+],
+  "geometry": {"coordinates":[19.9775,39.45444],"type":"Point"}
+}

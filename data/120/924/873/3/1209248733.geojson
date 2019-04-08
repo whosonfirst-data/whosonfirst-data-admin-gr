@@ -1,0 +1,72 @@
+{
+  "id": 1209248733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40309,38.00286,23.40309,38.00286",
+    "geom:latitude":38.00286,
+    "geom:longitude":23.40309,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9231",
+    "gn:asciiname":"Koumintri",
+    "gn:country_code":"GR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036832,
+    "gn:latitude":38.00286,
+    "gn:longitude":23.40309,
+    "gn:modification_date":"2014-05-23",
+    "gn:name":"Koum\u00edntri",
+    "gn:population":298,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bc\u03af\u03bd\u03c4\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Koumintri"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036832
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aa969fa40fcfc345766648fe53b05dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248733
+        }
+    ],
+    "wof:id":1209248733,
+    "wof:lastmodified":1537625045,
+    "wof:name":"Koumintri",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40309,
+    38.00286,
+    23.40309,
+    38.00286
+],
+  "geometry": {"coordinates":[23.40309,38.00286],"type":"Point"}
+}

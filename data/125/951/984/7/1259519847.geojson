@@ -1,0 +1,82 @@
+{
+  "id": 1259519847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47545,36.5016,22.47545,36.5016",
+    "geom:latitude":36.5016,
+    "geom:longitude":22.47545,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Dimaristika",
+    "gn:country_code":"GR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263085,
+    "gn:latitude":36.5016,
+    "gn:longitude":22.47545,
+    "gn:modification_date":"2015-05-04",
+    "gn:name":"Dimar\u00edstika",
+    "gn:population":12,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03bc\u03b1\u03c1\u03af\u03c3\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b7\u03bc\u03b1\u03c1\u03af\u03c3\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Dimaristika"
+    ],
+    "name:und_x_variant":[
+        "Dhimar\u00edstika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263085
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ab7b1bb8aabc1130fa2dca45c2a46424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259519847,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259519847,
+    "wof:lastmodified":1537624666,
+    "wof:name":"Dimaristika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47545,
+    36.5016,
+    22.47545,
+    36.5016
+],
+  "geometry": {"coordinates":[22.47545,36.5016],"type":"Point"}
+}

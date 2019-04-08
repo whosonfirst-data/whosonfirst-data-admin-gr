@@ -1,0 +1,80 @@
+{
+  "id": 1310535139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30344,40.64963,23.30344,40.64963",
+    "geom:latitude":40.64963,
+    "geom:longitude":23.30344,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9027",
+    "gn:asciiname":"Stivos",
+    "gn:country_code":"GR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734136,
+    "gn:latitude":40.64963,
+    "gn:longitude":23.30344,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"St\u00edvos",
+    "gn:population":576,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03af\u03b2\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "St\u00edvos"
+    ],
+    "name:und_x_variant":[
+        "G\u00famenich"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734136,
+        "wk:page":"Stivos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"952c0662a8f8d841557ed3ae73f1cef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310535139,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310535139,
+    "wof:lastmodified":1537624824,
+    "wof:name":"Stivos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":576,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30344,
+    40.64963,
+    23.30344,
+    40.64963
+],
+  "geometry": {"coordinates":[23.30344,40.64963],"type":"Point"}
+}

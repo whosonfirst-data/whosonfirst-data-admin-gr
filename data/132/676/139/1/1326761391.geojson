@@ -1,0 +1,95 @@
+{
+  "id": 1326761391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48336,37.06372,25.48336,37.06372",
+    "geom:latitude":37.06372,
+    "geom:longitude":25.48336,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292",
+    "gn:asciiname":"Chalkeio",
+    "gn:country_code":"GR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260137,
+    "gn:latitude":37.06372,
+    "gn:longitude":25.48336,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Chalke\u00edo",
+    "gn:population":368,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u03a7\u03b1\u03bb\u03ba\u03af"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03ba\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bb\u03ba\u03b5\u03af\u03bf",
+        "\u03a7\u03b1\u03bb\u03ba\u03b5\u03af\u03bf\u03bd"
+    ],
+    "name:eng_x_colloquial":[
+        "Halki"
+    ],
+    "name:eng_x_preferred":[
+        "Halki"
+    ],
+    "name:eng_x_variant":[
+        "Chalkeio",
+        "Halkeio"
+    ],
+    "name:und_x_variant":[
+        "Traya\u00eda",
+        "Khalk\u00ed",
+        "Khalk\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260137
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5154253ac4479e5f9f0ed47a0185280b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326761391,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1326761391,
+    "wof:lastmodified":1537624525,
+    "wof:name":"Chalkeio",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48336,
+    37.06372,
+    25.48336,
+    37.06372
+],
+  "geometry": {"coordinates":[25.48336,37.06372],"type":"Point"}
+}

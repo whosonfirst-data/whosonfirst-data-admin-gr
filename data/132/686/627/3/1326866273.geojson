@@ -1,0 +1,74 @@
+{
+  "id": 1326866273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61853,39.32103,20.61853,39.32103",
+    "geom:latitude":39.32103,
+    "geom:longitude":20.61853,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9089",
+    "gn:asciiname":"Perichati",
+    "gn:country_code":"GR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":255542,
+    "gn:latitude":39.32103,
+    "gn:longitude":20.61853,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Perich\u00e1ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c7\u03ac\u03c4\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Perikh\u00e1ti",
+        "Perich\u00e1ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255542
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fa4331497441910d893c9a221b30ec49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326866273,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1326866273,
+    "wof:lastmodified":1537624311,
+    "wof:name":"Perichati",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61853,
+    39.32103,
+    20.61853,
+    39.32103
+],
+  "geometry": {"coordinates":[20.61853,39.32103],"type":"Point"}
+}

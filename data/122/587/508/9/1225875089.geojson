@@ -1,0 +1,76 @@
+{
+  "id": 1225875089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99892,39.69722,20.99892,39.69722",
+    "geom:latitude":39.69722,
+    "geom:longitude":20.99892,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9086",
+    "gn:asciiname":"Mpaltouma",
+    "gn:country_code":"GR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10175105,
+    "gn:latitude":39.69722,
+    "gn:longitude":20.99892,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Mpalto\u00fama",
+    "gn:population":176,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03c4\u03bf\u03cd\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mpaltouma"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175105
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3591bf3c4edbe3b3b08fc29246b22618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875089,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1225875089,
+    "wof:lastmodified":1537625082,
+    "wof:name":"Mpaltouma",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99892,
+    39.69722,
+    20.99892,
+    39.69722
+],
+  "geometry": {"coordinates":[20.99892,39.69722],"type":"Point"}
+}

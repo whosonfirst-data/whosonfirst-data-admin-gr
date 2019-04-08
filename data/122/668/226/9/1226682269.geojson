@@ -1,0 +1,80 @@
+{
+  "id": 1226682269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.04077,36.32892,28.04077,36.32892",
+    "geom:latitude":36.32892,
+    "geom:longitude":28.04077,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Epano Kalamonas",
+    "gn:country_code":"GR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":262676,
+    "gn:latitude":36.32892,
+    "gn:longitude":28.04077,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ep\u00e1no Kalam\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Ep\u00e1no Kalam\u00f3nas"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03ac\u03bd\u03c9 \u039a\u03b1\u03bb\u03b1\u03bc\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Pever\u00e1nio",
+        "Kalami\u00f3nas",
+        "Pano Calamona",
+        "Kalam\u00f3n",
+        "Ep\u00e1no Kalam\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262676
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4192de8893688b07471459ee02a4162b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682269,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226682269,
+    "wof:lastmodified":1537624643,
+    "wof:name":"Epano Kalamonas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04077,
+    36.32892,
+    28.04077,
+    36.32892
+],
+  "geometry": {"coordinates":[28.04077,36.32892],"type":"Point"}
+}

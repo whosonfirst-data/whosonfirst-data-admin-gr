@@ -1,0 +1,97 @@
+{
+  "id": 1126039849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35,40.93333,24.35,40.93333",
+    "geom:latitude":40.93333,
+    "geom:longitude":24.35,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1293,
+    "gn:population":927,
+    "iso:country":"GR",
+    "lbl:latitude":40.93333,
+    "lbl:longitude":24.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03b9\u03c3\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Amisiana"
+    ],
+    "name:unk_x_variant":[
+        "Pr\u00e9tzova"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736881,
+    "qs_pg:gn_pop":1293,
+    "qs_pg:name":"Amisiana",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":262501,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":945547,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736881,
+        "gp:id":945547,
+        "qs_pg:id":262501
+    },
+    "wof:country":"GR",
+    "wof:created":1497302068,
+    "wof:geomhash":"8a23bcb662eebe474eadc3a9fb002cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126039849,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1126039849,
+    "wof:lastmodified":1509408440,
+    "wof:name":"Amisiana",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":927,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35,
+    40.93333,
+    24.35,
+    40.93333
+],
+  "geometry": {"coordinates":[24.35,40.93333],"type":"Point"}
+}

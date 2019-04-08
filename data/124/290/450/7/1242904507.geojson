@@ -1,0 +1,73 @@
+{
+  "id": 1242904507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4661,41.05056,25.4661,41.05056",
+    "geom:latitude":41.05056,
+    "geom:longitude":25.4661,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022",
+    "gn:asciiname":"Kallithea",
+    "gn:country_code":"GR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736036,
+    "gn:latitude":41.05056,
+    "gn:longitude":25.4661,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Kallith\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Kallith\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736036
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d4d964789067b9634163d5c46c09c282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242904507,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1242904507,
+    "wof:lastmodified":1537624936,
+    "wof:name":"Kallithea",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4661,
+    41.05056,
+    25.4661,
+    41.05056
+],
+  "geometry": {"coordinates":[25.4661,41.05056],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1125862327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3,40.93333,24.3,40.93333",
+    "geom:latitude":40.93333,
+    "geom:longitude":24.3,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1934,
+    "gn:population":1472,
+    "iso:country":"GR",
+    "lbl:latitude":40.93333,
+    "lbl:longitude":24.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0643\u0643\u064a\u0646\u0648\u0643\u0648\u0645\u0627\u060c \u0643\u0627\u0641\u0627\u0644\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043d\u0430\u043b\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Kokkinochoma"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03cc\u03c7\u03c9\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Kokkin\u00f3choma"
+    ],
+    "name:eng_x_preferred":[
+        "Kokkinochoma"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03cc\u03c7\u03c9\u03bc\u03b1 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Kokkin\u00f3choma"
+    ],
+    "name:unk_x_variant":[
+        "K\u00ednali"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735661,
+    "qs_pg:gn_pop":1934,
+    "qs_pg:name":"Kokkinokhoma",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1284382,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":953731,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735661,
+        "gp:id":953731,
+        "qs_pg:id":1284382,
+        "wd:id":"Q3558743"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293880,
+    "wof:geomhash":"d90db53f6fe5e3f38286192d6a6455bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125862327,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1125862327,
+    "wof:lastmodified":1514443983,
+    "wof:name":"Kokkinokhoma",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":1472,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3,
+    40.93333,
+    24.3,
+    40.93333
+],
+  "geometry": {"coordinates":[24.3,40.93333],"type":"Point"}
+}

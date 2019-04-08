@@ -1,0 +1,99 @@
+{
+  "id": 1126009751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69091,35.41815,24.69091,35.41815",
+    "geom:latitude":35.41815,
+    "geom:longitude":24.69091,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1157,
+    "gn:population":1157,
+    "iso:country":"GR",
+    "lbl:latitude":35.41815,
+    "lbl:longitude":24.69091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bd\u03bf\u03c1\u03bc\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03bf\u03c1\u03bc\u03bf \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Kast\u00e9lli Milopot\u00e1mou"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255849,
+    "qs_pg:gn_pop":1157,
+    "qs_pg:name":"Panormon",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":123792,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":959172,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255849,
+        "gp:id":959172,
+        "qs_pg:id":123792
+    },
+    "wof:country":"GR",
+    "wof:created":1497300195,
+    "wof:geomhash":"14de5d892ea58b355b7e4a8d93ac1a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126009751,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1126009751,
+    "wof:lastmodified":1509406600,
+    "wof:name":"Panormon",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":1157,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69091,
+    35.41815,
+    24.69091,
+    35.41815
+],
+  "geometry": {"coordinates":[24.69091,35.41815],"type":"Point"}
+}

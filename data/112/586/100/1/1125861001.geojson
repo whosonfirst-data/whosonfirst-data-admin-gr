@@ -1,0 +1,80 @@
+{
+  "id": 1125861001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.533535,37.145984,25.533535,37.145984",
+    "geom:latitude":37.145984,
+    "geom:longitude":25.533535,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":37.145984,
+    "lbl:longitude":25.533535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Koronida",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":272,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":272,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1102762,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":966225,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":966225,
+        "qs_pg:id":1102762
+    },
+    "wof:country":"GR",
+    "wof:created":1497293830,
+    "wof:geomhash":"b22bc501a30ee9a129dfb858221075bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125861001,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125861001,
+    "wof:lastmodified":1509396631,
+    "wof:name":"Koronida",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.533535,
+    37.145984,
+    25.533535,
+    37.145984
+],
+  "geometry": {"coordinates":[25.533535,37.145984],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343490787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.72645,35.4057,24.72645,35.4057",
+    "geom:latitude":35.4057,
+    "geom:longitude":24.72645,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Siripidhiana",
+    "gn:country_code":"GR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253777,
+    "gn:latitude":35.4057,
+    "gn:longitude":24.72645,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Siripidhian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253777
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f635398051e24f609228b0eeaab3bf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343490787,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343490787,
+    "wof:lastmodified":1536702772,
+    "wof:name":"Siripidhiana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.72645,
+    35.4057,
+    24.72645,
+    35.4057
+],
+  "geometry": {"coordinates":[24.72645,35.4057],"type":"Point"}
+}

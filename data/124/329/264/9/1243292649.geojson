@@ -1,0 +1,76 @@
+{
+  "id": 1243292649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65,39.16667,22.65,39.16667",
+    "geom:latitude":39.16667,
+    "geom:longitude":22.65,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Ayios Spiridhon",
+    "gn:country_code":"GR",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":263729,
+    "gn:latitude":39.16667,
+    "gn:longitude":22.65,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"\u00c1yios Spir\u00eddhon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u0386\u03bd\u03c9 \u0393\u03b9\u03b1\u03bd\u03c4\u03b6\u03b5\u03bb\u03af"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c0\u03c5\u03c1\u03af\u03b4\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u0393\u03b9\u03b1\u03bd\u03c4\u03b6\u03b5\u03bb\u03af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263729
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f6595108473092473120b88a3fd80d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243292649,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243292649,
+    "wof:lastmodified":1537624696,
+    "wof:name":"Ayios Spiridhon",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65,
+    39.16667,
+    22.65,
+    39.16667
+],
+  "geometry": {"coordinates":[22.65,39.16667],"type":"Point"}
+}

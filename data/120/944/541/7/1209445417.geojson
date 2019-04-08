@@ -1,0 +1,76 @@
+{
+  "id": 1209445417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92696,37.63755,22.92696,37.63755",
+    "geom:latitude":37.63755,
+    "geom:longitude":22.92696,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Gatzia",
+    "gn:country_code":"GR",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262095,
+    "gn:latitude":37.63755,
+    "gn:longitude":22.92696,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"G\u00e1tzia",
+    "gn:population":47,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ac\u03c4\u03b6\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Gkatzia"
+    ],
+    "name:und_x_variant":[
+        "Gatza",
+        "G\u00e1tzia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262095
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b9868e2e211215a4684f912d786a1b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209445417
+        }
+    ],
+    "wof:id":1209445417,
+    "wof:lastmodified":1537624619,
+    "wof:name":"Gatzia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92696,
+    37.63755,
+    22.92696,
+    37.63755
+],
+  "geometry": {"coordinates":[22.92696,37.63755],"type":"Point"}
+}

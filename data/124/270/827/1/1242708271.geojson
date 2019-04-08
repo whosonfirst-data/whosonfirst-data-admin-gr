@@ -1,0 +1,85 @@
+{
+  "id": 1242708271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39738,38.59712,21.39738,38.59712",
+    "geom:latitude":38.59712,
+    "geom:longitude":21.39738,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Bouzion",
+    "gn:country_code":"GR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263380,
+    "gn:latitude":38.59712,
+    "gn:longitude":21.39738,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"Bo\u00fazion",
+    "gn:population":115,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03b6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03bf\u03cd\u03b6\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Bouzi"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00fazi",
+        "Bo\u00fazion",
+        "Mpouzi",
+        "Mpouzion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263380
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d731715976e52ecc018102cf239df9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242708271,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1242708271,
+    "wof:lastmodified":1537624682,
+    "wof:name":"Bouzion",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39738,
+    38.59712,
+    21.39738,
+    38.59712
+],
+  "geometry": {"coordinates":[21.39738,38.59712],"type":"Point"}
+}

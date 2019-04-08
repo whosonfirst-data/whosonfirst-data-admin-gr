@@ -1,0 +1,80 @@
+{
+  "id": 1293718777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38753,37.82518,21.38753,37.82518",
+    "geom:latitude":37.82518,
+    "geom:longitude":21.38753,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Tsichleika",
+    "gn:country_code":"GR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252484,
+    "gn:latitude":37.82518,
+    "gn:longitude":21.38753,
+    "gn:modification_date":"2015-09-16",
+    "gn:name":"Tsichl\u00e9ika",
+    "gn:population":60,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c7\u03bb\u03ad\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Tsichleika"
+    ],
+    "name:und_x_variant":[
+        "Tsikhl\u00e9\u00efka",
+        "Tsikhla\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252484
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"14b6ae298c3550dd76b16157b7c5a682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293718777,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293718777,
+    "wof:lastmodified":1537624185,
+    "wof:name":"Tsichleika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38753,
+    37.82518,
+    21.38753,
+    37.82518
+],
+  "geometry": {"coordinates":[21.38753,37.82518],"type":"Point"}
+}

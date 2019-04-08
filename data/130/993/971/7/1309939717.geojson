@@ -1,0 +1,78 @@
+{
+  "id": 1309939717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16312,40.23943,21.16312,40.23943",
+    "geom:latitude":40.23943,
+    "geom:longitude":21.16312,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Avgerinos",
+    "gn:country_code":"GR",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736668,
+    "gn:latitude":40.23943,
+    "gn:longitude":21.16312,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Avgerin\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Avgerin\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c5\u03b3\u03b5\u03c1\u03b9\u03bd\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Konstantsik\u00f3n",
+        "Avyerin\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736668,
+        "wk:page":"Avgerinos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e7199ed0acfa73bbad0bb5559c253f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309939717,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1309939717,
+    "wof:lastmodified":1537624969,
+    "wof:name":"Avgerinos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16312000000001,
+    40.23943,
+    21.16312000000001,
+    40.23943
+],
+  "geometry": {"coordinates":[21.16312000000001,40.23943],"type":"Point"}
+}

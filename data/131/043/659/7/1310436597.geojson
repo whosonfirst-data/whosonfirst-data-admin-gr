@@ -1,0 +1,76 @@
+{
+  "id": 1310436597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37726,37.86615,22.37726,37.86615",
+    "geom:latitude":37.86615,
+    "geom:longitude":22.37726,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Mikros Machalas",
+    "gn:country_code":"GR",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409183,
+    "gn:latitude":37.86615,
+    "gn:longitude":22.37726,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Mikr\u00f3s Machal\u00e1s",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03c2 \u039c\u03b1\u03c7\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Mikros Machalas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409183
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bee34529ee73244cefa1c860820db834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310436597,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310436597,
+    "wof:lastmodified":1537625069,
+    "wof:name":"Mikros Machalas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37726,
+    37.86615,
+    22.37726,
+    37.86615
+],
+  "geometry": {"coordinates":[22.37726,37.86615],"type":"Point"}
+}

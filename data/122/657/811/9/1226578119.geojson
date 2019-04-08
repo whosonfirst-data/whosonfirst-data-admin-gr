@@ -1,0 +1,77 @@
+{
+  "id": 1226578119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85647,40.80556,21.85647,40.80556",
+    "geom:latitude":40.80556,
+    "geom:longitude":21.85647,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9043",
+    "gn:asciiname":"Xanthogeia",
+    "gn:country_code":"GR",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733838,
+    "gn:latitude":40.80556,
+    "gn:longitude":21.85647,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Xanth\u00f3geia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Xanth\u00f3geia"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03b1\u03bd\u03b8\u03cc\u03b3\u03b5\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Ros\u00edlovon",
+        "Xanth\u00f3yia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733838
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bd3df0af890de5cbd6b26e2aad7cf7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226578119,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226578119,
+    "wof:lastmodified":1537624809,
+    "wof:name":"Xanthogeia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85647,
+    40.80556,
+    21.85647,
+    40.80556
+],
+  "geometry": {"coordinates":[21.85647,40.80556],"type":"Point"}
+}

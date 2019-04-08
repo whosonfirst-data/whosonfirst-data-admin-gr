@@ -1,0 +1,77 @@
+{
+  "id": 1226276675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73271,35.44354,23.73271,35.44354",
+    "geom:latitude":35.44354,
+    "geom:longitude":23.73271,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Pyrgos",
+    "gn:country_code":"GR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255239,
+    "gn:latitude":35.44354,
+    "gn:longitude":23.73271,
+    "gn:modification_date":"2015-09-21",
+    "gn:name":"P\u00fdrgos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00fdrgos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Sinoikism\u00f3s P\u00edrgos",
+        "P\u00edrgos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255239
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e7d5d7a312e90702416dfdfc36bc4d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226276675,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226276675,
+    "wof:lastmodified":1537624297,
+    "wof:name":"Pyrgos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73271,
+    35.44354000000001,
+    23.73271,
+    35.44354000000001
+],
+  "geometry": {"coordinates":[23.73271,35.44354000000001],"type":"Point"}
+}

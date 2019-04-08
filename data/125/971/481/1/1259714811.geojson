@@ -1,0 +1,72 @@
+{
+  "id": 1259714811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,40.35,21.81667,40.35",
+    "geom:latitude":40.35,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Mahala",
+    "gn:country_code":"GR",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735951,
+    "gn:latitude":40.35,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makhal\u00e1 Kars\u00ed",
+        "Kars\u00ed Makhal\u00e1",
+        "Kars\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735951
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"829df686799f80a41a0ff22b428420a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259714811,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1259714811,
+    "wof:lastmodified":1537624932,
+    "wof:name":"Mahala",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    40.35,
+    21.81667,
+    40.35
+],
+  "geometry": {"coordinates":[21.81667,40.35],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1126025045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21778,39.36778,21.21778,39.36778",
+    "geom:latitude":39.36778,
+    "geom:longitude":21.21778,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":52,
+    "gn:population":52,
+    "iso:country":"GR",
+    "lbl:latitude":39.36778,
+    "lbl:longitude":21.21778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Amp\u00e9lia"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03ad\u03bb\u03b9\u03b1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":445206,
+    "qs_pg:gn_pop":52,
+    "qs_pg:name":"Amp\u00e9lia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":548381,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445206,
+        "qs_pg:id":548381
+    },
+    "wof:country":"GR",
+    "wof:created":1497301087,
+    "wof:geomhash":"0e21f551cc158db7206f756acbe41a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126025045,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126025045,
+    "wof:lastmodified":1534379332,
+    "wof:name":"Amp\u00e9lia",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[
+        1125826583
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21778,
+    39.36778,
+    21.21778,
+    39.36778
+],
+  "geometry": {"coordinates":[21.21778,39.36778],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293236929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.85182,35.96681,27.85182,35.96681",
+    "geom:latitude":35.96681,
+    "geom:longitude":27.85182,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Lachania",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258691,
+    "gn:latitude":35.96681,
+    "gn:longitude":27.85182,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lachani\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakania",
+        "Lacania",
+        "Lakhani\u00e1",
+        "Lachani\u00e1",
+        "\u039b\u03b1\u03c7\u03b1\u03bd\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258691
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f52f7985cb6fab9e7037cc65a4c640bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293236929,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1293236929,
+    "wof:lastmodified":1537624461,
+    "wof:name":"Lachania",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.85182,
+    35.96680999999999,
+    27.85182,
+    35.96680999999999
+],
+  "geometry": {"coordinates":[27.85182,35.96680999999999],"type":"Point"}
+}

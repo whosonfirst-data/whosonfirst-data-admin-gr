@@ -1,0 +1,79 @@
+{
+  "id": 1327268539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80772,37.85833,21.80772,37.85833",
+    "geom:latitude":37.85833,
+    "geom:longitude":21.80772,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Lampeia",
+    "gn:country_code":"GR",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258639,
+    "gn:latitude":37.85833,
+    "gn:longitude":21.80772,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"L\u00e1mpeia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e1mpeia"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03bc\u03c0\u03b5\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "D\u00edvris",
+        "Prin\u00f3fiton",
+        "L\u00e1mbia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258639,
+        "wk:page":"Lampeia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"27ca87aee0e499c0a1246824d825430e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327268539,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327268539,
+    "wof:lastmodified":1537624459,
+    "wof:name":"Lampeia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80772,
+    37.85833,
+    21.80772,
+    37.85833
+],
+  "geometry": {"coordinates":[21.80772,37.85833],"type":"Point"}
+}

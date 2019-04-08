@@ -1,0 +1,97 @@
+{
+  "id": 1277012855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50292,40.53967,21.50292,40.53967",
+    "geom:latitude":40.53967,
+    "geom:longitude":21.50292,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9070",
+    "gn:asciiname":"Variko",
+    "gn:country_code":"GR",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733946,
+    "gn:latitude":40.53967,
+    "gn:longitude":21.50292,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Varik\u00f3",
+    "gn:population":638,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0300\u043a\u0440\u0435\u043d\u0438"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0430\u0440\u0438\u043a\u0300\u043e"
+    ],
+    "name:ell_x_historical":[
+        "\u039c\u03cc\u03ba\u03c1\u03b5\u03bd\u03b7",
+        "\u039c\u03cc\u03ba\u03c1\u03b1\u03b9\u03bd\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03b9\u03ba\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c1\u03b9\u03ba\u03cc\u03bd",
+        "\u039c\u03cc\u03ba\u03c1\u03b5\u03bd\u03b7",
+        "\u039c\u03cc\u03ba\u03c1\u03b1\u03b9\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Variko"
+    ],
+    "name:und_x_variant":[
+        "M\u00f3kraini",
+        "Varik\u00f3",
+        "Varik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733946,
+        "wk:page":"Variko"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2204151c4d52659609d892674c11c589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277012855,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1277012855,
+    "wof:lastmodified":1537624816,
+    "wof:name":"Variko",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":638,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50292,
+    40.53967,
+    21.50292,
+    40.53967
+],
+  "geometry": {"coordinates":[21.50292,40.53967],"type":"Point"}
+}

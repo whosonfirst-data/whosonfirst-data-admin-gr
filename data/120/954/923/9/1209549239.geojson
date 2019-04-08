@@ -1,0 +1,63 @@
+{
+  "id": 1209549239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49949,36.72698,22.49949,36.72698",
+    "geom:latitude":36.72698,
+    "geom:longitude":22.49949,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Dhiron",
+    "gn:country_code":"GR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263043,
+    "gn:latitude":36.72698,
+    "gn:longitude":22.49949,
+    "gn:modification_date":"2015-05-04",
+    "gn:name":"Dhir\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263043
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"155ff3a7555159d6d965b5ed118f28d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209549239
+        }
+    ],
+    "wof:id":1209549239,
+    "wof:lastmodified":1536283746,
+    "wof:name":"Dhiron",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49949,
+    36.72698,
+    22.49949,
+    36.72698
+],
+  "geometry": {"coordinates":[22.49949,36.72698],"type":"Point"}
+}

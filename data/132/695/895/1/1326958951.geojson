@@ -1,0 +1,76 @@
+{
+  "id": 1326958951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92047,37.88177,22.92047,37.88177",
+    "geom:latitude":37.88177,
+    "geom:longitude":22.92047,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9243",
+    "gn:asciiname":"Iera Moni Ayias Triados",
+    "gn:country_code":"GR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9408781,
+    "gn:latitude":37.88177,
+    "gn:longitude":22.92047,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Ier\u00e1 Mon\u00ed Ay\u00edas Tri\u00e1dos",
+    "gn:population":135,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03b5\u03c1\u03ac \u039c\u03bf\u03bd\u03ae \u0391\u03b3\u03af\u03b1\u03c2 \u03a4\u03c1\u03b9\u03ac\u03b4\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Iera Moni Agias Triados"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9408781
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fd389a05311d6383ef45392b33d8498c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326958951,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1326958951,
+    "wof:lastmodified":1537625066,
+    "wof:name":"Iera Moni Ayias Triados",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92047,
+    37.88177,
+    22.92047,
+    37.88177
+],
+  "geometry": {"coordinates":[22.92047,37.88177],"type":"Point"}
+}

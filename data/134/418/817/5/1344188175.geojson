@@ -1,0 +1,84 @@
+{
+  "id": 1344188175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21006,39.54536,22.21006,39.54536",
+    "geom:latitude":39.54536,
+    "geom:longitude":22.21006,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9100",
+    "gn:asciiname":"Loutro",
+    "gn:country_code":"GR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258050,
+    "gn:latitude":39.54536,
+    "gn:longitude":22.21006,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Loutr\u00f3",
+    "gn:population":256,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03c4\u03c1\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03bf\u03c5\u03c4\u03c1\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Loutro"
+    ],
+    "name:und_x_variant":[
+        "Loutr\u00f3s",
+        "Loutr\u00f3n",
+        "Loutr\u00f3"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258050
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e53597442d3f14a5fdd26adf01301b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344188175,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1344188175,
+    "wof:lastmodified":1537624428,
+    "wof:name":"Loutro",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21006,
+    39.54536,
+    22.21006,
+    39.54536
+],
+  "geometry": {"coordinates":[22.21006,39.54536],"type":"Point"}
+}

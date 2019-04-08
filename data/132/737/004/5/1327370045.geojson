@@ -1,0 +1,86 @@
+{
+  "id": 1327370045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15965,37.59281,23.15965,37.59281",
+    "geom:latitude":37.59281,
+    "geom:longitude":23.15965,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Koliaki",
+    "gn:country_code":"GR",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259517,
+    "gn:latitude":37.59281,
+    "gn:longitude":23.15965,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Koli\u00e1ki",
+    "gn:population":168,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03bf\u03bb\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03b9\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bb\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Koliaki"
+    ],
+    "name:und_x_variant":[
+        "Koli\u00e1ki",
+        "Koli\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259517
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ea9c081c8235420eebe018ece466e365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327370045,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327370045,
+    "wof:lastmodified":1537624495,
+    "wof:name":"Koliaki",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":168,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15965,
+    37.59281,
+    23.15965,
+    37.59281
+],
+  "geometry": {"coordinates":[23.15965,37.59281],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243009723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68207,36.8377,22.68207,36.8377",
+    "geom:latitude":36.8377,
+    "geom:longitude":22.68207,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9250",
+    "gn:asciiname":"Agioi Taxiarches",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264075,
+    "gn:latitude":36.8377,
+    "gn:longitude":22.68207,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u00c1gioi Taxi\u00e1rches",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gioi Taxi\u00e1rches"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a4\u03b1\u03be\u03b9\u03ac\u03c1\u03c7\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Se\u00efdal\u00ed",
+        "\u00c1yioi Taxi\u00e1rkhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264075
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7f91b38933d6918ed19bc20a104a783a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243009723,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243009723,
+    "wof:lastmodified":1537624712,
+    "wof:name":"Agioi Taxiarches",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68207,
+    36.8377,
+    22.68207,
+    36.8377
+],
+  "geometry": {"coordinates":[22.68207,36.8377],"type":"Point"}
+}

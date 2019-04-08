@@ -1,0 +1,73 @@
+{
+  "id": 1276690735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57422,38.355,21.57422,38.355",
+    "geom:latitude":38.355,
+    "geom:longitude":21.57422,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Verilaiika",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252021,
+    "gn:latitude":38.355,
+    "gn:longitude":21.57422,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Verila\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Verila\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b5\u03c1\u03b9\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252021
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6f27e9d6ea7a0a95bced5c56fd4e67ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276690735,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276690735,
+    "wof:lastmodified":1537624165,
+    "wof:name":"Verilaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57422,
+    38.355,
+    21.57422,
+    38.355
+],
+  "geometry": {"coordinates":[21.57422,38.355],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226577581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68481,35.31992,23.68481,35.31992",
+    "geom:latitude":35.31992,
+    "geom:longitude":23.68481,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Chondros",
+    "gn:country_code":"GR",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259942,
+    "gn:latitude":35.31992,
+    "gn:longitude":23.68481,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Chondr\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chondr\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03bd\u03b4\u03c1\u03cc\u03c2",
+        "Kh\u00f3ndhron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259942
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a71c0a877786c5a3df7cbcf4e9e8eb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226577581,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226577581,
+    "wof:lastmodified":1537624515,
+    "wof:name":"Chondros",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68481,
+    35.31992,
+    23.68481,
+    35.31992
+],
+  "geometry": {"coordinates":[23.68481,35.31992],"type":"Point"}
+}

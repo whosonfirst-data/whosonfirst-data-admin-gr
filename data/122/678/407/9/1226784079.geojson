@@ -1,0 +1,80 @@
+{
+  "id": 1226784079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99138,36.19362,22.99138,36.19362",
+    "geom:latitude":36.19362,
+    "geom:longitude":22.99138,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Travasarianika",
+    "gn:country_code":"GR",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252692,
+    "gn:latitude":36.19362,
+    "gn:longitude":22.99138,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Travasari\u00e1nika",
+    "gn:population":65,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b1\u03b2\u03b1\u03c3\u03b1\u03c1\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Travasarianika"
+    ],
+    "name:und_x_variant":[
+        "Travasaryi\u00e1nnika",
+        "Travasari\u00e1nika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252692
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b782bd277d882a14f76bec4d77e1777e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226784079,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226784079,
+    "wof:lastmodified":1537624194,
+    "wof:name":"Travasarianika",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99138,
+    36.19362,
+    22.99138,
+    36.19362
+],
+  "geometry": {"coordinates":[22.99138,36.19362],"type":"Point"}
+}

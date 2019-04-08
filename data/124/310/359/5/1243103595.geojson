@@ -1,0 +1,78 @@
+{
+  "id": 1243103595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4715,38.14022,24.4715,38.14022",
+    "geom:latitude":38.14022,
+    "geom:longitude":24.4715,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Kalergo",
+    "gn:country_code":"GR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261529,
+    "gn:latitude":38.14022,
+    "gn:longitude":24.4715,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kal\u00e9rgo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03ad\u03c1\u03b3\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03ad\u03c1\u03b3\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00e9rgo",
+        "Kall\u00e9rgou",
+        "Kal\u00e9rgon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261529
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"30398f4dda879237107b5b741b1596b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243103595,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1243103595,
+    "wof:lastmodified":1537624597,
+    "wof:name":"Kalergo",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4715,
+    38.14022,
+    24.4715,
+    38.14022
+],
+  "geometry": {"coordinates":[24.4715,38.14022],"type":"Point"}
+}

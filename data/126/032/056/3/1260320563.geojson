@@ -1,0 +1,76 @@
+{
+  "id": 1260320563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46469,38.49458,23.46469,38.49458",
+    "geom:latitude":38.49458,
+    "geom:longitude":23.46469,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9155",
+    "gn:asciiname":"Anthidona",
+    "gn:country_code":"GR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10240118,
+    "gn:latitude":38.49458,
+    "gn:longitude":23.46469,
+    "gn:modification_date":"2015-04-29",
+    "gn:name":"Anthid\u00f3na",
+    "gn:population":129,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b8\u03b7\u03b4\u03ce\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Anthidona"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10240118
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"15dee848ba8a45366f74ee24525d2f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260320563,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1260320563,
+    "wof:lastmodified":1537625085,
+    "wof:name":"Anthidona",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46469,
+    38.49458,
+    23.46469,
+    38.49458
+],
+  "geometry": {"coordinates":[23.46469,38.49458],"type":"Point"}
+}

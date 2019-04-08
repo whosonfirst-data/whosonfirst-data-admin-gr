@@ -1,0 +1,76 @@
+{
+  "id": 1226379325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14942,39.3079,23.14942,39.3079",
+    "geom:latitude":39.3079,
+    "geom:longitude":23.14942,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Stavrodromi",
+    "gn:country_code":"GR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9958226,
+    "gn:latitude":39.3079,
+    "gn:longitude":23.14942,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"Stavrodr\u00f3mi",
+    "gn:population":14,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Stavrodromi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9958226
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f1fd3c144ab77066748375686b510790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226379325,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1226379325,
+    "wof:lastmodified":1537625077,
+    "wof:name":"Stavrodromi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14942000000001,
+    39.3079,
+    23.14942000000001,
+    39.3079
+],
+  "geometry": {"coordinates":[23.14942000000001,39.3079],"type":"Point"}
+}

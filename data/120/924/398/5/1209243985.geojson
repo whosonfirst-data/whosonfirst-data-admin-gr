@@ -1,0 +1,74 @@
+{
+  "id": 1209243985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86266,37.53923,21.86266,37.53923",
+    "geom:latitude":37.53923,
+    "geom:longitude":21.86266,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Alifeira",
+    "gn:country_code":"GR",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265340,
+    "gn:latitude":37.53923,
+    "gn:longitude":21.86266,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Al\u00edfeira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Al\u00edfeira"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03af\u03c6\u03b5\u03b9\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Rongoz\u00f3",
+        "Al\u00edfira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265340,
+        "wk:page":"Alifeira"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"75b02bfff68a8e3eef1dbf14c2ef08a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209243985
+        }
+    ],
+    "wof:id":1209243985,
+    "wof:lastmodified":1537624771,
+    "wof:name":"Alifeira",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86266,
+    37.53923,
+    21.86266,
+    37.53923
+],
+  "geometry": {"coordinates":[21.86266,37.53923],"type":"Point"}
+}

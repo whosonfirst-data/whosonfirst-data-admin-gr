@@ -1,0 +1,80 @@
+{
+  "id": 1326666517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08104,40.76478,23.08104,40.76478",
+    "geom:latitude":40.76478,
+    "geom:longitude":23.08104,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9034",
+    "gn:asciiname":"Chrysavgi",
+    "gn:country_code":"GR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735757,
+    "gn:latitude":40.76478,
+    "gn:longitude":23.08104,
+    "gn:modification_date":"2017-12-14",
+    "gn:name":"Chrysavg\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chrysavg\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c1\u03c5\u03c3\u03b1\u03c5\u03b3\u03ae"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sar\u00edyar",
+        "Khrisavy\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735757
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ff61943eb365461c68f8861b7d3381d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326666517,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1326666517,
+    "wof:lastmodified":1537624922,
+    "wof:name":"Chrysavgi",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08104,
+    40.76478,
+    23.08104,
+    40.76478
+],
+  "geometry": {"coordinates":[23.08104,40.76478],"type":"Point"}
+}

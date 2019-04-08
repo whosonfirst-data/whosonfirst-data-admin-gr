@@ -1,0 +1,89 @@
+{
+  "id": 101857637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.388103,40.833835,22.388103,40.833835",
+    "geom:latitude":40.833835,
+    "geom:longitude":22.388103,
+    "gn:population":1070,
+    "iso:country":"GR",
+    "lbl:latitude":40.833835,
+    "lbl:longitude":22.388103,
+    "mps:latitude":40.833835,
+    "mps:longitude":22.388103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03b5\u03bb\u03b5\u03af\u03b1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03b5\u03bb\u03b5\u03af\u03b5\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Krus\u00e1ri"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"PELLA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u039c\u03a0\u0395\u039b\u0395\u0399\u0391\u0399",
+    "qs:loc_alt":"AMPELEIAI",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736902,
+        "gp:id":945460,
+        "qs:id":553018
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"978cf4c7c80394bc3833f85842440f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857637,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857637,
+    "wof:lastmodified":1544743999,
+    "wof:name":"\u0391\u039c\u03a0\u0395\u039b\u0395\u0399\u0391\u0399",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1070,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.388103,
+    40.833835,
+    22.388103,
+    40.833835
+],
+  "geometry": {"coordinates":[22.388103,40.833835],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326661575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84975,36.16622,27.84975,36.16622",
+    "geom:latitude":36.16622,
+    "geom:longitude":27.84975,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Agios Isidoros",
+    "gn:country_code":"GR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263879,
+    "gn:latitude":36.16622,
+    "gn:longitude":27.84975,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u00c1gios Is\u00eddoros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Isidoro",
+        "\u00c1gios Is\u00eddoros",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c3\u03af\u03b4\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263879
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ac438cfcb92827be28580548290cb2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326661575,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1326661575,
+    "wof:lastmodified":1537624703,
+    "wof:name":"Agios Isidoros",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84975,
+    36.16622,
+    27.84975,
+    36.16622
+],
+  "geometry": {"coordinates":[27.84975,36.16622],"type":"Point"}
+}

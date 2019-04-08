@@ -1,0 +1,76 @@
+{
+  "id": 1226376337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29047,38.42734,21.29047,38.42734",
+    "geom:latitude":38.42734,
+    "geom:longitude":21.29047,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9127",
+    "gn:asciiname":"Platania",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227047,
+    "gn:latitude":38.42734,
+    "gn:longitude":21.29047,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Plat\u00e1nia",
+    "gn:population":162,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03ac\u03bd\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Platania"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227047
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a8824e01e30d85104b73a1dfe8bd362f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226376337,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226376337,
+    "wof:lastmodified":1537625084,
+    "wof:name":"Platania",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29047000000001,
+    38.42734,
+    21.29047000000001,
+    38.42734
+],
+  "geometry": {"coordinates":[21.29047000000001,38.42734],"type":"Point"}
+}

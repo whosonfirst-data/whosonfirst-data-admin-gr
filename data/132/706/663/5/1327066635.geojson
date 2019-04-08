@@ -1,0 +1,73 @@
+{
+  "id": 1327066635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74131,39.72525,22.74131,39.72525",
+    "geom:latitude":39.72525,
+    "geom:longitude":22.74131,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9097",
+    "gn:asciiname":"Metaxokhorion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257132,
+    "gn:latitude":39.72525,
+    "gn:longitude":22.74131,
+    "gn:modification_date":"2012-09-15",
+    "gn:name":"Metaxokh\u00f3rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e9tsani",
+        "Metaxokh\u00f3ri",
+        "Metaxokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257132
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"87ea78cc4dfa70a7fa48f372cb0e6de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327066635,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1327066635,
+    "wof:lastmodified":1537624389,
+    "wof:name":"Metaxokhorion",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74131,
+    39.72525,
+    22.74131,
+    39.72525
+],
+  "geometry": {"coordinates":[22.74131,39.72525],"type":"Point"}
+}

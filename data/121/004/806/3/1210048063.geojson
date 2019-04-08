@@ -1,0 +1,84 @@
+{
+  "id": 1210048063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6,39.21667,22.6,39.21667",
+    "geom:latitude":39.21667,
+    "geom:longitude":22.6,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Vrakhos",
+    "gn:country_code":"GR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":251674,
+    "gn:latitude":39.21667,
+    "gn:longitude":22.6,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Vr\u00e1khos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u03a7\u03b1\u03ca\u03b4\u03b1\u03c1\u03bb\u03af"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03ac\u03c7\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03ca\u03b4\u03b1\u03c1\u03bb\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Vrachos"
+    ],
+    "name:und_x_variant":[
+        "Kha\u00efdharl\u00edon",
+        "Ha\u00efdarl\u00ed",
+        "Vr\u00e1khos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251674
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7cb0d17626a7a29245c9f06f45ad5e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210048063,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1210048063,
+    "wof:lastmodified":1537624151,
+    "wof:name":"Vrakhos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6,
+    39.21667,
+    22.6,
+    39.21667
+],
+  "geometry": {"coordinates":[22.6,39.21667],"type":"Point"}
+}

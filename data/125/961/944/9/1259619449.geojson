@@ -1,0 +1,73 @@
+{
+  "id": 1259619449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2301,36.85276,27.2301,36.85276",
+    "geom:latitude":36.85276,
+    "geom:longitude":27.2301,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9284",
+    "gn:asciiname":"Agios Dimitrios",
+    "gn:country_code":"GR",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444306,
+    "gn:latitude":36.85276,
+    "gn:longitude":27.2301,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u00c1gios Dim\u00edtrios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Dim\u00edtrios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444306
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4066b733f7766e9b827a6f821f882ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259619449,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1259619449,
+    "wof:lastmodified":1537624792,
+    "wof:name":"Agios Dimitrios",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2301,
+    36.85276,
+    27.2301,
+    36.85276
+],
+  "geometry": {"coordinates":[27.2301,36.85276],"type":"Point"}
+}

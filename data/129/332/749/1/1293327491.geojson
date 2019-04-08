@@ -1,0 +1,73 @@
+{
+  "id": 1293327491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75425,38.40569,21.75425,38.40569",
+    "geom:latitude":38.40569,
+    "geom:longitude":21.75425,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Karanikaiika",
+    "gn:country_code":"GR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":261051,
+    "gn:latitude":38.40569,
+    "gn:longitude":21.75425,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Karanika\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Karanika\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b1\u03bd\u03b9\u03ba\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261051
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d1004ab8bc208a17af6801e89b68686f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293327491,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293327491,
+    "wof:lastmodified":1537624571,
+    "wof:name":"Karanikaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75425,
+    38.40569,
+    21.75425,
+    38.40569
+],
+  "geometry": {"coordinates":[21.75425,38.40569],"type":"Point"}
+}

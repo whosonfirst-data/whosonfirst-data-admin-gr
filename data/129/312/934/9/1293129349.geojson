@@ -1,0 +1,80 @@
+{
+  "id": 1293129349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68634,37.56567,22.68634,37.56567",
+    "geom:latitude":37.56567,
+    "geom:longitude":22.68634,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Skafidhaki",
+    "gn:country_code":"GR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253744,
+    "gn:latitude":37.56567,
+    "gn:longitude":22.68634,
+    "gn:modification_date":"2014-07-30",
+    "gn:name":"Skafidh\u00e1ki",
+    "gn:population":438,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b1\u03c6\u03b9\u03b4\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Skafidaki"
+    ],
+    "name:und_x_variant":[
+        "Skafidh\u00e1k\u00ed",
+        "Skafidh\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253744
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"56da5d4b7258e85ab7e36ab7f165de81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293129349,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293129349,
+    "wof:lastmodified":1537624234,
+    "wof:name":"Skafidhaki",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":438,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68634,
+    37.56567,
+    22.68634,
+    37.56567
+],
+  "geometry": {"coordinates":[22.68634,37.56567],"type":"Point"}
+}

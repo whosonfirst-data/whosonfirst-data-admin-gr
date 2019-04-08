@@ -1,0 +1,76 @@
+{
+  "id": 1292940587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25409,35.32188,25.25409,35.32188",
+    "geom:latitude":35.32188,
+    "geom:longitude":25.25409,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9309.0",
+    "gn:asciiname":"Vrachokipos",
+    "gn:country_code":"GR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10859322,
+    "gn:latitude":35.32188,
+    "gn:longitude":25.25409,
+    "gn:modification_date":"2015-10-26",
+    "gn:name":"Vrach\u00f3kipos",
+    "gn:population":325,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03b1\u03c7\u03cc\u03ba\u03b7\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vrachokipos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859322
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c69016a447d24356e767a4c0372c9052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292940587,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1292940587,
+    "wof:lastmodified":1537625093,
+    "wof:name":"Vrachokipos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25409,
+    35.32188,
+    25.25409,
+    35.32188
+],
+  "geometry": {"coordinates":[25.25409,35.32188],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1344193345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33811,39.34597,22.33811,39.34597",
+    "geom:latitude":39.34597,
+    "geom:longitude":22.33811,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9103",
+    "gn:asciiname":"Mikro Evydrio",
+    "gn:country_code":"GR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257028,
+    "gn:latitude":39.34597,
+    "gn:longitude":22.33811,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Mikr\u00f3 Ev\u00fddrio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mikr\u00f3 Ev\u00fddrio"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc \u0395\u03c5\u03cd\u03b4\u03c1\u03b9\u03bf",
+        "Mikr\u00f3n Ev\u00fddrion",
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03bd \u0395\u03c5\u03cd\u03b4\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ev\u00eddhrion",
+        "Mikr\u00f3n Ev\u00eddhrion",
+        "Mikr\u00f3n Gousgoun\u00e1r",
+        "Mikr\u00f3 Gusgun\u00e1ri",
+        "Mikr\u00f3n Gusgun\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257028
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5cd84c19e95c17596a36c97d0077ad7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344193345,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1344193345,
+    "wof:lastmodified":1537624383,
+    "wof:name":"Mikro Evydrio",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33811,
+    39.34597,
+    22.33811,
+    39.34597
+],
+  "geometry": {"coordinates":[22.33811,39.34597],"type":"Point"}
+}

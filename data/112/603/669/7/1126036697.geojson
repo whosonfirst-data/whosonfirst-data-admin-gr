@@ -1,0 +1,88 @@
+{
+  "id": 1126036697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.88333,39.5925,19.88333,39.5925",
+    "geom:latitude":39.5925,
+    "geom:longitude":19.88333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":348,
+    "gn:population":787,
+    "iso:country":"GR",
+    "lbl:latitude":39.5925,
+    "lbl:longitude":19.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c4\u03b1\u03bd\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c3\u03c4\u03b1\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kastania"
+    ],
+    "name:unk_x_variant":[
+        "Kastani\u00e1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2463699,
+    "qs_pg:gn_pop":348,
+    "qs_pg:name":"Kastan\u00e9a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":91470,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463699,
+        "qs_pg:id":91470
+    },
+    "wof:country":"GR",
+    "wof:created":1497301831,
+    "wof:geomhash":"b035cfc9faae88fb62fb35d8fc430fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126036697,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1126036697,
+    "wof:lastmodified":1509408264,
+    "wof:name":"Kastan\u00e9a",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":787,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.88333,
+    39.5925,
+    19.88333,
+    39.5925
+],
+  "geometry": {"coordinates":[19.88333,39.5925],"type":"Point"}
+}

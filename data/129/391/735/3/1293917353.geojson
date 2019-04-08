@@ -1,0 +1,76 @@
+{
+  "id": 1293917353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87835,35.10311,25.87835,35.10311",
+    "geom:latitude":35.10311,
+    "geom:longitude":25.87835,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Tsamantis",
+    "gn:country_code":"GR",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8609835,
+    "gn:latitude":35.10311,
+    "gn:longitude":25.87835,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Tsam\u00e1ntis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bc\u03ac\u03bd\u03c4\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Tsamantis"
+    ],
+    "name:und_x_variant":[
+        "Tsam\u00e1ntis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609835
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aec96d533e65bccf462f5c8124236f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293917353,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293917353,
+    "wof:lastmodified":1537625031,
+    "wof:name":"Tsamantis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87835,
+    35.10311,
+    25.87835,
+    35.10311
+],
+  "geometry": {"coordinates":[25.87835,35.10311],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193046959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98869,37.81399,23.98869,37.81399",
+    "geom:latitude":37.81399,
+    "geom:longitude":23.98869,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Mylos",
+    "gn:country_code":"GR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740254,
+    "gn:latitude":37.81399,
+    "gn:longitude":23.98869,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Mylos",
+    "gn:population":102,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03cd\u03bb\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740254
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ee027c4991d2cef53008cb6539210099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193046959,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1193046959,
+    "wof:lastmodified":1537625037,
+    "wof:name":"Mylos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98869,
+    37.81399,
+    23.98869,
+    37.81399
+],
+  "geometry": {"coordinates":[23.98869,37.81399],"type":"Point"}
+}

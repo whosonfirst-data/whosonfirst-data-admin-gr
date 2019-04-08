@@ -1,0 +1,76 @@
+{
+  "id": 1276151353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57529,38.68266,20.57529,38.68266",
+    "geom:latitude":38.68266,
+    "geom:longitude":20.57529,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Dhraganon",
+    "gn:country_code":"GR",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262966,
+    "gn:latitude":38.68266,
+    "gn:longitude":20.57529,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Dhr\u00e1ganon",
+    "gn:population":65,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03c1\u03ac\u03b3\u03b1\u03bd\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Dragano"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262966
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b59a3c8f4316e0de085c79cb9366632c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276151353,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1276151353,
+    "wof:lastmodified":1537624659,
+    "wof:name":"Dhraganon",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57529,
+    38.68266,
+    20.57529,
+    38.68266
+],
+  "geometry": {"coordinates":[20.57529,38.68266],"type":"Point"}
+}

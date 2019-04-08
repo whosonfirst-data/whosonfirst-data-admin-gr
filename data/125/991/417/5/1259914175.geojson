@@ -1,0 +1,76 @@
+{
+  "id": 1259914175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41673,40.54365,21.41673,40.54365",
+    "geom:latitude":40.54365,
+    "geom:longitude":21.41673,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9063",
+    "gn:asciiname":"Agia Paraskevi",
+    "gn:country_code":"GR",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10176767,
+    "gn:latitude":40.54365,
+    "gn:longitude":21.41673,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Ag\u00eda Paraskev\u00ed",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Paraskevi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10176767
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a3f2f4cacd0200c4fc77cb83009e40b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259914175,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1259914175,
+    "wof:lastmodified":1537625082,
+    "wof:name":"Agia Paraskevi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41673,
+    40.54365,
+    21.41673,
+    40.54365
+],
+  "geometry": {"coordinates":[21.41673,40.54365],"type":"Point"}
+}

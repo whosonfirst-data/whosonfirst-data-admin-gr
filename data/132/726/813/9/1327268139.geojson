@@ -1,0 +1,79 @@
+{
+  "id": 1327268139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13202,40.537,22.13202,40.537",
+    "geom:latitude":40.537,
+    "geom:longitude":22.13202,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"9024",
+    "gn:asciiname":"Koutsochori",
+    "gn:country_code":"GR",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735571,
+    "gn:latitude":40.537,
+    "gn:longitude":22.13202,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Koutsoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Koutsoch\u00f3ri",
+        "Kostokh\u00f3ri",
+        "Koutsokh\u00f3rion",
+        "Koutsoch\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735571
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b12bd9713a43612517350b231b182383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327268139,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1327268139,
+    "wof:lastmodified":1537624912,
+    "wof:name":"Koutsochori",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13202,
+    40.537,
+    22.13202,
+    40.537
+],
+  "geometry": {"coordinates":[22.13202,40.537],"type":"Point"}
+}

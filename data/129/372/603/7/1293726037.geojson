@@ -1,0 +1,74 @@
+{
+  "id": 1293726037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47021,36.73682,22.47021,36.73682",
+    "geom:latitude":36.73682,
+    "geom:longitude":22.47021,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Tzoumianika",
+    "gn:country_code":"GR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252368,
+    "gn:latitude":36.73682,
+    "gn:longitude":22.47021,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Tzoumi\u00e1nika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03c5\u03bc\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Vathi\u00e1 L\u00e1kka",
+        "Tzoumi\u00e1nika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252368
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"91fbcb07ccecbf94958343b3562cbf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293726037,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293726037,
+    "wof:lastmodified":1537624181,
+    "wof:name":"Tzoumianika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47021,
+    36.73682,
+    22.47021,
+    36.73682
+],
+  "geometry": {"coordinates":[22.47021,36.73682],"type":"Point"}
+}

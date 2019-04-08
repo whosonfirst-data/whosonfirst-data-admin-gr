@@ -1,0 +1,75 @@
+{
+  "id": 1360219053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4888,40.64074,23.4888,40.64074",
+    "geom:latitude":40.64074,
+    "geom:longitude":23.4888,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9027",
+    "gn:asciiname":"Apollonia",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736770,
+    "gn:latitude":40.64074,
+    "gn:longitude":23.4888,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Apollon\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03bf\u03bb\u03bb\u03c9\u03bd\u03af\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pazaro\u00fadha",
+        "Apollon\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736770,
+        "wk:page":"Apollonia_%28Mygdonia%29"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0538e66c05f6db5ca60ed605a44810be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360219053,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1360219053,
+    "wof:lastmodified":1537624973,
+    "wof:name":"Apollonia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4888,
+    40.64074,
+    23.4888,
+    40.64074
+],
+  "geometry": {"coordinates":[23.4888,40.64074],"type":"Point"}
+}

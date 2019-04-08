@@ -1,0 +1,89 @@
+{
+  "id": 101857679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.421683,40.974411,25.421683,40.974411",
+    "geom:latitude":40.974411,
+    "geom:longitude":25.421683,
+    "gn:population":1445,
+    "iso:country":"GR",
+    "lbl:latitude":40.974411,
+    "lbl:longitude":25.421683,
+    "mps:latitude":40.974411,
+    "mps:longitude":25.421683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039e\u03c5\u03bb\u03b1\u03b3\u03b1\u03bd\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "Xylagan\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Xilagan\u00ed"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
+    "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"RODOPH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039e\u03a5\u039b\u0391\u0393\u0391\u039d\u0397",
+    "qs:loc_alt":"JYLAGANH",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733831,
+        "gp:id":965174,
+        "qs:id":1028772
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0b8bfb16f7826e1900dbecfabfc1848e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857679,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":101857679,
+    "wof:lastmodified":1544744022,
+    "wof:name":"\u039e\u03a5\u039b\u0391\u0393\u0391\u039d\u0397",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":1445,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.421683,
+    40.974411,
+    25.421683,
+    40.974411
+],
+  "geometry": {"coordinates":[25.421683,40.974411],"type":"Point"}
+}

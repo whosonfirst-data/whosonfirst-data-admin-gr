@@ -1,0 +1,88 @@
+{
+  "id": 1292939929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86093,40.78493,23.86093,40.78493",
+    "geom:latitude":40.78493,
+    "geom:longitude":23.86093,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9049",
+    "gn:asciiname":"Iraklitsa",
+    "gn:country_code":"GR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":736105,
+    "gn:latitude":40.78493,
+    "gn:longitude":23.86093,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Irakl\u00edtsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_colloquial":[
+        "\u039b\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u0391\u03bc\u03c6\u03af\u03c0\u03bf\u03bb\u03b7\u03c2"
+    ],
+    "name:ell_x_historical":[
+        "\u03a4\u03c3\u03ac\u03b3\u03b5\u03b6\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03ac\u03b3\u03b5\u03b6\u03b9",
+        "\u039b\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u0391\u03bc\u03c6\u03af\u03c0\u03bf\u03bb\u03b7\u03c2",
+        "\u0397\u03c1\u03b1\u03ba\u03bb\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Irakleitsa"
+    ],
+    "name:und_x_variant":[
+        "Ts\u00e1yezi",
+        "Irakl\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736105
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d74e876841bdcc5f4c796806c4fd2815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292939929,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1292939929,
+    "wof:lastmodified":1537624940,
+    "wof:name":"Iraklitsa",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86093,
+    40.78493,
+    23.86093,
+    40.78493
+],
+  "geometry": {"coordinates":[23.86093,40.78493],"type":"Point"}
+}

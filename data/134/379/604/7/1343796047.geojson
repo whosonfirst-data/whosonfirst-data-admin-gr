@@ -1,0 +1,73 @@
+{
+  "id": 1343796047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48407,40.53414,21.48407,40.53414",
+    "geom:latitude":40.53414,
+    "geom:longitude":21.48407,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9063",
+    "gn:asciiname":"Moni Panagias",
+    "gn:country_code":"GR",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10176784,
+    "gn:latitude":40.53414,
+    "gn:longitude":21.48407,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Mon\u00ed Panag\u00edas",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10176784
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"faf4ffd25cffd21af10bff1c4abb2130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343796047,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343796047,
+    "wof:lastmodified":1537551202,
+    "wof:name":"Moni Panagias",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48407000000001,
+    40.53414,
+    21.48407000000001,
+    40.53414
+],
+  "geometry": {"coordinates":[21.48407000000001,40.53414],"type":"Point"}
+}

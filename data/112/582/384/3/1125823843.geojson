@@ -1,0 +1,110 @@
+{
+  "id": 1125823843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25028,40.5875,22.25028,40.5875",
+    "geom:latitude":40.5875,
+    "geom:longitude":22.25028,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":813,
+    "gn:population":813,
+    "iso:country":"GR",
+    "lbl:latitude":40.5875,
+    "lbl:longitude":22.25028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0430\u0439\u043d\u0430\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Nea Nikomedeia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u039d\u03b9\u03ba\u03bf\u03bc\u03ae\u03b4\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Nikomedeia"
+    ],
+    "name:ger_x_preferred":[
+        "Nea Nikomedeia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03ad\u03b1 \u039d\u03b9\u03ba\u03bf\u03bc\u03ae\u03b4\u03b5\u03b9\u03b1 \u0397\u03bc\u03b1\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:lat_x_preferred":[
+        "Nova Nicomedia"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0438\u043d\u0438\u0448\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Nea Nikomidia"
+    ],
+    "name:tur_x_preferred":[
+        "Nea Nikomedeia"
+    ],
+    "name:unk_x_variant":[
+        "Brani\u00e1tes"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734998,
+    "qs_pg:gn_pop":813,
+    "qs_pg:name":"N\u00e9a Nikom\u00eddeia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83311,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734998,
+        "qs_pg:id":83311,
+        "wd:id":"Q6983941"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292186,
+    "wof:geomhash":"17bde8318b56476f254b18e3774b164a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125823843,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125823843,
+    "wof:lastmodified":1514444021,
+    "wof:name":"N\u00e9a Nikom\u00eddeia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":813,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25028,
+    40.5875,
+    22.25028,
+    40.5875
+],
+  "geometry": {"coordinates":[22.25028,40.5875],"type":"Point"}
+}

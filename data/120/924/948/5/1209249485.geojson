@@ -1,0 +1,70 @@
+{
+  "id": 1209249485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.546,37.87742,21.546,37.87742",
+    "geom:latitude":37.87742,
+    "geom:longitude":21.546,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Latas",
+    "gn:country_code":"GR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258562,
+    "gn:latitude":37.87742,
+    "gn:longitude":21.546,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"L\u00e1tas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c4\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1ta",
+        "L\u00e1tas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258562
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c5133d336b37324cfd3707a3b161fbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209249485
+        }
+    ],
+    "wof:id":1209249485,
+    "wof:lastmodified":1537624455,
+    "wof:name":"Latas",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.546,
+    37.87742,
+    21.546,
+    37.87742
+],
+  "geometry": {"coordinates":[21.546,37.87742],"type":"Point"}
+}

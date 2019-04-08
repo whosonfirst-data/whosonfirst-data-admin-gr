@@ -1,0 +1,73 @@
+{
+  "id": 1293718589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91173,38.23435,23.91173,38.23435",
+    "geom:latitude":38.23435,
+    "geom:longitude":23.91173,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220",
+    "gn:asciiname":"Moni Metamorfoseos Sotiros",
+    "gn:country_code":"GR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036763,
+    "gn:latitude":38.23435,
+    "gn:longitude":23.91173,
+    "gn:modification_date":"2017-11-01",
+    "gn:name":"Mon\u00ed Metamorf\u00f3seos Sot\u00edros",
+    "gn:population":136,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u039c\u03b5\u03c4\u03b1\u03bc\u03bf\u03c1\u03c6\u03ce\u03c3\u03b5\u03c9\u03c2 \u03a3\u03c9\u03c4\u03ae\u03c1\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036763
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cfd0d759b12a23265e2f804643a97d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293718589,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293718589,
+    "wof:lastmodified":1537551160,
+    "wof:name":"Moni Metamorfoseos Sotiros",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91173,
+    38.23435,
+    23.91173,
+    38.23435
+],
+  "geometry": {"coordinates":[23.91173,38.23435],"type":"Point"}
+}

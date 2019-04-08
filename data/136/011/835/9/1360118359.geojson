@@ -1,0 +1,71 @@
+{
+  "id": 1360118359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15602,37.56513,25.15602,37.56513",
+    "geom:latitude":37.56513,
+    "geom:longitude":25.15602,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9301",
+    "gn:asciiname":"Ktikados",
+    "gn:country_code":"GR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258738,
+    "gn:latitude":37.56513,
+    "gn:longitude":25.15602,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Ktik\u00e1dos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ktik\u00e1dos",
+        "\u039a\u03c4\u03b9\u03ba\u03ac\u03b4\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258738
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9dac378b0b69f99b2e18baacfe8cc3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360118359,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1360118359,
+    "wof:lastmodified":1537624463,
+    "wof:name":"Ktikados",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15602,
+    37.56513,
+    25.15602,
+    37.56513
+],
+  "geometry": {"coordinates":[25.15602,37.56513],"type":"Point"}
+}

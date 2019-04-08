@@ -1,0 +1,80 @@
+{
+  "id": 1293423625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1818,40.16446,21.1818,40.16446",
+    "geom:latitude":40.16446,
+    "geom:longitude":21.1818,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Dasyllio",
+    "gn:country_code":"GR",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736471,
+    "gn:latitude":40.16446,
+    "gn:longitude":21.1818,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Das\u00fdllio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Das\u00fdllio"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b1\u03c3\u03cd\u03bb\u03bb\u03b9\u03bf",
+        "Das\u00fdllion",
+        "\u0394\u03b1\u03c3\u03cd\u03bb\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "M\u00e1yer",
+        "Dhas\u00edllion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736471,
+        "wk:page":"Dasyllio"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4d56c71e1068e68f027d0b19d1c4bdd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293423625,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293423625,
+    "wof:lastmodified":1537624960,
+    "wof:name":"Dasyllio",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1818,
+    40.16446,
+    21.1818,
+    40.16446
+],
+  "geometry": {"coordinates":[21.1818,40.16446],"type":"Point"}
+}

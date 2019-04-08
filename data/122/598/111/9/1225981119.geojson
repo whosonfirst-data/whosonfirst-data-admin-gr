@@ -1,0 +1,73 @@
+{
+  "id": 1225981119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30821,40.30909,21.30821,40.30909",
+    "geom:latitude":40.30909,
+    "geom:longitude":21.30821,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Lefkothea",
+    "gn:country_code":"GR",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073014,
+    "gn:latitude":40.30909,
+    "gn:longitude":21.30821,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lefkoth\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lefkoth\u00e9a"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c5\u03ba\u03bf\u03b8\u03ad\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073014
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"987ea721f735c1b95717462c63326458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225981119,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1225981119,
+    "wof:lastmodified":1537625045,
+    "wof:name":"Lefkothea",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30821,
+    40.30909000000001,
+    21.30821,
+    40.30909000000001
+],
+  "geometry": {"coordinates":[21.30821,40.30909000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360120461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42979,36.37327,25.42979,36.37327",
+    "geom:latitude":36.37327,
+    "geom:longitude":25.42979,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9270",
+    "gn:asciiname":"Thermi",
+    "gn:country_code":"GR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134227,
+    "gn:latitude":36.37327,
+    "gn:longitude":25.42979,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Th\u00e9rmi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00e9rmi",
+        "\u0398\u03ad\u03c1\u03bc\u03b7",
+        "Thermi\u00e1",
+        "\u0398\u03b5\u03c1\u03bc\u03b7\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134227
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ed375ae5b10beda819ef83052856f14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360120461,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1360120461,
+    "wof:lastmodified":1537625001,
+    "wof:name":"Thermi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42979,
+    36.37327,
+    25.42979,
+    36.37327
+],
+  "geometry": {"coordinates":[25.42979,36.37327],"type":"Point"}
+}

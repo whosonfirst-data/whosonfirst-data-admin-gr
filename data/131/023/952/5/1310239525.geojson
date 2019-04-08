@@ -1,0 +1,75 @@
+{
+  "id": 1310239525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88925,39.31119,20.88925,39.31119",
+    "geom:latitude":39.31119,
+    "geom:longitude":20.88925,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9088",
+    "gn:asciiname":"Drymonas",
+    "gn:country_code":"GR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445319,
+    "gn:latitude":39.31119,
+    "gn:longitude":20.88925,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Drym\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Drym\u00f3nas"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03c5\u03bc\u03ce\u03bd\u03b1\u03c2",
+        "Drym\u00f3n",
+        "\u0394\u03c1\u03c5\u03bc\u03ce\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445319
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6f0a7e9d8ea73e128dfac5905adbb23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310239525,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1310239525,
+    "wof:lastmodified":1537624803,
+    "wof:name":"Drymonas",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88925,
+    39.31119,
+    20.88925,
+    39.31119
+],
+  "geometry": {"coordinates":[20.88925,39.31119],"type":"Point"}
+}

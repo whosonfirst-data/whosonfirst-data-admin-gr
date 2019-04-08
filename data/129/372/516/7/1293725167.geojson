@@ -1,0 +1,82 @@
+{
+  "id": 1293725167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29475,40.37989,21.29475,40.37989",
+    "geom:latitude":40.37989,
+    "geom:longitude":21.29475,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9065",
+    "gn:asciiname":"Velos",
+    "gn:country_code":"GR",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736026,
+    "gn:latitude":40.37989,
+    "gn:longitude":21.29475,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"V\u00e9los",
+    "gn:population":77,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Velos"
+    ],
+    "name:und_x_variant":[
+        "Res\u00faliani",
+        "Kalon\u00e9ri",
+        "Kalon\u00e9rion",
+        "V\u00e9los"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736026
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9c8f348b182eaa24dba33e3e9e790891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293725167,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293725167,
+    "wof:lastmodified":1537624935,
+    "wof:name":"Velos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29475,
+    40.37989,
+    21.29475,
+    40.37989
+],
+  "geometry": {"coordinates":[21.29475,40.37989],"type":"Point"}
+}

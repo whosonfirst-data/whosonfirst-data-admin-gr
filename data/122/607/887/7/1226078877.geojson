@@ -1,0 +1,88 @@
+{
+  "id": 1226078877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32001,37.48412,25.32001,37.48412",
+    "geom:latitude":37.48412,
+    "geom:longitude":25.32001,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9290.0",
+    "gn:asciiname":"Faros Armenistis",
+    "gn:country_code":"GR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10627129,
+    "gn:latitude":37.48412,
+    "gn:longitude":25.32001,
+    "gn:modification_date":"2015-08-14",
+    "gn:name":"F\u00e1ros Armenist\u00eds",
+    "gn:population":109,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u03a6\u03b1\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03ac\u03c1\u03bf\u03c2 \u0391\u03c1\u03bc\u03b5\u03bd\u03b9\u03c3\u03c4\u03ae\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b1\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_colloquial":[
+        "Fanari"
+    ],
+    "name:eng_x_preferred":[
+        "Faros Armenistis"
+    ],
+    "name:eng_x_variant":[
+        "Fanari"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10627129
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6ea2b5a70ab6ba509f3d9a0f0ffe7030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226078877,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226078877,
+    "wof:lastmodified":1537625087,
+    "wof:name":"Faros Armenistis",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32001,
+    37.48412,
+    25.32001,
+    37.48412
+],
+  "geometry": {"coordinates":[25.32001,37.48412],"type":"Point"}
+}

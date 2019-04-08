@@ -1,0 +1,145 @@
+{
+  "id": 101849473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.268839,37.906872,21.268839,37.906872",
+    "geom:latitude":37.906872,
+    "geom:longitude":21.268839,
+    "gn:population":3626,
+    "iso:country":"GR",
+    "lbl:latitude":37.906872,
+    "lbl:longitude":21.268839,
+    "mps:latitude":37.906872,
+    "mps:longitude":21.268839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062f\u0631\u0627\u0641\u064a\u062f\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Andravida"
+    ],
+    "name:dut_x_preferred":[
+        "Andravida"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b4\u03c1\u03b1\u03b2\u03af\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Andravida"
+    ],
+    "name:fin_x_preferred":[
+        "Andrav\u00edda"
+    ],
+    "name:fra_x_preferred":[
+        "Andravida"
+    ],
+    "name:fre_x_preferred":[
+        "Andravida"
+    ],
+    "name:ger_x_preferred":[
+        "Andravida"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03b4\u03c1\u03b1\u03b2\u03af\u03b4\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Andravida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c9\u30e9\u30f4\u30a3\u30c0"
+    ],
+    "name:nld_x_preferred":[
+        "Andravida"
+    ],
+    "name:nno_x_preferred":[
+        "Andrav\u00edda"
+    ],
+    "name:ron_x_preferred":[
+        "Andravida"
+    ],
+    "name:rum_x_preferred":[
+        "Andravida"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0430\u0432\u0438\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Andravida"
+    ],
+    "name:swe_x_preferred":[
+        "Andravida"
+    ],
+    "name:unk_x_variant":[
+        "Andrvida"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"HLEIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u039d\u0394\u03a1\u0391\u0392\u0399\u0394\u0391",
+    "qs:loc_alt":"ANDRABIDA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":37.905833,
+    "wd:longitude":21.266667,
+    "wd:wordcount":722,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265056,
+        "gp:id":945702,
+        "qs:id":123881,
+        "wd:id":"Q493019",
+        "wk:page":"Andravida"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2d3ce5207cafb42b2f7d3c5858557909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849473,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849473,
+    "wof:lastmodified":1553815543,
+    "wof:name":"\u0391\u039d\u0394\u03a1\u0391\u0392\u0399\u0394\u0391",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":3626,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.268839,
+    37.906872,
+    21.268839,
+    37.906872
+],
+  "geometry": {"coordinates":[21.268839,37.906872],"type":"Point"}
+}

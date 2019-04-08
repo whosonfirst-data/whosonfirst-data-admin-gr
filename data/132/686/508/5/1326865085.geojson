@@ -1,0 +1,76 @@
+{
+  "id": 1326865085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79406,39.16261,22.79406,39.16261",
+    "geom:latitude":39.16261,
+    "geom:longitude":22.79406,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Neos Platanos",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256476,
+    "gn:latitude":39.16261,
+    "gn:longitude":22.79406,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"N\u00e9os Pl\u00e1tanos",
+    "gn:population":672,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf\u03c2 \u03a0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Neos Platanos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256476
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"768be1037a3aae82b3997c3824e1df9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326865085,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326865085,
+    "wof:lastmodified":1537624355,
+    "wof:name":"Neos Platanos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":672,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79406,
+    39.16261,
+    22.79406,
+    39.16261
+],
+  "geometry": {"coordinates":[22.79406,39.16261],"type":"Point"}
+}

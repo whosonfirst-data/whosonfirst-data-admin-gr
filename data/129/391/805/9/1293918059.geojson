@@ -1,0 +1,74 @@
+{
+  "id": 1293918059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22121,35.82244,27.22121,35.82244",
+    "geom:latitude":35.82244,
+    "geom:longitude":27.22121,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9280",
+    "gn:asciiname":"Tristomo",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252866,
+    "gn:latitude":35.82244,
+    "gn:longitude":27.22121,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tr\u00edstomo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tr\u00edstomo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03af\u03c3\u03c4\u03bf\u03bc\u03bf"
+    ],
+    "name:und_x_variant":[
+        "T\u00edlai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252866
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5d4be39204ddb3f5b953acb16c513aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1293918059,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293918059,
+    "wof:lastmodified":1537624197,
+    "wof:name":"Tristomo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22121,
+    35.82244,
+    27.22121,
+    35.82244
+],
+  "geometry": {"coordinates":[27.22121,35.82244],"type":"Point"}
+}

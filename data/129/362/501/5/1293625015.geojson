@@ -1,0 +1,79 @@
+{
+  "id": 1293625015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43728,38.9765,21.43728,38.9765",
+    "geom:latitude":38.9765,
+    "geom:longitude":21.43728,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Ampeli",
+    "gn:country_code":"GR",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265218,
+    "gn:latitude":38.9765,
+    "gn:longitude":21.43728,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Amp\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Amp\u00e9li"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03ad\u03bb\u03b9",
+        "Amp\u00e9lion",
+        "\u0391\u03bc\u03c0\u03ad\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Amb\u00e9li",
+        "Amb\u00e9lion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265218
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a98d3ed6dc09d2b28d1e26359c395db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625015,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293625015,
+    "wof:lastmodified":1537624767,
+    "wof:name":"Ampeli",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43728,
+    38.9765,
+    21.43728,
+    38.9765
+],
+  "geometry": {"coordinates":[21.43728,38.9765],"type":"Point"}
+}

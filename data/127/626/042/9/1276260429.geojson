@@ -1,0 +1,73 @@
+{
+  "id": 1276260429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81041,40.21733,21.81041,40.21733",
+    "geom:latitude":40.21733,
+    "geom:longitude":21.81041,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Milia",
+    "gn:country_code":"GR",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073145,
+    "gn:latitude":40.21733,
+    "gn:longitude":21.81041,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mili\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mili\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b7\u03bb\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073145
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1cc531ec12c53d03bbe36ac65a424ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276260429,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1276260429,
+    "wof:lastmodified":1537625045,
+    "wof:name":"Milia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81041,
+    40.21733,
+    21.81041,
+    40.21733
+],
+  "geometry": {"coordinates":[21.81041,40.21733],"type":"Point"}
+}

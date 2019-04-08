@@ -1,0 +1,73 @@
+{
+  "id": 1276365579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24425,39.08369,21.24425,39.08369",
+    "geom:latitude":39.08369,
+    "geom:longitude":21.24425,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Voloxa",
+    "gn:country_code":"GR",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":251829,
+    "gn:latitude":39.08369,
+    "gn:longitude":21.24425,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Vol\u00f3xa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Vol\u00f3xa"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03bb\u03cc\u03be\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251829
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"19002e3e098989dd94482ac14149de94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276365579,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276365579,
+    "wof:lastmodified":1537624157,
+    "wof:name":"Voloxa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24425,
+    39.08369,
+    21.24425,
+    39.08369
+],
+  "geometry": {"coordinates":[21.24425,39.08369],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1125909735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09222,39.415,21.09222,39.415",
+    "geom:latitude":39.415,
+    "geom:longitude":21.09222,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":162,
+    "gn:population":162,
+    "iso:country":"GR",
+    "lbl:latitude":39.415,
+    "lbl:longitude":21.09222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c0\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:unk_x_variant":[
+        "Liepian\u00e1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258495,
+    "qs_pg:gn_pop":162,
+    "qs_pg:name":"Lepiana",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1284504,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":955187,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258495,
+        "gp:id":955187,
+        "qs_pg:id":1284504
+    },
+    "wof:country":"GR",
+    "wof:created":1497296102,
+    "wof:geomhash":"3b27a75817b635c0d817a7f22ede4950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125909735,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125909735,
+    "wof:lastmodified":1509400047,
+    "wof:name":"Lepiana",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09222,
+    39.415,
+    21.09222,
+    39.415
+],
+  "geometry": {"coordinates":[21.09222,39.415],"type":"Point"}
+}

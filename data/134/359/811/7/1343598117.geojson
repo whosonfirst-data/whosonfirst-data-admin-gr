@@ -1,0 +1,77 @@
+{
+  "id": 1343598117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.258,38.82719,23.258,38.82719",
+    "geom:latitude":38.82719,
+    "geom:longitude":23.258,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9153",
+    "gn:asciiname":"Agiannakos",
+    "gn:country_code":"GR",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264206,
+    "gn:latitude":38.82719,
+    "gn:longitude":23.258,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Agiann\u00e1kos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Agiann\u00e1kos"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ayinn\u00e1kos",
+        "Ayiann\u00e1kos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264206
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ee71aea86a0a0217798facc287923165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343598117,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343598117,
+    "wof:lastmodified":1537624718,
+    "wof:name":"Agiannakos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25800000000001,
+    38.82719,
+    23.25800000000001,
+    38.82719
+],
+  "geometry": {"coordinates":[23.25800000000001,38.82719],"type":"Point"}
+}

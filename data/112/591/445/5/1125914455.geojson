@@ -1,0 +1,90 @@
+{
+  "id": 1125914455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.898733,36.831637,25.898733,36.831637",
+    "geom:latitude":36.831637,
+    "geom:longitude":25.898733,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":36.831637,
+    "lbl:longitude":25.898733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Amorgos"
+    ],
+    "name:fin_x_preferred":[
+        "Amorg\u00f3s"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03ce\u03c1\u03b1 \u0391\u03bc\u03bf\u03c1\u03b3\u03bf\u03cd"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Amorgos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":648,
+    "qs_pg:photos_1k":131,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":648,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":483819,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56071006,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56071006,
+        "qs_pg:id":483819,
+        "wd:id":"Q15637263"
+    },
+    "wof:country":"GR",
+    "wof:created":1497296266,
+    "wof:geomhash":"ecc4ce3ac6b1a0dfd50b74bca417b846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125914455,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125914455,
+    "wof:lastmodified":1553816625,
+    "wof:name":"Amorgos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.898733,
+    36.831637,
+    25.898733,
+    36.831637
+],
+  "geometry": {"coordinates":[25.898733,36.831637],"type":"Point"}
+}

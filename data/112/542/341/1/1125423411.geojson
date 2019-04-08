@@ -1,0 +1,79 @@
+{
+  "id": 1125423411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73046,38.75495,22.73046,38.75495",
+    "geom:latitude":38.75495,
+    "geom:longitude":22.73046,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":13932,
+    "gn:population":13932,
+    "iso:country":"GR",
+    "lbl:latitude":38.75495,
+    "lbl:longitude":22.73046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039c\u03ce\u03bb\u03bf\u03c5 - \u0391\u03b3. \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133746,
+    "qs_pg:gn_pop":13932,
+    "qs_pg:name":"Dimos Molos-Agios Konstantinos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109646,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133746,
+        "qs_pg:id":109646
+    },
+    "wof:country":"GR",
+    "wof:created":1497052686,
+    "wof:geomhash":"c7b7979fcc3745155dc5ddfde9ca3e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125423411,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125423411,
+    "wof:lastmodified":1509390540,
+    "wof:name":"Dimos Molos-Agios Konstantinos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"localadmin",
+    "wof:population":13932,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73046,
+    38.75495,
+    22.73046,
+    38.75495
+],
+  "geometry": {"coordinates":[22.73046,38.75495],"type":"Point"}
+}

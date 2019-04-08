@@ -1,0 +1,129 @@
+{
+  "id": 1125294339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82972,41.03306,23.82972,41.03306",
+    "geom:latitude":41.03306,
+    "geom:longitude":23.82972,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":2400,
+    "gn:population":2530,
+    "iso:country":"GR",
+    "lbl:latitude":41.03306,
+    "lbl:longitude":23.82972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0430 \u0417\u0438\u0445\u043d\u0438"
+    ],
+    "name:ell_x_historical":[
+        "\u0396\u03af\u03c7\u03bd\u03b5",
+        "\u0396\u03af\u03c7\u03bd\u03b7",
+        "\u0396\u03ae\u03bb\u03b5\u03b9\u03b1",
+        "\u0396\u03b9\u03bb\u03b9\u03ac\u03c7\u03bf\u03b2\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u0396\u03af\u03c7\u03bd\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03af\u03c7\u03bd\u03b5",
+        "\u0396\u03af\u03c7\u03bd\u03b7",
+        "\u0396\u03ae\u03bb\u03b5\u03b9\u03b1",
+        "\u0396\u03b9\u03bb\u03b9\u03ac\u03c7\u03bf\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Zichni"
+    ],
+    "name:grc_x_preferred":[
+        "\u038a\u03c7\u03bd\u03b1"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u0458\u0430 \u0417\u0438\u0445\u043d\u0438"
+    ],
+    "name:rus_x_historical":[
+        "\u0417\u0438\u043b\u0438\u044f",
+        "\u0417\u0438\u043b\u044f\u0445\u043e\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0430 \u0417\u0438\u0445\u043d\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0438\u043b\u0438\u044f",
+        "\u0417\u0438\u043b\u044f\u0445\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Zili\u00e1hova"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":734977,
+    "qs_pg:gn_pop":2400,
+    "qs_pg:name":"Nea Zichni",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":129051,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56558208,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734977,
+        "gp:id":56558208,
+        "qs_pg:id":129051
+    },
+    "wof:country":"GR",
+    "wof:created":1497043068,
+    "wof:geomhash":"55d221c97f8ac0bbb332abf82e2a5fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125294339,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125294339,
+    "wof:lastmodified":1509387591,
+    "wof:name":"Nea Zichni",
+    "wof:parent_id":85684637,
+    "wof:placetype":"localadmin",
+    "wof:population":2530,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82972,
+    41.03306,
+    23.82972,
+    41.03306
+],
+  "geometry": {"coordinates":[23.82972,41.03306],"type":"Point"}
+}

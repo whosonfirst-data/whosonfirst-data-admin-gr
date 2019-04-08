@@ -1,0 +1,77 @@
+{
+  "id": 1193171359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78373,38.00624,23.78373,38.00624",
+    "geom:latitude":38.00624,
+    "geom:longitude":23.78373,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445408.0",
+    "gn:admin3_code":"9177",
+    "gn:asciiname":"Neo Psychiko",
+    "gn:country_code":"GR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8657513,
+    "gn:latitude":38.00624,
+    "gn:longitude":23.78373,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"N\u00e9o Psychik\u00f3",
+    "gn:population":10137,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Neo Psychiko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8657513,
+        "wk:page":"Neo_Psychiko"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aa55fbc540b8d24688bfe587481823b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193171359,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1193171359,
+    "wof:lastmodified":1537625034,
+    "wof:name":"Neo Psychiko",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":10137,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78373,
+    38.00624000000001,
+    23.78373,
+    38.00624000000001
+],
+  "geometry": {"coordinates":[23.78373,38.00624000000001],"type":"Point"}
+}

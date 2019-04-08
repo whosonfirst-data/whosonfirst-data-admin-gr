@@ -1,0 +1,81 @@
+{
+  "id": 1343888933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.77202,35.02496,25.77202,35.02496",
+    "geom:latitude":35.02496,
+    "geom:longitude":25.77202,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Vainia",
+    "gn:country_code":"GR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252357,
+    "gn:latitude":35.02496,
+    "gn:longitude":25.77202,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Va\u00efni\u00e1",
+    "gn:population":609,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03ca\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Vainia"
+    ],
+    "name:und_x_variant":[
+        "Yian\u00edtsi",
+        "Yiann\u00edtsi",
+        "Va\u00efni\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252357
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b683116a12c5cf18082fd2130b01535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343888933,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343888933,
+    "wof:lastmodified":1537624180,
+    "wof:name":"Vainia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":609,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77202,
+    35.02496,
+    25.77202,
+    35.02496
+],
+  "geometry": {"coordinates":[25.77202,35.02496],"type":"Point"}
+}

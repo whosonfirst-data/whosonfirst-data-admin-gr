@@ -1,0 +1,72 @@
+{
+  "id": 1360220945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56667,39.61667,22.56667,39.61667",
+    "geom:latitude":39.61667,
+    "geom:longitude":22.56667,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9099",
+    "gn:asciiname":"Glavki",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262044,
+    "gn:latitude":39.61667,
+    "gn:longitude":22.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gl\u00e1vki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarjil\u00e1r",
+        "Gl\u00e1vki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262044
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d8dd83e151c0e939715e882806ef1ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360220945,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1360220945,
+    "wof:lastmodified":1537624617,
+    "wof:name":"Glavki",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56667,
+    39.61667,
+    22.56667,
+    39.61667
+],
+  "geometry": {"coordinates":[22.56667,39.61667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343692209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11373,38.8669,23.11373,38.8669",
+    "geom:latitude":38.8669,
+    "geom:longitude":23.11373,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Moni Agiou Georgiou",
+    "gn:country_code":"GR",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10227032,
+    "gn:latitude":38.8669,
+    "gn:longitude":23.11373,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Mon\u00ed Ag\u00edou Georg\u00edou",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039c\u03bf\u03bd\u03ae \u0397\u03bb\u03af\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u0391\u03b3\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bd\u03ae \u0397\u03bb\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Moni Agiou Georgiou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227032
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"153b55e3d671d11102ad035bd77dbc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343692209,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343692209,
+    "wof:lastmodified":1537625083,
+    "wof:name":"Moni Agiou Georgiou",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11373,
+    38.8669,
+    23.11373,
+    38.8669
+],
+  "geometry": {"coordinates":[23.11373,38.8669],"type":"Point"}
+}

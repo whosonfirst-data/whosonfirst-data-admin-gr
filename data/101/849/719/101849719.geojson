@@ -1,0 +1,127 @@
+{
+  "id": 101849719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.304182,39.368485,20.304182,39.368485",
+    "geom:latitude":39.368485,
+    "geom:longitude":20.304182,
+    "gn:population":1476,
+    "iso:country":"GR",
+    "lbl:latitude":39.368485,
+    "lbl:longitude":20.304182,
+    "mps:latitude":39.368485,
+    "mps:longitude":20.304182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Arpica"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u062f\u064a\u0643\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Perdika"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03b4\u03b9\u03ba\u03b1 \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c1\u03b4\u03b9\u03ba\u03b1",
+        "P\u00e9rdika"
+    ],
+    "name:eng_x_preferred":[
+        "Perdika"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03b4\u03b9\u03ba\u03b1 \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Perdika"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30eb\u30c7\u30a3\u30ab"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e9rdika"
+    ],
+    "name:sqi_x_preferred":[
+        "Arpica"
+    ],
+    "name:swe_x_preferred":[
+        "Perdika"
+    ],
+    "name:unk_x_variant":[
+        "Arp\u00edtsa"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0397\u03a0\u0395\u0399\u03a1\u039f\u03a3",
+    "qs:a1_alt":"HPEIROS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"UESPRVTIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0395\u03a1\u0394\u0399\u039a\u0391",
+    "qs:loc_alt":"PERDIKA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.366667,
+    "wd:longitude":20.3,
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255562,
+        "gp:id":959570,
+        "qs:id":208184,
+        "qs_pg:id":208184,
+        "wd:id":"Q2354415",
+        "wk:page":"Perdika"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3aa5e4a51d33c7d3953aa24a2b169365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849719,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":101849719,
+    "wof:lastmodified":1544741082,
+    "wof:name":"\u03a0\u0395\u03a1\u0394\u0399\u039a\u0391",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":1476,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.304182,
+    39.368485,
+    20.304182,
+    39.368485
+],
+  "geometry": {"coordinates":[20.304182,39.368485],"type":"Point"}
+}

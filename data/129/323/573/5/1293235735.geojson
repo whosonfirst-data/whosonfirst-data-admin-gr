@@ -1,0 +1,86 @@
+{
+  "id": 1293235735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48808,40.99525,23.48808,40.99525",
+    "geom:latitude":40.99525,
+    "geom:longitude":23.48808,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9054",
+    "gn:asciiname":"Vamvakoussa",
+    "gn:country_code":"GR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733954,
+    "gn:latitude":40.99525,
+    "gn:longitude":23.48808,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Vamvako\u00fassa",
+    "gn:population":243,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043c\u0432\u0430\u043a\u0443\u0441\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u0443\u0434\u0435\u043b\u0438\u0300",
+        "\u0413\u0443\u0300\u0434\u044c\u043e\u0432\u0430 \u043c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:ell_x_historical":[
+        "\u0393\u03ba\u03bf\u03cd\u03bd\u03c4\u03b5\u03bb\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03bf\u03cd\u03c3\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03bf\u03cd\u03bd\u03c4\u03b5\u03bb\u03b7"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733954
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2cd7a0111371d4c1c2812a66fc8c4fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293235735,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293235735,
+    "wof:lastmodified":1537624816,
+    "wof:name":"Vamvakoussa",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48808,
+    40.99525,
+    23.48808,
+    40.99525
+],
+  "geometry": {"coordinates":[23.48808,40.99525],"type":"Point"}
+}

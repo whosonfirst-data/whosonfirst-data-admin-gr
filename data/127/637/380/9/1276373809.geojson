@@ -1,0 +1,76 @@
+{
+  "id": 1276373809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7878,36.88001,21.7878,36.88001",
+    "geom:latitude":36.88001,
+    "geom:longitude":21.7878,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Kallithea",
+    "gn:country_code":"GR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261420,
+    "gn:latitude":36.88001,
+    "gn:longitude":21.7878,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Kallith\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pil\u00edas",
+        "Kallith\u00e9a Pil\u00edas",
+        "Memer\u00edzi",
+        "Kallith\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261420
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"417cd9b99e0e21c6fc645ec7208dfdf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373809,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276373809,
+    "wof:lastmodified":1537624589,
+    "wof:name":"Kallithea",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7878,
+    36.88001,
+    21.7878,
+    36.88001
+],
+  "geometry": {"coordinates":[21.7878,36.88001],"type":"Point"}
+}

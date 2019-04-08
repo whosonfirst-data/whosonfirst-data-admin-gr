@@ -1,0 +1,76 @@
+{
+  "id": 1343894641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99961,39.28056,20.99961,39.28056",
+    "geom:latitude":39.28056,
+    "geom:longitude":20.99961,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9073",
+    "gn:asciiname":"Potistika",
+    "gn:country_code":"GR",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":254799,
+    "gn:latitude":39.28056,
+    "gn:longitude":20.99961,
+    "gn:modification_date":"2015-10-25",
+    "gn:name":"Potistik\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Potistika"
+    ],
+    "name:und_x_variant":[
+        "Potistik\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254799
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"60afc48af026665b9178c116eec1e903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343894641,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1343894641,
+    "wof:lastmodified":1537624279,
+    "wof:name":"Potistika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99961,
+    39.28056,
+    20.99961,
+    39.28056
+],
+  "geometry": {"coordinates":[20.99961,39.28056],"type":"Point"}
+}

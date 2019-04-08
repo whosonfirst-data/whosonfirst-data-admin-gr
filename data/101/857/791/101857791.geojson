@@ -1,0 +1,109 @@
+{
+  "id": 101857791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.426307,41.623394,26.426307,41.623394",
+    "geom:latitude":41.623394,
+    "geom:longitude":26.426307,
+    "gn:population":1645,
+    "iso:country":"GR",
+    "lbl:latitude":41.623394,
+    "lbl:longitude":26.426307,
+    "mps:latitude":41.623394,
+    "mps:longitude":26.426307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0632\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Rizia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03b6\u03b9\u03b1 \u0388\u03b2\u03c1\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03af\u03b6\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Rizia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03af\u03b6\u03b9\u03b1 \u0388\u03b2\u03c1\u03bf\u03c5"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edzia"
+    ],
+    "name:unk_x_variant":[
+        "R\u00edzia"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
+    "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"EBROS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a1\u0399\u0396\u0399\u0391",
+    "qs:loc_alt":"RIZIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":41.616667,
+    "wd:longitude":26.416667,
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734389,
+        "gp:id":961199,
+        "qs:id":275648,
+        "wd:id":"Q3558311",
+        "wk:page":"Rizia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6c8ceea6358cf51d6d23293bc028faa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857791,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":101857791,
+    "wof:lastmodified":1544744080,
+    "wof:name":"\u03a1\u0399\u0396\u0399\u0391",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":1645,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.426307,
+    41.623394,
+    26.426307,
+    41.623394
+],
+  "geometry": {"coordinates":[26.426307,41.623394],"type":"Point"}
+}

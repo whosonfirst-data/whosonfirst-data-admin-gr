@@ -1,0 +1,78 @@
+{
+  "id": 1293526091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70892,38.44217,21.70892,38.44217",
+    "geom:latitude":38.44217,
+    "geom:longitude":21.70892,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Vlachomandra",
+    "gn:country_code":"GR",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251890,
+    "gn:latitude":38.44217,
+    "gn:longitude":21.70892,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Vlachom\u00e1ndra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vlachom\u00e1ndra"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bb\u03b1\u03c7\u03bf\u03bc\u03ac\u03bd\u03b4\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Vlakom\u00e1ndra",
+        "Vlakhom\u00e1ndhra",
+        "Vlakhom\u00e1ndra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251890
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3e10c59a349f836825ed321563d88afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293526091,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293526091,
+    "wof:lastmodified":1537624159,
+    "wof:name":"Vlachomandra",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70892000000001,
+    38.44217,
+    21.70892000000001,
+    38.44217
+],
+  "geometry": {"coordinates":[21.70892000000001,38.44217],"type":"Point"}
+}

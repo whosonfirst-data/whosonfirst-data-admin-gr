@@ -1,0 +1,80 @@
+{
+  "id": 1292942843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41667,40.58333,23.41667,40.58333",
+    "geom:latitude":40.58333,
+    "geom:longitude":23.41667,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Yerakia",
+    "gn:country_code":"GR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":733788,
+    "gn:latitude":40.58333,
+    "gn:longitude":23.41667,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Yeraki\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u0399\u03c3\u03ac \u038c\u03bc\u03c0\u03b1\u03c3\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03c1\u03b1\u03ba\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03c3\u03ac \u038c\u03bc\u03c0\u03b1\u03c3\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Is\u00e1 \u00d3basi",
+        "Yeraki\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733788
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cad22b64a5be95decba1d2adedc703ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292942843,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1292942843,
+    "wof:lastmodified":1537624807,
+    "wof:name":"Yerakia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41667,
+    40.58333,
+    23.41667,
+    40.58333
+],
+  "geometry": {"coordinates":[23.41667,40.58333],"type":"Point"}
+}

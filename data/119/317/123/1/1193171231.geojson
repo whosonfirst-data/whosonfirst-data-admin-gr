@@ -1,0 +1,73 @@
+{
+  "id": 1193171231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91628,39.77685,19.91628,39.77685",
+    "geom:latitude":39.77685,
+    "geom:longitude":19.91628,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Lithiasmenos",
+    "gn:country_code":"GR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165938,
+    "gn:latitude":39.77685,
+    "gn:longitude":19.91628,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Lithiasm\u00e9nos",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b8\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165938
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"884aed358aee91a0ffd57f32c78c9eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193171231,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1193171231,
+    "wof:lastmodified":1537551167,
+    "wof:name":"Lithiasmenos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91628,
+    39.77685,
+    19.91628,
+    39.77685
+],
+  "geometry": {"coordinates":[19.91628,39.77685],"type":"Point"}
+}

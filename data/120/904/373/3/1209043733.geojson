@@ -1,0 +1,73 @@
+{
+  "id": 1209043733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31045,35.18694,25.31045,35.18694",
+    "geom:latitude":35.18694,
+    "geom:longitude":25.31045,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Evangelismos",
+    "gn:country_code":"GR",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256733,
+    "gn:latitude":35.18694,
+    "gn:longitude":25.31045,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Evangelism\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Evangelism\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03c3\u03bc\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Moukt\u00e1roi",
+        "Moukht\u00e1roi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256733
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e9ab750998f1660208e47da13630f1ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209043733
+        }
+    ],
+    "wof:id":1209043733,
+    "wof:lastmodified":1537624369,
+    "wof:name":"Evangelismos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31045,
+    35.18694,
+    25.31045,
+    35.18694
+],
+  "geometry": {"coordinates":[25.31045,35.18694],"type":"Point"}
+}

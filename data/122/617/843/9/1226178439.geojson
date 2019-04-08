@@ -1,0 +1,71 @@
+{
+  "id": 1226178439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78879,37.44067,21.78879,37.44067",
+    "geom:latitude":37.44067,
+    "geom:longitude":21.78879,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9138",
+    "gn:asciiname":"Trianta",
+    "gn:country_code":"GR",
+    "gn:dem":577,
+    "gn:elevation":"580.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8555946,
+    "gn:latitude":37.44067,
+    "gn:longitude":21.78879,
+    "gn:modification_date":"2013-06-12",
+    "gn:name":"Trianta",
+    "gn:population":25,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8555946
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c5f58208c112eb47da82254379e24119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226178439,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226178439,
+    "wof:lastmodified":1537029260,
+    "wof:name":"Trianta",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78879,
+    37.44067,
+    21.78879,
+    37.44067
+],
+  "geometry": {"coordinates":[21.78879,37.44067],"type":"Point"}
+}

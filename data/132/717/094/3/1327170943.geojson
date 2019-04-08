@@ -1,0 +1,73 @@
+{
+  "id": 1327170943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69694,35.33726,24.69694,35.33726",
+    "geom:latitude":35.33726,
+    "geom:longitude":24.69694,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Orthes",
+    "gn:country_code":"GR",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256249,
+    "gn:latitude":35.33726,
+    "gn:longitude":24.69694,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Orth\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Orth\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03b8\u03ad\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256249
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5cbaaba65a57ee054ff07c676cf852cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170943,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327170943,
+    "wof:lastmodified":1537624345,
+    "wof:name":"Orthes",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69694,
+    35.33726,
+    24.69694,
+    35.33726
+],
+  "geometry": {"coordinates":[24.69694,35.33726],"type":"Point"}
+}

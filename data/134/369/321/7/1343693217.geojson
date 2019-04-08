@@ -1,0 +1,75 @@
+{
+  "id": 1343693217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13856,37.99267,22.13856,37.99267",
+    "geom:latitude":37.99267,
+    "geom:longitude":22.13856,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Kato Lousoi",
+    "gn:country_code":"GR",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260538,
+    "gn:latitude":37.99267,
+    "gn:longitude":22.13856,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00e1to Louso\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u039b\u03bf\u03c5\u03c3\u03bf\u03af"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Souden\u00e1",
+        "K\u00e1to So\u00fadhena",
+        "K\u00e1to Louso\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260538
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6c5146139fe8e2ff2bff2eaab88513be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343693217,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343693217,
+    "wof:lastmodified":1537624546,
+    "wof:name":"Kato Lousoi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13856,
+    37.99267,
+    22.13856,
+    37.99267
+],
+  "geometry": {"coordinates":[22.13856,37.99267],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310440045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27903,38.09689,22.27903,38.09689",
+    "geom:latitude":38.09689,
+    "geom:longitude":22.27903,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Valimi",
+    "gn:country_code":"GR",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252336,
+    "gn:latitude":38.09689,
+    "gn:longitude":22.27903,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Valim\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Valim\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03bb\u03b9\u03bc\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252336
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2d9c4c4d40223e71fd1fdf705b13ec42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310440045,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310440045,
+    "wof:lastmodified":1537624179,
+    "wof:name":"Valimi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27903,
+    38.09689,
+    22.27903,
+    38.09689
+],
+  "geometry": {"coordinates":[22.27903,38.09689],"type":"Point"}
+}

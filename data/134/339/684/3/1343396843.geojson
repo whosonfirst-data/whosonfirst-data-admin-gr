@@ -1,0 +1,76 @@
+{
+  "id": 1343396843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.37616,40.50675,23.37616,40.50675",
+    "geom:latitude":40.50675,
+    "geom:longitude":23.37616,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Sana",
+    "gn:country_code":"GR",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734357,
+    "gn:latitude":40.50675,
+    "gn:longitude":23.37616,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"San\u00e1",
+    "gn:population":293,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Sana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734357
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"41107551968f449ba8898dff818e6b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343396843,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1343396843,
+    "wof:lastmodified":1537624837,
+    "wof:name":"Sana",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":293,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37616,
+    40.50675,
+    23.37616,
+    40.50675
+],
+  "geometry": {"coordinates":[23.37616,40.50675],"type":"Point"}
+}

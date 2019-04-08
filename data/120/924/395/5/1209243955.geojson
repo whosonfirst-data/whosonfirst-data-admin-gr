@@ -1,0 +1,72 @@
+{
+  "id": 1209243955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42016,38.58709,21.42016,38.58709",
+    "geom:latitude":38.58709,
+    "geom:longitude":21.42016,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Strongilaiika",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781274,
+    "gn:latitude":38.58709,
+    "gn:longitude":21.42016,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"Strongila\u00edika",
+    "gn:population":26,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03c1\u03bf\u03b3\u03b3\u03c5\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Strongylaiika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781274
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"65173c0f635f7345a5f338bb1b2d2d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209243955
+        }
+    ],
+    "wof:id":1209243955,
+    "wof:lastmodified":1537625074,
+    "wof:name":"Strongilaiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42016,
+    38.58709,
+    21.42016,
+    38.58709
+],
+  "geometry": {"coordinates":[21.42016,38.58709],"type":"Point"}
+}

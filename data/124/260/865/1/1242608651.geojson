@@ -1,0 +1,86 @@
+{
+  "id": 1242608651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70704,35.487,23.70704,35.487",
+    "geom:latitude":35.487,
+    "geom:longitude":23.70704,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Ano Drapanias",
+    "gn:country_code":"GR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426819,
+    "gn:latitude":35.487,
+    "gn:longitude":23.70704,
+    "gn:modification_date":"2015-09-20",
+    "gn:name":"\u00c1no Drapani\u00e1s",
+    "gn:population":17,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0394\u03c1\u03b1\u03c0\u03b1\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03ac\u03bd\u03c9 \u0394\u03c1\u03b1\u03c0\u03b1\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Drapanias"
+    ],
+    "name:eng_x_variant":[
+        "Epano Drapanias",
+        "Upper Drapanias"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Drapani\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426819
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1320fd6238ad13ded85d75366c1c671c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242608651,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242608651,
+    "wof:lastmodified":1537625005,
+    "wof:name":"Ano Drapanias",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70704,
+    35.48699999999999,
+    23.70704,
+    35.48699999999999
+],
+  "geometry": {"coordinates":[23.70704,35.48699999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343796231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42981,40.01172,21.42981,40.01172",
+    "geom:latitude":40.01172,
+    "geom:longitude":21.42981,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Despotis",
+    "gn:country_code":"GR",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736457,
+    "gn:latitude":40.01172,
+    "gn:longitude":21.42981,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Desp\u00f3tis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Desp\u00f3tis"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b5\u03c3\u03c0\u03cc\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Sin\u00edkhovon",
+        "Dhesp\u00f3tis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736457
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e080b87e3a922ce492746efd731ac5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343796231,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343796231,
+    "wof:lastmodified":1537624958,
+    "wof:name":"Despotis",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42981,
+    40.01172,
+    21.42981,
+    40.01172
+],
+  "geometry": {"coordinates":[21.42981,40.01172],"type":"Point"}
+}

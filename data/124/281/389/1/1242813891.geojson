@@ -1,0 +1,76 @@
+{
+  "id": 1242813891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80461,37.77345,20.80461,37.77345",
+    "geom:latitude":37.77345,
+    "geom:longitude":20.80461,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Langadhakia",
+    "gn:country_code":"GR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258604,
+    "gn:latitude":37.77345,
+    "gn:longitude":20.80461,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Langadh\u00e1kia",
+    "gn:population":357,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03ba\u03b1\u03b4\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lagkadakia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258604
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"05799df3a92b23507264b4950a964bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242813891,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1242813891,
+    "wof:lastmodified":1537624456,
+    "wof:name":"Langadhakia",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80461,
+    37.77345,
+    20.80461,
+    37.77345
+],
+  "geometry": {"coordinates":[20.80461,37.77345],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327364917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79312,35.30409,23.79312,35.30409",
+    "geom:latitude":35.30409,
+    "geom:longitude":23.79312,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Maralia",
+    "gn:country_code":"GR",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257748,
+    "gn:latitude":35.30409,
+    "gn:longitude":23.79312,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Mar\u00e1lia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03ac\u03bb\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Mar\u00e1lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257748,
+        "wk:page":"Maralia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8c945227f3e0ea6fa54c7efb82727974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327364917,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327364917,
+    "wof:lastmodified":1537624416,
+    "wof:name":"Maralia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79312,
+    35.30409,
+    23.79312,
+    35.30409
+],
+  "geometry": {"coordinates":[23.79312,35.30409],"type":"Point"}
+}

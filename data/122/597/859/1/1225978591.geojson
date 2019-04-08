@@ -1,0 +1,78 @@
+{
+  "id": 1225978591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06154,37.11048,22.06154,37.11048",
+    "geom:latitude":37.11048,
+    "geom:longitude":22.06154,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Kato Amfeia",
+    "gn:country_code":"GR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260637,
+    "gn:latitude":37.11048,
+    "gn:longitude":22.06154,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"K\u00e1to \u00c1mfeia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to \u00c1mfeia"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0386\u03bc\u03c6\u03b5\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to \u00c1mfia",
+        "Gardh\u00edki",
+        "\u00c1mfia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260637
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aafef8c3ef3d50ccf703cf5b48fd9bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225978591,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1225978591,
+    "wof:lastmodified":1537624553,
+    "wof:name":"Kato Amfeia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06154,
+    37.11048,
+    22.06154,
+    37.11048
+],
+  "geometry": {"coordinates":[22.06154,37.11048],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209953159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45165,36.39456,25.45165,36.39456",
+    "geom:latitude":36.39456,
+    "geom:longitude":25.45165,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9270",
+    "gn:asciiname":"Vothonas",
+    "gn:country_code":"GR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251795,
+    "gn:latitude":36.39456,
+    "gn:longitude":25.45165,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"V\u00f3thonas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03b8\u03c9\u03bd\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vothonas"
+    ],
+    "name:und_x_variant":[
+        "\u0392\u03cc\u03b8\u03c9\u03bd\u03b1\u03c2",
+        "V\u00f3thon",
+        "\u0392\u03cc\u03b8\u03c9\u03bd",
+        "V\u00f3thonas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251795
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"003160ca31cf0a13ddb6e8f0dbb108b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209953159,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1209953159,
+    "wof:lastmodified":1537624156,
+    "wof:name":"Vothonas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45165,
+    36.39456,
+    25.45165,
+    36.39456
+],
+  "geometry": {"coordinates":[25.45165,36.39456],"type":"Point"}
+}

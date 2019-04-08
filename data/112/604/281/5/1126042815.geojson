@@ -1,0 +1,86 @@
+{
+  "id": 1126042815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61806,39.47028,21.61806,39.47028",
+    "geom:latitude":39.47028,
+    "geom:longitude":21.61806,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":913,
+    "gn:population":913,
+    "iso:country":"GR",
+    "lbl:latitude":39.47028,
+    "lbl:longitude":21.61806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u00c1gios Vissar\u00edonas"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b7\u03c3\u03c3\u03b1\u03c1\u03af\u03bf\u03bd\u03b1\u03c2",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b7\u03c3\u03c3\u03b1\u03c1\u03af\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Do\u00fasikon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":263689,
+    "qs_pg:gn_pop":913,
+    "qs_pg:name":"\u00c1gios Vissar\u00edon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546874,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263689,
+        "qs_pg:id":546874
+    },
+    "wof:country":"GR",
+    "wof:created":1497302257,
+    "wof:geomhash":"1bc121dafa26883d4a5fb8ad8b6c2f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042815,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126042815,
+    "wof:lastmodified":1509408655,
+    "wof:name":"\u00c1gios Vissar\u00edon",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":913,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61806,
+    39.47028,
+    21.61806,
+    39.47028
+],
+  "geometry": {"coordinates":[21.61806,39.47028],"type":"Point"}
+}

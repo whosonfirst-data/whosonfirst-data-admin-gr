@@ -1,0 +1,83 @@
+{
+  "id": 1277112939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58466,38.79744,21.58466,38.79744",
+    "geom:latitude":38.79744,
+    "geom:longitude":21.58466,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Stavrokhorion",
+    "gn:country_code":"GR",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253265,
+    "gn:latitude":38.79744,
+    "gn:longitude":21.58466,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Stavrokh\u00f3rion",
+    "gn:population":34,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Stavrochori"
+    ],
+    "name:und_x_variant":[
+        "Dhov\u00edtsinon",
+        "Stavrokh\u00f3ri",
+        "Dovouts\u00edno",
+        "Stavrokh\u00f3rion",
+        "Stavrochori"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253265
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c846e22db4ac583c6c6f7683140085d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277112939,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1277112939,
+    "wof:lastmodified":1537624212,
+    "wof:name":"Stavrokhorion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58466,
+    38.79744,
+    21.58466,
+    38.79744
+],
+  "geometry": {"coordinates":[21.58466,38.79744],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309843081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84769,37.29761,21.84769,37.29761",
+    "geom:latitude":37.29761,
+    "geom:longitude":21.84769,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9256",
+    "gn:asciiname":"Agios Petros",
+    "gn:country_code":"GR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263760,
+    "gn:latitude":37.29761,
+    "gn:longitude":21.84769,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"\u00c1gios P\u00e9tros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios P\u00e9tros"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03ad\u03c4\u03c1\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Gouvolari\u00e1",
+        "Gouval\u00e1ria",
+        "\u00c1yios P\u00e9tros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263760
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"202a58d48815b82d511effb3218675bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309843081,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1309843081,
+    "wof:lastmodified":1537624697,
+    "wof:name":"Agios Petros",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84769,
+    37.29761,
+    21.84769,
+    37.29761
+],
+  "geometry": {"coordinates":[21.84769,37.29761],"type":"Point"}
+}

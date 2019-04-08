@@ -1,0 +1,72 @@
+{
+  "id": 1209551345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99323,38.74371,22.99323,38.74371",
+    "geom:latitude":38.74371,
+    "geom:longitude":22.99323,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9161",
+    "gn:asciiname":"Kalypso",
+    "gn:country_code":"GR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9408053,
+    "gn:latitude":38.74371,
+    "gn:longitude":22.99323,
+    "gn:modification_date":"2014-08-22",
+    "gn:name":"Kalyps\u00f3",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03c5\u03c8\u03ce"
+    ],
+    "name:eng_x_preferred":[
+        "Kalypso"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9408053
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2a10d6275d0f0b76c7823616d36a235b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209551345
+        }
+    ],
+    "wof:id":1209551345,
+    "wof:lastmodified":1537625065,
+    "wof:name":"Kalypso",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99323,
+    38.74371,
+    22.99323,
+    38.74371
+],
+  "geometry": {"coordinates":[22.99323,38.74371],"type":"Point"}
+}

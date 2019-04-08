@@ -1,0 +1,76 @@
+{
+  "id": 1276373605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37917,37.77246,22.37917,37.77246",
+    "geom:latitude":37.77246,
+    "geom:longitude":22.37917,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Kandila",
+    "gn:country_code":"GR",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261151,
+    "gn:latitude":37.77246,
+    "gn:longitude":22.37917,
+    "gn:modification_date":"2015-11-11",
+    "gn:name":"Kand\u00edla",
+    "gn:population":690,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03b4\u03ae\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kandila"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261151
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"82ee0bad794122f8ad139d5c78766aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373605,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276373605,
+    "wof:lastmodified":1537624576,
+    "wof:name":"Kandila",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":690,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37917,
+    37.77246,
+    22.37917,
+    37.77246
+],
+  "geometry": {"coordinates":[22.37917,37.77246],"type":"Point"}
+}

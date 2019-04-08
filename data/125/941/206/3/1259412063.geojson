@@ -1,0 +1,76 @@
+{
+  "id": 1259412063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92946,38.92052,21.92946,38.92052",
+    "geom:latitude":38.92052,
+    "geom:longitude":21.92946,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9162",
+    "gn:asciiname":"Mesaia Kapsi",
+    "gn:country_code":"GR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257235,
+    "gn:latitude":38.92052,
+    "gn:longitude":21.92946,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Mesa\u00eda K\u00e1psi",
+    "gn:population":53,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03b1\u03af\u03b1 \u039a\u03ac\u03c8\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Mesaia Kapsi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257235
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ab4174193febe64ca310e8d517ae27f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259412063,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1259412063,
+    "wof:lastmodified":1537624396,
+    "wof:name":"Mesaia Kapsi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92946,
+    38.92052,
+    21.92946,
+    38.92052
+],
+  "geometry": {"coordinates":[21.92946,38.92052],"type":"Point"}
+}

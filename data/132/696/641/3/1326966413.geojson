@@ -1,0 +1,77 @@
+{
+  "id": 1326966413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26319,40.36285,23.26319,40.36285",
+    "geom:latitude":40.36285,
+    "geom:longitude":23.26319,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9058",
+    "gn:asciiname":"Neromylos",
+    "gn:country_code":"GR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734929,
+    "gn:latitude":40.36285,
+    "gn:longitude":23.26319,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Ner\u00f3mylos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ner\u00f3mylos"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03c1\u03cc\u03bc\u03c5\u03bb\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Osmanl\u00ed",
+        "Ner\u00f3milos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734929
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"088da2b40e399365305d0852f2303ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326966413,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1326966413,
+    "wof:lastmodified":1537624870,
+    "wof:name":"Neromylos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26319,
+    40.36285,
+    23.26319,
+    40.36285
+],
+  "geometry": {"coordinates":[23.26319,40.36285],"type":"Point"}
+}

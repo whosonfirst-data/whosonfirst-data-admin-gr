@@ -1,0 +1,77 @@
+{
+  "id": 1344188245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39767,37.45218,22.39767,37.45218",
+    "geom:latitude":37.45218,
+    "geom:longitude":22.39767,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Strigkos",
+    "gn:country_code":"GR",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253118,
+    "gn:latitude":37.45218,
+    "gn:longitude":22.39767,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Str\u00edgkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Str\u00edgkos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03c1\u03af\u03b3\u03ba\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Str\u00edngon",
+        "Str\u00edngos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253118
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b7c427c5a550fe19f5e6e37b159b49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344188245,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1344188245,
+    "wof:lastmodified":1537624206,
+    "wof:name":"Strigkos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39767,
+    37.45218,
+    22.39767,
+    37.45218
+],
+  "geometry": {"coordinates":[22.39767,37.45218],"type":"Point"}
+}

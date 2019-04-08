@@ -1,0 +1,153 @@
+{
+  "id": 101849349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66547,38.428196,22.66547,38.428196",
+    "geom:latitude":38.428196,
+    "geom:longitude":22.66547,
+    "iso:country":"GR",
+    "lbl:latitude":38.428196,
+    "lbl:longitude":22.66547,
+    "mps:latitude":38.428196,
+    "mps:longitude":22.66547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0633\u062a\u0648\u0645\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u8fea\u65af\u6258\u83ab"
+    ],
+    "name:deu_x_preferred":[
+        "Distomo"
+    ],
+    "name:dut_x_preferred":[
+        "Distomo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03af\u03c3\u03c4\u03bf\u03bc\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Distomo"
+    ],
+    "name:fin_x_preferred":[
+        "D\u00edstomo"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00edstomo"
+    ],
+    "name:fre_x_preferred":[
+        "D\u00edstomo"
+    ],
+    "name:ger_x_preferred":[
+        "Distomo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03af\u03c3\u03c4\u03bf\u03bc\u03bf \u0392\u03bf\u03b9\u03c9\u03c4\u03af\u03b1\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e1\u05d8\u05d5\u05de\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Distomo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30b9\u30c8\u30e2"
+    ],
+    "name:lat_x_preferred":[
+        "Distomum"
+    ],
+    "name:lit_x_preferred":[
+        "Distomas- Arachovas- Antikira"
+    ],
+    "name:nno_x_preferred":[
+        "D\u00edstomo"
+    ],
+    "name:ron_x_preferred":[
+        "Distomo"
+    ],
+    "name:rum_x_preferred":[
+        "Distomo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0441\u0442\u043e\u043c\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0441\u0442\u043e\u043c\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Distomo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u65af\u6258\u83ab"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"BOIVTIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0394\u0399\u03a3\u03a4\u039f\u039c\u039f\u039d",
+    "qs:loc_alt":"DISTOMON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":38.429319,
+    "wd:longitude":22.667283,
+    "wd:wordcount":427,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263034,
+        "gp:id":948855,
+        "loc:id":"n96048235",
+        "qs:id":1061425,
+        "qs_pg:id":1061425,
+        "wd:id":"Q478649",
+        "wk:page":"Distomo"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d2463dc3ea888372780daa5bd915d30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849349,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849349,
+    "wof:lastmodified":1544740907,
+    "wof:name":"\u0394\u0399\u03a3\u03a4\u039f\u039c\u039f\u039d",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66547,
+    38.428196,
+    22.66547,
+    38.428196
+],
+  "geometry": {"coordinates":[22.66547,38.428196],"type":"Point"}
+}

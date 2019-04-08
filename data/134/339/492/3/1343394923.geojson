@@ -1,0 +1,80 @@
+{
+  "id": 1343394923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73831,39.18414,22.73831,39.18414",
+    "geom:latitude":39.18414,
+    "geom:longitude":22.73831,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Evxinoupolis",
+    "gn:country_code":"GR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262563,
+    "gn:latitude":39.18414,
+    "gn:longitude":22.73831,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Evxino\u00fapolis",
+    "gn:population":2281,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03c5\u03be\u03b5\u03b9\u03bd\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Efxeinoupoli"
+    ],
+    "name:und_x_variant":[
+        "Efxeinoupoli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262563,
+        "wk:page":"Efxeinoupoli"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"898db6c91bcc14ac1f2bc36fe0ff871a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343394923,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1343394923,
+    "wof:lastmodified":1537624638,
+    "wof:name":"Evxinoupolis",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":2281,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73831,
+    39.18414,
+    22.73831,
+    39.18414
+],
+  "geometry": {"coordinates":[22.73831,39.18414],"type":"Point"}
+}

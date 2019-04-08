@@ -1,0 +1,79 @@
+{
+  "id": 1259411873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26651,37.0095,22.26651,37.0095",
+    "geom:latitude":37.0095,
+    "geom:longitude":22.26651,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9253",
+    "gn:asciiname":"Krya Vrysi",
+    "gn:country_code":"GR",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258833,
+    "gn:latitude":37.0095,
+    "gn:longitude":22.26651,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"Krya Vrysi",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03cd\u03b1 \u0392\u03c1\u03cd\u03c3\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Krya Vrysi"
+    ],
+    "name:und_x_variant":[
+        "Kr\u00eda Vr\u00edsi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258833
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3cd916a63f96f8a63910c2a03f10e451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259411873,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259411873,
+    "wof:lastmodified":1537624468,
+    "wof:name":"Krya Vrysi",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26651,
+    37.0095,
+    22.26651,
+    37.0095
+],
+  "geometry": {"coordinates":[22.26651,37.0095],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343988663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53773,35.18704,24.53773,35.18704",
+    "geom:latitude":35.18704,
+    "geom:longitude":24.53773,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Aktounta",
+    "gn:country_code":"GR",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265386,
+    "gn:latitude":35.18704,
+    "gn:longitude":24.53773,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Akto\u00fanta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Akto\u00fanta"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03ba\u03c4\u03bf\u03cd\u03bd\u03c4\u03b1",
+        "Akto\u00fanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265386
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"70a9b42a69137cff8741da71c36f01c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343988663,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343988663,
+    "wof:lastmodified":1537624775,
+    "wof:name":"Aktounta",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53773,
+    35.18704,
+    24.53773,
+    35.18704
+],
+  "geometry": {"coordinates":[24.53773,35.18704],"type":"Point"}
+}

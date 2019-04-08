@@ -1,0 +1,78 @@
+{
+  "id": 1326966269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16247,37.60334,25.16247,37.60334",
+    "geom:latitude":37.60334,
+    "geom:longitude":25.16247,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9301",
+    "gn:asciiname":"Sklavochorio",
+    "gn:country_code":"GR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253602,
+    "gn:latitude":37.60334,
+    "gn:longitude":25.16247,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Sklavochori\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sklavochori\u00f3n"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03bb\u03b1\u03b2\u03bf\u03c7\u03c9\u03c1\u03b9\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Sklavokh\u00f3ri",
+        "Sklavochori\u00f3",
+        "\u03a3\u03ba\u03bb\u03b1\u03b2\u03bf\u03c7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253602
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8f9cd445c23c49e906e98a35fb4d0645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326966269,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1326966269,
+    "wof:lastmodified":1537624228,
+    "wof:name":"Sklavochorio",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16247000000001,
+    37.60334,
+    25.16247000000001,
+    37.60334
+],
+  "geometry": {"coordinates":[25.16247000000001,37.60334],"type":"Point"}
+}

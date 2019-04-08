@@ -1,0 +1,80 @@
+{
+  "id": 1226784179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45159,39.04519,22.45159,39.04519",
+    "geom:latitude":39.04519,
+    "geom:longitude":22.45159,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9159",
+    "gn:asciiname":"Melitaia",
+    "gn:country_code":"GR",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257285,
+    "gn:latitude":39.04519,
+    "gn:longitude":22.45159,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Melita\u00eda",
+    "gn:population":216,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03b9\u03c4\u03b1\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Melitaia"
+    ],
+    "name:und_x_variant":[
+        "Avar\u00edtsa",
+        "Melita\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257285
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b5514c4fef1eae940fa695604dc41522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226784179,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226784179,
+    "wof:lastmodified":1537624398,
+    "wof:name":"Melitaia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45159,
+    39.04519000000001,
+    22.45159,
+    39.04519000000001
+],
+  "geometry": {"coordinates":[22.45159,39.04519000000001],"type":"Point"}
+}

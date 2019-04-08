@@ -1,0 +1,79 @@
+{
+  "id": 1125278277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71583,38.61204,23.71583,38.61204",
+    "geom:latitude":38.61204,
+    "geom:longitude":23.71583,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":19443,
+    "gn:population":19443,
+    "iso:country":"GR",
+    "lbl:latitude":38.61204,
+    "lbl:longitude":23.71583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03c1\u03c6\u03cd\u03c9\u03bd - \u039c\u03b5\u03c3\u03c3\u03b1\u03c0\u03af\u03c9\u03bd"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133901,
+    "qs_pg:gn_pop":19443,
+    "qs_pg:name":"Dimos Dirfys-Messapia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109692,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133901,
+        "qs_pg:id":109692
+    },
+    "wof:country":"GR",
+    "wof:created":1497042404,
+    "wof:geomhash":"af9b5ef2644c811593774409621a84ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125278277,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125278277,
+    "wof:lastmodified":1509387217,
+    "wof:name":"Dimos Dirfys-Messapia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"localadmin",
+    "wof:population":19443,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71583,
+    38.61204,
+    23.71583,
+    38.61204
+],
+  "geometry": {"coordinates":[23.71583,38.61204],"type":"Point"}
+}

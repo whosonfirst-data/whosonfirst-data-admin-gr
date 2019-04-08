@@ -1,0 +1,81 @@
+{
+  "id": 1343390425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69321,35.31952,25.69321,35.31952",
+    "geom:latitude":35.31952,
+    "geom:longitude":25.69321,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Skinias",
+    "gn:country_code":"GR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253620,
+    "gn:latitude":35.31952,
+    "gn:longitude":25.69321,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Skini\u00e1s",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b9\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Skinias"
+    ],
+    "name:und_x_variant":[
+        "Skoini\u00e1",
+        "Skin\u00e1s",
+        "Skini\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253620
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"90867277b8c52eeff24f85f874febdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343390425,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343390425,
+    "wof:lastmodified":1537624229,
+    "wof:name":"Skinias",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69321,
+    35.31952000000001,
+    25.69321,
+    35.31952000000001
+],
+  "geometry": {"coordinates":[25.69321,35.31952000000001],"type":"Point"}
+}

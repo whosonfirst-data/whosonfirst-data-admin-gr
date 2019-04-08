@@ -1,0 +1,77 @@
+{
+  "id": 1360315517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86667,38.68664,21.86667,38.68664",
+    "geom:latitude":38.68664,
+    "geom:longitude":21.86667,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Arachova",
+    "gn:country_code":"GR",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264713,
+    "gn:latitude":38.68664,
+    "gn:longitude":21.86667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ar\u00e1chova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ar\u00e1chova"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03ac\u03c7\u03bf\u03b2\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pend\u00e1korfon",
+        "Ar\u00e1khova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264713
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f50fe543438f1bd8dd72f60a94a835d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360315517,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360315517,
+    "wof:lastmodified":1537624737,
+    "wof:name":"Arachova",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86667000000001,
+    38.68664,
+    21.86667000000001,
+    38.68664
+],
+  "geometry": {"coordinates":[21.86667000000001,38.68664],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343592177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89989,38.25369,23.89989,38.25369",
+    "geom:latitude":38.25369,
+    "geom:longitude":23.89989,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9227.0",
+    "gn:asciiname":"Metochi - Ri",
+    "gn:country_code":"GR",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10972742,
+    "gn:latitude":38.25369,
+    "gn:longitude":23.89989,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Met\u00f3chi - Ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Met\u00f3chi - Ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c4\u03cc\u03c7\u03b9 - \u03a1\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10972742
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f828a7bc6fb2859cb321f325c61afd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343592177,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343592177,
+    "wof:lastmodified":1537625097,
+    "wof:name":"Metochi - Ri",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89989,
+    38.25369,
+    23.89989,
+    38.25369
+],
+  "geometry": {"coordinates":[23.89989,38.25369],"type":"Point"}
+}

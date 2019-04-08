@@ -1,0 +1,86 @@
+{
+  "id": 1327067147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61185,41.15907,23.61185,41.15907",
+    "geom:latitude":41.15907,
+    "geom:longitude":23.61185,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9054",
+    "gn:asciiname":"Marmaras",
+    "gn:country_code":"GR",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735311,
+    "gn:latitude":41.15907,
+    "gn:longitude":23.61185,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Marmar\u00e1s",
+    "gn:population":14,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a1\u03b1\u03c7\u03c9\u03b2\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03bc\u03b1\u03c1\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b1\u03c7\u03c9\u03b2\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Marmaras"
+    ],
+    "name:und_x_variant":[
+        "Rakhov\u00edtsa",
+        "Marmar\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735311
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"314ef91e6018bdd19c610451cad1b775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327067147,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1327067147,
+    "wof:lastmodified":1537624894,
+    "wof:name":"Marmaras",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61185,
+    41.15907,
+    23.61185,
+    41.15907
+],
+  "geometry": {"coordinates":[23.61185,41.15907],"type":"Point"}
+}

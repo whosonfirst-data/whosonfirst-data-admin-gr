@@ -1,0 +1,80 @@
+{
+  "id": 1193053143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7314,38.9294,22.7314,38.9294",
+    "geom:latitude":38.9294,
+    "geom:longitude":22.7314,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9164",
+    "gn:asciiname":"Palaiokerasea",
+    "gn:country_code":"GR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256133,
+    "gn:latitude":38.9294,
+    "gn:longitude":22.7314,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Palaiokeras\u00e9a",
+    "gn:population":291,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03ba\u03b5\u03c1\u03b1\u03c3\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03ba\u03b5\u03c1\u03b1\u03c3\u03ad\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Palaiokerasia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256133,
+        "wk:page":"Palaiokerasia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"555799d1e17b940470c457102b1a3f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193053143,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1193053143,
+    "wof:lastmodified":1537624340,
+    "wof:name":"Palaiokerasea",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":291,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7314,
+    38.9294,
+    22.7314,
+    38.9294
+],
+  "geometry": {"coordinates":[22.7314,38.9294],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293130165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32134,35.20744,25.32134,35.20744",
+    "geom:latitude":35.20744,
+    "geom:longitude":25.32134,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Sklaverokhorion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253605,
+    "gn:latitude":35.20744,
+    "gn:longitude":25.32134,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Sklaverokh\u00f3rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sklavokh\u00f3ri",
+        "Sklaverokh\u00f3ri",
+        "Sklaverokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253605
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d9b60038193ea13573798b027b6ad5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293130165,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293130165,
+    "wof:lastmodified":1537624229,
+    "wof:name":"Sklaverokhorion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32134,
+    35.20744000000001,
+    25.32134,
+    35.20744000000001
+],
+  "geometry": {"coordinates":[25.32134,35.20744000000001],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1243488037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.94157,35.07785,25.94157,35.07785",
+    "geom:latitude":35.07785,
+    "geom:longitude":25.94157,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Stavrochori",
+    "gn:country_code":"GR",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253266,
+    "gn:latitude":35.07785,
+    "gn:longitude":25.94157,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Stavroch\u00f3ri",
+    "gn:population":147,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Stavrochori"
+    ],
+    "name:und_x_variant":[
+        "Stavrokh\u00f3ri",
+        "Stavrokh\u00f3rion",
+        "Stavroch\u00f3ri",
+        "Stavroch\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253266,
+        "wk:page":"Stavrochori%2C_Lasithi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4c44d2848d3f42026c8dd20934e429ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243488037,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243488037,
+    "wof:lastmodified":1537624212,
+    "wof:name":"Stavrochori",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94157,
+    35.07785,
+    25.94157,
+    35.07785
+],
+  "geometry": {"coordinates":[25.94157,35.07785],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343693285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87382,38.49829,21.87382,38.49829",
+    "geom:latitude":38.49829,
+    "geom:longitude":21.87382,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Anthofiton",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264791,
+    "gn:latitude":38.49829,
+    "gn:longitude":21.87382,
+    "gn:modification_date":"2017-10-29",
+    "gn:name":"Anth\u00f3fiton",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b8\u03cc\u03c6\u03c5\u03c4\u03bf"
+    ],
+    "name:und_x_variant":[
+        "Gran\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264791
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3264e88a8db642366c4d3376319e86c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343693285,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343693285,
+    "wof:lastmodified":1537624740,
+    "wof:name":"Anthofiton",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87382,
+    38.49829,
+    21.87382,
+    38.49829
+],
+  "geometry": {"coordinates":[21.87382,38.49829],"type":"Point"}
+}

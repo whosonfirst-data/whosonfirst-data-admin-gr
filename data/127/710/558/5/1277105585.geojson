@@ -1,0 +1,73 @@
+{
+  "id": 1277105585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2126,40.92204,24.2126,40.92204",
+    "geom:latitude":40.92204,
+    "geom:longitude":24.2126,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Dasiko Chorio",
+    "gn:country_code":"GR",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9389383,
+    "gn:latitude":40.92204,
+    "gn:longitude":24.2126,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Dasik\u00f3 Chori\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03c3\u03b9\u03ba\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Dasiko Chorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9389383
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"188d27fe956110821d78767032fc8371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277105585,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1277105585,
+    "wof:lastmodified":1537625064,
+    "wof:name":"Dasiko Chorio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2126,
+    40.92204,
+    24.2126,
+    40.92204
+],
+  "geometry": {"coordinates":[24.2126,40.92204],"type":"Point"}
+}

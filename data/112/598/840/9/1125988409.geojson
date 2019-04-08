@@ -1,0 +1,115 @@
+{
+  "id": 1125988409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31353,35.32934,25.31353,35.32934",
+    "geom:latitude":35.32934,
+    "geom:longitude":25.31353,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":2153,
+    "iso:country":"GR",
+    "lbl:latitude":35.32934,
+    "lbl:longitude":25.31353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062a\u0648 \u063a\u0648\u0641\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Kato Guwes"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0393\u03bf\u03cd\u03b2\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Gouves"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0393\u03bf\u03cd\u03b2\u03b5\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
+    ],
+    "name:nno_x_preferred":[
+        "K\u00e1to Go\u00faves"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Guwes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u043e-\u0413\u0443\u0432\u0435"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7303252,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kato Gouves",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":272,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":272,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1185765,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56023274,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303252,
+        "gp:id":56023274,
+        "qs_pg:id":1185765,
+        "wd:id":"Q12234195"
+    },
+    "wof:country":"GR",
+    "wof:created":1497298925,
+    "wof:geomhash":"35357c3c3e5408cc7c8fa7be7c9c8da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125988409,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125988409,
+    "wof:lastmodified":1514443974,
+    "wof:name":"Kato Gouves",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":2153,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31353,
+    35.32934,
+    25.31353,
+    35.32934
+],
+  "geometry": {"coordinates":[25.31353,35.32934],"type":"Point"}
+}

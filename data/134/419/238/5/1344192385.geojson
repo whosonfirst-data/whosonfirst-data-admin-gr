@@ -1,0 +1,86 @@
+{
+  "id": 1344192385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97128,35.06998,25.97128,35.06998",
+    "geom:latitude":35.06998,
+    "geom:longitude":25.97128,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Agios Stefanos",
+    "gn:country_code":"GR",
+    "gn:dem":406,
+    "gn:elevation":"420.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263728,
+    "gn:latitude":35.06998,
+    "gn:longitude":25.97128,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"\u00c1gios St\u00e9fanos",
+    "gn:population":131,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Stefanos"
+    ],
+    "name:gre_x_historical":[
+        "\u0393\u03c1\u03ac\u03c2"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "name:gre_x_variant":[
+        "\u0393\u03c1\u03ac\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263728
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d531bd804be442e34bea2812c409cea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344192385,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1344192385,
+    "wof:lastmodified":1537624696,
+    "wof:name":"Agios Stefanos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97128,
+    35.06998,
+    25.97128,
+    35.06998
+],
+  "geometry": {"coordinates":[25.97128,35.06998],"type":"Point"}
+}

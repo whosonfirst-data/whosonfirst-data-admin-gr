@@ -1,0 +1,94 @@
+{
+  "id": 1126057493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81528,39.675,19.81528,39.675",
+    "geom:latitude":39.675,
+    "geom:longitude":19.81528,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":125,
+    "gn:population":143,
+    "iso:country":"GR",
+    "lbl:latitude":39.675,
+    "lbl:longitude":19.81528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03b6\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Gaz\u00e1tiko"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2463719,
+    "qs_pg:gn_pop":125,
+    "qs_pg:name":"Gazatika",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":916839,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":949958,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463719,
+        "gp:id":949958,
+        "qs_pg:id":916839
+    },
+    "wof:country":"GR",
+    "wof:created":1497303403,
+    "wof:geomhash":"6422eb438f3571765627bf447d6e4586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126057493,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1126057493,
+    "wof:lastmodified":1509409728,
+    "wof:name":"Gazatika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81528,
+    39.675,
+    19.81528,
+    39.675
+],
+  "geometry": {"coordinates":[19.81528,39.675],"type":"Point"}
+}

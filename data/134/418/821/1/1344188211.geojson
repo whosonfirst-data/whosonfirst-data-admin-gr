@@ -1,0 +1,79 @@
+{
+  "id": 1344188211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92716,40.91656,21.92716,40.91656",
+    "geom:latitude":40.91656,
+    "geom:longitude":21.92716,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9042",
+    "gn:asciiname":"Kato Koryfi",
+    "gn:country_code":"GR",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735892,
+    "gn:latitude":40.91656,
+    "gn:longitude":21.92716,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"K\u00e1to Koryf\u00ed",
+    "gn:population":62,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03bf\u03c1\u03c5\u03c6\u03ae"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to R\u00e1dovon",
+        "K\u00e1to Korif\u00ed",
+        "K\u00e1to Koryf\u00ed",
+        "Kato Koryfi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735892
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9a21b8899656ffb44e4ff8807df94b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344188211,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1344188211,
+    "wof:lastmodified":1537624928,
+    "wof:name":"Kato Koryfi",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92716,
+    40.91656,
+    21.92716,
+    40.91656
+],
+  "geometry": {"coordinates":[21.92716,40.91656],"type":"Point"}
+}

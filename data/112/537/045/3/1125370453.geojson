@@ -1,0 +1,98 @@
+{
+  "id": 1125370453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91667,36.63333,24.91667,36.63333",
+    "geom:latitude":36.63333,
+    "geom:longitude":24.91667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":667,
+    "gn:population":667,
+    "iso:country":"GR",
+    "lbl:latitude":36.63333,
+    "lbl:longitude":24.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03bb\u03ad\u03b3\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043b\u0435\u0433\u0430\u043d\u0434\u0440\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Polykandro"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":262319,
+    "qs_pg:gn_pop":667,
+    "qs_pg:name":"Folegandros",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":272,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2005,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1183815,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":24543629,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262319,
+        "gp:id":24543629,
+        "qs_pg:id":1183815
+    },
+    "wof:country":"GR",
+    "wof:created":1497047355,
+    "wof:geomhash":"cf4581982f3a4b3324c4c0a4e0cf5ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125370453,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125370453,
+    "wof:lastmodified":1509389308,
+    "wof:name":"Folegandros",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":667,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91667,
+    36.63333,
+    24.91667,
+    36.63333
+],
+  "geometry": {"coordinates":[24.91667,36.63333],"type":"Point"}
+}

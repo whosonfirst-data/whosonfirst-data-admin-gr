@@ -1,0 +1,80 @@
+{
+  "id": 1309835093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48715,37.17742,24.48715,37.17742",
+    "geom:latitude":37.17742,
+    "geom:longitude":24.48715,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9288",
+    "gn:asciiname":"Panayia",
+    "gn:country_code":"GR",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255928,
+    "gn:latitude":37.17742,
+    "gn:longitude":24.48715,
+    "gn:modification_date":"2014-06-25",
+    "gn:name":"Panay\u00eda",
+    "gn:population":70,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1 \u03a3\u03b5\u03c1\u03af\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1",
+        "Panagia"
+    ],
+    "name:eng_x_preferred":[
+        "Panagia Serifou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255928
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"526dfb3fea0c8381795a7e3c491dae04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309835093,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1309835093,
+    "wof:lastmodified":1537550893,
+    "wof:name":"Panayia",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48715,
+    37.17742,
+    24.48715,
+    37.17742
+],
+  "geometry": {"coordinates":[24.48715,37.17742],"type":"Point"}
+}

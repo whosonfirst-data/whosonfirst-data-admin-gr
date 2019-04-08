@@ -1,0 +1,126 @@
+{
+  "id": 101856947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.398655,41.181729,23.398655,41.181729",
+    "geom:latitude":41.181729,
+    "geom:longitude":23.398655,
+    "gn:population":1061,
+    "iso:country":"GR",
+    "lbl:latitude":41.181729,
+    "lbl:longitude":23.398655,
+    "mps:latitude":41.181729,
+    "mps:longitude":23.398655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0645\u0641\u0627\u0643\u0648\u0641\u064a\u062a\u0648\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0432\u044f\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Vamvakofyto"
+    ],
+    "name:ell_x_historical":[
+        "\u03a3\u03ac\u03b2\u03b9\u03b1\u03ba\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03cc\u03c6\u03c5\u03c4\u03bf \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03cc\u03c6\u03c5\u03c4\u03bf\u03bd",
+        "Vamvak\u00f3fyto",
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03cc\u03c6\u03c5\u03c4\u03bf",
+        "Vamvak\u00f3fyton",
+        "\u03a3\u03ac\u03b2\u03b9\u03b1\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Vamvakofyto"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03cc\u03c6\u03c5\u03c4\u03bf \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u0432\u0435\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0432\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Vamvak\u00f3fyto"
+    ],
+    "name:unk_x_variant":[
+        "Vainvak\u00f3fiton"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0392\u0391\u039c\u0392\u0391\u039a\u039f\u03a6\u03a5\u03a4\u039f\u039d",
+    "qs:loc_alt":"BAMBAKOFYTON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":41.179,
+    "wd:longitude":23.394,
+    "wd:population":1061,
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733955,
+        "gp:id":964120,
+        "qs:id":1285392,
+        "wd:id":"Q3396802",
+        "wk:page":"Vamvakofyto"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3bcd25b4306704268ade37f17fae8709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101856947,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101856947,
+    "wof:lastmodified":1544743643,
+    "wof:name":"\u0392\u0391\u039c\u0392\u0391\u039a\u039f\u03a6\u03a5\u03a4\u039f\u039d",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1061,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.398655,
+    41.181729,
+    23.398655,
+    41.181729
+],
+  "geometry": {"coordinates":[23.398655,41.181729],"type":"Point"}
+}

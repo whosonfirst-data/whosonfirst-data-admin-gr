@@ -1,0 +1,78 @@
+{
+  "id": 1242608809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99031,37.55888,21.99031,37.55888",
+    "geom:latitude":37.55888,
+    "geom:longitude":21.99031,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Panagia",
+    "gn:country_code":"GR",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255927,
+    "gn:latitude":37.55888,
+    "gn:longitude":21.99031,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Panag\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Panag\u00eda"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Z\u00e9rzova",
+        "S\u00e9rtevo",
+        "Panay\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255927
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2465fc96856a3298601b12a6abbd8ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242608809,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242608809,
+    "wof:lastmodified":1537624328,
+    "wof:name":"Panagia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99031,
+    37.55888,
+    21.99031,
+    37.55888
+],
+  "geometry": {"coordinates":[21.99031,37.55888],"type":"Point"}
+}

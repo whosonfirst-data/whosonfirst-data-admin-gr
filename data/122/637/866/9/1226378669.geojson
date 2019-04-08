@@ -1,0 +1,73 @@
+{
+  "id": 1226378669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25936,39.07167,21.25936,39.07167",
+    "geom:latitude":39.07167,
+    "geom:longitude":21.25936,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Roupakia",
+    "gn:country_code":"GR",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254196,
+    "gn:latitude":39.07167,
+    "gn:longitude":21.25936,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Roupaki\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Roupaki\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03c5\u03c0\u03b1\u03ba\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254196
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c7b8d6432df4db90b8082b3fddcaeb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226378669,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226378669,
+    "wof:lastmodified":1537624256,
+    "wof:name":"Roupakia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25936,
+    39.07167000000001,
+    21.25936,
+    39.07167000000001
+],
+  "geometry": {"coordinates":[21.25936,39.07167000000001],"type":"Point"}
+}

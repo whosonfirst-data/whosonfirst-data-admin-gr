@@ -1,0 +1,81 @@
+{
+  "id": 1259813851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3825,36.62621,22.3825,36.62621",
+    "geom:latitude":36.62621,
+    "geom:longitude":22.3825,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Pyrgos Dirou",
+    "gn:country_code":"GR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255212,
+    "gn:latitude":36.62621,
+    "gn:longitude":22.3825,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"P\u00fdrgos Diro\u00fa",
+    "gn:population":246,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u0394\u03b9\u03c1\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Pyrgos Dirou"
+    ],
+    "name:und_x_variant":[
+        "P\u00edrgos",
+        "Pyrgos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255212,
+        "wk:page":"Pyrgos_Dirou"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"54a2f0c85005bdd7d7a37935137f6a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259813851,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259813851,
+    "wof:lastmodified":1537624295,
+    "wof:name":"Pyrgos Dirou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3825,
+    36.62621,
+    22.3825,
+    36.62621
+],
+  "geometry": {"coordinates":[22.3825,36.62621],"type":"Point"}
+}

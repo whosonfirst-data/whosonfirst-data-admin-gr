@@ -1,0 +1,76 @@
+{
+  "id": 1226278955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66747,38.67694,21.66747,38.67694",
+    "geom:latitude":38.67694,
+    "geom:longitude":21.66747,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9126",
+    "gn:asciiname":"Nerosyrtis",
+    "gn:country_code":"GR",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256445,
+    "gn:latitude":38.67694,
+    "gn:longitude":21.66747,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Neros\u00fdrtis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Neros\u00fdrtis"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03c1\u03bf\u03c3\u03cd\u03c1\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Neros\u00edrtis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256445
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d21436e6d8aa2dac2b8ffb4ff99ab2bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226278955,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226278955,
+    "wof:lastmodified":1537624353,
+    "wof:name":"Nerosyrtis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66747,
+    38.67694,
+    21.66747,
+    38.67694
+],
+  "geometry": {"coordinates":[21.66747,38.67694],"type":"Point"}
+}

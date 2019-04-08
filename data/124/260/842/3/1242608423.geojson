@@ -1,0 +1,80 @@
+{
+  "id": 1242608423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53472,38.10897,22.53472,38.10897",
+    "geom:latitude":38.10897,
+    "geom:longitude":22.53472,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Kato Pitsa",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260502,
+    "gn:latitude":38.10897,
+    "gn:longitude":22.53472,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"K\u00e1to Pits\u00e1",
+    "gn:population":657,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a0\u03b9\u03c4\u03c3\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Pitsa"
+    ],
+    "name:und_x_variant":[
+        "Pets\u00e1",
+        "K\u00e1to Pits\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260502
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"91e02052ceadaafd63206f5d9d72ba4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242608423,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242608423,
+    "wof:lastmodified":1537624544,
+    "wof:name":"Kato Pitsa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":657,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53472,
+    38.10897,
+    22.53472,
+    38.10897
+],
+  "geometry": {"coordinates":[22.53472,38.10897],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343698035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41516,38.79115,22.41516,38.79115",
+    "geom:latitude":38.79115,
+    "geom:longitude":22.41516,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Dhelfinon",
+    "gn:country_code":"GR",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263220,
+    "gn:latitude":38.79115,
+    "gn:longitude":22.41516,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Dhelf\u00ednon",
+    "gn:population":52,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b5\u03bb\u03c6\u03af\u03bd\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Delfino"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263220
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4f17dca91a6c485575d304ca1a791a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343698035,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343698035,
+    "wof:lastmodified":1537624674,
+    "wof:name":"Dhelfinon",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41516,
+    38.79115,
+    22.41516,
+    38.79115
+],
+  "geometry": {"coordinates":[22.41516,38.79115],"type":"Point"}
+}

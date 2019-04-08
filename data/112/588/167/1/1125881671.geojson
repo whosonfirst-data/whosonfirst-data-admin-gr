@@ -1,0 +1,108 @@
+{
+  "id": 1125881671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84944,39.64528,19.84944,39.64528",
+    "geom:latitude":39.64528,
+    "geom:longitude":19.84944,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1798,
+    "gn:population":1660,
+    "iso:country":"GR",
+    "lbl:latitude":39.64528,
+    "lbl:longitude":19.84944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u062a\u0648\u0643\u0627\u0644\u064a\u0648\u0646\u060c \u0643\u064a\u0631\u0643\u064a\u0631\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Kontokali"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c4\u03bf\u03ba\u03ac\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bd\u03c4\u03bf\u03ba\u03ac\u03bb\u03b9",
+        "Kontok\u00e1li"
+    ],
+    "name:eng_x_preferred":[
+        "Kontokali"
+    ],
+    "name:fin_x_preferred":[
+        "Kontok\u00e1li"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c4\u03cc\u03ba\u03b1\u03bb\u03b9 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u043e\u043a\u0430\u043b\u0438\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kontok\u00e1li"
+    ],
+    "name:unk_x_variant":[
+        "Kondok\u00e1lion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2463662,
+    "qs_pg:gn_pop":1798,
+    "qs_pg:name":"Kontok\u00e1lion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1035836,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463662,
+        "qs_pg:id":1035836,
+        "wd:id":"Q3564009"
+    },
+    "wof:country":"GR",
+    "wof:created":1497294845,
+    "wof:geomhash":"e98da48963c062762dc5f267676c3568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125881671,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125881671,
+    "wof:lastmodified":1514443986,
+    "wof:name":"Kontok\u00e1lion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":1660,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84944,
+    39.64528,
+    19.84944,
+    39.64528
+],
+  "geometry": {"coordinates":[19.84944,39.64528],"type":"Point"}
+}

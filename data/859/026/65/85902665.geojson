@@ -1,0 +1,111 @@
+{
+  "id": 85902665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23752753.701649,
+    "geom:bbox":"24.904349,35.136449,24.904349,35.136449",
+    "geom:latitude":35.136449,
+    "geom:longitude":24.904349,
+    "gn:latitude":35.12875,
+    "gn:longitude":24.90519,
+    "iso:country":"GR",
+    "lbl:latitude":35.136449,
+    "lbl:longitude":24.904349,
+    "mps:latitude":35.13481,
+    "mps:longitude":24.903994,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_colloquial":[
+        "Kato Zaros"
+    ],
+    "name:eng_x_preferred":[
+        "K\u00e1to Zar\u00f3s"
+    ],
+    "name:unk_x_variant":[
+        "K\u00e1to Zar\u00f3s"
+    ],
+    "qs:gn_adm0_cc":"GR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":251250,
+    "qs:gn_nam_loc":"Zaros, Faistos, Crete, Crete, GR",
+    "qs:gn_namadm1":"ESYE43",
+    "qs:gn_name":"K\u00e1to Zar\u00f3s",
+    "qs:local_max":121,
+    "qs:local_sum":121,
+    "qs:localhoods":1,
+    "qs:name":"K\u00e1to Zar\u00f3s",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Crete",
+    "qs:name_adm2":"Crete",
+    "qs:name_lau":"Faistos",
+    "qs:name_local":"Zaros",
+    "qs:photo_max":29,
+    "qs:photo_sum":121,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424833,
+    "qs:woe_adm1":56558064,
+    "qs:woe_adm2":12577885,
+    "qs:woe_lau":56558223,
+    "qs:woe_local":965610,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260439,
+        "gp:id":952491,
+        "qs:id":1159303,
+        "qs_pg:id":1159303
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"349a83c01ce90108dffb4e41cba7c5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":85902665,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":85902665,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935921,
+    "wof:name":"K\u00e1to Zar\u00f3s",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.904349,
+    35.136449,
+    24.904349,
+    35.136449
+],
+  "geometry": {"coordinates":[24.904349,35.136449],"type":"Point"}
+}

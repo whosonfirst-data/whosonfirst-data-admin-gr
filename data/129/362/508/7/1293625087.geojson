@@ -1,0 +1,82 @@
+{
+  "id": 1293625087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90719,39.183,23.90719,39.183",
+    "geom:latitude":39.183,
+    "geom:longitude":23.90719,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9109",
+    "gn:asciiname":"Isomata",
+    "gn:country_code":"GR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261726,
+    "gn:latitude":39.183,
+    "gn:longitude":23.90719,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Is\u00f3mata",
+    "gn:population":49,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03c3\u03b9\u03ce\u03bc\u03b1\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Isomata"
+    ],
+    "name:eng_x_variant":[
+        "Isiomata"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261726
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"52bda96c65b9efae76d8a074ca31b226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625087,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293625087,
+    "wof:lastmodified":1537624605,
+    "wof:name":"Isomata",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90719,
+    39.183,
+    23.90719,
+    39.183
+],
+  "geometry": {"coordinates":[23.90719,39.183],"type":"Point"}
+}

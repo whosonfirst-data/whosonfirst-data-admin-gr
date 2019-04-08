@@ -1,0 +1,81 @@
+{
+  "id": 1209646139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78081,39.43778,20.78081,39.43778",
+    "geom:latitude":39.43778,
+    "geom:longitude":20.78081,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Lepadi",
+    "gn:country_code":"GR",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258499,
+    "gn:latitude":39.43778,
+    "gn:longitude":20.78081,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"Lep\u00e1di",
+    "gn:population":21,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c0\u03ac\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c0\u03ac\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Lepadi"
+    ],
+    "name:und_x_variant":[
+        "Lep\u00e1dhion",
+        "Lep\u00e1di",
+        "Lep\u00eddhi",
+        "Lep\u00e1dion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258499
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b37d47e69431cda1f9903b4afd18b618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209646139
+        }
+    ],
+    "wof:id":1209646139,
+    "wof:lastmodified":1537624451,
+    "wof:name":"Lepadi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78081,
+    39.43778,
+    20.78081,
+    39.43778
+],
+  "geometry": {"coordinates":[20.78081,39.43778],"type":"Point"}
+}

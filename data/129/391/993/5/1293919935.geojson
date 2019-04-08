@@ -1,0 +1,85 @@
+{
+  "id": 1293919935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33643,35.26069,24.33643,35.26069",
+    "geom:latitude":35.26069,
+    "geom:longitude":24.33643,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Vilandredo",
+    "gn:country_code":"GR",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251962,
+    "gn:latitude":35.26069,
+    "gn:longitude":24.33643,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Vilandr\u00e9do",
+    "gn:population":73,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03bb\u03b1\u03bd\u03b4\u03c1\u03ad\u03b4\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b9\u03bb\u03b1\u03bd\u03b4\u03c1\u03ad\u03b4\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Vilandredo"
+    ],
+    "name:und_x_variant":[
+        "Bilandr\u00e9dho",
+        "Villandr\u00e9dho",
+        "Villandhr\u00e9dho",
+        "Vilandr\u00e9dhon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251962
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"227773656f5908cf63128366a84da0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293919935,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293919935,
+    "wof:lastmodified":1537624163,
+    "wof:name":"Vilandredo",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33643,
+    35.26069000000001,
+    24.33643,
+    35.26069000000001
+],
+  "geometry": {"coordinates":[24.33643,35.26069000000001],"type":"Point"}
+}

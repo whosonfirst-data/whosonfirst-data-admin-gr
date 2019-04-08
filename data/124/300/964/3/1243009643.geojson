@@ -1,0 +1,79 @@
+{
+  "id": 1243009643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25694,41.06459,24.25694,41.06459",
+    "geom:latitude":41.06459,
+    "geom:longitude":24.25694,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9001",
+    "gn:asciiname":"Kato Kefalari",
+    "gn:country_code":"GR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735898,
+    "gn:latitude":41.06459,
+    "gn:longitude":24.25694,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"K\u00e1to Kefal\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Kefal\u00e1ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b5\u03c6\u03b1\u03bb\u03ac\u03c1\u03b9",
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b5\u03c6\u03b1\u03bb\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9on Kefal\u00e1ri",
+        "N\u00e9on Kefal\u00e1rion",
+        "K\u00e1to Kefal\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735898
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e944d93e8ce4f51e5e63956dcbc16a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243009643,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243009643,
+    "wof:lastmodified":1537624929,
+    "wof:name":"Kato Kefalari",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25694,
+    41.06459,
+    24.25694,
+    41.06459
+],
+  "geometry": {"coordinates":[24.25694,41.06459],"type":"Point"}
+}

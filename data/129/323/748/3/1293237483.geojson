@@ -1,0 +1,79 @@
+{
+  "id": 1293237483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50814,37.88833,21.50814,37.88833",
+    "geom:latitude":37.88833,
+    "geom:longitude":21.50814,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Velanidi",
+    "gn:country_code":"GR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252083,
+    "gn:latitude":37.88833,
+    "gn:longitude":21.50814,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Velan\u00eddi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Velan\u00eddi"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b5\u03bb\u03b1\u03bd\u03af\u03b4\u03b9",
+        "Velan\u00eddion",
+        "\u0392\u03b5\u03bb\u03b1\u03bd\u03af\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Velan\u00eddhi",
+        "Velan\u00eddhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252083
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5481b2216a6dc9426bfd74d2fbc93bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293237483,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293237483,
+    "wof:lastmodified":1537624168,
+    "wof:name":"Velanidi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50814,
+    37.88833,
+    21.50814,
+    37.88833
+],
+  "geometry": {"coordinates":[21.50814,37.88833],"type":"Point"}
+}

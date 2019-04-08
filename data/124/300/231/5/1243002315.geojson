@@ -1,0 +1,76 @@
+{
+  "id": 1243002315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92477,37.39739,24.92477,37.39739",
+    "geom:latitude":37.39739,
+    "geom:longitude":24.92477,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Chrousa",
+    "gn:country_code":"GR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259836,
+    "gn:latitude":37.39739,
+    "gn:longitude":24.92477,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chro\u00fasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chro\u00fasa"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c1\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Khro\u00fasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259836
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a1edd50d92d278864ce041015bb2d276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243002315,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243002315,
+    "wof:lastmodified":1537624509,
+    "wof:name":"Chrousa",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92477,
+    37.39739,
+    24.92477,
+    37.39739
+],
+  "geometry": {"coordinates":[24.92477,37.39739],"type":"Point"}
+}

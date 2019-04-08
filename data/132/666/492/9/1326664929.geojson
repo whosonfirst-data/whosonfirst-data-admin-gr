@@ -1,0 +1,76 @@
+{
+  "id": 1326664929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06761,37.77319,24.06761,37.77319",
+    "geom:latitude":37.77319,
+    "geom:longitude":24.06761,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Trehantiera",
+    "gn:country_code":"GR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036711,
+    "gn:latitude":37.77319,
+    "gn:longitude":24.06761,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Trehanti\u00e9ra",
+    "gn:population":122,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b5\u03c7\u03b1\u03bd\u03c4\u03b9\u03ad\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Trechantiera"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036711
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"67ba36d5855813a5711b8b131ff88166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326664929,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1326664929,
+    "wof:lastmodified":1537551157,
+    "wof:name":"Trehantiera",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06761,
+    37.77319,
+    24.06761,
+    37.77319
+],
+  "geometry": {"coordinates":[24.06761,37.77319],"type":"Point"}
+}

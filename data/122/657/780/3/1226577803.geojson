@@ -1,0 +1,76 @@
+{
+  "id": 1226577803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3992,36.50436,22.3992,36.50436",
+    "geom:latitude":36.50436,
+    "geom:longitude":22.3992,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Archia",
+    "gn:country_code":"GR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264624,
+    "gn:latitude":36.50436,
+    "gn:longitude":22.3992,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Archi\u00e1",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c7\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Archia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264624
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f99515f82497f21df324b905cf56a78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226577803,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226577803,
+    "wof:lastmodified":1537624734,
+    "wof:name":"Archia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3992,
+    36.50436,
+    22.3992,
+    36.50436
+],
+  "geometry": {"coordinates":[22.3992,36.50436],"type":"Point"}
+}

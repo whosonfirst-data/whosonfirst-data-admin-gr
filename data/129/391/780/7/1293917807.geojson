@@ -1,0 +1,73 @@
+{
+  "id": 1293917807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54333,35.13344,24.54333,35.13344",
+    "geom:latitude":35.13344,
+    "geom:longitude":24.54333,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Agia Paraskevi",
+    "gn:country_code":"GR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528316,
+    "gn:latitude":35.13344,
+    "gn:longitude":24.54333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ag\u00eda Paraskev\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ag\u00eda Paraskev\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528316
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"34a723c1aa282af583cc7909ea64e7bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293917807,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293917807,
+    "wof:lastmodified":1537625017,
+    "wof:name":"Agia Paraskevi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54333,
+    35.13344,
+    24.54333,
+    35.13344
+],
+  "geometry": {"coordinates":[24.54333,35.13344],"type":"Point"}
+}

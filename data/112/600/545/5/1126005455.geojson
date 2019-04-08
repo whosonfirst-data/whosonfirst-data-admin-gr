@@ -1,0 +1,135 @@
+{
+  "id": 1126005455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13711,35.20176,24.13711,35.20176",
+    "geom:latitude":35.20176,
+    "geom:longitude":24.13711,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":243,
+    "gn:population":243,
+    "iso:country":"GR",
+    "lbl:latitude":35.20176,
+    "lbl:longitude":24.13711,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Chora Sfakion"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ce\u03c1\u03b1 \u03a3\u03c6\u03b1\u03ba\u03af\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Hora Sfakion"
+    ],
+    "name:fin_x_preferred":[
+        "Ch\u00f3ra Sfak\u00edon"
+    ],
+    "name:fre_x_preferred":[
+        "Ch\u00f3ra Sfak\u00edon"
+    ],
+    "name:ger_x_preferred":[
+        "Chora Sfakion"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03ce\u03c1\u03b1 \u03a3\u03c6\u03b1\u03ba\u03af\u03c9\u03bd \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30e9\u30fb\u30b9\u30d5\u30a1\u30ad\u30aa\u30f3"
+    ],
+    "name:nno_x_preferred":[
+        "Kh\u00f3ra Sfaki\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Chora Sfakion"
+    ],
+    "name:por_x_preferred":[
+        "Chora Sfakion"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u0430 \u0421\u0444\u0430\u043a\u0438\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ch\u00f3ra Sfak\u00edon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0430-\u0421\u0444\u0430\u043a\u0456\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Sfaki\u00e1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":259912,
+    "qs_pg:gn_pop":243,
+    "qs_pg:name":"Chora Sfakion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":2060,
+    "qs_pg:photos_1k":417,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2060,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":965344,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":966190,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259912,
+        "gp:id":966190,
+        "qs_pg:id":965344,
+        "wd:id":"Q1076320"
+    },
+    "wof:country":"GR",
+    "wof:created":1497299917,
+    "wof:geomhash":"bfd24f37081da6c555e6447d238d5038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126005455,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126005455,
+    "wof:lastmodified":1514443936,
+    "wof:name":"Chora Sfakion",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":243,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13711,
+    35.20176,
+    24.13711,
+    35.20176
+],
+  "geometry": {"coordinates":[24.13711,35.20176],"type":"Point"}
+}

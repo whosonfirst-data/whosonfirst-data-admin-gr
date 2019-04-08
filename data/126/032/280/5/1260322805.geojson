@@ -1,0 +1,86 @@
+{
+  "id": 1260322805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62794,39.63683,20.62794,39.63683",
+    "geom:latitude":39.63683,
+    "geom:longitude":20.62794,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9083",
+    "gn:asciiname":"Agios Christoforos",
+    "gn:country_code":"GR",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251307,
+    "gn:latitude":39.63683,
+    "gn:longitude":20.62794,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"\u00c1gios Christ\u00f3foros",
+    "gn:population":49,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0393\u03b9\u03bf\u03c5\u03c1\u03b3\u03ac\u03bd\u03b9\u03c3\u03c4\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c6\u03bf\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03bf\u03c5\u03c1\u03b3\u03ac\u03bd\u03b9\u03c3\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Christoforos"
+    ],
+    "name:und_x_variant":[
+        "Yiourg\u00e1nista",
+        "Giourg\u00e1nista"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251307
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c2f42624245c7735bfe7ef4338b7b460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260322805,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1260322805,
+    "wof:lastmodified":1537624134,
+    "wof:name":"Agios Christoforos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62794,
+    39.63683,
+    20.62794,
+    39.63683
+],
+  "geometry": {"coordinates":[20.62794,39.63683],"type":"Point"}
+}

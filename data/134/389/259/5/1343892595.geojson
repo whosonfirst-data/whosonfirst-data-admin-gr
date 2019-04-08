@@ -1,0 +1,84 @@
+{
+  "id": 1343892595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26369,39.65428,22.26369,39.65428",
+    "geom:latitude":39.65428,
+    "geom:longitude":22.26369,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9100",
+    "gn:asciiname":"Amygdalia",
+    "gn:country_code":"GR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265176,
+    "gn:latitude":39.65428,
+    "gn:longitude":22.26369,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Amygdali\u00e1",
+    "gn:population":220,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c5\u03b3\u03b4\u03b1\u03bb\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c5\u03b3\u03b4\u03b1\u03bb\u03ad\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Amygdalia"
+    ],
+    "name:und_x_variant":[
+        "Go\u00fanitsa",
+        "Amigdhal\u00e9a",
+        "Amygdali\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265176
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"463704df27856b57467ebcfa069de53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343892595,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1343892595,
+    "wof:lastmodified":1537624763,
+    "wof:name":"Amygdalia",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26369,
+    39.65428,
+    22.26369,
+    39.65428
+],
+  "geometry": {"coordinates":[22.26369,39.65428],"type":"Point"}
+}

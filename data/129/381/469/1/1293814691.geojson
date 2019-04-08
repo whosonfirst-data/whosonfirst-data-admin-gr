@@ -1,0 +1,81 @@
+{
+  "id": 1293814691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7619,40.66564,24.7619,40.66564",
+    "geom:latitude":40.66564,
+    "geom:longitude":24.7619,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9011",
+    "gn:asciiname":"Koinyra",
+    "gn:country_code":"GR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735673,
+    "gn:latitude":40.66564,
+    "gn:longitude":24.7619,
+    "gn:modification_date":"2014-08-21",
+    "gn:name":"Ko\u00ednyra",
+    "gn:population":105,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03af\u03bd\u03c5\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Ko\u00ednyra"
+    ],
+    "name:eng_x_preferred":[
+        "Koinyra"
+    ],
+    "name:und_x_variant":[
+        "K\u00ednira",
+        "Ko\u00ednira"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735673
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eb4684d169a021ce1bf321a3f4553525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1293814691,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293814691,
+    "wof:lastmodified":1537624917,
+    "wof:name":"Koinyra",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7619,
+    40.66564,
+    24.7619,
+    40.66564
+],
+  "geometry": {"coordinates":[24.7619,40.66564],"type":"Point"}
+}

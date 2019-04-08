@@ -1,0 +1,77 @@
+{
+  "id": 1260110711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72444,38.34603,21.72444,38.34603",
+    "geom:latitude":38.34603,
+    "geom:longitude":21.72444,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Makyneia",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260534,
+    "gn:latitude":38.34603,
+    "gn:longitude":21.72444,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mak\u00fdneia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mak\u00fdneia"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03ba\u03cd\u03bd\u03b5\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Mam\u00e1kon",
+        "K\u00e1to Mamm\u00e1ko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260534
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"de4830a7d223e8657676eac194605a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260110711,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1260110711,
+    "wof:lastmodified":1537624545,
+    "wof:name":"Makyneia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72444,
+    38.34603,
+    21.72444,
+    38.34603
+],
+  "geometry": {"coordinates":[21.72444,38.34603],"type":"Point"}
+}

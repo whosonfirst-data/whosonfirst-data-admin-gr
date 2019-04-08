@@ -1,0 +1,76 @@
+{
+  "id": 1209139831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74543,41.06182,24.74543,41.06182",
+    "geom:latitude":41.06182,
+    "geom:longitude":24.74543,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Krini",
+    "gn:country_code":"GR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735542,
+    "gn:latitude":41.06182,
+    "gn:longitude":24.74543,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Kr\u00edni",
+    "gn:population":34,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ae\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Krini"
+    ],
+    "name:und_x_variant":[
+        "Agal\u00e1r",
+        "Kr\u00edni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735542
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5d72fb9ee343ad41cf821cda87e4d03b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209139831
+        }
+    ],
+    "wof:id":1209139831,
+    "wof:lastmodified":1537624910,
+    "wof:name":"Krini",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74543,
+    41.06182,
+    24.74543,
+    41.06182
+],
+  "geometry": {"coordinates":[24.74543,41.06182],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 101857535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.005275,40.690655,23.005275,40.690655",
+    "geom:latitude":40.690655,
+    "geom:longitude":23.005275,
+    "gn:population":4362,
+    "iso:country":"GR",
+    "lbl:latitude":40.690655,
+    "lbl:longitude":23.005275,
+    "mps:latitude":40.690655,
+    "mps:longitude":23.005275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0631\u0648\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u0440\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Filyro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03af\u03bb\u03c5\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Filyro"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03af\u03bb\u03c5\u03c1\u03bf"
+    ],
+    "name:nno_x_preferred":[
+        "F\u00edlyro"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00edliro"
+    ],
+    "name:unk_x_variant":[
+        "Yalij\u00edk"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a6\u0399\u039b\u03a5\u03a1\u039f\u039d",
+    "qs:loc_alt":"FILYRON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":40.691111,
+    "wd:longitude":23.004167,
+    "wd:population":5495,
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736245,
+        "gp:id":949535,
+        "qs:id":845303,
+        "qs_pg:id":845303,
+        "wd:id":"Q5449286",
+        "wk:page":"Filyro"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d8ce720e60366ec02237ed17384f624b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857535,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857535,
+    "wof:lastmodified":1544743946,
+    "wof:name":"\u03a6\u0399\u039b\u03a5\u03a1\u039f\u039d",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":5495,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.005275,
+    40.690655,
+    23.005275,
+    40.690655
+],
+  "geometry": {"coordinates":[23.005275,40.690655],"type":"Point"}
+}

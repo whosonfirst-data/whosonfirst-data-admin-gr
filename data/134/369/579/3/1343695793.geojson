@@ -1,0 +1,78 @@
+{
+  "id": 1343695793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75265,37.79698,26.75265,37.79698",
+    "geom:latitude":37.79698,
+    "geom:longitude":26.75265,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Chatzistamoulides",
+    "gn:country_code":"GR",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443621,
+    "gn:latitude":37.79698,
+    "gn:longitude":26.75265,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Chatzistamo\u00falides",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c4\u03b6\u03b7\u03c3\u03c4\u03b1\u03bc\u03bf\u03cd\u03bb\u03b7\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Chatzistamoulides"
+    ],
+    "name:und_x_variant":[
+        "Khatzistamo\u00falides",
+        "Chatzistamo\u00falides"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443621
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"868015bff76a99a6b559162912d25fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1343695793,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343695793,
+    "wof:lastmodified":1537624791,
+    "wof:name":"Chatzistamoulides",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75265,
+    37.79698,
+    26.75265,
+    37.79698
+],
+  "geometry": {"coordinates":[26.75265,37.79698],"type":"Point"}
+}

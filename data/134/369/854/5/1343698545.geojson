@@ -1,0 +1,80 @@
+{
+  "id": 1343698545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45544,37.13827,24.45544,37.13827",
+    "geom:latitude":37.13827,
+    "geom:longitude":24.45544,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9288",
+    "gn:asciiname":"Koutalas",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258973,
+    "gn:latitude":37.13827,
+    "gn:longitude":24.45544,
+    "gn:modification_date":"2014-06-25",
+    "gn:name":"Koutal\u00e1s",
+    "gn:population":23,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c4\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Koutalas"
+    ],
+    "name:und_x_variant":[
+        "Koutal\u00e1",
+        "Koutal\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258973
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9ddc7bbafec993b8d7f37ac725ad5800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343698545,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1343698545,
+    "wof:lastmodified":1537624473,
+    "wof:name":"Koutalas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45544,
+    37.13827,
+    24.45544,
+    37.13827
+],
+  "geometry": {"coordinates":[24.45544,37.13827],"type":"Point"}
+}

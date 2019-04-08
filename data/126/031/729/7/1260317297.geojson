@@ -1,0 +1,65 @@
+{
+  "id": 1260317297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05,37.66667,24.05,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":24.05,
+    "gn:admin1_code":"ESYE31",
+    "gn:asciiname":"Panayia",
+    "gn:country_code":"GR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":255926,
+    "gn:latitude":37.66667,
+    "gn:longitude":24.05,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Panay\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255926
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b25278ba37d6520093f0dba4d3e6a445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260317297,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1260317297,
+    "wof:lastmodified":1536666680,
+    "wof:name":"Panayia",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05,
+    37.66667,
+    24.05,
+    37.66667
+],
+  "geometry": {"coordinates":[24.05,37.66667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243398237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51656,35.29089,25.51656,35.29089",
+    "geom:latitude":35.29089,
+    "geom:longitude":25.51656,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Pyrgos Vrachasiou",
+    "gn:country_code":"GR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605395,
+    "gn:latitude":35.29089,
+    "gn:longitude":25.51656,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"P\u00fdrgos Vrachas\u00edou",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u0392\u03c1\u03b1\u03c7\u03b1\u03c3\u03af\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Pyrgos Vrachasiou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605395
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b5c3e85f68432a71367341e002398904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243398237,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243398237,
+    "wof:lastmodified":1537625025,
+    "wof:name":"Pyrgos Vrachasiou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51656,
+    35.29089000000001,
+    25.51656,
+    35.29089000000001
+],
+  "geometry": {"coordinates":[25.51656,35.29089000000001],"type":"Point"}
+}

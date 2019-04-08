@@ -1,0 +1,79 @@
+{
+  "id": 1293726433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06721,35.20089,24.06721,35.20089",
+    "geom:latitude":35.20089,
+    "geom:longitude":24.06721,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9324",
+    "gn:asciiname":"Lykos",
+    "gn:country_code":"GR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523210,
+    "gn:latitude":35.20089,
+    "gn:longitude":24.06721,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"L\u00fdkos",
+    "gn:population":19,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03cd\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Lykos"
+    ],
+    "name:und_x_variant":[
+        "L\u00fdkos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523210
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"24b6aa5777b2ce082d6dc7a985cb34d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293726433,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293726433,
+    "wof:lastmodified":1537625015,
+    "wof:name":"Lykos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06721,
+    35.20089,
+    24.06721,
+    35.20089
+],
+  "geometry": {"coordinates":[24.06721,35.20089],"type":"Point"}
+}

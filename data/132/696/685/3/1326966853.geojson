@@ -1,0 +1,76 @@
+{
+  "id": 1326966853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03344,39.26946,22.03344,39.26946",
+    "geom:latitude":39.26946,
+    "geom:longitude":22.03344,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9096",
+    "gn:asciiname":"Dasochori",
+    "gn:country_code":"GR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251255,
+    "gn:latitude":39.26946,
+    "gn:longitude":22.03344,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dasoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dasoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b1\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Zarkhan\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251255
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"16231c06c82114bfd23c534aed66977d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326966853,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326966853,
+    "wof:lastmodified":1537624132,
+    "wof:name":"Dasochori",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03344,
+    39.26946,
+    22.03344,
+    39.26946
+],
+  "geometry": {"coordinates":[22.03344,39.26946],"type":"Point"}
+}

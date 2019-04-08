@@ -1,0 +1,67 @@
+{
+  "id": 1310339175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71667,35.3,23.71667,35.3",
+    "geom:latitude":35.3,
+    "geom:longitude":23.71667,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Avdhouliana",
+    "gn:country_code":"GR",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264347,
+    "gn:latitude":35.3,
+    "gn:longitude":23.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Avdhoulian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264347
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4757e0687d98be692875e971673bfb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310339175,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310339175,
+    "wof:lastmodified":1536659478,
+    "wof:name":"Avdhouliana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71667,
+    35.3,
+    23.71667,
+    35.3
+],
+  "geometry": {"coordinates":[23.71667,35.3],"type":"Point"}
+}

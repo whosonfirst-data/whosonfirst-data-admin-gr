@@ -1,0 +1,74 @@
+{
+  "id": 1344093191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46678,37.86655,22.46678,37.86655",
+    "geom:latitude":37.86655,
+    "geom:longitude":22.46678,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Dhriza",
+    "gn:country_code":"GR",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":262879,
+    "gn:latitude":37.86655,
+    "gn:longitude":22.46678,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Dhr\u00edza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c1\u03af\u03b6\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00e9za",
+        "Dhr\u00edza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262879
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c3dc694820b5d0c07e292be9115f4bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344093191,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1344093191,
+    "wof:lastmodified":1537624654,
+    "wof:name":"Dhriza",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46678,
+    37.86655,
+    22.46678,
+    37.86655
+],
+  "geometry": {"coordinates":[22.46678,37.86655],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209849371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86485,38.89464,21.86485,38.89464",
+    "geom:latitude":38.89464,
+    "geom:longitude":21.86485,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Ayios Nikolaos",
+    "gn:country_code":"GR",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263800,
+    "gn:latitude":38.89464,
+    "gn:longitude":21.86485,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"\u00c1yios Nik\u00f3laos",
+    "gn:population":264,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Nikolaos"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1spi",
+        "\u00c1yios Nik\u00f3laos",
+        "Agios Nikolaos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263800
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0535e264b4188e0718788811fd5a9281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209849371,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1209849371,
+    "wof:lastmodified":1537624698,
+    "wof:name":"Ayios Nikolaos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86485,
+    38.89464,
+    21.86485,
+    38.89464
+],
+  "geometry": {"coordinates":[21.86485,38.89464],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1243101909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.92326,36.02361,27.92326,36.02361",
+    "geom:latitude":36.02361,
+    "geom:longitude":27.92326,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Gennadi",
+    "gn:country_code":"GR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251448,
+    "gn:latitude":36.02361,
+    "gn:longitude":27.92326,
+    "gn:modification_date":"2013-11-23",
+    "gn:name":"Gennadi",
+    "gn:population":655,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gennadi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03bd\u03bd\u03ac\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Yenn\u00e1dhion"
+    ],
+    "name:eng_x_preferred":[
+        "Gennadi"
+    ],
+    "name:und_x_variant":[
+        "Iannadi",
+        "Yiann\u00e1dhi",
+        "Yenn\u00e1dhi",
+        "Genn\u00e1dion",
+        "\u0393\u03b5\u03bd\u03bd\u03ac\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251448,
+        "wk:page":"Gennadi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fdc726c0c9ab5045463982ee4759c31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243101909,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243101909,
+    "wof:lastmodified":1537624141,
+    "wof:name":"Gennadi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":655,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92326,
+    36.02361,
+    27.92326,
+    36.02361
+],
+  "geometry": {"coordinates":[27.92326,36.02361],"type":"Point"}
+}

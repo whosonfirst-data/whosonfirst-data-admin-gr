@@ -1,0 +1,73 @@
+{
+  "id": 1276373721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88708,38.61508,21.88708,38.61508",
+    "geom:latitude":38.61508,
+    "geom:longitude":21.88708,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Ambelakiotissa",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265233,
+    "gn:latitude":38.61508,
+    "gn:longitude":21.88708,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ambelaki\u00f3tissa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kos\u00edtsa",
+        "Koz\u00edtsa",
+        "Kastr\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265233
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"956b8d98c8daa302f0d540be8e3f2ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373721,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276373721,
+    "wof:lastmodified":1537624768,
+    "wof:name":"Ambelakiotissa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88708,
+    38.61508,
+    21.88708,
+    38.61508
+],
+  "geometry": {"coordinates":[21.88708,38.61508],"type":"Point"}
+}

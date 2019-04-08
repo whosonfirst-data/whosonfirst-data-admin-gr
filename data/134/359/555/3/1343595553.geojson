@@ -1,0 +1,80 @@
+{
+  "id": 1343595553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76967,38.90813,21.76967,38.90813",
+    "geom:latitude":38.90813,
+    "geom:longitude":21.76967,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Gorianadhes",
+    "gn:country_code":"GR",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261985,
+    "gn:latitude":38.90813,
+    "gn:longitude":21.76967,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Gorian\u00e1dhes",
+    "gn:population":146,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c1\u03b9\u03b1\u03bd\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Gorianades"
+    ],
+    "name:und_x_variant":[
+        "Goryiann\u00e1dhes",
+        "Gorian\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261985
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"444d37e0e733315d70a39b1e72745f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343595553,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343595553,
+    "wof:lastmodified":1537624615,
+    "wof:name":"Gorianadhes",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76967,
+    38.90813,
+    21.76967,
+    38.90813
+],
+  "geometry": {"coordinates":[21.76967,38.90813],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276260339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44028,39.29069,21.44028,39.29069",
+    "geom:latitude":39.29069,
+    "geom:longitude":21.44028,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9091",
+    "gn:asciiname":"Marathos B",
+    "gn:country_code":"GR",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253813,
+    "gn:latitude":39.29069,
+    "gn:longitude":21.44028,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"M\u00e1rathos B",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03b1\u03b8\u03bf\u03c2 \u0392"
+    ],
+    "name:und_x_variant":[
+        "Sinoikism\u00f3s Mar\u00e1thou",
+        "M\u00e1rathos",
+        "M\u00e1rathos B"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253813
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8b803740340207617bd86fb1561900cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276260339,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1276260339,
+    "wof:lastmodified":1537624238,
+    "wof:name":"Marathos B",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44028,
+    39.29069000000001,
+    21.44028,
+    39.29069000000001
+],
+  "geometry": {"coordinates":[21.44028,39.29069000000001],"type":"Point"}
+}

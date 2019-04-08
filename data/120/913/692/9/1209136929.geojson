@@ -1,0 +1,92 @@
+{
+  "id": 1209136929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51351,40.83582,21.51351,40.83582",
+    "geom:latitude":40.83582,
+    "geom:longitude":21.51351,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Itea",
+    "gn:country_code":"GR",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736094,
+    "gn:latitude":40.83582,
+    "gn:longitude":21.51351,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"It\u00e9a",
+    "gn:population":542,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0392\u03cd\u03c1\u03bc\u03c0\u03b5\u03bd\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03cd\u03c1\u03bc\u03c0\u03b5\u03bd\u03b7",
+        "\u0399\u03c4\u03b9\u03ac"
+    ],
+    "name:eng_x_historical":[
+        "Vyrmpeni"
+    ],
+    "name:eng_x_preferred":[
+        "Itea"
+    ],
+    "name:eng_x_variant":[
+        "Itia",
+        "Vyrmpeni"
+    ],
+    "name:und_x_variant":[
+        "V\u00edrbeni",
+        "Iti\u00e1",
+        "It\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736094,
+        "wk:page":"Itea%2C_Florina"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0efc526eacbe498670854ae9e780f332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209136929
+        }
+    ],
+    "wof:id":1209136929,
+    "wof:lastmodified":1537624939,
+    "wof:name":"Itea",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51351,
+    40.83582,
+    21.51351,
+    40.83582
+],
+  "geometry": {"coordinates":[21.51351,40.83582],"type":"Point"}
+}

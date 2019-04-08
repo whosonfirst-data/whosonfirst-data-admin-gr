@@ -1,0 +1,78 @@
+{
+  "id": 1226074807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94239,37.73691,21.94239,37.73691",
+    "geom:latitude":37.73691,
+    "geom:longitude":21.94239,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Skounto",
+    "gn:country_code":"GR",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253544,
+    "gn:latitude":37.73691,
+    "gn:longitude":21.94239,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sko\u00fanto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sko\u00fanto"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03bf\u03cd\u03bd\u03c4\u03bf",
+        "Sko\u00fanton",
+        "\u03a3\u03ba\u03bf\u03cd\u03bd\u03c4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Sko\u00fandon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253544
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3c4959c4b5468f09d5a5e406fcb5634a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226074807,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226074807,
+    "wof:lastmodified":1537624225,
+    "wof:name":"Skounto",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94239,
+    37.73691,
+    21.94239,
+    37.73691
+],
+  "geometry": {"coordinates":[21.94239,37.73691],"type":"Point"}
+}

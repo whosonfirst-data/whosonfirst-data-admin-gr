@@ -1,0 +1,76 @@
+{
+  "id": 1259913631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8651,37.76454,20.8651,37.76454",
+    "geom:latitude":37.76454,
+    "geom:longitude":20.8651,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Kalpaki",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166428,
+    "gn:latitude":37.76454,
+    "gn:longitude":20.8651,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Kalp\u00e1ki",
+    "gn:population":324,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03c0\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kalpaki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166428
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"52acbd2743f49466f1b58b7fe65b23d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259913631,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1259913631,
+    "wof:lastmodified":1537625052,
+    "wof:name":"Kalpaki",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8651,
+    37.76454,
+    20.8651,
+    37.76454
+],
+  "geometry": {"coordinates":[20.8651,37.76454],"type":"Point"}
+}

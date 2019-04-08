@@ -1,0 +1,76 @@
+{
+  "id": 1293726185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43982,38.67556,21.43982,38.67556",
+    "geom:latitude":38.67556,
+    "geom:longitude":21.43982,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Liangaiika",
+    "gn:country_code":"GR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258403,
+    "gn:latitude":38.67556,
+    "gn:longitude":21.43982,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"Lianga\u00edika",
+    "gn:population":44,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b1\u03b3\u03ba\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Liagkaiika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258403
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"449458795007b44f0d79d4338c457ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293726185,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293726185,
+    "wof:lastmodified":1537624445,
+    "wof:name":"Liangaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43982,
+    38.67556,
+    21.43982,
+    38.67556
+],
+  "geometry": {"coordinates":[21.43982,38.67556],"type":"Point"}
+}

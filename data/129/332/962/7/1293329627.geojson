@@ -1,0 +1,79 @@
+{
+  "id": 1293329627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02145,38.29472,22.02145,38.29472",
+    "geom:latitude":38.29472,
+    "geom:longitude":22.02145,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Longos",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258129,
+    "gn:latitude":38.29472,
+    "gn:longitude":22.02145,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"L\u00f3ngos",
+    "gn:population":659,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03b3\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Longos"
+    ],
+    "name:und_x_variant":[
+        "Loggos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258129
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"546ce9fcd18dc9d85956594a7d39e97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293329627,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293329627,
+    "wof:lastmodified":1537624433,
+    "wof:name":"Longos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":659,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02145,
+    38.29472,
+    22.02145,
+    38.29472
+],
+  "geometry": {"coordinates":[22.02145,38.29472],"type":"Point"}
+}

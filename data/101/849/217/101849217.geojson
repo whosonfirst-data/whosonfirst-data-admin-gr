@@ -1,0 +1,124 @@
+{
+  "id": 101849217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.087303,39.103031,21.087303,39.103031",
+    "geom:latitude":39.103031,
+    "geom:longitude":21.087303,
+    "gn:population":2150,
+    "iso:country":"GR",
+    "lbl:latitude":39.103031,
+    "lbl:longitude":21.087303,
+    "mps:latitude":39.103031,
+    "mps:longitude":21.087303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u0628\u0648\u062a\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Kompoti"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03bf\u03bc\u03c0\u03bf\u03c4\u03af\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bc\u03c0\u03cc\u03c4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kompoti"
+    ],
+    "name:fre_x_preferred":[
+        "Kompoti"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03bf\u03bc\u03c0\u03bf\u03c4\u03af\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Kompoti"
+    ],
+    "name:nno_x_preferred":[
+        "Komb\u00f3ti"
+    ],
+    "name:ron_x_preferred":[
+        "Kompoti"
+    ],
+    "name:rum_x_preferred":[
+        "Kompoti"
+    ],
+    "name:swe_x_preferred":[
+        "Komp\u00f3ti"
+    ],
+    "name:unk_x_variant":[
+        "Komb\u00f3tion"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0397\u03a0\u0395\u0399\u03a1\u039f\u03a3",
+    "qs:a1_alt":"HPEIROS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"ARTA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u039f\u039c\u03a0\u039f\u03a4\u0399\u039f\u039d",
+    "qs:loc_alt":"KOMPOTION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":249,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259452,
+        "gp:id":56024842,
+        "qs:id":78021,
+        "qs_pg:id":78021,
+        "wd:id":"Q2277242",
+        "wk:page":"Kompoti"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"20cb1d188f3a2558dfcba5e65574bfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849217,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":101849217,
+    "wof:lastmodified":1544740839,
+    "wof:name":"\u039a\u039f\u039c\u03a0\u039f\u03a4\u0399\u039f\u039d",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":2150,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.087303,
+    39.103031,
+    21.087303,
+    39.103031
+],
+  "geometry": {"coordinates":[21.087303,39.103031],"type":"Point"}
+}

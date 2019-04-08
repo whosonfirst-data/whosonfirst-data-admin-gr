@@ -1,0 +1,76 @@
+{
+  "id": 1293130487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18183,39.25139,23.18183,39.25139",
+    "geom:latitude":39.25139,
+    "geom:longitude":23.18183,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Lefokastro",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258528,
+    "gn:latitude":39.25139,
+    "gn:longitude":23.18183,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Lef\u00f3kastro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lef\u00f3kastro"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c6\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf",
+        "Lef\u00f3kastron",
+        "\u039b\u03b5\u03c6\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258528,
+        "wk:page":"Lefokastro"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"308a4ebe64ca87bf312e4986b291e163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293130487,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293130487,
+    "wof:lastmodified":1537624453,
+    "wof:name":"Lefokastro",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18183,
+    39.25139,
+    23.18183,
+    39.25139
+],
+  "geometry": {"coordinates":[23.18183,39.25139],"type":"Point"}
+}

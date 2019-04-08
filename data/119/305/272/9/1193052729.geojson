@@ -1,0 +1,68 @@
+{
+  "id": 1193052729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05,39.16667,26.05,39.16667",
+    "geom:latitude":39.16667,
+    "geom:longitude":26.05,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Levka",
+    "gn:country_code":"GR",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":258448,
+    "gn:latitude":39.16667,
+    "gn:longitude":26.05,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"L\u00e9vka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03cd\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258448
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e8ee5f423fbbad4af8c0a69391889936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1193052729,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193052729,
+    "wof:lastmodified":1537550932,
+    "wof:name":"Levka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05,
+    39.16667,
+    26.05,
+    39.16667
+],
+  "geometry": {"coordinates":[26.05,39.16667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293426787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32346,39.86334,25.32346,39.86334",
+    "geom:latitude":39.86334,
+    "geom:longitude":25.32346,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9263",
+    "gn:asciiname":"Kaminia",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261186,
+    "gn:latitude":39.86334,
+    "gn:longitude":25.32346,
+    "gn:modification_date":"2014-03-25",
+    "gn:name":"Kam\u00ednia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03af\u03bd\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kam\u00ednia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261186,
+        "wk:page":"Kaminia%2C_Lemnos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fab69d7b875d61300ef7e0270f660a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1293426787,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293426787,
+    "wof:lastmodified":1537624577,
+    "wof:name":"Kaminia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32346,
+    39.86334,
+    25.32346,
+    39.86334
+],
+  "geometry": {"coordinates":[25.32346,39.86334],"type":"Point"}
+}

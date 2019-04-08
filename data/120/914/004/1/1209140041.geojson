@@ -1,0 +1,73 @@
+{
+  "id": 1209140041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5,40.26667,23.5,40.26667",
+    "geom:latitude":40.26667,
+    "geom:longitude":23.5,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Skala Ormilion",
+    "gn:country_code":"GR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":734252,
+    "gn:latitude":40.26667,
+    "gn:longitude":23.5,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Sk\u00e1la Ormil\u00edon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u039f\u03c1\u03bc\u03c5\u03bb\u03af\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u039f\u03c1\u03bc\u03c5\u03bb\u03af\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00e1la Ormili\u00e1s",
+        "Sk\u00e1la Ormil\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734252
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e6e6d215bb762a1e7a3beff1d2664943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209140041
+        }
+    ],
+    "wof:id":1209140041,
+    "wof:lastmodified":1537624831,
+    "wof:name":"Skala Ormilion",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5,
+    40.26667,
+    23.5,
+    40.26667
+],
+  "geometry": {"coordinates":[23.5,40.26667],"type":"Point"}
+}

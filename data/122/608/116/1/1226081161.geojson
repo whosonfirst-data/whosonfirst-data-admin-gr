@@ -1,0 +1,79 @@
+{
+  "id": 1226081161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79894,38.40506,21.79894,38.40506",
+    "geom:latitude":38.40506,
+    "geom:longitude":21.79894,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Kato Mamoulada",
+    "gn:country_code":"GR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260533,
+    "gn:latitude":38.40506,
+    "gn:longitude":21.79894,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00e1to Mamoul\u00e1da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Mamoul\u00e1da"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03b1\u03bc\u03bf\u03c5\u03bb\u03ac\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Gin\u00e1nion",
+        "Afrodh\u00edti",
+        "Gin\u00e1ni",
+        "K\u00e1to Mamoul\u00e1dha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260533
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4ebdc03c858c40eccee4fd49f93ee664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226081161,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226081161,
+    "wof:lastmodified":1537624545,
+    "wof:name":"Kato Mamoulada",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79894,
+    38.40506,
+    21.79894,
+    38.40506
+],
+  "geometry": {"coordinates":[21.79894,38.40506],"type":"Point"}
+}

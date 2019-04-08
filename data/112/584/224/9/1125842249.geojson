@@ -1,0 +1,92 @@
+{
+  "id": 1125842249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73333,35.4,24.73333,35.4",
+    "geom:latitude":35.4,
+    "geom:longitude":24.73333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":35.4,
+    "lbl:longitude":24.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Lamerian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03bc\u03b5\u03c1\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258622,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lameriana",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":774617,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":954996,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258622,
+        "gp:id":954996,
+        "qs_pg:id":774617
+    },
+    "wof:country":"GR",
+    "wof:created":1497292983,
+    "wof:geomhash":"b7f1394fa78ea0074c755ac10c459208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125842249,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125842249,
+    "wof:lastmodified":1509395355,
+    "wof:name":"Lameriana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73333,
+    35.4,
+    24.73333,
+    35.4
+],
+  "geometry": {"coordinates":[24.73333,35.4],"type":"Point"}
+}

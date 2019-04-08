@@ -1,0 +1,73 @@
+{
+  "id": 1293725719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52606,38.81923,21.52606,38.81923",
+    "geom:latitude":38.81923,
+    "geom:longitude":21.52606,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Sovolakitika",
+    "gn:country_code":"GR",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9781672,
+    "gn:latitude":38.81923,
+    "gn:longitude":21.52606,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Sovolak\u00edtika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03b2\u03bf\u03bb\u03b1\u03ba\u03af\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Sovolakitika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781672
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a705251c8127d25af0f2f14215c7c681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293725719,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293725719,
+    "wof:lastmodified":1537625076,
+    "wof:name":"Sovolakitika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52606,
+    38.81923,
+    21.52606,
+    38.81923
+],
+  "geometry": {"coordinates":[21.52606,38.81923],"type":"Point"}
+}

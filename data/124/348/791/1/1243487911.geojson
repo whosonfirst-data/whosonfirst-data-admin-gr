@@ -1,0 +1,79 @@
+{
+  "id": 1243487911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73387,35.40448,23.73387,35.40448",
+    "geom:latitude":35.40448,
+    "geom:longitude":23.73387,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Mesavlia",
+    "gn:country_code":"GR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257217,
+    "gn:latitude":35.40448,
+    "gn:longitude":23.73387,
+    "gn:modification_date":"2015-09-20",
+    "gn:name":"Mes\u00e1vlia",
+    "gn:population":29,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03b1\u03cd\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mesavlia"
+    ],
+    "name:und_x_variant":[
+        "Mes\u00e1vlia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257217
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8dab39b129e779e70a3245fbd0d022bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243487911,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243487911,
+    "wof:lastmodified":1537624395,
+    "wof:name":"Mesavlia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73387,
+    35.40448,
+    23.73387,
+    35.40448
+],
+  "geometry": {"coordinates":[23.73387,35.40448],"type":"Point"}
+}

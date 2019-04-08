@@ -1,0 +1,83 @@
+{
+  "id": 1259719765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66837,40.22204,23.66837,40.22204",
+    "geom:latitude":40.22204,
+    "geom:longitude":23.66837,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9060",
+    "gn:asciiname":"Nikiti",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":734916,
+    "gn:latitude":40.22204,
+    "gn:longitude":23.66837,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"N\u00edkiti",
+    "gn:population":2711,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03ae\u03c4\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "N\u00edkiti"
+    ],
+    "name:eng_x_preferred":[
+        "Nikiti"
+    ],
+    "name:und_x_variant":[
+        "Nik\u00edtas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734916,
+        "wk:page":"Nikiti"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"92fc77eef6b29aec076ffcd62d1bac2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259719765,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259719765,
+    "wof:lastmodified":1537624869,
+    "wof:name":"Nikiti",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2711,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66837,
+    40.22204,
+    23.66837,
+    40.22204
+],
+  "geometry": {"coordinates":[23.66837,40.22204],"type":"Point"}
+}

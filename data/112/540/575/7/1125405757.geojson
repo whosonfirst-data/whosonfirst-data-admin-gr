@@ -1,0 +1,112 @@
+{
+  "id": 1125405757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66667,37.81667,22.66667,37.81667",
+    "geom:latitude":37.81667,
+    "geom:longitude":22.66667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":4344,
+    "gn:population":3853,
+    "iso:country":"GR",
+    "lbl:latitude":37.81667,
+    "lbl:longitude":22.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Nemea"
+    ],
+    "name:ell_x_historical":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03bc\u03b7\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03bc\u03ad\u03b1",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Nemea"
+    ],
+    "name:spa_x_preferred":[
+        "Nemea"
+    ],
+    "name:unk_x_variant":[
+        "\u00c1yios Ye\u00f3ryios"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":256558,
+    "qs_pg:gn_pop":4344,
+    "qs_pg:name":"Nemea",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":187,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1845,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1112994,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":24544359,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256558,
+        "gp:id":24544359,
+        "qs_pg:id":1112994
+    },
+    "wof:country":"GR",
+    "wof:created":1497049629,
+    "wof:geomhash":"015dd663525493c8eb8802c6a3694344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125405757,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125405757,
+    "wof:lastmodified":1509390154,
+    "wof:name":"Nemea",
+    "wof:parent_id":85684643,
+    "wof:placetype":"localadmin",
+    "wof:population":3853,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66667,
+    37.81667,
+    22.66667,
+    37.81667
+],
+  "geometry": {"coordinates":[22.66667,37.81667],"type":"Point"}
+}

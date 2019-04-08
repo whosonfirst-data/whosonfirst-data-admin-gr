@@ -1,0 +1,80 @@
+{
+  "id": 1343292693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63197,35.51081,23.63197,35.51081",
+    "geom:latitude":35.51081,
+    "geom:longitude":23.63197,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Trachilos",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252716,
+    "gn:latitude":35.51081,
+    "gn:longitude":23.63197,
+    "gn:modification_date":"2015-09-19",
+    "gn:name":"Tr\u00e1chilos",
+    "gn:population":169,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03ac\u03c7\u03b7\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Trachilos"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00e1chilos",
+        "Tr\u00e1khilos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252716
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e64bca026364b00971c94c25db3ef7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343292693,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343292693,
+    "wof:lastmodified":1537624195,
+    "wof:name":"Trachilos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63197000000001,
+    35.51081,
+    23.63197000000001,
+    35.51081
+],
+  "geometry": {"coordinates":[23.63197000000001,35.51081],"type":"Point"}
+}

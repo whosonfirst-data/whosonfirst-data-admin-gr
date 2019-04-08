@@ -1,0 +1,67 @@
+{
+  "id": 1259613985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42778,39.28111,20.42778,39.28111",
+    "geom:latitude":39.28111,
+    "geom:longitude":20.42778,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9089",
+    "gn:asciiname":"Marnora",
+    "gn:country_code":"GR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381631,
+    "gn:latitude":39.28111,
+    "gn:longitude":20.42778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Marn\u00f3ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381631
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0df4d7b1b93bf07bcee4847cc56d4612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259613985,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1259613985,
+    "wof:lastmodified":1536670938,
+    "wof:name":"Marnora",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42778,
+    39.28111,
+    20.42778,
+    39.28111
+],
+  "geometry": {"coordinates":[20.42778,39.28111],"type":"Point"}
+}

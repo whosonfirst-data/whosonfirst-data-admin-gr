@@ -1,0 +1,79 @@
+{
+  "id": 1210047621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53534,39.44826,22.53534,39.44826",
+    "geom:latitude":39.44826,
+    "geom:longitude":22.53534,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9099",
+    "gn:asciiname":"Kalo Nero",
+    "gn:country_code":"GR",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261362,
+    "gn:latitude":39.44826,
+    "gn:longitude":22.53534,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kal\u00f3 Ner\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bb\u03bf \u039d\u03b5\u03c1\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03bb\u03bf\u03bd \u039d\u03b5\u03c1\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Sulem\u00e9z",
+        "Kal\u00f3 Ner\u00f3",
+        "Kal\u00f3n Ner\u00f3",
+        "Kal\u00f3n Ner\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261362
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"51ce616a78d82392d26a75649d22436a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210047621,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1210047621,
+    "wof:lastmodified":1537624585,
+    "wof:name":"Kalo Nero",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53534,
+    39.44826,
+    22.53534,
+    39.44826
+],
+  "geometry": {"coordinates":[22.53534,39.44826],"type":"Point"}
+}

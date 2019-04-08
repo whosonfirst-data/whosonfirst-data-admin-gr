@@ -1,0 +1,74 @@
+{
+  "id": 1276693297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41264,35.20145,24.41264,35.20145",
+    "geom:latitude":35.20145,
+    "geom:longitude":24.41264,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Nio Chorio",
+    "gn:country_code":"GR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":256397,
+    "gn:latitude":35.20145,
+    "gn:longitude":24.41264,
+    "gn:modification_date":"2015-05-12",
+    "gn:name":"Ni\u00f3 Chori\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Ni\u00f3 Chori\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b9\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
+        "Ni\u00f3 Khori\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256397
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a1588b108351cc8f4518de534e5a56d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276693297,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276693297,
+    "wof:lastmodified":1537624350,
+    "wof:name":"Nio Chorio",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41264,
+    35.20145,
+    24.41264,
+    35.20145
+],
+  "geometry": {"coordinates":[24.41264,35.20145],"type":"Point"}
+}

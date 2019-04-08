@@ -1,0 +1,79 @@
+{
+  "id": 1293814835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96805,37.73224,20.96805,37.73224",
+    "geom:latitude":37.73224,
+    "geom:longitude":20.96805,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Ano Vasilikos",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7290467,
+    "gn:latitude":37.73224,
+    "gn:longitude":20.96805,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"\u00c1no Vasilik\u00f3s",
+    "gn:population":280,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Vasilikos"
+    ],
+    "name:und_x_variant":[
+        "Ano Vassilikos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7290467
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b46272fe25791a5db3753ba4dd3edc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293814835,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293814835,
+    "wof:lastmodified":1537624999,
+    "wof:name":"Ano Vasilikos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":280,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96805,
+    37.73224,
+    20.96805,
+    37.73224
+],
+  "geometry": {"coordinates":[20.96805,37.73224],"type":"Point"}
+}

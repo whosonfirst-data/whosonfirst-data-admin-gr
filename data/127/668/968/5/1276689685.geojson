@@ -1,0 +1,80 @@
+{
+  "id": 1276689685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59732,38.84165,21.59732,38.84165",
+    "geom:latitude":38.84165,
+    "geom:longitude":21.59732,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Ptelea",
+    "gn:country_code":"GR",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254445,
+    "gn:latitude":38.84165,
+    "gn:longitude":21.59732,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Ptel\u00e9a",
+    "gn:population":38,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c4\u03b5\u03bb\u03ad\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ptelea"
+    ],
+    "name:und_x_variant":[
+        "Fteli\u00e1",
+        "Ptel\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254445
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"145de8a945f490a92e4c982a43c214e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276689685,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276689685,
+    "wof:lastmodified":1537624269,
+    "wof:name":"Ptelea",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59732,
+    38.84165,
+    21.59732,
+    38.84165
+],
+  "geometry": {"coordinates":[21.59732,38.84165],"type":"Point"}
+}

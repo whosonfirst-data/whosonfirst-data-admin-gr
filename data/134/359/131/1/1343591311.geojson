@@ -1,0 +1,95 @@
+{
+  "id": 1343591311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27914,41.08213,22.27914,41.08213",
+    "geom:latitude":41.08213,
+    "geom:longitude":22.27914,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9042",
+    "gn:asciiname":"Archangelos",
+    "gn:country_code":"GR",
+    "gn:dem":818,
+    "gn:elevation":"820.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736745,
+    "gn:latitude":41.08213,
+    "gn:longitude":22.27914,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Arch\u00e1ngelos",
+    "gn:population":623,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u038c\u03c3\u03c3\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c7\u03ac\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u038c\u03c3\u03c3\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Archangelos"
+    ],
+    "name:ruq_x_preferred":[
+        "O\u0219ani"
+    ],
+    "name:ruq_x_variant":[
+        "Ossiani"
+    ],
+    "name:und_x_variant":[
+        "\u00d3ssiani",
+        "Arkh\u00e1ngelos",
+        "Arch\u00e1ngelos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736745,
+        "wk:page":"Archangelos%2C_Pella"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"48681faf90fae45984127561e7b8537c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343591311,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1343591311,
+    "wof:lastmodified":1537624972,
+    "wof:name":"Archangelos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27914,
+    41.08213,
+    22.27914,
+    41.08213
+],
+  "geometry": {"coordinates":[22.27914,41.08213],"type":"Point"}
+}

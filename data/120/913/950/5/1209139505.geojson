@@ -1,0 +1,73 @@
+{
+  "id": 1209139505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94944,40.35569,21.94944,40.35569",
+    "geom:latitude":40.35569,
+    "geom:longitude":21.94944,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Thymaria",
+    "gn:country_code":"GR",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734073,
+    "gn:latitude":40.35569,
+    "gn:longitude":21.94944,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Thymari\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Thymari\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03c5\u03bc\u03b1\u03c1\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "K\u00edssa",
+        "Thimari\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734073
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9f5de9a382649e00b1da1d50fa81bab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209139505
+        }
+    ],
+    "wof:id":1209139505,
+    "wof:lastmodified":1537624821,
+    "wof:name":"Thymaria",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94944,
+    40.35569,
+    21.94944,
+    40.35569
+],
+  "geometry": {"coordinates":[21.94944,40.35569],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326459641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20186,38.24633,24.20186,38.24633",
+    "geom:latitude":38.24633,
+    "geom:longitude":24.20186,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Raptaioi",
+    "gn:country_code":"GR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254380,
+    "gn:latitude":38.24633,
+    "gn:longitude":24.20186,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rapta\u00edoi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Rapta\u00edoi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b1\u03c0\u03c4\u03b1\u03af\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254380
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"de9a578966026db9eaa5edc4ec7ff272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326459641,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1326459641,
+    "wof:lastmodified":1537624266,
+    "wof:name":"Raptaioi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20186,
+    38.24633,
+    24.20186,
+    38.24633
+],
+  "geometry": {"coordinates":[24.20186,38.24633],"type":"Point"}
+}

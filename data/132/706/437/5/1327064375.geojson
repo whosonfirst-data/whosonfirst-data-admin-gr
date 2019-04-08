@@ -1,0 +1,75 @@
+{
+  "id": 1327064375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73842,37.64494,21.73842,37.64494",
+    "geom:latitude":37.64494,
+    "geom:longitude":21.73842,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Louvro",
+    "gn:country_code":"GR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258028,
+    "gn:latitude":37.64494,
+    "gn:longitude":21.73842,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Lo\u00favro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lo\u00favro"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03bf\u03cd\u03b2\u03c1\u03bf",
+        "Lo\u00favron",
+        "\u039b\u03bf\u03cd\u03b2\u03c1\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258028
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"17a6502abfbd6fbd6863aea85ae318c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327064375,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327064375,
+    "wof:lastmodified":1537624428,
+    "wof:name":"Louvro",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73842,
+    37.64494000000001,
+    21.73842,
+    37.64494000000001
+],
+  "geometry": {"coordinates":[21.73842,37.64494000000001],"type":"Point"}
+}

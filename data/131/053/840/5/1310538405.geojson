@@ -1,0 +1,73 @@
+{
+  "id": 1310538405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9005,37.97438,23.9005,37.97438",
+    "geom:latitude":37.97438,
+    "geom:longitude":23.9005,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9226",
+    "gn:asciiname":"Agios Nikolaos Mpoura",
+    "gn:country_code":"GR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036785,
+    "gn:latitude":37.97438,
+    "gn:longitude":23.9005,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Agios Nik\u00f3laos Mpo\u00fara",
+    "gn:population":195,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u039c\u03c0\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036785
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f8d71e9fa324e9f52d7e2643791e81c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310538405,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1310538405,
+    "wof:lastmodified":1537551161,
+    "wof:name":"Agios Nikolaos Mpoura",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9005,
+    37.97438,
+    23.9005,
+    37.97438
+],
+  "geometry": {"coordinates":[23.9005,37.97438],"type":"Point"}
+}

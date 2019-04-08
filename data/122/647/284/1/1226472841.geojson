@@ -1,0 +1,79 @@
+{
+  "id": 1226472841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6915,39.69022,22.6915,39.69022",
+    "geom:latitude":39.69022,
+    "geom:longitude":22.6915,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9097",
+    "gn:asciiname":"Gerakari",
+    "gn:country_code":"GR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251424,
+    "gn:latitude":39.69022,
+    "gn:longitude":22.6915,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gerak\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Gerak\u00e1ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03c1\u03b1\u03ba\u03ac\u03c1\u03b9",
+        "Gerak\u00e1rion",
+        "\u0393\u03b5\u03c1\u03b1\u03ba\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Yerak\u00e1ri",
+        "Yerak\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251424
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0a7f7ee257d2de764d3488671910f457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226472841,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1226472841,
+    "wof:lastmodified":1537624139,
+    "wof:name":"Gerakari",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6915,
+    39.69022,
+    22.6915,
+    39.69022
+],
+  "geometry": {"coordinates":[22.6915,39.69022],"type":"Point"}
+}

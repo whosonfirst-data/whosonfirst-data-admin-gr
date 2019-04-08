@@ -1,0 +1,73 @@
+{
+  "id": 1310236405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71515,35.34629,23.71515,35.34629",
+    "geom:latitude":35.34629,
+    "geom:longitude":23.71515,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Despotiko",
+    "gn:country_code":"GR",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521827,
+    "gn:latitude":35.34629,
+    "gn:longitude":23.71515,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Despotik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Despotik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b5\u03c3\u03c0\u03bf\u03c4\u03b9\u03ba\u03cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521827
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fc847e81cdf951a532f88c97e3277b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310236405,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310236405,
+    "wof:lastmodified":1537625010,
+    "wof:name":"Despotiko",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71515,
+    35.34629,
+    23.71515,
+    35.34629
+],
+  "geometry": {"coordinates":[23.71515,35.34629],"type":"Point"}
+}

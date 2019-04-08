@@ -1,0 +1,80 @@
+{
+  "id": 1209547113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36902,38.03072,22.36902,38.03072",
+    "geom:latitude":38.03072,
+    "geom:longitude":22.36902,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Sarandapikho",
+    "gn:country_code":"GR",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254076,
+    "gn:latitude":38.03072,
+    "gn:longitude":22.36902,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Sarand\u00e1pikho",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b1\u03bd\u03c4\u03ac\u03c0\u03b7\u03c7\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03b1\u03bd\u03c4\u03ac\u03c0\u03b7\u03c7\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Sarantapicho"
+    ],
+    "name:und_x_variant":[
+        "Sarantapichon",
+        "Sarantapikhon",
+        "Sarand\u00e1pikhon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254076
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7c43002a05b5a61f5811548276edb654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209547113
+        }
+    ],
+    "wof:id":1209547113,
+    "wof:lastmodified":1537624251,
+    "wof:name":"Sarandapikho",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36902000000001,
+    38.03072,
+    22.36902000000001,
+    38.03072
+],
+  "geometry": {"coordinates":[22.36902000000001,38.03072],"type":"Point"}
+}

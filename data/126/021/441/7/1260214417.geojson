@@ -1,0 +1,72 @@
+{
+  "id": 1260214417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.90374,38.22173,25.90374,38.22173",
+    "geom:latitude":38.22173,
+    "geom:longitude":25.90374,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"50.0",
+    "gn:admin3_code":"9266",
+    "gn:asciiname":"Trachylia",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8349505,
+    "gn:latitude":38.22173,
+    "gn:longitude":25.90374,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Trachylia",
+    "gn:population":15,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b1\u03c7\u03cd\u03bb\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Trachilia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8349505
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"760a060b6af3d0b33b261d6797559a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260214417,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260214417,
+    "wof:lastmodified":1537625004,
+    "wof:name":"Trachylia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.90374,
+    38.22173,
+    25.90374,
+    38.22173
+],
+  "geometry": {"coordinates":[25.90374,38.22173],"type":"Point"}
+}

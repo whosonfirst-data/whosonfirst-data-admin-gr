@@ -1,0 +1,80 @@
+{
+  "id": 1243485883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62231,38.41711,21.62231,38.41711",
+    "geom:latitude":38.41711,
+    "geom:longitude":21.62231,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Paradhision",
+    "gn:country_code":"GR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255784,
+    "gn:latitude":38.41711,
+    "gn:longitude":21.62231,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Paradh\u00edsion",
+    "gn:population":33,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03b4\u03b5\u03af\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c1\u03b1\u03b4\u03b5\u03af\u03c3\u03b9\u03bf\u03bd",
+        "\u03a0\u03b1\u03c1\u03b1\u03b4\u03b5\u03af\u03c3\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Paradeisi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255784
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4a4cd2055531a5d2841f6e51700b35b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243485883,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243485883,
+    "wof:lastmodified":1537624321,
+    "wof:name":"Paradhision",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62231,
+    38.41711,
+    21.62231,
+    38.41711
+],
+  "geometry": {"coordinates":[21.62231,38.41711],"type":"Point"}
+}

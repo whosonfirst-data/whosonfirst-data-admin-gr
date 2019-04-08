@@ -1,0 +1,78 @@
+{
+  "id": 1209851575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8099,35.318,23.8099,35.318",
+    "geom:latitude":35.318,
+    "geom:longitude":23.8099,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Tsiskiana",
+    "gn:country_code":"GR",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252451,
+    "gn:latitude":35.318,
+    "gn:longitude":23.8099,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Tsiskian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c3\u03ba\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "Sinoikism\u00f3s Siskian\u00e1",
+        "Sinoikism\u00f3s Tsiskian\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Tsits\u00e1ni",
+        "Tsiskian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252451
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cbc48e952c928e5de419131bb7bedc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209851575,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1209851575,
+    "wof:lastmodified":1537624183,
+    "wof:name":"Tsiskiana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8099,
+    35.31800000000001,
+    23.8099,
+    35.31800000000001
+],
+  "geometry": {"coordinates":[23.8099,35.31800000000001],"type":"Point"}
+}

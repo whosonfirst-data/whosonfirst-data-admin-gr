@@ -1,0 +1,84 @@
+{
+  "id": 1126044175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20611,38.52167,26.20611,38.52167",
+    "geom:latitude":38.52167,
+    "geom:longitude":26.20611,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":40,
+    "gn:population":29,
+    "iso:country":"GR",
+    "lbl:latitude":38.52167,
+    "lbl:longitude":26.20611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf \u039f\u03b9\u03bd\u03bf\u03c5\u03c3\u03c3\u03ce\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "K\u00e1stro",
+        "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf",
+        "K\u00e1stron",
+        "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kastro Oinousson"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":444951,
+    "qs_pg:gn_pop":40,
+    "qs_pg:name":"K\u00e1stron",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":548357,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444951,
+        "qs_pg:id":548357
+    },
+    "wof:country":"GR",
+    "wof:created":1497302331,
+    "wof:geomhash":"cf9ba35bc8635bcde5a1cbd7141a2547",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1126044175,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126044175,
+    "wof:lastmodified":1509408745,
+    "wof:name":"K\u00e1stron",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20611,
+    38.52167,
+    26.20611,
+    38.52167
+],
+  "geometry": {"coordinates":[26.20611,38.52167],"type":"Point"}
+}

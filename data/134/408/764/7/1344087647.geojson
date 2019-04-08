@@ -1,0 +1,80 @@
+{
+  "id": 1344087647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23117,38.92,22.23117,38.92",
+    "geom:latitude":38.92,
+    "geom:longitude":22.23117,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Rodhonia",
+    "gn:country_code":"GR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254256,
+    "gn:latitude":38.92,
+    "gn:longitude":22.23117,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Rodhoni\u00e1",
+    "gn:population":256,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b4\u03c9\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Rodonia"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1la",
+        "Rodhoni\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254256
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"78541ee3549eafcb931be57a61c9c20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087647,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1344087647,
+    "wof:lastmodified":1537624259,
+    "wof:name":"Rodhonia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23117,
+    38.92,
+    22.23117,
+    38.92
+],
+  "geometry": {"coordinates":[22.23117,38.92],"type":"Point"}
+}

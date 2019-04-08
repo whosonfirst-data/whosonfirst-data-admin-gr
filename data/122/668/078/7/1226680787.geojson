@@ -1,0 +1,77 @@
+{
+  "id": 1226680787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37218,41.1903,24.37218,41.1903",
+    "geom:latitude":41.1903,
+    "geom:longitude":24.37218,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Chamokerasa",
+    "gn:country_code":"GR",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735800,
+    "gn:latitude":41.1903,
+    "gn:longitude":24.37218,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Chamok\u00e9rasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chamok\u00e9rasa"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bc\u03bf\u03ba\u03ad\u03c1\u03b1\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Chilekl\u00e9r",
+        "Khamok\u00e9rasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735800
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ad452b51fec165c9db2217c2a1a1de65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226680787,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226680787,
+    "wof:lastmodified":1537624924,
+    "wof:name":"Chamokerasa",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37218,
+    41.1903,
+    24.37218,
+    41.1903
+],
+  "geometry": {"coordinates":[24.37218,41.1903],"type":"Point"}
+}

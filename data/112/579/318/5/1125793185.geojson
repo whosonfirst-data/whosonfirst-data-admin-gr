@@ -1,0 +1,123 @@
+{
+  "id": 1125793185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4,41.18333,23.4,41.18333",
+    "geom:latitude":41.18333,
+    "geom:longitude":23.4,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1161,
+    "gn:population":1061,
+    "iso:country":"GR",
+    "lbl:latitude":41.18333,
+    "lbl:longitude":23.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0645\u0641\u0627\u0643\u0648\u0641\u064a\u062a\u0648\u0646\u060c \u0633\u064a\u0631\u0631\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0432\u044f\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Vamvakofyto"
+    ],
+    "name:ell_x_historical":[
+        "\u03a3\u03ac\u03b2\u03b9\u03b1\u03ba\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03cc\u03c6\u03c5\u03c4\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Vamvak\u00f3fyto",
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03cc\u03c6\u03c5\u03c4\u03bf",
+        "Vamvak\u00f3fyton",
+        "\u03a3\u03ac\u03b2\u03b9\u03b1\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Vamvakofyto"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03cc\u03c6\u03c5\u03c4\u03bf \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u0432\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Vamvak\u00f3fyto"
+    ],
+    "name:unk_x_variant":[
+        "Vainvak\u00f3fiton"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":733955,
+    "qs_pg:gn_pop":1161,
+    "qs_pg:name":"Vamvakofiton",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1285392,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":964120,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733955,
+        "gp:id":964120,
+        "qs_pg:id":1285392,
+        "wd:id":"Q3396802"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290946,
+    "wof:geomhash":"05808ff3e9d335ec892e8630a386b164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125793185,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125793185,
+    "wof:lastmodified":1514444070,
+    "wof:name":"Vamvakofiton",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1061,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4,
+    41.18333,
+    23.4,
+    41.18333
+],
+  "geometry": {"coordinates":[23.4,41.18333],"type":"Point"}
+}

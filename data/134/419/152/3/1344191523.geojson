@@ -1,0 +1,80 @@
+{
+  "id": 1344191523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44927,38.74712,22.44927,38.74712",
+    "geom:latitude":38.74712,
+    "geom:longitude":22.44927,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Skamnos",
+    "gn:country_code":"GR",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253697,
+    "gn:latitude":38.74712,
+    "gn:longitude":22.44927,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Skamn\u00f3s",
+    "gn:population":55,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b1\u03bc\u03bd\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Skamnos"
+    ],
+    "name:und_x_variant":[
+        "Prokoven\u00edkos",
+        "Skamn\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253697
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"be6cac091b339371a14344d6c48e8508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344191523,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1344191523,
+    "wof:lastmodified":1537624233,
+    "wof:name":"Skamnos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44927,
+    38.74712,
+    22.44927,
+    38.74712
+],
+  "geometry": {"coordinates":[22.44927,38.74712],"type":"Point"}
+}

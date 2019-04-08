@@ -1,0 +1,74 @@
+{
+  "id": 1293814379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00825,39.37758,21.00825,39.37758",
+    "geom:latitude":39.37758,
+    "geom:longitude":21.00825,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9073",
+    "gn:asciiname":"Vetsaiika",
+    "gn:country_code":"GR",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":251999,
+    "gn:latitude":39.37758,
+    "gn:longitude":21.00825,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Vetsa\u00ed\u00efka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03c4\u03c3\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Leptokok\u00e1ri",
+        "Vetsa\u00ed\u00efka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251999
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9a5577b23391fdda6803fced71358b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293814379,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293814379,
+    "wof:lastmodified":1537624164,
+    "wof:name":"Vetsaiika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00825,
+    39.37758,
+    21.00825,
+    39.37758
+],
+  "geometry": {"coordinates":[21.00825,39.37758],"type":"Point"}
+}

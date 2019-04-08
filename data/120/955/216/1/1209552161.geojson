@@ -1,0 +1,82 @@
+{
+  "id": 1209552161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26798,41.16338,23.26798,41.16338",
+    "geom:latitude":41.16338,
+    "geom:longitude":23.26798,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9052",
+    "gn:asciiname":"Dasochori",
+    "gn:country_code":"GR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736469,
+    "gn:latitude":41.16338,
+    "gn:longitude":23.26798,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"Dasoch\u00f3ri",
+    "gn:population":834,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Dasoch\u00f3ri",
+        "Dasoch\u00f3rion",
+        "\u0394\u03b1\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Dasochori"
+    ],
+    "name:und_x_variant":[
+        "Dhasokh\u00f3ri",
+        "Ormanl\u00ed",
+        "Dhasokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736469
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"47ed97578262ee8d69e46586bb55ce2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209552161
+        }
+    ],
+    "wof:id":1209552161,
+    "wof:lastmodified":1537624959,
+    "wof:name":"Dasochori",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":834,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26798,
+    41.16338,
+    23.26798,
+    41.16338
+],
+  "geometry": {"coordinates":[23.26798,41.16338],"type":"Point"}
+}

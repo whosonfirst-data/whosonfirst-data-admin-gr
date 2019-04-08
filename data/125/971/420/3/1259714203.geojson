@@ -1,0 +1,73 @@
+{
+  "id": 1259714203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59006,39.34642,21.59006,39.34642",
+    "geom:latitude":39.34642,
+    "geom:longitude":21.59006,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9094",
+    "gn:asciiname":"Zamanatiko",
+    "gn:country_code":"GR",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445175,
+    "gn:latitude":39.34642,
+    "gn:longitude":21.59006,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Zaman\u00e1tiko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Zaman\u00e1tiko"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03bc\u03b1\u03bd\u03ac\u03c4\u03b9\u03ba\u03bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445175
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"88d1e72920ce11b4f85fefe053ed219a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259714203,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1259714203,
+    "wof:lastmodified":1537624798,
+    "wof:name":"Zamanatiko",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59006,
+    39.34642,
+    21.59006,
+    39.34642
+],
+  "geometry": {"coordinates":[21.59006,39.34642],"type":"Point"}
+}

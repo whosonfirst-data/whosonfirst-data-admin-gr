@@ -1,0 +1,78 @@
+{
+  "id": 1226178977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71482,38.09127,21.71482,38.09127",
+    "geom:latitude":38.09127,
+    "geom:longitude":21.71482,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Phares",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262488,
+    "gn:latitude":38.09127,
+    "gn:longitude":21.71482,
+    "gn:modification_date":"2012-08-10",
+    "gn:name":"Phares",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fares"
+    ],
+    "name:und_x_variant":[
+        "Lalouk\u00f3sta",
+        "Farrai",
+        "Fara\u00ed",
+        "Pharae",
+        "Pharai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262488
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"87efc6a9910dca4bcd03412ffcc2a547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226178977,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226178977,
+    "wof:lastmodified":1537624635,
+    "wof:name":"Phares",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71482,
+    38.09127,
+    21.71482,
+    38.09127
+],
+  "geometry": {"coordinates":[21.71482,38.09127],"type":"Point"}
+}

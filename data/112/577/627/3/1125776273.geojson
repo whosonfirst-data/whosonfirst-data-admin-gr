@@ -1,0 +1,122 @@
+{
+  "id": 1125776273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76667,37.95,21.76667,37.95",
+    "geom:latitude":37.95,
+    "geom:longitude":21.76667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":37.95,
+    "lbl:longitude":21.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u056c\u0565\u0576\u0581\u056b"
+    ],
+    "name:cze_x_preferred":[
+        "Kalentzi"
+    ],
+    "name:dut_x_preferred":[
+        "Kalentzi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03ad\u03bd\u03c4\u03b6\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kalentzi"
+    ],
+    "name:fre_x_preferred":[
+        "Kalentzi"
+    ],
+    "name:ger_x_preferred":[
+        "Kalentzi"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bb\u03ad\u03bd\u03c4\u03b6\u03b9 \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Kalentzi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ec\u30f3\u30c4\u30a3"
+    ],
+    "name:nno_x_preferred":[
+        "Kal\u00e9ndzi i Akha\u00eda"
+    ],
+    "name:slo_x_preferred":[
+        "Kalentzi"
+    ],
+    "name:unk_x_variant":[
+        "Kal\u00e9tzi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":261530,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kalentzi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":950831,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261530,
+        "gp:id":950831,
+        "qs_pg:id":191561,
+        "wd:id":"Q1142695"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290271,
+    "wof:geomhash":"b0c0a5bb21c476341633a809674d65b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125776273,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1125776273,
+    "wof:lastmodified":1514443965,
+    "wof:name":"Kalentzi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76667,
+    37.95,
+    21.76667,
+    37.95
+],
+  "geometry": {"coordinates":[21.76667,37.95],"type":"Point"}
+}

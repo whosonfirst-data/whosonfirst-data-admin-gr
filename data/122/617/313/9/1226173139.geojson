@@ -1,0 +1,76 @@
+{
+  "id": 1226173139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65056,38.3495,23.65056,38.3495",
+    "geom:latitude":38.3495,
+    "geom:longitude":23.65056,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9147",
+    "gn:asciiname":"Plaka Dilesi",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10235571,
+    "gn:latitude":38.3495,
+    "gn:longitude":23.65056,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"Pl\u00e1ka D\u00edlesi",
+    "gn:population":2696,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03ac\u03ba\u03b1 \u0394\u03ae\u03bb\u03b5\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Plaka Dilesi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10235571
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bf8d30db91dbb4dc180e14820a254520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226173139,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226173139,
+    "wof:lastmodified":1537625085,
+    "wof:name":"Plaka Dilesi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":2696,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65056,
+    38.3495,
+    23.65056,
+    38.3495
+],
+  "geometry": {"coordinates":[23.65056,38.3495],"type":"Point"}
+}

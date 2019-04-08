@@ -1,0 +1,78 @@
+{
+  "id": 1259613857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65406,37.64456,21.65406,37.64456",
+    "geom:latitude":37.64456,
+    "geom:longitude":21.65406,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Miraka",
+    "gn:country_code":"GR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256936,
+    "gn:latitude":37.64456,
+    "gn:longitude":21.65406,
+    "gn:modification_date":"2017-09-26",
+    "gn:name":"Mir\u00e1ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c1\u03ac\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c7\u03b1\u03af\u03b1 \u03a0\u03af\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Moir\u00e1kia",
+        "Mir\u00e1ka",
+        "Archea Pisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256936
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ec613827231c70bd20a0dde88273c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259613857,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259613857,
+    "wof:lastmodified":1537624377,
+    "wof:name":"Miraka",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65406,
+    37.64456,
+    21.65406,
+    37.64456
+],
+  "geometry": {"coordinates":[21.65406,37.64456],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293032055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02514,38.56986,22.02514,38.56986",
+    "geom:latitude":38.56986,
+    "geom:longitude":22.02514,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Alpochori",
+    "gn:country_code":"GR",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265363,
+    "gn:latitude":38.56986,
+    "gn:longitude":22.02514,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Alpoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Alpoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03c0\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Alpoch\u00f3rion",
+        "\u0391\u03bb\u03c0\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Alpokh\u00f3rion",
+        "Alpokh\u00f3ri",
+        "Alepokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265363
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"baa1f12a106b7d3969ab0a17ef0138a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293032055,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293032055,
+    "wof:lastmodified":1537624773,
+    "wof:name":"Alpochori",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02514,
+    38.56986,
+    22.02514,
+    38.56986
+],
+  "geometry": {"coordinates":[22.02514,38.56986],"type":"Point"}
+}

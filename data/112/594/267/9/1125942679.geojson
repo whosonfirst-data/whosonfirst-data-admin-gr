@@ -1,0 +1,105 @@
+{
+  "id": 1125942679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.59,39.61111,20.59,39.61111",
+    "geom:latitude":39.61111,
+    "geom:longitude":20.59,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":232,
+    "gn:population":85,
+    "iso:country":"GR",
+    "lbl:latitude":39.61111,
+    "lbl:longitude":20.59,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Granitsa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03bd\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Granitsa"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03c1\u03b1\u03bd\u03af\u03c4\u03c3\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Gran\u00edtsa"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":261880,
+    "qs_pg:gn_pop":232,
+    "qs_pg:name":"Granitsa",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1284104,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":950252,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261880,
+        "gp:id":950252,
+        "qs_pg:id":1284104,
+        "wd:id":"Q3565453"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297170,
+    "wof:geomhash":"5203b0102f471c5abe1c0280d74dc379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125942679,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125942679,
+    "wof:lastmodified":1514443959,
+    "wof:name":"Granitsa",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.59,
+    39.61111,
+    20.59,
+    39.61111
+],
+  "geometry": {"coordinates":[20.59,39.61111],"type":"Point"}
+}

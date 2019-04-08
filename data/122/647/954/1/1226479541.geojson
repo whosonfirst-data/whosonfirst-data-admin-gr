@@ -1,0 +1,78 @@
+{
+  "id": 1226479541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19062,37.3469,22.19062,37.3469",
+    "geom:latitude":37.3469,
+    "geom:longitude":22.19062,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Routsi",
+    "gn:country_code":"GR",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254173,
+    "gn:latitude":37.3469,
+    "gn:longitude":22.19062,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ro\u00fatsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03c4\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03cd\u03c4\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ro\u00fatsi",
+        "Ro\u00fatsion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254173,
+        "wk:page":"Routsi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"68ee8786e569c7b3034cd55a10f5b118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226479541,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226479541,
+    "wof:lastmodified":1537624255,
+    "wof:name":"Routsi",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19062000000001,
+    37.3469,
+    22.19062000000001,
+    37.3469
+],
+  "geometry": {"coordinates":[22.19062000000001,37.3469],"type":"Point"}
+}

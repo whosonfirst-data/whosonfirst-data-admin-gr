@@ -1,0 +1,77 @@
+{
+  "id": 1344093433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.23826,37.05117,25.23826,37.05117",
+    "geom:latitude":37.05117,
+    "geom:longitude":25.23826,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9294",
+    "gn:asciiname":"Prodromos",
+    "gn:country_code":"GR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262958,
+    "gn:latitude":37.05117,
+    "gn:longitude":25.23826,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Pr\u00f3dromos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pr\u00f3dromos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03cc\u03b4\u03c1\u03bf\u03bc\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Dragola",
+        "Dhragoul\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262958
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"44305c9de70365fb3605ca4e85a0eaca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344093433,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1344093433,
+    "wof:lastmodified":1537624659,
+    "wof:name":"Prodromos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.23826,
+    37.05117,
+    25.23826,
+    37.05117
+],
+  "geometry": {"coordinates":[25.23826,37.05117],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310140381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22106,37.61324,26.22106,37.61324",
+    "geom:latitude":37.61324,
+    "geom:longitude":26.22106,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Pera Arethousa",
+    "gn:country_code":"GR",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265917,
+    "gn:latitude":37.61324,
+    "gn:longitude":26.22106,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"P\u00e9ra Ar\u00e9thousa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e9ra Ar\u00e9thousa"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c1\u03b1 \u0391\u03c1\u03ad\u03b8\u03bf\u03c5\u03c3\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265917
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"11da698a1591d498a3dd70d58b69df4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1310140381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310140381,
+    "wof:lastmodified":1537625115,
+    "wof:name":"Pera Arethousa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22106,
+    37.61324000000001,
+    26.22106,
+    37.61324000000001
+],
+  "geometry": {"coordinates":[26.22106,37.61324000000001],"type":"Point"}
+}

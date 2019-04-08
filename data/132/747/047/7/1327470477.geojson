@@ -1,0 +1,74 @@
+{
+  "id": 1327470477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.96536,37.70004,26.96536,37.70004",
+    "geom:latitude":37.70004,
+    "geom:longitude":26.96536,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Pountes",
+    "gn:country_code":"GR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383265,
+    "gn:latitude":37.70004,
+    "gn:longitude":26.96536,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Po\u00fantes",
+    "gn:population":123,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03bd\u03c4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pountes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383265
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"48abc3b398f0a37b42c4c19e46a7b276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1327470477,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327470477,
+    "wof:lastmodified":1537625063,
+    "wof:name":"Pountes",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.96536,
+    37.70004,
+    26.96536,
+    37.70004
+],
+  "geometry": {"coordinates":[26.96536,37.70004],"type":"Point"}
+}

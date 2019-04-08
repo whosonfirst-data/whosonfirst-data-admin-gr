@@ -1,0 +1,83 @@
+{
+  "id": 1277113537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24156,38.87139,22.24156,38.87139",
+    "geom:latitude":38.87139,
+    "geom:longitude":22.24156,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Ypati",
+    "gn:country_code":"GR",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261769,
+    "gn:latitude":38.87139,
+    "gn:longitude":22.24156,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Yp\u00e1ti",
+    "gn:population":496,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a5\u03c0\u03ac\u03c4\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "Yp\u00e1ti"
+    ],
+    "name:eng_x_preferred":[
+        "Ypati"
+    ],
+    "name:und_x_variant":[
+        "Ip\u00e1ti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261769,
+        "wk:page":"Ypati"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3ec45d43c81b118ad227ee08f4abccb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277113537,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1277113537,
+    "wof:lastmodified":1537624607,
+    "wof:name":"Ypati",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":496,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24156,
+    38.87139000000001,
+    22.24156,
+    38.87139000000001
+],
+  "geometry": {"coordinates":[22.24156,38.87139000000001],"type":"Point"}
+}

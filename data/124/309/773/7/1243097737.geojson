@@ -1,0 +1,80 @@
+{
+  "id": 1243097737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92689,37.7769,24.92689,37.7769",
+    "geom:latitude":37.7769,
+    "geom:longitude":24.92689,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9268",
+    "gn:asciiname":"Episkopeio",
+    "gn:country_code":"GR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262637,
+    "gn:latitude":37.7769,
+    "gn:longitude":24.92689,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Episkope\u00edo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Episkope\u00edo"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03af\u03bf",
+        "Episkope\u00edon",
+        "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03af\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Episkopi\u00f3",
+        "Episkop\u00ed",
+        "Episkopi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262637
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5179de780972bd4de26d88553dc2b252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243097737,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243097737,
+    "wof:lastmodified":1537624641,
+    "wof:name":"Episkopeio",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92689,
+    37.7769,
+    24.92689,
+    37.7769
+],
+  "geometry": {"coordinates":[24.92689,37.7769],"type":"Point"}
+}

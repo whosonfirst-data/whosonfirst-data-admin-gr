@@ -1,0 +1,73 @@
+{
+  "id": 1310630215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.34563,37.44853,25.34563,37.44853",
+    "geom:latitude":37.44853,
+    "geom:longitude":25.34563,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9290.0",
+    "gn:asciiname":"Vothonas",
+    "gn:country_code":"GR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10627162,
+    "gn:latitude":37.44853,
+    "gn:longitude":25.34563,
+    "gn:modification_date":"2015-08-14",
+    "gn:name":"V\u00f3thonas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03b8\u03c9\u03bd\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vothonas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10627162
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5a8eaa886fe2a3e450b3333962972d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310630215,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1310630215,
+    "wof:lastmodified":1537625087,
+    "wof:name":"Vothonas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.34563,
+    37.44853,
+    25.34563,
+    37.44853
+],
+  "geometry": {"coordinates":[25.34563,37.44853],"type":"Point"}
+}

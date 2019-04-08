@@ -1,0 +1,75 @@
+{
+  "id": 1326660837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74085,37.30002,21.74085,37.30002",
+    "geom:latitude":37.30002,
+    "geom:longitude":21.74085,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Kakkavas",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261657,
+    "gn:latitude":37.30002,
+    "gn:longitude":21.74085,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"K\u00e1kkavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03ba\u03ba\u03b1\u03b2\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ayis\u00e9ri",
+        "\u00c1yios Seraf\u00edm",
+        "K\u00e1kkavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261657
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2e50a3a79d18d627e7e86c3e228f9687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326660837,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1326660837,
+    "wof:lastmodified":1537624603,
+    "wof:name":"Kakkavas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74085,
+    37.30002,
+    21.74085,
+    37.30002
+],
+  "geometry": {"coordinates":[21.74085,37.30002],"type":"Point"}
+}

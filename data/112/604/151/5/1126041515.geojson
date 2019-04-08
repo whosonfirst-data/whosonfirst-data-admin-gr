@@ -1,0 +1,85 @@
+{
+  "id": 1126041515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05,38.9,22.05,38.9",
+    "geom:latitude":38.9,
+    "geom:longitude":22.05,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":773,
+    "gn:population":512,
+    "iso:country":"GR",
+    "lbl:latitude":38.9,
+    "lbl:longitude":22.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a6\u03c4\u03ad\u03c1\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Fteri"
+    ],
+    "name:unk_x_variant":[
+        "Ft\u00e9ri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254437,
+    "qs_pg:gn_pop":773,
+    "qs_pg:name":"Pt\u00e9ri",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546474,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254437,
+        "qs_pg:id":546474
+    },
+    "wof:country":"GR",
+    "wof:created":1497302186,
+    "wof:geomhash":"778e902a41d8c27afda83bc4c1a372af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126041515,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1126041515,
+    "wof:lastmodified":1509408539,
+    "wof:name":"Pt\u00e9ri",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":512,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05,
+    38.9,
+    22.05,
+    38.9
+],
+  "geometry": {"coordinates":[22.05,38.9],"type":"Point"}
+}

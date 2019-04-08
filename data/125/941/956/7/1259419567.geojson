@@ -1,0 +1,78 @@
+{
+  "id": 1259419567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5315,37.94378,21.5315,37.94378",
+    "geom:latitude":37.94378,
+    "geom:longitude":21.5315,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Kato Velitses",
+    "gn:country_code":"GR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260456,
+    "gn:latitude":37.94378,
+    "gn:longitude":21.5315,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00e1to Velits\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Velits\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03b5\u03bb\u03b9\u03c4\u03c3\u03ad\u03c2",
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03b5\u03bb\u03b9\u03c4\u03c3\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "Vel\u00edtses",
+        "K\u00e1to Velitsa\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260456
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4a3d1d93950ebf09f1b8a39b68463c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259419567,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259419567,
+    "wof:lastmodified":1537624541,
+    "wof:name":"Kato Velitses",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5315,
+    37.94378,
+    21.5315,
+    37.94378
+],
+  "geometry": {"coordinates":[21.5315,37.94378],"type":"Point"}
+}

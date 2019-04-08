@@ -1,0 +1,80 @@
+{
+  "id": 1360021735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35755,37.62606,23.35755,37.62606",
+    "geom:latitude":37.62606,
+    "geom:longitude":23.35755,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9213",
+    "gn:asciiname":"Palaia Loutra",
+    "gn:country_code":"GR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256169,
+    "gn:latitude":37.62606,
+    "gn:longitude":23.35755,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Palai\u00e1 Loutr\u00e1",
+    "gn:population":25,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03ac \u039b\u03bf\u03c5\u03c4\u03c1\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Palaia Loutra"
+    ],
+    "name:und_x_variant":[
+        "Mo\u00faskha K\u00e1to",
+        "Palai\u00e1 Loutr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256169
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fc42c5102a935367cc590681a726ac0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360021735,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1360021735,
+    "wof:lastmodified":1537624342,
+    "wof:name":"Palaia Loutra",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35755,
+    37.62606,
+    23.35755,
+    37.62606
+],
+  "geometry": {"coordinates":[23.35755,37.62606],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209345213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03643,38.22753,22.03643,38.22753",
+    "geom:latitude":38.22753,
+    "geom:longitude":22.03643,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Koumaris",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259091,
+    "gn:latitude":38.22753,
+    "gn:longitude":22.03643,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"Ko\u00famaris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00famari",
+        "Ko\u00famaris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259091
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e2ae6ddef5aae9a35304b0795aaeeac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209345213
+        }
+    ],
+    "wof:id":1209345213,
+    "wof:lastmodified":1537624479,
+    "wof:name":"Koumaris",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03643,
+    38.22753,
+    22.03643,
+    38.22753
+],
+  "geometry": {"coordinates":[22.03643,38.22753],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125972779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15838,40.83956,21.15838,40.83956",
+    "geom:latitude":40.83956,
+    "geom:longitude":21.15838,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":40.83956,
+    "lbl:longitude":21.15838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Gjermani"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Agios Germanos"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Germanos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03cc\u03c2 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios German\u00f3s"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Agiosgermanos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos":124,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":124,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1153627,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":966092,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":966092,
+        "qs_pg:id":1153627,
+        "wd:id":"Q3298944"
+    },
+    "wof:country":"GR",
+    "wof:created":1497298235,
+    "wof:geomhash":"4082b5ff3ab7d9a8e8821611eb2e9e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125972779,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125972779,
+    "wof:lastmodified":1514443911,
+    "wof:name":"Agiosgermanos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15838,
+    40.83956,
+    21.15838,
+    40.83956
+],
+  "geometry": {"coordinates":[21.15838,40.83956],"type":"Point"}
+}

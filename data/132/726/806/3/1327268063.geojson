@@ -1,0 +1,79 @@
+{
+  "id": 1327268063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60211,35.36887,23.60211,35.36887",
+    "geom:latitude":35.36887,
+    "geom:longitude":23.60211,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Felesiana",
+    "gn:country_code":"GR",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473551,
+    "gn:latitude":35.36887,
+    "gn:longitude":23.60211,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Felesian\u00e1",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03bb\u03b5\u03c3\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Felesiana"
+    ],
+    "name:und_x_variant":[
+        "Felesian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473551
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"53f24fa0678cfd64c23f4d041d9cb8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327268063,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327268063,
+    "wof:lastmodified":1537625009,
+    "wof:name":"Felesiana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60211,
+    35.36887,
+    23.60211,
+    35.36887
+],
+  "geometry": {"coordinates":[23.60211,35.36887],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293623911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.34125,35.27772,25.34125,35.27772",
+    "geom:latitude":35.27772,
+    "geom:longitude":25.34125,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9309",
+    "gn:asciiname":"Kalo Chorio",
+    "gn:country_code":"GR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261365,
+    "gn:latitude":35.27772,
+    "gn:longitude":25.34125,
+    "gn:modification_date":"2015-10-26",
+    "gn:name":"Kal\u00f3 Chori\u00f3",
+    "gn:population":290,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Kalo Chorio"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00f3-Khori\u00f3",
+        "Kal\u00f3n Khor\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261365
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"689cf1501bf5f3934dcd7a307fd00c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293623911,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293623911,
+    "wof:lastmodified":1537624585,
+    "wof:name":"Kalo Chorio",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":290,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.34125,
+    35.27772,
+    25.34125,
+    35.27772
+],
+  "geometry": {"coordinates":[25.34125,35.27772],"type":"Point"}
+}

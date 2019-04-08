@@ -1,0 +1,86 @@
+{
+  "id": 1309748349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40054,36.48297,22.40054,36.48297",
+    "geom:latitude":36.48297,
+    "geom:longitude":22.40054,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Gerolimenas",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251385,
+    "gn:latitude":36.48297,
+    "gn:longitude":22.40054,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Gerolim\u00e9nas",
+    "gn:population":43,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ae\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Gerolimenas"
+    ],
+    "name:und_x_variant":[
+        "Yerolim\u00edn",
+        "Gerolim\u00edn",
+        "Gerolim\u00e9nas",
+        "Yerolim\u00e9nas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251385,
+        "wk:page":"Gerolimenas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"734145e0fae972ed4fc02299bef4d063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309748349,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1309748349,
+    "wof:lastmodified":1537624138,
+    "wof:name":"Gerolimenas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40054,
+    36.48297,
+    22.40054,
+    36.48297
+],
+  "geometry": {"coordinates":[22.40054,36.48297],"type":"Point"}
+}

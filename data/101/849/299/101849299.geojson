@@ -1,0 +1,145 @@
+{
+  "id": 101849299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.992983,38.654579,22.992983,38.654579",
+    "geom:latitude":38.654579,
+    "geom:longitude":22.992983,
+    "gn:population":4978,
+    "iso:country":"GR",
+    "lbl:latitude":38.654579,
+    "lbl:longitude":22.992983,
+    "mps:latitude":38.654579,
+    "mps:longitude":22.992983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u062a\u0627\u0644\u0627\u0646\u062a\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0442\u0430\u043b\u0430\u043d\u0442\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Atalandi"
+    ],
+    "name:dut_x_preferred":[
+        "Atalanti"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03b1\u03bb\u03ac\u03bd\u03c4\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Atalanti"
+    ],
+    "name:fin_x_preferred":[
+        "Atal\u00e1nti"
+    ],
+    "name:fra_x_preferred":[
+        "Atal\u00e1nti"
+    ],
+    "name:fre_x_preferred":[
+        "Atal\u00e1nti"
+    ],
+    "name:ger_x_preferred":[
+        "Atalandi"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c4\u03b1\u03bb\u03ac\u03bd\u03c4\u03b7 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Atalanti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30bf\u30e9\u30f3\u30c6\u30a3"
+    ],
+    "name:lat_x_preferred":[
+        "Atalanta"
+    ],
+    "name:nno_x_preferred":[
+        "Atal\u00e1ndi"
+    ],
+    "name:ron_x_preferred":[
+        "Atalanti"
+    ],
+    "name:rum_x_preferred":[
+        "Atalanti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0442\u0430\u043b\u0430\u043d\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Atal\u00e1nti"
+    ],
+    "name:unk_x_variant":[
+        "Atal\u00e1ndi"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"FUIVTIDA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03a4\u0391\u039b\u0391\u039d\u03a4\u0397",
+    "qs:loc_alt":"ATALANU",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":5508,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264390,
+        "gp:id":966021,
+        "qs:id":203362,
+        "qs_pg:id":203362,
+        "wd:id":"Q1233671",
+        "wk:page":"Atalanti"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5dd8dd59c717a262e3dd3fa991a0744e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849299,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849299,
+    "wof:lastmodified":1544740882,
+    "wof:name":"\u0391\u03a4\u0391\u039b\u0391\u039d\u03a4\u0397",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":4978,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.992983,
+    38.654579,
+    22.992983,
+    38.654579
+],
+  "geometry": {"coordinates":[22.992983,38.654579],"type":"Point"}
+}

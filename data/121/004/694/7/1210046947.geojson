@@ -1,0 +1,79 @@
+{
+  "id": 1210046947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14693,37.57132,23.14693,37.57132",
+    "geom:latitude":37.57132,
+    "geom:longitude":23.14693,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Eksochi",
+    "gn:country_code":"GR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257396,
+    "gn:latitude":37.57132,
+    "gn:longitude":23.14693,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Eksoch\u00ed",
+    "gn:population":24,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03be\u03bf\u03c7\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Eksochi"
+    ],
+    "name:und_x_variant":[
+        "Exohi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257396
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"15963fceb1459b7e4b3a7bdb27aa5a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210046947,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1210046947,
+    "wof:lastmodified":1537625057,
+    "wof:name":"Eksochi",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14693,
+    37.57132,
+    23.14693,
+    37.57132
+],
+  "geometry": {"coordinates":[23.14693,37.57132],"type":"Point"}
+}

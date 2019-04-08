@@ -1,0 +1,73 @@
+{
+  "id": 1209649939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61849,35.28977,25.61849,35.28977",
+    "geom:latitude":35.28977,
+    "geom:longitude":25.61849,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Xira Xila",
+    "gn:country_code":"GR",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":251507,
+    "gn:latitude":35.28977,
+    "gn:longitude":25.61849,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Xir\u00e1 X\u00edla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039e\u03b5\u03c1\u03ac \u039e\u03cd\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Xera Xyla"
+    ],
+    "name:und_x_variant":[
+        "Xer\u00e1 X\u00edla",
+        "Xir\u00e1 X\u00edla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251507
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9ee89f4e9481e143d8dd74ed6c9fec45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649939
+        }
+    ],
+    "wof:id":1209649939,
+    "wof:lastmodified":1537624144,
+    "wof:name":"Xira Xila",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61849,
+    35.28977000000001,
+    25.61849,
+    35.28977000000001
+],
+  "geometry": {"coordinates":[25.61849,35.28977000000001],"type":"Point"}
+}

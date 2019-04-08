@@ -1,0 +1,71 @@
+{
+  "id": 1243485751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1872,37.56357,25.1872,37.56357",
+    "geom:latitude":37.56357,
+    "geom:longitude":25.1872,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9301",
+    "gn:asciiname":"Arnados",
+    "gn:country_code":"GR",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264577,
+    "gn:latitude":37.56357,
+    "gn:longitude":25.1872,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Arn\u00e1dos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arn\u00e1dos",
+        "\u0391\u03c1\u03bd\u03ac\u03b4\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264577
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e1dcac0c9b01de96761aaa9d4084ca9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243485751,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243485751,
+    "wof:lastmodified":1537624732,
+    "wof:name":"Arnados",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1872,
+    37.56357,
+    25.1872,
+    37.56357
+],
+  "geometry": {"coordinates":[25.1872,37.56357],"type":"Point"}
+}

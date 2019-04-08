@@ -1,0 +1,73 @@
+{
+  "id": 1243292667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16056,39.33639,21.16056,39.33639",
+    "geom:latitude":39.33639,
+    "geom:longitude":21.16056,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Agios Stefanos",
+    "gn:country_code":"GR",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445215,
+    "gn:latitude":39.33639,
+    "gn:longitude":21.16056,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"\u00c1gios St\u00e9fanos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios St\u00e9fanos"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445215
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"68858029b6c7dcbdc1fe111ac420912c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243292667,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1243292667,
+    "wof:lastmodified":1537624800,
+    "wof:name":"Agios Stefanos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16056,
+    39.33639,
+    21.16056,
+    39.33639
+],
+  "geometry": {"coordinates":[21.16056,39.33639],"type":"Point"}
+}

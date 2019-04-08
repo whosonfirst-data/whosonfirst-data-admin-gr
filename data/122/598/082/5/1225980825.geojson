@@ -1,0 +1,72 @@
+{
+  "id": 1225980825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.125,39.14944,21.125,39.14944",
+    "geom:latitude":39.14944,
+    "geom:longitude":21.125,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Filikaiika",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262416,
+    "gn:latitude":39.14944,
+    "gn:longitude":21.125,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Filika\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grigor\u00f3poulo",
+        "Filika\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262416
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0b8539e01f804eb0342e2ceda1031a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225980825,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1225980825,
+    "wof:lastmodified":1537624632,
+    "wof:name":"Filikaiika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.125,
+    39.14944000000001,
+    21.125,
+    39.14944000000001
+],
+  "geometry": {"coordinates":[21.125,39.14944000000001],"type":"Point"}
+}

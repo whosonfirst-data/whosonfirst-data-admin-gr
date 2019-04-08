@@ -1,0 +1,116 @@
+{
+  "id": 1126012145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49639,40.23,22.49639,40.23",
+    "geom:latitude":40.23,
+    "geom:longitude":22.49639,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2006,
+    "gn:population":2006,
+    "iso:country":"GR",
+    "lbl:latitude":40.23,
+    "lbl:longitude":22.49639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u064a \u0625\u0641\u064a\u0633\u0648\u0633\u060c \u0628\u064a\u0631\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0430 \u0415\u0444\u0435\u0441\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Nea Efesos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u0388\u03c6\u03b5\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Efesos"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03ad\u03b1 \u0388\u03c6\u03b5\u03c3\u03bf\u03c2 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\uc544\uc5d0\ud398\uc18c\uc2a4"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e9a \u00c9fesos"
+    ],
+    "name:unk_x_variant":[
+        "Stipi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735023,
+    "qs_pg:gn_pop":2006,
+    "qs_pg:name":"Nea Efesos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":129062,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":957888,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735023,
+        "gp:id":957888,
+        "qs_pg:id":129062,
+        "wd:id":"Q3563119"
+    },
+    "wof:country":"GR",
+    "wof:created":1497300335,
+    "wof:geomhash":"d1f60a43f624151c7e7760729fcaaf83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126012145,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1126012145,
+    "wof:lastmodified":1514444014,
+    "wof:name":"Nea Efesos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2006,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49639,
+    40.23,
+    22.49639,
+    40.23
+],
+  "geometry": {"coordinates":[22.49639,40.23],"type":"Point"}
+}

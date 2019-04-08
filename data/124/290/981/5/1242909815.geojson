@@ -1,0 +1,79 @@
+{
+  "id": 1242909815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61126,41.38139,26.61126,41.38139",
+    "geom:latitude":41.38139,
+    "geom:longitude":26.61126,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9007",
+    "gn:asciiname":"Pythio",
+    "gn:country_code":"GR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734606,
+    "gn:latitude":41.38139,
+    "gn:longitude":26.61126,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"P\u00fdthio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00fdthion"
+    ],
+    "name:ell_x_variant":[
+        "P\u00fdthio",
+        "\u03a0\u03cd\u03b8\u03b9\u03bf",
+        "\u03a0\u03cd\u03b8\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "P\u00edthion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734606,
+        "wk:page":"Pythio"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ab27eb20f4f7fe4562bc624789e92011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242909815,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1242909815,
+    "wof:lastmodified":1537624852,
+    "wof:name":"Pythio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61126,
+    41.38139,
+    26.61126,
+    41.38139
+],
+  "geometry": {"coordinates":[26.61126,41.38139],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226784259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61169,40.60262,21.61169,40.60262",
+    "geom:latitude":40.60262,
+    "geom:longitude":21.61169,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9070",
+    "gn:asciiname":"Anargyroi",
+    "gn:country_code":"GR",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736865,
+    "gn:latitude":40.60262,
+    "gn:longitude":21.61169,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"An\u00e1rgyroi",
+    "gn:population":452,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ac\u03c1\u03b3\u03c5\u03c1\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Anargyroi"
+    ],
+    "name:und_x_variant":[
+        "R\u00fadnik",
+        "An\u00e1ryiroi",
+        "An\u00e1rgyroi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736865
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"507bc9d8924b98b4e4c2e5de5331aa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226784259,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1226784259,
+    "wof:lastmodified":1537624980,
+    "wof:name":"Anargyroi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":452,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61169,
+    40.60262,
+    21.61169,
+    40.60262
+],
+  "geometry": {"coordinates":[21.61169,40.60262],"type":"Point"}
+}

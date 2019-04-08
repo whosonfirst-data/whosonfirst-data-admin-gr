@@ -1,0 +1,78 @@
+{
+  "id": 1327061569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5715,38.016,21.5715,38.016",
+    "geom:latitude":38.016,
+    "geom:longitude":21.5715,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Polylofo",
+    "gn:country_code":"GR",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254916,
+    "gn:latitude":38.016,
+    "gn:longitude":21.5715,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Pol\u00fdlofo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pol\u00fdlofo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03bf\u03c6\u03bf",
+        "Pol\u00fdlofon",
+        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03bf\u03c6\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Pol\u00edlofon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254916
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9675eaaecbf89955b19172641b736cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327061569,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327061569,
+    "wof:lastmodified":1537624283,
+    "wof:name":"Polylofo",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5715,
+    38.016,
+    21.5715,
+    38.016
+],
+  "geometry": {"coordinates":[21.5715,38.016],"type":"Point"}
+}

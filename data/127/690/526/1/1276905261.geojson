@@ -1,0 +1,73 @@
+{
+  "id": 1276905261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18871,38.46022,22.18871,38.46022",
+    "geom:latitude":38.46022,
+    "geom:longitude":22.18871,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Vraila",
+    "gn:country_code":"GR",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251689,
+    "gn:latitude":38.46022,
+    "gn:longitude":22.18871,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Vra\u1e2fla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vra\u1e2fla"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03b1\u03af\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251689
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ba23c881fa43ff119c2c1aa7c6189ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276905261,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276905261,
+    "wof:lastmodified":1537624152,
+    "wof:name":"Vraila",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18871,
+    38.46022,
+    22.18871,
+    38.46022
+],
+  "geometry": {"coordinates":[22.18871,38.46022],"type":"Point"}
+}

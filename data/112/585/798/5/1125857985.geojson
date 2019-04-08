@@ -1,0 +1,104 @@
+{
+  "id": 1125857985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87611,40.73667,22.87611,40.73667",
+    "geom:latitude":40.73667,
+    "geom:longitude":22.87611,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1430,
+    "gn:population":1430,
+    "iso:country":"GR",
+    "lbl:latitude":40.73667,
+    "lbl:longitude":22.87611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648\u0643\u0648\u0631\u0648\u062f\u0627\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0438\u0442\u0435 \u0445\u0430\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Neochorouda"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03bf\u03c7\u03c9\u03c1\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Neochorouda"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b5\u03bf\u03c7\u03c9\u03c1\u03bf\u03cd\u03b4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Neochoro\u00fada"
+    ],
+    "name:unk_x_variant":[
+        "Neokhoro\u00fadha"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734958,
+    "qs_pg:gn_pop":1430,
+    "qs_pg:name":"Neochoro\u00fada",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":275656,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734958,
+        "qs_pg:id":275656,
+        "wd:id":"Q12249553"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293703,
+    "wof:geomhash":"d29dfcdd2bd4339c8f178a6a52c16d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125857985,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125857985,
+    "wof:lastmodified":1514444018,
+    "wof:name":"Neochoro\u00fada",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1430,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87611,
+    40.73667,
+    22.87611,
+    40.73667
+],
+  "geometry": {"coordinates":[22.87611,40.73667],"type":"Point"}
+}

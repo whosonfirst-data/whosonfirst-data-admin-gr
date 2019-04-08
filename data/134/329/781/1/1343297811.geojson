@@ -1,0 +1,76 @@
+{
+  "id": 1343297811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96778,38.06081,22.96778,38.06081",
+    "geom:latitude":38.06081,
+    "geom:longitude":22.96778,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9244",
+    "gn:asciiname":"Asprokambos",
+    "gn:country_code":"GR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264463,
+    "gn:latitude":38.06081,
+    "gn:longitude":22.96778,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Aspr\u00f3kambos",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c0\u03c1\u03cc\u03ba\u03b1\u03bc\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Asprokampos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264463
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7743932d11407399a898933f1b2d5806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343297811,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343297811,
+    "wof:lastmodified":1537624727,
+    "wof:name":"Asprokambos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96778,
+    38.06081,
+    22.96778,
+    38.06081
+],
+  "geometry": {"coordinates":[22.96778,38.06081],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125799333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54167,40.39444,22.54167,40.39444",
+    "geom:latitude":40.39444,
+    "geom:longitude":22.54167,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":653,
+    "gn:population":653,
+    "iso:country":"GR",
+    "lbl:latitude":40.39444,
+    "lbl:longitude":22.54167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0648\u0646\u064a\u0627\u060c \u0628\u064a\u0631\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u043e\u043d\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Alonia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Alonia"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb\u03ce\u03bd\u03b9\u03b1 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Al\u00f3nia"
+    ],
+    "name:unk_x_variant":[
+        "Sal\u00f3nia"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736913,
+    "qs_pg:gn_pop":653,
+    "qs_pg:name":"Alonia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1164267,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":945384,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736913,
+        "gp:id":945384,
+        "qs_pg:id":1164267,
+        "wd:id":"Q3564015"
+    },
+    "wof:country":"GR",
+    "wof:created":1497291196,
+    "wof:geomhash":"859cd2c7ccacab46d2ae5f5ec07780e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125799333,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125799333,
+    "wof:lastmodified":1553816540,
+    "wof:name":"Alonia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":653,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54167,
+    40.39444,
+    22.54167,
+    40.39444
+],
+  "geometry": {"coordinates":[22.54167,40.39444],"type":"Point"}
+}

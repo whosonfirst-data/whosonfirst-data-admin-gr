@@ -1,0 +1,76 @@
+{
+  "id": 1260110951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60045,40.57049,21.60045,40.57049",
+    "geom:latitude":40.57049,
+    "geom:longitude":21.60045,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9067",
+    "gn:asciiname":"Olimbias",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734892,
+    "gn:latitude":40.57049,
+    "gn:longitude":21.60045,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Olimbi\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olympiada"
+    ],
+    "name:und_x_variant":[
+        "Rak\u00edta",
+        "Olimbi\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734892,
+        "wk:page":"Rakita"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4bc69465c51f3e8ea04687463b6f29f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260110951,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1260110951,
+    "wof:lastmodified":1537624868,
+    "wof:name":"Olimbias",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60045,
+    40.57049,
+    21.60045,
+    40.57049
+],
+  "geometry": {"coordinates":[21.60045,40.57049],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125391371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80511,37.99143,23.80511,37.99143",
+    "geom:latitude":37.99143,
+    "geom:longitude":23.80511,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":47714,
+    "gn:population":44539,
+    "iso:country":"GR",
+    "lbl:latitude":37.99143,
+    "lbl:longitude":23.80511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c0\u03ac\u03b3\u03bf\u03c5 - \u03a7\u03bf\u03bb\u03b1\u03c1\u03b3\u03bf\u03cd"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133839,
+    "qs_pg:gn_pop":47714,
+    "qs_pg:name":"Papagou-Cholargos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":224092,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56558129,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133839,
+        "gp:id":56558129,
+        "qs_pg:id":224092
+    },
+    "wof:country":"GR",
+    "wof:created":1497048729,
+    "wof:geomhash":"6cccd87c1f7bfc0d57ca6510c9a5b914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125391371,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1125391371,
+    "wof:lastmodified":1509389826,
+    "wof:name":"Papagou-Cholargos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"localadmin",
+    "wof:population":44539,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80511,
+    37.99143,
+    23.80511,
+    37.99143
+],
+  "geometry": {"coordinates":[23.80511,37.99143],"type":"Point"}
+}

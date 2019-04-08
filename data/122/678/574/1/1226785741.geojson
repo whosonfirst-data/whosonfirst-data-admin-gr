@@ -1,0 +1,79 @@
+{
+  "id": 1226785741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56715,40.77499,21.56715,40.77499",
+    "geom:latitude":40.77499,
+    "geom:longitude":21.56715,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Stathmos Vevis",
+    "gn:country_code":"GR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8716523,
+    "gn:latitude":40.77499,
+    "gn:longitude":21.56715,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Stathm\u00f3s V\u00e9vis",
+    "gn:population":41,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2 \u0392\u03b5\u03cd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stathmos Vevis"
+    ],
+    "name:und_x_variant":[
+        "Stathm\u00f3s V\u00e9vis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8716523
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2140200848d2d397b0d2fe41d78a52bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226785741,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1226785741,
+    "wof:lastmodified":1537625035,
+    "wof:name":"Stathmos Vevis",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56715,
+    40.77499,
+    21.56715,
+    40.77499
+],
+  "geometry": {"coordinates":[21.56715,40.77499],"type":"Point"}
+}

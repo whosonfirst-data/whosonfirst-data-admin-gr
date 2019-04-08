@@ -1,0 +1,78 @@
+{
+  "id": 1343389639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67773,40.07156,21.67773,40.07156",
+    "geom:latitude":40.07156,
+    "geom:longitude":21.67773,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Pontini",
+    "gn:country_code":"GR",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734514,
+    "gn:latitude":40.07156,
+    "gn:longitude":21.67773,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Pontin\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pontin\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bd\u03c4\u03b9\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "T\u00f3rista",
+        "Pondin\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734514,
+        "wk:page":"Pontini"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c99bcf7edf27e2aa390bda19a3338711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343389639,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343389639,
+    "wof:lastmodified":1537624845,
+    "wof:name":"Pontini",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67773,
+    40.07156,
+    21.67773,
+    40.07156
+],
+  "geometry": {"coordinates":[21.67773,40.07156],"type":"Point"}
+}

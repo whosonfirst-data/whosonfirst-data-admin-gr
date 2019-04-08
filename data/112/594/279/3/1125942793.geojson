@@ -1,0 +1,108 @@
+{
+  "id": 1125942793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97361,39.61833,20.97361,39.61833",
+    "geom:latitude":39.61833,
+    "geom:longitude":20.97361,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":464,
+    "gn:population":524,
+    "iso:country":"GR",
+    "lbl:latitude":39.61833,
+    "lbl:longitude":20.97361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Iliokali"
+    ],
+    "name:ell_x_preferred":[
+        "\u0397\u03bb\u03b9\u03cc\u03ba\u03b1\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Iliokali"
+    ],
+    "name:gre_x_preferred":[
+        "\u0397\u03bb\u03b9\u03cc\u03ba\u03b1\u03bb\u03b7 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:rum_x_preferred":[
+        "Iliokali"
+    ],
+    "name:swe_x_preferred":[
+        "Ili\u00f3kali"
+    ],
+    "name:unk_x_variant":[
+        "Ili\u00f3kali"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":261794,
+    "qs_pg:gn_pop":464,
+    "qs_pg:name":"Iliokali",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1284114,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":950444,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261794,
+        "gp:id":950444,
+        "qs_pg:id":1284114,
+        "wd:id":"Q3567071"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297174,
+    "wof:geomhash":"72b736653881087ba740c3b20d2eb5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125942793,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125942793,
+    "wof:lastmodified":1514443962,
+    "wof:name":"Iliokali",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":524,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97361,
+    39.61833,
+    20.97361,
+    39.61833
+],
+  "geometry": {"coordinates":[20.97361,39.61833],"type":"Point"}
+}

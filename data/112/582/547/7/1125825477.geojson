@@ -1,0 +1,105 @@
+{
+  "id": 1125825477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75,38.06667,20.75,38.06667",
+    "geom:latitude":38.06667,
+    "geom:longitude":20.75,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":38.06667,
+    "lbl:longitude":20.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Markopoulo"
+    ],
+    "name:ell_x_preferred":[
+        "K\u00e1to Katelei\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03c4\u03b5\u03bb\u03b5\u03b9\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Markopoulo"
+    ],
+    "name:rum_x_preferred":[
+        "Markopoulo"
+    ],
+    "name:unk_x_variant":[
+        "K\u00e1to Kateli\u00f3s"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":260666,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Katelios",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":342269,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":952088,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260666,
+        "gp:id":952088,
+        "qs_pg:id":342269,
+        "wd:id":"Q1003217"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292255,
+    "wof:geomhash":"509356347ec1c651480d4f22d1c343db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125825477,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125825477,
+    "wof:lastmodified":1514443974,
+    "wof:name":"Katelios",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75,
+    38.06667,
+    20.75,
+    38.06667
+],
+  "geometry": {"coordinates":[20.75,38.06667],"type":"Point"}
+}

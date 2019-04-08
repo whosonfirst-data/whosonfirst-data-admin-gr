@@ -1,0 +1,79 @@
+{
+  "id": 1310238703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53011,37.953,21.53011,37.953",
+    "geom:latitude":37.953,
+    "geom:longitude":21.53011,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Velitses",
+    "gn:country_code":"GR",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264820,
+    "gn:latitude":37.953,
+    "gn:longitude":21.53011,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Velits\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Velits\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b5\u03bb\u03b9\u03c4\u03c3\u03ad\u03c2",
+        "Velitsa\u00ed",
+        "\u0392\u03b5\u03bb\u03b9\u03c4\u03c3\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Velis\u00e1",
+        "\u00c1no Velitsa\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264820
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ef990eff28fe3477d81b4ca2ca0dd9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310238703,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310238703,
+    "wof:lastmodified":1537624742,
+    "wof:name":"Velitses",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53011,
+    37.953,
+    21.53011,
+    37.953
+],
+  "geometry": {"coordinates":[21.53011,37.953],"type":"Point"}
+}

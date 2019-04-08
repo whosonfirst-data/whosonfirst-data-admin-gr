@@ -1,0 +1,74 @@
+{
+  "id": 1293523699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76517,35.38993,23.76517,35.38993",
+    "geom:latitude":35.38993,
+    "geom:longitude":23.76517,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Chamalevri",
+    "gn:country_code":"GR",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260126,
+    "gn:latitude":35.38993,
+    "gn:longitude":23.76517,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Chamal\u00e9vri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chamal\u00e9vri"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bc\u03b1\u03bb\u03b5\u03cd\u03c1\u03b9",
+        "Khamal\u00e9vri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260126
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bc11a176ca19d96ba5d50cba36b4cc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293523699,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293523699,
+    "wof:lastmodified":1537624525,
+    "wof:name":"Chamalevri",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76517,
+    35.38993,
+    23.76517,
+    35.38993
+],
+  "geometry": {"coordinates":[23.76517,35.38993],"type":"Point"}
+}

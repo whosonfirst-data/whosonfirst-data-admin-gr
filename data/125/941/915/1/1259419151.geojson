@@ -1,0 +1,67 @@
+{
+  "id": 1259419151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.87339,35.1098,24.87339,35.1098",
+    "geom:latitude":35.1098,
+    "geom:longitude":24.87339,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308",
+    "gn:asciiname":"Laloumas",
+    "gn:country_code":"GR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258649,
+    "gn:latitude":35.1098,
+    "gn:longitude":24.87339,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Laloum\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258649
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d4d643c468d264190cc9e68e719d2231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259419151,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259419151,
+    "wof:lastmodified":1536951338,
+    "wof:name":"Laloumas",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.87339,
+    35.1098,
+    24.87339,
+    35.1098
+],
+  "geometry": {"coordinates":[24.87339,35.1098],"type":"Point"}
+}

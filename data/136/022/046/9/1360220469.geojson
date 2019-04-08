@@ -1,0 +1,75 @@
+{
+  "id": 1360220469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.49658,39.50403,20.49658,39.50403",
+    "geom:latitude":39.50403,
+    "geom:longitude":20.49658,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"18.0",
+    "gn:admin3_code":"9078",
+    "gn:asciiname":"Agia Mavra",
+    "gn:country_code":"GR",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264208,
+    "gn:latitude":39.50403,
+    "gn:longitude":20.49658,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ag\u00eda M\u00e1vra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03cd\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "S\u00e9liani",
+        "Ay\u00eda M\u00e1vra",
+        "Ag\u00eda M\u00e1vra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264208
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6bfe447d493f413388586b88766e259b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360220469,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1360220469,
+    "wof:lastmodified":1537624718,
+    "wof:name":"Agia Mavra",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49658,
+    39.50403,
+    20.49658,
+    39.50403
+],
+  "geometry": {"coordinates":[20.49658,39.50403],"type":"Point"}
+}

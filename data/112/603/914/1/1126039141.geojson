@@ -1,0 +1,131 @@
+{
+  "id": 1126039141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01611,40.02611,21.01611,40.02611",
+    "geom:latitude":40.02611,
+    "geom:longitude":21.01611,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":434,
+    "gn:population":278,
+    "iso:country":"GR",
+    "lbl:latitude":40.02611,
+    "lbl:longitude":21.01611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0441\u0442\u0440\u0430\u0442\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Distrato"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03af\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03af\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Distrato"
+    ],
+    "name:fre_x_preferred":[
+        "Distrato"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03af\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Distrato"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30b9\u30c8\u30e9\u30c8"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0440\u0458\u0430\u0437\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "D\u00edstrato"
+    ],
+    "name:rup_x_preferred":[
+        "Briaza"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00edstrato"
+    ],
+    "name:unk_x_variant":[
+        "Vri\u00e1zi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736418,
+    "qs_pg:gn_pop":434,
+    "qs_pg:name":"Dhistraton",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":968259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":948571,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736418,
+        "gp:id":948571,
+        "qs_pg:id":968259,
+        "wd:id":"Q3072471"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302014,
+    "wof:geomhash":"77eca9572b893bff1e5e0f2e6cdd507f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126039141,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126039141,
+    "wof:lastmodified":1553816719,
+    "wof:name":"Dhistraton",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01611,
+    40.02611,
+    21.01611,
+    40.02611
+],
+  "geometry": {"coordinates":[21.01611,40.02611],"type":"Point"}
+}

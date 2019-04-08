@@ -1,0 +1,75 @@
+{
+  "id": 101849531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.842243,38.688038,21.842243,38.688038",
+    "geom:latitude":38.688038,
+    "geom:longitude":21.842243,
+    "iso:country":"GR",
+    "lbl:latitude":38.688038,
+    "lbl:longitude":21.842243,
+    "mps:latitude":38.688038,
+    "mps:longitude":21.842243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"AITVLIA KAI AKARNANIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039d\u0395\u039f\u03a7\u03a9\u03a1\u0399\u039f\u039d",
+    "qs:loc_alt":"NEOXVRION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":958084,
+        "qs:id":8
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"20fb113a2071b4b0323a805427c3e2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849531,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849531,
+    "wof:lastmodified":1544740995,
+    "wof:name":"\u039d\u0395\u039f\u03a7\u03a9\u03a1\u0399\u039f\u039d",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.842243,
+    38.688038,
+    21.842243,
+    38.688038
+],
+  "geometry": {"coordinates":[21.842243,38.688038],"type":"Point"}
+}

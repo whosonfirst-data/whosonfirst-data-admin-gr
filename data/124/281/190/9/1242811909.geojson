@@ -1,0 +1,91 @@
+{
+  "id": 1242811909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77369,37.74717,20.77369,37.74717",
+    "geom:latitude":37.74717,
+    "geom:longitude":20.77369,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Koiliomenos",
+    "gn:country_code":"GR",
+    "gn:dem":480,
+    "gn:elevation":"480.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263813,
+    "gn:latitude":37.74717,
+    "gn:longitude":20.77369,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Koiliom\u00e9nos",
+    "gn:population":391,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b9\u03bb\u03b9\u03c9\u03bc\u03ad\u03bd\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03b9\u03bb\u03b9\u03c9\u03bc\u03ad\u03bd\u03bf\u03c2",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Koiliomenos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441-\u041d\u0438\u043a\u043e\u043b\u0430\u043e\u0441"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yios Nik\u00f3laos",
+        "Koiliom\u00e9nos",
+        "Koiliom\u00e9no",
+        "\u00c1gios Nik\u00f3laos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263813,
+        "wk:page":"Koiliomenos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d307411f8eca78f2eef87ea16fe4779a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242811909,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1242811909,
+    "wof:lastmodified":1537624700,
+    "wof:name":"Koiliomenos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":391,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77369,
+    37.74717,
+    20.77369,
+    37.74717
+],
+  "geometry": {"coordinates":[20.77369,37.74717],"type":"Point"}
+}

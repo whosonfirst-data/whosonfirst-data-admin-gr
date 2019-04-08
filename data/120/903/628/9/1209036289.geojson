@@ -1,0 +1,81 @@
+{
+  "id": 1209036289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63858,35.24763,25.63858,35.24763",
+    "geom:latitude":35.24763,
+    "geom:longitude":25.63858,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Limnes",
+    "gn:country_code":"GR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258313,
+    "gn:latitude":35.24763,
+    "gn:longitude":25.63858,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"L\u00edmnes",
+    "gn:population":324,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03af\u03bc\u03bd\u03b1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Limnes"
+    ],
+    "name:und_x_variant":[
+        "L\u00edmnais",
+        "L\u00edmnes",
+        "L\u00edmnai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258313,
+        "wk:page":"Limnes"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2ca1f4d14680c57e30ceb6bfc8e50db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209036289
+        }
+    ],
+    "wof:id":1209036289,
+    "wof:lastmodified":1537624441,
+    "wof:name":"Limnes",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63858,
+    35.24763,
+    25.63858,
+    35.24763
+],
+  "geometry": {"coordinates":[25.63858,35.24763],"type":"Point"}
+}

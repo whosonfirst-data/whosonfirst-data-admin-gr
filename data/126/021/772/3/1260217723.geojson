@@ -1,0 +1,76 @@
+{
+  "id": 1260217723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55597,35.0282,25.55597,35.0282",
+    "geom:latitude":35.0282,
+    "geom:longitude":25.55597,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Sfakoura",
+    "gn:country_code":"GR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":253966,
+    "gn:latitude":35.0282,
+    "gn:longitude":25.55597,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Sfako\u00fara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c6\u03b1\u03ba\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Sfakoura"
+    ],
+    "name:und_x_variant":[
+        "Sfako\u00fara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253966
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c461ff16d77f0d272b0732ea64809bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260217723,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260217723,
+    "wof:lastmodified":1537624247,
+    "wof:name":"Sfakoura",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55597,
+    35.0282,
+    25.55597,
+    35.0282
+],
+  "geometry": {"coordinates":[25.55597,35.0282],"type":"Point"}
+}

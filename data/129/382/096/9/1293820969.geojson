@@ -1,0 +1,81 @@
+{
+  "id": 1293820969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20889,37.53895,23.20889,37.53895",
+    "geom:latitude":37.53895,
+    "geom:longitude":23.20889,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9213",
+    "gn:asciiname":"Karatzas",
+    "gn:country_code":"GR",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261035,
+    "gn:latitude":37.53895,
+    "gn:longitude":23.20889,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Karatz\u00e1s",
+    "gn:population":287,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03c4\u03b6\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Karatzas"
+    ],
+    "name:und_x_variant":[
+        "Karatz\u00e1",
+        "Karaj\u00e1",
+        "Karatz\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261035
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63ad0a2746d8c6b8219b87a024ac70e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293820969,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293820969,
+    "wof:lastmodified":1537624571,
+    "wof:name":"Karatzas",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20889,
+    37.53895,
+    23.20889,
+    37.53895
+],
+  "geometry": {"coordinates":[23.20889,37.53895],"type":"Point"}
+}

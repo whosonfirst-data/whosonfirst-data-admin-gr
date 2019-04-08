@@ -1,0 +1,74 @@
+{
+  "id": 1276911155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10725,38.08086,22.10725,38.08086",
+    "geom:latitude":38.08086,
+    "geom:longitude":22.10725,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Kerpini",
+    "gn:country_code":"GR",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260185,
+    "gn:latitude":38.08086,
+    "gn:longitude":22.10725,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kerpin\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03c0\u03b9\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Kerpin\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260185,
+        "wk:page":"Kerpini"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a062bc7998baa27bd9dd99bbf4d4baf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276911155,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276911155,
+    "wof:lastmodified":1537624528,
+    "wof:name":"Kerpini",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10725,
+    38.08086,
+    22.10725,
+    38.08086
+],
+  "geometry": {"coordinates":[22.10725,38.08086],"type":"Point"}
+}

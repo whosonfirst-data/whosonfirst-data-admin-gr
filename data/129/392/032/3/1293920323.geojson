@@ -1,0 +1,74 @@
+{
+  "id": 1293920323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.07019,36.20015,28.07019,36.20015",
+    "geom:latitude":36.20015,
+    "geom:longitude":28.07019,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Malon",
+    "gn:country_code":"GR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144399,
+    "gn:latitude":36.20015,
+    "gn:longitude":28.07019,
+    "gn:modification_date":"2017-09-21",
+    "gn:name":"Mal\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Mal\u00f3n",
+        "\u039c\u03b1\u03bb\u03ce\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144399
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d81e7ee842211b9a6f65e0028f1cafec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293920323,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1293920323,
+    "wof:lastmodified":1537625002,
+    "wof:name":"Malon",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.07019,
+    36.20015,
+    28.07019,
+    36.20015
+],
+  "geometry": {"coordinates":[28.07019,36.20015],"type":"Point"}
+}

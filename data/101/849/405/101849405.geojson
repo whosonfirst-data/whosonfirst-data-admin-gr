@@ -1,0 +1,124 @@
+{
+  "id": 101849405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.199222,38.189655,22.199222,38.189655",
+    "geom:latitude":38.189655,
+    "geom:longitude":22.199222,
+    "iso:country":"GR",
+    "lbl:latitude":38.189655,
+    "lbl:longitude":22.199222,
+    "mps:latitude":38.189655,
+    "mps:longitude":22.199222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0627\u0643\u0648\u0628\u062a\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Diakopto"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03b1\u03ba\u03bf\u03c0\u03c4\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Diakopto"
+    ],
+    "name:fre_x_preferred":[
+        "Diakopto"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03b9\u03b1\u03ba\u03bf\u03c0\u03c4\u03cc \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Diakopto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30a2\u30b3\u30d7\u30c8"
+    ],
+    "name:lat_x_preferred":[
+        "Diacoptum"
+    ],
+    "name:nno_x_preferred":[
+        "Diakopt\u00f3"
+    ],
+    "name:ron_x_preferred":[
+        "Diakopto"
+    ],
+    "name:rum_x_preferred":[
+        "Diakopto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044c\u044f\u043a\u043e\u043f\u0442\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Dhiakoft\u00f3n"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"AXAIA",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0394\u0399\u0391\u039a\u039f\u03a0\u03a4\u039f\u039d",
+    "qs:loc_alt":"DIAKOPTON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":334,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263148,
+        "gp:id":965944,
+        "qs:id":481432,
+        "qs_pg:id":481432,
+        "wd:id":"Q1232203",
+        "wk:page":"Diakopto"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e75864caeb9b45de41330a50b56d2893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849405,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849405,
+    "wof:lastmodified":1544740935,
+    "wof:name":"\u0394\u0399\u0391\u039a\u039f\u03a0\u03a4\u039f\u039d",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.199222,
+    38.189655,
+    22.199222,
+    38.189655
+],
+  "geometry": {"coordinates":[22.199222,38.189655],"type":"Point"}
+}

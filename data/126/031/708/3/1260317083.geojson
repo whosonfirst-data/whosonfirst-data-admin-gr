@@ -1,0 +1,76 @@
+{
+  "id": 1260317083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85396,36.81224,25.85396,36.81224",
+    "geom:latitude":36.81224,
+    "geom:longitude":25.85396,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9291",
+    "gn:asciiname":"Lefkes",
+    "gn:country_code":"GR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9253866,
+    "gn:latitude":36.81224,
+    "gn:longitude":25.85396,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"L\u00e9fkes",
+    "gn:population":58,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03cd\u03ba\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Lefkes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253866
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d7964681e0c8c119e0773a093e6ff79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260317083,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1260317083,
+    "wof:lastmodified":1537625055,
+    "wof:name":"Lefkes",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85396,
+    36.81224,
+    25.85396,
+    36.81224
+],
+  "geometry": {"coordinates":[25.85396,36.81224],"type":"Point"}
+}

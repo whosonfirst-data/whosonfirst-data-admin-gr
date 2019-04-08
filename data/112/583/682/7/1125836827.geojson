@@ -1,0 +1,119 @@
+{
+  "id": 1125836827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08083,40.78417,21.08083,40.78417",
+    "geom:latitude":40.78417,
+    "geom:longitude":21.08083,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":31,
+    "gn:population":21,
+    "iso:country":"GR",
+    "lbl:latitude":40.78417,
+    "lbl:longitude":21.08083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0410\u0445\u0438\u043b"
+    ],
+    "name:bul_x_variant":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0410\u0445\u0438\u043b"
+    ],
+    "name:deu_x_preferred":[
+        "Agios Achillios"
+    ],
+    "name:dut_x_preferred":[
+        "Agios Achillios"
+    ],
+    "name:ell_x_historical":[
+        "\u03a7\u03b1\u0390\u03bb\u03bb\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03c7\u03af\u03bb\u03bb\u03b5\u03b9\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u0390\u03bb\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Achillios"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c1gios Ach\u00edlleios"
+    ],
+    "name:ger_x_preferred":[
+        "Agios Achillios"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03c7\u03af\u03bb\u03bb\u03b5\u03b9\u03bf\u03c2 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0410\u0445\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Nis\u00edda \u00c1gios Ach\u00edlleios"
+    ],
+    "name:unk_x_variant":[
+        "Ail"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736627,
+    "qs_pg:gn_pop":31,
+    "qs_pg:name":"\u00c1gios Ach\u00edlleios",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":552995,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736627,
+        "qs_pg:id":552995,
+        "wd:id":"Q12293115"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292751,
+    "wof:geomhash":"aaeb55d256bedc7e6da6e650127bf5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125836827,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125836827,
+    "wof:lastmodified":1553816561,
+    "wof:name":"\u00c1gios Ach\u00edlleios",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08083,
+    40.78417,
+    21.08083,
+    40.78417
+],
+  "geometry": {"coordinates":[21.08083,40.78417],"type":"Point"}
+}

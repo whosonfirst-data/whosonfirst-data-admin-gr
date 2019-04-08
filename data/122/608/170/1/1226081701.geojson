@@ -1,0 +1,73 @@
+{
+  "id": 1226081701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84683,36.09919,27.84683,36.09919",
+    "geom:latitude":36.09919,
+    "geom:longitude":27.84683,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Profilia",
+    "gn:country_code":"GR",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254653,
+    "gn:latitude":36.09919,
+    "gn:longitude":27.84683,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Prof\u00edlia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Prof\u00edlia"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03bf\u03c6\u03af\u03bb\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254653
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4c4867de12306b64f7d51e3acd45ec19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226081701,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226081701,
+    "wof:lastmodified":1537624274,
+    "wof:name":"Profilia",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84683,
+    36.09919,
+    27.84683,
+    36.09919
+],
+  "geometry": {"coordinates":[27.84683,36.09919],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1310634395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33933,41.02504,24.33933,41.02504",
+    "geom:latitude":41.02504,
+    "geom:longitude":24.33933,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9012",
+    "gn:asciiname":"Filippoi",
+    "gn:country_code":"GR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736250,
+    "gn:latitude":41.02504,
+    "gn:longitude":24.33933,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"F\u00edlippoi",
+    "gn:population":894,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Filippoi"
+    ],
+    "name:und_x_variant":[
+        "Philippi",
+        "Mes\u00f3rrema",
+        "S\u00e9liani",
+        "F\u00edlippoi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736250,
+        "wk:page":"Filippoi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f84c2b45889f913f64135872fde15412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310634395,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310634395,
+    "wof:lastmodified":1537624946,
+    "wof:name":"Filippoi",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":894,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33933,
+    41.02504,
+    24.33933,
+    41.02504
+],
+  "geometry": {"coordinates":[24.33933,41.02504],"type":"Point"}
+}

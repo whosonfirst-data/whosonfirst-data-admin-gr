@@ -1,0 +1,81 @@
+{
+  "id": 1293918383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98479,40.32688,23.98479,40.32688",
+    "geom:latitude":40.32688,
+    "geom:longitude":23.98479,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9056",
+    "gn:asciiname":"Ouranopoli",
+    "gn:country_code":"GR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692660,
+    "gn:latitude":40.32688,
+    "gn:longitude":23.98479,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Ouranopoli",
+    "gn:population":826,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c1\u03b1\u03bd\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03c1\u03b1\u03bd\u03cc\u03c0\u03bf\u03bb\u03b7",
+        "\u039f\u03c5\u03c1\u03b1\u03bd\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ouranoupoli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692660,
+        "wk:page":"Ouranoupoli"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8deeb36c70963087b4437667f6416307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293918383,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293918383,
+    "wof:lastmodified":1537624996,
+    "wof:name":"Ouranopoli",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":826,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98479,
+    40.32688,
+    23.98479,
+    40.32688
+],
+  "geometry": {"coordinates":[23.98479,40.32688],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310637657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66361,38.20003,20.66361,38.20003",
+    "geom:latitude":38.20003,
+    "geom:longitude":20.66361,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Koulourata",
+    "gn:country_code":"GR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259108,
+    "gn:latitude":38.20003,
+    "gn:longitude":20.66361,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Koulour\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Koulour\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bb\u03bf\u03c5\u03c1\u03ac\u03c4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259108
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bdc73d7ce2a92e5ad004bb3eff7a359d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310637657,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1310637657,
+    "wof:lastmodified":1537624480,
+    "wof:name":"Koulourata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66361,
+    38.20003,
+    20.66361,
+    38.20003
+],
+  "geometry": {"coordinates":[20.66361,38.20003],"type":"Point"}
+}

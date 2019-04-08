@@ -1,0 +1,98 @@
+{
+  "id": 1125927265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82417,40.1275,20.82417,40.1275",
+    "geom:latitude":40.1275,
+    "geom:longitude":20.82417,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":103,
+    "gn:population":32,
+    "iso:country":"GR",
+    "lbl:latitude":40.1275,
+    "lbl:longitude":20.82417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gannadio"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03bd\u03b1\u03b4\u03b9\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b1\u03bd\u03b1\u03b4\u03b9\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Ganadio"
+    ],
+    "name:epo_x_preferred":[
+        "Ganadio"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03b1\u03bd\u03bd\u03b1\u03b4\u03b9\u03cc \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Ganadhi\u00f3n"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736197,
+    "qs_pg:gn_pop":103,
+    "qs_pg:name":"Ganadi\u00f3n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":552971,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736197,
+        "qs_pg:id":552971,
+        "wd:id":"Q6492314"
+    },
+    "wof:country":"GR",
+    "wof:created":1497296682,
+    "wof:geomhash":"ba8fda5995074075d87d81557d9ccd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125927265,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125927265,
+    "wof:lastmodified":1514443954,
+    "wof:name":"Ganadi\u00f3n",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82417,
+    40.1275,
+    20.82417,
+    40.1275
+],
+  "geometry": {"coordinates":[20.82417,40.1275],"type":"Point"}
+}

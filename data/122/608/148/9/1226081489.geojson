@@ -1,0 +1,76 @@
+{
+  "id": 1226081489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.81669,37.1241,25.81669,37.1241",
+    "geom:latitude":37.1241,
+    "geom:longitude":25.81669,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292.0",
+    "gn:asciiname":"Kalotaritissa",
+    "gn:country_code":"GR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794097,
+    "gn:latitude":37.1241,
+    "gn:longitude":25.81669,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Kalotar\u00edtissa",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bf\u03c4\u03b1\u03c1\u03af\u03c4\u03b9\u03c3\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kalotaritissa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794097
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5a9ea3505121b3ef22e9e802a1e715fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226081489,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226081489,
+    "wof:lastmodified":1537625090,
+    "wof:name":"Kalotaritissa",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.81669,
+    37.1241,
+    25.81669,
+    37.1241
+],
+  "geometry": {"coordinates":[25.81669,37.1241],"type":"Point"}
+}

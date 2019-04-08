@@ -1,0 +1,74 @@
+{
+  "id": 1327368707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49321,37.72636,21.49321,37.72636",
+    "geom:latitude":37.72636,
+    "geom:longitude":21.49321,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141",
+    "gn:asciiname":"Rozaiika",
+    "gn:country_code":"GR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254162,
+    "gn:latitude":37.72636,
+    "gn:longitude":21.49321,
+    "gn:modification_date":"2017-09-26",
+    "gn:name":"Roza\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b6\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Roze\u00efka",
+        "Roza\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254162
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b6355eec78da9d3d3a5ae2e24d9f252f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368707,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327368707,
+    "wof:lastmodified":1537624254,
+    "wof:name":"Rozaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49321,
+    37.72636,
+    21.49321,
+    37.72636
+],
+  "geometry": {"coordinates":[21.49321,37.72636],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1343795979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02679,38.04208,23.02679,38.04208",
+    "geom:latitude":38.04208,
+    "geom:longitude":23.02679,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9244",
+    "gn:asciiname":"Skhoinos",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253656,
+    "gn:latitude":38.04208,
+    "gn:longitude":23.02679,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Skho\u00ednos",
+    "gn:population":61,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c7\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c7\u03bf\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Schinos"
+    ],
+    "name:und_x_variant":[
+        "Sko\u00ednos",
+        "Skh\u00ednos",
+        "Skho\u00ednos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253656
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0e05159678d20988e5d379c43e120651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343795979,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343795979,
+    "wof:lastmodified":1537624231,
+    "wof:name":"Skhoinos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02679,
+    38.04208,
+    23.02679,
+    38.04208
+],
+  "geometry": {"coordinates":[23.02679,38.04208],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226785871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73924,35.37483,23.73924,35.37483",
+    "geom:latitude":35.37483,
+    "geom:longitude":23.73924,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Pano Floria",
+    "gn:country_code":"GR",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262678,
+    "gn:latitude":35.37483,
+    "gn:longitude":23.73924,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"P\u00e1no Fl\u00f3ria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1no Fl\u00f3ria"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03c9 \u03a6\u03bb\u03ce\u03c1\u03b9\u03b1",
+        "Ep\u00e1no Fl\u00f3ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262678
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"33e9c7ee6f9f0848cea5233423b3f727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226785871,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226785871,
+    "wof:lastmodified":1537624643,
+    "wof:name":"Pano Floria",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73924,
+    35.37483,
+    23.73924,
+    35.37483
+],
+  "geometry": {"coordinates":[23.73924,35.37483],"type":"Point"}
+}

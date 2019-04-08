@@ -1,0 +1,74 @@
+{
+  "id": 1209752569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90639,39.35519,20.90639,39.35519",
+    "geom:latitude":39.35519,
+    "geom:longitude":20.90639,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9088",
+    "gn:asciiname":"Gravia",
+    "gn:country_code":"GR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254789,
+    "gn:latitude":39.35519,
+    "gn:longitude":20.90639,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Gravi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03b2\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Pouli\u00e1na",
+        "Gravi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254789
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f4cafe6790eb75742c91b0392651ad74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209752569,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1209752569,
+    "wof:lastmodified":1537624279,
+    "wof:name":"Gravia",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90639,
+    39.35519,
+    20.90639,
+    39.35519
+],
+  "geometry": {"coordinates":[20.90639,39.35519],"type":"Point"}
+}

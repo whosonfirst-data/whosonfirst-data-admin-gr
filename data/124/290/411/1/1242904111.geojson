@@ -1,0 +1,76 @@
+{
+  "id": 1242904111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84787,39.66336,19.84787,39.66336",
+    "geom:latitude":39.66336,
+    "geom:longitude":19.84787,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Limni",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165976,
+    "gn:latitude":39.66336,
+    "gn:longitude":19.84787,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"L\u00edmni",
+    "gn:population":725,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Limni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165976
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d595337bbd94301635493cecc2f22b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242904111,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1242904111,
+    "wof:lastmodified":1537625051,
+    "wof:name":"Limni",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":725,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84787,
+    39.66336,
+    19.84787,
+    39.66336
+],
+  "geometry": {"coordinates":[19.84787,39.66336],"type":"Point"}
+}

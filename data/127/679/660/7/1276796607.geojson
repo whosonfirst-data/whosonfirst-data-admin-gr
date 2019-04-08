@@ -1,0 +1,78 @@
+{
+  "id": 1276796607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99989,38.41944,22.99989,38.41944",
+    "geom:latitude":38.41944,
+    "geom:longitude":22.99989,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9145",
+    "gn:asciiname":"Agios Athanasios",
+    "gn:country_code":"GR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263999,
+    "gn:latitude":38.41944,
+    "gn:longitude":22.99989,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u00c1gios Athan\u00e1sios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Athan\u00e1sios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Karakhouse\u1e2fni",
+        "Karahuse\u1e2fn",
+        "\u00c1yios Athan\u00e1sios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263999
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"25c4322e68b73bc6ecf33eda59da157b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276796607,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276796607,
+    "wof:lastmodified":1537624708,
+    "wof:name":"Agios Athanasios",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99989,
+    38.41944,
+    22.99989,
+    38.41944
+],
+  "geometry": {"coordinates":[22.99989,38.41944],"type":"Point"}
+}

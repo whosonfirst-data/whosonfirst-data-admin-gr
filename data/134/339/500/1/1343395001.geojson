@@ -1,0 +1,79 @@
+{
+  "id": 1343395001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72258,38.13633,20.72258,38.13633",
+    "geom:latitude":38.13633,
+    "geom:longitude":20.72258,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Xenopoulo",
+    "gn:country_code":"GR",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251585,
+    "gn:latitude":38.13633,
+    "gn:longitude":20.72258,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Xen\u00f3poulo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Xen\u00f3poulo"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03b5\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf",
+        "\u039e\u03b5\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Xenopo\u00falou",
+        "Xen\u00f3poulon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251585,
+        "wk:page":"Xenopoulo"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e1b2a1964b27c047be46c94f43c82358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343395001,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1343395001,
+    "wof:lastmodified":1537624146,
+    "wof:name":"Xenopoulo",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72258,
+    38.13633,
+    20.72258,
+    38.13633
+],
+  "geometry": {"coordinates":[20.72258,38.13633],"type":"Point"}
+}

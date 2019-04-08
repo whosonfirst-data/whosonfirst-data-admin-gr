@@ -1,0 +1,80 @@
+{
+  "id": 1293623359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47392,38.80467,21.47392,38.80467",
+    "geom:latitude":38.80467,
+    "geom:longitude":21.47392,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Stavros",
+    "gn:country_code":"GR",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253243,
+    "gn:latitude":38.80467,
+    "gn:longitude":21.47392,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Stavr\u00f3s",
+    "gn:population":15,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stavros"
+    ],
+    "name:und_x_variant":[
+        "Tsi\u00e1kla",
+        "Stavr\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253243
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7fc97f79b4252852a3cf583c951381c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293623359,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293623359,
+    "wof:lastmodified":1537624211,
+    "wof:name":"Stavros",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47392,
+    38.80467,
+    21.47392,
+    38.80467
+],
+  "geometry": {"coordinates":[21.47392,38.80467],"type":"Point"}
+}

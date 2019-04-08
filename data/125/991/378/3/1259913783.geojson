@@ -1,0 +1,79 @@
+{
+  "id": 1259913783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7002,35.3257,25.7002,35.3257",
+    "geom:latitude":35.3257,
+    "geom:longitude":25.7002,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Agios Georgios Skinia",
+    "gn:country_code":"GR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263668,
+    "gn:latitude":35.3257,
+    "gn:longitude":25.7002,
+    "gn:modification_date":"2015-09-12",
+    "gn:name":"\u00c1gios Ge\u00f3rgios Skini\u00e1",
+    "gn:population":12,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u03a3\u03ba\u03b9\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Skinia"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yios Ye\u00f3ryios Skini\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263668
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7ac997070dfcb2f2fb24892befbad90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259913783,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259913783,
+    "wof:lastmodified":1537624693,
+    "wof:name":"Agios Georgios Skinia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7002,
+    35.3257,
+    25.7002,
+    35.3257
+],
+  "geometry": {"coordinates":[25.7002,35.3257],"type":"Point"}
+}

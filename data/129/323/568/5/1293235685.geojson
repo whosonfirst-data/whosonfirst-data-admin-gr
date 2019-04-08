@@ -1,0 +1,74 @@
+{
+  "id": 1293235685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.14193,39.22026,20.14193,39.22026",
+    "geom:latitude":39.22026,
+    "geom:longitude":20.14193,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9119",
+    "gn:asciiname":"Rantatika",
+    "gn:country_code":"GR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254391,
+    "gn:latitude":39.22026,
+    "gn:longitude":20.14193,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Rant\u00e1tika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bd\u03c4\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Rand\u00e1tika",
+        "Rant\u00e1tika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254391
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7ced477b267a95bbaeed0d687f73b140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293235685,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293235685,
+    "wof:lastmodified":1537624266,
+    "wof:name":"Rantatika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.14193,
+    39.22026,
+    20.14193,
+    39.22026
+],
+  "geometry": {"coordinates":[20.14193,39.22026],"type":"Point"}
+}

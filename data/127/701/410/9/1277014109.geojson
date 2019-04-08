@@ -1,0 +1,82 @@
+{
+  "id": 1277014109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59926,35.21232,25.59926,35.21232",
+    "geom:latitude":35.21232,
+    "geom:longitude":25.59926,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Amygdaloi",
+    "gn:country_code":"GR",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265167,
+    "gn:latitude":35.21232,
+    "gn:longitude":25.59926,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Amygd\u00e1loi",
+    "gn:population":9,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c5\u03b3\u03b4\u03ac\u03bb\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Amygdaloi"
+    ],
+    "name:und_x_variant":[
+        "Amigdhali\u00e1",
+        "Amigdh\u00e1los",
+        "Amigdh\u00e1la",
+        "Amigdh\u00e1loi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265167
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"01155393b02a9224894b2077c5fc6647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277014109,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1277014109,
+    "wof:lastmodified":1537624763,
+    "wof:name":"Amygdaloi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59926,
+    35.21232,
+    25.59926,
+    35.21232
+],
+  "geometry": {"coordinates":[25.59926,35.21232],"type":"Point"}
+}

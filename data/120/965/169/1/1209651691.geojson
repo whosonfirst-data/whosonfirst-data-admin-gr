@@ -1,0 +1,96 @@
+{
+  "id": 1209651691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96193,37.51211,21.96193,37.51211",
+    "geom:latitude":37.51211,
+    "geom:longitude":21.96193,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Theisoa",
+    "gn:country_code":"GR",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252912,
+    "gn:latitude":37.51211,
+    "gn:longitude":21.96193,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Theis\u00f3a",
+    "gn:population":89,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039b\u03ac\u03b2\u03b4\u03b1\u03c2",
+        "\u039b\u03ac\u03b2\u03b4\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03b9\u03c3\u03cc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03b2\u03b4\u03b1\u03c2",
+        "\u039b\u03ac\u03b2\u03b4\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Lavda"
+    ],
+    "name:eng_x_preferred":[
+        "Theisoa"
+    ],
+    "name:eng_x_variant":[
+        "Lavda",
+        "Thisoa"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1vdha",
+        "This\u00f3a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252912,
+        "wk:page":"Theisoa,_Greece"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"680fbda7a158cc9729e02abac74508f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209651691,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209651691,
+    "wof:lastmodified":1537624199,
+    "wof:name":"Theisoa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96193,
+    37.51211,
+    21.96193,
+    37.51211
+],
+  "geometry": {"coordinates":[21.96193,37.51211],"type":"Point"}
+}

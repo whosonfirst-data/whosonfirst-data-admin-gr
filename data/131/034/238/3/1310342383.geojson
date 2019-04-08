@@ -1,0 +1,75 @@
+{
+  "id": 1310342383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12751,37.67813,22.12751,37.67813",
+    "geom:latitude":37.67813,
+    "geom:longitude":22.12751,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Magouliana",
+    "gn:country_code":"GR",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257999,
+    "gn:latitude":37.67813,
+    "gn:longitude":22.12751,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Mago\u00faliana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b9\u03b1\u03bd\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Aryir\u00f3kastron",
+        "Mago\u00faliana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257999,
+        "wk:page":"Magouliana"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5d9a0b4741a80bc0e63fa5965f8897b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310342383,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310342383,
+    "wof:lastmodified":1537624426,
+    "wof:name":"Magouliana",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12751,
+    37.67813,
+    22.12751,
+    37.67813
+],
+  "geometry": {"coordinates":[22.12751,37.67813],"type":"Point"}
+}

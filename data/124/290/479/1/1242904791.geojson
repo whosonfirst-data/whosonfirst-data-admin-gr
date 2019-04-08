@@ -1,0 +1,74 @@
+{
+  "id": 1242904791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.02732,36.27622,28.02732,36.27622",
+    "geom:latitude":36.27622,
+    "geom:longitude":28.02732,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Eleousa",
+    "gn:country_code":"GR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262759,
+    "gn:latitude":36.27622,
+    "gn:longitude":28.02732,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Eleo\u00fasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b5\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1mbo-Ki\u00e1ro",
+        "Eleo\u00fasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262759
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1feea6345b78350d41c153751283b014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242904791,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1242904791,
+    "wof:lastmodified":1537624647,
+    "wof:name":"Eleousa",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.02732,
+    36.27622,
+    28.02732,
+    36.27622
+],
+  "geometry": {"coordinates":[28.02732,36.27622],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1126012225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.84028,40.18722,20.84028,40.18722",
+    "geom:latitude":40.18722,
+    "geom:longitude":20.84028,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":205,
+    "gn:population":79,
+    "iso:country":"GR",
+    "lbl:latitude":40.18722,
+    "lbl:longitude":20.84028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03c3\u03c4\u03b1\u03bd\u03ad\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c4\u03b1\u03bd\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c3\u03c4\u03ac\u03bd\u03b9\u03b1\u03bd\u03b7",
+        "\u039a\u03b1\u03c3\u03c4\u03b1\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kastaniani"
+    ],
+    "name:eng_x_variant":[
+        "Kastania"
+    ],
+    "name:unk_x_variant":[
+        "Kast\u00e1niani"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735942,
+    "qs_pg:gn_pop":205,
+    "qs_pg:name":"Kastan\u00e9a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552954,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735942,
+        "qs_pg:id":552954
+    },
+    "wof:country":"GR",
+    "wof:created":1497300338,
+    "wof:geomhash":"3903c8b0b69938a26f261209acf52d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126012225,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126012225,
+    "wof:lastmodified":1509406744,
+    "wof:name":"Kastan\u00e9a",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.84028,
+    40.18722,
+    20.84028,
+    40.18722
+],
+  "geometry": {"coordinates":[20.84028,40.18722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293324143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17052,40.95533,25.17052,40.95533",
+    "geom:latitude":40.95533,
+    "geom:longitude":25.17052,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Arogi",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736728,
+    "gn:latitude":40.95533,
+    "gn:longitude":25.17052,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Arog\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Arog\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c9\u03b3\u03ae",
+        "Aroy\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736728
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7cc35c0c4af737a159014caab078da11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293324143,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293324143,
+    "wof:lastmodified":1537624972,
+    "wof:name":"Arogi",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17052,
+    40.95533,
+    25.17052,
+    40.95533
+],
+  "geometry": {"coordinates":[25.17052,40.95533],"type":"Point"}
+}

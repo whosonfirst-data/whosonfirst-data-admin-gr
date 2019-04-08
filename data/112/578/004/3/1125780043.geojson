@@ -1,0 +1,105 @@
+{
+  "id": 1125780043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.838446,37.801171,20.838446,37.801171",
+    "geom:latitude":37.801171,
+    "geom:longitude":20.838446,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":37.801171,
+    "lbl:longitude":20.838446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Arkadioi"
+    ],
+    "name:eng_x_preferred":[
+        "Arkadioi"
+    ],
+    "name:fin_x_preferred":[
+        "Ark\u00e1dioi"
+    ],
+    "name:fre_x_preferred":[
+        "Arkadioi"
+    ],
+    "name:gre_x_preferred":[
+        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Arkadioi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30ab\u30c7\u30a3\u30a4"
+    ],
+    "name:nno_x_preferred":[
+        "Ark\u00e1dii"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Arkadioi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":7001,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56023284,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56023284,
+        "qs_pg:id":7001,
+        "wd:id":"Q3559271"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290426,
+    "wof:geomhash":"81c8ba288b9feb9adcf85c3d86a40d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125780043,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125780043,
+    "wof:lastmodified":1514443925,
+    "wof:name":"Arkadioi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.838446,
+    37.801171,
+    20.838446,
+    37.801171
+],
+  "geometry": {"coordinates":[20.838446,37.801171],"type":"Point"}
+}

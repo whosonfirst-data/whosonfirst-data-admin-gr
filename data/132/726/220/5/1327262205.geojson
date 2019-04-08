@@ -1,0 +1,72 @@
+{
+  "id": 1327262205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.42278,41.07389,22.42278,41.07389",
+    "geom:latitude":41.07389,
+    "geom:longitude":22.42278,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"6.0",
+    "gn:admin3_code":"9041",
+    "gn:asciiname":"Mavron Dendron",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735289,
+    "gn:latitude":41.07389,
+    "gn:longitude":22.42278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00e1vron D\u00e9ndron",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e1vro Dh\u00e9ndro",
+        "M\u00e1vron Dh\u00e9ndron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735289
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cbfeead5c7baad4d448dfcc20f964ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327262205,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1327262205,
+    "wof:lastmodified":1537624892,
+    "wof:name":"Mavron Dendron",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.42278,
+    41.07389000000001,
+    22.42278,
+    41.07389000000001
+],
+  "geometry": {"coordinates":[22.42278,41.07389000000001],"type":"Point"}
+}

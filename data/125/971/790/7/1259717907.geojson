@@ -1,0 +1,73 @@
+{
+  "id": 1259717907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99931,37.96179,23.99931,37.96179",
+    "geom:latitude":37.96179,
+    "geom:longitude":23.99931,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9226.0",
+    "gn:asciiname":"Agios Kosmas",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983566,
+    "gn:latitude":37.96179,
+    "gn:longitude":23.99931,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Kosm\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Kosm\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03bf\u03c3\u03bc\u03ac\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983566
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2f545e6c484ce1601fb222cbd9bf4a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259717907,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1259717907,
+    "wof:lastmodified":1537625099,
+    "wof:name":"Agios Kosmas",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99931,
+    37.96179,
+    23.99931,
+    37.96179
+],
+  "geometry": {"coordinates":[23.99931,37.96179],"type":"Point"}
+}

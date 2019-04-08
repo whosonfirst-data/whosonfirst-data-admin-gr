@@ -1,0 +1,70 @@
+{
+  "id": 1209043315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55972,38.45803,20.55972,38.45803",
+    "geom:latitude":38.45803,
+    "geom:longitude":20.55972,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Psilithrias",
+    "gn:country_code":"GR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254475,
+    "gn:latitude":38.45803,
+    "gn:longitude":20.55972,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Psilithri\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a8\u03b9\u03bb\u03b9\u03b8\u03c1\u03b9\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Psil\u00edthrion",
+        "Psilithri\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254475
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6dac90d5532fcc3a6081736b95257a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209043315
+        }
+    ],
+    "wof:id":1209043315,
+    "wof:lastmodified":1537624270,
+    "wof:name":"Psilithrias",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55972,
+    38.45803,
+    20.55972,
+    38.45803
+],
+  "geometry": {"coordinates":[20.55972,38.45803],"type":"Point"}
+}

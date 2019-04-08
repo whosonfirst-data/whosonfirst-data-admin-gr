@@ -1,0 +1,76 @@
+{
+  "id": 1225878937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72074,39.1029,22.72074,39.1029",
+    "geom:latitude":39.1029,
+    "geom:longitude":22.72074,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Kofoi",
+    "gn:country_code":"GR",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259623,
+    "gn:latitude":39.1029,
+    "gn:longitude":22.72074,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Kofo\u00ed",
+    "gn:population":196,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c9\u03c6\u03bf\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Kofoi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259623
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4e8f13f06452dd6816f8d9465ebf892e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225878937,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1225878937,
+    "wof:lastmodified":1537624499,
+    "wof:name":"Kofoi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72074,
+    39.1029,
+    22.72074,
+    39.1029
+],
+  "geometry": {"coordinates":[22.72074,39.1029],"type":"Point"}
+}

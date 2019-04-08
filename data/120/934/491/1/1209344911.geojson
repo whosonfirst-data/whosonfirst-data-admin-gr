@@ -1,0 +1,73 @@
+{
+  "id": 1209344911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3386,38.15192,22.3386,38.15192",
+    "geom:latitude":38.15192,
+    "geom:longitude":22.3386,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Goumaiika",
+    "gn:country_code":"GR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261960,
+    "gn:latitude":38.15192,
+    "gn:longitude":22.3386,
+    "gn:modification_date":"2014-06-09",
+    "gn:name":"Gouma\u00edika",
+    "gn:population":133,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03bc\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Goume\u00efka",
+        "Gouma\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261960
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fcf7301044ba3d95aa9f0645ef92604f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209344911
+        }
+    ],
+    "wof:id":1209344911,
+    "wof:lastmodified":1537624614,
+    "wof:name":"Goumaiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3386,
+    38.15192,
+    22.3386,
+    38.15192
+],
+  "geometry": {"coordinates":[22.3386,38.15192],"type":"Point"}
+}

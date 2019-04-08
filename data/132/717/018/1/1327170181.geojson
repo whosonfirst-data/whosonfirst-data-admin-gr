@@ -1,0 +1,80 @@
+{
+  "id": 1327170181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29744,39.31106,22.29744,39.31106",
+    "geom:latitude":39.31106,
+    "geom:longitude":22.29744,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9103",
+    "gn:asciiname":"Katochori",
+    "gn:country_code":"GR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260563,
+    "gn:latitude":39.31106,
+    "gn:longitude":22.29744,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Katoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Katoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c4\u03c9\u03c7\u03ce\u03c1\u03b9",
+        "Katoch\u00f3rion",
+        "\u039a\u03b1\u03c4\u03c9\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Katokh\u00f3ri",
+        "K\u00e1to Chahm\u00e1ti",
+        "Katokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260563
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a0454e1823f30973a1c9f174c1744e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170181,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1327170181,
+    "wof:lastmodified":1537624548,
+    "wof:name":"Katochori",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29744,
+    39.31106,
+    22.29744,
+    39.31106
+],
+  "geometry": {"coordinates":[22.29744,39.31106],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343888925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99848,35.50632,23.99848,35.50632",
+    "geom:latitude":35.50632,
+    "geom:longitude":23.99848,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Parigoria",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255733,
+    "gn:latitude":35.50632,
+    "gn:longitude":23.99848,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Parigor\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Parigor\u00eda"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c1\u03b7\u03b3\u03bf\u03c1\u03af\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255733
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"742c1b18fc0dcdb54d0db9d22d3b3af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343888925,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343888925,
+    "wof:lastmodified":1537624318,
+    "wof:name":"Parigoria",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99848,
+    35.50632,
+    23.99848,
+    35.50632
+],
+  "geometry": {"coordinates":[23.99848,35.50632],"type":"Point"}
+}

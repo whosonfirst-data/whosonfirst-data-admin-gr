@@ -1,0 +1,80 @@
+{
+  "id": 1293817431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43636,37.02692,22.43636,37.02692",
+    "geom:latitude":37.02692,
+    "geom:longitude":22.43636,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9252",
+    "gn:asciiname":"Amiklai",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265163,
+    "gn:latitude":37.02692,
+    "gn:longitude":22.43636,
+    "gn:modification_date":"2014-04-23",
+    "gn:name":"Am\u00edklai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03cd\u03ba\u03bb\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03cd\u03ba\u03bb\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Sklavokh\u00f3ri",
+        "Sklavokh\u00f3rion",
+        "Am\u00edklai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265163,
+        "wk:page":"Amykles"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0ae3b8c86037b41747684a18ede95dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293817431,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293817431,
+    "wof:lastmodified":1537624762,
+    "wof:name":"Amiklai",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43636,
+    37.02692,
+    22.43636,
+    37.02692
+],
+  "geometry": {"coordinates":[22.43636,37.02692],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209251523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26321,39.13645,23.26321,39.13645",
+    "geom:latitude":39.13645,
+    "geom:longitude":23.26321,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Mikro",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9172516,
+    "gn:latitude":39.13645,
+    "gn:longitude":23.26321,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Mikro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9172516
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1b058804d8dcbe82926c46036a5bf619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209251523
+        }
+    ],
+    "wof:id":1209251523,
+    "wof:lastmodified":1536292989,
+    "wof:name":"Mikro",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26321,
+    39.13645,
+    23.26321,
+    39.13645
+],
+  "geometry": {"coordinates":[23.26321,39.13645],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343296345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,37.98333,21.31667,37.98333",
+    "geom:latitude":37.98333,
+    "geom:longitude":21.31667,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9135",
+    "gn:asciiname":"Elaiotopos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262786,
+    "gn:latitude":37.98333,
+    "gn:longitude":21.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Elai\u00f3topos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "So\u00favardho",
+        "Eli\u00f3topos",
+        "Elai\u00f3topos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262786
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c1d072f616e918b7e7e0a6371099cbd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343296345,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343296345,
+    "wof:lastmodified":1537624648,
+    "wof:name":"Elaiotopos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    37.98333,
+    21.31667,
+    37.98333
+],
+  "geometry": {"coordinates":[21.31667,37.98333],"type":"Point"}
+}

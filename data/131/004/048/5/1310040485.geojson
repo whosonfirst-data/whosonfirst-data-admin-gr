@@ -1,0 +1,73 @@
+{
+  "id": 1310040485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60453,38.24406,20.60453,38.24406",
+    "geom:latitude":38.24406,
+    "geom:longitude":20.60453,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Livathinata",
+    "gn:country_code":"GR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258178,
+    "gn:latitude":38.24406,
+    "gn:longitude":20.60453,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Livathin\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Livathin\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b2\u03b1\u03b8\u03b9\u03bd\u03ac\u03c4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258178
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"42d89c0482e914426262333dc7d1a9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310040485,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1310040485,
+    "wof:lastmodified":1537624436,
+    "wof:name":"Livathinata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60453,
+    38.24406,
+    20.60453,
+    38.24406
+],
+  "geometry": {"coordinates":[20.60453,38.24406],"type":"Point"}
+}

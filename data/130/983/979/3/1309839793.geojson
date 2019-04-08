@@ -1,0 +1,87 @@
+{
+  "id": 1309839793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53243,38.78139,21.53243,38.78139",
+    "geom:latitude":38.78139,
+    "geom:longitude":21.53243,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Pendakorfon",
+    "gn:country_code":"GR",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255617,
+    "gn:latitude":38.78139,
+    "gn:longitude":21.53243,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Pend\u00e1korfon",
+    "gn:population":210,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0391\u03c1\u03ac\u03c7\u03c9\u03b2\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bd\u03c4\u03ac\u03ba\u03bf\u03c1\u03c6\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03bd\u03c4\u03ac\u03ba\u03bf\u03c1\u03c6\u03bf\u03bd",
+        "\u0391\u03c1\u03ac\u03c7\u03c9\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pentakorfo"
+    ],
+    "name:und_x_variant":[
+        "Arakhova",
+        "Pend\u00e1korfon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255617
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0f47f44dd3212b7a6213188272b96a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309839793,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309839793,
+    "wof:lastmodified":1537624314,
+    "wof:name":"Pendakorfon",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53243,
+    38.78139,
+    21.53243,
+    38.78139
+],
+  "geometry": {"coordinates":[21.53243,38.78139],"type":"Point"}
+}

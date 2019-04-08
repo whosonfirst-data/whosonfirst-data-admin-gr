@@ -1,0 +1,72 @@
+{
+  "id": 1209250957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39014,37.83423,22.39014,37.83423",
+    "geom:latitude":37.83423,
+    "geom:longitude":22.39014,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Lavka",
+    "gn:country_code":"GR",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258547,
+    "gn:latitude":37.83423,
+    "gn:longitude":22.39014,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"L\u00e1vka",
+    "gn:population":362,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03cd\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lafka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258547
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3bf9b175bb37ace684e4db0af1e1dd00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209250957
+        }
+    ],
+    "wof:id":1209250957,
+    "wof:lastmodified":1537624454,
+    "wof:name":"Lavka",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":362,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39014,
+    37.83423,
+    22.39014,
+    37.83423
+],
+  "geometry": {"coordinates":[22.39014,37.83423],"type":"Point"}
+}

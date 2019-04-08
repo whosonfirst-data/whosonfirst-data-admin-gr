@@ -1,0 +1,70 @@
+{
+  "id": 1242708595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90803,37.86485,21.90803,37.86485",
+    "geom:latitude":37.86485,
+    "geom:longitude":21.90803,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133.0",
+    "gn:asciiname":"Kato Tripotama",
+    "gn:country_code":"GR",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494722,
+    "gn:latitude":37.86485,
+    "gn:longitude":21.90803,
+    "gn:modification_date":"2017-03-09",
+    "gn:name":"Kato Tripotama",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a4\u03c1\u03b9\u03c0\u03cc\u03c4\u03b1\u03bc\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494722
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3d9afc8e86051f9e085fd2856fdd14d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242708595,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1242708595,
+    "wof:lastmodified":1537625117,
+    "wof:name":"Kato Tripotama",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90803,
+    37.86485,
+    21.90803,
+    37.86485
+],
+  "geometry": {"coordinates":[21.90803,37.86485],"type":"Point"}
+}

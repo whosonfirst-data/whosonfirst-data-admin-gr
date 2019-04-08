@@ -1,0 +1,99 @@
+{
+  "id": 1343595695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39385,38.07168,22.39385,38.07168",
+    "geom:latitude":38.07168,
+    "geom:longitude":22.39385,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Evrostina",
+    "gn:country_code":"GR",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262568,
+    "gn:latitude":38.07168,
+    "gn:longitude":22.39385,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Evrost\u00edna",
+    "gn:population":36,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0396\u03ac\u03c7\u03bf\u03bb\u03b7",
+        "\u039a\u03bf\u03c5\u03bd\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c5\u03c1\u03c9\u03c3\u03c4\u03af\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03ac\u03c7\u03bf\u03bb\u03b7",
+        "\u039a\u03bf\u03c5\u03bd\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1",
+        "\u0395\u03b2\u03c1\u03bf\u03c3\u03c4\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Kounianika",
+        "Zacholi"
+    ],
+    "name:eng_x_preferred":[
+        "Evrostina"
+    ],
+    "name:eng_x_variant":[
+        "Kounianika",
+        "Zacholi"
+    ],
+    "name:und_x_variant":[
+        "Z\u00e1kholi",
+        "Evrost\u00edni",
+        "Evrost\u00edna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262568,
+        "wk:page":"Evrostina"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"030e7e12952adad3565ea2894e5fc3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343595695,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343595695,
+    "wof:lastmodified":1537624638,
+    "wof:name":"Evrostina",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39385,
+    38.07168,
+    22.39385,
+    38.07168
+],
+  "geometry": {"coordinates":[22.39385,38.07168],"type":"Point"}
+}

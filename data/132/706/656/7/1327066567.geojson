@@ -1,0 +1,75 @@
+{
+  "id": 1327066567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51392,40.08543,21.51392,40.08543",
+    "geom:latitude":40.08543,
+    "geom:longitude":21.51392,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Mesolakkos",
+    "gn:country_code":"GR",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735183,
+    "gn:latitude":40.08543,
+    "gn:longitude":21.51392,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mes\u00f3lakkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03cc\u03bb\u03b1\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Zig\u00f3sti",
+        "Mes\u00f3lakkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735183,
+        "wk:page":"Mesolakkos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"877e7fd8b0971635ce7d51115f05565a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327066567,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1327066567,
+    "wof:lastmodified":1537624886,
+    "wof:name":"Mesolakkos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51392,
+    40.08543,
+    21.51392,
+    40.08543
+],
+  "geometry": {"coordinates":[21.51392,40.08543],"type":"Point"}
+}

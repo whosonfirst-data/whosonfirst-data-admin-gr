@@ -1,0 +1,78 @@
+{
+  "id": 1310436359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.01814,38.81431,21.01814,38.81431",
+    "geom:latitude":38.81431,
+    "geom:longitude":21.01814,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9124",
+    "gn:asciiname":"Voustri",
+    "gn:country_code":"GR",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251720,
+    "gn:latitude":38.81431,
+    "gn:longitude":21.01814,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Vo\u00fastri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03cd\u03c3\u03c4\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03cd\u03c3\u03c4\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00fastri",
+        "Vo\u00fastri",
+        "Vo\u00fastrion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251720
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b63af41deb659962a8178f36ea1d3949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310436359,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310436359,
+    "wof:lastmodified":1537624153,
+    "wof:name":"Voustri",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.01814,
+    38.81431,
+    21.01814,
+    38.81431
+],
+  "geometry": {"coordinates":[21.01814,38.81431],"type":"Point"}
+}

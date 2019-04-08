@@ -1,0 +1,150 @@
+{
+  "id": 101848273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.064564,35.326214,25.064564,35.326214",
+    "geom:latitude":35.326214,
+    "geom:longitude":25.064564,
+    "gn:elevation":52,
+    "gn:population":12606,
+    "iso:country":"GR",
+    "lbl:latitude":35.326214,
+    "lbl:longitude":25.064564,
+    "mps:latitude":35.326214,
+    "mps:longitude":25.064564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0632\u064a\u0648\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Gazi"
+    ],
+    "name:dut_x_preferred":[
+        "Gazi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ac\u03b6\u03b9 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ac\u03b6\u03b9\u03bf\u03bd",
+        "\u0393\u03ac\u03b6\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Gazi"
+    ],
+    "name:eng_x_variant":[
+        "G\u00e1zi"
+    ],
+    "name:fin_x_preferred":[
+        "G\u00e1zi"
+    ],
+    "name:fre_x_preferred":[
+        "Gazi"
+    ],
+    "name:ger_x_preferred":[
+        "Gazi"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ac\u03b6\u03b9 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Gazi"
+    ],
+    "name:nno_x_preferred":[
+        "G\u00e1zi i Ir\u00e1klio"
+    ],
+    "name:por_x_preferred":[
+        "Gazi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0437\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e1zi"
+    ],
+    "name:und_x_variant":[
+        "\u0393\u0391\u0396\u0399"
+    ],
+    "name:unk_x_variant":[
+        "G\u00e1zi"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0627\u0632\u06cc\u060c \u06a9\u0631\u06cc\u0679"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u03a1\u0397\u03a4\u0397",
+    "qs:a1_alt":"KRHTH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"HRAKLEIO",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0393\u0391\u0396\u0399\u039f\u039d",
+    "qs:loc_alt":"GAZION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":35.366667,
+    "wd:longitude":25.0,
+    "wd:wordcount":267,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"114ea0da-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":262067,
+        "gp:id":949961,
+        "qs:id":471670,
+        "qs_pg:id":471670,
+        "wd:id":"Q2097291",
+        "wk:page":"Gazi, Crete"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cfbe8c935a56cec88c34f6dc7205b141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848273,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":101848273,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740359,
+    "wof:name":"\u0393\u0391\u0396\u0399\u039f\u039d",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":12606,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.064564,
+    35.326214,
+    25.064564,
+    35.326214
+],
+  "geometry": {"coordinates":[25.064564,35.326214],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343698541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09303,40.43678,23.09303,40.43678",
+    "geom:latitude":40.43678,
+    "geom:longitude":23.09303,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9030",
+    "gn:asciiname":"Agios Antonios",
+    "gn:country_code":"GR",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735113,
+    "gn:latitude":40.43678,
+    "gn:longitude":23.09303,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"\u00c1gios Ant\u00f3nios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Ant\u00f3nios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03c4\u03ce\u03bd\u03b9\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Mikr\u00f3n Playi\u00e1ron",
+        "Mikr\u00f3n Playi\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735113
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a3efb054222cf3258c728deca6606fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343698541,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1343698541,
+    "wof:lastmodified":1537624880,
+    "wof:name":"Agios Antonios",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09303,
+    40.43678,
+    23.09303,
+    40.43678
+],
+  "geometry": {"coordinates":[23.09303,40.43678],"type":"Point"}
+}

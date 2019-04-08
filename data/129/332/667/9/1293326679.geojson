@@ -1,0 +1,79 @@
+{
+  "id": 1293326679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14025,37.30878,23.14025,37.30878",
+    "geom:latitude":37.30878,
+    "geom:longitude":23.14025,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Chinitsa",
+    "gn:country_code":"GR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257417,
+    "gn:latitude":37.30878,
+    "gn:longitude":23.14025,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Chin\u00edtsa",
+    "gn:population":71,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bd\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b7\u03bd\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chinitsa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257417
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6771130b8faf04d15e1a73db7b51983a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293326679,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293326679,
+    "wof:lastmodified":1537625057,
+    "wof:name":"Chinitsa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14025,
+    37.30878,
+    23.14025,
+    37.30878
+],
+  "geometry": {"coordinates":[23.14025,37.30878],"type":"Point"}
+}

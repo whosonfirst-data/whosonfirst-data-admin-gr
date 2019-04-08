@@ -1,0 +1,97 @@
+{
+  "id": 1125375337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30028,39.12722,22.30028,39.12722",
+    "geom:latitude":39.12722,
+    "geom:longitude":22.30028,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":1433,
+    "gn:population":1531,
+    "iso:country":"GR",
+    "lbl:latitude":39.12722,
+    "lbl:longitude":22.30028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0394\u03bf\u03bc\u03bf\u03ba\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Domokos"
+    ],
+    "name:unk_x_variant":[
+        "Dhomok\u00f3s"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":263000,
+    "qs_pg:gn_pop":1433,
+    "qs_pg:name":"Domokos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":947043,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56558174,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263000,
+        "gp:id":56558174,
+        "qs_pg:id":947043
+    },
+    "wof:country":"GR",
+    "wof:created":1497047693,
+    "wof:geomhash":"9f53803c3e36b088743236604721bace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125375337,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125375337,
+    "wof:lastmodified":1509389441,
+    "wof:name":"Domokos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"localadmin",
+    "wof:population":1531,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30028,
+    39.12722,
+    22.30028,
+    39.12722
+],
+  "geometry": {"coordinates":[22.30028,39.12722],"type":"Point"}
+}

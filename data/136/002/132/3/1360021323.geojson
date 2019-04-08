@@ -1,0 +1,70 @@
+{
+  "id": 1360021323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92291,35.35399,24.92291,35.35399",
+    "geom:latitude":35.35399,
+    "geom:longitude":24.92291,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306",
+    "gn:asciiname":"Dhamasta",
+    "gn:country_code":"GR",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263270,
+    "gn:latitude":35.35399,
+    "gn:longitude":24.92291,
+    "gn:modification_date":"2017-03-08",
+    "gn:name":"Dham\u00e1sta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03bc\u03ac\u03c3\u03c4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263270
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"239ab87ef860f46fdfc9c5150a1e76d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360021323,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360021323,
+    "wof:lastmodified":1537624676,
+    "wof:name":"Dhamasta",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92291,
+    35.35399,
+    24.92291,
+    35.35399
+],
+  "geometry": {"coordinates":[24.92291,35.35399],"type":"Point"}
+}

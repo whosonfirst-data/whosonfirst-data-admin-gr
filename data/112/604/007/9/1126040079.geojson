@@ -1,0 +1,119 @@
+{
+  "id": 1126040079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20861,39.43417,21.20861,39.43417",
+    "geom:latitude":39.43417,
+    "geom:longitude":21.20861,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":999,
+    "gn:population":999,
+    "iso:country":"GR",
+    "lbl:latitude":39.43417,
+    "lbl:longitude":21.20861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062b\u064a\u0648\u062f\u0648\u0631\u064a\u0627\u0646\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Theodoriana"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03bf\u03b4\u03ce\u03c1\u03b9\u03b1\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Theodoriana"
+    ],
+    "name:fre_x_preferred":[
+        "Theodoriana"
+    ],
+    "name:gre_x_preferred":[
+        "\u0398\u03b5\u03bf\u03b4\u03ce\u03c1\u03b9\u03b1\u03bd\u03b1 \u0386\u03c1\u03c4\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Theodoriana"
+    ],
+    "name:nno_x_preferred":[
+        "Theod\u00f3riana"
+    ],
+    "name:swe_x_preferred":[
+        "Theod\u00f3riana"
+    ],
+    "name:unk_x_variant":[
+        "Theodh\u00f3riana"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252967,
+    "qs_pg:gn_pop":999,
+    "qs_pg:name":"Theodhoriana",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":262634,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":963250,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252967,
+        "gp:id":963250,
+        "qs_pg:id":262634,
+        "wd:id":"Q1144109"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302088,
+    "wof:geomhash":"54f06a4ce7c6550026cb15d214569fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126040079,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126040079,
+    "wof:lastmodified":1514444060,
+    "wof:name":"Theodhoriana",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":999,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20861,
+    39.43417,
+    21.20861,
+    39.43417
+],
+  "geometry": {"coordinates":[21.20861,39.43417],"type":"Point"}
+}

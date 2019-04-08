@@ -1,0 +1,74 @@
+{
+  "id": 1242709289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02315,35.12668,26.02315,35.12668",
+    "geom:latitude":35.12668,
+    "geom:longitude":26.02315,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Epano Krya",
+    "gn:country_code":"GR",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262668,
+    "gn:latitude":35.12668,
+    "gn:longitude":26.02315,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Ep\u00e1no Kry\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ep\u00e1no Kry\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03ac\u03bd\u03c9 \u039a\u03c1\u03c5\u03ac",
+        "Ep\u00e1no Kri\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262668
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a29d8029053745e7fbaf5a9e784637d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242709289,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242709289,
+    "wof:lastmodified":1537624642,
+    "wof:name":"Epano Krya",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02315,
+    35.12668,
+    26.02315,
+    35.12668
+],
+  "geometry": {"coordinates":[26.02315,35.12668],"type":"Point"}
+}

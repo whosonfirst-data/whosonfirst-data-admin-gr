@@ -1,0 +1,74 @@
+{
+  "id": 1360215889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99066,37.58926,21.99066,37.58926",
+    "geom:latitude":37.58926,
+    "geom:longitude":21.99066,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Melissopetra",
+    "gn:country_code":"GR",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257292,
+    "gn:latitude":37.58926,
+    "gn:longitude":21.99066,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Meliss\u00f3petra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03b9\u03c3\u03c3\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Dhresten\u00e1",
+        "Meliss\u00f3petra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257292
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7ba37fa700cfbdbb2902b9d37a5136ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360215889,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1360215889,
+    "wof:lastmodified":1537624399,
+    "wof:name":"Melissopetra",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99066,
+    37.58926,
+    21.99066,
+    37.58926
+],
+  "geometry": {"coordinates":[21.99066,37.58926],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259718457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87888,40.42967,22.87888,40.42967",
+    "geom:latitude":40.42967,
+    "geom:longitude":22.87888,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9029",
+    "gn:asciiname":"Palioura",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865323,
+    "gn:latitude":40.42967,
+    "gn:longitude":22.87888,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"P\u00e1lioura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bb\u03b9\u03bf\u03c5\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Palio\u00faras",
+        "P\u00e1lioura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865323
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4efd79c190d8b2ad1a5597eabc582b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259718457,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259718457,
+    "wof:lastmodified":1537624991,
+    "wof:name":"Palioura",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87888,
+    40.42967,
+    22.87888,
+    40.42967
+],
+  "geometry": {"coordinates":[22.87888,40.42967],"type":"Point"}
+}

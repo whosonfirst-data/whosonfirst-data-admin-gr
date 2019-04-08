@@ -1,0 +1,82 @@
+{
+  "id": 1326466889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09607,38.85774,23.09607,38.85774",
+    "geom:latitude":38.85774,
+    "geom:longitude":23.09607,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Polilofon",
+    "gn:country_code":"GR",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254915,
+    "gn:latitude":38.85774,
+    "gn:longitude":23.09607,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Pol\u00edlofon",
+    "gn:population":20,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03bf\u03c6\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Polylofo"
+    ],
+    "name:und_x_variant":[
+        "Gourgov\u00edtsa",
+        "Gourgouv\u00edtsa",
+        "Gorgov\u00edtsa",
+        "Pol\u00edlofon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254915
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"595af790ae8343f91491cfcd4b03da50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326466889,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1326466889,
+    "wof:lastmodified":1537624283,
+    "wof:name":"Polilofon",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09607,
+    38.85774,
+    23.09607,
+    38.85774
+],
+  "geometry": {"coordinates":[23.09607,38.85774],"type":"Point"}
+}

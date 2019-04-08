@@ -1,0 +1,80 @@
+{
+  "id": 1260320737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91293,41.21282,23.91293,41.21282",
+    "geom:latitude":41.21282,
+    "geom:longitude":23.91293,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9005",
+    "gn:asciiname":"Piges",
+    "gn:country_code":"GR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734601,
+    "gn:latitude":41.21282,
+    "gn:longitude":23.91293,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Pig\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pig\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b9\u03b3\u03ad\u03c2",
+        "Piga\u00ed",
+        "\u03a0\u03b9\u03b3\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "Piy\u00e9",
+        "Mesh\u00e9",
+        "Piya\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734601
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fad660049a1e1e14545d0e89d383fd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260320737,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260320737,
+    "wof:lastmodified":1537624851,
+    "wof:name":"Piges",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91293,
+    41.21282,
+    23.91293,
+    41.21282
+],
+  "geometry": {"coordinates":[23.91293,41.21282],"type":"Point"}
+}

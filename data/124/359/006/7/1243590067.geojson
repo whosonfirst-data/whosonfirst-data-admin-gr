@@ -1,0 +1,80 @@
+{
+  "id": 1243590067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63878,35.34798,24.63878,35.34798",
+    "geom:latitude":35.34798,
+    "geom:longitude":24.63878,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Skouloufia",
+    "gn:country_code":"GR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253547,
+    "gn:latitude":35.34798,
+    "gn:longitude":24.63878,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Skoulo\u00fafia",
+    "gn:population":123,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd\u03c6\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Skouloufia"
+    ],
+    "name:und_x_variant":[
+        "Skoulo\u00fafia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253547,
+        "wk:page":"Skouloufia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0df4858b20ae5256341f3edb71ec20bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243590067,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243590067,
+    "wof:lastmodified":1537624225,
+    "wof:name":"Skouloufia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":123,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63878,
+    35.34798,
+    24.63878,
+    35.34798
+],
+  "geometry": {"coordinates":[24.63878,35.34798],"type":"Point"}
+}

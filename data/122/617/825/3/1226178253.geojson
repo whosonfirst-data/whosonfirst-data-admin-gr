@@ -1,0 +1,73 @@
+{
+  "id": 1226178253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.19906,35.15666,25.19906,35.15666",
+    "geom:latitude":35.15666,
+    "geom:longitude":25.19906,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9302",
+    "gn:asciiname":"Stironas",
+    "gn:country_code":"GR",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253156,
+    "gn:latitude":35.15666,
+    "gn:longitude":25.19906,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"St\u00edronas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "St\u00edronas"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03af\u03c1\u03bf\u03bd\u03b1\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253156
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"791cc0ec5357af07d2982c2a71dd09e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226178253,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226178253,
+    "wof:lastmodified":1537624207,
+    "wof:name":"Stironas",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.19906,
+    35.15666,
+    25.19906,
+    35.15666
+],
+  "geometry": {"coordinates":[25.19906,35.15666],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 1125944175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42444,40.00278,20.42444,40.00278",
+    "geom:latitude":40.00278,
+    "geom:longitude":20.42444,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":583,
+    "gn:population":425,
+    "iso:country":"GR",
+    "lbl:latitude":40.00278,
+    "lbl:longitude":20.42444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Voshtina"
+    ],
+    "name:dut_x_preferred":[
+        "Pogoniani"
+    ],
+    "name:ell_x_historical":[
+        "\u0392\u03bf\u03c3\u03c4\u03af\u03bd\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c9\u03b3\u03c9\u03bd\u03b9\u03b1\u03bd\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03c3\u03c4\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pogoniani"
+    ],
+    "name:fre_x_preferred":[
+        "Pogoniani"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03c9\u03b3\u03c9\u03bd\u03b9\u03b1\u03bd\u03ae \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Pogoniani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30b4\u30cb\u30e3\u30cb"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u043e\u0448\u0442\u0438\u043d\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Pogonian\u00ed"
+    ],
+    "name:sqi_x_preferred":[
+        "Voshtin\u00eb"
+    ],
+    "name:swe_x_preferred":[
+        "Pogonian\u00ed"
+    ],
+    "name:tur_x_preferred":[
+        "Vo\u015ftina"
+    ],
+    "name:unk_x_variant":[
+        "Vost\u00edna"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734558,
+    "qs_pg:gn_pop":583,
+    "qs_pg:name":"Pogonion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1285043,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":960380,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734558,
+        "gp:id":960380,
+        "qs_pg:id":1285043,
+        "wd:id":"Q762067"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297220,
+    "wof:geomhash":"4380070be5e98059b7bcf012b7edd680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125944175,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125944175,
+    "wof:lastmodified":1514444041,
+    "wof:name":"Pogonion",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":425,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42444,
+    40.00278,
+    20.42444,
+    40.00278
+],
+  "geometry": {"coordinates":[20.42444,40.00278],"type":"Point"}
+}

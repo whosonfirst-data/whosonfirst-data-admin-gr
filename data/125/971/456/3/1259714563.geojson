@@ -1,0 +1,96 @@
+{
+  "id": 1259714563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36698,40.71738,21.36698,40.71738",
+    "geom:latitude":40.71738,
+    "geom:longitude":21.36698,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Polypotamo",
+    "gn:country_code":"GR",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734525,
+    "gn:latitude":40.71738,
+    "gn:longitude":21.36698,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Polyp\u00f3tamo",
+    "gn:population":314,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039d\u03b5\u03c1\u03ad\u03c4\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03c5\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03c5\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03bd",
+        "\u03a0\u03bf\u03bb\u03c5\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2",
+        "\u039d\u03b5\u03c1\u03ad\u03c4\u03b7"
+    ],
+    "name:eng_x_historical":[
+        "Nereti"
+    ],
+    "name:eng_x_preferred":[
+        "Polypotamo"
+    ],
+    "name:eng_x_variant":[
+        "Nereti"
+    ],
+    "name:und_x_variant":[
+        "Ner\u00e9ti",
+        "Polip\u00f3tamon",
+        "Polyp\u00f3tamo",
+        "Polyp\u00f3tamon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734525
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"763ce1db909b08cf761a52143535fe0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259714563,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1259714563,
+    "wof:lastmodified":1537624846,
+    "wof:name":"Polypotamo",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":314,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36698,
+    40.71738,
+    21.36698,
+    40.71738
+],
+  "geometry": {"coordinates":[21.36698,40.71738],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1193052759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71606,38.00883,22.71606,38.00883",
+    "geom:latitude":38.00883,
+    "geom:longitude":22.71606,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Valtsaiika",
+    "gn:country_code":"GR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261489,
+    "gn:latitude":38.00883,
+    "gn:longitude":22.71606,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Valtsa\u00edika",
+    "gn:population":82,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2",
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2 \u0392\u03b1\u03bb\u03c4\u03c3\u03b1\u03b9\u03b9\u03ba\u03ad\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03c4\u03c3\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2",
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2 \u0392\u03b1\u03bb\u03c4\u03c3\u03b1\u03b9\u03b9\u03ba\u03ad\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Valtsaiika"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00edves",
+        "Kal\u00edves Valts\u00e9\u00efkes",
+        "Kal\u00edves Valtsa\u00edikes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261489
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c82a8ed9674c807ea901a696e17c7cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193052759,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1193052759,
+    "wof:lastmodified":1537624594,
+    "wof:name":"Valtsaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71606,
+    38.00883,
+    22.71606,
+    38.00883
+],
+  "geometry": {"coordinates":[22.71606,38.00883],"type":"Point"}
+}

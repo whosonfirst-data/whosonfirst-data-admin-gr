@@ -1,0 +1,75 @@
+{
+  "id": 1327065865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41051,41.17674,24.41051,41.17674",
+    "geom:latitude":41.17674,
+    "geom:longitude":24.41051,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Pelekiti",
+    "gn:country_code":"GR",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734727,
+    "gn:latitude":41.17674,
+    "gn:longitude":24.41051,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Pelekit\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bb\u03b5\u03ba\u03b7\u03c4\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Baltajil\u00e1r",
+        "Peleket\u00ed",
+        "Pelekit\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734727
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"144f6a8608e9188b87bb3053848e0e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327065865,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327065865,
+    "wof:lastmodified":1537624858,
+    "wof:name":"Pelekiti",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41051,
+    41.17674,
+    24.41051,
+    41.17674
+],
+  "geometry": {"coordinates":[24.41051,41.17674],"type":"Point"}
+}

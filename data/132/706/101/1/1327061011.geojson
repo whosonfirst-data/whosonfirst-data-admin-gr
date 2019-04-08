@@ -1,0 +1,76 @@
+{
+  "id": 1327061011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3681,35.19433,24.3681,35.19433",
+    "geom:latitude":35.19433,
+    "geom:longitude":24.3681,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Souda",
+    "gn:country_code":"GR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10278184,
+    "gn:latitude":35.19433,
+    "gn:longitude":24.3681,
+    "gn:modification_date":"2015-05-12",
+    "gn:name":"So\u00fada",
+    "gn:population":81,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Souda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10278184
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"52d0fe913df01868d2391577ac0dcbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327061011,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327061011,
+    "wof:lastmodified":1537625086,
+    "wof:name":"Souda",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3681,
+    35.19433,
+    24.3681,
+    35.19433
+],
+  "geometry": {"coordinates":[24.3681,35.19433],"type":"Point"}
+}

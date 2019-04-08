@@ -1,0 +1,76 @@
+{
+  "id": 1125801845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48691,35.01197,25.48691,35.01197",
+    "geom:latitude":35.01197,
+    "geom:longitude":25.48691,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10,
+    "gn:population":10,
+    "iso:country":"GR",
+    "lbl:latitude":35.01197,
+    "lbl:longitude":25.48691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6697456,
+    "qs_pg:gn_pop":10,
+    "qs_pg:name":"Ano Kornias",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":644083,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6697456,
+        "qs_pg:id":644083
+    },
+    "wof:country":"GR",
+    "wof:created":1497291294,
+    "wof:geomhash":"c245deb7801573e9807d3ae203dd02d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125801845,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125801845,
+    "wof:lastmodified":1509393011,
+    "wof:name":"Ano Kornias",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48691,
+    35.01197,
+    25.48691,
+    35.01197
+],
+  "geometry": {"coordinates":[25.48691,35.01197],"type":"Point"}
+}

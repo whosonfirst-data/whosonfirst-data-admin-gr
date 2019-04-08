@@ -1,0 +1,73 @@
+{
+  "id": 1243487923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57852,36.78647,24.57852,36.78647",
+    "geom:latitude":36.78647,
+    "geom:longitude":24.57852,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9286",
+    "gn:asciiname":"Psathi",
+    "gn:country_code":"GR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740240,
+    "gn:latitude":36.78647,
+    "gn:longitude":24.57852,
+    "gn:modification_date":"2014-03-25",
+    "gn:name":"Ps\u00e1thi",
+    "gn:population":19,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a8\u03ac\u03b8\u03b7"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740240
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"47d527bacbf969e61aa726354a657a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243487923,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243487923,
+    "wof:lastmodified":1537625036,
+    "wof:name":"Psathi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57852,
+    36.78647,
+    24.57852,
+    36.78647
+],
+  "geometry": {"coordinates":[24.57852,36.78647],"type":"Point"}
+}

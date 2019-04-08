@@ -1,0 +1,76 @@
+{
+  "id": 1293134851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88351,35.12087,25.88351,35.12087",
+    "geom:latitude":35.12087,
+    "geom:longitude":25.88351,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Trapeza",
+    "gn:country_code":"GR",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":8609868,
+    "gn:latitude":35.12087,
+    "gn:longitude":25.88351,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Tr\u00e1peza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Trapeza"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00e1peza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609868
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c92c66db48d47cb17d46a8d0f1b3581b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293134851,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293134851,
+    "wof:lastmodified":1537625031,
+    "wof:name":"Trapeza",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88351,
+    35.12087,
+    25.88351,
+    35.12087
+],
+  "geometry": {"coordinates":[25.88351,35.12087],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293235737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27327,41.68846,26.27327,41.68846",
+    "geom:latitude":41.68846,
+    "geom:longitude":26.27327,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9008",
+    "gn:asciiname":"Palli",
+    "gn:country_code":"GR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734786,
+    "gn:latitude":41.68846,
+    "gn:longitude":26.27327,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"P\u00e1lli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1lli"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bb\u03bb\u03b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734786
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1557788075abce7bd4f5dc4f2ad7aaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293235737,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293235737,
+    "wof:lastmodified":1537624862,
+    "wof:name":"Palli",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27327,
+    41.68846,
+    26.27327,
+    41.68846
+],
+  "geometry": {"coordinates":[26.27327,41.68846],"type":"Point"}
+}

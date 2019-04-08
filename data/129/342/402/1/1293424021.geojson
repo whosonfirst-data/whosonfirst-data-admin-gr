@@ -1,0 +1,76 @@
+{
+  "id": 1293424021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85416,40.01812,21.85416,40.01812",
+    "geom:latitude":40.01812,
+    "geom:longitude":21.85416,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9069",
+    "gn:asciiname":"Lazarades",
+    "gn:country_code":"GR",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735470,
+    "gn:latitude":40.01812,
+    "gn:longitude":21.85416,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Lazar\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lazar\u00e1des"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03b6\u03b1\u03c1\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Lazar\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735470
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d515d1f5699397331af122660764fa2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293424021,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293424021,
+    "wof:lastmodified":1537624906,
+    "wof:name":"Lazarades",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85416,
+    40.01812,
+    21.85416,
+    40.01812
+],
+  "geometry": {"coordinates":[21.85416,40.01812],"type":"Point"}
+}

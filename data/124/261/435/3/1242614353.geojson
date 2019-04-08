@@ -1,0 +1,76 @@
+{
+  "id": 1242614353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62842,35.31076,24.62842,35.31076",
+    "geom:latitude":35.31076,
+    "geom:longitude":24.62842,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318.0",
+    "gn:asciiname":"Moni Arkadiou",
+    "gn:country_code":"GR",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10942511,
+    "gn:latitude":35.31076,
+    "gn:longitude":24.62842,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Mon\u00ed Arkad\u00edou",
+    "gn:population":6,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Moni Arkadiou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942511
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"23ece2a7af10bddb61019bbe666f40bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242614353,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242614353,
+    "wof:lastmodified":1537625094,
+    "wof:name":"Moni Arkadiou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62842,
+    35.31075999999999,
+    24.62842,
+    35.31075999999999
+],
+  "geometry": {"coordinates":[24.62842,35.31075999999999],"type":"Point"}
+}

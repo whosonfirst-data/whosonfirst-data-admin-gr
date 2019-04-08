@@ -1,0 +1,76 @@
+{
+  "id": 1293136471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52099,39.77098,19.52099,39.77098",
+    "geom:latitude":39.77098,
+    "geom:longitude":19.52099,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Mathraki",
+    "gn:country_code":"GR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165981,
+    "gn:latitude":39.77098,
+    "gn:longitude":19.52099,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Mathr\u00e1ki",
+    "gn:population":329,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b8\u03c1\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Mathraki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165981
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"974088eae3f3a5dfbd73b8751512b086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293136471,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293136471,
+    "wof:lastmodified":1537625051,
+    "wof:name":"Mathraki",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":329,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52099,
+    39.77098,
+    19.52099,
+    39.77098
+],
+  "geometry": {"coordinates":[19.52099,39.77098],"type":"Point"}
+}

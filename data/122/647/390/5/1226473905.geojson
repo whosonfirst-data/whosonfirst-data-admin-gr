@@ -1,0 +1,80 @@
+{
+  "id": 1226473905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93422,40.83164,23.93422,40.83164",
+    "geom:latitude":40.83164,
+    "geom:longitude":23.93422,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9049",
+    "gn:asciiname":"Mesolakkia",
+    "gn:country_code":"GR",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735184,
+    "gn:latitude":40.83164,
+    "gn:longitude":23.93422,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Mesolakki\u00e1",
+    "gn:population":16,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03bf\u03bb\u03b1\u03ba\u03ba\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Mesolakkia"
+    ],
+    "name:und_x_variant":[
+        "Lakov\u00edkia",
+        "Mesolakki\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735184
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c51aa0b9e3a933d0c0519c0c12eccda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226473905,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226473905,
+    "wof:lastmodified":1537624886,
+    "wof:name":"Mesolakkia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93422,
+    40.83164,
+    23.93422,
+    40.83164
+],
+  "geometry": {"coordinates":[23.93422,40.83164],"type":"Point"}
+}

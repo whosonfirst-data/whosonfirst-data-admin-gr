@@ -1,0 +1,77 @@
+{
+  "id": 1344086867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.817,39.48819,20.817,39.48819",
+    "geom:latitude":39.48819,
+    "geom:longitude":20.817,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Palaiochori",
+    "gn:country_code":"GR",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":445324,
+    "gn:latitude":39.48819,
+    "gn:longitude":20.817,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"Palaioch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Palaioch\u00f3ri",
+        "Palaioch\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445324
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5757729026512c16108dc80be512edf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344086867,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1344086867,
+    "wof:lastmodified":1537624803,
+    "wof:name":"Palaiochori",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.817,
+    39.48819,
+    20.817,
+    39.48819
+],
+  "geometry": {"coordinates":[20.817,39.48819],"type":"Point"}
+}

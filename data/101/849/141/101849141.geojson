@@ -1,0 +1,146 @@
+{
+  "id": 101849141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.325021,38.215809,23.325021,38.215809",
+    "geom:latitude":38.215809,
+    "geom:longitude":23.325021,
+    "gn:population":2862,
+    "iso:country":"GR",
+    "lbl:latitude":38.215809,
+    "lbl:longitude":23.325021,
+    "mps:latitude":38.215809,
+    "mps:longitude":23.325021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Kryekuqi"
+    ],
+    "name:ara_x_preferred":[
+        "\u0625\u0631\u064a\u062b\u0631\u064a\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Erythres"
+    ],
+    "name:ell_x_historical":[
+        "\u039a\u03c1\u03b9\u03b5\u03ba\u03bf\u03cd\u03ba\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03c5\u03b8\u03c1\u03ad\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c1\u03c5\u03b8\u03c1\u03b1\u03af",
+        "\u0395\u03c1\u03c5\u03b8\u03c1\u03ad\u03c2",
+        "\u039a\u03c1\u03b9\u03b5\u03ba\u03bf\u03cd\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kriekouki"
+    ],
+    "name:eng_x_variant":[
+        "Krieko\u00faki",
+        "Erythres"
+    ],
+    "name:fin_x_preferred":[
+        "Erythr\u00e9s"
+    ],
+    "name:fre_x_preferred":[
+        "Erythres"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03c1\u03c5\u03b8\u03c1\u03ad\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Erythres"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ea\u30c8\u30ec\u30b9"
+    ],
+    "name:nno_x_preferred":[
+        "Erythr\u00e9s"
+    ],
+    "name:spa_x_preferred":[
+        "Eritras"
+    ],
+    "name:sqi_x_preferred":[
+        "Kryekuqi"
+    ],
+    "name:swe_x_preferred":[
+        "Erythrai"
+    ],
+    "name:unk_x_variant":[
+        "Krieko\u00faki"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
+    "qs:a1_alt":"ATTIKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"DYTIKH ATTIKH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0395\u03a1\u03a5\u0398\u03a1\u0391\u0399",
+    "qs:loc_alt":"ERYURAI",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.216667,
+    "wd:longitude":23.316667,
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1147cec2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":262609,
+        "gp:id":949285,
+        "qs:id":883566,
+        "wd:id":"Q2714769",
+        "wk:page":"Erythres"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aa088d6b909bb0493009b329b82bfc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849141,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":101849141,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740800,
+    "wof:name":"\u0395\u03a1\u03a5\u0398\u03a1\u0391\u0399",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":2862,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.325021,
+    38.215809,
+    23.325021,
+    38.215809
+],
+  "geometry": {"coordinates":[23.325021,38.215809],"type":"Point"}
+}

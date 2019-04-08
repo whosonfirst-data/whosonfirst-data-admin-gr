@@ -1,0 +1,79 @@
+{
+  "id": 1276588961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.62964,35.32764,25.62964,35.32764",
+    "geom:latitude":35.32764,
+    "geom:longitude":25.62964,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Souvlos",
+    "gn:country_code":"GR",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605525,
+    "gn:latitude":35.32764,
+    "gn:longitude":25.62964,
+    "gn:modification_date":"2015-09-12",
+    "gn:name":"So\u00favlos",
+    "gn:population":10,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03b2\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Souvlos"
+    ],
+    "name:und_x_variant":[
+        "So\u00favlos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605525
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6f731ead40c2f911f48511ecb8344349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276588961,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276588961,
+    "wof:lastmodified":1537625026,
+    "wof:name":"Souvlos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.62964,
+    35.32764,
+    25.62964,
+    35.32764
+],
+  "geometry": {"coordinates":[25.62964,35.32764],"type":"Point"}
+}

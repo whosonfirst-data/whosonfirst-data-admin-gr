@@ -1,0 +1,74 @@
+{
+  "id": 1310136851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47687,41.0567,25.47687,41.0567",
+    "geom:latitude":41.0567,
+    "geom:longitude":25.47687,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Fylakas",
+    "gn:country_code":"GR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736256,
+    "gn:latitude":41.0567,
+    "gn:longitude":25.47687,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"F\u00fdlakas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03cd\u03bb\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "F\u00fdlakas",
+        "F\u00edlakas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736256
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c2be88a2bdd822034af6407ab398ab83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310136851,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310136851,
+    "wof:lastmodified":1537624947,
+    "wof:name":"Fylakas",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47687,
+    41.0567,
+    25.47687,
+    41.0567
+],
+  "geometry": {"coordinates":[25.47687,41.0567],"type":"Point"}
+}

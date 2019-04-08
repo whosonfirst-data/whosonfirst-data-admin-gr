@@ -1,0 +1,77 @@
+{
+  "id": 1327168419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37393,40.09758,21.37393,40.09758",
+    "geom:latitude":40.09758,
+    "geom:longitude":21.37393,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Kyrakali",
+    "gn:country_code":"GR",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735715,
+    "gn:latitude":40.09758,
+    "gn:longitude":21.37393,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kyrakal\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kyrakal\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03c1\u03b1\u03ba\u03b1\u03bb\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Kirakal\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735715,
+        "wk:page":"Kyrakali"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"792313b7459b5a1596e89f450fc27b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327168419,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1327168419,
+    "wof:lastmodified":1537624919,
+    "wof:name":"Kyrakali",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37393,
+    40.09758,
+    21.37393,
+    40.09758
+],
+  "geometry": {"coordinates":[21.37393,40.09758],"type":"Point"}
+}

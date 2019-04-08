@@ -1,0 +1,78 @@
+{
+  "id": 1259620055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41793,38.24146,23.41793,38.24146",
+    "geom:latitude":38.24146,
+    "geom:longitude":23.41793,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9147",
+    "gn:asciiname":"Dafni",
+    "gn:country_code":"GR",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263311,
+    "gn:latitude":38.24146,
+    "gn:longitude":23.41793,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"D\u00e1fni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "D\u00e1fni"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ac\u03c6\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Dharim\u00e1rion",
+        "Dharim\u00e1ri",
+        "Dh\u00e1fni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263311
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ea49b13e207f97138d725b0989b2bc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259620055,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1259620055,
+    "wof:lastmodified":1537624679,
+    "wof:name":"Dafni",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41793,
+    38.24146,
+    23.41793,
+    38.24146
+],
+  "geometry": {"coordinates":[23.41793,38.24146],"type":"Point"}
+}

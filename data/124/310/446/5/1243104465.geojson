@@ -1,0 +1,67 @@
+{
+  "id": 1243104465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0878,37.85805,22.0878,37.85805",
+    "geom:latitude":37.85805,
+    "geom:longitude":22.0878,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133.0",
+    "gn:asciiname":"Agioi Theodoroi",
+    "gn:country_code":"GR",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523664,
+    "gn:latitude":37.85805,
+    "gn:longitude":22.0878,
+    "gn:modification_date":"2017-04-18",
+    "gn:name":"\u00c1gioi The\u00f3doroi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523664
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"52e75e0ce1f1740340768b2208a47514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243104465,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243104465,
+    "wof:lastmodified":1536801356,
+    "wof:name":"Agioi Theodoroi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0878,
+    37.85805,
+    22.0878,
+    37.85805
+],
+  "geometry": {"coordinates":[22.0878,37.85805],"type":"Point"}
+}

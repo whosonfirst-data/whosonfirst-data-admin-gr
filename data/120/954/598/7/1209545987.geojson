@@ -1,0 +1,70 @@
+{
+  "id": 1209545987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56517,38.96511,21.56517,38.96511",
+    "geom:latitude":38.96511,
+    "geom:longitude":21.56517,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9156",
+    "gn:asciiname":"Goulaiika",
+    "gn:country_code":"GR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261967,
+    "gn:latitude":38.96511,
+    "gn:longitude":21.56517,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Goula\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Goul\u00e9\u00efka",
+        "Goula\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261967
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"28d639a50218596a0005b6877451e7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209545987
+        }
+    ],
+    "wof:id":1209545987,
+    "wof:lastmodified":1537624614,
+    "wof:name":"Goulaiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56517,
+    38.96511,
+    21.56517,
+    38.96511
+],
+  "geometry": {"coordinates":[21.56517,38.96511],"type":"Point"}
+}

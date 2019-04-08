@@ -1,0 +1,76 @@
+{
+  "id": 1327063699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30089,39.36251,20.30089,39.36251",
+    "geom:latitude":39.36251,
+    "geom:longitude":20.30089,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"18.0",
+    "gn:admin3_code":"9077",
+    "gn:asciiname":"Vounistra",
+    "gn:country_code":"GR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409229,
+    "gn:latitude":39.36251,
+    "gn:longitude":20.30089,
+    "gn:modification_date":"2014-08-27",
+    "gn:name":"Voun\u00edstra",
+    "gn:population":63,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c5\u03bd\u03af\u03c3\u03c4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vounistra"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409229
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"892e751279d6d1ab089d2f36f38224f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327063699,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1327063699,
+    "wof:lastmodified":1537625069,
+    "wof:name":"Vounistra",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30089,
+    39.36251,
+    20.30089,
+    39.36251
+],
+  "geometry": {"coordinates":[20.30089,39.36251],"type":"Point"}
+}

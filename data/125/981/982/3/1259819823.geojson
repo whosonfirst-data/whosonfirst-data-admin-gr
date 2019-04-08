@@ -1,0 +1,74 @@
+{
+  "id": 1259819823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32811,39.34794,21.32811,39.34794",
+    "geom:latitude":39.34794,
+    "geom:longitude":21.32811,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Pefkos",
+    "gn:country_code":"GR",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445190,
+    "gn:latitude":39.34794,
+    "gn:longitude":21.32811,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"P\u00e9fkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03cd\u03ba\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "P\u00e9vkos",
+        "P\u00e9fkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445190
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c3823c191bcfc95d52555f3b5530195e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259819823,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1259819823,
+    "wof:lastmodified":1537624799,
+    "wof:name":"Pefkos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32811,
+    39.34794,
+    21.32811,
+    39.34794
+],
+  "geometry": {"coordinates":[21.32811,39.34794],"type":"Point"}
+}

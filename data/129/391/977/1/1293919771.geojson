@@ -1,0 +1,82 @@
+{
+  "id": 1293919771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.533,35.29563,24.533,35.29563",
+    "geom:latitude":35.29563,
+    "geom:longitude":24.533,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Myrthios Selliou",
+    "gn:country_code":"GR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256903,
+    "gn:latitude":35.29563,
+    "gn:longitude":24.533,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"M\u00fdrthios Sell\u00edou",
+    "gn:population":74,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03cd\u03c1\u03b8\u03b9\u03bf\u03c2 \u03a3\u03b5\u03bb\u03bb\u03af\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Myrthios Selliou"
+    ],
+    "name:und_x_variant":[
+        "M\u00edrthio",
+        "M\u00edrthios",
+        "M\u00fdrthios",
+        "Mirthios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256903
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e9d0fa49a4f68f12f7873aba5a5f849c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293919771,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293919771,
+    "wof:lastmodified":1537624375,
+    "wof:name":"Myrthios Selliou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.533,
+    35.29563,
+    24.533,
+    35.29563
+],
+  "geometry": {"coordinates":[24.533,35.29563],"type":"Point"}
+}

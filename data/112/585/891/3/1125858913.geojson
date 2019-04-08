@@ -1,0 +1,96 @@
+{
+  "id": 1125858913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.135372,36.61296,27.135372,36.61296",
+    "geom:latitude":36.61296,
+    "geom:longitude":27.135372,
+    "gn:gn_country":"GR",
+    "iso:country":"GR",
+    "lbl:latitude":36.61296,
+    "lbl:longitude":27.135372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mandraki"
+    ],
+    "name:eng_x_preferred":[
+        "Mandraki"
+    ],
+    "name:fin_x_preferred":[
+        "Mandr\u00e1ki"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b4\u03c1\u03ac\u03ba\u03b9 \u039d\u03b9\u03c3\u03cd\u03c1\u03bf\u03c5"
+    ],
+    "name:nno_x_preferred":[
+        "Mandr\u00e1ki"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:name":"Mandraki",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1101213,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":956107,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":956107,
+        "qs_pg:id":1101213,
+        "wd:id":"Q15075219"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293742,
+    "wof:geomhash":"528bcf61adce684ea5681eec261f066a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125858913,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125858913,
+    "wof:lastmodified":1514444000,
+    "wof:name":"Mandraki",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.135372,
+    36.61296,
+    27.135372,
+    36.61296
+],
+  "geometry": {"coordinates":[27.135372,36.61296],"type":"Point"}
+}

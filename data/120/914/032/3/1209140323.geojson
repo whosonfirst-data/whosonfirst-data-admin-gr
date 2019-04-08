@@ -1,0 +1,72 @@
+{
+  "id": 1209140323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78035,35.38819,23.78035,35.38819",
+    "geom:latitude":35.38819,
+    "geom:longitude":23.78035,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Vavouledo",
+    "gn:country_code":"GR",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252105,
+    "gn:latitude":35.38819,
+    "gn:longitude":23.78035,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Vavoul\u00e9do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vavoul\u00e9do"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03b2\u03bf\u03c5\u03bb\u03ad\u03b4\u03bf",
+        "Vavoul\u00e9dhon",
+        "Vavoul\u00e9don",
+        "\u0392\u03b1\u03b2\u03bf\u03c5\u03bb\u03ad\u03b4\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252105
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9bc07db318a2b275df6da99f269e44f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209140323
+        }
+    ],
+    "wof:id":1209140323,
+    "wof:lastmodified":1537624169,
+    "wof:name":"Vavouledo",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78035,
+    35.38819,
+    23.78035,
+    35.38819
+],
+  "geometry": {"coordinates":[23.78035,35.38819],"type":"Point"}
+}

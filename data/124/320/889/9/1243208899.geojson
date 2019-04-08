@@ -1,0 +1,73 @@
+{
+  "id": 1243208899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82096,39.63403,19.82096,39.63403",
+    "geom:latitude":39.63403,
+    "geom:longitude":19.82096,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Danilia",
+    "gn:country_code":"GR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7302337,
+    "gn:latitude":39.63403,
+    "gn:longitude":19.82096,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Dan\u00edlia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03bd\u03af\u03bb\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b1\u03bd\u03af\u03bb\u03bb\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7302337
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3278a26c7fb3858600948d5eb53d7665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243208899,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243208899,
+    "wof:lastmodified":1537624999,
+    "wof:name":"Danilia",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82096,
+    39.63403,
+    19.82096,
+    39.63403
+],
+  "geometry": {"coordinates":[19.82096,39.63403],"type":"Point"}
+}

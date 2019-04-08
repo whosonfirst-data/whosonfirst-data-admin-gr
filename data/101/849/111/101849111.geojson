@@ -1,0 +1,132 @@
+{
+  "id": 101849111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.996018,39.389324,22.996018,39.389324",
+    "geom:latitude":39.389324,
+    "geom:longitude":22.996018,
+    "gn:population":1429,
+    "iso:country":"GR",
+    "lbl:latitude":39.389324,
+    "lbl:longitude":22.996018,
+    "mps:latitude":39.389324,
+    "mps:longitude":22.996018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0627\u0631\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Portaria"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4\u03b1\u03c1\u03b9\u03ac \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c1\u03c4\u03b1\u03c1\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Portaria"
+    ],
+    "name:fra_x_preferred":[
+        "Portari\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Portaria"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4\u03b1\u03c1\u03b9\u03ac \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Portaria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30bf\u30ea\u30a2"
+    ],
+    "name:nno_x_preferred":[
+        "Portari\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Portaria"
+    ],
+    "name:swe_x_preferred":[
+        "Portari\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Portari\u00e1"
+    ],
+    "name:wel_x_preferred":[
+        "Portaria"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"MAGNHSIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u039f\u03a1\u03a4\u0391\u03a1\u0399\u0391",
+    "qs:loc_alt":"PORTARIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.216667,
+    "wd:longitude":22.566667,
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254849,
+        "gp:id":960552,
+        "qs:id":123780,
+        "qs_pg:id":123780,
+        "wd:id":"Q2001542",
+        "wk:page":"Portaria"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3b259393892a6327a6af9601fd340b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849111,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849111,
+    "wof:lastmodified":1544740785,
+    "wof:name":"\u03a0\u039f\u03a1\u03a4\u0391\u03a1\u0399\u0391",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1429,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.996018,
+    39.389324,
+    22.996018,
+    39.389324
+],
+  "geometry": {"coordinates":[22.996018,39.389324],"type":"Point"}
+}

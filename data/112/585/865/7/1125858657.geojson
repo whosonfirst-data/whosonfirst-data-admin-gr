@@ -1,0 +1,115 @@
+{
+  "id": 1125858657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25993,36.84371,22.25993,36.84371",
+    "geom:latitude":36.84371,
+    "geom:longitude":22.25993,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":600,
+    "gn:population":600,
+    "iso:country":"GR",
+    "lbl:latitude":36.84371,
+    "lbl:longitude":22.25993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Stoupa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03bf\u03cd\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Stoupa"
+    ],
+    "name:ger_x_preferred":[
+        "Stoupa"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03bf\u03cd\u03c0\u03b1 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:gsw_x_preferred":[
+        "Stoupa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u0443\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Stoupa"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253145,
+    "qs_pg:gn_pop":600,
+    "qs_pg:name":"Stoupa",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":220,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":220,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1277662,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962979,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253145,
+        "gp:id":962979,
+        "qs_pg:id":1277662,
+        "wd:id":"Q7620562"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293731,
+    "wof:geomhash":"af8e48c8511eb434a163ef34788f5179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125858657,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125858657,
+    "wof:lastmodified":1514444058,
+    "wof:name":"Stoupa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25993,
+    36.84371,
+    22.25993,
+    36.84371
+],
+  "geometry": {"coordinates":[22.25993,36.84371],"type":"Point"}
+}

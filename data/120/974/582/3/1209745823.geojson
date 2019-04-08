@@ -1,0 +1,80 @@
+{
+  "id": 1209745823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08215,37.65484,23.08215,37.65484",
+    "geom:latitude":37.65484,
+    "geom:longitude":23.08215,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Anastasopoulaiika",
+    "gn:country_code":"GR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265112,
+    "gn:latitude":37.65484,
+    "gn:longitude":23.08215,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Anastasopoula\u00edika",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03bf\u03c0\u03bf\u03c5\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Anastasopoulaiika"
+    ],
+    "name:und_x_variant":[
+        "Anastasopoul\u00e9\u00efka",
+        "Anastasopoula\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265112
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0bb5a0dda59e134ab854c848b42d2d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209745823,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209745823,
+    "wof:lastmodified":1537624760,
+    "wof:name":"Anastasopoulaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08215,
+    37.65484,
+    23.08215,
+    37.65484
+],
+  "geometry": {"coordinates":[23.08215,37.65484],"type":"Point"}
+}

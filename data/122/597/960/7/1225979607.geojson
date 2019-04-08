@@ -1,0 +1,73 @@
+{
+  "id": 1225979607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37233,36.52567,22.37233,36.52567",
+    "geom:latitude":36.52567,
+    "geom:longitude":22.37233,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Charampos",
+    "gn:country_code":"GR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6693362,
+    "gn:latitude":36.52567,
+    "gn:longitude":22.37233,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Charamp\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03b1\u03bc\u03c0\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Charampos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6693362
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6bec38d84698ce37934bb47a7faab02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225979607,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1225979607,
+    "wof:lastmodified":1537624997,
+    "wof:name":"Charampos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37233,
+    36.52567,
+    22.37233,
+    36.52567
+],
+  "geometry": {"coordinates":[22.37233,36.52567],"type":"Point"}
+}

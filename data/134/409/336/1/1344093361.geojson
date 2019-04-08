@@ -1,0 +1,73 @@
+{
+  "id": 1344093361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35108,37.95158,21.35108,37.95158",
+    "geom:latitude":37.95158,
+    "geom:longitude":21.35108,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9135",
+    "gn:asciiname":"Kotaiika",
+    "gn:country_code":"GR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259220,
+    "gn:latitude":37.95158,
+    "gn:longitude":21.35108,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kota\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kota\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c4\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259220
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a4fda16da0ebcf037147e2b623654b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344093361,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1344093361,
+    "wof:lastmodified":1537624484,
+    "wof:name":"Kotaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35108,
+    37.95158,
+    21.35108,
+    37.95158
+],
+  "geometry": {"coordinates":[21.35108,37.95158],"type":"Point"}
+}

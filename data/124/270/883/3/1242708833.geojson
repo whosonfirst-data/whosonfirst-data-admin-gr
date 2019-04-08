@@ -1,0 +1,80 @@
+{
+  "id": 1242708833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08382,39.74889,21.08382,39.74889",
+    "geom:latitude":39.74889,
+    "geom:longitude":21.08382,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9086",
+    "gn:asciiname":"Tampouria",
+    "gn:country_code":"GR",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263395,
+    "gn:latitude":39.74889,
+    "gn:longitude":21.08382,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Tampo\u00faria",
+    "gn:population":140,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bc\u03c0\u03bf\u03cd\u03c1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Tampouria"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00faria",
+        "Tampo\u00faria"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263395
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"43293faeb5f142f8433ba2cde733323b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242708833,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1242708833,
+    "wof:lastmodified":1537624683,
+    "wof:name":"Tampouria",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08382000000001,
+    39.74889,
+    21.08382000000001,
+    39.74889
+],
+  "geometry": {"coordinates":[21.08382000000001,39.74889],"type":"Point"}
+}

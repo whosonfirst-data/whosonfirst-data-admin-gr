@@ -1,0 +1,110 @@
+{
+  "id": 1125865039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97861,40.74528,22.97861,40.74528",
+    "geom:latitude":40.74528,
+    "geom:longitude":22.97861,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3226,
+    "gn:population":3226,
+    "iso:country":"GR",
+    "lbl:latitude":40.74528,
+    "lbl:longitude":22.97861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062a\u064a\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0439\u0432\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Liti"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b7\u03c4\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Liti"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b7\u03c4\u03ae \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:lat_x_preferred":[
+        "Lete"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0458\u0432\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "Lit\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Lit\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "A\u00efv\u00e1tion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735400,
+    "qs_pg:gn_pop":3226,
+    "qs_pg:name":"Lit\u00ed",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":129069,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735400,
+        "qs_pg:id":129069,
+        "wd:id":"Q3393470"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293993,
+    "wof:geomhash":"f5d4f4046d5ba5bd8bf21ebd65fbbb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125865039,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125865039,
+    "wof:lastmodified":1553816583,
+    "wof:name":"Lit\u00ed",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":3226,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97861,
+    40.74528,
+    22.97861,
+    40.74528
+],
+  "geometry": {"coordinates":[22.97861,40.74528],"type":"Point"}
+}

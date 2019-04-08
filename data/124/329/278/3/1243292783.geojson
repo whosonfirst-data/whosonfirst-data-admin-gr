@@ -1,0 +1,80 @@
+{
+  "id": 1243292783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1774,40.40443,21.1774,40.40443",
+    "geom:latitude":40.40443,
+    "geom:longitude":21.1774,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9065",
+    "gn:asciiname":"Spilaia",
+    "gn:country_code":"GR",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734175,
+    "gn:latitude":40.40443,
+    "gn:longitude":21.1774,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Sp\u00edlaia",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03ae\u03bb\u03b1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Spilaia"
+    ],
+    "name:und_x_variant":[
+        "Zo\u00faziltsa",
+        "Sp\u00edlaia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734175
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e07112870690215f0790f80daa4b9019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243292783,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1243292783,
+    "wof:lastmodified":1537624827,
+    "wof:name":"Spilaia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1774,
+    40.40443,
+    21.1774,
+    40.40443
+],
+  "geometry": {"coordinates":[21.1774,40.40443],"type":"Point"}
+}

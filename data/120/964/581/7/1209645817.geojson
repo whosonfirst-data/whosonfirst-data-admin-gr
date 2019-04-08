@@ -1,0 +1,74 @@
+{
+  "id": 1209645817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29967,39.43553,22.29967,39.43553",
+    "geom:latitude":39.43553,
+    "geom:longitude":22.29967,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9099",
+    "gn:asciiname":"Psychiko",
+    "gn:country_code":"GR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254504,
+    "gn:latitude":39.43553,
+    "gn:longitude":22.29967,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Psychik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Psychik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a8\u03c5\u03c7\u03b9\u03ba\u03cc",
+        "Psychik\u00f3n",
+        "\u03a8\u03c5\u03c7\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Psikhik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254504
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d6f13cd6e55355bbafde140b71d655cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209645817
+        }
+    ],
+    "wof:id":1209645817,
+    "wof:lastmodified":1537624270,
+    "wof:name":"Psychiko",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29967000000001,
+    39.43553,
+    22.29967000000001,
+    39.43553
+],
+  "geometry": {"coordinates":[22.29967000000001,39.43553],"type":"Point"}
+}

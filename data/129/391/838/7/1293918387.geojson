@@ -1,0 +1,83 @@
+{
+  "id": 1293918387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93702,35.4042,26.93702,35.4042",
+    "geom:latitude":35.4042,
+    "geom:longitude":26.93702,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9281",
+    "gn:asciiname":"Polion",
+    "gn:country_code":"GR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254909,
+    "gn:latitude":35.4042,
+    "gn:longitude":26.93702,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"P\u00f3lion",
+    "gn:population":80,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cc\u03bb\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Poli"
+    ],
+    "name:und_x_variant":[
+        "P\u00f3li",
+        "P\u00f3lion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254909
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e0befb8089b7681cf2014911fe64f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293918387,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1293918387,
+    "wof:lastmodified":1537624282,
+    "wof:name":"Polion",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93702,
+    35.4042,
+    26.93702,
+    35.4042
+],
+  "geometry": {"coordinates":[26.93702,35.4042],"type":"Point"}
+}

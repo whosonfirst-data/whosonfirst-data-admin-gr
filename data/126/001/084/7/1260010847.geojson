@@ -1,0 +1,76 @@
+{
+  "id": 1260010847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.38556,37.99407,23.38556,37.99407",
+    "geom:latitude":37.99407,
+    "geom:longitude":23.38556,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9231",
+    "gn:asciiname":"Lakka Kalogirou",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036833,
+    "gn:latitude":37.99407,
+    "gn:longitude":23.38556,
+    "gn:modification_date":"2014-05-23",
+    "gn:name":"L\u00e1kka Kalog\u00edrou",
+    "gn:population":517,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03ba\u03ba\u03b1 \u039a\u03b1\u03bb\u03bf\u03b3\u03ae\u03c1\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Lakka Kalogirou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036833
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"06575fae60d9232579856f346c89ed77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260010847,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1260010847,
+    "wof:lastmodified":1537625045,
+    "wof:name":"Lakka Kalogirou",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":517,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.38556,
+    37.99407,
+    23.38556,
+    37.99407
+],
+  "geometry": {"coordinates":[23.38556,37.99407],"type":"Point"}
+}

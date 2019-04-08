@@ -1,0 +1,88 @@
+{
+  "id": 1243300025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64307,38.79013,21.64307,38.79013",
+    "geom:latitude":38.79013,
+    "geom:longitude":21.64307,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Vrysoula",
+    "gn:country_code":"GR",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265229,
+    "gn:latitude":38.79013,
+    "gn:longitude":21.64307,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Vryso\u00fala",
+    "gn:population":14,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0391\u03bc\u03c0\u03ad\u03bb\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03c5\u03c3\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03ad\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Ampelia"
+    ],
+    "name:eng_x_preferred":[
+        "Vrysoula"
+    ],
+    "name:eng_x_variant":[
+        "Ampelia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265229
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f29488e13912c868c324eabba871f63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243300025,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1243300025,
+    "wof:lastmodified":1537624767,
+    "wof:name":"Vrysoula",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64307,
+    38.79013,
+    21.64307,
+    38.79013
+],
+  "geometry": {"coordinates":[21.64307,38.79013],"type":"Point"}
+}

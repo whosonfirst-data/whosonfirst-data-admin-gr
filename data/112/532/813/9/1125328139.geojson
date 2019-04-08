@@ -1,0 +1,99 @@
+{
+  "id": 1125328139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58333,36.8,24.58333,36.8",
+    "geom:latitude":36.8,
+    "geom:longitude":24.58333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "gn:population":837,
+    "iso:country":"GR",
+    "lbl:latitude":36.8,
+    "lbl:longitude":24.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bc\u03c9\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kimolos"
+    ],
+    "name:unk_x_variant":[
+        "K\u00edmolas"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":259802,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kimolos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":178,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":292,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1112996,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":24544369,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259802,
+        "gp:id":24544369,
+        "qs_pg:id":1112996
+    },
+    "wof:country":"GR",
+    "wof:created":1497044942,
+    "wof:geomhash":"71515747b438d65915331cfd35950d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125328139,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125328139,
+    "wof:lastmodified":1509388299,
+    "wof:name":"Kimolos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"localadmin",
+    "wof:population":837,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58333,
+    36.8,
+    24.58333,
+    36.8
+],
+  "geometry": {"coordinates":[24.58333,36.8],"type":"Point"}
+}

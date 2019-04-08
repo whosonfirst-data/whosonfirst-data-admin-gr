@@ -1,0 +1,75 @@
+{
+  "id": 101857461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.114748,40.664486,23.114748,40.664486",
+    "geom:latitude":40.664486,
+    "geom:longitude":23.114748,
+    "iso:country":"GR",
+    "lbl:latitude":40.664486,
+    "lbl:longitude":23.114748,
+    "mps:latitude":40.664486,
+    "mps:longitude":23.114748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0393\u0399\u039f\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "qs:loc_alt":"AGIOS BASILEIOS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":947413,
+        "qs:id":5
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2f37f59c0763da5e52a0676a64a66c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857461,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857461,
+    "wof:lastmodified":1544743907,
+    "wof:name":"\u0391\u0393\u0399\u039f\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u03a3",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.114748,
+    40.664486,
+    23.114748,
+    40.664486
+],
+  "geometry": {"coordinates":[23.114748,40.664486],"type":"Point"}
+}

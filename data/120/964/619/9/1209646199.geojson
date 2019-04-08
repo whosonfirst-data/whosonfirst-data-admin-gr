@@ -1,0 +1,77 @@
+{
+  "id": 1209646199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41438,36.49194,22.41438,36.49194",
+    "geom:latitude":36.49194,
+    "geom:longitude":22.41438,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Ano Boularioi",
+    "gn:country_code":"GR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264957,
+    "gn:latitude":36.49194,
+    "gn:longitude":22.41438,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"\u00c1no Boulario\u00ed",
+    "gn:population":20,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u039c\u03c0\u03bf\u03c5\u03bb\u03b1\u03c1\u03b9\u03bf\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Boularioi"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Boularyo\u00ed",
+        "\u00c1no Boulario\u00ed",
+        "Ano Mpoularioi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264957
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d179bf8678398d152894c7d6d0d192f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209646199
+        }
+    ],
+    "wof:id":1209646199,
+    "wof:lastmodified":1537624753,
+    "wof:name":"Ano Boularioi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41438,
+    36.49194,
+    22.41438,
+    36.49194
+],
+  "geometry": {"coordinates":[22.41438,36.49194],"type":"Point"}
+}

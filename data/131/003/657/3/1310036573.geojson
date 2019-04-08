@@ -1,0 +1,74 @@
+{
+  "id": 1310036573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65422,37.90372,21.65422,37.90372",
+    "geom:latitude":37.90372,
+    "geom:longitude":21.65422,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Skouras",
+    "gn:country_code":"GR",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253533,
+    "gn:latitude":37.90372,
+    "gn:longitude":21.65422,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sko\u00faras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03cd\u03c1\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Sko\u00fara",
+        "Sko\u00faras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253533
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4da74f006624c946762b5a580299273c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310036573,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310036573,
+    "wof:lastmodified":1537624225,
+    "wof:name":"Skouras",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65422,
+    37.90372,
+    21.65422,
+    37.90372
+],
+  "geometry": {"coordinates":[21.65422,37.90372],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1276804531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97552,37.73787,23.97552,37.73787",
+    "geom:latitude":37.73787,
+    "geom:longitude":23.97552,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Agiasma",
+    "gn:country_code":"GR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036680,
+    "gn:latitude":37.73787,
+    "gn:longitude":23.97552,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Ag\u00edasma",
+    "gn:population":161,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1\u03c3\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03b1\u03c3\u03bc\u03b1",
+        "\u0391\u03b3\u03b9\u03b1\u03c3\u03bc\u03cc\u03b8\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Agiasma"
+    ],
+    "name:eng_x_variant":[
+        "Ayiasma",
+        "Agiasmothi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036680
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4bbe411767c5c0535bbe762251432f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276804531,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1276804531,
+    "wof:lastmodified":1537625040,
+    "wof:name":"Agiasma",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97552,
+    37.73787,
+    23.97552,
+    37.73787
+],
+  "geometry": {"coordinates":[23.97552,37.73787],"type":"Point"}
+}

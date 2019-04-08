@@ -1,0 +1,83 @@
+{
+  "id": 1243009687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39892,41.21225,23.39892,41.21225",
+    "geom:latitude":41.21225,
+    "geom:longitude":23.39892,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9055",
+    "gn:asciiname":"Kato Ampelia",
+    "gn:country_code":"GR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735912,
+    "gn:latitude":41.21225,
+    "gn:longitude":23.39892,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"K\u00e1to Amp\u00e9lia",
+    "gn:population":219,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03bc\u03c0\u03ad\u03bb\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "K\u00e1to Amp\u00e9lia"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Ampelia"
+    ],
+    "name:und_x_variant":[
+        "Neokh\u00f3rion",
+        "K\u00e1to Amb\u00e9lia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735912
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c62aab6bfac94c9a26ff6c68d5ac7437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243009687,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1243009687,
+    "wof:lastmodified":1537624930,
+    "wof:name":"Kato Ampelia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39892,
+    41.21225,
+    23.39892,
+    41.21225
+],
+  "geometry": {"coordinates":[23.39892,41.21225],"type":"Point"}
+}

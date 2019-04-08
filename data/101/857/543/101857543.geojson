@@ -1,0 +1,136 @@
+{
+  "id": 101857543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53994,40.984585,22.53994,40.984585",
+    "geom:latitude":40.984585,
+    "geom:longitude":22.53994,
+    "gn:population":3368,
+    "iso:country":"GR",
+    "lbl:latitude":40.984585,
+    "lbl:longitude":22.53994,
+    "mps:latitude":40.984585,
+    "mps:longitude":22.53994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0633\u064a\u0648\u0628\u0648\u0644\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0439\u043c\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Axioupoli"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03be\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03be\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b9\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Axioupoli"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03be\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:ita_x_preferred":[
+        "Axioupoli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30b7\u30a6\u30dd\u30ea"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u043e\u0458\u043c\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0458\u043c\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Axioupoli"
+    ],
+    "name:nno_x_preferred":[
+        "Axio\u00fapoli"
+    ],
+    "name:spa_x_preferred":[
+        "Axio\u00fapoli"
+    ],
+    "name:swe_x_preferred":[
+        "Axio\u00fapoli"
+    ],
+    "name:unk_x_variant":[
+        "B\u00f3\u00ebmitsa"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KILKIS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u039e\u0399\u039f\u03a5\u03a0\u039f\u039b\u0397",
+    "qs:loc_alt":"AJIOYPOLH",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":40.983333,
+    "wd:longitude":22.533333,
+    "wd:population":2897,
+    "wd:wordcount":1249,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736661,
+        "gp:id":946839,
+        "qs:id":422205,
+        "qs_pg:id":422205,
+        "wd:id":"Q2416162",
+        "wk:page":"Axioupoli"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1a15daa8e92b1e268d29fac0948bd6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857543,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857543,
+    "wof:lastmodified":1544743951,
+    "wof:name":"\u0391\u039e\u0399\u039f\u03a5\u03a0\u039f\u039b\u0397",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2897,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53994,
+    40.984585,
+    22.53994,
+    40.984585
+],
+  "geometry": {"coordinates":[22.53994,40.984585],"type":"Point"}
+}

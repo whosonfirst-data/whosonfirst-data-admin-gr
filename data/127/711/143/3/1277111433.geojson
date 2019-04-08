@@ -1,0 +1,80 @@
+{
+  "id": 1277111433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81397,37.64883,22.81397,37.64883",
+    "geom:latitude":37.64883,
+    "geom:longitude":22.81397,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Poullakidha",
+    "gn:country_code":"GR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254783,
+    "gn:latitude":37.64883,
+    "gn:longitude":22.81397,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Poullak\u00eddha",
+    "gn:population":605,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03bb\u03bb\u03b1\u03ba\u03af\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Poullakida"
+    ],
+    "name:und_x_variant":[
+        "Poulakidha",
+        "Poullak\u00eddha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254783
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"31862b6eb2fc98ff5e74a1599199d8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277111433,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277111433,
+    "wof:lastmodified":1537624279,
+    "wof:name":"Poullakidha",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81397,
+    37.64883,
+    22.81397,
+    37.64883
+],
+  "geometry": {"coordinates":[22.81397,37.64883],"type":"Point"}
+}

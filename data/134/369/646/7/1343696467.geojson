@@ -1,0 +1,67 @@
+{
+  "id": 1343696467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04963,35.41668,24.04963,35.41668",
+    "geom:latitude":35.41668,
+    "geom:longitude":24.04963,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Keramion",
+    "gn:country_code":"GR",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224706,
+    "gn:latitude":35.41668,
+    "gn:longitude":24.04963,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Keramion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224706
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5005d594947001e3c50d5f56b93f7894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343696467,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343696467,
+    "wof:lastmodified":1536903281,
+    "wof:name":"Keramion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04963,
+    35.41668,
+    24.04963,
+    35.41668
+],
+  "geometry": {"coordinates":[24.04963,35.41668],"type":"Point"}
+}

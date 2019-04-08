@@ -1,0 +1,93 @@
+{
+  "id": 1243588759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48074,37.17217,25.48074,37.17217",
+    "geom:latitude":37.17217,
+    "geom:longitude":25.48074,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292.0",
+    "gn:asciiname":"Taksiarchis",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794123,
+    "gn:latitude":37.17217,
+    "gn:longitude":25.48074,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Taksi\u00e1rchis",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u0391\u03bc\u03c0\u03c1\u03ac\u03bc",
+        "\u0391\u03bc\u03c0\u03c1\u03ac\u03bc\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03c1\u03ac\u03bc"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b1\u03be\u03b9\u03ac\u03c1\u03c7\u03b7\u03c2",
+        "\u0391\u03bc\u03c0\u03c1\u03ac\u03bc\u03b9"
+    ],
+    "name:eng_x_colloquial":[
+        "Abram",
+        "Abrami"
+    ],
+    "name:eng_x_preferred":[
+        "Abram"
+    ],
+    "name:eng_x_variant":[
+        "Taxiarchis",
+        "Taksiarchis",
+        "Abrami"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794123
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0e44b536d9ff4414eec14a7a7868a02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243588759,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243588759,
+    "wof:lastmodified":1537625091,
+    "wof:name":"Taksiarchis",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48074,
+    37.17217,
+    25.48074,
+    37.17217
+],
+  "geometry": {"coordinates":[25.48074,37.17217],"type":"Point"}
+}

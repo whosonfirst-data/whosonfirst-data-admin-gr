@@ -1,0 +1,76 @@
+{
+  "id": 1326464665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64719,38.46456,20.64719,38.46456",
+    "geom:latitude":38.46456,
+    "geom:longitude":20.64719,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9117",
+    "gn:asciiname":"Agioi Saranta",
+    "gn:country_code":"GR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264077,
+    "gn:latitude":38.46456,
+    "gn:longitude":20.64719,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c1gioi Sar\u00e1nta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gioi Sar\u00e1nta"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yioi Sar\u00e1nda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264077
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7c7e285bc9660a415f76a6320321a0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326464665,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1326464665,
+    "wof:lastmodified":1537624712,
+    "wof:name":"Agioi Saranta",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64719,
+    38.46456,
+    20.64719,
+    38.46456
+],
+  "geometry": {"coordinates":[20.64719,38.46456],"type":"Point"}
+}

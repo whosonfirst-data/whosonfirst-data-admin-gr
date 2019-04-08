@@ -1,0 +1,66 @@
+{
+  "id": 1209551543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.42697,37.89209,23.42697,37.89209",
+    "geom:latitude":37.89209,
+    "geom:longitude":23.42697,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9211",
+    "gn:asciiname":"Lambrino",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":258624,
+    "gn:latitude":37.89209,
+    "gn:longitude":23.42697,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lambrin\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bc\u03c0\u03c1\u03b9\u03bd\u03cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258624
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"64b46186d2b55da893072faf181814a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209551543
+        }
+    ],
+    "wof:id":1209551543,
+    "wof:lastmodified":1537624457,
+    "wof:name":"Lambrino",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42697,
+    37.89209,
+    23.42697,
+    37.89209
+],
+  "geometry": {"coordinates":[23.42697,37.89209],"type":"Point"}
+}

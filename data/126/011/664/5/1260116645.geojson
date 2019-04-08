@@ -1,0 +1,80 @@
+{
+  "id": 1260116645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00515,36.84543,23.00515,36.84543",
+    "geom:latitude":36.84543,
+    "geom:longitude":23.00515,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9251",
+    "gn:asciiname":"Reichia",
+    "gn:country_code":"GR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254324,
+    "gn:latitude":36.84543,
+    "gn:longitude":23.00515,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Reichi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Reich\u00e9a"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b5\u03b9\u03c7\u03ad\u03b1",
+        "Rikh\u00e9a",
+        "Rikhia",
+        "Reichi\u00e1",
+        "\u03a1\u03b5\u03b9\u03c7\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Rikhia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254324
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e77061023542390d99993668f8fdb17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260116645,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260116645,
+    "wof:lastmodified":1537624263,
+    "wof:name":"Reichia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00515,
+    36.84543,
+    23.00515,
+    36.84543
+],
+  "geometry": {"coordinates":[23.00515,36.84543],"type":"Point"}
+}

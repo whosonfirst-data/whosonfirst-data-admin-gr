@@ -1,0 +1,89 @@
+{
+  "id": 1126046183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56556,41.06778,22.56556,41.06778",
+    "geom:latitude":41.06778,
+    "geom:longitude":22.56556,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":415,
+    "gn:population":415,
+    "iso:country":"GR",
+    "lbl:latitude":41.06778,
+    "lbl:longitude":22.56556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u03a3\u03bc\u03cc\u03bb\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc \u0394\u03ac\u03c3\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03b4\u03b1\u03c3\u03bf\u03c2",
+        "\u03a3\u03bc\u03cc\u03bb\u03b7"
+    ],
+    "name:unk_x_variant":[
+        "Mikr\u00f3n Dh\u00e1sos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735120,
+    "qs_pg:gn_pop":415,
+    "qs_pg:name":"Mikr\u00f3n D\u00e1sos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552881,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735120,
+        "qs_pg:id":552881
+    },
+    "wof:country":"GR",
+    "wof:created":1497302445,
+    "wof:geomhash":"91389900647f5cc5d40ade95b93fc0ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126046183,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1126046183,
+    "wof:lastmodified":1509408868,
+    "wof:name":"Mikr\u00f3n D\u00e1sos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":415,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56556,
+    41.06778,
+    22.56556,
+    41.06778
+],
+  "geometry": {"coordinates":[22.56556,41.06778],"type":"Point"}
+}

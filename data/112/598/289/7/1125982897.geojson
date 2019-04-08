@@ -1,0 +1,121 @@
+{
+  "id": 1125982897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13278,38.40889,26.13278,38.40889",
+    "geom:latitude":38.40889,
+    "geom:longitude":26.13278,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4600,
+    "gn:population":5323,
+    "iso:country":"GR",
+    "lbl:latitude":38.40889,
+    "lbl:longitude":26.13278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0648\u0646\u062a\u0627\u062f\u0648\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u043e\u043d\u0442\u0430\u0434\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Vrontados"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03bf\u03bd\u03c4\u03ac\u03b4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vrontados"
+    ],
+    "name:fin_x_preferred":[
+        "Vront\u00e1dos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03c1\u03bf\u03bd\u03c4\u03ac\u03b4\u03bf\u03c2 \u03a7\u03af\u03bf\u03c5"
+    ],
+    "name:nno_x_preferred":[
+        "Vrond\u00e1dos"
+    ],
+    "name:swe_x_preferred":[
+        "Vront\u00e1dos"
+    ],
+    "name:unk_x_variant":[
+        "Vrondh\u00e1des"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":251606,
+    "qs_pg:gn_pop":4600,
+    "qs_pg:name":"Vrontados",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":97,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":97,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1252713,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":966214,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251606,
+        "gp:id":966214,
+        "qs_pg:id":1252713,
+        "wd:id":"Q3558261"
+    },
+    "wof:country":"GR",
+    "wof:created":1497298645,
+    "wof:geomhash":"ac36ac5166485c148b5b1d922fdf8378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125982897,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1125982897,
+    "wof:lastmodified":1538594923,
+    "wof:name":"Vrontados",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:population":5323,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13278,
+    38.40889,
+    26.13278,
+    38.40889
+],
+  "geometry": {"coordinates":[26.13278,38.40889],"type":"Point"}
+}

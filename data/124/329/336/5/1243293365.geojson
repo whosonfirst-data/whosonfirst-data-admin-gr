@@ -1,0 +1,77 @@
+{
+  "id": 1243293365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33078,41.19774,24.33078,41.19774",
+    "geom:latitude":41.19774,
+    "geom:longitude":24.33078,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Teichos",
+    "gn:country_code":"GR",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734059,
+    "gn:latitude":41.19774,
+    "gn:longitude":24.33078,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Te\u00edchos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Te\u00edchos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b5\u03af\u03c7\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Surujul\u00e9r",
+        "T\u00edkhos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734059
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"61b245d92484250e6691bcb51c3f882b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243293365,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243293365,
+    "wof:lastmodified":1537624820,
+    "wof:name":"Teichos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33078,
+    41.19774,
+    24.33078,
+    41.19774
+],
+  "geometry": {"coordinates":[24.33078,41.19774],"type":"Point"}
+}

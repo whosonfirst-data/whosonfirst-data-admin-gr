@@ -1,0 +1,77 @@
+{
+  "id": 1276587103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7292,37.2423,21.7292,37.2423",
+    "geom:latitude":37.2423,
+    "geom:longitude":21.7292,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Karvouni",
+    "gn:country_code":"GR",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260861,
+    "gn:latitude":37.2423,
+    "gn:longitude":21.7292,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Karvo\u00fani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b2\u03bf\u03cd\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b2\u03bf\u03cd\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Karvo\u00fani",
+        "Karvo\u00fanion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260861
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e06f930796f9849fa13e80e81a8c6246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276587103,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276587103,
+    "wof:lastmodified":1537624562,
+    "wof:name":"Karvouni",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7292,
+    37.2423,
+    21.7292,
+    37.2423
+],
+  "geometry": {"coordinates":[21.7292,37.2423],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1343298451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31211,40.85615,21.31211,40.85615",
+    "geom:latitude":40.85615,
+    "geom:longitude":21.31211,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Kratero",
+    "gn:country_code":"GR",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735550,
+    "gn:latitude":40.85615,
+    "gn:longitude":21.31211,
+    "gn:modification_date":"2017-12-05",
+    "gn:name":"Krater\u00f3",
+    "gn:population":84,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c4\u03b5\u03c1\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b1\u03c4\u03b5\u03c1\u03cc\u03bd"
+    ],
+    "name:eng_x_historical":[
+        "\u03a1\u03ac\u03ba\u03bf\u03b2\u03bf",
+        "Rakovo"
+    ],
+    "name:eng_x_preferred":[
+        "Kratero"
+    ],
+    "name:eng_x_variant":[
+        "\u03a1\u03ac\u03ba\u03bf\u03b2\u03bf",
+        "Rakovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "R\u00e1kovon",
+        "Krater\u00f3n",
+        "Krater\u00f3"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735550,
+        "wk:page":"Kratero"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7436eb2995a0985aa3d3718a32207c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343298451,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343298451,
+    "wof:lastmodified":1537624911,
+    "wof:name":"Kratero",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31211,
+    40.85615,
+    21.31211,
+    40.85615
+],
+  "geometry": {"coordinates":[21.31211,40.85615],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310439433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.273,39.36133,21.273,39.36133",
+    "geom:latitude":39.36133,
+    "geom:longitude":21.273,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Logarou",
+    "gn:country_code":"GR",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258158,
+    "gn:latitude":39.36133,
+    "gn:longitude":21.273,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Logaro\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Logaro\u00fa"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03bf\u03b3\u03b1\u03c1\u03bf\u03cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258158
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7d062100c252e6ac2c956c898b81a7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310439433,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1310439433,
+    "wof:lastmodified":1537624434,
+    "wof:name":"Logarou",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.273,
+    39.36133,
+    21.273,
+    39.36133
+],
+  "geometry": {"coordinates":[21.273,39.36133],"type":"Point"}
+}

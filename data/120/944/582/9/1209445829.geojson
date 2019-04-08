@@ -1,0 +1,81 @@
+{
+  "id": 1209445829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78486,37.80117,20.78486,37.80117",
+    "geom:latitude":37.80117,
+    "geom:longitude":20.78486,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Skoulikado",
+    "gn:country_code":"GR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253550,
+    "gn:latitude":37.80117,
+    "gn:longitude":20.78486,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Skoulik\u00e1do",
+    "gn:population":653,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c5\u03bb\u03b7\u03ba\u03ac\u03b4\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "Skoulik\u00e1do",
+        "Skoulik\u00e1don",
+        "\u03a3\u03ba\u03bf\u03c5\u03bb\u03b7\u03ba\u03ac\u03b4\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Skoulikado"
+    ],
+    "name:und_x_variant":[
+        "Skoulikadon",
+        "Skoulik\u00e1dhon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253550
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"edcfbad3d97817435c402f5d53bf85c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209445829
+        }
+    ],
+    "wof:id":1209445829,
+    "wof:lastmodified":1537624225,
+    "wof:name":"Skoulikado",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":653,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78486,
+    37.80117,
+    20.78486,
+    37.80117
+],
+  "geometry": {"coordinates":[20.78486,37.80117],"type":"Point"}
+}

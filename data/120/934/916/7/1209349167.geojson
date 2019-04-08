@@ -1,0 +1,75 @@
+{
+  "id": 1209349167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3746,36.60554,22.3746,36.60554",
+    "geom:latitude":36.60554,
+    "geom:longitude":22.3746,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Charouda",
+    "gn:country_code":"GR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260056,
+    "gn:latitude":36.60554,
+    "gn:longitude":22.3746,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Charo\u00fada",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Charouda"
+    ],
+    "name:und_x_variant":[
+        "Kharo\u00fadha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260056
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"984e061e8c034b62a4ff84d1d875f6f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209349167
+        }
+    ],
+    "wof:id":1209349167,
+    "wof:lastmodified":1537624520,
+    "wof:name":"Charouda",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3746,
+    36.60554000000001,
+    22.3746,
+    36.60554000000001
+],
+  "geometry": {"coordinates":[22.3746,36.60554000000001],"type":"Point"}
+}

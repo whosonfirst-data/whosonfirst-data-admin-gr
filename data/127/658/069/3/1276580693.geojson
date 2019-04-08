@@ -1,0 +1,70 @@
+{
+  "id": 1276580693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02438,37.49771,23.02438,37.49771",
+    "geom:latitude":37.49771,
+    "geom:longitude":23.02438,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Tsapralaiika",
+    "gn:country_code":"GR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252527,
+    "gn:latitude":37.49771,
+    "gn:longitude":23.02438,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Tsaprala\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c0\u03c1\u03b1\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252527
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c99422ad541177193086f435c34ccd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276580693,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276580693,
+    "wof:lastmodified":1537550846,
+    "wof:name":"Tsapralaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02438,
+    37.49771,
+    23.02438,
+    37.49771
+],
+  "geometry": {"coordinates":[23.02438,37.49771],"type":"Point"}
+}

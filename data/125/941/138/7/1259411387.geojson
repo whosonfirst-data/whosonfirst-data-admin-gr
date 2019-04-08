@@ -1,0 +1,80 @@
+{
+  "id": 1259411387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40803,37.8451,22.40803,37.8451",
+    "geom:latitude":37.8451,
+    "geom:longitude":22.40803,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Karterion",
+    "gn:country_code":"GR",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260879,
+    "gn:latitude":37.8451,
+    "gn:longitude":22.40803,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Kart\u00e9rion",
+    "gn:population":96,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03c4\u03ad\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Karteri"
+    ],
+    "name:und_x_variant":[
+        "Kart\u00e9ri",
+        "Kart\u00e9rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260879
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a73655a24048b07c87952806a0f29599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259411387,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259411387,
+    "wof:lastmodified":1537624563,
+    "wof:name":"Karterion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40803,
+    37.8451,
+    22.40803,
+    37.8451
+],
+  "geometry": {"coordinates":[22.40803,37.8451],"type":"Point"}
+}

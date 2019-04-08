@@ -1,0 +1,78 @@
+{
+  "id": 1259817807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12596,40.4916,22.12596,40.4916",
+    "geom:latitude":40.4916,
+    "geom:longitude":22.12596,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"9024",
+    "gn:asciiname":"Vromopigado",
+    "gn:country_code":"GR",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733845,
+    "gn:latitude":40.4916,
+    "gn:longitude":22.12596,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Vromop\u00edgado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03bf\u03bc\u03bf\u03c0\u03ae\u03b3\u03b1\u03b4\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03bf\u03bc\u03bf\u03c0\u03ae\u03b3\u03b1\u03b4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Vromop\u00edgadho",
+        "Vromop\u00edgado",
+        "Vromop\u00edgadon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733845
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"092851941e2d045115c38230187393d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259817807,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259817807,
+    "wof:lastmodified":1537624809,
+    "wof:name":"Vromopigado",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12596,
+    40.4916,
+    22.12596,
+    40.4916
+],
+  "geometry": {"coordinates":[22.12596,40.4916],"type":"Point"}
+}

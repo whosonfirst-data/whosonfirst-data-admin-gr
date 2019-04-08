@@ -1,0 +1,75 @@
+{
+  "id": 101848439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90477,37.703647,26.90477,37.703647",
+    "geom:latitude":37.703647,
+    "geom:longitude":26.90477,
+    "iso:country":"GR",
+    "lbl:latitude":37.703647,
+    "lbl:longitude":26.90477,
+    "mps:latitude":37.703647,
+    "mps:longitude":26.90477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0392\u039f\u03a1\u0395\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"BOREIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SAMOS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a7\u03a9\u03a1\u0391",
+    "qs:loc_alt":"XVRA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":953214,
+        "qs:id":8
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d7434e5fe36bfc8fa559d1247b8c8aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848439,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":101848439,
+    "wof:lastmodified":1544740448,
+    "wof:name":"\u03a7\u03a9\u03a1\u0391",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90477,
+    37.703647,
+    26.90477,
+    37.703647
+],
+  "geometry": {"coordinates":[26.90477,37.703647],"type":"Point"}
+}

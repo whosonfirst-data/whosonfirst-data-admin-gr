@@ -1,0 +1,74 @@
+{
+  "id": 1259419283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.19099,38.20706,24.19099,38.20706",
+    "geom:latitude":38.20706,
+    "geom:longitude":24.19099,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151.0",
+    "gn:asciiname":"Diliso",
+    "gn:country_code":"GR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630483,
+    "gn:latitude":38.20706,
+    "gn:longitude":24.19099,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"D\u00edliso",
+    "gn:population":28,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bb\u03b7\u03c3\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Diliso"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630483
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fcc172ee3fa6fc5fb5d83cdad1b2a379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1259419283,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259419283,
+    "wof:lastmodified":1537625088,
+    "wof:name":"Diliso",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.19099,
+    38.20706,
+    24.19099,
+    38.20706
+],
+  "geometry": {"coordinates":[24.19099,38.20706],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1242611977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55656,40.89588,23.55656,40.89588",
+    "geom:latitude":40.89588,
+    "geom:longitude":23.55656,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9050",
+    "gn:asciiname":"Therma",
+    "gn:country_code":"GR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734083,
+    "gn:latitude":40.89588,
+    "gn:longitude":23.55656,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Therm\u00e1",
+    "gn:population":426,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03c1\u03bc\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Therma"
+    ],
+    "name:und_x_variant":[
+        "Loutr\u00e1",
+        "Lo\u00fatzia",
+        "L\u00edtza",
+        "Therm\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734083
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"52f314acb38337501b07ef596044495e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242611977,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1242611977,
+    "wof:lastmodified":1537624822,
+    "wof:name":"Therma",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55656,
+    40.89588,
+    23.55656,
+    40.89588
+],
+  "geometry": {"coordinates":[23.55656,40.89588],"type":"Point"}
+}

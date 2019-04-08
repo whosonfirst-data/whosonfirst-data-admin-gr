@@ -1,0 +1,78 @@
+{
+  "id": 1243490143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25375,39.98658,22.25375,39.98658",
+    "geom:latitude":39.98658,
+    "geom:longitude":22.25375,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9098",
+    "gn:asciiname":"Olympiada",
+    "gn:country_code":"GR",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256314,
+    "gn:latitude":39.98658,
+    "gn:longitude":22.25375,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Olympi\u00e1da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Olympi\u00e1da"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03ac\u03b4\u03b1",
+        "Olympi\u00e1s",
+        "\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Olimbi\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256314
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e61626e70ac66ac084e54cb6acb97113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243490143,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243490143,
+    "wof:lastmodified":1537624347,
+    "wof:name":"Olympiada",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25375,
+    39.98658,
+    22.25375,
+    39.98658
+],
+  "geometry": {"coordinates":[22.25375,39.98658],"type":"Point"}
+}

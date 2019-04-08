@@ -1,0 +1,80 @@
+{
+  "id": 1293420173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84937,37.33767,21.84937,37.33767",
+    "geom:latitude":37.33767,
+    "geom:longitude":21.84937,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9256",
+    "gn:asciiname":"Ano Dorio",
+    "gn:country_code":"GR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264947,
+    "gn:latitude":37.33767,
+    "gn:longitude":21.84937,
+    "gn:modification_date":"2018-04-23",
+    "gn:name":"\u00c1no D\u00f3rio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0394\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1no D\u00f3rio",
+        "\u0386\u03bd\u03c9 \u0394\u03ce\u03c1\u03b9\u03bf",
+        "\u00c1no D\u00f3rion",
+        "\u0386\u03bd\u03c9 \u0394\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Soulim\u00e1",
+        "\u00c1no Dh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264947
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"19de7c88328403cb4104486deafd1944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293420173,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293420173,
+    "wof:lastmodified":1537624752,
+    "wof:name":"Ano Dorio",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84937,
+    37.33767,
+    21.84937,
+    37.33767
+],
+  "geometry": {"coordinates":[21.84937,37.33767],"type":"Point"}
+}

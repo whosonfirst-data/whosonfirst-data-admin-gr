@@ -1,0 +1,80 @@
+{
+  "id": 1225878451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.46007,35.27404,24.46007,35.27404",
+    "geom:latitude":35.27404,
+    "geom:longitude":24.46007,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Foteinos",
+    "gn:country_code":"GR",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262289,
+    "gn:latitude":35.27404,
+    "gn:longitude":24.46007,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Fotein\u00f3s",
+    "gn:population":79,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03c9\u03c4\u03b5\u03b9\u03bd\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Foteinos"
+    ],
+    "name:und_x_variant":[
+        "Fotino\u00fa",
+        "Fotin\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262289
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"95e13cdcfc0b068f7297ac73c87c11e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225878451,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1225878451,
+    "wof:lastmodified":1537624626,
+    "wof:name":"Foteinos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.46007,
+    35.27404,
+    24.46007,
+    35.27404
+],
+  "geometry": {"coordinates":[24.46007,35.27404],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259619495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84384,35.43668,23.84384,35.43668",
+    "geom:latitude":35.43668,
+    "geom:longitude":23.84384,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Nteres",
+    "gn:country_code":"GR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263331,
+    "gn:latitude":35.43668,
+    "gn:longitude":23.84384,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Nter\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Nter\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03b5\u03c1\u03ad\u03c2",
+        "Der\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263331
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c32ad1b58df7c5161b34bd3ce5f13f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259619495,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259619495,
+    "wof:lastmodified":1537624680,
+    "wof:name":"Nteres",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84384,
+    35.43668,
+    23.84384,
+    35.43668
+],
+  "geometry": {"coordinates":[23.84384,35.43668],"type":"Point"}
+}

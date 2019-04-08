@@ -1,0 +1,67 @@
+{
+  "id": 1276156945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18222,38.48333,23.18222,38.48333",
+    "geom:latitude":38.48333,
+    "geom:longitude":23.18222,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9146",
+    "gn:asciiname":"Gla",
+    "gn:country_code":"GR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":8436686,
+    "gn:latitude":38.48333,
+    "gn:longitude":23.18222,
+    "gn:modification_date":"2013-01-07",
+    "gn:name":"Gla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436686
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"86635a00921d447f565c9906f9f4489f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276156945,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276156945,
+    "wof:lastmodified":1537014450,
+    "wof:name":"Gla",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18222,
+    38.48333,
+    23.18222,
+    38.48333
+],
+  "geometry": {"coordinates":[23.18222,38.48333],"type":"Point"}
+}

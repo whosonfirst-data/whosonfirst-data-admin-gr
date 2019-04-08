@@ -1,0 +1,80 @@
+{
+  "id": 1259514425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82634,35.325,23.82634,35.325",
+    "geom:latitude":35.325,
+    "geom:longitude":23.82634,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Epanochori",
+    "gn:country_code":"GR",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262672,
+    "gn:latitude":35.325,
+    "gn:longitude":23.82634,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Epanoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Epanoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03bd\u03c9\u03c7\u03ce\u03c1\u03b9",
+        "Epanoch\u00f3rion",
+        "\u0395\u03c0\u03b1\u03bd\u03c9\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Apanokh\u00f3ri",
+        "Epanokh\u00f3ri",
+        "Epanokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262672
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"369b57db21c3362928b2844844335e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259514425,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259514425,
+    "wof:lastmodified":1537624643,
+    "wof:name":"Epanochori",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82634,
+    35.325,
+    23.82634,
+    35.325
+],
+  "geometry": {"coordinates":[23.82634,35.325],"type":"Point"}
+}

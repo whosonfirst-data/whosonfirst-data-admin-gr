@@ -1,0 +1,67 @@
+{
+  "id": 1243588619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76858,37.29532,26.76858,37.29532",
+    "geom:latitude":37.29532,
+    "geom:longitude":26.76858,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9277",
+    "gn:asciiname":"Lipsi",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643118,
+    "gn:latitude":37.29532,
+    "gn:longitude":26.76858,
+    "gn:modification_date":"2013-11-20",
+    "gn:name":"Lipsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643118
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c8f22a47e5ef74d55a303094da7ff3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243588619,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243588619,
+    "wof:lastmodified":1537094285,
+    "wof:name":"Lipsi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76858,
+    37.29532,
+    26.76858,
+    37.29532
+],
+  "geometry": {"coordinates":[26.76858,37.29532],"type":"Point"}
+}

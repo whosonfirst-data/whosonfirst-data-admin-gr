@@ -1,0 +1,72 @@
+{
+  "id": 1209249151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89714,38.77306,22.89714,38.77306",
+    "geom:latitude":38.77306,
+    "geom:longitude":22.89714,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9163",
+    "gn:asciiname":"Akti",
+    "gn:country_code":"GR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781135,
+    "gn:latitude":38.77306,
+    "gn:longitude":22.89714,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Akt\u00ed",
+    "gn:population":87,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c4\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Akti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781135
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"59675843179269fe5614c16e98e11c35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209249151
+        }
+    ],
+    "wof:id":1209249151,
+    "wof:lastmodified":1537625073,
+    "wof:name":"Akti",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89714,
+    38.77306,
+    22.89714,
+    38.77306
+],
+  "geometry": {"coordinates":[22.89714,38.77306],"type":"Point"}
+}

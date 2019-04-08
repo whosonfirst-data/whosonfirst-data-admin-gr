@@ -1,0 +1,87 @@
+{
+  "id": 1293723733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44743,36.47798,22.44743,36.47798",
+    "geom:latitude":36.47798,
+    "geom:longitude":22.44743,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Kotrafion",
+    "gn:country_code":"GR",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259215,
+    "gn:latitude":36.47798,
+    "gn:longitude":22.44743,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Kotr\u00e1fion",
+    "gn:population":4,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c4\u03c1\u03ac\u03c6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c4\u03c1\u03ac\u03c6\u03b9\u03bf\u03bd",
+        "\u039a\u03bf\u03c4\u03c1\u03ac\u03c6\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kotrafi"
+    ],
+    "name:eng_x_variant":[
+        "Kotrafio"
+    ],
+    "name:und_x_variant":[
+        "Kotr\u00e1fi",
+        "Kotr\u00e1fion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259215
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0f7d3aa753885f1d8818a29c1bc95671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293723733,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293723733,
+    "wof:lastmodified":1537624483,
+    "wof:name":"Kotrafion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44743,
+    36.47798,
+    22.44743,
+    36.47798
+],
+  "geometry": {"coordinates":[22.44743,36.47798],"type":"Point"}
+}

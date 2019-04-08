@@ -1,0 +1,73 @@
+{
+  "id": 1209546257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93236,38.04681,21.93236,38.04681",
+    "geom:latitude":38.04681,
+    "geom:longitude":21.93236,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Georgaiika",
+    "gn:country_code":"GR",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251439,
+    "gn:latitude":38.04681,
+    "gn:longitude":21.93236,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Georga\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Georga\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03c9\u03c1\u03b3\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Yeory\u00e9\u00efka",
+        "Yeorya\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251439
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"febf4968e36b850fb95a5b366ea207a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209546257
+        }
+    ],
+    "wof:id":1209546257,
+    "wof:lastmodified":1537624140,
+    "wof:name":"Georgaiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93236,
+    38.04681,
+    21.93236,
+    38.04681
+],
+  "geometry": {"coordinates":[21.93236,38.04681],"type":"Point"}
+}

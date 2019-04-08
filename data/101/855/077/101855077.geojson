@@ -1,0 +1,144 @@
+{
+  "id": 101855077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.547404,40.260162,21.547404,40.260162",
+    "geom:latitude":40.260162,
+    "geom:longitude":21.547404,
+    "gn:population":5612,
+    "iso:country":"GR",
+    "lbl:latitude":40.260162,
+    "lbl:longitude":21.547404,
+    "mps:latitude":40.260162,
+    "mps:longitude":21.547404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0627\u062a\u064a\u0633\u062a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u044f\u0442\u0438\u0449\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Siatista"
+    ],
+    "name:dut_x_preferred":[
+        "Siatista"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03ac\u03c4\u03b9\u03c3\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Siatista"
+    ],
+    "name:fin_x_preferred":[
+        "Si\u00e1tista"
+    ],
+    "name:fra_x_preferred":[
+        "Si\u00e1tista"
+    ],
+    "name:fre_x_preferred":[
+        "Si\u00e1tista"
+    ],
+    "name:ger_x_preferred":[
+        "Siatista"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b9\u03ac\u03c4\u03b9\u03c3\u03c4\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Siatista"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u0447\u0438\u0448\u0442\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0447\u0438\u0448\u0442\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Si\u00e1tista"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0430\u0442\u0438\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Si\u00e1tista"
+    ],
+    "name:unk_x_variant":[
+        "Kh\u00f3ra"
+    ],
+    "name:wel_x_preferred":[
+        "Siatista"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"DYTIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KOZANH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u0399\u0391\u03a4\u0399\u03a3\u03a4\u0391",
+    "qs:loc_alt":"SIATISTA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":40.269444,
+    "wd:longitude":21.555556,
+    "wd:wordcount":808,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734315,
+        "gp:id":961803,
+        "qs:id":129029,
+        "qs_pg:id":968668,
+        "wd:id":"Q677249",
+        "wk:page":"Siatista"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e946f85443cc0cebe57e6918abdd6ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855077,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":101855077,
+    "wof:lastmodified":1544742817,
+    "wof:name":"\u03a3\u0399\u0391\u03a4\u0399\u03a3\u03a4\u0391",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":5612,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.547404,
+    40.260162,
+    21.547404,
+    40.260162
+],
+  "geometry": {"coordinates":[21.547404,40.260162],"type":"Point"}
+}

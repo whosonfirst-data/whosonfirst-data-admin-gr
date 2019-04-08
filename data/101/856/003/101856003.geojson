@@ -1,0 +1,113 @@
+{
+  "id": 101856003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02768,40.425419,23.02768,40.425419",
+    "geom:latitude":40.425419,
+    "geom:longitude":23.02768,
+    "gn:population":1954,
+    "iso:country":"GR",
+    "lbl:latitude":40.425419,
+    "lbl:longitude":23.02768,
+    "mps:latitude":40.425419,
+    "mps:longitude":23.02768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062a\u0648 \u0633\u0643\u0648\u0644\u0627\u0631\u064a\u0648\u0646\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u043e \u0421\u0445\u043e\u043b\u0430\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Kato Scholari"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03c7\u03bf\u03bb\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "K\u00e1to Schol\u00e1ri",
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03c7\u03bf\u03bb\u03ac\u03c1\u03b9",
+        "K\u00e1to Schol\u00e1rion"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Scholari"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03c7\u03bf\u03bb\u03ac\u03c1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0434\u0430\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e1to Schol\u00e1ri"
+    ],
+    "name:unk_x_variant":[
+        "Adal\u00ed"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u0391\u03a4\u03a9 \u03a3\u03a7\u039f\u039b\u0391\u03a1\u0399\u039f\u039d",
+    "qs:loc_alt":"KATV SXOLARION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735872,
+        "gp:id":952422,
+        "qs:id":1284259,
+        "wd:id":"Q12282736"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cbcb580386a707a62aeb4e3f8d976779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101856003,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101856003,
+    "wof:lastmodified":1544743183,
+    "wof:name":"\u039a\u0391\u03a4\u03a9 \u03a3\u03a7\u039f\u039b\u0391\u03a1\u0399\u039f\u039d",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1954,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02768,
+    40.425419,
+    23.02768,
+    40.425419
+],
+  "geometry": {"coordinates":[23.02768,40.425419],"type":"Point"}
+}

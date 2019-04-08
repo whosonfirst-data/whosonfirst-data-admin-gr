@@ -1,0 +1,69 @@
+{
+  "id": 1276479433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0808,37.60087,26.0808,37.60087",
+    "geom:latitude":37.60087,
+    "geom:longitude":26.0808,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Christos",
+    "gn:country_code":"GR",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265880,
+    "gn:latitude":37.60087,
+    "gn:longitude":26.0808,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Chr\u00edstos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chr\u00edstos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c1\u03af\u03c3\u03c4\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265880
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bb22a1ba62083973c3f65495ef83280a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276479433,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276479433,
+    "wof:lastmodified":1537625114,
+    "wof:name":"Christos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0808,
+    37.60087,
+    26.0808,
+    37.60087
+],
+  "geometry": {"coordinates":[26.0808,37.60087],"type":"Point"}
+}

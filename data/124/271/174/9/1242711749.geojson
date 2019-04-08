@@ -1,0 +1,74 @@
+{
+  "id": 1242711749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93716,37.58026,21.93716,37.58026",
+    "geom:latitude":37.58026,
+    "geom:longitude":21.93716,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Kokkoras",
+    "gn:country_code":"GR",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259536,
+    "gn:latitude":37.58026,
+    "gn:longitude":21.93716,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kokkor\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03bf\u03c1\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kokor\u00e1",
+        "Kokkor\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259536
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"417f816df90614383066b81a44541c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242711749,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242711749,
+    "wof:lastmodified":1537624496,
+    "wof:name":"Kokkoras",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93716,
+    37.58026,
+    21.93716,
+    37.58026
+],
+  "geometry": {"coordinates":[21.93716,37.58026],"type":"Point"}
+}

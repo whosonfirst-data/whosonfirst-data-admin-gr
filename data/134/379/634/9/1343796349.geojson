@@ -1,0 +1,73 @@
+{
+  "id": 1343796349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49587,38.04596,23.49587,38.04596",
+    "geom:latitude":38.04596,
+    "geom:longitude":23.49587,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230.0",
+    "gn:asciiname":"Makryammos",
+    "gn:country_code":"GR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036975,
+    "gn:latitude":38.04596,
+    "gn:longitude":23.49587,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makr\u00fdammos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Makr\u00fdammos"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03ba\u03c1\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036975
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"24dd0ec8cb56feec888006d61fd2909e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343796349,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343796349,
+    "wof:lastmodified":1537625104,
+    "wof:name":"Makryammos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49587,
+    38.04596,
+    23.49587,
+    38.04596
+],
+  "geometry": {"coordinates":[23.49587,38.04596],"type":"Point"}
+}

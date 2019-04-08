@@ -1,0 +1,79 @@
+{
+  "id": 1343992985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17784,41.27186,24.17784,41.27186",
+    "geom:latitude":41.27186,
+    "geom:longitude":24.17784,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9002",
+    "gn:asciiname":"Dentrakia",
+    "gn:country_code":"GR",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736462,
+    "gn:latitude":41.27186,
+    "gn:longitude":24.17784,
+    "gn:modification_date":"2018-07-25",
+    "gn:name":"Dentr\u00e1kia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dentr\u00e1kia"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b5\u03bd\u03c4\u03c1\u03ac\u03ba\u03b9\u03b1",
+        "\u0394\u03b5\u03bd\u03b4\u03c1\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Dendhr\u00e1kia",
+        "Kr\u00e1nista",
+        "Dhendr\u00e1kia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736462
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0c5cca14cf946dbf468d4380432d5422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343992985,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343992985,
+    "wof:lastmodified":1537624958,
+    "wof:name":"Dentrakia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17784,
+    41.27186,
+    24.17784,
+    41.27186
+],
+  "geometry": {"coordinates":[24.17784,41.27186],"type":"Point"}
+}

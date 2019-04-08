@@ -1,0 +1,82 @@
+{
+  "id": 1125779639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47194,40.89639,22.47194,40.89639",
+    "geom:latitude":40.89639,
+    "geom:longitude":22.47194,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":304,
+    "gn:population":304,
+    "iso:country":"GR",
+    "lbl:latitude":40.89639,
+    "lbl:longitude":22.47194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a6\u03b9\u03bb\u03c5\u03c1\u03b9\u03ac"
+    ],
+    "name:unk_x_variant":[
+        "Lib\u00e1hovon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736246,
+    "qs_pg:gn_pop":304,
+    "qs_pg:name":"Filyri\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83340,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736246,
+        "qs_pg:id":83340
+    },
+    "wof:country":"GR",
+    "wof:created":1497290412,
+    "wof:geomhash":"69fc350f45859ce9cedeb8cc02eb604a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125779639,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125779639,
+    "wof:lastmodified":1509391477,
+    "wof:name":"Filyri\u00e1",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47194,
+    40.89639,
+    22.47194,
+    40.89639
+],
+  "geometry": {"coordinates":[22.47194,40.89639],"type":"Point"}
+}

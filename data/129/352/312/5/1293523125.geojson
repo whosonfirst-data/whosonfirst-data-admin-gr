@@ -1,0 +1,73 @@
+{
+  "id": 1293523125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00417,37.19043,22.00417,37.19043",
+    "geom:latitude":37.19043,
+    "geom:longitude":22.00417,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Skala",
+    "gn:country_code":"GR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253738,
+    "gn:latitude":37.19043,
+    "gn:longitude":22.00417,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Sk\u00e1la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sk\u00e1la"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253738
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9122823f805bf53b3de6e475492a4d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293523125,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293523125,
+    "wof:lastmodified":1537624234,
+    "wof:name":"Skala",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00417,
+    37.19043,
+    22.00417,
+    37.19043
+],
+  "geometry": {"coordinates":[22.00417,37.19043],"type":"Point"}
+}

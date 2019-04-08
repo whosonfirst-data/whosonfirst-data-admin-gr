@@ -1,0 +1,76 @@
+{
+  "id": 1226378283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35238,40.05055,23.35238,40.05055",
+    "geom:latitude":40.05055,
+    "geom:longitude":23.35238,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Elani",
+    "gn:country_code":"GR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9316907,
+    "gn:latitude":40.05055,
+    "gn:longitude":23.35238,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"El\u00e1ni",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03ac\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Elani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9316907
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d103c00c2a37541288f67b2b3a32771d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226378283,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226378283,
+    "wof:lastmodified":1537625058,
+    "wof:name":"Elani",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35238,
+    40.05055,
+    23.35238,
+    40.05055
+],
+  "geometry": {"coordinates":[23.35238,40.05055],"type":"Point"}
+}

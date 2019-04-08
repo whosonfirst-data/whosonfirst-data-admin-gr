@@ -1,0 +1,106 @@
+{
+  "id": 101849185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.896097,39.402984,21.896097,39.402984",
+    "geom:latitude":39.402984,
+    "geom:longitude":21.896097,
+    "gn:population":1412,
+    "iso:country":"GR",
+    "lbl:latitude":39.402984,
+    "lbl:longitude":21.896097,
+    "mps:latitude":39.402984,
+    "mps:longitude":21.896097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u062a\u064a\u0633\u064a\u0627\u0646\u0648\u0646\u060c \u0643\u0627\u0631\u062f\u064a\u062a\u0633\u0627"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c4\u03b5\u03c3\u03b9\u03b1\u03bd\u03cc\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c4\u03b5\u03c3\u03b9\u03b1\u03bd\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Artesiano"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03c4\u03b5\u03c3\u03b9\u03b1\u03bd\u03cc \u039a\u03b1\u03c1\u03b4\u03af\u03c4\u03c3\u03b1\u03c2"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u0435\u0441\u0438\u0430\u043d\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Artesian\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Pits\u00e1ri"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KARDITSA",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03a1\u03a4\u0395\u03a3\u0399\u0391\u039d\u039f\u039d",
+    "qs:loc_alt":"ARTESIANON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264547,
+        "gp:id":946508,
+        "qs:id":1085669,
+        "wd:id":"Q15077006"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9327785f37387e07237ac6dfaadf3755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849185,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849185,
+    "wof:lastmodified":1544740823,
+    "wof:name":"\u0391\u03a1\u03a4\u0395\u03a3\u0399\u0391\u039d\u039f\u039d",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1412,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.896097,
+    39.402984,
+    21.896097,
+    39.402984
+],
+  "geometry": {"coordinates":[21.896097,39.402984],"type":"Point"}
+}

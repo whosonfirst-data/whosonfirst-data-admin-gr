@@ -1,0 +1,76 @@
+{
+  "id": 1293425723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10833,39.54917,21.10833,39.54917",
+    "geom:latitude":39.54917,
+    "geom:longitude":21.10833,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9080",
+    "gn:asciiname":"Ntounavos",
+    "gn:country_code":"GR",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":445225,
+    "gn:latitude":39.54917,
+    "gn:longitude":21.10833,
+    "gn:modification_date":"2015-02-02",
+    "gn:name":"Nto\u00fanavos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03cd\u03bd\u03b1\u03b2\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ntounavos"
+    ],
+    "name:und_x_variant":[
+        "Do\u00fanavos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445225
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6574b6cdeb1fd302aec4e644f7842eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293425723,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293425723,
+    "wof:lastmodified":1537624800,
+    "wof:name":"Ntounavos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10833,
+    39.54917,
+    21.10833,
+    39.54917
+],
+  "geometry": {"coordinates":[21.10833,39.54917],"type":"Point"}
+}

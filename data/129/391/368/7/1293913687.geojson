@@ -1,0 +1,73 @@
+{
+  "id": 1293913687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99825,37.61801,22.99825,37.61801",
+    "geom:latitude":37.61801,
+    "geom:longitude":22.99825,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Stathaiika",
+    "gn:country_code":"GR",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":253281,
+    "gn:latitude":37.61801,
+    "gn:longitude":22.99825,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Statha\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03b8\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Stathaiika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253281
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4d3e502b9fde85fa7cf29103d80708c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293913687,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293913687,
+    "wof:lastmodified":1537624213,
+    "wof:name":"Stathaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99825,
+    37.61801,
+    22.99825,
+    37.61801
+],
+  "geometry": {"coordinates":[22.99825,37.61801],"type":"Point"}
+}

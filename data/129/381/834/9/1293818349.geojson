@@ -1,0 +1,93 @@
+{
+  "id": 1293818349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76107,37.1029,21.76107,37.1029",
+    "geom:latitude":37.1029,
+    "geom:longitude":21.76107,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Flesias",
+    "gn:country_code":"GR",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262364,
+    "gn:latitude":37.1029,
+    "gn:longitude":21.76107,
+    "gn:modification_date":"2015-09-15",
+    "gn:name":"Flesi\u00e1s",
+    "gn:population":73,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a0\u03b1\u03b9\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf\u03c5"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03b5\u03c3\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bb\u03b5\u03c3\u03b9\u03ac\u03b4\u03b1",
+        "\u03a0\u03b1\u03b9\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Flesias"
+    ],
+    "name:eng_x_variant":[
+        "Flesiada"
+    ],
+    "name:und_x_variant":[
+        "Pedhem\u00e9non",
+        "Flessi\u00e1s",
+        "Pedhem\u00e9nou",
+        "Paidhem\u00e9non",
+        "Flesi\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262364
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"db0b28b69b882bbf6dd8305358135558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293818349,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293818349,
+    "wof:lastmodified":1537624629,
+    "wof:name":"Flesias",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76107,
+    37.1029,
+    21.76107,
+    37.1029
+],
+  "geometry": {"coordinates":[21.76107,37.1029],"type":"Point"}
+}

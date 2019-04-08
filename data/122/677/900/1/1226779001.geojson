@@ -1,0 +1,81 @@
+{
+  "id": 1226779001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74406,37.67523,22.74406,37.67523",
+    "geom:latitude":37.67523,
+    "geom:longitude":22.74406,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Tristrato",
+    "gn:country_code":"GR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252586,
+    "gn:latitude":37.67523,
+    "gn:longitude":22.74406,
+    "gn:modification_date":"2014-07-30",
+    "gn:name":"Tr\u00edstrato",
+    "gn:population":116,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03af\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Tristrato"
+    ],
+    "name:und_x_variant":[
+        "Bardhouv\u00e1",
+        "Vardhouv\u00e1",
+        "Tr\u00edstraton"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252586
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"23ae6a5b529901636dc270a164e333df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226779001,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226779001,
+    "wof:lastmodified":1537624190,
+    "wof:name":"Tristrato",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74406,
+    37.67523,
+    22.74406,
+    37.67523
+],
+  "geometry": {"coordinates":[22.74406,37.67523],"type":"Point"}
+}

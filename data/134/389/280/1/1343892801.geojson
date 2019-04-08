@@ -1,0 +1,75 @@
+{
+  "id": 1343892801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11942,36.66358,27.11942,36.66358",
+    "geom:latitude":36.66358,
+    "geom:longitude":27.11942,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9285",
+    "gn:asciiname":"Gyali",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251364,
+    "gn:latitude":36.66358,
+    "gn:longitude":27.11942,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gyal\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c5\u03b1\u03bb\u03af"
+    ],
+    "name:und_x_variant":[
+        "Parade\u00edsi",
+        "Yial\u00ed",
+        "Gyal\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251364
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f971c46838b0c708b25196dbd9d8b2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343892801,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1343892801,
+    "wof:lastmodified":1537624137,
+    "wof:name":"Gyali",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11942,
+    36.66358,
+    27.11942,
+    36.66358
+],
+  "geometry": {"coordinates":[27.11942,36.66358],"type":"Point"}
+}

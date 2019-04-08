@@ -1,0 +1,99 @@
+{
+  "id": 1125821975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25984,37.03699,25.25984,37.03699",
+    "geom:latitude":37.03699,
+    "geom:longitude":25.25984,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":37.03699,
+    "lbl:longitude":25.25984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Piso Livadi"
+    ],
+    "name:eng_x_preferred":[
+        "Piso Livadi"
+    ],
+    "name:ger_x_preferred":[
+        "Piso Livadi"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03af\u03c3\u03c9 \u039b\u03b9\u03b2\u03ac\u03b4\u03b9 \u03a0\u03ac\u03c1\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6950998,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Piso Livadi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":384,
+    "qs_pg:photos_1k":78,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":384,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1086840,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56024456,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6950998,
+        "gp:id":56024456,
+        "qs_pg:id":1086840,
+        "wd:id":"Q14217951"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292109,
+    "wof:geomhash":"9238b7760bb6518ca2fb8c38c42f49bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125821975,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125821975,
+    "wof:lastmodified":1514444039,
+    "wof:name":"Piso Livadi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25984,
+    37.03699,
+    25.25984,
+    37.03699
+],
+  "geometry": {"coordinates":[25.25984,37.03699],"type":"Point"}
+}

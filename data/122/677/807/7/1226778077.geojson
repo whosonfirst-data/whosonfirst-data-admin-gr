@@ -1,0 +1,76 @@
+{
+  "id": 1226778077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77211,38.09603,20.77211,38.09603",
+    "geom:latitude":38.09603,
+    "geom:longitude":20.77211,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Spathi",
+    "gn:country_code":"GR",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253362,
+    "gn:latitude":38.09603,
+    "gn:longitude":20.77211,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Spath\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Spath\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c0\u03b1\u03b8\u03af"
+    ],
+    "name:und_x_variant":[
+        "Spath\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253362
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3c5a5045c5d2a499260d3033b0ca340d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226778077,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226778077,
+    "wof:lastmodified":1537624216,
+    "wof:name":"Spathi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77211,
+    38.09603,
+    20.77211,
+    38.09603
+],
+  "geometry": {"coordinates":[20.77211,38.09603],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259617675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86232,35.44459,23.86232,35.44459",
+    "geom:latitude":35.44459,
+    "geom:longitude":23.86232,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Skonizo",
+    "gn:country_code":"GR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253584,
+    "gn:latitude":35.44459,
+    "gn:longitude":23.86232,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Skon\u00edzo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Skon\u00edzo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03bf\u03bd\u03af\u03b6\u03bf",
+        "\u03a3\u03ba\u03bf\u03bd\u03af\u03b6\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Skon\u00edzos",
+        "Skon\u00edzon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253584
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3c7a5ae8b851bcf49cf4147126df5f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259617675,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259617675,
+    "wof:lastmodified":1537624227,
+    "wof:name":"Skonizo",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86232,
+    35.44459000000001,
+    23.86232,
+    35.44459000000001
+],
+  "geometry": {"coordinates":[23.86232,35.44459000000001],"type":"Point"}
+}

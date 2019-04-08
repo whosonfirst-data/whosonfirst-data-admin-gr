@@ -1,0 +1,88 @@
+{
+  "id": 1125776329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01667,39.5,22.01667,39.5",
+    "geom:latitude":39.5,
+    "geom:longitude":22.01667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":39.5,
+    "lbl:longitude":22.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c3\u03ba\u03b9\u03bd\u03ac\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Koskin\u00e1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":259237,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Koskinas",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191596,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":954136,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259237,
+        "gp:id":954136,
+        "qs_pg:id":191596
+    },
+    "wof:country":"GR",
+    "wof:created":1497290274,
+    "wof:geomhash":"b13ae46b6457fc69bac955f81ae78221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125776329,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125776329,
+    "wof:lastmodified":1509391296,
+    "wof:name":"Koskinas",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01667,
+    39.5,
+    22.01667,
+    39.5
+],
+  "geometry": {"coordinates":[22.01667,39.5],"type":"Point"}
+}

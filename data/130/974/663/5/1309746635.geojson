@@ -1,0 +1,78 @@
+{
+  "id": 1309746635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17594,38.05056,22.17594,38.05056",
+    "geom:latitude":38.05056,
+    "geom:longitude":22.17594,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Souvardo",
+    "gn:country_code":"GR",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253411,
+    "gn:latitude":38.05056,
+    "gn:longitude":22.17594,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"So\u00favardo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "So\u00favardo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bf\u03cd\u03b2\u03b1\u03c1\u03b4\u03bf",
+        "So\u00favardon",
+        "\u03a3\u03bf\u03cd\u03b2\u03b1\u03c1\u03b4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "So\u00favardhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253411
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"185ab05bc7a74b7ed25030e74224cd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309746635,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309746635,
+    "wof:lastmodified":1537624219,
+    "wof:name":"Souvardo",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17594,
+    38.05056,
+    22.17594,
+    38.05056
+],
+  "geometry": {"coordinates":[22.17594,38.05056],"type":"Point"}
+}

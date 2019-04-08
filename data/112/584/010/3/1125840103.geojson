@@ -1,0 +1,85 @@
+{
+  "id": 1125840103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36528,40.56833,22.36528,40.56833",
+    "geom:latitude":40.56833,
+    "geom:longitude":22.36528,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":792,
+    "gn:population":792,
+    "iso:country":"GR",
+    "lbl:latitude":40.56833,
+    "lbl:longitude":22.36528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c6\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03c6\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Pozar\u00edtai"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735841,
+    "qs_pg:gn_pop":792,
+    "qs_pg:name":"Kefaloch\u00f3rion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83330,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735841,
+        "qs_pg:id":83330
+    },
+    "wof:country":"GR",
+    "wof:created":1497292896,
+    "wof:geomhash":"da8e40d5c424a05afe6ded4bb9d52ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125840103,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125840103,
+    "wof:lastmodified":1509395236,
+    "wof:name":"Kefaloch\u00f3rion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":792,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36528,
+    40.56833,
+    22.36528,
+    40.56833
+],
+  "geometry": {"coordinates":[22.36528,40.56833],"type":"Point"}
+}

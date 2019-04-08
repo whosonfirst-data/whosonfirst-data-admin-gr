@@ -1,0 +1,119 @@
+{
+  "id": 1126041891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.875,39.67889,20.875,39.67889",
+    "geom:latitude":39.67889,
+    "geom:longitude":20.875,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":348,
+    "gn:population":219,
+    "iso:country":"GR",
+    "lbl:latitude":39.67889,
+    "lbl:longitude":20.875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ioannina Island"
+    ],
+    "name:ell_x_colloquial":[
+        "\u039d\u03b7\u03c3\u03af"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b7\u03c3\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Nisos Ioanninon"
+    ],
+    "name:fin_x_preferred":[
+        "Io\u00e1nnina-saari"
+    ],
+    "name:fre_x_preferred":[
+        "\u00cele de Ioannina"
+    ],
+    "name:ger_x_preferred":[
+        "Ioannina-Insel"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b7\u03c3\u03af \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Isola di Giannina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30a2\u30cb\u30ca\u5cf6"
+    ],
+    "name:nno_x_preferred":[
+        "Io\u00e1nnina \u00f8y"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00edsos Ioann\u00ednon"
+    ],
+    "name:unk_x_variant":[
+        "Nis\u00ed"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256373,
+    "qs_pg:gn_pop":348,
+    "qs_pg:name":"N\u00edsos Ioann\u00ednon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546550,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256373,
+        "qs_pg:id":546550,
+        "wd:id":"Q1455063"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302204,
+    "wof:geomhash":"3ec8f9ba0fe8083eb4a6801d26704050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126041891,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126041891,
+    "wof:lastmodified":1514444022,
+    "wof:name":"N\u00edsos Ioann\u00ednon",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.875,
+    39.67889,
+    20.875,
+    39.67889
+],
+  "geometry": {"coordinates":[20.875,39.67889],"type":"Point"}
+}

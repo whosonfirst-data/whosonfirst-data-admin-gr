@@ -1,0 +1,81 @@
+{
+  "id": 1343292695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96361,36.19365,22.96361,36.19365",
+    "geom:latitude":36.19365,
+    "geom:longitude":22.96361,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Kalisperianika",
+    "gn:country_code":"GR",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261500,
+    "gn:latitude":36.19365,
+    "gn:longitude":22.96361,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Kalisperi\u00e1nika",
+    "gn:population":30,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b7\u03c3\u03c0\u03b5\u03c1\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kalisperianika"
+    ],
+    "name:und_x_variant":[
+        "Kalisperyi\u00e1nnika",
+        "Kalisperyi\u00e1nika",
+        "Kalisperi\u00e1nika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261500
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"07561181dbe16ac5e047ad76b3d13072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343292695,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343292695,
+    "wof:lastmodified":1537624595,
+    "wof:name":"Kalisperianika",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96361,
+    36.19365,
+    22.96361,
+    36.19365
+],
+  "geometry": {"coordinates":[22.96361,36.19365],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260215269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82149,35.46291,23.82149,35.46291",
+    "geom:latitude":35.46291,
+    "geom:longitude":23.82149,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Malamadiana",
+    "gn:country_code":"GR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427195,
+    "gn:latitude":35.46291,
+    "gn:longitude":23.82149,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Malamadian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Malamadian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bb\u03b1\u03bc\u03b1\u03b4\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427195
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"efa973d81e9d16864911edb68349940e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260215269,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260215269,
+    "wof:lastmodified":1537625007,
+    "wof:name":"Malamadiana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82149,
+    35.46291,
+    23.82149,
+    35.46291
+],
+  "geometry": {"coordinates":[23.82149,35.46291],"type":"Point"}
+}

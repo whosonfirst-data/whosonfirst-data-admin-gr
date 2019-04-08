@@ -1,0 +1,142 @@
+{
+  "id": 101849143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.337663,38.164573,23.337663,38.164573",
+    "geom:latitude":38.164573,
+    "geom:longitude":23.337663,
+    "gn:population":1269,
+    "iso:country":"GR",
+    "lbl:latitude":38.164573,
+    "lbl:longitude":23.337663,
+    "mps:latitude":38.164573,
+    "mps:longitude":23.337663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043b\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Vilia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Villia"
+    ],
+    "name:eng_x_variant":[
+        "Vilia"
+    ],
+    "name:fin_x_preferred":[
+        "V\u00edlia"
+    ],
+    "name:fre_x_preferred":[
+        "Vilia"
+    ],
+    "name:ger_x_preferred":[
+        "Vilia"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03af\u03bb\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Vilia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30ea\u30a2"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00edlia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Vilia"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00edlia"
+    ],
+    "name:unk_x_variant":[
+        "Villia"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
+    "qs:a1_alt":"ATTIKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"DYTIKH ATTIKH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0392\u0399\u039b\u0399\u0391",
+    "qs:loc_alt":"BILIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.1667,
+    "wd:longitude":23.3333,
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1148bdfa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":251959,
+        "gp:id":964569,
+        "qs:id":883915,
+        "qs_pg:id":883915,
+        "wd:id":"Q2275334",
+        "wk:page":"Vilia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9f638145a9fa419426466356733984cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849143,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":101849143,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740801,
+    "wof:name":"\u0392\u0399\u039b\u0399\u0391",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":1269,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.337663,
+    38.164573,
+    23.337663,
+    38.164573
+],
+  "geometry": {"coordinates":[23.337663,38.164573],"type":"Point"}
+}

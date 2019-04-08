@@ -1,0 +1,74 @@
+{
+  "id": 1243393817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92243,41.09763,24.92243,41.09763",
+    "geom:latitude":41.09763,
+    "geom:longitude":24.92243,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9015",
+    "gn:asciiname":"Feloni",
+    "gn:country_code":"GR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736263,
+    "gn:latitude":41.09763,
+    "gn:longitude":24.92243,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Fel\u00f3ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03bb\u03ce\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Monafakl\u00ed",
+        "Fel\u00f3ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736263
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7bd1a1e338cc11fb9adb4950c1564268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243393817,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243393817,
+    "wof:lastmodified":1537624947,
+    "wof:name":"Feloni",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92243,
+    41.09763,
+    24.92243,
+    41.09763
+],
+  "geometry": {"coordinates":[24.92243,41.09763],"type":"Point"}
+}

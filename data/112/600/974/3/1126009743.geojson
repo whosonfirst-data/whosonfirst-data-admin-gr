@@ -1,0 +1,99 @@
+{
+  "id": 1126009743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59784,35.47165,23.59784,35.47165",
+    "geom:latitude":35.47165,
+    "geom:longitude":23.59784,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1077,
+    "gn:population":975,
+    "iso:country":"GR",
+    "lbl:latitude":35.47165,
+    "lbl:longitude":23.59784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Platanos"
+    ],
+    "name:unk_x_variant":[
+        "Pl\u00e1tanos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255036,
+    "qs_pg:gn_pop":1077,
+    "qs_pg:name":"Platanos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":123782,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":960266,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255036,
+        "gp:id":960266,
+        "qs_pg:id":123782
+    },
+    "wof:country":"GR",
+    "wof:created":1497300194,
+    "wof:geomhash":"3529ab09475370a4326c803219e085d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126009743,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1126009743,
+    "wof:lastmodified":1509406600,
+    "wof:name":"Platanos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":975,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59784,
+    35.47165,
+    23.59784,
+    35.47165
+],
+  "geometry": {"coordinates":[23.59784,35.47165],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243491231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37049,40.20342,21.37049,40.20342",
+    "geom:latitude":40.20342,
+    "geom:longitude":21.37049,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Klimataki",
+    "gn:country_code":"GR",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735691,
+    "gn:latitude":40.20342,
+    "gn:longitude":21.37049,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Klimat\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03b7\u03bc\u03b1\u03c4\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bb\u03b7\u03bc\u03b1\u03c4\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Dovro\u00fanista",
+        "Klimat\u00e1ki",
+        "Klimat\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735691,
+        "wk:page":"Klimataki"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2592b3f8014a66c961d83df987568bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243491231,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1243491231,
+    "wof:lastmodified":1537624918,
+    "wof:name":"Klimataki",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37049,
+    40.20342,
+    21.37049,
+    40.20342
+],
+  "geometry": {"coordinates":[21.37049,40.20342],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226074043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38168,36.5175,22.38168,36.5175",
+    "geom:latitude":36.5175,
+    "geom:longitude":22.38168,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Psion",
+    "gn:country_code":"GR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254458,
+    "gn:latitude":36.5175,
+    "gn:longitude":22.38168,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Ps\u00edon",
+    "gn:population":9,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a8\u03af\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a8\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Psio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254458
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6d49116b1bc8a7150139cb33873d0022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226074043,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226074043,
+    "wof:lastmodified":1537624269,
+    "wof:name":"Psion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38168,
+    36.5175,
+    22.38168,
+    36.5175
+],
+  "geometry": {"coordinates":[22.38168,36.5175],"type":"Point"}
+}

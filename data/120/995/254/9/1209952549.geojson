@@ -1,0 +1,76 @@
+{
+  "id": 1209952549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78794,38.25847,21.78794,38.25847",
+    "geom:latitude":38.25847,
+    "geom:longitude":21.78794,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134",
+    "gn:asciiname":"Skioessa",
+    "gn:country_code":"GR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253617,
+    "gn:latitude":38.25847,
+    "gn:longitude":21.78794,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ski\u00f3essa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b9\u03cc\u03b5\u03c3\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Voud\u00e9ni",
+        "Voundeni",
+        "Ski\u00f3essa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253617,
+        "wk:page":"Skioessa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"350350a5b02114393999328f0edac6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209952549,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209952549,
+    "wof:lastmodified":1537624229,
+    "wof:name":"Skioessa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78794,
+    38.25847,
+    21.78794,
+    38.25847
+],
+  "geometry": {"coordinates":[21.78794,38.25847],"type":"Point"}
+}

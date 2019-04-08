@@ -1,0 +1,69 @@
+{
+  "id": 1209449359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81583,38.42011,22.81583,38.42011",
+    "geom:latitude":38.42011,
+    "geom:longitude":22.81583,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9145",
+    "gn:asciiname":"Kalomoiraiika",
+    "gn:country_code":"GR",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261372,
+    "gn:latitude":38.42011,
+    "gn:longitude":22.81583,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kalomoira\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kalomoira\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03bf\u03bc\u03bf\u03b9\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261372
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d23dc9e1fd52502c77d87520bea13cf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209449359
+        }
+    ],
+    "wof:id":1209449359,
+    "wof:lastmodified":1537624586,
+    "wof:name":"Kalomoiraiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81583,
+    38.42011,
+    22.81583,
+    38.42011
+],
+  "geometry": {"coordinates":[22.81583,38.42011],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209446537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90514,37.41661,24.90514,37.41661",
+    "geom:latitude":37.41661,
+    "geom:longitude":24.90514,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Pagos",
+    "gn:country_code":"GR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256198,
+    "gn:latitude":37.41661,
+    "gn:longitude":24.90514,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"P\u00e1gos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03b3\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "B\u00e1os",
+        "P\u00e1gos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256198
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"561b8dd8cc76bacf0fd0ff7c7c166f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209446537
+        }
+    ],
+    "wof:id":1209446537,
+    "wof:lastmodified":1537624344,
+    "wof:name":"Pagos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90514,
+    37.41661,
+    24.90514,
+    37.41661
+],
+  "geometry": {"coordinates":[24.90514,37.41661],"type":"Point"}
+}

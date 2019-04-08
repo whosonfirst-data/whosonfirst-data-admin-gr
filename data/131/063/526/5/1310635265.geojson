@@ -1,0 +1,89 @@
+{
+  "id": 1310635265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97284,40.94147,21.97284,40.94147",
+    "geom:latitude":40.94147,
+    "geom:longitude":21.97284,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9042",
+    "gn:asciiname":"Megaplatanos",
+    "gn:country_code":"GR",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735247,
+    "gn:latitude":40.94147,
+    "gn:longitude":21.97284,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Megapl\u00e1tanos",
+    "gn:population":378,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039c\u03c0\u03af\u03b6\u03bf\u03b2\u03bf",
+        "\u039c\u03c0\u03af\u03b6\u03bf\u03b2\u03bf\u03bd"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b3\u03b1\u03c0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03af\u03b6\u03bf\u03b2\u03bf",
+        "\u039c\u03c0\u03af\u03b6\u03bf\u03b2\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Megaplatanos"
+    ],
+    "name:und_x_variant":[
+        "B\u00edzovon",
+        "Megapl\u00e1tanon",
+        "Megapl\u00e1tanos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735247
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c8321ee4ad9af83238a2b3025eff9535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310635265,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310635265,
+    "wof:lastmodified":1537624890,
+    "wof:name":"Megaplatanos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97284,
+    40.94147,
+    21.97284,
+    40.94147
+],
+  "geometry": {"coordinates":[21.97284,40.94147],"type":"Point"}
+}

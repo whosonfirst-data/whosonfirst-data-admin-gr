@@ -1,0 +1,80 @@
+{
+  "id": 1226078909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28902,35.88159,23.28902,35.88159",
+    "geom:latitude":35.88159,
+    "geom:longitude":23.28902,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Potamos Antikythiron",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254813,
+    "gn:latitude":35.88159,
+    "gn:longitude":23.28902,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Potam\u00f3s Antikyth\u00edron",
+    "gn:population":34,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u0391\u03bd\u03c4\u03b9\u03ba\u03c5\u03b8\u03ae\u03c1\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Potam\u00f3s",
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Potamos Antikythiron"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254813
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e9f2cd6b6611f2e8297d280ec2593831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226078909,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226078909,
+    "wof:lastmodified":1537624280,
+    "wof:name":"Potamos Antikythiron",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28902,
+    35.88159,
+    23.28902,
+    35.88159
+],
+  "geometry": {"coordinates":[23.28902,35.88159],"type":"Point"}
+}

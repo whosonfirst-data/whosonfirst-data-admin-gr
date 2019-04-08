@@ -1,0 +1,71 @@
+{
+  "id": 1360121291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14813,38.06662,23.14813,38.06662",
+    "geom:latitude":38.06662,
+    "geom:longitude":23.14813,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9231.0",
+    "gn:asciiname":"Pefkogiali",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039537,
+    "gn:latitude":38.06662,
+    "gn:longitude":23.14813,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pefkogi\u00e1li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pefkogi\u00e1li"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c5\u03ba\u03bf\u03b3\u03b9\u03ac\u03bb\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039537
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"69374ed804e962ee4886bd45de1f1d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1360121291,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360121291,
+    "wof:lastmodified":1537625106,
+    "wof:name":"Pefkogiali",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14813,
+    38.06662,
+    23.14813,
+    38.06662
+],
+  "geometry": {"coordinates":[23.14813,38.06662],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226079197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88138,35.35204,24.88138,35.35204",
+    "geom:latitude":35.35204,
+    "geom:longitude":24.88138,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Chani Aloidon",
+    "gn:country_code":"GR",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559769,
+    "gn:latitude":35.35204,
+    "gn:longitude":24.88138,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ch\u00e1ni Al\u00f3idon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ch\u00e1ni Al\u00f3idon"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03bd\u03b9 \u0391\u03bb\u03cc\u03b9\u03b4\u03c9\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559769
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"492e47c3dfd261017e354cb193408073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226079197,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226079197,
+    "wof:lastmodified":1537625021,
+    "wof:name":"Chani Aloidon",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88138,
+    35.35204,
+    24.88138,
+    35.35204
+],
+  "geometry": {"coordinates":[24.88138,35.35204],"type":"Point"}
+}

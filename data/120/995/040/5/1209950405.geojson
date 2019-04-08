@@ -1,0 +1,79 @@
+{
+  "id": 1209950405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43573,37.45882,22.43573,37.45882",
+    "geom:latitude":37.45882,
+    "geom:longitude":22.43573,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Stadio",
+    "gn:country_code":"GR",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253313,
+    "gn:latitude":37.45882,
+    "gn:longitude":22.43573,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"St\u00e1dio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "St\u00e1dio"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03ac\u03b4\u03b9\u03bf",
+        "St\u00e1dion",
+        "\u03a3\u03c4\u03ac\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Akho\u00faria",
+        "St\u00e1dhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253313
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e87be68c50a317e84c1d9431dd52870b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209950405,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209950405,
+    "wof:lastmodified":1537624215,
+    "wof:name":"Stadio",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43573,
+    37.45882,
+    22.43573,
+    37.45882
+],
+  "geometry": {"coordinates":[22.43573,37.45882],"type":"Point"}
+}

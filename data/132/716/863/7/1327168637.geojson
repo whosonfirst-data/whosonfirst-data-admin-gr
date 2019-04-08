@@ -1,0 +1,76 @@
+{
+  "id": 1327168637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80261,39.53393,20.80261,39.53393",
+    "geom:latitude":39.53393,
+    "geom:longitude":20.80261,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Agia Triada Melingon",
+    "gn:country_code":"GR",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973047,
+    "gn:latitude":39.53393,
+    "gn:longitude":20.80261,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"Ag\u00eda Tri\u00e1da Meling\u00f3n",
+    "gn:population":50,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a4\u03c1\u03b9\u03ac\u03b4\u03b1 \u039c\u03b5\u03bb\u03b9\u03b3\u03b3\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Triada Melingon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973047
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1839ccc061f0ea8f60b1cc658c012bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327168637,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1327168637,
+    "wof:lastmodified":1537625079,
+    "wof:name":"Agia Triada Melingon",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80261,
+    39.53393,
+    20.80261,
+    39.53393
+],
+  "geometry": {"coordinates":[20.80261,39.53393],"type":"Point"}
+}

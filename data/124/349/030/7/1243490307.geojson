@@ -1,0 +1,83 @@
+{
+  "id": 1243490307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52029,38.7385,21.52029,38.7385",
+    "geom:latitude":38.7385,
+    "geom:longitude":21.52029,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Kerasea",
+    "gn:country_code":"GR",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260231,
+    "gn:latitude":38.7385,
+    "gn:longitude":21.52029,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Keras\u00e9a",
+    "gn:population":81,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03b1\u03c3\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03c1\u03b1\u03c3\u03ad\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kerasia"
+    ],
+    "name:und_x_variant":[
+        "Kerasi\u00e1",
+        "Keras\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260231
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"06d9900f8959bbcaa17e926d85ed7fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243490307,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243490307,
+    "wof:lastmodified":1537624530,
+    "wof:name":"Kerasea",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52029,
+    38.7385,
+    21.52029,
+    38.7385
+],
+  "geometry": {"coordinates":[21.52029,38.7385],"type":"Point"}
+}

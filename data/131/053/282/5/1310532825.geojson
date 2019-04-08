@@ -1,0 +1,79 @@
+{
+  "id": 1310532825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81261,37.5305,21.81261,37.5305",
+    "geom:latitude":37.5305,
+    "geom:longitude":21.81261,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Livadaki",
+    "gn:country_code":"GR",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258213,
+    "gn:latitude":37.5305,
+    "gn:longitude":21.81261,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Livad\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Livad\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b2\u03b1\u03b4\u03ac\u03ba\u03b9",
+        "Livad\u00e1kion",
+        "\u039b\u03b9\u03b2\u03b1\u03b4\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "N\u00edvitsa",
+        "Livadh\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258213
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"38caf27e1e0b83384193469480beaec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310532825,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310532825,
+    "wof:lastmodified":1537624437,
+    "wof:name":"Livadaki",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81261,
+    37.5305,
+    21.81261,
+    37.5305
+],
+  "geometry": {"coordinates":[21.81261,37.5305],"type":"Point"}
+}

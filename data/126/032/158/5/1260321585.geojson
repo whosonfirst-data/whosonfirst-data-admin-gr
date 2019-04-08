@@ -1,0 +1,76 @@
+{
+  "id": 1260321585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39734,38.11953,22.39734,38.11953",
+    "geom:latitude":38.11953,
+    "geom:longitude":22.39734,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Rozena",
+    "gn:country_code":"GR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254160,
+    "gn:latitude":38.11953,
+    "gn:longitude":22.39734,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Rozen\u00e1",
+    "gn:population":517,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b6\u03b5\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Rozena"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254160
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"39563fa4915f7fcb0e73365d51caf5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260321585,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260321585,
+    "wof:lastmodified":1537624254,
+    "wof:name":"Rozena",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":517,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39734,
+    38.11953,
+    22.39734,
+    38.11953
+],
+  "geometry": {"coordinates":[22.39734,38.11953],"type":"Point"}
+}

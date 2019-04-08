@@ -1,0 +1,70 @@
+{
+  "id": 1310235981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36667,38.78333,22.36667,38.78333",
+    "geom:latitude":38.78333,
+    "geom:longitude":22.36667,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Ano Dhio Vouna",
+    "gn:country_code":"GR",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":264950,
+    "gn:latitude":38.78333,
+    "gn:longitude":22.36667,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"\u00c1no Dh\u00edo Voun\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0394\u03cd\u03bf \u0392\u03bf\u03c5\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264950
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"df38a799a703fcc7284ff43b41971fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310235981,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1310235981,
+    "wof:lastmodified":1537551033,
+    "wof:name":"Ano Dhio Vouna",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36667000000001,
+    38.78333,
+    22.36667000000001,
+    38.78333
+],
+  "geometry": {"coordinates":[22.36667000000001,38.78333],"type":"Point"}
+}

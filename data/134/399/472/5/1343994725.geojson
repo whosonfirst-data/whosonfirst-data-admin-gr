@@ -1,0 +1,76 @@
+{
+  "id": 1343994725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45764,38.70415,22.45764,38.70415",
+    "geom:latitude":38.70415,
+    "geom:longitude":22.45764,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9158",
+    "gn:asciiname":"Stathmos Mpralou",
+    "gn:country_code":"GR",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535025,
+    "gn:latitude":38.70415,
+    "gn:longitude":22.45764,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Stathm\u00f3s Mpr\u00e1lou",
+    "gn:population":84,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2 \u039c\u03c0\u03c1\u03ac\u03bb\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Stathmos Mpralou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535025
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"644f5f35ef2fda6d5492aa2a7e816bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343994725,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343994725,
+    "wof:lastmodified":1537625071,
+    "wof:name":"Stathmos Mpralou",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45764,
+    38.70415,
+    22.45764,
+    38.70415
+],
+  "geometry": {"coordinates":[22.45764,38.70415],"type":"Point"}
+}

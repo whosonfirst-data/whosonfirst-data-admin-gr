@@ -1,0 +1,82 @@
+{
+  "id": 1260217603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6538,38.74498,21.6538,38.74498",
+    "geom:latitude":38.74498,
+    "geom:longitude":21.6538,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Prousos",
+    "gn:country_code":"GR",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254553,
+    "gn:latitude":38.74498,
+    "gn:longitude":21.6538,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Prous\u00f3s",
+    "gn:population":125,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03bf\u03c5\u03c3\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Prousos"
+    ],
+    "name:und_x_variant":[
+        "Prouss\u00f3s",
+        "Pruso",
+        "Prous\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254553,
+        "wk:page":"Prousos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8c7943245b15f7fad4aa05bf04cd439e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260217603,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1260217603,
+    "wof:lastmodified":1537624272,
+    "wof:name":"Prousos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6538,
+    38.74498,
+    21.6538,
+    38.74498
+],
+  "geometry": {"coordinates":[21.6538,38.74498],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1242714315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59456,35.36409,23.59456,35.36409",
+    "geom:latitude":35.36409,
+    "geom:longitude":23.59456,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Theodoriana",
+    "gn:country_code":"GR",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473013,
+    "gn:latitude":35.36409,
+    "gn:longitude":23.59456,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Theodorian\u00e1",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Theodoriana"
+    ],
+    "name:und_x_variant":[
+        "Theodorian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473013
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0c8f8c78bbdf254ac6a207bb135f5a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242714315,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242714315,
+    "wof:lastmodified":1537625009,
+    "wof:name":"Theodoriana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59456,
+    35.36409000000001,
+    23.59456,
+    35.36409000000001
+],
+  "geometry": {"coordinates":[23.59456,35.36409000000001],"type":"Point"}
+}

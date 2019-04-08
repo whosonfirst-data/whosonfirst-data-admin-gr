@@ -1,0 +1,81 @@
+{
+  "id": 1292941999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42904,40.45504,21.42904,40.45504",
+    "geom:latitude":40.45504,
+    "geom:longitude":21.42904,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9065",
+    "gn:asciiname":"Germas",
+    "gn:country_code":"GR",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733783,
+    "gn:latitude":40.45504,
+    "gn:longitude":21.42904,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"G\u00e9rmas",
+    "gn:population":560,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ad\u03c1\u03bc\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Germas"
+    ],
+    "name:und_x_variant":[
+        "L\u00f3snitsa",
+        "Y\u00e9rmas",
+        "G\u00e9rmas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733783
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"474ce64ec7ea53842fa21c9704100263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292941999,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1292941999,
+    "wof:lastmodified":1537624807,
+    "wof:name":"Germas",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":560,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42904,
+    40.45504,
+    21.42904,
+    40.45504
+],
+  "geometry": {"coordinates":[21.42904,40.45504],"type":"Point"}
+}

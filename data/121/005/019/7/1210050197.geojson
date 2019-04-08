@@ -1,0 +1,73 @@
+{
+  "id": 1210050197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86506,38.00068,23.86506,38.00068",
+    "geom:latitude":38.00068,
+    "geom:longitude":23.86506,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9223.0",
+    "gn:asciiname":"Ano Balana",
+    "gn:country_code":"GR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020064,
+    "gn:latitude":38.00068,
+    "gn:longitude":23.86506,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1no Bal\u00e1na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Bal\u00e1na"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u039c\u03c0\u03b1\u03bb\u03ac\u03bd\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020064
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"73e0f36d5acf4d90fdc0ea683178ff20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210050197,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1210050197,
+    "wof:lastmodified":1537625102,
+    "wof:name":"Ano Balana",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86506,
+    38.00068,
+    23.86506,
+    38.00068
+],
+  "geometry": {"coordinates":[23.86506,38.00068],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1259720345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54356,36.69432,24.54356,36.69432",
+    "geom:latitude":36.69432,
+    "geom:longitude":24.54356,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9287",
+    "gn:asciiname":"Thiorikhia Milou",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":252921,
+    "gn:latitude":36.69432,
+    "gn:longitude":24.54356,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Thiorikh\u00eda M\u00edlou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_colloquial":[
+        "\u0398\u03b5\u03b9\u03c9\u03c1\u03c5\u03c7\u03b5\u03af\u03b1"
+    ],
+    "name:ell_x_historical":[
+        "\u0398\u03b5\u03b9\u03bf\u03c1\u03c5\u03c7\u03b5\u03af\u03b1",
+        "\u0398\u03b5\u03b9\u03c9\u03c1\u03c5\u03c7\u03b5\u03af\u03b1",
+        "\u0398\u03b5\u03b9\u03c9\u03c1\u03c5\u03c7\u03b5\u03af\u03b1 \u039c\u03ae\u03bb\u03bf\u03c5"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03b9\u03c9\u03c1\u03c5\u03c7\u03b5\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03b5\u03b9\u03bf\u03c1\u03c5\u03c7\u03b5\u03af\u03b1",
+        "\u0398\u03b5\u03b9\u03c9\u03c1\u03c5\u03c7\u03b5\u03af\u03b1 \u039c\u03ae\u03bb\u03bf\u03c5",
+        "\u0398\u03b5\u03b9\u03c9\u03c1\u03c5\u03c7\u03b5\u03af\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Theiorycheia"
+    ],
+    "name:eng_x_variant":[
+        "Theiorycheio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252921
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d2500edf03ee89df600a2f51045c358d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259720345,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1259720345,
+    "wof:lastmodified":1537624200,
+    "wof:name":"Thiorikhia Milou",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54356,
+    36.69432000000001,
+    24.54356,
+    36.69432000000001
+],
+  "geometry": {"coordinates":[24.54356,36.69432000000001],"type":"Point"}
+}

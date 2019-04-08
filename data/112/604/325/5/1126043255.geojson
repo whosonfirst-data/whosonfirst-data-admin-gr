@@ -1,0 +1,95 @@
+{
+  "id": 1126043255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94083,39.52,20.94083,39.52",
+    "geom:latitude":39.52,
+    "geom:longitude":20.94083,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":72,
+    "gn:population":49,
+    "iso:country":"GR",
+    "lbl:latitude":39.52,
+    "lbl:longitude":20.94083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u039a\u03bf\u03c4\u03cc\u03c1\u03c4\u03c3\u03b9",
+        "\u039a\u03bf\u03c4\u03bf\u03c1\u03cc\u03c3\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "Aetor\u00e1chi"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b5\u03c4\u03bf\u03c1\u03ac\u03c7\u03b7",
+        "\u0391\u03b5\u03c4\u03bf\u03c1\u03c1\u03ac\u03c7\u03b7",
+        "\u039a\u03bf\u03c4\u03cc\u03c1\u03c4\u03c3\u03b9",
+        "\u039a\u03bf\u03c4\u03bf\u03c1\u03cc\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Aetorrachi"
+    ],
+    "name:unk_x_variant":[
+        "A\u00ebtorr\u00e1khi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":265680,
+    "qs_pg:gn_pop":72,
+    "qs_pg:name":"A\u00ebtorr\u00e1chi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546965,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265680,
+        "qs_pg:id":546965
+    },
+    "wof:country":"GR",
+    "wof:created":1497302282,
+    "wof:geomhash":"f090c79104e3b381540b9c413b57eb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126043255,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126043255,
+    "wof:lastmodified":1509408682,
+    "wof:name":"A\u00ebtorr\u00e1chi",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94083,
+    39.52,
+    20.94083,
+    39.52
+],
+  "geometry": {"coordinates":[20.94083,39.52],"type":"Point"}
+}

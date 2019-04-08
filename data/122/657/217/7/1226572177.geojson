@@ -1,0 +1,77 @@
+{
+  "id": 1226572177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58445,35.00413,25.58445,35.00413",
+    "geom:latitude":35.00413,
+    "geom:longitude":25.58445,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Mirtos",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256897,
+    "gn:latitude":35.00413,
+    "gn:longitude":25.58445,
+    "gn:modification_date":"2014-11-22",
+    "gn:name":"M\u00edrtos",
+    "gn:population":441,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03cd\u03c1\u03c4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Mirtos"
+    ],
+    "name:und_x_variant":[
+        "Myrto",
+        "M\u00edrtos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256897,
+        "wk:page":"Myrtos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ca61493664931dac63a1161e0158ccf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226572177,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226572177,
+    "wof:lastmodified":1537624375,
+    "wof:name":"Mirtos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":441,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58445,
+    35.00413,
+    25.58445,
+    35.00413
+],
+  "geometry": {"coordinates":[25.58445,35.00413],"type":"Point"}
+}

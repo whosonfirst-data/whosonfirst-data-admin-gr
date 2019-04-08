@@ -1,0 +1,76 @@
+{
+  "id": 1242907213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76224,35.46091,23.76224,35.46091",
+    "geom:latitude":35.46091,
+    "geom:longitude":23.76224,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Kares Kissamou",
+    "gn:country_code":"GR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260977,
+    "gn:latitude":35.46091,
+    "gn:longitude":23.76224,
+    "gn:modification_date":"2015-11-18",
+    "gn:name":"Kar\u00e9s Kiss\u00e1mou",
+    "gn:population":58,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03ad\u03c2 \u039a\u03b9\u03c3\u03c3\u03ac\u03bc\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Kares Kissamou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260977
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6a8cee2ee0855eff3acb39efa7c06bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242907213,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242907213,
+    "wof:lastmodified":1537624568,
+    "wof:name":"Kares Kissamou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76224,
+    35.46091,
+    23.76224,
+    35.46091
+],
+  "geometry": {"coordinates":[23.76224,35.46091],"type":"Point"}
+}

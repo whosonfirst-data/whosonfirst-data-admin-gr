@@ -1,0 +1,77 @@
+{
+  "id": 1226081667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49339,39.30958,22.49339,39.30958",
+    "geom:latitude":39.30958,
+    "geom:longitude":22.49339,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9103",
+    "gn:asciiname":"Ampelia",
+    "gn:country_code":"GR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265224,
+    "gn:latitude":39.30958,
+    "gn:longitude":22.49339,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ampeli\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ampeli\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03b5\u03bb\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Derekl\u00ed",
+        "Ambel\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265224
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"27bf461bed71000e874cb072969ac8fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226081667,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1226081667,
+    "wof:lastmodified":1537624767,
+    "wof:name":"Ampelia",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49339,
+    39.30958,
+    22.49339,
+    39.30958
+],
+  "geometry": {"coordinates":[22.49339,39.30958],"type":"Point"}
+}

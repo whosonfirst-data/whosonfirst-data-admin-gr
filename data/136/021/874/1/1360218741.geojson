@@ -1,0 +1,79 @@
+{
+  "id": 1360218741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25636,40.40623,21.25636,40.40623",
+    "geom:latitude":40.40623,
+    "geom:longitude":21.25636,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9065",
+    "gn:asciiname":"Asprokklisia",
+    "gn:country_code":"GR",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736705,
+    "gn:latitude":40.40623,
+    "gn:longitude":21.25636,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Asprokklisi\u00e1",
+    "gn:population":358,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c0\u03c1\u03bf\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Asprokklisia"
+    ],
+    "name:und_x_variant":[
+        "Asprokklisi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736705
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"10dd5c47dca840c83c0a04e0ef07b15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360218741,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1360218741,
+    "wof:lastmodified":1537624971,
+    "wof:name":"Asprokklisia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":358,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25636,
+    40.40623,
+    21.25636,
+    40.40623
+],
+  "geometry": {"coordinates":[21.25636,40.40623],"type":"Point"}
+}

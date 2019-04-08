@@ -1,0 +1,74 @@
+{
+  "id": 1276374003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00416,37.7293,27.00416,37.7293",
+    "geom:latitude":37.7293,
+    "geom:longitude":27.00416,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Argyros",
+    "gn:country_code":"GR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383240,
+    "gn:latitude":37.7293,
+    "gn:longitude":27.00416,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Argyr\u00f3s",
+    "gn:population":45,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b3\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Argyros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383240
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6a74b33bea03b02f6ac2cb90d2eaf2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276374003,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276374003,
+    "wof:lastmodified":1537625062,
+    "wof:name":"Argyros",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00416,
+    37.7293,
+    27.00416,
+    37.7293
+],
+  "geometry": {"coordinates":[27.00416,37.7293],"type":"Point"}
+}

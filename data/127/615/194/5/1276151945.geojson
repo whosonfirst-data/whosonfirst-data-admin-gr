@@ -1,0 +1,80 @@
+{
+  "id": 1276151945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.70011,35.33393,25.70011,35.33393",
+    "geom:latitude":35.33393,
+    "geom:longitude":25.70011,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Vlichadia",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605596,
+    "gn:latitude":35.33393,
+    "gn:longitude":25.70011,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Vlich\u00e1dia",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03b9\u03c7\u03ac\u03b4\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Vlych\u00e1dia",
+        "\u0392\u03bb\u03c5\u03c7\u03ac\u03b4\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vlichadia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605596
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0457e3ab3db3ef8e8dae88fa62c3ca42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276151945,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276151945,
+    "wof:lastmodified":1537625026,
+    "wof:name":"Vlichadia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.70011,
+    35.33393,
+    25.70011,
+    35.33393
+],
+  "geometry": {"coordinates":[25.70011,35.33393],"type":"Point"}
+}

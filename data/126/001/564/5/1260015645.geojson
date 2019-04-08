@@ -1,0 +1,74 @@
+{
+  "id": 1260015645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58847,38.05306,21.58847,38.05306",
+    "geom:latitude":38.05306,
+    "geom:longitude":21.58847,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Rovianitis",
+    "gn:country_code":"GR",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254169,
+    "gn:latitude":38.05306,
+    "gn:longitude":21.58847,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Rovian\u00edtis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b2\u03b9\u03b1\u03bd\u03af\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Rouvan\u00edtis",
+        "Rovian\u00edtis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254169
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a8c9cd2fc506b5ba70205186f6aa4a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260015645,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1260015645,
+    "wof:lastmodified":1537624254,
+    "wof:name":"Rovianitis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58847,
+    38.05306,
+    21.58847,
+    38.05306
+],
+  "geometry": {"coordinates":[21.58847,38.05306],"type":"Point"}
+}

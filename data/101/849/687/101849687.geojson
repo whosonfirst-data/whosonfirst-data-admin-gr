@@ -1,0 +1,118 @@
+{
+  "id": 101849687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.530329,37.932579,23.530329,37.932579",
+    "geom:latitude":37.932579,
+    "geom:longitude":23.530329,
+    "gn:population":2509,
+    "iso:country":"GR",
+    "lbl:latitude":37.932579,
+    "lbl:longitude":23.530329,
+    "mps:latitude":37.932579,
+    "mps:longitude":23.530329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u064a\u0646\u064a\u0627\u060c \u0623\u062a\u064a\u0643\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Selinia Salamis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03ae\u03bd\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Sel\u00ednia"
+    ],
+    "name:eng_x_preferred":[
+        "Selinia"
+    ],
+    "name:eng_x_variant":[
+        "Sel\u00ednia",
+        "Selinia Salamis"
+    ],
+    "name:fin_x_preferred":[
+        "Sel\u00ednia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03ae\u03bd\u03b9\u03b1 \u03a3\u03b1\u03bb\u03b1\u03bc\u03af\u03bd\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Sel\u00ednia"
+    ],
+    "name:und_x_variant":[
+        "\u03a3\u0395\u039b\u0397\u039d\u0399\u0391"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
+    "qs:a1_alt":"ATTIKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"PEIRAIAS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u0395\u039b\u0397\u039d\u0399\u0391",
+    "qs:loc_alt":"SELHNIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11516cf2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":254030,
+        "gp:id":961641,
+        "qs:id":947612,
+        "qs_pg:id":947612,
+        "wd:id":"Q11517425"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4e3b17e5f86679f83e7dfde1714f5cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849687,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":101849687,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544741067,
+    "wof:name":"\u03a3\u0395\u039b\u0397\u039d\u0399\u0391",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":2509,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.530329,
+    37.932579,
+    23.530329,
+    37.932579
+],
+  "geometry": {"coordinates":[23.530329,37.932579],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293517963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58614,40.63643,21.58614,40.63643",
+    "geom:latitude":40.63643,
+    "geom:longitude":21.58614,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9070",
+    "gn:asciiname":"Valtonera",
+    "gn:country_code":"GR",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733962,
+    "gn:latitude":40.63643,
+    "gn:longitude":21.58614,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Valt\u00f3nera",
+    "gn:population":232,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03c4\u03cc\u03bd\u03b5\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Valtonera"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Nev\u00f3liani",
+        "Valt\u00f3nera"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733962
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5860aa2e817dca652f4e269f769e27b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293517963,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293517963,
+    "wof:lastmodified":1537624816,
+    "wof:name":"Valtonera",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":232,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58614,
+    40.63643,
+    21.58614,
+    40.63643
+],
+  "geometry": {"coordinates":[21.58614,40.63643],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276909163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51007,38.80351,21.51007,38.80351",
+    "geom:latitude":38.80351,
+    "geom:longitude":21.51007,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Lapato",
+    "gn:country_code":"GR",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781654,
+    "gn:latitude":38.80351,
+    "gn:longitude":21.51007,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"L\u00e1pato",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c0\u03b1\u03c4\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Lapato"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781654
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cb0f77d3f95e79bdfd5788d4609085a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276909163,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276909163,
+    "wof:lastmodified":1537625076,
+    "wof:name":"Lapato",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51007,
+    38.80351,
+    21.51007,
+    38.80351
+],
+  "geometry": {"coordinates":[21.51007,38.80351],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327364807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28325,40.17237,21.28325,40.17237",
+    "geom:latitude":40.17237,
+    "geom:longitude":21.28325,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Kydonies",
+    "gn:country_code":"GR",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735740,
+    "gn:latitude":40.17237,
+    "gn:longitude":21.28325,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kydoni\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kydoni\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b4\u03c9\u03bd\u03b9\u03ad\u03c2",
+        "Kydon\u00edai",
+        "\u039a\u03c5\u03b4\u03c9\u03bd\u03af\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Vantsik\u00f3",
+        "Kidhoni\u00e9s",
+        "Kidhon\u00edai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735740
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"662b61d95a67665638253fbb01556eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327364807,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1327364807,
+    "wof:lastmodified":1537624921,
+    "wof:name":"Kydonies",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28325,
+    40.17237,
+    21.28325,
+    40.17237
+],
+  "geometry": {"coordinates":[21.28325,40.17237],"type":"Point"}
+}

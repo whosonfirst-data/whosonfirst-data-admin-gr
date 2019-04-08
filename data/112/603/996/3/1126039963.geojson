@@ -1,0 +1,102 @@
+{
+  "id": 1126039963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.986,37.91468,22.986,37.91468",
+    "geom:latitude":37.91468,
+    "geom:longitude":22.986,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1151,
+    "gn:population":1128,
+    "iso:country":"GR",
+    "lbl:latitude":37.91468,
+    "lbl:longitude":22.986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03c1\u03ac\u03c2 \u0392\u03c1\u03cd\u03c3\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "Kyr\u00e1s Vr\u00fdsi",
+        "Kir\u00e1s Vr\u00edsi",
+        "Kir\u00e1 Vr\u00edsi"
+    ],
+    "name:eng_x_preferred":[
+        "Kyras Vrysi"
+    ],
+    "name:unk_x_variant":[
+        "Kir\u00e1 Vr\u00edsi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":259734,
+    "qs_pg:gn_pop":1151,
+    "qs_pg:name":"Kiras Vrisi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":262552,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":953496,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259734,
+        "gp:id":953496,
+        "qs_pg:id":262552
+    },
+    "wof:country":"GR",
+    "wof:created":1497302079,
+    "wof:geomhash":"4091fc7bc6e60482e52469c5a61080ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126039963,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1126039963,
+    "wof:lastmodified":1509408448,
+    "wof:name":"Kiras Vrisi",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1128,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.986,
+    37.91468,
+    22.986,
+    37.91468
+],
+  "geometry": {"coordinates":[22.986,37.91468],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209750415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19064,39.7058,22.19064,39.7058",
+    "geom:latitude":39.7058,
+    "geom:longitude":22.19064,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9102.0",
+    "gn:asciiname":"Orthe",
+    "gn:country_code":"GR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11395683,
+    "gn:latitude":39.7058,
+    "gn:longitude":22.19064,
+    "gn:modification_date":"2016-12-16",
+    "gn:name":"Orthe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395683
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b0140117f2fb044bb8442ba7cf30b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209750415,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1209750415,
+    "wof:lastmodified":1536393037,
+    "wof:name":"Orthe",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19064,
+    39.7058,
+    22.19064,
+    39.7058
+],
+  "geometry": {"coordinates":[22.19064,39.7058],"type":"Point"}
+}

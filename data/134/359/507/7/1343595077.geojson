@@ -1,0 +1,75 @@
+{
+  "id": 1343595077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16489,38.45128,24.16489,38.45128",
+    "geom:latitude":38.45128,
+    "geom:longitude":24.16489,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Trikovilo",
+    "gn:country_code":"GR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252635,
+    "gn:latitude":38.45128,
+    "gn:longitude":24.16489,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Trikovil\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Trikovil\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03b9\u03ba\u03bf\u03b2\u03b9\u03bb\u03cc",
+        "Trikovil\u00f3n",
+        "\u03a4\u03c1\u03b9\u03ba\u03bf\u03b2\u03b9\u03bb\u03cc\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252635
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"13d54f8ad1f940e0818a795684bb4b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343595077,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343595077,
+    "wof:lastmodified":1537624192,
+    "wof:name":"Trikovilo",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16489,
+    38.45128,
+    24.16489,
+    38.45128
+],
+  "geometry": {"coordinates":[24.16489,38.45128],"type":"Point"}
+}

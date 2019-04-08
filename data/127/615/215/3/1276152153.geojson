@@ -1,0 +1,84 @@
+{
+  "id": 1276152153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9351,38.70887,22.9351,38.70887",
+    "geom:latitude":38.70887,
+    "geom:longitude":22.9351,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9161",
+    "gn:asciiname":"Goulemion",
+    "gn:country_code":"GR",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261962,
+    "gn:latitude":38.70887,
+    "gn:longitude":22.9351,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Goul\u00e9mion",
+    "gn:population":131,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03bb\u03ad\u03bc\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03bf\u03c5\u03bb\u03ad\u03bc\u03b9\u03bf",
+        "\u0393\u03bf\u03c5\u03bb\u03ad\u03bc\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Goulemi"
+    ],
+    "name:und_x_variant":[
+        "Gol\u00e9mi",
+        "Goul\u00e9mion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261962
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"86a34784dbf4aa3bc10ffa9452dd7289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276152153,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276152153,
+    "wof:lastmodified":1537624614,
+    "wof:name":"Goulemion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9351,
+    38.70887000000001,
+    22.9351,
+    38.70887000000001
+],
+  "geometry": {"coordinates":[22.9351,38.70887000000001],"type":"Point"}
+}

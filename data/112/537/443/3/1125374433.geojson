@@ -1,0 +1,79 @@
+{
+  "id": 1125374433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08051,40.48922,23.08051,40.48922",
+    "geom:latitude":40.48922,
+    "geom:longitude":23.08051,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":34436,
+    "gn:population":34436,
+    "iso:country":"GR",
+    "lbl:latitude":40.48922,
+    "lbl:longitude":23.08051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0398\u03ad\u03c1\u03bc\u03b7\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133763,
+    "qs_pg:gn_pop":34436,
+    "qs_pg:name":"Dimos Thermi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1246079,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133763,
+        "qs_pg:id":1246079
+    },
+    "wof:country":"GR",
+    "wof:created":1497047628,
+    "wof:geomhash":"9cab9d23a3e2ed3aebf2d5b113b046d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125374433,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125374433,
+    "wof:lastmodified":1509389419,
+    "wof:name":"Dimos Thermi",
+    "wof:parent_id":85684637,
+    "wof:placetype":"localadmin",
+    "wof:population":34436,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08051,
+    40.48922,
+    23.08051,
+    40.48922
+],
+  "geometry": {"coordinates":[23.08051,40.48922],"type":"Point"}
+}

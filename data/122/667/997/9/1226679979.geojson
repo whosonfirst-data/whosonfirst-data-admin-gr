@@ -1,0 +1,83 @@
+{
+  "id": 1226679979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86072,37.55988,22.86072,37.55988",
+    "geom:latitude":37.55988,
+    "geom:longitude":22.86072,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Lefkakia",
+    "gn:country_code":"GR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258443,
+    "gn:latitude":37.55988,
+    "gn:longitude":22.86072,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Lefk\u00e1kia",
+    "gn:population":934,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lefk\u00e1kia"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c5\u03ba\u03ac\u03ba\u03b9\u03b1",
+        "Levk\u00e1kia"
+    ],
+    "name:eng_x_preferred":[
+        "Lefkakia"
+    ],
+    "name:und_x_variant":[
+        "Spa\u00eftz\u00edkon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258443
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"92380678c17be8ad005566d047abee3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226679979,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226679979,
+    "wof:lastmodified":1537624448,
+    "wof:name":"Lefkakia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":934,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86072,
+    37.55988,
+    22.86072,
+    37.55988
+],
+  "geometry": {"coordinates":[22.86072,37.55988],"type":"Point"}
+}

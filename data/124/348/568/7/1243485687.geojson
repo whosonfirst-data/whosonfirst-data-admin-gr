@@ -1,0 +1,77 @@
+{
+  "id": 1243485687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16792,35.3503,24.16792,35.3503",
+    "geom:latitude":35.3503,
+    "geom:longitude":24.16792,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Achatzikia",
+    "gn:country_code":"GR",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265485,
+    "gn:latitude":35.3503,
+    "gn:longitude":24.16792,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Achatziki\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Achatziki\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c7\u03b1\u03c4\u03b6\u03b7\u03ba\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Met\u00f3khi Arkhatz\u00edkio\u00ef",
+        "Akhatziki\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265485
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ac6c422d44f93fceaa101399a87b3bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243485687,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243485687,
+    "wof:lastmodified":1537624780,
+    "wof:name":"Achatzikia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16792,
+    35.3503,
+    24.16792,
+    35.3503
+],
+  "geometry": {"coordinates":[24.16792,35.3503],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209951511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97165,37.72721,26.97165,37.72721",
+    "geom:latitude":37.72721,
+    "geom:longitude":26.97165,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Platanos Vatheos",
+    "gn:country_code":"GR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383233,
+    "gn:latitude":37.72721,
+    "gn:longitude":26.97165,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Pl\u00e1tanos Vath\u00e9os",
+    "gn:population":23,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03c2 \u0392\u03b1\u03b8\u03ad\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Platanos Vatheos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383233
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3ec2be249fce64fc21f3f389ab8249d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1209951511,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209951511,
+    "wof:lastmodified":1537625062,
+    "wof:name":"Platanos Vatheos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97165,
+    37.72721,
+    26.97165,
+    37.72721
+],
+  "geometry": {"coordinates":[26.97165,37.72721],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242612057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05887,36.12068,28.05887,36.12068",
+    "geom:latitude":36.12068,
+    "geom:longitude":28.05887,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Kalathos",
+    "gn:country_code":"GR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6621626,
+    "gn:latitude":36.12068,
+    "gn:longitude":28.05887,
+    "gn:modification_date":"2017-09-21",
+    "gn:name":"Kalathos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6621626
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b8bc7403049a4453080256d22df6f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242612057,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1242612057,
+    "wof:lastmodified":1537013350,
+    "wof:name":"Kalathos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05887,
+    36.12068,
+    28.05887,
+    36.12068
+],
+  "geometry": {"coordinates":[28.05887,36.12068],"type":"Point"}
+}

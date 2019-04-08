@@ -1,0 +1,77 @@
+{
+  "id": 1293620547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16556,37.92403,22.16556,37.92403",
+    "geom:latitude":37.92403,
+    "geom:longitude":22.16556,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Armpounas",
+    "gn:country_code":"GR",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264599,
+    "gn:latitude":37.92403,
+    "gn:longitude":22.16556,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00c1rmpounas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1rmpounas"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03c1\u03bc\u03c0\u03bf\u03c5\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kalivia Arboun\u00e9\u00efka",
+        "\u00c1rmbounas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264599
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dc4b2fb6721fa35b424eb961e6ea4665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293620547,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293620547,
+    "wof:lastmodified":1537624733,
+    "wof:name":"Armpounas",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16556,
+    37.92403,
+    22.16556,
+    37.92403
+],
+  "geometry": {"coordinates":[22.16556,37.92403],"type":"Point"}
+}

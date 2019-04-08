@@ -1,0 +1,70 @@
+{
+  "id": 1243397735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99453,39.51683,22.99453,39.51683",
+    "geom:latitude":39.51683,
+    "geom:longitude":22.99453,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9108",
+    "gn:asciiname":"Moni Metamorfoseos Sotiros Flamouriou",
+    "gn:country_code":"GR",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10241208,
+    "gn:latitude":39.51683,
+    "gn:longitude":22.99453,
+    "gn:modification_date":"2015-04-30",
+    "gn:name":"Mon\u00ed Metamorf\u00f3seos Sot\u00edros Flamour\u00edou",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10241208
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0918d07a20c3e85d950a18bb378742c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243397735,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243397735,
+    "wof:lastmodified":1536874930,
+    "wof:name":"Moni Metamorfoseos Sotiros Flamouriou",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99453,
+    39.51683,
+    22.99453,
+    39.51683
+],
+  "geometry": {"coordinates":[22.99453,39.51683],"type":"Point"}
+}

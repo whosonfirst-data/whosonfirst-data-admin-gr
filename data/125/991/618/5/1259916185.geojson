@@ -1,0 +1,78 @@
+{
+  "id": 1259916185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26115,41.37221,24.26115,41.37221",
+    "geom:latitude":41.37221,
+    "geom:longitude":24.26115,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9002",
+    "gn:asciiname":"Kokkino",
+    "gn:country_code":"GR",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735662,
+    "gn:latitude":41.37221,
+    "gn:longitude":24.26115,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"K\u00f3kkino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u044a\u0440\u0445\u043e\u0432\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00farkhovon",
+        "K\u00f3kkino",
+        "Kokkini\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735662
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4ad2a5d7a54bbf85d0fd9e509dddb4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259916185,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259916185,
+    "wof:lastmodified":1537624916,
+    "wof:name":"Kokkino",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26115,
+    41.37221,
+    24.26115,
+    41.37221
+],
+  "geometry": {"coordinates":[24.26115,41.37221],"type":"Point"}
+}

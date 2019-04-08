@@ -1,0 +1,80 @@
+{
+  "id": 1360215641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94523,37.22196,21.94523,37.22196",
+    "geom:latitude":37.22196,
+    "geom:longitude":21.94523,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9256",
+    "gn:asciiname":"Neochori",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256537,
+    "gn:latitude":37.22196,
+    "gn:longitude":21.94523,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Neoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Neoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Neoch\u00f3rion",
+        "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Neokh\u00f3ri Ith\u00f3mis",
+        "Neokh\u00f3ri",
+        "Neokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256537
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b46adca73b60b393ef9414302c577d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360215641,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1360215641,
+    "wof:lastmodified":1537624361,
+    "wof:name":"Neochori",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94523,
+    37.22196,
+    21.94523,
+    37.22196
+],
+  "geometry": {"coordinates":[21.94523,37.22196],"type":"Point"}
+}

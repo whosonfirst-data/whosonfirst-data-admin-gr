@@ -1,0 +1,71 @@
+{
+  "id": 1209042857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16942,35.0784,26.16942,35.0784",
+    "geom:latitude":35.0784,
+    "geom:longitude":26.16942,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Lamnoni",
+    "gn:country_code":"GR",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258618,
+    "gn:latitude":35.0784,
+    "gn:longitude":26.16942,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Lamn\u00f3ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lamn\u00f3ni"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03bc\u03bd\u03ce\u03bd\u03b9",
+        "Lamn\u00f3nion",
+        "\u039b\u03b1\u03bc\u03bd\u03ce\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258618
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b6c817b8fb2545de8166c27688c7120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209042857
+        }
+    ],
+    "wof:id":1209042857,
+    "wof:lastmodified":1537624457,
+    "wof:name":"Lamnoni",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16942,
+    35.0784,
+    26.16942,
+    35.0784
+],
+  "geometry": {"coordinates":[26.16942,35.0784],"type":"Point"}
+}

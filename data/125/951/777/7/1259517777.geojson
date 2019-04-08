@@ -1,0 +1,73 @@
+{
+  "id": 1259517777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3371,35.33084,25.3371,35.33084",
+    "geom:latitude":35.33084,
+    "geom:longitude":25.3371,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9309",
+    "gn:asciiname":"Aposelemis",
+    "gn:country_code":"GR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605342,
+    "gn:latitude":35.33084,
+    "gn:longitude":25.3371,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aposel\u00e9mis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Aposel\u00e9mis"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c0\u03bf\u03c3\u03b5\u03bb\u03ad\u03bc\u03b7\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605342
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"adcd04f49052ea0607912fa8eb5c12aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259517777,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259517777,
+    "wof:lastmodified":1537625024,
+    "wof:name":"Aposelemis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3371,
+    35.33084,
+    25.3371,
+    35.33084
+],
+  "geometry": {"coordinates":[25.3371,35.33084],"type":"Point"}
+}

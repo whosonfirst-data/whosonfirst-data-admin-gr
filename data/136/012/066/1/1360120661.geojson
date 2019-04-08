@@ -1,0 +1,78 @@
+{
+  "id": 1360120661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80652,36.96974,21.80652,36.96974",
+    "geom:latitude":36.96974,
+    "geom:longitude":21.80652,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Soulinari",
+    "gn:country_code":"GR",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253446,
+    "gn:latitude":36.96974,
+    "gn:longitude":21.80652,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Soulin\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Soulin\u00e1ri"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bf\u03c5\u03bb\u03b9\u03bd\u03ac\u03c1\u03b9",
+        "\u03a3\u03bf\u03c5\u03bb\u03b9\u03bd\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Solin\u00e1rion",
+        "Soulin\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253446
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"82dbb82e58074e8ef6cc6c27e8130127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360120661,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1360120661,
+    "wof:lastmodified":1537624220,
+    "wof:name":"Soulinari",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80652000000001,
+    36.96974,
+    21.80652000000001,
+    36.96974
+],
+  "geometry": {"coordinates":[21.80652000000001,36.96974],"type":"Point"}
+}

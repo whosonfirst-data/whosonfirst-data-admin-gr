@@ -1,0 +1,77 @@
+{
+  "id": 1360321599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.67879,35.29824,23.67879,35.29824",
+    "geom:latitude":35.29824,
+    "geom:longitude":23.67879,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Kefali",
+    "gn:country_code":"GR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260313,
+    "gn:latitude":35.29824,
+    "gn:longitude":23.67879,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kef\u00e1li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c6\u03ac\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03c6\u03ac\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kef\u00e1li",
+        "Kef\u00e1lion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260313
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ecbd775d19bd99dc7ab9db2cf329c643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360321599,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360321599,
+    "wof:lastmodified":1537624535,
+    "wof:name":"Kefali",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.67879,
+    35.29824,
+    23.67879,
+    35.29824
+],
+  "geometry": {"coordinates":[23.67879,35.29824],"type":"Point"}
+}

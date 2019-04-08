@@ -1,0 +1,73 @@
+{
+  "id": 1276160135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16402,38.06386,23.16402,38.06386",
+    "geom:latitude":38.06386,
+    "geom:longitude":23.16402,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9231.0",
+    "gn:asciiname":"Delpoura",
+    "gn:country_code":"GR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039224,
+    "gn:latitude":38.06386,
+    "gn:longitude":23.16402,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u00e9lpoura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "D\u00e9lpoura"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ad\u03bb\u03c0\u03bf\u03c5\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039224
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"62f67dff22098956eca92572d249cf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276160135,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1276160135,
+    "wof:lastmodified":1537625105,
+    "wof:name":"Delpoura",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16402,
+    38.06386,
+    23.16402,
+    38.06386
+],
+  "geometry": {"coordinates":[23.16402,38.06386],"type":"Point"}
+}

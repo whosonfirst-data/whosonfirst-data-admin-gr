@@ -1,0 +1,73 @@
+{
+  "id": 1293328877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25877,35.28472,25.25877,35.28472",
+    "geom:latitude":35.28472,
+    "geom:longitude":25.25877,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9309",
+    "gn:asciiname":"Kainouryion Khorion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261679,
+    "gn:latitude":35.28472,
+    "gn:longitude":25.25877,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Kaino\u00faryion Khor\u00edon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaino\u00faryio Khori\u00f3",
+        "Kaino\u00faria Khori\u00f3",
+        "Kaino\u00faryion Khor\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261679
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d5c8906adeb73379e2a762f1ae2bb9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293328877,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293328877,
+    "wof:lastmodified":1537624603,
+    "wof:name":"Kainouryion Khorion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25877,
+    35.28472,
+    25.25877,
+    35.28472
+],
+  "geometry": {"coordinates":[25.25877,35.28472],"type":"Point"}
+}

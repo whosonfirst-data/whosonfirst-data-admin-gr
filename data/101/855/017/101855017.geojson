@@ -1,0 +1,137 @@
+{
+  "id": 101855017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.489698,39.80373,22.489698,39.80373",
+    "geom:latitude":39.80373,
+    "geom:longitude":22.489698,
+    "gn:population":1835,
+    "iso:country":"GR",
+    "lbl:latitude":39.80373,
+    "lbl:longitude":22.489698,
+    "mps:latitude":39.80373,
+    "mps:longitude":22.489698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0643\u0631\u064a\u062e\u0648\u0631\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0440\u0438\u0445\u043e\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Makrychori"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ba\u03c1\u03c5\u03c7\u03ce\u03c1\u03b9 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03ba\u03c1\u03c5\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd",
+        "Makrych\u00f3ri",
+        "\u039c\u03b1\u03ba\u03c1\u03c5\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Makrychori"
+    ],
+    "name:fin_x_preferred":[
+        "Makrych\u00f3ri"
+    ],
+    "name:fre_x_preferred":[
+        "Makrychori"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03ba\u03c1\u03c5\u03c7\u03ce\u03c1\u03b9 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Makrychori"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30af\u30ea\u30db\u30ea"
+    ],
+    "name:nno_x_preferred":[
+        "Makrykh\u00f3ri"
+    ],
+    "name:ron_x_preferred":[
+        "Makrychori"
+    ],
+    "name:rum_x_preferred":[
+        "Makrychori"
+    ],
+    "name:swe_x_preferred":[
+        "Makrych\u00f3ri"
+    ],
+    "name:unk_x_variant":[
+        "Makrikh\u00f3ri"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LARISA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u0391\u039a\u03a1\u03a5\u03a7\u03a9\u03a1\u0399\u039f\u039d",
+    "qs:loc_alt":"MAKRYXVRION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.8,
+    "wd:longitude":22.483333,
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257948,
+        "gp:id":91802463,
+        "qs:id":202274,
+        "qs_pg:id":202274,
+        "wd:id":"Q2463817",
+        "wk:page":"Makrychori"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0c5fce0428eba7e1e9e49bcc07aeb891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855017,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101855017,
+    "wof:lastmodified":1544742786,
+    "wof:name":"\u039c\u0391\u039a\u03a1\u03a5\u03a7\u03a9\u03a1\u0399\u039f\u039d",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1835,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.489698,
+    39.80373,
+    22.489698,
+    39.80373
+],
+  "geometry": {"coordinates":[22.489698,39.80373],"type":"Point"}
+}

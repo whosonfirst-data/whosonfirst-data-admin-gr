@@ -1,0 +1,74 @@
+{
+  "id": 1343298405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.68403,38.4485,21.68403,38.4485",
+    "geom:latitude":38.4485,
+    "geom:longitude":21.68403,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9126",
+    "gn:asciiname":"Sfikaiika",
+    "gn:country_code":"GR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":253956,
+    "gn:latitude":38.4485,
+    "gn:longitude":21.68403,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sfika\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c6\u03b7\u03ba\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Sfik\u00e9\u00efka",
+        "Sfika\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253956
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4c8b6d6d5a59e1ee62c3bda41ba25027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343298405,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343298405,
+    "wof:lastmodified":1537624247,
+    "wof:name":"Sfikaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.68403,
+    38.4485,
+    21.68403,
+    38.4485
+],
+  "geometry": {"coordinates":[21.68403,38.4485],"type":"Point"}
+}

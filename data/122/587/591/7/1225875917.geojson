@@ -1,0 +1,73 @@
+{
+  "id": 1225875917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63503,38.584,21.63503,38.584",
+    "geom:latitude":38.584,
+    "geom:longitude":21.63503,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9126",
+    "gn:asciiname":"Pournara",
+    "gn:country_code":"GR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254759,
+    "gn:latitude":38.584,
+    "gn:longitude":21.63503,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Pourn\u00e1ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pourn\u00e1ra"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c5\u03c1\u03bd\u03ac\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254759
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b66da9d0acc18032d229d5a4d59ca02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875917,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1225875917,
+    "wof:lastmodified":1537624278,
+    "wof:name":"Pournara",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63503,
+    38.584,
+    21.63503,
+    38.584
+],
+  "geometry": {"coordinates":[21.63503,38.584],"type":"Point"}
+}

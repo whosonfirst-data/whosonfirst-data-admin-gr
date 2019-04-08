@@ -1,0 +1,79 @@
+{
+  "id": 1276266665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16568,39.27219,23.16568,39.27219",
+    "geom:latitude":39.27219,
+    "geom:longitude":23.16568,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Afyssos",
+    "gn:country_code":"GR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265655,
+    "gn:latitude":39.27219,
+    "gn:longitude":23.16568,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"\u00c1fyssos",
+    "gn:population":272,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03c6\u03c5\u03c3\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Afyssos"
+    ],
+    "name:und_x_variant":[
+        "Afissos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265655
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"672d8d8f128b7d07e8479b81662cfde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276266665,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1276266665,
+    "wof:lastmodified":1537624788,
+    "wof:name":"Afyssos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":272,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16568,
+    39.27219,
+    23.16568,
+    39.27219
+],
+  "geometry": {"coordinates":[23.16568,39.27219],"type":"Point"}
+}

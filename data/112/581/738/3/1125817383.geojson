@@ -1,0 +1,80 @@
+{
+  "id": 1125817383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.661718,35.409409,23.661718,35.409409",
+    "geom:latitude":35.409409,
+    "geom:longitude":23.661718,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":35.409409,
+    "lbl:longitude":23.661718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Milia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":75,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":75,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":7176,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56024636,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56024636,
+        "qs_pg:id":7176
+    },
+    "wof:country":"GR",
+    "wof:created":1497291901,
+    "wof:geomhash":"5820053ec3b73c7b9f36fdd00096e5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125817383,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125817383,
+    "wof:lastmodified":1509393878,
+    "wof:name":"Milia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.661718,
+    35.409409,
+    23.661718,
+    35.409409
+],
+  "geometry": {"coordinates":[23.661718,35.409409],"type":"Point"}
+}

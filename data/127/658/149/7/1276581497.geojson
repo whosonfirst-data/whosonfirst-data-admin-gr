@@ -1,0 +1,74 @@
+{
+  "id": 1276581497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1198,37.46218,22.1198,37.46218",
+    "geom:latitude":37.46218,
+    "geom:longitude":22.1198,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Zoni",
+    "gn:country_code":"GR",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251188,
+    "gn:latitude":37.46218,
+    "gn:longitude":22.1198,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Z\u00f3ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03ce\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Zoun\u00e1ti",
+        "Z\u00f3ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251188
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9ab42fcb7f89cb248bb5a3e70bbd639f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276581497,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276581497,
+    "wof:lastmodified":1537624129,
+    "wof:name":"Zoni",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1198,
+    37.46218,
+    22.1198,
+    37.46218
+],
+  "geometry": {"coordinates":[22.1198,37.46218],"type":"Point"}
+}

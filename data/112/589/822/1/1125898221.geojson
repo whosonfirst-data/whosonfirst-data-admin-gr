@@ -1,0 +1,82 @@
+{
+  "id": 1125898221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52222,40.47333,25.52222,40.47333",
+    "geom:latitude":40.47333,
+    "geom:longitude":25.52222,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":719,
+    "gn:population":719,
+    "iso:country":"GR",
+    "lbl:latitude":40.47333,
+    "lbl:longitude":25.52222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03bf\u03b8\u03c1\u03ac\u03ba\u03b7"
+    ],
+    "name:unk_x_variant":[
+        "Samothracia"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":734359,
+    "qs_pg:gn_pop":719,
+    "qs_pg:name":"Samothr\u00e1ki",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1026822,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734359,
+        "qs_pg:id":1026822
+    },
+    "wof:country":"GR",
+    "wof:created":1497295681,
+    "wof:geomhash":"47851c38ac97517e5cf9178e3a4ba353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125898221,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1125898221,
+    "wof:lastmodified":1509399246,
+    "wof:name":"Samothr\u00e1ki",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":719,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52222,
+    40.47333,
+    25.52222,
+    40.47333
+],
+  "geometry": {"coordinates":[25.52222,40.47333],"type":"Point"}
+}

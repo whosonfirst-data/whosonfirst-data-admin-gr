@@ -1,0 +1,79 @@
+{
+  "id": 1243490557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93256,40.11047,21.93256,40.11047",
+    "geom:latitude":40.11047,
+    "geom:longitude":21.93256,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9069",
+    "gn:asciiname":"Trigoniko",
+    "gn:country_code":"GR",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734021,
+    "gn:latitude":40.11047,
+    "gn:longitude":21.93256,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Trigonik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Trigonik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03b9\u03b3\u03c9\u03bd\u03b9\u03ba\u03cc",
+        "\u03a4\u03c1\u03b9\u03b3\u03c9\u03bd\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Dh\u00e9linon",
+        "Trigonik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734021,
+        "wk:page":"Trigoniko"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"81e1a4bda84e13d6df264f186f9e4192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243490557,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1243490557,
+    "wof:lastmodified":1537624818,
+    "wof:name":"Trigoniko",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93256,
+    40.11047,
+    21.93256,
+    40.11047
+],
+  "geometry": {"coordinates":[21.93256,40.11047],"type":"Point"}
+}

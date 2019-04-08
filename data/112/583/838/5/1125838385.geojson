@@ -1,0 +1,88 @@
+{
+  "id": 1125838385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.12427,38.47825,26.12427,38.47825",
+    "geom:latitude":38.47825,
+    "geom:longitude":26.12427,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1029,
+    "gn:population":760,
+    "iso:country":"GR",
+    "lbl:latitude":38.47825,
+    "lbl:longitude":26.12427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03ba\u03ac\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lagadha"
+    ],
+    "name:eng_x_variant":[
+        "Lagkada"
+    ],
+    "name:unk_x_variant":[
+        "Paral\u00eda Lang\u00e1dhas"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258610,
+    "qs_pg:gn_pop":1029,
+    "qs_pg:name":"Lagk\u00e1da",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":202490,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258610,
+        "qs_pg:id":202490
+    },
+    "wof:country":"GR",
+    "wof:created":1497292824,
+    "wof:geomhash":"dc321aa222ea6445afed204e485fb899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125838385,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1125838385,
+    "wof:lastmodified":1538594937,
+    "wof:name":"Lagk\u00e1da",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:population":760,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.12427,
+    38.47825,
+    26.12427,
+    38.47825
+],
+  "geometry": {"coordinates":[26.12427,38.47825],"type":"Point"}
+}

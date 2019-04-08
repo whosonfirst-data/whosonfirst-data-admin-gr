@@ -1,0 +1,77 @@
+{
+  "id": 1293526279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95774,37.3284,21.95774,37.3284",
+    "geom:latitude":37.3284,
+    "geom:longitude":21.95774,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9256",
+    "gn:asciiname":"Monastiraki",
+    "gn:country_code":"GR",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256813,
+    "gn:latitude":37.3284,
+    "gn:longitude":21.95774,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Monastir\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Monastir\u00e1ki",
+        "Monastir\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256813
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ab20e6b83023f116b48ce27cbd3ac30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293526279,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293526279,
+    "wof:lastmodified":1537624372,
+    "wof:name":"Monastiraki",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95774,
+    37.3284,
+    21.95774,
+    37.3284
+],
+  "geometry": {"coordinates":[21.95774,37.3284],"type":"Point"}
+}

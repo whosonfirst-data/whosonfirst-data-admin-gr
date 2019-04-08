@@ -1,0 +1,76 @@
+{
+  "id": 1343888503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04268,37.75263,24.04268,37.75263",
+    "geom:latitude":37.75263,
+    "geom:longitude":24.04268,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Paliokamariza",
+    "gn:country_code":"GR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036738,
+    "gn:latitude":37.75263,
+    "gn:longitude":24.04268,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Paliokam\u00e1riza",
+    "gn:population":216,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03bf\u03ba\u03b1\u03bc\u03ac\u03c1\u03b9\u03b6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Paliokamariza"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036738
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a21e1d5392960117d5479f992b56cdbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343888503,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343888503,
+    "wof:lastmodified":1537625041,
+    "wof:name":"Paliokamariza",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04268,
+    37.75263,
+    24.04268,
+    37.75263
+],
+  "geometry": {"coordinates":[24.04268,37.75263],"type":"Point"}
+}

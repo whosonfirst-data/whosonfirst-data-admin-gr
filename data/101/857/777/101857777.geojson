@@ -1,0 +1,127 @@
+{
+  "id": 101857777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.385092,41.270275,26.385092,41.270275",
+    "geom:latitude":41.270275,
+    "geom:longitude":26.385092,
+    "gn:population":1447,
+    "iso:country":"GR",
+    "lbl:latitude":41.270275,
+    "lbl:longitude":26.385092,
+    "mps:latitude":41.270275,
+    "mps:longitude":26.385092,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0641\u0627\u0631\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043b\u0442\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Lavara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b2\u03b1\u03c1\u03b1 \u0388\u03b2\u03c1\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03b2\u03b1\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lavara"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03ac\u03b2\u03b1\u03c1\u03b1 \u0388\u03b2\u03c1\u03bf\u03c5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f4\u30a1\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "L\u00e1vara"
+    ],
+    "name:ron_x_preferred":[
+        "Lavara"
+    ],
+    "name:rum_x_preferred":[
+        "Lavara"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e1vara"
+    ],
+    "name:unk_x_variant":[
+        "L\u00e1vara"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
+    "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"EBROS",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u0391\u0392\u0391\u03a1\u0391",
+    "qs:loc_alt":"LABARA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":41.266667,
+    "wd:longitude":26.383333,
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735474,
+        "gp:id":955099,
+        "qs:id":869495,
+        "qs_pg:id":869495,
+        "wd:id":"Q3554928",
+        "wk:page":"Lavara"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"74cbc303dc6244112c85bb9d52c788d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857777,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":101857777,
+    "wof:lastmodified":1544744073,
+    "wof:name":"\u039b\u0391\u0392\u0391\u03a1\u0391",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":1447,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.385092,
+    41.270275,
+    26.385092,
+    41.270275
+],
+  "geometry": {"coordinates":[26.385092,41.270275],"type":"Point"}
+}

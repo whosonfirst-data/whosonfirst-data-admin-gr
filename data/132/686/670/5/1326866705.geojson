@@ -1,0 +1,78 @@
+{
+  "id": 1326866705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70448,39.63984,21.70448,39.63984",
+    "geom:latitude":39.63984,
+    "geom:longitude":21.70448,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"9112",
+    "gn:asciiname":"Vasiliki",
+    "gn:country_code":"GR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252200,
+    "gn:latitude":39.63984,
+    "gn:longitude":21.70448,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Vasilik\u00ed",
+    "gn:population":1388,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Vasilik\u00ed",
+        "Vo\u00efv\u00f3da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252200,
+        "wk:page":"Vasiliki%2C_Trikala"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7db1b854748f37c80685df8271f457c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326866705,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326866705,
+    "wof:lastmodified":1537624173,
+    "wof:name":"Vasiliki",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1388,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70448,
+    39.63984,
+    21.70448,
+    39.63984
+],
+  "geometry": {"coordinates":[21.70448,39.63984],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1108942421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7298466863,37.9886179677,23.7298466863,37.9886179677",
+    "geom:latitude":37.988618,
+    "geom:longitude":23.729847,
+    "iso:country":"GR",
+    "lbl:latitude":37.988618,
+    "lbl:longitude":23.729847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03c5\u03c4\u03b5\u03c7\u03bd\u03b5\u03af\u03bf"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1175612731,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GR",
+    "wof:created":1491363084,
+    "wof:geomhash":"384e209895505dd7a461c8d8edc0c67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1175612731,
+            "neighbourhood_id":1108942421,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1108942421,
+    "wof:lastmodified":1538606682,
+    "wof:name":"Polytechneio",
+    "wof:parent_id":1175612731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72984668629075,
+    37.98861796772876,
+    23.72984668629075,
+    37.98861796772876
+],
+  "geometry": {"coordinates":[23.72984668629075,37.98861796772876],"type":"Point"}
+}

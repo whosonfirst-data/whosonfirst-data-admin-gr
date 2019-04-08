@@ -1,0 +1,72 @@
+{
+  "id": 1209250677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28249,40.80996,24.28249,40.80996",
+    "geom:latitude":40.80996,
+    "geom:longitude":24.28249,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Agia Marina",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9397991,
+    "gn:latitude":40.80996,
+    "gn:longitude":24.28249,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Ag\u00eda Mar\u00edna",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Marina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9397991
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cfa2b7a9ec5fb8b0d6219191001d55ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209250677
+        }
+    ],
+    "wof:id":1209250677,
+    "wof:lastmodified":1537625064,
+    "wof:name":"Agia Marina",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28249,
+    40.80996,
+    24.28249,
+    40.80996
+],
+  "geometry": {"coordinates":[24.28249,40.80996],"type":"Point"}
+}

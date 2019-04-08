@@ -1,0 +1,76 @@
+{
+  "id": 1276482011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73184,40.23354,23.73184,40.23354",
+    "geom:latitude":40.23354,
+    "geom:longitude":23.73184,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9060",
+    "gn:asciiname":"Ormos Panagias",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6621608,
+    "gn:latitude":40.23354,
+    "gn:longitude":23.73184,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Ormos Panagias",
+    "gn:population":30,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u038c\u03c1\u03bc\u03bf\u03c2 \u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ormos Panagias"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6621608
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"906f7c58cd03115b997afad4c5460a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276482011,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1276482011,
+    "wof:lastmodified":1537624995,
+    "wof:name":"Ormos Panagias",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73184,
+    40.23354000000001,
+    23.73184,
+    40.23354000000001
+],
+  "geometry": {"coordinates":[23.73184,40.23354000000001],"type":"Point"}
+}

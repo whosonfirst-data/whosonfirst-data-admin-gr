@@ -1,0 +1,78 @@
+{
+  "id": 1209850103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79308,41.09811,24.79308,41.09811",
+    "geom:latitude":41.09811,
+    "geom:longitude":24.79308,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9018",
+    "gn:asciiname":"Petroto",
+    "gn:country_code":"GR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":734666,
+    "gn:latitude":41.09811,
+    "gn:longitude":24.79308,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Petrot\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Petrot\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c4\u03c1\u03c9\u03c4\u03cc",
+        "\u03a0\u03b5\u03c4\u03c1\u03c9\u03c4\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "To\u00fazla",
+        "Petrot\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734666
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6f5f99773c60a76c346c3167bf342c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209850103,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1209850103,
+    "wof:lastmodified":1537624855,
+    "wof:name":"Petroto",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79308,
+    41.09811,
+    24.79308,
+    41.09811
+],
+  "geometry": {"coordinates":[24.79308,41.09811],"type":"Point"}
+}

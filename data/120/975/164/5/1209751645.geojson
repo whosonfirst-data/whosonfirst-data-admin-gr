@@ -1,0 +1,72 @@
+{
+  "id": 1209751645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17165,35.01313,25.17165,35.01313",
+    "geom:latitude":35.01313,
+    "geom:longitude":25.17165,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9302",
+    "gn:asciiname":"Rotasion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254216,
+    "gn:latitude":35.01313,
+    "gn:longitude":25.17165,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Rot\u00e1sion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rot\u00e1si",
+        "Rot\u00e1sion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254216
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"351b82de24ec82087b2f291a776b04f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209751645,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1209751645,
+    "wof:lastmodified":1537624257,
+    "wof:name":"Rotasion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17165,
+    35.01313,
+    25.17165,
+    35.01313
+],
+  "geometry": {"coordinates":[25.17165,35.01313],"type":"Point"}
+}

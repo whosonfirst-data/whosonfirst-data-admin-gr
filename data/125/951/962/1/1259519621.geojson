@@ -1,0 +1,74 @@
+{
+  "id": 1259519621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91599,40.9307,25.91599,40.9307",
+    "geom:latitude":40.9307,
+    "geom:longitude":25.91599,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Avas",
+    "gn:country_code":"GR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736678,
+    "gn:latitude":40.9307,
+    "gn:longitude":25.91599,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"\u00c1vas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b2\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "\u00c1vas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736678,
+        "wk:page":"Avas%2C_Greece"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3feddf430af2cab6320a95770b531be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259519621,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259519621,
+    "wof:lastmodified":1537624969,
+    "wof:name":"Avas",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91599,
+    40.9307,
+    25.91599,
+    40.9307
+],
+  "geometry": {"coordinates":[25.91599,40.9307],"type":"Point"}
+}

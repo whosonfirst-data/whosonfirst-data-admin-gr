@@ -1,0 +1,79 @@
+{
+  "id": 1242712783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18647,39.36475,23.18647,39.36475",
+    "geom:latitude":39.36475,
+    "geom:longitude":23.18647,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9106",
+    "gn:asciiname":"Xourichti",
+    "gn:country_code":"GR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251466,
+    "gn:latitude":39.36475,
+    "gn:longitude":23.18647,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Xour\u00edchti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Xour\u00edchti"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03bf\u03c5\u03c1\u03af\u03c7\u03c4\u03b9",
+        "Xour\u00edchtion",
+        "\u039e\u03bf\u03c5\u03c1\u03af\u03c7\u03c4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Xourikhti",
+        "Xor\u00edkhtion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251466
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f5fbc37160586818d9f2ebb9c5282bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242712783,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242712783,
+    "wof:lastmodified":1537624142,
+    "wof:name":"Xourichti",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18647,
+    39.36475,
+    23.18647,
+    39.36475
+],
+  "geometry": {"coordinates":[23.18647,39.36475],"type":"Point"}
+}

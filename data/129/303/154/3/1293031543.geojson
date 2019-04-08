@@ -1,0 +1,74 @@
+{
+  "id": 1293031543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.23919,39.2585,21.23919,39.2585",
+    "geom:latitude":39.2585,
+    "geom:longitude":21.23919,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Koufalos",
+    "gn:country_code":"GR",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259169,
+    "gn:latitude":39.2585,
+    "gn:longitude":21.23919,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ko\u00fafalos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c6\u03b1\u03bb\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ko\u00fafaros",
+        "Ko\u00fafalos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259169
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"012f665bf9aad1cadc6afb112d076238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293031543,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293031543,
+    "wof:lastmodified":1537624482,
+    "wof:name":"Koufalos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23919,
+    39.2585,
+    21.23919,
+    39.2585
+],
+  "geometry": {"coordinates":[21.23919,39.2585],"type":"Point"}
+}

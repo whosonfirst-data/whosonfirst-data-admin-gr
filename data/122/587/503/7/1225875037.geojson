@@ -1,0 +1,78 @@
+{
+  "id": 1225875037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94119,38.42361,21.94119,38.42361",
+    "geom:latitude":38.42361,
+    "geom:longitude":21.94119,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Pefkaki",
+    "gn:country_code":"GR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256132,
+    "gn:latitude":38.42361,
+    "gn:longitude":21.94119,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pefk\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pefk\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c5\u03ba\u03ac\u03ba\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Kostara\u00edoi",
+        "Paliokh\u00e1nia",
+        "Palai\u00f3khanon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256132
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9812c3fc3ef1c20fcfcbb8beb0a13756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875037,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1225875037,
+    "wof:lastmodified":1537624340,
+    "wof:name":"Pefkaki",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94119,
+    38.42361,
+    21.94119,
+    38.42361
+],
+  "geometry": {"coordinates":[21.94119,38.42361],"type":"Point"}
+}

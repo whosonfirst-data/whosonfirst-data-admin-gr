@@ -1,0 +1,76 @@
+{
+  "id": 1209750243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87178,37.60162,22.87178,37.60162",
+    "geom:latitude":37.60162,
+    "geom:longitude":22.87178,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Profitis Ilias",
+    "gn:country_code":"GR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257430,
+    "gn:latitude":37.60162,
+    "gn:longitude":22.87178,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Prof\u00edtis Il\u00edas",
+    "gn:population":80,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03bf\u03c6\u03ae\u03c4\u03b7\u03c2 \u0397\u03bb\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Profitis Ilias"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257430
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"783d211bee03adb129afbda6fa5c4a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209750243,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209750243,
+    "wof:lastmodified":1537625058,
+    "wof:name":"Profitis Ilias",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87178,
+    37.60162,
+    22.87178,
+    37.60162
+],
+  "geometry": {"coordinates":[22.87178,37.60162],"type":"Point"}
+}

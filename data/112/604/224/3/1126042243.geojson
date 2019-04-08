@@ -1,0 +1,92 @@
+{
+  "id": 1126042243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04,39.6675,21.04,39.6675",
+    "geom:latitude":39.6675,
+    "geom:longitude":21.04,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":75,
+    "gn:population":29,
+    "iso:country":"GR",
+    "lbl:latitude":39.6675,
+    "lbl:longitude":21.04,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lerousko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c1\u03bf\u03cd\u03c3\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Lerousko"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b5\u03c1\u03bf\u03cd\u03c3\u03ba\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Lero\u00fasika"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258476,
+    "qs_pg:gn_pop":75,
+    "qs_pg:name":"Lero\u00fasko",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546636,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258476,
+        "qs_pg:id":546636,
+        "wd:id":"Q19842465"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302225,
+    "wof:geomhash":"50af28a797e1dcc605a43b59d68671ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042243,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126042243,
+    "wof:lastmodified":1514443994,
+    "wof:name":"Lero\u00fasko",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04,
+    39.6675,
+    21.04,
+    39.6675
+],
+  "geometry": {"coordinates":[21.04,39.6675],"type":"Point"}
+}

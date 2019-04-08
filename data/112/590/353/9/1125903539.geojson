@@ -1,0 +1,116 @@
+{
+  "id": 1125903539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7,40.66667,24.7,40.66667",
+    "geom:latitude":40.66667,
+    "geom:longitude":24.7,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":655,
+    "gn:population":636,
+    "iso:country":"GR",
+    "lbl:latitude":40.66667,
+    "lbl:longitude":24.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062b\u064a\u0648\u0644\u0648\u063a\u0648\u0633\u060c \u0643\u0627\u0641\u0627\u0644\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043e\u043b\u043e\u0433\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Theologos"
+    ],
+    "name:ell_x_historical":[
+        "\u0386\u03bd\u03c9 \u0398\u03b5\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u0398\u03b5\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Theologos"
+    ],
+    "name:ger_x_preferred":[
+        "Theologos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0398\u03b5\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u0398\u03ac\u03c3\u03bf\u03c5"
+    ],
+    "name:slo_x_preferred":[
+        "Theologos"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043e\u043b\u043e\u0433\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Theol\u00f3gos"
+    ],
+    "name:unk_x_variant":[
+        "\u00c1no The\u00f3logos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734087,
+    "qs_pg:gn_pop":655,
+    "qs_pg:name":"Theol\u00f3gos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1030158,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734087,
+        "qs_pg:id":1030158,
+        "wd:id":"Q201649"
+    },
+    "wof:country":"GR",
+    "wof:created":1497295903,
+    "wof:geomhash":"a57390a15f42700fed7d45375b2a04a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125903539,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1125903539,
+    "wof:lastmodified":1553816614,
+    "wof:name":"Theol\u00f3gos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":636,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7,
+    40.66667,
+    24.7,
+    40.66667
+],
+  "geometry": {"coordinates":[24.7,40.66667],"type":"Point"}
+}

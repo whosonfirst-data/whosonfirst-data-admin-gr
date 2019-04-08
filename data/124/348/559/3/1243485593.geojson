@@ -1,0 +1,80 @@
+{
+  "id": 1243485593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3498,37.95697,22.3498,37.95697",
+    "geom:latitude":37.95697,
+    "geom:longitude":22.3498,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Steno",
+    "gn:country_code":"GR",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253196,
+    "gn:latitude":37.95697,
+    "gn:longitude":22.3498,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Sten\u00f3",
+    "gn:population":59,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b5\u03bd\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Steno"
+    ],
+    "name:und_x_variant":[
+        "Sten\u00f3",
+        "Sten\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253196
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e24f6fa69cb796656fff513348ade055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243485593,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243485593,
+    "wof:lastmodified":1537624209,
+    "wof:name":"Steno",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3498,
+    37.95697,
+    22.3498,
+    37.95697
+],
+  "geometry": {"coordinates":[22.3498,37.95697],"type":"Point"}
+}

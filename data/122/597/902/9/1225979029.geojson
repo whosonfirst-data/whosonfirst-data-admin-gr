@@ -1,0 +1,82 @@
+{
+  "id": 1225979029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62202,35.36486,23.62202,35.36486",
+    "geom:latitude":35.36486,
+    "geom:longitude":23.62202,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Louchi",
+    "gn:country_code":"GR",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258113,
+    "gn:latitude":35.36486,
+    "gn:longitude":23.62202,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Lo\u00fachi",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03cd\u03c7\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Louchi"
+    ],
+    "name:und_x_variant":[
+        "L\u00edkhi",
+        "Lo\u00fakhi",
+        "Lo\u00fakhiou",
+        "Lo\u00fachi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258113
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"649e3650c8269aa071bb06d8a9e56cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225979029,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1225979029,
+    "wof:lastmodified":1537624432,
+    "wof:name":"Louchi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62202000000001,
+    35.36486,
+    23.62202000000001,
+    35.36486
+],
+  "geometry": {"coordinates":[23.62202000000001,35.36486],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309941029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.23341,35.12197,25.23341,35.12197",
+    "geom:latitude":35.12197,
+    "geom:longitude":25.23341,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Vitsilia",
+    "gn:country_code":"GR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251920,
+    "gn:latitude":35.12197,
+    "gn:longitude":25.23341,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Vitsili\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vitsili\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b9\u03c4\u03c3\u03b9\u03bb\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251920
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"095b16b1a46b741b9c35bf397e920b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309941029,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1309941029,
+    "wof:lastmodified":1537624161,
+    "wof:name":"Vitsilia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.23341,
+    35.12197,
+    25.23341,
+    35.12197
+],
+  "geometry": {"coordinates":[25.23341,35.12197],"type":"Point"}
+}

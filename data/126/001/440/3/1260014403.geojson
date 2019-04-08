@@ -1,0 +1,73 @@
+{
+  "id": 1260014403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79512,35.45047,23.79512,35.45047",
+    "geom:latitude":35.45047,
+    "geom:longitude":23.79512,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Kafouros",
+    "gn:country_code":"GR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261692,
+    "gn:latitude":35.45047,
+    "gn:longitude":23.79512,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kafo\u00faros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kafo\u00faros"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c6\u03bf\u03cd\u03c1\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261692
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"02fe6f0ffa7c6f8d449bf2043db6201a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260014403,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260014403,
+    "wof:lastmodified":1537624604,
+    "wof:name":"Kafouros",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79512,
+    35.45047,
+    23.79512,
+    35.45047
+],
+  "geometry": {"coordinates":[23.79512,35.45047],"type":"Point"}
+}

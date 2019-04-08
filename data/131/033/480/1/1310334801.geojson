@@ -1,0 +1,70 @@
+{
+  "id": 1310334801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30217,40.55568,23.30217,40.55568",
+    "geom:latitude":40.55568,
+    "geom:longitude":23.30217,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9034",
+    "gn:asciiname":"Adam",
+    "gn:country_code":"GR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737004,
+    "gn:latitude":40.55568,
+    "gn:longitude":23.30217,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ad\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b4\u03ac\u03bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737004
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5cdfdd3205602f8fcc702651f949a7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310334801,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310334801,
+    "wof:lastmodified":1537551125,
+    "wof:name":"Adam",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30217,
+    40.55568,
+    23.30217,
+    40.55568
+],
+  "geometry": {"coordinates":[23.30217,40.55568],"type":"Point"}
+}

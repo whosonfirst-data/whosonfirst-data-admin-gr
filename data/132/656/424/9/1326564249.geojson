@@ -1,0 +1,83 @@
+{
+  "id": 1326564249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53392,40.70641,24.53392,40.70641",
+    "geom:latitude":40.70641,
+    "geom:longitude":24.53392,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9011",
+    "gn:asciiname":"Skala Kallirachis",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734259,
+    "gn:latitude":40.70641,
+    "gn:longitude":24.53392,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sk\u00e1la Kallir\u00e1chis",
+    "gn:population":566,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u039a\u03b1\u03bb\u03bb\u03b9\u03c1\u03ac\u03c7\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Sk\u00e1la Kallir\u00e1chis"
+    ],
+    "name:eng_x_preferred":[
+        "Skala Kallirachis"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00e1la Kalirr\u00e1khis",
+        "Sk\u00e1la Kallir\u00e1khis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734259
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ca69d8b3fca86f7d525d9a6e8e4c36b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326564249,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1326564249,
+    "wof:lastmodified":1537624832,
+    "wof:name":"Skala Kallirachis",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":566,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53392,
+    40.70641,
+    24.53392,
+    40.70641
+],
+  "geometry": {"coordinates":[24.53392,40.70641],"type":"Point"}
+}

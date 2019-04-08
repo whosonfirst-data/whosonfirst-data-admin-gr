@@ -1,0 +1,74 @@
+{
+  "id": 1310441389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2382,37.57492,22.2382,37.57492",
+    "geom:latitude":37.57492,
+    "geom:longitude":22.2382,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Piana",
+    "gn:country_code":"GR",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255345,
+    "gn:latitude":37.57492,
+    "gn:longitude":22.2382,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Pi\u00e1na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03ac\u03bd\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pi\u00e1na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255345,
+        "wk:page":"Piana%2C_Arcadia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8de9b6907f9ccdd3b9f9ff19054a8f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310441389,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310441389,
+    "wof:lastmodified":1537624301,
+    "wof:name":"Piana",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2382,
+    37.57492,
+    22.2382,
+    37.57492
+],
+  "geometry": {"coordinates":[22.2382,37.57492],"type":"Point"}
+}

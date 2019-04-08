@@ -1,0 +1,78 @@
+{
+  "id": 1259517075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17875,37.18973,22.17875,37.18973",
+    "geom:latitude":37.18973,
+    "geom:longitude":22.17875,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Leptini",
+    "gn:country_code":"GR",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258488,
+    "gn:latitude":37.18973,
+    "gn:longitude":22.17875,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Lept\u00edni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lept\u00edni"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c0\u03c4\u03af\u03bd\u03b9",
+        "\u039b\u03b5\u03c0\u03c4\u03af\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Left\u00edni",
+        "Lept\u00ednion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258488
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"10481143546a151cfb3875a72e2391ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259517075,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259517075,
+    "wof:lastmodified":1537624450,
+    "wof:name":"Leptini",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17875,
+    37.18973,
+    22.17875,
+    37.18973
+],
+  "geometry": {"coordinates":[22.17875,37.18973],"type":"Point"}
+}

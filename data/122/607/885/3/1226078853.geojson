@@ -1,0 +1,80 @@
+{
+  "id": 1226078853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06005,40.84715,24.06005,40.84715",
+    "geom:latitude":40.84715,
+    "geom:longitude":24.06005,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Platanotopos",
+    "gn:country_code":"GR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734577,
+    "gn:latitude":40.84715,
+    "gn:longitude":24.06005,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Platan\u00f3topos",
+    "gn:population":584,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03cc\u03c4\u03bf\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Platanotopos"
+    ],
+    "name:und_x_variant":[
+        "Isirl\u00ed",
+        "Platan\u00f3topos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734577
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"703f7ec22d36d1cf5b9433ac063b4cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226078853,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226078853,
+    "wof:lastmodified":1537624850,
+    "wof:name":"Platanotopos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":584,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06005,
+    40.84715,
+    24.06005,
+    40.84715
+],
+  "geometry": {"coordinates":[24.06005,40.84715],"type":"Point"}
+}

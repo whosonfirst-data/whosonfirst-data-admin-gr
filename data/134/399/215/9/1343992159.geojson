@@ -1,0 +1,77 @@
+{
+  "id": 1343992159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20247,38.12861,22.20247,38.12861",
+    "geom:latitude":38.12861,
+    "geom:longitude":22.20247,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Kalyvitis",
+    "gn:country_code":"GR",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261441,
+    "gn:latitude":38.12861,
+    "gn:longitude":22.20247,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kalyv\u00edtis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kalyv\u00edtis"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03c5\u03b2\u03af\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kaliv\u00edtion",
+        "Kaliv\u00edtis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261441
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"05e09db1c7724e835a3c3bc11ee26c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343992159,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343992159,
+    "wof:lastmodified":1537624590,
+    "wof:name":"Kalyvitis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20247,
+    38.12861,
+    22.20247,
+    38.12861
+],
+  "geometry": {"coordinates":[22.20247,38.12861],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1243488903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60303,38.01133,23.60303,38.01133",
+    "geom:latitude":38.01133,
+    "geom:longitude":23.60303,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445408.0",
+    "gn:admin3_code":"9185",
+    "gn:asciiname":"Skarmagkas",
+    "gn:country_code":"GR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253688,
+    "gn:latitude":38.01133,
+    "gn:longitude":23.60303,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Skarmagk\u00e1s",
+    "gn:population":1255,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b1\u03c1\u03b1\u03bc\u03b1\u03b3\u03ba\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Skaramang\u00e1s",
+        "\u03a3\u03ba\u03b1\u03c1\u03bc\u03b1\u03b3\u03ba\u03ac\u03c2",
+        "Skaramang\u00e1",
+        "Skarmagk\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Skaramagkas"
+    ],
+    "name:und_x_variant":[
+        "Scaramanga",
+        "Skaramang\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253688,
+        "wk:page":"Skaramagas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9fdcdda366b8795532aa9514e1fbf289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243488903,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1243488903,
+    "wof:lastmodified":1537624232,
+    "wof:name":"Skarmagkas",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":1255,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60303,
+    38.01133,
+    23.60303,
+    38.01133
+],
+  "geometry": {"coordinates":[23.60303,38.01133],"type":"Point"}
+}

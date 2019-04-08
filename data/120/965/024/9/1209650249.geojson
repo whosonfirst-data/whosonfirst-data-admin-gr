@@ -1,0 +1,74 @@
+{
+  "id": 1209650249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95442,37.0498,21.95442,37.0498",
+    "geom:latitude":37.0498,
+    "geom:longitude":21.95442,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Lykotrafos",
+    "gn:country_code":"GR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258341,
+    "gn:latitude":37.0498,
+    "gn:longitude":21.95442,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Lyk\u00f3trafos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lyk\u00f3trafos"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03c5\u03ba\u03cc\u03c4\u03c1\u03b1\u03c6\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Lik\u00f3trafon",
+        "Lik\u00f3trofon",
+        "Lik\u00f3trafos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258341
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e6f703eb321c513cb566f366874330bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209650249
+        }
+    ],
+    "wof:id":1209650249,
+    "wof:lastmodified":1537624443,
+    "wof:name":"Lykotrafos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95442,
+    37.0498,
+    21.95442,
+    37.0498
+],
+  "geometry": {"coordinates":[21.95442,37.0498],"type":"Point"}
+}

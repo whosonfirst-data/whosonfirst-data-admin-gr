@@ -1,0 +1,71 @@
+{
+  "id": 1209136497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83542,38.09864,21.83542,38.09864",
+    "geom:latitude":38.09864,
+    "geom:longitude":21.83542,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Katarraktis",
+    "gn:country_code":"GR",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260681,
+    "gn:latitude":38.09864,
+    "gn:longitude":21.83542,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Katarr\u00e1ktis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03b1\u03c1\u03c1\u03ac\u03ba\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "L\u00f3pesi",
+        "Katarr\u00e1ktis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260681,
+        "wk:page":"Katarraktis"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"85e5bc02126b385386a1703b0e3819a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209136497
+        }
+    ],
+    "wof:id":1209136497,
+    "wof:lastmodified":1537624555,
+    "wof:name":"Katarraktis",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83542000000001,
+    38.09864,
+    21.83542000000001,
+    38.09864
+],
+  "geometry": {"coordinates":[21.83542000000001,38.09864],"type":"Point"}
+}

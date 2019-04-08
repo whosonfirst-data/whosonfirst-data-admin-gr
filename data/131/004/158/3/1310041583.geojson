@@ -1,0 +1,76 @@
+{
+  "id": 1310041583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04103,39.708,21.04103,39.708",
+    "geom:latitude":39.708,
+    "geom:longitude":21.04103,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9086",
+    "gn:asciiname":"Batza",
+    "gn:country_code":"GR",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10175106,
+    "gn:latitude":39.708,
+    "gn:longitude":21.04103,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"B\u00e1tza",
+    "gn:population":49,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03c4\u03b6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Batza"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175106
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"893e35e7e5cdad7eb3d2647c2b5904df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310041583,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1310041583,
+    "wof:lastmodified":1537625082,
+    "wof:name":"Batza",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04103,
+    39.708,
+    21.04103,
+    39.708
+],
+  "geometry": {"coordinates":[21.04103,39.708],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344191115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7925,38.63203,21.7925,38.63203",
+    "geom:latitude":38.63203,
+    "geom:longitude":21.7925,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Perista",
+    "gn:country_code":"GR",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255539,
+    "gn:latitude":38.63203,
+    "gn:longitude":21.7925,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Per\u00edsta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Per\u00edsta"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03af\u03c3\u03c4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255539
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9ab5ec71c5f3864c7a544dff0453baf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344191115,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1344191115,
+    "wof:lastmodified":1537624311,
+    "wof:name":"Perista",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7925,
+    38.63203,
+    21.7925,
+    38.63203
+],
+  "geometry": {"coordinates":[21.7925,38.63203],"type":"Point"}
+}

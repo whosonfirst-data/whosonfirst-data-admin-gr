@@ -1,0 +1,78 @@
+{
+  "id": 1360219021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99192,37.93311,21.99192,37.93311",
+    "geom:latitude":37.93311,
+    "geom:longitude":21.99192,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Desino",
+    "gn:country_code":"GR",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263167,
+    "gn:latitude":37.93311,
+    "gn:longitude":21.99192,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Desin\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Desin\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b5\u03c3\u03b9\u03bd\u03cc",
+        "\u0394\u03b5\u03c3\u03b9\u03bd\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Desin\u00f3n",
+        "Dhesin\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263167
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b729a922f127fafa1929921ae2a65ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360219021,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360219021,
+    "wof:lastmodified":1537624670,
+    "wof:name":"Desino",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99192,
+    37.93311,
+    21.99192,
+    37.93311
+],
+  "geometry": {"coordinates":[21.99192,37.93311],"type":"Point"}
+}

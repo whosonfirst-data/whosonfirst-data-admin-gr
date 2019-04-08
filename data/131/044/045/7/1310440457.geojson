@@ -1,0 +1,73 @@
+{
+  "id": 1310440457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77053,38.21114,21.77053,38.21114",
+    "geom:latitude":38.21114,
+    "geom:longitude":21.77053,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134",
+    "gn:asciiname":"Perivola",
+    "gn:country_code":"GR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255514,
+    "gn:latitude":38.21114,
+    "gn:longitude":21.77053,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Periv\u00f3la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Periv\u00f3la"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255514
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a7748095e1dcd3d58ff80121ac0ea89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310440457,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310440457,
+    "wof:lastmodified":1537624310,
+    "wof:name":"Perivola",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77053,
+    38.21114,
+    21.77053,
+    38.21114
+],
+  "geometry": {"coordinates":[21.77053,38.21114],"type":"Point"}
+}

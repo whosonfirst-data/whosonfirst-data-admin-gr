@@ -1,0 +1,80 @@
+{
+  "id": 1310236169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67121,38.78239,20.67121,38.78239",
+    "geom:latitude":38.78239,
+    "geom:longitude":20.67121,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Spanokhorion",
+    "gn:country_code":"GR",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253398,
+    "gn:latitude":38.78239,
+    "gn:longitude":20.67121,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Spanokh\u00f3rion",
+    "gn:population":161,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03b1\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Spanochori"
+    ],
+    "name:und_x_variant":[
+        "Spanokh\u00f3ri",
+        "Spanokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253398
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c2a474f256f28f6f093945a5c6270ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310236169,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1310236169,
+    "wof:lastmodified":1537624218,
+    "wof:name":"Spanokhorion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67121,
+    38.78239,
+    20.67121,
+    38.78239
+],
+  "geometry": {"coordinates":[20.67121,38.78239],"type":"Point"}
+}

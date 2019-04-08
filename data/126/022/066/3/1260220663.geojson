@@ -1,0 +1,67 @@
+{
+  "id": 1260220663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,39.35,21.31667,39.35",
+    "geom:latitude":39.35,
+    "geom:longitude":21.31667,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Tsoumanikaiika",
+    "gn:country_code":"GR",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252409,
+    "gn:latitude":39.35,
+    "gn:longitude":21.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsoumanika\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252409
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"336be3dbacf0d50422f9683d23f231d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260220663,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1260220663,
+    "wof:lastmodified":1536797386,
+    "wof:name":"Tsoumanikaiika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    39.35,
+    21.31667,
+    39.35
+],
+  "geometry": {"coordinates":[21.31667,39.35],"type":"Point"}
+}

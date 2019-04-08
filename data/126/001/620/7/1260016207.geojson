@@ -1,0 +1,85 @@
+{
+  "id": 1260016207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55158,37.70482,22.55158,37.70482",
+    "geom:latitude":37.70482,
+    "geom:longitude":22.55158,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Lyrkeia",
+    "gn:country_code":"GR",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258254,
+    "gn:latitude":37.70482,
+    "gn:longitude":22.55158,
+    "gn:modification_date":"2014-07-30",
+    "gn:name":"Lyrke\u00eda",
+    "gn:population":319,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03cd\u03c1\u03ba\u03b5\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03c5\u03c1\u03ba\u03b5\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lyrkeia"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to B\u00e9lesi",
+        "L\u00edrkia",
+        "Lyrke\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258254,
+        "wk:page":"Lyrkeia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"efa241438cd56e568f46f980f7e6073e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260016207,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260016207,
+    "wof:lastmodified":1537624440,
+    "wof:name":"Lyrkeia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":319,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55158,
+    37.70482,
+    22.55158,
+    37.70482
+],
+  "geometry": {"coordinates":[22.55158,37.70482],"type":"Point"}
+}

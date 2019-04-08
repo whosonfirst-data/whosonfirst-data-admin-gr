@@ -1,0 +1,75 @@
+{
+  "id": 1276912283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97167,39.59083,20.97167,39.59083",
+    "geom:latitude":39.59083,
+    "geom:longitude":20.97167,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9084",
+    "gn:asciiname":"Kontinoi",
+    "gn:country_code":"GR",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259421,
+    "gn:latitude":39.59083,
+    "gn:longitude":20.97167,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kontino\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c4\u03b9\u03bd\u03bf\u03af"
+    ],
+    "name:und_x_variant":[
+        "Kondino\u00ed",
+        "Kond\u00ednous",
+        "Kontino\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259421
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a6961d10c4e6814a8b60a4ae6378abd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276912283,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1276912283,
+    "wof:lastmodified":1537624491,
+    "wof:name":"Kontinoi",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97167,
+    39.59083,
+    20.97167,
+    39.59083
+],
+  "geometry": {"coordinates":[20.97167,39.59083],"type":"Point"}
+}

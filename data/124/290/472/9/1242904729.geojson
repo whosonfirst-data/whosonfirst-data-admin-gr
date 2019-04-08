@@ -1,0 +1,67 @@
+{
+  "id": 1242904729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91667,39.38333,21.91667,39.38333",
+    "geom:latitude":39.38333,
+    "geom:longitude":21.91667,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9092",
+    "gn:asciiname":"Tsiflikakion",
+    "gn:country_code":"GR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252489,
+    "gn:latitude":39.38333,
+    "gn:longitude":21.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsiflik\u00e1kion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252489
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7bdbf3c4bbb528ba27d1144b056e37a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242904729,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242904729,
+    "wof:lastmodified":1537086404,
+    "wof:name":"Tsiflikakion",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91667,
+    39.38333,
+    21.91667,
+    39.38333
+],
+  "geometry": {"coordinates":[21.91667,39.38333],"type":"Point"}
+}

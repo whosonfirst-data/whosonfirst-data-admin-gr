@@ -1,0 +1,73 @@
+{
+  "id": 1242712091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71667,35.6,23.71667,35.6",
+    "geom:latitude":35.6,
+    "geom:longitude":23.71667,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Kefala",
+    "gn:country_code":"GR",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260335,
+    "gn:latitude":35.6,
+    "gn:longitude":23.71667,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kef\u00e1la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kef\u00e1la"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260335
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"66afb46e2e7e00c69b20ac0e05d815fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242712091,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242712091,
+    "wof:lastmodified":1537624536,
+    "wof:name":"Kefala",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71667,
+    35.6,
+    23.71667,
+    35.6
+],
+  "geometry": {"coordinates":[23.71667,35.6],"type":"Point"}
+}

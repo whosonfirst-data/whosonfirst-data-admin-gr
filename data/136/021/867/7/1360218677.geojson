@@ -1,0 +1,89 @@
+{
+  "id": 1360218677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43203,38.82471,22.43203,38.82471",
+    "geom:latitude":38.82471,
+    "geom:longitude":22.43203,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Neo Krikello",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260463,
+    "gn:latitude":38.82471,
+    "gn:longitude":22.43203,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"N\u00e9o Kr\u00edkello",
+    "gn:population":487,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03b1\u03c1\u03b4\u03ac\u03c4\u03b1\u03b9",
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03b1\u03c1\u03b4\u03ac\u03c4\u03b5\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf \u039a\u03c1\u03af\u03ba\u03b5\u03bb\u03bb\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03b1\u03c1\u03b4\u03ac\u03c4\u03b1\u03b9",
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03b1\u03c1\u03b4\u03ac\u03c4\u03b5\u03c2",
+        "\u039d\u03ad\u03bf\u03bd \u039a\u03c1\u03af\u03ba\u03b5\u03bb\u03bb\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Neo Krikello"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Vardh\u00e1tais",
+        "K\u00e1to Vardh\u00e1tai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260463
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cc7be3584fd056d75c99b762751f27c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360218677,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1360218677,
+    "wof:lastmodified":1537624541,
+    "wof:name":"Neo Krikello",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":487,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43203,
+    38.82471,
+    22.43203,
+    38.82471
+],
+  "geometry": {"coordinates":[22.43203,38.82471],"type":"Point"}
+}

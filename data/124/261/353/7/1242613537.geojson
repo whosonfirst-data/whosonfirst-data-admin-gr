@@ -1,0 +1,79 @@
+{
+  "id": 1242613537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35628,38.08003,22.35628,38.08003",
+    "geom:latitude":38.08003,
+    "geom:longitude":22.35628,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Monastiri",
+    "gn:country_code":"GR",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256798,
+    "gn:latitude":38.08003,
+    "gn:longitude":22.35628,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Monast\u00edri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Monast\u00edri"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9",
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Vergouv\u00edtsa",
+        "Vergov\u00edtsa",
+        "Monast\u00edrion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256798
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d369fc5c3e57ab145c6dbc4a2e2e0c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242613537,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1242613537,
+    "wof:lastmodified":1537624371,
+    "wof:name":"Monastiri",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35628,
+    38.08003,
+    22.35628,
+    38.08003
+],
+  "geometry": {"coordinates":[22.35628,38.08003],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1327462887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41387,38.81012,22.41387,38.81012",
+    "geom:latitude":38.81012,
+    "geom:longitude":22.41387,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Ano Vardhates",
+    "gn:country_code":"GR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264826,
+    "gn:latitude":38.81012,
+    "gn:longitude":22.41387,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"\u00c1no Vardh\u00e1tes",
+    "gn:population":254,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0392\u03b1\u03c1\u03b4\u03ac\u03c4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Vardates"
+    ],
+    "name:und_x_variant":[
+        "Vardh\u00e1tais",
+        "\u00c1no-Vardh\u00e1tais",
+        "\u00c1no Vardh\u00e1tai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264826
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"593f2843730bffba688988dd15759541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327462887,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327462887,
+    "wof:lastmodified":1537624743,
+    "wof:name":"Ano Vardhates",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":254,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41387000000001,
+    38.81012,
+    22.41387000000001,
+    38.81012
+],
+  "geometry": {"coordinates":[22.41387000000001,38.81012],"type":"Point"}
+}

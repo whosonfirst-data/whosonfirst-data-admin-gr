@@ -1,0 +1,87 @@
+{
+  "id": 1259418791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16559,40.8707,24.16559,40.8707",
+    "geom:latitude":40.8707,
+    "geom:longitude":24.16559,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Melissokomeio",
+    "gn:country_code":"GR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735229,
+    "gn:latitude":40.8707,
+    "gn:longitude":24.16559,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Melissokome\u00edo",
+    "gn:population":284,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03b9\u03c3\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "Melissokome\u00edo",
+        "Melissokome\u00edon",
+        "\u039c\u03b5\u03bb\u03b9\u03c3\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Melissokomeio"
+    ],
+    "name:und_x_variant":[
+        "Chitakl\u00ed",
+        "Melisokh\u00f3ri",
+        "Melissokomi\u00f3",
+        "Melissokom\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735229
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"97da0d75e8e34e2a5229b337d3b29827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259418791,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259418791,
+    "wof:lastmodified":1537624888,
+    "wof:name":"Melissokomeio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16559,
+    40.8707,
+    24.16559,
+    40.8707
+],
+  "geometry": {"coordinates":[24.16559,40.8707],"type":"Point"}
+}

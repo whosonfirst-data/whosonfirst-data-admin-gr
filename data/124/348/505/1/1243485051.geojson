@@ -1,0 +1,80 @@
+{
+  "id": 1243485051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18131,36.99877,22.18131,36.99877",
+    "geom:latitude":36.99877,
+    "geom:longitude":22.18131,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Ano Verga",
+    "gn:country_code":"GR",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264843,
+    "gn:latitude":36.99877,
+    "gn:longitude":22.18131,
+    "gn:modification_date":"2015-01-16",
+    "gn:name":"\u00c1no V\u00e9rga",
+    "gn:population":28,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0392\u03ad\u03c1\u03b3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Verga"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no V\u00e9rga",
+        "\u00c1no S\u00e9litsa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264843
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5785c38db567f0e9ccab1c27b3dae97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243485051,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243485051,
+    "wof:lastmodified":1537624744,
+    "wof:name":"Ano Verga",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18131,
+    36.99877,
+    22.18131,
+    36.99877
+],
+  "geometry": {"coordinates":[22.18131,36.99877],"type":"Point"}
+}

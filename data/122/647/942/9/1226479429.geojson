@@ -1,0 +1,73 @@
+{
+  "id": 1226479429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05653,38.16015,24.05653,38.16015",
+    "geom:latitude":38.16015,
+    "geom:longitude":24.05653,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220.0",
+    "gn:asciiname":"Dikastika",
+    "gn:country_code":"GR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975530,
+    "gn:latitude":38.16015,
+    "gn:longitude":24.05653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dikastik\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dikastik\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03ba\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975530
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"028d3d3b0fa4221d00ab9505f2381313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226479429,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226479429,
+    "wof:lastmodified":1537625097,
+    "wof:name":"Dikastika",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05653,
+    38.16015,
+    24.05653,
+    38.16015
+],
+  "geometry": {"coordinates":[24.05653,38.16015],"type":"Point"}
+}

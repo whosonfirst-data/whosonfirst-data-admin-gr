@@ -1,0 +1,93 @@
+{
+  "id": 1242908563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54163,41.01761,23.54163,41.01761",
+    "geom:latitude":41.01761,
+    "geom:longitude":23.54163,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9054",
+    "gn:asciiname":"Konstantinato",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735633,
+    "gn:latitude":41.01761,
+    "gn:longitude":23.54163,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Konstantin\u00e1to",
+    "gn:population":332,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u043d\u0442\u0430\u043d\u0442\u0438\u043d\u0430\u0442\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0421\u0430\u043b \u043c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:ell_x_historical":[
+        "\u03a3\u03b1\u03bb \u039c\u03b1\u03c7\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03ac\u03c4\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "Konstantin\u00e1to",
+        "Konstandin\u00e1ton",
+        "Konstantin\u00e1ton",
+        "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03ac\u03c4\u03bf\u03bd",
+        "\u03a3\u03b1\u03bb \u039c\u03b1\u03c7\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Konstantinato"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735633,
+        "wk:page":"Konstantinato"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"46b15ff853d6ca3f173453e0a0003cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242908563,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1242908563,
+    "wof:lastmodified":1537624915,
+    "wof:name":"Konstantinato",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":332,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54163,
+    41.01761,
+    23.54163,
+    41.01761
+],
+  "geometry": {"coordinates":[23.54163,41.01761],"type":"Point"}
+}

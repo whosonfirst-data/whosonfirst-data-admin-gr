@@ -1,0 +1,67 @@
+{
+  "id": 1209846995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27361,39.38361,21.27361,39.38361",
+    "geom:latitude":39.38361,
+    "geom:longitude":21.27361,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"9113",
+    "gn:asciiname":"Apostolaiika",
+    "gn:country_code":"GR",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264738,
+    "gn:latitude":39.38361,
+    "gn:longitude":21.27361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Apostola\u00ed\u00efka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264738
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f94dd09b97c584d1fccccd06e17c55cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209846995,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1209846995,
+    "wof:lastmodified":1536390186,
+    "wof:name":"Apostolaiika",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27361,
+    39.38361,
+    21.27361,
+    39.38361
+],
+  "geometry": {"coordinates":[21.27361,39.38361],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226577937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.332,38.1272,23.332,38.1272",
+    "geom:latitude":38.1272,
+    "geom:longitude":23.332,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230",
+    "gn:asciiname":"Agios Georgios Mandras",
+    "gn:country_code":"GR",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036818,
+    "gn:latitude":38.1272,
+    "gn:longitude":23.332,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Agios Ge\u00f3rgios M\u00e1ndras",
+    "gn:population":69,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Mandras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036818
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b340ce0956de682e303e05c79eff8ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226577937,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226577937,
+    "wof:lastmodified":1537625044,
+    "wof:name":"Agios Georgios Mandras",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.332,
+    38.1272,
+    23.332,
+    38.1272
+],
+  "geometry": {"coordinates":[23.332,38.1272],"type":"Point"}
+}

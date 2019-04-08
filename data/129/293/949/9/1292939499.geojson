@@ -1,0 +1,70 @@
+{
+  "id": 1292939499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90491,39.78057,19.90491,39.78057",
+    "geom:latitude":39.78057,
+    "geom:longitude":19.90491,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Podolakkos",
+    "gn:country_code":"GR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9165940,
+    "gn:latitude":39.78057,
+    "gn:longitude":19.90491,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Podol\u00e1kkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "\u03a0\u03bf\u03b4\u03bf\u03bb\u03ac\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165940
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dd72bbd2925596cc75d944abff727d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292939499,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1292939499,
+    "wof:lastmodified":1537551167,
+    "wof:name":"Podolakkos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90491,
+    39.78057,
+    19.90491,
+    39.78057
+],
+  "geometry": {"coordinates":[19.90491,39.78057],"type":"Point"}
+}

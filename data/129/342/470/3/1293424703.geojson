@@ -1,0 +1,76 @@
+{
+  "id": 1293424703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61065,39.96913,23.61065,39.96913",
+    "geom:latitude":39.96913,
+    "geom:longitude":23.61065,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Panorama",
+    "gn:country_code":"GR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9318184,
+    "gn:latitude":39.96913,
+    "gn:longitude":23.61065,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"Pan\u00f3rama",
+    "gn:population":10,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03cc\u03c1\u03b1\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Panorama"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9318184
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c19018a052ff554fdbf1e28f43dc0558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293424703,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293424703,
+    "wof:lastmodified":1537625059,
+    "wof:name":"Panorama",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61065,
+    39.96913,
+    23.61065,
+    39.96913
+],
+  "geometry": {"coordinates":[23.61065,39.96913],"type":"Point"}
+}

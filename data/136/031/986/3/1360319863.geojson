@@ -1,0 +1,76 @@
+{
+  "id": 1360319863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.27376,38.14374,23.27376,38.14374",
+    "geom:latitude":38.14374,
+    "geom:longitude":23.27376,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230",
+    "gn:asciiname":"Agia Paraskevi Vilion",
+    "gn:country_code":"GR",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036810,
+    "gn:latitude":38.14374,
+    "gn:longitude":23.27376,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Ag\u00eda Paraskev\u00ed Vil\u00edon",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u0392\u03b9\u03bb\u03af\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Paraskevi Vilion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036810
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"905b89fffba7e3d24d40ba12da5cd139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360319863,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1360319863,
+    "wof:lastmodified":1537625043,
+    "wof:name":"Agia Paraskevi Vilion",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.27376,
+    38.14374,
+    23.27376,
+    38.14374
+],
+  "geometry": {"coordinates":[23.27376,38.14374],"type":"Point"}
+}

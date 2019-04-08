@@ -1,0 +1,69 @@
+{
+  "id": 1209449753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04467,35.47243,24.04467,35.47243",
+    "geom:latitude":35.47243,
+    "geom:longitude":24.04467,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Tsompana",
+    "gn:country_code":"GR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427649,
+    "gn:latitude":35.47243,
+    "gn:longitude":24.04467,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tsompan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tsompan\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03bf\u03bc\u03c0\u03b1\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427649
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"db2441bb265ebd75630b0da281163c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209449753
+        }
+    ],
+    "wof:id":1209449753,
+    "wof:lastmodified":1537625007,
+    "wof:name":"Tsompana",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04467,
+    35.47243,
+    24.04467,
+    35.47243
+],
+  "geometry": {"coordinates":[24.04467,35.47243],"type":"Point"}
+}

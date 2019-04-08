@@ -1,0 +1,67 @@
+{
+  "id": 1242808519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59313,38.35217,22.59313,38.35217",
+    "geom:latitude":38.35217,
+    "geom:longitude":22.59313,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9165.0",
+    "gn:asciiname":"Valtos",
+    "gn:country_code":"GR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523682,
+    "gn:latitude":38.35217,
+    "gn:longitude":22.59313,
+    "gn:modification_date":"2017-04-18",
+    "gn:name":"Valtos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523682
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d82f919a7cf5d05ea12853ceea691dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242808519,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1242808519,
+    "wof:lastmodified":1536731467,
+    "wof:name":"Valtos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59313,
+    38.35217,
+    22.59313,
+    38.35217
+],
+  "geometry": {"coordinates":[22.59313,38.35217],"type":"Point"}
+}

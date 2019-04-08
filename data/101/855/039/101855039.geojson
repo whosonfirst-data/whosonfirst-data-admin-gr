@@ -1,0 +1,144 @@
+{
+  "id": 101855039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.490381,40.584728,21.490381,40.584728",
+    "geom:latitude":40.584728,
+    "geom:longitude":21.490381,
+    "gn:population":1115,
+    "iso:country":"GR",
+    "lbl:latitude":40.584728,
+    "lbl:longitude":21.490381,
+    "mps:latitude":40.584728,
+    "mps:longitude":21.490381,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Lehova"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u062e\u0648\u0641\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Lechovo"
+    ],
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03bd\u03c4\u03af\u03bb-\u039a\u03b9\u03cc\u03b9",
+        "\u0397\u03c1\u03c9\u03b9\u03ba\u03cc"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ad\u03c7\u03bf\u03b2\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ad\u03c7\u03bf\u03b2\u03bf",
+        "\u039a\u03b1\u03bd\u03c4\u03af\u03bb-\u039a\u03b9\u03cc\u03b9",
+        "\u0397\u03c1\u03c9\u03b9\u03ba\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Lechovo"
+    ],
+    "name:fre_x_preferred":[
+        "Lechovo"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03ad\u03c7\u03bf\u03b2\u03bf \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Lechovo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "L\u00e9khovo"
+    ],
+    "name:ron_x_preferred":[
+        "Lehovo"
+    ],
+    "name:rum_x_preferred":[
+        "Lehovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Lehov\u00eb"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e9chovo"
+    ],
+    "name:unk_x_variant":[
+        "L\u00e9khovon"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"DYTIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"FLVRINA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u0395\u03a7\u039f\u0392\u039f\u039d",
+    "qs:loc_alt":"LEXOBON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736102,
+        "gp:id":950527,
+        "qs:id":181901,
+        "wd:id":"Q2417632"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e9b5fb45670ba0fb5fb9352c1b894404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855039,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":101855039,
+    "wof:lastmodified":1553815549,
+    "wof:name":"\u039b\u0395\u03a7\u039f\u0392\u039f\u039d",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":1115,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.490381,
+    40.584728,
+    21.490381,
+    40.584728
+],
+  "geometry": {"coordinates":[21.490381,40.584728],"type":"Point"}
+}

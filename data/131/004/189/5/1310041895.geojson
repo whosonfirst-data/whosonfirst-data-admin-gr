@@ -1,0 +1,79 @@
+{
+  "id": 1310041895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25331,41.33917,24.25331,41.33917",
+    "geom:latitude":41.33917,
+    "geom:longitude":24.25331,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9002",
+    "gn:asciiname":"Oropedio",
+    "gn:country_code":"GR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734863,
+    "gn:latitude":41.33917,
+    "gn:longitude":24.25331,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Orop\u00e9dio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Orop\u00e9dio"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03bf\u03c0\u03ad\u03b4\u03b9\u03bf",
+        "Orop\u00e9dion",
+        "\u039f\u03c1\u03bf\u03c0\u03ad\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Vladh\u00edkos",
+        "Orop\u00e9dhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734863
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"51021aabc9ed21ad19be10c1d3acdd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310041895,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310041895,
+    "wof:lastmodified":1537624866,
+    "wof:name":"Oropedio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25331,
+    41.33917,
+    24.25331,
+    41.33917
+],
+  "geometry": {"coordinates":[24.25331,41.33917],"type":"Point"}
+}

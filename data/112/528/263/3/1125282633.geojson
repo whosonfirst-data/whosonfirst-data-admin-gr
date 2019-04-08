@@ -1,0 +1,96 @@
+{
+  "id": 1125282633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28333,36.73333,25.28333,36.73333",
+    "geom:latitude":36.73333,
+    "geom:longitude":25.28333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":1803,
+    "gn:population":2024,
+    "iso:country":"GR",
+    "lbl:latitude":36.73333,
+    "lbl:longitude":25.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u038a\u03bf\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Nio"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":261772,
+    "qs_pg:gn_pop":1803,
+    "qs_pg:name":"Ios",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1953,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1200220,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":24544324,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261772,
+        "gp:id":24544324,
+        "qs_pg:id":1200220
+    },
+    "wof:country":"GR",
+    "wof:created":1497042562,
+    "wof:geomhash":"ce645580e2238a6a86f83201836ab793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125282633,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125282633,
+    "wof:lastmodified":1509387334,
+    "wof:name":"Ios",
+    "wof:parent_id":85684659,
+    "wof:placetype":"localadmin",
+    "wof:population":2024,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28333,
+    36.73333,
+    25.28333,
+    36.73333
+],
+  "geometry": {"coordinates":[25.28333,36.73333],"type":"Point"}
+}

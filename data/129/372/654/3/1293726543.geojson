@@ -1,0 +1,86 @@
+{
+  "id": 1293726543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.32411,40.42597,23.32411,40.42597",
+    "geom:latitude":40.42597,
+    "geom:longitude":23.32411,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Vavdos",
+    "gn:country_code":"GR",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733920,
+    "gn:latitude":40.42597,
+    "gn:longitude":23.32411,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"V\u00e1vdos",
+    "gn:population":380,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0432\u0434\u043e\u0441"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03b2\u03b4\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "V\u00e1vdos",
+        "V\u00e1vdhos"
+    ],
+    "name:eng_x_preferred":[
+        "Vavdos"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0432\u0434\u043e\u0441"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733920
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e2a02f2ba61a4fa41235766ee84c5808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293726543,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293726543,
+    "wof:lastmodified":1537624813,
+    "wof:name":"Vavdos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":380,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.32411,
+    40.42597,
+    23.32411,
+    40.42597
+],
+  "geometry": {"coordinates":[23.32411,40.42597],"type":"Point"}
+}

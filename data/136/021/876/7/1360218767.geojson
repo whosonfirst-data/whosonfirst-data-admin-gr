@@ -1,0 +1,81 @@
+{
+  "id": 1360218767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00229,40.81387,24.00229,40.81387",
+    "geom:latitude":40.81387,
+    "geom:longitude":24.00229,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Kokkinokhori",
+    "gn:country_code":"GR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735660,
+    "gn:latitude":40.81387,
+    "gn:longitude":24.00229,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Kokkinokh\u00f3ri",
+    "gn:population":278,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kokkinochori"
+    ],
+    "name:und_x_variant":[
+        "Sarl\u00ed",
+        "Kokkinokh\u00f3ri",
+        "Kokkinokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735660
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3db7302eeada381aceb3f30d422f5136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360218767,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1360218767,
+    "wof:lastmodified":1537624916,
+    "wof:name":"Kokkinokhori",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00229,
+    40.81387,
+    24.00229,
+    40.81387
+],
+  "geometry": {"coordinates":[24.00229,40.81387],"type":"Point"}
+}

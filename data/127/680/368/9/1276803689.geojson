@@ -1,0 +1,83 @@
+{
+  "id": 1276803689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5209,37.81161,22.5209,37.81161",
+    "geom:latitude":37.81161,
+    "geom:longitude":22.5209,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Platanion",
+    "gn:country_code":"GR",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255053,
+    "gn:latitude":37.81161,
+    "gn:longitude":22.5209,
+    "gn:modification_date":"2014-07-30",
+    "gn:name":"Plat\u00e1nion",
+    "gn:population":103,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03ac\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03ac\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Platani"
+    ],
+    "name:und_x_variant":[
+        "Plat\u00e1ni",
+        "Plat\u00e1nion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255053
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d0354cef7e82775fadd1267a3086ffb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276803689,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276803689,
+    "wof:lastmodified":1537624290,
+    "wof:name":"Platanion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5209,
+    37.81161,
+    22.5209,
+    37.81161
+],
+  "geometry": {"coordinates":[22.5209,37.81161],"type":"Point"}
+}

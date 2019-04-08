@@ -1,0 +1,101 @@
+{
+  "id": 1125773877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18333,38.08333,23.18333,38.08333",
+    "geom:latitude":38.08333,
+    "geom:longitude":23.18333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":220,
+    "iso:country":"GR",
+    "lbl:latitude":38.08333,
+    "lbl:longitude":23.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03bb\u03b5\u03c0\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03b5\u03c0\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Alepochori"
+    ],
+    "name:unk_x_variant":[
+        "Alepokh\u00f3ri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":260642,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kato Alepokhorion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos":211,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":211,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159298,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":952117,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260642,
+        "gp:id":952117,
+        "qs_pg:id":1159298
+    },
+    "wof:country":"GR",
+    "wof:created":1497290171,
+    "wof:geomhash":"054b98abb180a2f7b7246ea9520e9c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125773877,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125773877,
+    "wof:lastmodified":1509391153,
+    "wof:name":"Kato Alepokhorion",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18333,
+    38.08333,
+    23.18333,
+    38.08333
+],
+  "geometry": {"coordinates":[23.18333,38.08333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226677593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.85594,36.28874,27.85594,36.28874",
+    "geom:latitude":36.28874,
+    "geom:longitude":27.85594,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Mandriko",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257802,
+    "gn:latitude":36.28874,
+    "gn:longitude":27.85594,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mandrik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mandrik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ba\u03cc",
+        "\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mandrico",
+        "Mandrikh\u00f3",
+        "Mandrik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257802
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"90133b4c5b44b7ec63d4d5ff0dacf81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226677593,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226677593,
+    "wof:lastmodified":1537624419,
+    "wof:name":"Mandriko",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.85594,
+    36.28874,
+    27.85594,
+    36.28874
+],
+  "geometry": {"coordinates":[27.85594,36.28874],"type":"Point"}
+}

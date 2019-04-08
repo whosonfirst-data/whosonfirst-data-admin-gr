@@ -1,0 +1,80 @@
+{
+  "id": 1226579255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60107,37.84944,22.60107,37.84944",
+    "geom:latitude":37.84944,
+    "geom:longitude":22.60107,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9245",
+    "gn:asciiname":"Petri",
+    "gn:country_code":"GR",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255414,
+    "gn:latitude":37.84944,
+    "gn:longitude":22.60107,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Petr\u00ed",
+    "gn:population":280,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03c1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Petri"
+    ],
+    "name:und_x_variant":[
+        "Petr\u00ed",
+        "Petr\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255414
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ccc0e2d85670956f5c5b7057592acb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226579255,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226579255,
+    "wof:lastmodified":1537624305,
+    "wof:name":"Petri",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":280,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60107,
+    37.84944,
+    22.60107,
+    37.84944
+],
+  "geometry": {"coordinates":[22.60107,37.84944],"type":"Point"}
+}

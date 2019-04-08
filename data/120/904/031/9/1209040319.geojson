@@ -1,0 +1,63 @@
+{
+  "id": 1209040319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45,38.9,21.45,38.9",
+    "geom:latitude":38.9,
+    "geom:longitude":21.45,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Nea Magnisia",
+    "gn:country_code":"GR",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256599,
+    "gn:latitude":38.9,
+    "gn:longitude":21.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"N\u00e9a Magnis\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256599
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4e9a235ed6a5ebd8e5a4c6e7c00f0824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209040319
+        }
+    ],
+    "wof:id":1209040319,
+    "wof:lastmodified":1536299566,
+    "wof:name":"Nea Magnisia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45,
+    38.9,
+    21.45,
+    38.9
+],
+  "geometry": {"coordinates":[21.45,38.9],"type":"Point"}
+}

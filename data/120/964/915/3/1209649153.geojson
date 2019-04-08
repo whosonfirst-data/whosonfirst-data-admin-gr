@@ -1,0 +1,74 @@
+{
+  "id": 1209649153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10005,38.53764,22.10005,38.53764",
+    "geom:latitude":38.53764,
+    "geom:longitude":22.10005,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Perivoli",
+    "gn:country_code":"GR",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265631,
+    "gn:latitude":38.53764,
+    "gn:longitude":22.10005,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Periv\u00f3li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Periv\u00f3li"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Agloudh\u00edsta",
+        "Aglav\u00edtsa",
+        "Aglav\u00edsta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265631
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a9231b49ebd5a466bc4c4bd4ddd97a3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649153
+        }
+    ],
+    "wof:id":1209649153,
+    "wof:lastmodified":1537624786,
+    "wof:name":"Perivoli",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10005,
+    38.53764,
+    22.10005,
+    38.53764
+],
+  "geometry": {"coordinates":[22.10005,38.53764],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259916983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87333,39.77889,19.87333,39.77889",
+    "geom:latitude":39.77889,
+    "geom:longitude":19.87333,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Ypsilas",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463712,
+    "gn:latitude":39.77889,
+    "gn:longitude":19.87333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ypsil\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ypsil\u00e1",
+        "Ipsil\u00e1",
+        "Ypsil\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463712
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"090f65eecb41e6a75dad11516f5b7df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259916983,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1259916983,
+    "wof:lastmodified":1537624994,
+    "wof:name":"Ypsilas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87333,
+    39.77889,
+    19.87333,
+    39.77889
+],
+  "geometry": {"coordinates":[19.87333,39.77889],"type":"Point"}
+}

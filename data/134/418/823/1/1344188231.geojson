@@ -1,0 +1,78 @@
+{
+  "id": 1344188231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72453,38.14881,21.72453,38.14881",
+    "geom:latitude":38.14881,
+    "geom:longitude":21.72453,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134",
+    "gn:asciiname":"Lygies",
+    "gn:country_code":"GR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258168,
+    "gn:latitude":38.14881,
+    "gn:longitude":21.72453,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Lygi\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lygi\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03c5\u03b3\u03b9\u03ad\u03c2",
+        "Lygia\u00ed",
+        "\u039b\u03c5\u03b3\u03b9\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "Liy\u00edai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258168
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"abb8a396e5428b851a342f290c241054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344188231,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1344188231,
+    "wof:lastmodified":1537624435,
+    "wof:name":"Lygies",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72453,
+    38.14881,
+    21.72453,
+    38.14881
+],
+  "geometry": {"coordinates":[21.72453,38.14881],"type":"Point"}
+}

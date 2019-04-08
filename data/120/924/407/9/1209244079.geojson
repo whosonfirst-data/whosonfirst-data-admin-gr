@@ -1,0 +1,69 @@
+{
+  "id": 1209244079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8711,35.34337,24.8711,35.34337",
+    "geom:latitude":35.34337,
+    "geom:longitude":24.8711,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Drosia",
+    "gn:country_code":"GR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559718,
+    "gn:latitude":35.34337,
+    "gn:longitude":24.8711,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Drosi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Drosi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03bf\u03c3\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559718
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fd37816c9cf561476258fc5f1ed35444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209244079
+        }
+    ],
+    "wof:id":1209244079,
+    "wof:lastmodified":1537625021,
+    "wof:name":"Drosia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8711,
+    35.34337,
+    24.8711,
+    35.34337
+],
+  "geometry": {"coordinates":[24.8711,35.34337],"type":"Point"}
+}

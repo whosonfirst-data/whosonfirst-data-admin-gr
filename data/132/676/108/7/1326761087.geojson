@@ -1,0 +1,73 @@
+{
+  "id": 1326761087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82458,39.14614,21.82458,39.14614",
+    "geom:latitude":39.14614,
+    "geom:longitude":21.82458,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9092",
+    "gn:asciiname":"Liapaiika",
+    "gn:country_code":"GR",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258394,
+    "gn:latitude":39.14614,
+    "gn:longitude":21.82458,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Liapa\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Liapa\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b1\u03c0\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258394
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eb70ab203d87603288e88f19954d77ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326761087,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326761087,
+    "wof:lastmodified":1537624445,
+    "wof:name":"Liapaiika",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82458,
+    39.14614,
+    21.82458,
+    39.14614
+],
+  "geometry": {"coordinates":[21.82458,39.14614],"type":"Point"}
+}

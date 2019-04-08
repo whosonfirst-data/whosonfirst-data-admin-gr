@@ -1,0 +1,88 @@
+{
+  "id": 1259613851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03504,40.78916,24.03504,40.78916",
+    "geom:latitude":40.78916,
+    "geom:longitude":24.03504,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Akropotamos",
+    "gn:country_code":"GR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736937,
+    "gn:latitude":40.78916,
+    "gn:longitude":24.03504,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Akrop\u00f3tamos",
+    "gn:population":675,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039c\u03c0\u03cc\u03bc\u03c0\u03bb\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c1\u03bf\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03cc\u03bc\u03c0\u03bb\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Akropotamos"
+    ],
+    "name:und_x_variant":[
+        "Mon\u00f3lithos",
+        "Akropot\u00e1mou",
+        "B\u00f3bliani",
+        "Akrop\u00f3tamos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736937
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4f1528e99dcc431db7d3f6fc3a2b25d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259613851,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259613851,
+    "wof:lastmodified":1537624985,
+    "wof:name":"Akropotamos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":675,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03504,
+    40.78916,
+    24.03504,
+    40.78916
+],
+  "geometry": {"coordinates":[24.03504,40.78916],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226576793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30797,40.10196,23.30797,40.10196",
+    "geom:latitude":40.10196,
+    "geom:longitude":23.30797,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Pyrgos Sani",
+    "gn:country_code":"GR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9317171,
+    "gn:latitude":40.10196,
+    "gn:longitude":23.30797,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"Pyrgos San\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u03a3\u03b1\u03bd\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9317171
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d0cd74986f5f87ef20187dc24ec4370e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226576793,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226576793,
+    "wof:lastmodified":1537551176,
+    "wof:name":"Pyrgos Sani",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30797,
+    40.10196,
+    23.30797,
+    40.10196
+],
+  "geometry": {"coordinates":[23.30797,40.10196],"type":"Point"}
+}

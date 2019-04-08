@@ -1,0 +1,103 @@
+{
+  "id": 1125787823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50306,40.63778,22.50306,40.63778",
+    "geom:latitude":40.63778,
+    "geom:longitude":22.50306,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1712,
+    "gn:population":1712,
+    "iso:country":"GR",
+    "lbl:latitude":40.63778,
+    "lbl:longitude":22.50306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0627\u0646\u0648\u0641\u064a\u0631\u064a\u064a\u0648\u0646\u060c \u0625\u0645\u0627\u062b\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u044f\u043d\u043e\u0432\u0435\u0440\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b1\u03bd\u03bf\u03b2\u03ad\u03c1\u03b3\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Lianov\u00e9rgi",
+        "\u039b\u03b9\u03b1\u03bd\u03bf\u03b2\u03ad\u03c1\u03b3\u03b9",
+        "Lianov\u00e9rgion"
+    ],
+    "name:eng_x_preferred":[
+        "Lianovergi"
+    ],
+    "name:mac_x_preferred":[
+        "\u0409\u0430\u043d\u043e\u0432\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Lianov\u00e9rgi"
+    ],
+    "name:unk_x_variant":[
+        "Lianov\u00e9ryi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735434,
+    "qs_pg:gn_pop":1712,
+    "qs_pg:name":"Leianov\u00e9rgion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":275658,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735434,
+        "qs_pg:id":275658,
+        "wd:id":"Q12237742"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290748,
+    "wof:geomhash":"eee37d599130f02e2a5a0576b77fbb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125787823,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125787823,
+    "wof:lastmodified":1514443994,
+    "wof:name":"Leianov\u00e9rgion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1712,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50306,
+    40.63778,
+    22.50306,
+    40.63778
+],
+  "geometry": {"coordinates":[22.50306,40.63778],"type":"Point"}
+}

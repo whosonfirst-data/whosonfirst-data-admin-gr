@@ -1,0 +1,73 @@
+{
+  "id": 1243490479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.70449,40.91001,25.70449,40.91001",
+    "geom:latitude":40.91001,
+    "geom:longitude":25.70449,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Atarni",
+    "gn:country_code":"GR",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736684,
+    "gn:latitude":40.91001,
+    "gn:longitude":25.70449,
+    "gn:modification_date":"2017-09-20",
+    "gn:name":"At\u00e1rni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "At\u00e1rni"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c4\u03ac\u03c1\u03bd\u03b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736684
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"95790e848e4018c148f9ed837fdfb8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243490479,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243490479,
+    "wof:lastmodified":1537624970,
+    "wof:name":"Atarni",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.70449,
+    40.91001,
+    25.70449,
+    40.91001
+],
+  "geometry": {"coordinates":[25.70449,40.91001],"type":"Point"}
+}

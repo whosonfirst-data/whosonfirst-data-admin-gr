@@ -1,0 +1,78 @@
+{
+  "id": 1292941679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40181,39.36617,22.40181,39.36617",
+    "geom:latitude":39.36617,
+    "geom:longitude":22.40181,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9103",
+    "gn:asciiname":"Zoodochos Pigi",
+    "gn:country_code":"GR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251184,
+    "gn:latitude":39.36617,
+    "gn:longitude":22.40181,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Zood\u00f3chos Pig\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Zood\u00f3chos Pig\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03c9\u03bf\u03b4\u03cc\u03c7\u03bf\u03c2 \u03a0\u03b7\u03b3\u03ae"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yioi An\u00e1ryiroi",
+        "Tat\u00e1r",
+        "Zo\u00f6dh\u00f3khos Piy\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251184
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"84c6ecffc569065071675bad9bed430a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292941679,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1292941679,
+    "wof:lastmodified":1537624129,
+    "wof:name":"Zoodochos Pigi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40181,
+    39.36617,
+    22.40181,
+    39.36617
+],
+  "geometry": {"coordinates":[22.40181,39.36617],"type":"Point"}
+}

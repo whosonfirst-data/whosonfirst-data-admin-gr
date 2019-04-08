@@ -1,0 +1,73 @@
+{
+  "id": 1343792537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88556,37.97506,23.88556,37.97506",
+    "geom:latitude":37.97506,
+    "geom:longitude":23.88556,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9222",
+    "gn:asciiname":"Argithea",
+    "gn:country_code":"GR",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036773,
+    "gn:latitude":37.97506,
+    "gn:longitude":23.88556,
+    "gn:modification_date":"2017-10-22",
+    "gn:name":"Argith\u00e9a",
+    "gn:population":1024,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b3\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036773
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"15080200f77a34032f42458a13c2944d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343792537,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343792537,
+    "wof:lastmodified":1537551160,
+    "wof:name":"Argithea",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":1024,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88556,
+    37.97506,
+    23.88556,
+    37.97506
+],
+  "geometry": {"coordinates":[23.88556,37.97506],"type":"Point"}
+}

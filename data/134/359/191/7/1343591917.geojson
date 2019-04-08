@@ -1,0 +1,85 @@
+{
+  "id": 1343591917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72083,35.457,23.72083,35.457",
+    "geom:latitude":35.457,
+    "geom:longitude":23.72083,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Sfakopigadi",
+    "gn:country_code":"GR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253969,
+    "gn:latitude":35.457,
+    "gn:longitude":23.72083,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Sfakopig\u00e1di",
+    "gn:population":58,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c6\u03b1\u03ba\u03bf\u03c0\u03b7\u03b3\u03ac\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c6\u03b1\u03ba\u03bf\u03c0\u03b7\u03b3\u03ac\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Sfakopigadi"
+    ],
+    "name:und_x_variant":[
+        "Sfakopig\u00e1dhi",
+        "Sfakopig\u00e1dhion",
+        "Sfakopig\u00e1di",
+        "Sfakopig\u00e1dion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253969
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"547093f98564bebc3e9242b627bdfce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343591917,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343591917,
+    "wof:lastmodified":1537624247,
+    "wof:name":"Sfakopigadi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72083,
+    35.457,
+    23.72083,
+    35.457
+],
+  "geometry": {"coordinates":[23.72083,35.457],"type":"Point"}
+}

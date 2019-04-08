@@ -1,0 +1,83 @@
+{
+  "id": 1276796353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34306,35.23904,24.34306,35.23904",
+    "geom:latitude":35.23904,
+    "geom:longitude":24.34306,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Alones",
+    "gn:country_code":"GR",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265275,
+    "gn:latitude":35.23904,
+    "gn:longitude":24.34306,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Al\u00f3nes",
+    "gn:population":35,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ce\u03bd\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03ce\u03bd\u03b1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Alones"
+    ],
+    "name:und_x_variant":[
+        "Al\u00f3nes",
+        "Al\u00f3nai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265275
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5559c1826f8a7f5be7542f05adcc1cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276796353,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276796353,
+    "wof:lastmodified":1537624770,
+    "wof:name":"Alones",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34306,
+    35.23904,
+    24.34306,
+    35.23904
+],
+  "geometry": {"coordinates":[24.34306,35.23904],"type":"Point"}
+}

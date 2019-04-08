@@ -1,0 +1,80 @@
+{
+  "id": 1209847181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60577,38.70278,21.60577,38.70278",
+    "geom:latitude":38.70278,
+    "geom:longitude":21.60577,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Lambirion",
+    "gn:country_code":"GR",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258633,
+    "gn:latitude":38.70278,
+    "gn:longitude":21.60577,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Lamb\u00edrion",
+    "gn:population":103,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bc\u03c0\u03af\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Lampiri"
+    ],
+    "name:und_x_variant":[
+        "Lamb\u00edri",
+        "Lamb\u00edrion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258633
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7ce700beff2313e934a2f123b54f6faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209847181,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209847181,
+    "wof:lastmodified":1537624458,
+    "wof:name":"Lambirion",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60577,
+    38.70278,
+    21.60577,
+    38.70278
+],
+  "geometry": {"coordinates":[21.60577,38.70278],"type":"Point"}
+}

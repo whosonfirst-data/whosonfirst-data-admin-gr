@@ -1,0 +1,71 @@
+{
+  "id": 1343490649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83355,34.942,24.83355,34.942",
+    "geom:latitude":34.942,
+    "geom:longitude":24.83355,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308",
+    "gn:asciiname":"Chrysostomos",
+    "gn:country_code":"GR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8530603,
+    "gn:latitude":34.942,
+    "gn:longitude":24.83355,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chrys\u00f3stomos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chrys\u00f3stomos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c1\u03c5\u03c3\u03cc\u03c3\u03c4\u03bf\u03bc\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8530603
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eaa23af4f1a766dce044702d5902ed3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1343490649,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343490649,
+    "wof:lastmodified":1537625019,
+    "wof:name":"Chrysostomos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83355,
+    34.942,
+    24.83355,
+    34.942
+],
+  "geometry": {"coordinates":[24.83355,34.942],"type":"Point"}
+}

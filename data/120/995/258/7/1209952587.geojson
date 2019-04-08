@@ -1,0 +1,80 @@
+{
+  "id": 1209952587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80647,35.08551,25.80647,35.08551",
+    "geom:latitude":35.08551,
+    "geom:longitude":25.80647,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Vasiliki",
+    "gn:country_code":"GR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252203,
+    "gn:latitude":35.08551,
+    "gn:longitude":25.80647,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Vasilik\u00ed",
+    "gn:population":72,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Vasiliki"
+    ],
+    "name:und_x_variant":[
+        "Vasilik\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252203,
+        "wk:page":"Vasiliki%2C_Lasithi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3771719c7c38af318c134ad57712f6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209952587,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1209952587,
+    "wof:lastmodified":1537624173,
+    "wof:name":"Vasiliki",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80647,
+    35.08551,
+    25.80647,
+    35.08551
+],
+  "geometry": {"coordinates":[25.80647,35.08551],"type":"Point"}
+}

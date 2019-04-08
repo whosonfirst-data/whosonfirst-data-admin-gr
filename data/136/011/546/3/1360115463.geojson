@@ -1,0 +1,83 @@
+{
+  "id": 1360115463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98272,39.54336,22.98272,39.54336",
+    "geom:latitude":39.54336,
+    "geom:longitude":22.98272,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9108",
+    "gn:asciiname":"Veneto",
+    "gn:country_code":"GR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252034,
+    "gn:latitude":39.54336,
+    "gn:longitude":22.98272,
+    "gn:modification_date":"2015-04-30",
+    "gn:name":"V\u00e9neto",
+    "gn:population":67,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03bd\u03b5\u03c4\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03ad\u03bd\u03b5\u03c4\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Veneto"
+    ],
+    "name:und_x_variant":[
+        "V\u00e9neto",
+        "V\u00e9neton"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252034
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ed21c99632dfec8c2cc5b8604a5ad24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360115463,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1360115463,
+    "wof:lastmodified":1537624165,
+    "wof:name":"Veneto",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98272,
+    39.54336,
+    22.98272,
+    39.54336
+],
+  "geometry": {"coordinates":[22.98272,39.54336],"type":"Point"}
+}

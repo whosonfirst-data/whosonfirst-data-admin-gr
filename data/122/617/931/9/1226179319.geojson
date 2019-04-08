@@ -1,0 +1,76 @@
+{
+  "id": 1226179319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89397,38.32585,21.89397,38.32585",
+    "geom:latitude":38.32585,
+    "geom:longitude":21.89397,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134.0",
+    "gn:asciiname":"Kato Rodini",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10792368,
+    "gn:latitude":38.32585,
+    "gn:longitude":21.89397,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"K\u00e1to Rodin\u00ed",
+    "gn:population":133,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a1\u03bf\u03b4\u03b9\u03bd\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Rodini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792368
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"40a1cbd5b16401ccc550ddd26ef0983a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226179319,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226179319,
+    "wof:lastmodified":1537625088,
+    "wof:name":"Kato Rodini",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89397,
+    38.32585,
+    21.89397,
+    38.32585
+],
+  "geometry": {"coordinates":[21.89397,38.32585],"type":"Point"}
+}

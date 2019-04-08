@@ -1,0 +1,73 @@
+{
+  "id": 1226783885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41497,37.67212,21.41497,37.67212",
+    "geom:latitude":37.67212,
+    "geom:longitude":21.41497,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141.0",
+    "gn:asciiname":"Tragano",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11609622,
+    "gn:latitude":37.67212,
+    "gn:longitude":21.41497,
+    "gn:modification_date":"2017-07-13",
+    "gn:name":"Tragano",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b1\u03b3\u03b1\u03bd\u03cc\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03b1\u03b3\u03b1\u03bd\u03cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11609622
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fc715370d0e87dbe1c1fc3e982a7f616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226783885,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226783885,
+    "wof:lastmodified":1537625122,
+    "wof:name":"Tragano",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41497,
+    37.67212,
+    21.41497,
+    37.67212
+],
+  "geometry": {"coordinates":[21.41497,37.67212],"type":"Point"}
+}

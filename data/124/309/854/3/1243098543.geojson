@@ -1,0 +1,84 @@
+{
+  "id": 1243098543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95134,36.29081,22.95134,36.29081",
+    "geom:latitude":36.29081,
+    "geom:longitude":22.95134,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Kousounari",
+    "gn:country_code":"GR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258980,
+    "gn:latitude":36.29081,
+    "gn:longitude":22.95134,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Kousoun\u00e1ri",
+    "gn:population":19,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c3\u03bf\u03c5\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03c3\u03bf\u03c5\u03bd\u03ac\u03c1\u03b9\u03bf\u03bd",
+        "\u039a\u03bf\u03c5\u03c3\u03bf\u03c5\u03bd\u03ac\u03c1\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kousounari"
+    ],
+    "name:und_x_variant":[
+        "Kousoun\u00e1ri",
+        "Kousoun\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258980
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dfa2d2d64c4f5c26a71a2a7441fb4ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243098543,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1243098543,
+    "wof:lastmodified":1537624474,
+    "wof:name":"Kousounari",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95134,
+    36.29081,
+    22.95134,
+    36.29081
+],
+  "geometry": {"coordinates":[22.95134,36.29081],"type":"Point"}
+}

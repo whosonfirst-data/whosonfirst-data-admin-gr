@@ -1,0 +1,74 @@
+{
+  "id": 1310235689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.34602,35.20401,25.34602,35.20401",
+    "geom:latitude":35.20401,
+    "geom:longitude":25.34602,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Diavaide",
+    "gn:country_code":"GR",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263121,
+    "gn:latitude":35.20401,
+    "gn:longitude":25.34602,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Diava\u00efd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Diava\u00efd\u00e9"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03b1\u03b2\u03b1\u03ca\u03b4\u03ad",
+        "Dhiava\u00efdh\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263121
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3ca0daae83ee1bb8bbbcdccf39df6673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310235689,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310235689,
+    "wof:lastmodified":1537624668,
+    "wof:name":"Diavaide",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.34602000000001,
+    35.20401,
+    25.34602000000001,
+    35.20401
+],
+  "geometry": {"coordinates":[25.34602000000001,35.20401],"type":"Point"}
+}

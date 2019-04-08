@@ -1,0 +1,74 @@
+{
+  "id": 1226777963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97593,40.88217,25.97593,40.88217",
+    "geom:latitude":40.88217,
+    "geom:longitude":25.97593,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Agnanti",
+    "gn:country_code":"GR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736982,
+    "gn:latitude":40.88217,
+    "gn:longitude":25.97593,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Agn\u00e1nti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Agn\u00e1nti"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03bd\u03ac\u03bd\u03c4\u03b9",
+        "Agn\u00e1ndia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736982
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"62ddd0dc119a6f3731ffe377f4ff4dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226777963,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226777963,
+    "wof:lastmodified":1537624988,
+    "wof:name":"Agnanti",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97593,
+    40.88217,
+    25.97593,
+    40.88217
+],
+  "geometry": {"coordinates":[25.97593,40.88217],"type":"Point"}
+}

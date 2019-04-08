@@ -1,0 +1,79 @@
+{
+  "id": 1243398211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46739,40.80471,23.46739,40.80471",
+    "geom:latitude":40.80471,
+    "geom:longitude":23.46739,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9027",
+    "gn:asciiname":"Mavrouda",
+    "gn:country_code":"GR",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735306,
+    "gn:latitude":40.80471,
+    "gn:longitude":23.46739,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Mavro\u00fada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mavro\u00fada"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c5\u03c1\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Mavro\u00fadha",
+        "M\u00e1vrovon",
+        "Maro\u00fadha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735306,
+        "wk:page":"Mavrouda"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"abaa20b4784c08153f6cfd38aff8f470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243398211,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1243398211,
+    "wof:lastmodified":1537624894,
+    "wof:name":"Mavrouda",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46739,
+    40.80471,
+    23.46739,
+    40.80471
+],
+  "geometry": {"coordinates":[23.46739,40.80471],"type":"Point"}
+}

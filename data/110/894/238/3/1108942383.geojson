@@ -1,0 +1,65 @@
+{
+  "id": 1108942383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7423838385,37.9602466578,23.7423838385,37.9602466578",
+    "geom:latitude":37.960247,
+    "geom:longitude":23.742384,
+    "iso:country":"GR",
+    "lbl:latitude":37.960247,
+    "lbl:longitude":23.742384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03c1\u03c4\u03ad\u03bc\u03b9\u03bf\u03c2"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1175612731,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GR",
+    "wof:created":1491363053,
+    "wof:geomhash":"b97af1f5e497db87f76e619234846c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1175612731,
+            "neighbourhood_id":1108942383,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1108942383,
+    "wof:lastmodified":1538606683,
+    "wof:name":"Agios Artemios",
+    "wof:parent_id":1175612731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.74238383853933,
+    37.96024665783497,
+    23.74238383853933,
+    37.96024665783497
+],
+  "geometry": {"coordinates":[23.74238383853933,37.96024665783497],"type":"Point"}
+}

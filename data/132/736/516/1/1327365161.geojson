@@ -1,0 +1,75 @@
+{
+  "id": 1327365161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85576,41.23446,25.85576,41.23446",
+    "geom:latitude":41.23446,
+    "geom:longitude":25.85576,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9019",
+    "gn:asciiname":"Kechros",
+    "gn:country_code":"GR",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735836,
+    "gn:latitude":41.23446,
+    "gn:longitude":25.85576,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"K\u00e9chros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e9chros"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ad\u03c7\u03c1\u03bf\u03c2",
+        "K\u00e9khros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735836,
+        "wk:page":"Kechros"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dd4dea02752dacc0a9bd6fee37da137a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327365161,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327365161,
+    "wof:lastmodified":1537624926,
+    "wof:name":"Kechros",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85576,
+    41.23446,
+    25.85576,
+    41.23446
+],
+  "geometry": {"coordinates":[25.85576,41.23446],"type":"Point"}
+}

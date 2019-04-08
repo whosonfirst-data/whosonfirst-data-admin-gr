@@ -1,0 +1,92 @@
+{
+  "id": 1276479357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30453,40.58338,21.30453,40.58338",
+    "geom:latitude":40.58338,
+    "geom:longitude":21.30453,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9063",
+    "gn:asciiname":"Toichio",
+    "gn:country_code":"GR",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734054,
+    "gn:latitude":40.58338,
+    "gn:longitude":21.30453,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Toich\u00edo",
+    "gn:population":685,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043b\u0438\u0449\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03b9\u03c7\u03af\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03bf\u03b9\u03c7\u03af\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Toichio"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043b\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tikhi\u00f3n",
+        "Tikhol\u00edtsa",
+        "Toikh\u00edon",
+        "Toich\u00edo",
+        "Toich\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734054
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9ada1dfa216f16f14b3d7367279b3617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276479357,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1276479357,
+    "wof:lastmodified":1537624820,
+    "wof:name":"Toichio",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":685,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30453,
+    40.58338,
+    21.30453,
+    40.58338
+],
+  "geometry": {"coordinates":[21.30453,40.58338],"type":"Point"}
+}

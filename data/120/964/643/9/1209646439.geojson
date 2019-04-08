@@ -1,0 +1,74 @@
+{
+  "id": 1209646439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17377,38.7098,21.17377,38.7098",
+    "geom:latitude":38.7098,
+    "geom:longitude":21.17377,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9129",
+    "gn:asciiname":"Pappadatos",
+    "gn:country_code":"GR",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255806,
+    "gn:latitude":38.7098,
+    "gn:longitude":21.17377,
+    "gn:modification_date":"2017-04-26",
+    "gn:name":"Pappad\u00e1tos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pappad\u00e1tos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c0\u03c0\u03b1\u03b4\u03ac\u03c4\u03bf\u03c2",
+        "\u03a0\u03b1\u03c0\u03c0\u03b1\u03b4\u03ac\u03c4\u03bf\u03c5"
+    ],
+    "name:und_x_variant":[
+        "Papadh\u00e1tos",
+        "Pappadh\u00e1tos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255806
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9d5fae04893072ba8e56d8e0097afd81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209646439
+        }
+    ],
+    "wof:id":1209646439,
+    "wof:lastmodified":1537624323,
+    "wof:name":"Pappadatos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17377,
+    38.7098,
+    21.17377,
+    38.7098
+],
+  "geometry": {"coordinates":[21.17377,38.7098],"type":"Point"}
+}

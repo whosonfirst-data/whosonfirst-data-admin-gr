@@ -1,0 +1,74 @@
+{
+  "id": 1260010267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40777,37.3108,23.40777,37.3108",
+    "geom:latitude":37.3108,
+    "geom:longitude":23.40777,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9214",
+    "gn:asciiname":"Zogeri",
+    "gn:country_code":"GR",
+    "gn:dem":262,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9473407,
+    "gn:latitude":37.3108,
+    "gn:longitude":23.40777,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Z\u00f3geri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03ce\u03b3\u03b5\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Zogeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9473407
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d83aba194f8b64c33a4f7cad0b28269f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260010267,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1260010267,
+    "wof:lastmodified":1537625071,
+    "wof:name":"Zogeri",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40777000000001,
+    37.3108,
+    23.40777000000001,
+    37.3108
+],
+  "geometry": {"coordinates":[23.40777000000001,37.3108],"type":"Point"}
+}

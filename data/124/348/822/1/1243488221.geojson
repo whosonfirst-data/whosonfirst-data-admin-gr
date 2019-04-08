@@ -1,0 +1,70 @@
+{
+  "id": 1243488221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53918,40.42469,25.53918,40.42469",
+    "geom:latitude":40.42469,
+    "geom:longitude":25.53918,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9009.0",
+    "gn:asciiname":"Dafnes",
+    "gn:country_code":"GR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11496051,
+    "gn:latitude":40.42469,
+    "gn:longitude":25.53918,
+    "gn:modification_date":"2017-03-16",
+    "gn:name":"Dafnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03ac\u03c6\u03bd\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496051
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a94c17a72c12a0c386d8ea5f9cc415a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243488221,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243488221,
+    "wof:lastmodified":1537625117,
+    "wof:name":"Dafnes",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53918,
+    40.42469000000001,
+    25.53918,
+    40.42469000000001
+],
+  "geometry": {"coordinates":[25.53918,40.42469000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226580441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22297,40.33039,21.22297,40.33039",
+    "geom:latitude":40.33039,
+    "geom:longitude":21.22297,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Plakida",
+    "gn:country_code":"GR",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734594,
+    "gn:latitude":40.33039,
+    "gn:longitude":21.22297,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Plak\u00edda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Plak\u00edda"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03ba\u03af\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Lamb\u00e1nitsa",
+        "Plak\u00eddha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734594,
+        "wk:page":"Plakida"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4349239af1d1f86f7e2dd1f949387357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226580441,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1226580441,
+    "wof:lastmodified":1537624851,
+    "wof:name":"Plakida",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22297,
+    40.33039,
+    21.22297,
+    40.33039
+],
+  "geometry": {"coordinates":[21.22297,40.33039],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242613499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06956,39.95358,22.06956,39.95358",
+    "geom:latitude":39.95358,
+    "geom:longitude":22.06956,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9098",
+    "gn:asciiname":"Kleisoura",
+    "gn:country_code":"GR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259648,
+    "gn:latitude":39.95358,
+    "gn:longitude":22.06956,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kleiso\u00fara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kleiso\u00fara"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bb\u03b5\u03b9\u03c3\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kliso\u00fara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259648
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a1ee782c44d8fc3e359db8b7eb95c73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242613499,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242613499,
+    "wof:lastmodified":1537624500,
+    "wof:name":"Kleisoura",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06956,
+    39.95358,
+    22.06956,
+    39.95358
+],
+  "geometry": {"coordinates":[22.06956,39.95358],"type":"Point"}
+}

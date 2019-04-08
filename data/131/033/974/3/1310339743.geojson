@@ -1,0 +1,78 @@
+{
+  "id": 1310339743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2125,41.01188,24.2125,41.01188",
+    "geom:latitude":41.01188,
+    "geom:longitude":24.2125,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9001",
+    "gn:asciiname":"Kalamonas",
+    "gn:country_code":"GR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736077,
+    "gn:latitude":41.01188,
+    "gn:longitude":24.2125,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Kalam\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03bc\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03b1\u03bc\u03ce\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Bosin\u00f3s",
+        "Kalam\u00f3nas",
+        "Kalam\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736077
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1ab1454ceca415a0440453aea44455f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310339743,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310339743,
+    "wof:lastmodified":1537624938,
+    "wof:name":"Kalamonas",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2125,
+    41.01188,
+    24.2125,
+    41.01188
+],
+  "geometry": {"coordinates":[24.2125,41.01188],"type":"Point"}
+}

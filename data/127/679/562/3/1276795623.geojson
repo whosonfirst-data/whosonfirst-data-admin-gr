@@ -1,0 +1,73 @@
+{
+  "id": 1276795623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15175,37.06225,22.15175,37.06225",
+    "geom:latitude":37.06225,
+    "geom:longitude":22.15175,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Menina",
+    "gn:country_code":"GR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257265,
+    "gn:latitude":37.06225,
+    "gn:longitude":22.15175,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Menin\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Menin\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03bd\u03b9\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257265
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"48787a059f160570788d58d491fddb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276795623,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276795623,
+    "wof:lastmodified":1537624397,
+    "wof:name":"Menina",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15175,
+    37.06225,
+    22.15175,
+    37.06225
+],
+  "geometry": {"coordinates":[22.15175,37.06225],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309740575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.39206,36.70971,24.39206,36.70971",
+    "geom:latitude":36.70971,
+    "geom:longitude":24.39206,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9287",
+    "gn:asciiname":"Empourios",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644197,
+    "gn:latitude":36.70971,
+    "gn:longitude":24.39206,
+    "gn:modification_date":"2014-03-25",
+    "gn:name":"Empour\u00edos",
+    "gn:population":16,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bc\u03c0\u03bf\u03c5\u03c1\u03b5\u03b9\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Empourios"
+    ],
+    "name:und_x_variant":[
+        "Empoureios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644197
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"91ea92b4ce810539418f963e10bed15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309740575,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1309740575,
+    "wof:lastmodified":1537625033,
+    "wof:name":"Empourios",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39206,
+    36.70971,
+    24.39206,
+    36.70971
+],
+  "geometry": {"coordinates":[24.39206,36.70971],"type":"Point"}
+}

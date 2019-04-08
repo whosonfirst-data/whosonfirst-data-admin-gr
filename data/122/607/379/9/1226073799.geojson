@@ -1,0 +1,76 @@
+{
+  "id": 1226073799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7634,38.86845,21.7634,38.86845",
+    "geom:latitude":38.86845,
+    "geom:longitude":21.7634,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Klavsion",
+    "gn:country_code":"GR",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259684,
+    "gn:latitude":38.86845,
+    "gn:longitude":21.7634,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Kl\u00e1vsion",
+    "gn:population":117,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03b1\u03cd\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Klafsi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259684
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bfa57ed19d54fb07c81da9b371c73048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226073799,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226073799,
+    "wof:lastmodified":1537624502,
+    "wof:name":"Klavsion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7634,
+    38.86845,
+    21.7634,
+    38.86845
+],
+  "geometry": {"coordinates":[21.7634,38.86845],"type":"Point"}
+}

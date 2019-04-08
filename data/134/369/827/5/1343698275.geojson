@@ -1,0 +1,73 @@
+{
+  "id": 1343698275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4816,37.96272,23.4816,37.96272",
+    "geom:latitude":37.96272,
+    "geom:longitude":23.4816,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9211.0",
+    "gn:asciiname":"Agios Nikolaos",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040695,
+    "gn:latitude":37.96272,
+    "gn:longitude":23.4816,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Nik\u00f3laos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Nik\u00f3laos"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040695
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"df012c79ba719e2485478200d11f59b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343698275,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343698275,
+    "wof:lastmodified":1537625106,
+    "wof:name":"Agios Nikolaos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4816,
+    37.96272,
+    23.4816,
+    37.96272
+],
+  "geometry": {"coordinates":[23.4816,37.96272],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1210050213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73853,40.94036,24.73853,40.94036",
+    "geom:latitude":40.94036,
+    "geom:longitude":24.73853,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Peristerionas",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":734694,
+    "gn:latitude":40.94036,
+    "gn:longitude":24.73853,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Peristeri\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Peristeri\u00f3nas"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03b9\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "To\u00efl\u00e1r",
+        "Perister\u00f3na",
+        "Peristere\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734694
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"08005edf9404549d482fb74fba40fa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210050213,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1210050213,
+    "wof:lastmodified":1537624856,
+    "wof:name":"Peristerionas",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73853,
+    40.94036,
+    24.73853,
+    40.94036
+],
+  "geometry": {"coordinates":[24.73853,40.94036],"type":"Point"}
+}

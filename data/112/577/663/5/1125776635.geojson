@@ -1,0 +1,92 @@
+{
+  "id": 1125776635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45611,40.36889,22.45611,40.36889",
+    "geom:latitude":40.36889,
+    "geom:longitude":22.45611,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":694,
+    "gn:population":694,
+    "iso:country":"GR",
+    "lbl:latitude":40.36889,
+    "lbl:longitude":22.45611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03af\u03bb\u03bf\u03c6\u03bf\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Palion\u00e9llini"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734012,
+    "qs_pg:gn_pop":694,
+    "qs_pg:name":"Trilofos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":191679,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":963619,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734012,
+        "gp:id":963619,
+        "qs_pg:id":191679
+    },
+    "wof:country":"GR",
+    "wof:created":1497290289,
+    "wof:geomhash":"45d10d4d06c01ed8805d807345358fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125776635,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125776635,
+    "wof:lastmodified":1509391323,
+    "wof:name":"Trilofos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":694,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45611,
+    40.36889,
+    22.45611,
+    40.36889
+],
+  "geometry": {"coordinates":[22.45611,40.36889],"type":"Point"}
+}

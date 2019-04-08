@@ -1,0 +1,79 @@
+{
+  "id": 1209745787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8357,39.29633,21.8357,39.29633",
+    "geom:latitude":39.29633,
+    "geom:longitude":21.8357,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9092",
+    "gn:asciiname":"Agios Georgios",
+    "gn:country_code":"GR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263633,
+    "gn:latitude":39.29633,
+    "gn:longitude":21.8357,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c1gios Ge\u00f3rgios",
+    "gn:population":598,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Mavromand\u00edla",
+        "\u00c1yios Ye\u00f3ryios",
+        "\u00c1gios Ge\u00f3rgios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263633,
+        "wk:page":"Agios_Georgios%2C_Karditsa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"082f088dabb6855be183d64e69b3034d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209745787,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1209745787,
+    "wof:lastmodified":1537624691,
+    "wof:name":"Agios Georgios",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":598,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8357,
+    39.29633,
+    21.8357,
+    39.29633
+],
+  "geometry": {"coordinates":[21.8357,39.29633],"type":"Point"}
+}

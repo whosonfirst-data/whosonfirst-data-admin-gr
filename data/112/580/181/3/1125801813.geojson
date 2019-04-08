@@ -1,0 +1,137 @@
+{
+  "id": 1125801813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38001,38.38067,22.38001,38.38067",
+    "geom:latitude":38.38067,
+    "geom:longitude":22.38001,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":3030,
+    "iso:country":"GR",
+    "lbl:latitude":38.38067,
+    "lbl:longitude":22.38001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0644\u0627\u0643\u0633\u064a\u062f\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Galaxidi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03bb\u03b1\u03be\u03af\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b1\u03bb\u03b1\u03be\u03af\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Galaxidi"
+    ],
+    "name:eng_x_variant":[
+        "Galax\u00eddhion"
+    ],
+    "name:fre_x_preferred":[
+        "Galaxidi"
+    ],
+    "name:ger_x_preferred":[
+        "Galaxidi"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03b1\u03bb\u03b1\u03be\u03b5\u03af\u03b4\u03b9 \u03a6\u03c9\u03ba\u03af\u03b4\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Galaxidi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30e9\u30d2\u30c7\u30a3"
+    ],
+    "name:lat_x_preferred":[
+        "Galaxidium"
+    ],
+    "name:nno_x_preferred":[
+        "Galax\u00eddi"
+    ],
+    "name:rum_x_preferred":[
+        "Galaxidi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043a\u0441\u0438\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Galaxidi"
+    ],
+    "name:swe_x_preferred":[
+        "Galax\u00eddhion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":262133,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Galaxidhion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":280959,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":949850,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262133,
+        "gp:id":949850,
+        "qs_pg:id":280959,
+        "wd:id":"Q677906"
+    },
+    "wof:country":"GR",
+    "wof:created":1497291293,
+    "wof:geomhash":"2fa8e5953395d421dc1e5828f77b4731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125801813,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125801813,
+    "wof:lastmodified":1514443954,
+    "wof:name":"Galaxidhion",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3030,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38001,
+    38.38067,
+    22.38001,
+    38.38067
+],
+  "geometry": {"coordinates":[22.38001,38.38067],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1344087925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65524,35.20051,25.65524,35.20051",
+    "geom:latitude":35.20051,
+    "geom:longitude":25.65524,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Fioretzides",
+    "gn:country_code":"GR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262393,
+    "gn:latitude":35.20051,
+    "gn:longitude":25.65524,
+    "gn:modification_date":"2015-09-12",
+    "gn:name":"Fior\u00e9tzides",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03b9\u03bf\u03c1\u03ad\u03c4\u03b6\u03b7\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Fioretzides"
+    ],
+    "name:und_x_variant":[
+        "Fior\u00e9tsidho",
+        "Fioretz\u00eddhi",
+        "Fior\u00e9tzidhes",
+        "Fior\u00e9tzides"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262393
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a69302e20e8fefb7ff7d27a16de228f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087925,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1344087925,
+    "wof:lastmodified":1537624630,
+    "wof:name":"Fioretzides",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65524,
+    35.20050999999999,
+    25.65524,
+    35.20050999999999
+],
+  "geometry": {"coordinates":[25.65524,35.20050999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260016507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05884,41.11113,23.05884,41.11113",
+    "geom:latitude":41.11113,
+    "geom:longitude":23.05884,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"6.0",
+    "gn:admin3_code":"9040",
+    "gn:asciiname":"Agios Antonios",
+    "gn:country_code":"GR",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736624,
+    "gn:latitude":41.11113,
+    "gn:longitude":23.05884,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"\u00c1gios Ant\u00f3nios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Ant\u00f3nios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03c4\u03ce\u03bd\u03b9\u03bf\u03c2",
+        "\u00c1yios And\u00f3nios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736624
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"af5bd58dbc0139a7adc5e2fd43c7dc57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260016507,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1260016507,
+    "wof:lastmodified":1537624966,
+    "wof:name":"Agios Antonios",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05884,
+    41.11113,
+    23.05884,
+    41.11113
+],
+  "geometry": {"coordinates":[23.05884,41.11113],"type":"Point"}
+}

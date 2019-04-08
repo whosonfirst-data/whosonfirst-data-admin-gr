@@ -1,0 +1,75 @@
+{
+  "id": 1226179343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04897,40.54661,23.04897,40.54661",
+    "geom:latitude":40.54661,
+    "geom:longitude":23.04897,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9030",
+    "gn:asciiname":"Triadhion",
+    "gn:country_code":"GR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734030,
+    "gn:latitude":40.54661,
+    "gn:longitude":23.04897,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Tri\u00e1dhion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03ac\u03b4\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Tri\u00e1dhi",
+        "Tri\u00e1dhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734030,
+        "wk:page":"Triadi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e2919d61b707be74ef6d011766528481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226179343,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226179343,
+    "wof:lastmodified":1537624819,
+    "wof:name":"Triadhion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04897,
+    40.54661,
+    23.04897,
+    40.54661
+],
+  "geometry": {"coordinates":[23.04897,40.54661],"type":"Point"}
+}

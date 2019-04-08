@@ -1,0 +1,78 @@
+{
+  "id": 1259714677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.07971,35.52187,24.07971,35.52187",
+    "geom:latitude":35.52187,
+    "geom:longitude":24.07971,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Korakies",
+    "gn:country_code":"GR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259342,
+    "gn:latitude":35.52187,
+    "gn:longitude":24.07971,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Koraki\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03b1\u03ba\u03b9\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c1\u03b1\u03ba\u03b9\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "Koraka\u00ed",
+        "Koraki\u00e9s",
+        "Korakia\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259342
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cdaf2d2ab1b650f5890ff40ca5d61a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259714677,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259714677,
+    "wof:lastmodified":1537624487,
+    "wof:name":"Korakies",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07971,
+    35.52187,
+    24.07971,
+    35.52187
+],
+  "geometry": {"coordinates":[24.07971,35.52187],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310139671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46723,37.04069,22.46723,37.04069",
+    "geom:latitude":37.04069,
+    "geom:longitude":22.46723,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9252",
+    "gn:asciiname":"Zaganon",
+    "gn:country_code":"GR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251294,
+    "gn:latitude":37.04069,
+    "gn:longitude":22.46723,
+    "gn:modification_date":"2014-04-23",
+    "gn:name":"Zag\u00e1non",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03b3\u03ac\u03bd\u03bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251294
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a04d6fca1b444277fefb9f0dc3d087f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310139671,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310139671,
+    "wof:lastmodified":1537550827,
+    "wof:name":"Zaganon",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46723,
+    37.04069000000001,
+    22.46723,
+    37.04069000000001
+],
+  "geometry": {"coordinates":[22.46723,37.04069000000001],"type":"Point"}
+}

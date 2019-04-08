@@ -1,0 +1,81 @@
+{
+  "id": 1327061573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91103,35.41196,26.91103,35.41196",
+    "geom:latitude":35.41196,
+    "geom:longitude":26.91103,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9281",
+    "gn:asciiname":"Agia Marina",
+    "gn:country_code":"GR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264224,
+    "gn:latitude":35.41196,
+    "gn:longitude":26.91103,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Ag\u00eda Mar\u00edna",
+    "gn:population":444,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Marina"
+    ],
+    "name:und_x_variant":[
+        "Saint Marina",
+        "Ay\u00eda Mar\u00edna",
+        "Ag\u00eda Mar\u00edna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264224
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a2f23990da85e2b2c5806c4e35087308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327061573,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1327061573,
+    "wof:lastmodified":1537624719,
+    "wof:name":"Agia Marina",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":444,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91103,
+    35.41196,
+    26.91103,
+    35.41196
+],
+  "geometry": {"coordinates":[26.91103,35.41196],"type":"Point"}
+}

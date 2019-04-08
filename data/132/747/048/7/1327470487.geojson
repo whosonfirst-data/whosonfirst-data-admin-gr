@@ -1,0 +1,73 @@
+{
+  "id": 1327470487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20656,37.51728,23.20656,37.51728",
+    "geom:latitude":37.51728,
+    "geom:longitude":23.20656,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Radhon",
+    "gn:country_code":"GR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254428,
+    "gn:latitude":37.51728,
+    "gn:longitude":23.20656,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"R\u00e1dhon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03b4\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Rado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254428
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d0121d51a12bf218c12570719e16a5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327470487,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327470487,
+    "wof:lastmodified":1537624268,
+    "wof:name":"Radhon",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20656,
+    37.51728,
+    23.20656,
+    37.51728
+],
+  "geometry": {"coordinates":[23.20656,37.51728],"type":"Point"}
+}

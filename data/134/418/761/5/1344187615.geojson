@@ -1,0 +1,73 @@
+{
+  "id": 1344187615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00128,35.23395,25.00128,35.23395",
+    "geom:latitude":35.23395,
+    "geom:longitude":25.00128,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306",
+    "gn:asciiname":"Kritharida",
+    "gn:country_code":"GR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560694,
+    "gn:latitude":35.23395,
+    "gn:longitude":25.00128,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Krithar\u00edda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Krithar\u00edda"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b9\u03b8\u03b1\u03c1\u03af\u03b4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560694
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5965e22c5a3641b52693f2ac75c9a422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344187615,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1344187615,
+    "wof:lastmodified":1537625022,
+    "wof:name":"Kritharida",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00128,
+    35.23395,
+    25.00128,
+    35.23395
+],
+  "geometry": {"coordinates":[25.00128,35.23395],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327164629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61023,40.68896,23.61023,40.68896",
+    "geom:latitude":40.68896,
+    "geom:longitude":23.61023,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9027",
+    "gn:asciiname":"Vamvakia",
+    "gn:country_code":"GR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733957,
+    "gn:latitude":40.68896,
+    "gn:longitude":23.61023,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Vamvaki\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vamvaki\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733957
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"12b1bc9e644a4c73b9e2846077359048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327164629,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1327164629,
+    "wof:lastmodified":1537624816,
+    "wof:name":"Vamvakia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61023,
+    40.68896,
+    23.61023,
+    40.68896
+],
+  "geometry": {"coordinates":[23.61023,40.68896],"type":"Point"}
+}

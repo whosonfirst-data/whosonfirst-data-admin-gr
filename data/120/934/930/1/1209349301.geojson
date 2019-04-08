@@ -1,0 +1,78 @@
+{
+  "id": 1209349301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30294,39.37277,26.30294,39.37277",
+    "geom:latitude":39.37277,
+    "geom:longitude":26.30294,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Skala Sykaminias",
+    "gn:country_code":"GR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412030,
+    "gn:latitude":39.37277,
+    "gn:longitude":26.30294,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Sk\u00e1la Sykamini\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u03a3\u03c5\u03ba\u03b1\u03bc\u03b9\u03bd\u03ad\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u03a3\u03ba\u03b1\u03bc\u03bd\u03b9\u03ac\u03c2",
+        "Sk\u00e1la Sykamini\u00e1s",
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u03a3\u03c5\u03ba\u03b1\u03bc\u03b9\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Skala Sykamineas"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00e1la Sikamin\u00e9as",
+        "Sk\u00e1la Sykamin\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412030
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"79f0ba0b651dd50807f51aadecc474ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209349301
+        }
+    ],
+    "wof:id":1209349301,
+    "wof:lastmodified":1537624790,
+    "wof:name":"Skala Sykaminias",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30294,
+    39.37277,
+    26.30294,
+    39.37277
+],
+  "geometry": {"coordinates":[26.30294,39.37277],"type":"Point"}
+}

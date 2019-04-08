@@ -1,0 +1,78 @@
+{
+  "id": 1293818145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59292,40.09674,21.59292,40.09674",
+    "geom:latitude":40.09674,
+    "geom:longitude":21.59292,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Knidi",
+    "gn:country_code":"GR",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735681,
+    "gn:latitude":40.09674,
+    "gn:longitude":21.59292,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kn\u00eddi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kn\u00eddi"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bd\u03af\u03b4\u03b7"
+    ],
+    "name:und_x_variant":[
+        "K\u00f3priva",
+        "Kn\u00eddhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735681,
+        "wk:page":"Knidi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e87644e7818cd4cb2c5f1b3f51264947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293818145,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293818145,
+    "wof:lastmodified":1537624917,
+    "wof:name":"Knidi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59292,
+    40.09674,
+    21.59292,
+    40.09674
+],
+  "geometry": {"coordinates":[21.59292,40.09674],"type":"Point"}
+}

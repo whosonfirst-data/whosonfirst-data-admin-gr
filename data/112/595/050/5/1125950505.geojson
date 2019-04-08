@@ -1,0 +1,124 @@
+{
+  "id": 1125950505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85,37.13333,26.85,37.13333",
+    "geom:latitude":37.13333,
+    "geom:longitude":26.85,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1956,
+    "gn:population":1956,
+    "iso:country":"GR",
+    "lbl:latitude":37.13333,
+    "lbl:longitude":26.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0643\u0643\u064a\u0648\u0646\u060c \u062f\u0648\u062f\u064a\u0643\u0627\u0646\u064a\u0633\u0648\u0633"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03ba\u03ba\u03af\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03ba\u03ba\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Lakki"
+    ],
+    "name:fin_x_preferred":[
+        "Lakk\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Lakki"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03ba\u03ba\u03af \u039b\u03ad\u03c1\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Lakki"
+    ],
+    "name:nno_x_preferred":[
+        "Lakk\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Lakk\u00edon"
+    ],
+    "name:unk_x_variant":[
+        "Portolago"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258672,
+    "qs_pg:gn_pop":1956,
+    "qs_pg:name":"Lakkion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":947601,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":954933,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258672,
+        "gp:id":954933,
+        "qs_pg:id":947601,
+        "wd:id":"Q3216489"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297438,
+    "wof:geomhash":"85339f4b86d9701b4ec943f14a5df81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125950505,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125950505,
+    "wof:lastmodified":1514443993,
+    "wof:name":"Lakkion",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":1956,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85,
+    37.13333,
+    26.85,
+    37.13333
+],
+  "geometry": {"coordinates":[26.85,37.13333],"type":"Point"}
+}

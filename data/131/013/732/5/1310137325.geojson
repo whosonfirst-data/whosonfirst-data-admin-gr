@@ -1,0 +1,83 @@
+{
+  "id": 1310137325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88912,40.94981,23.88912,40.94981",
+    "geom:latitude":40.94981,
+    "geom:longitude":23.88912,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9053",
+    "gn:asciiname":"Myrrini",
+    "gn:country_code":"GR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735082,
+    "gn:latitude":40.94981,
+    "gn:longitude":23.88912,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"Myrr\u00edni",
+    "gn:population":236,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c5\u03c1\u03c1\u03af\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Myrrini"
+    ],
+    "name:und_x_variant":[
+        "Koch\u00e1kion",
+        "Mir\u00edni",
+        "Kots\u00e1k",
+        "Mirr\u00edni",
+        "Myrr\u00edni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735082
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"80a475c7ca3f243d27ffe8ce6541bf40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310137325,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310137325,
+    "wof:lastmodified":1537624878,
+    "wof:name":"Myrrini",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88912,
+    40.94981,
+    23.88912,
+    40.94981
+],
+  "geometry": {"coordinates":[23.88912,40.94981],"type":"Point"}
+}

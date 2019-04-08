@@ -1,0 +1,80 @@
+{
+  "id": 1293136693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34905,35.28788,24.34905,35.28788",
+    "geom:latitude":35.28788,
+    "geom:longitude":24.34905,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Kato Poros",
+    "gn:country_code":"GR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260499,
+    "gn:latitude":35.28788,
+    "gn:longitude":24.34905,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"K\u00e1to P\u00f3ros",
+    "gn:population":53,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a0\u03cc\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Poros"
+    ],
+    "name:und_x_variant":[
+        "P\u00f3ros",
+        "K\u00e1to P\u00f3ros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260499
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0b5b145fa54428c439a354a492b3953f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293136693,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293136693,
+    "wof:lastmodified":1537624543,
+    "wof:name":"Kato Poros",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34905,
+    35.28788,
+    24.34905,
+    35.28788
+],
+  "geometry": {"coordinates":[24.34905,35.28788],"type":"Point"}
+}

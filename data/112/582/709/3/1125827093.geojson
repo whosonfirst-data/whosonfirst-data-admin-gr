@@ -1,0 +1,85 @@
+{
+  "id": 1125827093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.75722,39.745,19.75722,39.745",
+    "geom:latitude":39.745,
+    "geom:longitude":19.75722,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":298,
+    "gn:population":185,
+    "iso:country":"GR",
+    "lbl:latitude":39.745,
+    "lbl:longitude":19.75722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u0394\u03bf\u03cd\u03bb\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Agioi Douloi"
+    ],
+    "name:unk_x_variant":[
+        "\u00c1yioi Dho\u00fali"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2463768,
+    "qs_pg:gn_pop":298,
+    "qs_pg:name":"\u00c1gioi Do\u00faloi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":574143,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463768,
+        "qs_pg:id":574143
+    },
+    "wof:country":"GR",
+    "wof:created":1497292327,
+    "wof:geomhash":"5e50622591be140b751fd0f123059f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125827093,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125827093,
+    "wof:lastmodified":1509394457,
+    "wof:name":"\u00c1gioi Do\u00faloi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.75722,
+    39.745,
+    19.75722,
+    39.745
+],
+  "geometry": {"coordinates":[19.75722,39.745],"type":"Point"}
+}

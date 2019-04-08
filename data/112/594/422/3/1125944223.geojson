@@ -1,0 +1,92 @@
+{
+  "id": 1125944223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17667,39.34389,21.17667,39.34389",
+    "geom:latitude":39.34389,
+    "geom:longitude":21.17667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":84,
+    "gn:population":84,
+    "iso:country":"GR",
+    "lbl:latitude":39.34389,
+    "lbl:longitude":21.17667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Potami\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254829,
+    "qs_pg:gn_pop":84,
+    "qs_pg:name":"Potamia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1285074,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":960580,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254829,
+        "gp:id":960580,
+        "qs_pg:id":1285074
+    },
+    "wof:country":"GR",
+    "wof:created":1497297221,
+    "wof:geomhash":"0b68bce357b4ae1950e345687121eceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125944223,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125944223,
+    "wof:lastmodified":1509402274,
+    "wof:name":"Potamia",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17667,
+    39.34389,
+    21.17667,
+    39.34389
+],
+  "geometry": {"coordinates":[21.17667,39.34389],"type":"Point"}
+}

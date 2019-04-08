@@ -1,0 +1,75 @@
+{
+  "id": 1343792497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.19599,41.09225,25.19599,41.09225",
+    "geom:latitude":41.09225,
+    "geom:longitude":25.19599,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9020",
+    "gn:asciiname":"Mosaiko",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735043,
+    "gn:latitude":41.09225,
+    "gn:longitude":25.19599,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Mosa\u00efk\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mosa\u00efk\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c9\u03c3\u03b1\u03ca\u03ba\u03cc",
+        "Mosa\u00efk\u00f3n",
+        "\u039c\u03c9\u03c3\u03b1\u03ca\u03ba\u03cc\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735043
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c51c14962254f32d1d0e9a8ca9ef11e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343792497,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343792497,
+    "wof:lastmodified":1537624875,
+    "wof:name":"Mosaiko",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.19599,
+    41.09225,
+    25.19599,
+    41.09225
+],
+  "geometry": {"coordinates":[25.19599,41.09225],"type":"Point"}
+}

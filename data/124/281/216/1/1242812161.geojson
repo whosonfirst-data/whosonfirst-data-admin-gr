@@ -1,0 +1,76 @@
+{
+  "id": 1242812161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53903,36.95988,25.53903,36.95988",
+    "geom:latitude":36.95988,
+    "geom:longitude":25.53903,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292.0",
+    "gn:asciiname":"Panermos",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794106,
+    "gn:latitude":36.95988,
+    "gn:longitude":25.53903,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"P\u00e1nermos",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bd\u03b5\u03c1\u03bc\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Panermos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794106
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5e1a74b854060a07f53b1f123116f880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242812161,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1242812161,
+    "wof:lastmodified":1537625091,
+    "wof:name":"Panermos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53903,
+    36.95988,
+    25.53903,
+    36.95988
+],
+  "geometry": {"coordinates":[25.53903,36.95988],"type":"Point"}
+}

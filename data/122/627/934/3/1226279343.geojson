@@ -1,0 +1,80 @@
+{
+  "id": 1226279343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91883,39.58167,20.91883,39.58167",
+    "geom:latitude":39.58167,
+    "geom:longitude":20.91883,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9084",
+    "gn:asciiname":"Goritsa",
+    "gn:country_code":"GR",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261980,
+    "gn:latitude":39.58167,
+    "gn:longitude":20.91883,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Gor\u00edtsa",
+    "gn:population":289,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c1\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Goritsa"
+    ],
+    "name:und_x_variant":[
+        "Go\u00farista",
+        "Gor\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261980
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"260420129dbd96f76080ec2e53683cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226279343,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1226279343,
+    "wof:lastmodified":1537624615,
+    "wof:name":"Goritsa",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91883,
+    39.58167,
+    20.91883,
+    39.58167
+],
+  "geometry": {"coordinates":[20.91883,39.58167],"type":"Point"}
+}

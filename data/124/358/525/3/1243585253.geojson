@@ -1,0 +1,86 @@
+{
+  "id": 1243585253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72406,39.42269,20.72406,39.42269",
+    "geom:latitude":39.42269,
+    "geom:longitude":20.72406,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Monodendro",
+    "gn:country_code":"GR",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445352,
+    "gn:latitude":39.42269,
+    "gn:longitude":20.72406,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"Mon\u00f3dendro",
+    "gn:population":83,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03cc\u03b4\u03b5\u03bd\u03b4\u03c1\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bd\u03cc\u03b4\u03b5\u03bd\u03c4\u03c1\u03bf",
+        "\u039c\u03bf\u03bd\u03cc\u03b4\u03b5\u03bd\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Monodendro"
+    ],
+    "name:und_x_variant":[
+        "Mon\u00f3dendro",
+        "Mon\u00f3dendron",
+        "Mon\u00f3dentro",
+        "Mon\u00f3dentron"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445352
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7f8a68f82f6bdcd64e0b83378187f3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243585253,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1243585253,
+    "wof:lastmodified":1537624804,
+    "wof:name":"Monodendro",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72406,
+    39.42269,
+    20.72406,
+    39.42269
+],
+  "geometry": {"coordinates":[20.72406,39.42269],"type":"Point"}
+}

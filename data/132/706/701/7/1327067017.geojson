@@ -1,0 +1,80 @@
+{
+  "id": 1327067017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78567,37.65174,26.78567,37.65174",
+    "geom:latitude":37.65174,
+    "geom:longitude":26.78567,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Avanti",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383270,
+    "gn:latitude":37.65174,
+    "gn:longitude":26.78567,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Av\u00e1nti",
+    "gn:population":16,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0396\u03ad\u03c6\u03c5\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b2\u03ac\u03bd\u03c4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03ad\u03c6\u03c5\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Avanti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383270
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a3bf65b040383a00fc05ee641bf95e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1327067017,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327067017,
+    "wof:lastmodified":1537625063,
+    "wof:name":"Avanti",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78567,
+    37.65174,
+    26.78567,
+    37.65174
+],
+  "geometry": {"coordinates":[26.78567,37.65174],"type":"Point"}
+}

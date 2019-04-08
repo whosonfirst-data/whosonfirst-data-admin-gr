@@ -1,0 +1,75 @@
+{
+  "id": 1360220735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9122,39.58289,19.9122,39.58289",
+    "geom:latitude":39.58289,
+    "geom:longitude":19.9122,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Perama",
+    "gn:country_code":"GR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165903,
+    "gn:latitude":39.58289,
+    "gn:longitude":19.9122,
+    "gn:modification_date":"2017-10-27",
+    "gn:name":"Perama",
+    "gn:population":1021,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03b1\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Perama"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165903
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bc21d5fff0656a2c5a9e9b27ab4ec526",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360220735,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360220735,
+    "wof:lastmodified":1537625048,
+    "wof:name":"Perama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1021,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9122,
+    39.58289,
+    19.9122,
+    39.58289
+],
+  "geometry": {"coordinates":[19.9122,39.58289],"type":"Point"}
+}

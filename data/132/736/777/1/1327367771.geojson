@@ -1,0 +1,67 @@
+{
+  "id": 1327367771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56326,38.64202,20.56326,38.64202",
+    "geom:latitude":38.64202,
+    "geom:longitude":20.56326,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Lefkas Egremni",
+    "gn:country_code":"GR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9265049,
+    "gn:latitude":38.64202,
+    "gn:longitude":20.56326,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Lefkas Egremni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9265049
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"da2dff8fb674720df2756414a24f7f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327367771,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327367771,
+    "wof:lastmodified":1536774841,
+    "wof:name":"Lefkas Egremni",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56326,
+    38.64202,
+    20.56326,
+    38.64202
+],
+  "geometry": {"coordinates":[20.56326,38.64202],"type":"Point"}
+}

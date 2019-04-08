@@ -1,0 +1,75 @@
+{
+  "id": 1226785407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66741,37.17063,22.66741,37.17063",
+    "geom:latitude":37.17063,
+    "geom:longitude":22.66741,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9240",
+    "gn:asciiname":"Platanaki",
+    "gn:country_code":"GR",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255081,
+    "gn:latitude":37.17063,
+    "gn:longitude":22.66741,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Platan\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Platan\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03ac\u03ba\u03b9",
+        "Platan\u00e1kion",
+        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255081
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dab3d1d47b0fcb77ada613eb55954684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226785407,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226785407,
+    "wof:lastmodified":1537624290,
+    "wof:name":"Platanaki",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66741,
+    37.17063,
+    22.66741,
+    37.17063
+],
+  "geometry": {"coordinates":[22.66741,37.17063],"type":"Point"}
+}

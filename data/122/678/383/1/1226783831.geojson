@@ -1,0 +1,76 @@
+{
+  "id": 1226783831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30346,37.31458,22.30346,37.31458",
+    "geom:latitude":37.31458,
+    "geom:longitude":22.30346,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241.0",
+    "gn:asciiname":"Moni Agiou Nikolaou Kaltezon",
+    "gn:country_code":"GR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10859176,
+    "gn:latitude":37.31458,
+    "gn:longitude":22.30346,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Mon\u00ed Ag\u00edou Nikol\u00e1ou Kaltez\u00f3n",
+    "gn:population":4,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u0391\u03b3\u03af\u03bf\u03c5 \u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5 \u039a\u03b1\u03bb\u03c4\u03b5\u03b6\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Moni Agiou Nikolaou Kaltezon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859176
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a3ffb4794c198febe5c9d7587b144576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226783831,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226783831,
+    "wof:lastmodified":1537625092,
+    "wof:name":"Moni Agiou Nikolaou Kaltezon",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30346,
+    37.31458,
+    22.30346,
+    37.31458
+],
+  "geometry": {"coordinates":[22.30346,37.31458],"type":"Point"}
+}

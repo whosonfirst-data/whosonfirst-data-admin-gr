@@ -1,0 +1,134 @@
+{
+  "id": 101857525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.991346,40.659084,22.991346,40.659084",
+    "geom:latitude":40.659084,
+    "geom:longitude":22.991346,
+    "gn:population":2288,
+    "iso:country":"GR",
+    "lbl:latitude":40.659084,
+    "lbl:longitude":22.991346,
+    "mps:latitude":40.659084,
+    "mps:longitude":22.991346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u0643\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u042e\u0440\u0435\u043d\u0434\u0436\u0438\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Pefka"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03cd\u03ba\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03cd\u03ba\u03b1",
+        "\u03a1\u03b5\u03c4\u03b6\u03af\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pefka"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00e9fka"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03cd\u03ba\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Pefka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30d5\u30ab"
+    ],
+    "name:mac_x_preferred":[
+        "\u0408\u0443\u0440\u0435\u043d\u045f\u0438\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0443\u0440\u0435\u043d\u045f\u0438\u043a"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e9vka"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e9fka"
+    ],
+    "name:unk_x_variant":[
+        "Retz\u00edki"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0641\u06a9\u0627"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0395\u03a5\u039a\u0391",
+    "qs:loc_alt":"PEYKA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734405,
+        "gp:id":55869909,
+        "qs:id":342599,
+        "qs_pg:id":342599,
+        "wd:id":"Q2164623",
+        "wk:page":"Pefka"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b5f4b93b101d060f4bb24a45656998c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857525,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857525,
+    "wof:lastmodified":1544743942,
+    "wof:name":"\u03a0\u0395\u03a5\u039a\u0391",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2288,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.991346,
+    40.659084,
+    22.991346,
+    40.659084
+],
+  "geometry": {"coordinates":[22.991346,40.659084],"type":"Point"}
+}

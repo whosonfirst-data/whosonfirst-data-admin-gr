@@ -1,0 +1,85 @@
+{
+  "id": 1309747057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45016,38.52816,21.45016,38.52816",
+    "geom:latitude":38.52816,
+    "geom:longitude":21.45016,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Pappadhatai",
+    "gn:country_code":"GR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255808,
+    "gn:latitude":38.52816,
+    "gn:longitude":21.45016,
+    "gn:modification_date":"2017-06-30",
+    "gn:name":"Pappadh\u00e1tai",
+    "gn:population":1077,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c0\u03b1\u03b4\u03ac\u03c4\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c0\u03b1\u03b4\u03ac\u03c4\u03b1\u03b9",
+        "\u03a0\u03b1\u03c0\u03c0\u03b1\u03b4\u03ac\u03c4\u03b5\u03c2",
+        "\u03a0\u03b1\u03c0\u03c0\u03b1\u03b4\u03ac\u03c4\u03b1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Papadates"
+    ],
+    "name:und_x_variant":[
+        "Papadh\u00e1tais",
+        "Pappadh\u00e1tai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255808
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"66ad8dd4a687917868f05a698e68b641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309747057,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309747057,
+    "wof:lastmodified":1537624323,
+    "wof:name":"Pappadhatai",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":1077,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45016,
+    38.52816,
+    21.45016,
+    38.52816
+],
+  "geometry": {"coordinates":[21.45016,38.52816],"type":"Point"}
+}

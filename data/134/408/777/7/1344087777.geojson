@@ -1,0 +1,79 @@
+{
+  "id": 1344087777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26578,40.11336,21.26578,40.11336",
+    "geom:latitude":40.11336,
+    "geom:longitude":21.26578,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Megaro",
+    "gn:country_code":"GR",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735246,
+    "gn:latitude":40.11336,
+    "gn:longitude":21.26578,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"M\u00e9garo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00e9garo"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ad\u03b3\u03b1\u03c1\u03bf",
+        "\u039c\u03ad\u03b3\u03b1\u03c1\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Rados\u00ednista",
+        "M\u00e9garon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735246,
+        "wk:page":"Megaro"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"191e1d7c35238c391b77bb13302b4571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087777,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1344087777,
+    "wof:lastmodified":1537624890,
+    "wof:name":"Megaro",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26578,
+    40.11336,
+    21.26578,
+    40.11336
+],
+  "geometry": {"coordinates":[21.26578,40.11336],"type":"Point"}
+}

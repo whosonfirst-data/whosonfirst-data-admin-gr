@@ -1,0 +1,73 @@
+{
+  "id": 1360321963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63495,35.25459,24.63495,35.25459",
+    "geom:latitude":35.25459,
+    "geom:longitude":24.63495,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Agia Foteini",
+    "gn:country_code":"GR",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8262246,
+    "gn:latitude":35.25459,
+    "gn:longitude":24.63495,
+    "gn:modification_date":"2013-01-13",
+    "gn:name":"Ag\u00eda Fotein\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ag\u00eda Fotein\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u03a6\u03c9\u03c4\u03b5\u03b9\u03bd\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8262246
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f967fa1716d3db8a2fb46fc1fe3d3a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360321963,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360321963,
+    "wof:lastmodified":1537625003,
+    "wof:name":"Agia Foteini",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63495,
+    35.25459,
+    24.63495,
+    35.25459
+],
+  "geometry": {"coordinates":[24.63495,35.25459],"type":"Point"}
+}

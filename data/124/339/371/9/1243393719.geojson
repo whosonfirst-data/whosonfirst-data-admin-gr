@@ -1,0 +1,73 @@
+{
+  "id": 1243393719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01027,37.86802,24.01027,37.86802",
+    "geom:latitude":37.86802,
+    "geom:longitude":24.01027,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9221.0",
+    "gn:asciiname":"Amfithea",
+    "gn:country_code":"GR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988214,
+    "gn:latitude":37.86802,
+    "gn:longitude":24.01027,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Amfith\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Amfith\u00e9a"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c6\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988214
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3ac9c3b417de99128d5bef7d3b9077b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243393719,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1243393719,
+    "wof:lastmodified":1537625099,
+    "wof:name":"Amfithea",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01027,
+    37.86802,
+    24.01027,
+    37.86802
+],
+  "geometry": {"coordinates":[24.01027,37.86802],"type":"Point"}
+}

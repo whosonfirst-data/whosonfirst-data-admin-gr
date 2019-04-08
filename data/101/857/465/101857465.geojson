@@ -1,0 +1,122 @@
+{
+  "id": 101857465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.602382,40.672157,22.602382,40.672157",
+    "geom:latitude":40.672157,
+    "geom:longitude":22.602382,
+    "gn:population":2312,
+    "iso:country":"GR",
+    "lbl:latitude":40.672157,
+    "lbl:longitude":22.602382,
+    "mps:latitude":40.672157,
+    "mps:longitude":22.602382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u062f\u064a\u0646\u062f\u0631\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Adendro"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b4\u03b5\u03bd\u03b4\u03c1\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b4\u03b5\u03bd\u03b4\u03c1\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Adendro"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b4\u03b5\u03bd\u03b4\u03c1\u03bf \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0440\u045f\u0430\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u045f\u0430\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c1dendro"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1dendro"
+    ],
+    "name:unk_x_variant":[
+        "Kirjil\u00e1r"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0394\u0395\u039d\u0394\u03a1\u039f\u039d",
+    "qs:loc_alt":"ADENDRON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":40.666667,
+    "wd:longitude":22.6,
+    "wd:population":2079,
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737002,
+        "gp:id":944851,
+        "qs:id":553019,
+        "wd:id":"Q3566838",
+        "wk:page":"Adendro"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e7f03af8a8b4921a491a992a8b76cf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857465,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857465,
+    "wof:lastmodified":1544743910,
+    "wof:name":"\u0391\u0394\u0395\u039d\u0394\u03a1\u039f\u039d",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2079,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.602382,
+    40.672157,
+    22.602382,
+    40.672157
+],
+  "geometry": {"coordinates":[22.602382,40.672157],"type":"Point"}
+}

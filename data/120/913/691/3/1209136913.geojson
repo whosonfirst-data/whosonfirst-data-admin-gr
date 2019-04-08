@@ -1,0 +1,72 @@
+{
+  "id": 1209136913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82325,37.69543,20.82325,37.69543",
+    "geom:latitude":37.69543,
+    "geom:longitude":20.82325,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Ai Giannis",
+    "gn:country_code":"GR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166435,
+    "gn:latitude":37.69543,
+    "gn:longitude":20.82325,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Ai Gi\u00e1nnis",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b7 \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ai Giannis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166435
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f6373c300f4c615d29820948f7d34f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209136913
+        }
+    ],
+    "wof:id":1209136913,
+    "wof:lastmodified":1537625052,
+    "wof:name":"Ai Giannis",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82325,
+    37.69543,
+    20.82325,
+    37.69543
+],
+  "geometry": {"coordinates":[20.82325,37.69543],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225875497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76413,37.50336,21.76413,37.50336",
+    "geom:latitude":37.50336,
+    "geom:longitude":21.76413,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9138",
+    "gn:asciiname":"Mithi",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256880,
+    "gn:latitude":37.50336,
+    "gn:longitude":21.76413,
+    "gn:modification_date":"2013-06-12",
+    "gn:name":"M\u00edthi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c1lvina",
+        "Alvena",
+        "M\u00edthi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256880
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"64f577656280e758f4868ec44da86507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875497,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1225875497,
+    "wof:lastmodified":1537624374,
+    "wof:name":"Mithi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76413,
+    37.50336,
+    21.76413,
+    37.50336
+],
+  "geometry": {"coordinates":[21.76413,37.50336],"type":"Point"}
+}

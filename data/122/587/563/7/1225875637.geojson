@@ -1,0 +1,80 @@
+{
+  "id": 1225875637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37377,40.34041,21.37377,40.34041",
+    "geom:latitude":40.34041,
+    "geom:longitude":21.37377,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Cheimerino",
+    "gn:country_code":"GR",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735781,
+    "gn:latitude":40.34041,
+    "gn:longitude":21.37377,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Cheimerin\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Cheimerin\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc",
+        "Cheimerin\u00f3n",
+        "\u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "V\u00e1\u00efpes",
+        "Khimerin\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735781,
+        "wk:page":"Cheimerino"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cda2c17d71845e7b993ed32d9bb12f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875637,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1225875637,
+    "wof:lastmodified":1537624923,
+    "wof:name":"Cheimerino",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37377,
+    40.34041,
+    21.37377,
+    40.34041
+],
+  "geometry": {"coordinates":[21.37377,40.34041],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1125776507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72185,38.71974,20.72185,38.71974",
+    "geom:latitude":38.71974,
+    "geom:longitude":20.72185,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":284,
+    "gn:population":315,
+    "iso:country":"GR",
+    "lbl:latitude":38.71974,
+    "lbl:longitude":20.72185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u0391\u03c7\u03bf\u03cd\u03c1\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b3\u03b9\u03ac\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b3\u03b9\u03ac\u03bb\u03b9\u03bf\u03bd",
+        "\u0391\u03c7\u03bf\u03cd\u03c1\u03b9\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Achouria"
+    ],
+    "name:eng_x_preferred":[
+        "Perigiali"
+    ],
+    "name:eng_x_variant":[
+        "Achouria"
+    ],
+    "name:unk_x_variant":[
+        "Akho\u00faria"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255494,
+    "qs_pg:gn_pop":284,
+    "qs_pg:name":"Periyialion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":191648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":959663,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255494,
+        "gp:id":959663,
+        "qs_pg:id":191648
+    },
+    "wof:country":"GR",
+    "wof:created":1497290282,
+    "wof:geomhash":"841f571de0711427eb3f88b79448ce46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125776507,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125776507,
+    "wof:lastmodified":1509391317,
+    "wof:name":"Periyialion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72185,
+    38.71974,
+    20.72185,
+    38.71974
+],
+  "geometry": {"coordinates":[20.72185,38.71974],"type":"Point"}
+}

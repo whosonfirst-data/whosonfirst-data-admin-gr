@@ -1,0 +1,69 @@
+{
+  "id": 1209244215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36148,36.51553,22.36148,36.51553",
+    "geom:latitude":36.51553,
+    "geom:longitude":22.36148,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Agios Athanasios",
+    "gn:country_code":"GR",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":264003,
+    "gn:latitude":36.51553,
+    "gn:longitude":22.36148,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"\u00c1gios Athan\u00e1sios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Athanasios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264003
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"17a0aa6b4959b4837a70aa029ce813b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209244215
+        }
+    ],
+    "wof:id":1209244215,
+    "wof:lastmodified":1537624708,
+    "wof:name":"Agios Athanasios",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36148,
+    36.51553,
+    22.36148,
+    36.51553
+],
+  "geometry": {"coordinates":[22.36148,36.51553],"type":"Point"}
+}

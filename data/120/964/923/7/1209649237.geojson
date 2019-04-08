@@ -1,0 +1,69 @@
+{
+  "id": 1209649237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82861,35.48411,23.82861,35.48411",
+    "geom:latitude":35.48411,
+    "geom:longitude":23.82861,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Kamisiana",
+    "gn:country_code":"GR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261182,
+    "gn:latitude":35.48411,
+    "gn:longitude":23.82861,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kamisian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kamisian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bc\u03b9\u03c3\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261182
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5f3f921bbf3787c1140860d999f1dc04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649237
+        }
+    ],
+    "wof:id":1209649237,
+    "wof:lastmodified":1537624577,
+    "wof:name":"Kamisiana",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82861,
+    35.48411,
+    23.82861,
+    35.48411
+],
+  "geometry": {"coordinates":[23.82861,35.48411],"type":"Point"}
+}

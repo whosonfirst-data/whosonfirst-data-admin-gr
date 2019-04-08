@@ -1,0 +1,74 @@
+{
+  "id": 1259714383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.823,40.73736,21.823,40.73736",
+    "geom:latitude":40.73736,
+    "geom:longitude":21.823,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9043",
+    "gn:asciiname":"Peraia",
+    "gn:country_code":"GR",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734711,
+    "gn:latitude":40.73736,
+    "gn:longitude":21.823,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Pera\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b1\u03af\u03b1"
+    ],
+    "name:und_x_variant":[
+        "K\u00f3tsana",
+        "Pera\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734711
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"618bf2b50cdd89fba948fcf860b7cc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259714383,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259714383,
+    "wof:lastmodified":1537624857,
+    "wof:name":"Peraia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.823,
+    40.73736,
+    21.823,
+    40.73736
+],
+  "geometry": {"coordinates":[21.823,40.73736],"type":"Point"}
+}

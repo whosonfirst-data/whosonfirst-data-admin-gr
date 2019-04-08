@@ -1,0 +1,75 @@
+{
+  "id": 101857751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.580015,41.051449,23.580015,41.051449",
+    "geom:latitude":41.051449,
+    "geom:longitude":23.580015,
+    "iso:country":"GR",
+    "lbl:latitude":41.051449,
+    "lbl:longitude":23.580015,
+    "mps:latitude":41.051449,
+    "mps:longitude":23.580015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039d\u0395\u039f\u03a7\u03a9\u03a1\u0399\u039f\u039d",
+    "qs:loc_alt":"NEOXVRION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":958109,
+        "qs:id":1
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4ac8651fc174fc461ce49ec2b2d300b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857751,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857751,
+    "wof:lastmodified":1544744059,
+    "wof:name":"\u039d\u0395\u039f\u03a7\u03a9\u03a1\u0399\u039f\u039d",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.580015,
+    41.051449,
+    23.580015,
+    41.051449
+],
+  "geometry": {"coordinates":[23.580015,41.051449],"type":"Point"}
+}

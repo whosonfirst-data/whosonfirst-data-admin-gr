@@ -1,0 +1,73 @@
+{
+  "id": 1243002225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79501,38.30388,23.79501,38.30388",
+    "geom:latitude":38.30388,
+    "geom:longitude":23.79501,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9227",
+    "gn:asciiname":"Pontioi",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036802,
+    "gn:latitude":38.30388,
+    "gn:longitude":23.79501,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"P\u00f3ntioi",
+    "gn:population":308,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bd\u03c4\u03b9\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036802
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aa3fca1b6ecb1955b7166140335effed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243002225,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1243002225,
+    "wof:lastmodified":1537551161,
+    "wof:name":"Pontioi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":308,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79501,
+    38.30388,
+    23.79501,
+    38.30388
+],
+  "geometry": {"coordinates":[23.79501,38.30388],"type":"Point"}
+}

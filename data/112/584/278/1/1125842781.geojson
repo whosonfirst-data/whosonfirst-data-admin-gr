@@ -1,0 +1,113 @@
+{
+  "id": 1125842781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76667,41.01667,23.76667,41.01667",
+    "geom:latitude":41.01667,
+    "geom:longitude":23.76667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1677,
+    "gn:population":1315,
+    "iso:country":"GR",
+    "lbl:latitude":41.01667,
+    "lbl:longitude":23.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0632\u0648\u0631\u0648\u0633\u060c \u0633\u064a\u0631\u0631\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u043d\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ac\u03b6\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Gazoros"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ac\u03b6\u03c9\u03c1\u03bf\u03c2 \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u043e\u0440\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e1zoros"
+    ],
+    "name:unk_x_variant":[
+        "P\u00f3rna"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736192,
+    "qs_pg:gn_pop":1677,
+    "qs_pg:name":"Gazoros",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1237204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":949964,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736192,
+        "gp:id":949964,
+        "qs_pg:id":1237204,
+        "wd:id":"Q5529181"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293006,
+    "wof:geomhash":"ea847bd4a723030105c4e1d956b5e7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125842781,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125842781,
+    "wof:lastmodified":1514443954,
+    "wof:name":"Gazoros",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1315,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76667,
+    41.01667,
+    23.76667,
+    41.01667
+],
+  "geometry": {"coordinates":[23.76667,41.01667],"type":"Point"}
+}

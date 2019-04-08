@@ -1,0 +1,84 @@
+{
+  "id": 1243104117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24799,40.7862,21.24799,40.7862",
+    "geom:latitude":40.7862,
+    "geom:longitude":21.24799,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9071",
+    "gn:asciiname":"Pisodherion",
+    "gn:country_code":"GR",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734613,
+    "gn:latitude":40.7862,
+    "gn:longitude":21.24799,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Pisodh\u00e9rion",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c3\u03bf\u03b4\u03ad\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b9\u03c3\u03bf\u03b4\u03ad\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Pisoderi"
+    ],
+    "name:und_x_variant":[
+        "Pisodh\u00e9ri",
+        "Pisodh\u00e9rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734613,
+        "wk:page":"Pisoderi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e7556750bb7a5d2979c252e02de7d07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243104117,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1243104117,
+    "wof:lastmodified":1537624852,
+    "wof:name":"Pisodherion",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24799,
+    40.7862,
+    21.24799,
+    40.7862
+],
+  "geometry": {"coordinates":[21.24799,40.7862],"type":"Point"}
+}

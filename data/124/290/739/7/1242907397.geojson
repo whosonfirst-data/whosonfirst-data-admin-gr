@@ -1,0 +1,86 @@
+{
+  "id": 1242907397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.77365,37.6711,22.77365,37.6711",
+    "geom:latitude":37.6711,
+    "geom:longitude":22.77365,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Neo Iraio",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259922,
+    "gn:latitude":37.6711,
+    "gn:longitude":22.77365,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"N\u00e9o Ira\u00edo",
+    "gn:population":488,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a7\u03ce\u03bd\u03b9\u03ba\u03b1\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf \u0397\u03c1\u03b1\u03af\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ce\u03bd\u03b9\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Neo Iraio"
+    ],
+    "name:und_x_variant":[
+        "Kh\u00f3nika",
+        "Kh\u00f3nikas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259922
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"10e304efb7e0a8799bafc3bcb083dd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242907397,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242907397,
+    "wof:lastmodified":1537624515,
+    "wof:name":"Neo Iraio",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":488,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.77365,
+    37.6711,
+    22.77365,
+    37.6711
+],
+  "geometry": {"coordinates":[22.77365,37.6711],"type":"Point"}
+}

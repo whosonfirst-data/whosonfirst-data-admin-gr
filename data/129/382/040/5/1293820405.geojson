@@ -1,0 +1,78 @@
+{
+  "id": 1293820405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1898,39.24677,22.1898,39.24677",
+    "geom:latitude":39.24677,
+    "geom:longitude":22.1898,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9096",
+    "gn:asciiname":"Othomaniko",
+    "gn:country_code":"GR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256235,
+    "gn:latitude":39.24677,
+    "gn:longitude":22.1898,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Othomanik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Othomanik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03b8\u03c9\u03bc\u03b1\u03bd\u03b9\u03ba\u03cc",
+        "\u039f\u03b8\u03c9\u03bc\u03b1\u03bd\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mikr\u00f3 Karal\u00e1ri",
+        "Othomanik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256235
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c17f55eb4b55391cc576a6107d11d78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293820405,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293820405,
+    "wof:lastmodified":1537624344,
+    "wof:name":"Othomaniko",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1898,
+    39.24677,
+    22.1898,
+    39.24677
+],
+  "geometry": {"coordinates":[22.1898,39.24677],"type":"Point"}
+}

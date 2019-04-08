@@ -1,0 +1,79 @@
+{
+  "id": 1243001775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09199,39.76276,21.09199,39.76276",
+    "geom:latitude":39.76276,
+    "geom:longitude":21.09199,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9086",
+    "gn:asciiname":"Siolades",
+    "gn:country_code":"GR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445284,
+    "gn:latitude":39.76276,
+    "gn:longitude":21.09199,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Siol\u00e1des",
+    "gn:population":26,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c9\u03bb\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Siolades"
+    ],
+    "name:und_x_variant":[
+        "Siol\u00e1des"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445284
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7488558bfc19930b87dc6996971be0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243001775,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1243001775,
+    "wof:lastmodified":1537624801,
+    "wof:name":"Siolades",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09199,
+    39.76276,
+    21.09199,
+    39.76276
+],
+  "geometry": {"coordinates":[21.09199,39.76276],"type":"Point"}
+}

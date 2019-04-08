@@ -1,0 +1,73 @@
+{
+  "id": 1309937047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31314,38.97664,23.31314,38.97664",
+    "geom:latitude":38.97664,
+    "geom:longitude":23.31314,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Tsapournia",
+    "gn:country_code":"GR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252528,
+    "gn:latitude":38.97664,
+    "gn:longitude":23.31314,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tsapourni\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tsapourni\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b1\u03c0\u03bf\u03c5\u03c1\u03bd\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252528
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b7f0a6d86c4092b9d860a1228ccc4d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309937047,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1309937047,
+    "wof:lastmodified":1537624187,
+    "wof:name":"Tsapournia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31314,
+    38.97664,
+    23.31314,
+    38.97664
+],
+  "geometry": {"coordinates":[23.31314,38.97664],"type":"Point"}
+}

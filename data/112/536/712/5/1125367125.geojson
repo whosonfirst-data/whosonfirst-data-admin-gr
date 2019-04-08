@@ -1,0 +1,82 @@
+{
+  "id": 1125367125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83588,39.64099,19.83588,39.64099",
+    "geom:latitude":39.64099,
+    "geom:longitude":19.83588,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":108652,
+    "gn:population":108652,
+    "iso:country":"GR",
+    "lbl:latitude":39.64099,
+    "lbl:longitude":19.83588,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133855,
+    "qs_pg:gn_pop":108652,
+    "qs_pg:name":"Dimos Corfu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":358393,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133855,
+        "qs_pg:id":358393
+    },
+    "wof:country":"GR",
+    "wof:created":1497047144,
+    "wof:geomhash":"b5978a6bae721c65d63ad4722c9f499e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125367125,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125367125,
+    "wof:lastmodified":1509389225,
+    "wof:name":"Dimos Corfu",
+    "wof:parent_id":85684693,
+    "wof:placetype":"localadmin",
+    "wof:population":108652,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83588,
+    39.64099,
+    19.83588,
+    39.64099
+],
+  "geometry": {"coordinates":[19.83588,39.64099],"type":"Point"}
+}

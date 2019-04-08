@@ -1,0 +1,75 @@
+{
+  "id": 1327268287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36126,41.34925,26.36126,41.34925",
+    "geom:latitude":41.34925,
+    "geom:longitude":26.36126,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9007",
+    "gn:asciiname":"Asvestades",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736689,
+    "gn:latitude":41.34925,
+    "gn:longitude":26.36126,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Asvest\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Asvest\u00e1des"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c3\u03b2\u03b5\u03c3\u03c4\u03ac\u03b4\u03b5\u03c2",
+        "Asvest\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736689,
+        "wk:page":"Asvestades"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f1c61a94c4b6c846e32ef71b7ce823dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327268287,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327268287,
+    "wof:lastmodified":1537624970,
+    "wof:name":"Asvestades",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36126,
+    41.34925,
+    26.36126,
+    41.34925
+],
+  "geometry": {"coordinates":[26.36126,41.34925],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 101855029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.328785,40.19402,23.328785,40.19402",
+    "geom:latitude":40.19402,
+    "geom:longitude":23.328785,
+    "iso:country":"GR",
+    "lbl:latitude":40.19402,
+    "lbl:longitude":23.328785,
+    "mps:latitude":40.19402,
+    "mps:longitude":23.328785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"XALKIDIKH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039d\u0395\u0391 \u03a0\u039f\u03a4\u0395\u0399\u0394\u0391\u0399\u0391",
+    "qs:loc_alt":"NEA POTEIDAIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":957978,
+        "qs:id":8
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b62627cbb631ab30be908af942b98e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855029,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101855029,
+    "wof:lastmodified":1544742792,
+    "wof:name":"\u039d\u0395\u0391 \u03a0\u039f\u03a4\u0395\u0399\u0394\u0391\u0399\u0391",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.328785,
+    40.19402,
+    23.328785,
+    40.19402
+],
+  "geometry": {"coordinates":[23.328785,40.19402],"type":"Point"}
+}

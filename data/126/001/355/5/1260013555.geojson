@@ -1,0 +1,92 @@
+{
+  "id": 1260013555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24176,40.89785,24.24176,40.89785",
+    "geom:latitude":40.89785,
+    "geom:longitude":24.24176,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Panagia",
+    "gn:country_code":"GR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9389379,
+    "gn:latitude":40.89785,
+    "gn:longitude":24.24176,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Panagi\u00e1",
+    "gn:population":655,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03ba\u03c1\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9\u03bf\u03bd",
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03ba\u03c1\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03ba\u03c1\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9\u03bf\u03bd",
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03ba\u03c1\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9"
+    ],
+    "name:eng_x_historical":[
+        "Kato Akrovounion",
+        "Kato Akrovouni"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Akrovounion"
+    ],
+    "name:eng_x_variant":[
+        "Kato Akrovouni",
+        "Panagia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9389379
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a636e17bb9233d70df9a9ffb5ddac069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260013555,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260013555,
+    "wof:lastmodified":1537625064,
+    "wof:name":"Panagia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":655,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24176,
+    40.89785,
+    24.24176,
+    40.89785
+],
+  "geometry": {"coordinates":[24.24176,40.89785],"type":"Point"}
+}

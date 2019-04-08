@@ -1,0 +1,76 @@
+{
+  "id": 1310333677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03216,38.18048,24.03216,38.18048",
+    "geom:latitude":38.18048,
+    "geom:longitude":24.03216,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220",
+    "gn:asciiname":"Avra",
+    "gn:country_code":"GR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036766,
+    "gn:latitude":38.18048,
+    "gn:longitude":24.03216,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"\u00c1vra",
+    "gn:population":191,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Avra"
+    ],
+    "name:eng_x_preferred":[
+        "\u0391\u03cd\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036766
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6aefdc8e69b35a46724cee0e36098d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310333677,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1310333677,
+    "wof:lastmodified":1537625042,
+    "wof:name":"Avra",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03216,
+    38.18048,
+    24.03216,
+    38.18048
+],
+  "geometry": {"coordinates":[24.03216,38.18048],"type":"Point"}
+}

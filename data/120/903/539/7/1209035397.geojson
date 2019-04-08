@@ -1,0 +1,70 @@
+{
+  "id": 1209035397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99031,38.72089,20.99031,38.72089",
+    "geom:latitude":38.72089,
+    "geom:longitude":20.99031,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9129",
+    "gn:asciiname":"Varnakas",
+    "gn:country_code":"GR",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252246,
+    "gn:latitude":38.72089,
+    "gn:longitude":20.99031,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"V\u00e1rnakas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "V\u00e1rnakos",
+        "V\u00e1rnakas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252246
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3f21062f930fa7804a0839008a64ae5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209035397
+        }
+    ],
+    "wof:id":1209035397,
+    "wof:lastmodified":1537624175,
+    "wof:name":"Varnakas",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99031,
+    38.72089,
+    20.99031,
+    38.72089
+],
+  "geometry": {"coordinates":[20.99031,38.72089],"type":"Point"}
+}

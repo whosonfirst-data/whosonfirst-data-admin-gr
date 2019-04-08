@@ -1,0 +1,77 @@
+{
+  "id": 1327262367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24183,38.86958,23.24183,38.86958",
+    "geom:latitude":38.86958,
+    "geom:longitude":23.24183,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Marouli",
+    "gn:country_code":"GR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257628,
+    "gn:latitude":38.86958,
+    "gn:longitude":23.24183,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Maro\u00fali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03bf\u03cd\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c1\u03bf\u03cd\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Maro\u00fali",
+        "Maro\u00falion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257628
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9787d3d4eddaee5f127977b13f1d29ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327262367,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327262367,
+    "wof:lastmodified":1537624412,
+    "wof:name":"Marouli",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24183,
+    38.86958,
+    23.24183,
+    38.86958
+],
+  "geometry": {"coordinates":[23.24183,38.86958],"type":"Point"}
+}

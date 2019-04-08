@@ -1,0 +1,77 @@
+{
+  "id": 1259419337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90657,40.76102,21.90657,40.76102",
+    "geom:latitude":40.76102,
+    "geom:longitude":21.90657,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9043",
+    "gn:asciiname":"Kedronas",
+    "gn:country_code":"GR",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735845,
+    "gn:latitude":40.76102,
+    "gn:longitude":21.90657,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kedr\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kedr\u00f3nas"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03b4\u03c1\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kedhr\u00f3nas",
+        "Kedhr\u00f3na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735845
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ddd7842e9b218cd4d0383b5cd45c159f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259419337,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259419337,
+    "wof:lastmodified":1537624927,
+    "wof:name":"Kedronas",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90657,
+    40.76102,
+    21.90657,
+    40.76102
+],
+  "geometry": {"coordinates":[21.90657,40.76102],"type":"Point"}
+}

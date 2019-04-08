@@ -1,0 +1,76 @@
+{
+  "id": 1259814637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85947,40.02216,23.85947,40.02216",
+    "geom:latitude":40.02216,
+    "geom:longitude":23.85947,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9060",
+    "gn:asciiname":"Azapiko",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9353140,
+    "gn:latitude":40.02216,
+    "gn:longitude":23.85947,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Az\u00e1piko",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b6\u03ac\u03c0\u03b9\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Azapiko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9353140
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1d9a55f19238e28d2fd073290c5fa07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259814637,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259814637,
+    "wof:lastmodified":1537625060,
+    "wof:name":"Azapiko",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85947,
+    40.02216,
+    23.85947,
+    40.02216
+],
+  "geometry": {"coordinates":[23.85947,40.02216],"type":"Point"}
+}

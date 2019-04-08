@@ -1,0 +1,85 @@
+{
+  "id": 1327368247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85131,38.97749,22.85131,38.97749",
+    "geom:latitude":38.97749,
+    "geom:longitude":22.85131,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9164",
+    "gn:asciiname":"Kiparisson",
+    "gn:country_code":"GR",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259770,
+    "gn:latitude":38.97749,
+    "gn:longitude":22.85131,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Kipariss\u00f3n",
+    "gn:population":38,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03c0\u03b1\u03c1\u03b9\u03c3\u03c3\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03c0\u03b1\u03c1\u03b9\u03c3\u03c3\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kyparissonas"
+    ],
+    "name:und_x_variant":[
+        "Makhal\u00e1s",
+        "Kipariss\u00f3nas",
+        "Mahal\u00e1s",
+        "Kipariss\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259770
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"05012db20bb43aa30cc25b749b8258dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368247,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327368247,
+    "wof:lastmodified":1537624507,
+    "wof:name":"Kiparisson",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85131,
+    38.97749,
+    22.85131,
+    38.97749
+],
+  "geometry": {"coordinates":[22.85131,38.97749],"type":"Point"}
+}

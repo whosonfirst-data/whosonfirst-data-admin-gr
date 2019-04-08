@@ -1,0 +1,81 @@
+{
+  "id": 1243101759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60454,35.00729,25.60454,35.00729",
+    "geom:latitude":35.00729,
+    "geom:longitude":25.60454,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Nea Myrtos",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608510,
+    "gn:latitude":35.00729,
+    "gn:longitude":25.60454,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"N\u00e9a M\u00fdrtos",
+    "gn:population":21,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf\u03c2 \u039c\u03cd\u03c1\u03c4\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b1 \u039c\u03cd\u03c1\u03c4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Mirtos"
+    ],
+    "name:eng_x_variant":[
+        "Neos Mirtos"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9a M\u00fdrtos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608510
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9939d646ce365523558aa9d67d474d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243101759,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243101759,
+    "wof:lastmodified":1537625029,
+    "wof:name":"Nea Myrtos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60454,
+    35.00729,
+    25.60454,
+    35.00729
+],
+  "geometry": {"coordinates":[25.60454,35.00729],"type":"Point"}
+}

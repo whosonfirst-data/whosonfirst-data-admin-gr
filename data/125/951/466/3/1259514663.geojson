@@ -1,0 +1,75 @@
+{
+  "id": 1259514663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.299,38.79003,23.299,38.79003",
+    "geom:latitude":38.79003,
+    "geom:longitude":23.299,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9153",
+    "gn:asciiname":"Retsinolakkos",
+    "gn:country_code":"GR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254347,
+    "gn:latitude":38.79003,
+    "gn:longitude":23.299,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Retsin\u00f3lakkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03c4\u03c3\u03b9\u03bd\u03cc\u03bb\u03b1\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ritin\u00f3iakhos",
+        "Ritsin\u00f3lakkos",
+        "Retsin\u00f3lakkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254347
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"11c6ce4bf4a3dfcd631bff51db2315ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259514663,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1259514663,
+    "wof:lastmodified":1537624264,
+    "wof:name":"Retsinolakkos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.299,
+    38.79003,
+    23.299,
+    38.79003
+],
+  "geometry": {"coordinates":[23.299,38.79003],"type":"Point"}
+}

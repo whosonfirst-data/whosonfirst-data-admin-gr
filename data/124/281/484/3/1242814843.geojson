@@ -1,0 +1,84 @@
+{
+  "id": 1242814843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98681,36.16996,22.98681,36.16996",
+    "geom:latitude":36.16996,
+    "geom:longitude":22.98681,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Strapodhion",
+    "gn:country_code":"GR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253135,
+    "gn:latitude":36.16996,
+    "gn:longitude":22.98681,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Strap\u00f3dhion",
+    "gn:population":57,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03c1\u03b1\u03c0\u03cc\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03c1\u03b1\u03c0\u03cc\u03b4\u03b9\u03bf\u03bd",
+        "\u03a3\u03c4\u03c1\u03b1\u03c0\u03cc\u03b4\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Strapodi"
+    ],
+    "name:und_x_variant":[
+        "Strap\u00f3dhi",
+        "Strap\u00f3dhion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253135
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1f4f49b10f55577108519406fcf5e079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242814843,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1242814843,
+    "wof:lastmodified":1537624207,
+    "wof:name":"Strapodhion",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98681,
+    36.16996,
+    22.98681,
+    36.16996
+],
+  "geometry": {"coordinates":[22.98681,36.16996],"type":"Point"}
+}

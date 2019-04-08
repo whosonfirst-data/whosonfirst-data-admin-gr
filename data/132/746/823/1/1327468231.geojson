@@ -1,0 +1,79 @@
+{
+  "id": 1327468231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47494,41.25964,24.47494,41.25964",
+    "geom:latitude":41.25964,
+    "geom:longitude":24.47494,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Aidonokastro",
+    "gn:country_code":"GR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736968,
+    "gn:latitude":41.25964,
+    "gn:longitude":24.47494,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Aidon\u00f3kastro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Aidon\u00f3kastro"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b7\u03b4\u03bf\u03bd\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf",
+        "Aidon\u00f3kastron",
+        "\u0391\u03b7\u03b4\u03bf\u03bd\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Musel\u00edm",
+        "A\u00efdhon\u00f3kastron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736968
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eb27ac0aef7ecb973557adf33b027a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327468231,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327468231,
+    "wof:lastmodified":1537624988,
+    "wof:name":"Aidonokastro",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47494,
+    41.25964000000001,
+    24.47494,
+    41.25964000000001
+],
+  "geometry": {"coordinates":[24.47494,41.25964000000001],"type":"Point"}
+}

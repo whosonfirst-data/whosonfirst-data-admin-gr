@@ -1,0 +1,73 @@
+{
+  "id": 1209042851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73261,39.71511,22.73261,39.71511",
+    "geom:latitude":39.71511,
+    "geom:longitude":22.73261,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9097",
+    "gn:asciiname":"Neromyloi",
+    "gn:country_code":"GR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256447,
+    "gn:latitude":39.71511,
+    "gn:longitude":22.73261,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ner\u00f3myloi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ner\u00f3myloi"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03c1\u03cc\u03bc\u03c5\u03bb\u03bf\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Tourkokh\u00f3ri",
+        "Ner\u00f3miloi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256447
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1c4191b0cacf3a2e1bb2111709ee0293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209042851
+        }
+    ],
+    "wof:id":1209042851,
+    "wof:lastmodified":1537624353,
+    "wof:name":"Neromyloi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73261,
+    39.71511,
+    22.73261,
+    39.71511
+],
+  "geometry": {"coordinates":[22.73261,39.71511],"type":"Point"}
+}

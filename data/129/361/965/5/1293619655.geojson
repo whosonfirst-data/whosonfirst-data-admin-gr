@@ -1,0 +1,80 @@
+{
+  "id": 1293619655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0779,41.4161,24.0779,41.4161",
+    "geom:latitude":41.4161,
+    "geom:longitude":24.0779,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9003",
+    "gn:asciiname":"Delta",
+    "gn:country_code":"GR",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736464,
+    "gn:latitude":41.4161,
+    "gn:longitude":24.0779,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"D\u00e9lta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "D\u00e9lta"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ad\u03bb\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "V\u00edtova",
+        "Dh\u00e9lta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736464
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dd1abb40ab219cfc81d4d7ab70edbb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293619655,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293619655,
+    "wof:lastmodified":1537624959,
+    "wof:name":"Delta",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0779,
+    41.4161,
+    24.0779,
+    41.4161
+],
+  "geometry": {"coordinates":[24.0779,41.4161],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243007551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00797,37.75438,22.00797,37.75438",
+    "geom:latitude":37.75438,
+    "geom:longitude":22.00797,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Syriamakos",
+    "gn:country_code":"GR",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263812,
+    "gn:latitude":37.75438,
+    "gn:longitude":22.00797,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Syriam\u00e1kos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Syriam\u00e1kos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c5\u03c1\u03b9\u03b1\u03bc\u03ac\u03ba\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Siriam\u00e1kou",
+        "\u00c1yios Nik\u00f3laos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263812
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9a13abd9fa9b43f0c72e8f5943a786f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243007551,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243007551,
+    "wof:lastmodified":1537624700,
+    "wof:name":"Syriamakos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00797,
+    37.75438,
+    22.00797,
+    37.75438
+],
+  "geometry": {"coordinates":[22.00797,37.75438],"type":"Point"}
+}

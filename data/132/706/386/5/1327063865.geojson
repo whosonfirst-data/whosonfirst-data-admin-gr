@@ -1,0 +1,79 @@
+{
+  "id": 1327063865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35831,37.06062,25.35831,37.06062",
+    "geom:latitude":37.06062,
+    "geom:longitude":25.35831,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292",
+    "gn:asciiname":"Maragkas",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692204,
+    "gn:latitude":37.06062,
+    "gn:longitude":25.35831,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"M\u00e1ragkas",
+    "gn:population":73,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03b1\u03b3\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Maragas"
+    ],
+    "name:eng_x_variant":[
+        "Marangas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692204
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f6281e7343c9ba933224abcc52b18441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327063865,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1327063865,
+    "wof:lastmodified":1537624996,
+    "wof:name":"Maragkas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35831,
+    37.06062,
+    25.35831,
+    37.06062
+],
+  "geometry": {"coordinates":[25.35831,37.06062],"type":"Point"}
+}

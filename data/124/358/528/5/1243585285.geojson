@@ -1,0 +1,80 @@
+{
+  "id": 1243585285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73697,38.59689,21.73697,38.59689",
+    "geom:latitude":38.59689,
+    "geom:longitude":21.73697,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9126",
+    "gn:asciiname":"Diaselaki",
+    "gn:country_code":"GR",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263130,
+    "gn:latitude":38.59689,
+    "gn:longitude":21.73697,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Diasel\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Diasel\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03b1\u03c3\u03b5\u03bb\u03ac\u03ba\u03b9",
+        "Diasel\u00e1kion",
+        "\u0394\u03b9\u03b1\u03c3\u03b5\u03bb\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "S\u00e9ltsa",
+        "Dhiasel\u00e1ki",
+        "Dhiasell\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263130
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bf31149ec113af48328dcba708fbadef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243585285,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243585285,
+    "wof:lastmodified":1537624669,
+    "wof:name":"Diaselaki",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73697,
+    38.59689,
+    21.73697,
+    38.59689
+],
+  "geometry": {"coordinates":[21.73697,38.59689],"type":"Point"}
+}

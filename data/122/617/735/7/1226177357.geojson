@@ -1,0 +1,81 @@
+{
+  "id": 1226177357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79768,37.19283,21.79768,37.19283",
+    "geom:latitude":37.19283,
+    "geom:longitude":21.79768,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Anydro",
+    "gn:country_code":"GR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264989,
+    "gn:latitude":37.19283,
+    "gn:longitude":21.79768,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"\u00c1nydro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1nydro"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c5\u03b4\u03c1\u03bf",
+        "\u00c1nydron",
+        "\u0386\u03bd\u03c5\u03b4\u03c1\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Lesov\u00edt\u00ef",
+        "Lasov\u00edti",
+        "Lasov\u00edz",
+        "\u00c1nidhron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264989
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0c52f3e84a9c642a1a80e02819e85109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226177357,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226177357,
+    "wof:lastmodified":1537624755,
+    "wof:name":"Anydro",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79768,
+    37.19283,
+    21.79768,
+    37.19283
+],
+  "geometry": {"coordinates":[21.79768,37.19283],"type":"Point"}
+}

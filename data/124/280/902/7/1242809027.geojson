@@ -1,0 +1,76 @@
+{
+  "id": 1242809027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13794,39.29553,23.13794,39.29553",
+    "geom:latitude":39.29553,
+    "geom:longitude":23.13794,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Koropi",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9958225,
+    "gn:latitude":39.29553,
+    "gn:longitude":23.13794,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"Kor\u00f3pi",
+    "gn:population":246,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03cc\u03c0\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Koropi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9958225
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"12a86667fd7830aae0db24da09688b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242809027,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242809027,
+    "wof:lastmodified":1537625077,
+    "wof:name":"Koropi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13794,
+    39.29553,
+    23.13794,
+    39.29553
+],
+  "geometry": {"coordinates":[23.13794,39.29553],"type":"Point"}
+}

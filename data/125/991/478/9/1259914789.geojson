@@ -1,0 +1,76 @@
+{
+  "id": 1259914789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00271,37.92863,23.00271,37.92863",
+    "geom:latitude":37.92863,
+    "geom:longitude":23.00271,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9244",
+    "gn:asciiname":"Gefyra Isthmou",
+    "gn:country_code":"GR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409124,
+    "gn:latitude":37.92863,
+    "gn:longitude":23.00271,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"G\u00e9fyra Isthmo\u00fa",
+    "gn:population":358,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ad\u03c6\u03c5\u03c1\u03b1 \u0399\u03c3\u03b8\u03bc\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Gefyra Isthmou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409124
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"43db3d953eec7c2fceb30f86200aefb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259914789,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259914789,
+    "wof:lastmodified":1537625068,
+    "wof:name":"Gefyra Isthmou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":358,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00271,
+    37.92863,
+    23.00271,
+    37.92863
+],
+  "geometry": {"coordinates":[23.00271,37.92863],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1293327505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7176,35.33764,25.7176,35.33764",
+    "geom:latitude":35.33764,
+    "geom:longitude":25.7176,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Kato Selles",
+    "gn:country_code":"GR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605601,
+    "gn:latitude":35.33764,
+    "gn:longitude":25.7176,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"K\u00e1to S\u00e9lles",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03ad\u03bb\u03bb\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03ad\u03bb\u03bb\u03b1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Selles"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to S\u00e9lles",
+        "K\u00e1to S\u00e9llai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605601
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"53fe3e40f6f465f0cb26e5f736ddbf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293327505,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293327505,
+    "wof:lastmodified":1537625026,
+    "wof:name":"Kato Selles",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7176,
+    35.33764,
+    25.7176,
+    35.33764
+],
+  "geometry": {"coordinates":[25.7176,35.33764],"type":"Point"}
+}

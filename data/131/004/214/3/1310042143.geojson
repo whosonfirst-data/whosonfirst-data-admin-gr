@@ -1,0 +1,80 @@
+{
+  "id": 1310042143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8658,37.49577,21.8658,37.49577",
+    "geom:latitude":37.49577,
+    "geom:longitude":21.8658,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Fanarion",
+    "gn:country_code":"GR",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262505,
+    "gn:latitude":37.49577,
+    "gn:longitude":21.8658,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Fan\u00e1rion",
+    "gn:population":127,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Fanari"
+    ],
+    "name:und_x_variant":[
+        "Fan\u00e1ri",
+        "Fan\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262505
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a4365f74f443290d529ccdc652fabfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310042143,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310042143,
+    "wof:lastmodified":1537624635,
+    "wof:name":"Fanarion",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8658,
+    37.49577,
+    21.8658,
+    37.49577
+],
+  "geometry": {"coordinates":[21.8658,37.49577],"type":"Point"}
+}

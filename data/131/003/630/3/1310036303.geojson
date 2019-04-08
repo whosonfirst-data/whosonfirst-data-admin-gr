@@ -1,0 +1,71 @@
+{
+  "id": 1310036303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00188,37.67265,25.00188,37.67265",
+    "geom:latitude":37.67265,
+    "geom:longitude":25.00188,
+    "gn:admin1_code":"ESYE42",
+    "gn:asciiname":"Koumelas",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552750,
+    "gn:latitude":37.67265,
+    "gn:longitude":25.00188,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Koumel\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Koumel\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bc\u03b5\u03bb\u03ac\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552750
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d2f675b939dccca409e4388ffad45229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310036303,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1310036303,
+    "wof:lastmodified":1537625121,
+    "wof:name":"Koumelas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00188,
+    37.67265,
+    25.00188,
+    37.67265
+],
+  "geometry": {"coordinates":[25.00188,37.67265],"type":"Point"}
+}

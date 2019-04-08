@@ -1,0 +1,69 @@
+{
+  "id": 1209351095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53336,40.32365,22.53336,40.32365",
+    "geom:latitude":40.32365,
+    "geom:longitude":22.53336,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"9047",
+    "gn:asciiname":"Neos Pyrgos",
+    "gn:country_code":"GR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864859,
+    "gn:latitude":40.32365,
+    "gn:longitude":22.53336,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"N\u00e9os P\u00fdrgos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "N\u00e9os P\u00fdrgos"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03bf\u03c2 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864859
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e802482ad5b766d1ee2aaece2f22dbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209351095
+        }
+    ],
+    "wof:id":1209351095,
+    "wof:lastmodified":1537624990,
+    "wof:name":"Neos Pyrgos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53336,
+    40.32365,
+    22.53336,
+    40.32365
+],
+  "geometry": {"coordinates":[22.53336,40.32365],"type":"Point"}
+}

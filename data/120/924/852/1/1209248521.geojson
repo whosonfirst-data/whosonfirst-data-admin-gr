@@ -1,0 +1,69 @@
+{
+  "id": 1209248521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03929,39.75696,21.03929,39.75696",
+    "geom:latitude":39.75696,
+    "geom:longitude":21.03929,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9086",
+    "gn:asciiname":"Gounari",
+    "gn:country_code":"GR",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":445287,
+    "gn:latitude":39.75696,
+    "gn:longitude":21.03929,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Go\u00fanari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Go\u00fanari"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03bf\u03cd\u03bd\u03b1\u03c1\u03b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445287
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"02bb1fccfe72c75ec3736903fd1317e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248521
+        }
+    ],
+    "wof:id":1209248521,
+    "wof:lastmodified":1537624801,
+    "wof:name":"Gounari",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03929,
+    39.75696,
+    21.03929,
+    39.75696
+],
+  "geometry": {"coordinates":[21.03929,39.75696],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243292441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74711,38.12692,20.74711,38.12692",
+    "geom:latitude":38.12692,
+    "geom:longitude":20.74711,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Karousa",
+    "gn:country_code":"GR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260900,
+    "gn:latitude":38.12692,
+    "gn:longitude":20.74711,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karo\u00fasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Karo\u00fasa"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Karo\u00fassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260900
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"75c1db5722ca9858e660569c2e947f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243292441,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243292441,
+    "wof:lastmodified":1537624564,
+    "wof:name":"Karousa",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74711,
+    38.12692,
+    20.74711,
+    38.12692
+],
+  "geometry": {"coordinates":[20.74711,38.12692],"type":"Point"}
+}

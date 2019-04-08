@@ -1,0 +1,110 @@
+{
+  "id": 1126039179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03361,40.29639,22.03361,40.29639",
+    "geom:latitude":40.29639,
+    "geom:longitude":22.03361,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":208,
+    "gn:population":208,
+    "iso:country":"GR",
+    "lbl:latitude":40.29639,
+    "lbl:longitude":22.03361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Imera"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bc\u03b5\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Imera"
+    ],
+    "name:gre_x_preferred":[
+        "\u038a\u03bc\u03b5\u03c1\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "\u00cdmera"
+    ],
+    "name:unk_x_variant":[
+        "Imere"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736119,
+    "qs_pg:gn_pop":208,
+    "qs_pg:name":"Imera",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":968314,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":950462,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736119,
+        "gp:id":950462,
+        "qs_pg:id":968314,
+        "wd:id":"Q12281712"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302017,
+    "wof:geomhash":"0e73c6bdaf56aba77d3996db964c2275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126039179,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1126039179,
+    "wof:lastmodified":1553816719,
+    "wof:name":"Imera",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":208,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03361,
+    40.29639,
+    22.03361,
+    40.29639
+],
+  "geometry": {"coordinates":[22.03361,40.29639],"type":"Point"}
+}

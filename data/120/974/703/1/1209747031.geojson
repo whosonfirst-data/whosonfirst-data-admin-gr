@@ -1,0 +1,77 @@
+{
+  "id": 1209747031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7433,37.22311,21.7433,37.22311",
+    "geom:latitude":37.22311,
+    "geom:longitude":21.7433,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Daras",
+    "gn:country_code":"GR",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263259,
+    "gn:latitude":37.22311,
+    "gn:longitude":21.7433,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"D\u00e1ras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "D\u00e1ras"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ac\u03c1\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "D\u00e1ra",
+        "Dh\u00e1ras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263259
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cb46ec59a2751eb26825eb8407a890e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209747031,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209747031,
+    "wof:lastmodified":1537624675,
+    "wof:name":"Daras",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7433,
+    37.22311,
+    21.7433,
+    37.22311
+],
+  "geometry": {"coordinates":[21.7433,37.22311],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226179311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97749,38.04312,23.97749,38.04312",
+    "geom:latitude":38.04312,
+    "geom:longitude":23.97749,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220",
+    "gn:asciiname":"Neos Voutzas",
+    "gn:country_code":"GR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036767,
+    "gn:latitude":38.04312,
+    "gn:longitude":23.97749,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Neos Voutz\u00e1s",
+    "gn:population":1116,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf\u03c2 \u0392\u03bf\u03c5\u03c4\u03b6\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Neos Voutzas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036767
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"375f261fde568c08328396fe8fe170af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226179311,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226179311,
+    "wof:lastmodified":1537625042,
+    "wof:name":"Neos Voutzas",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":1116,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97749,
+    38.04312,
+    23.97749,
+    38.04312
+],
+  "geometry": {"coordinates":[23.97749,38.04312],"type":"Point"}
+}

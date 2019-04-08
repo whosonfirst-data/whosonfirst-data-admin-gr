@@ -1,0 +1,73 @@
+{
+  "id": 1293518167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34965,41.6065,26.34965,41.6065",
+    "geom:latitude":41.6065,
+    "geom:longitude":26.34965,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9008",
+    "gn:asciiname":"Keramos",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735822,
+    "gn:latitude":41.6065,
+    "gn:longitude":26.34965,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"K\u00e9ramos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e9ramos"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ad\u03c1\u03b1\u03bc\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735822
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9da45849c4493263008c3f7fb4e67be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293518167,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293518167,
+    "wof:lastmodified":1537624925,
+    "wof:name":"Keramos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34965,
+    41.6065,
+    26.34965,
+    41.6065
+],
+  "geometry": {"coordinates":[26.34965,41.6065],"type":"Point"}
+}

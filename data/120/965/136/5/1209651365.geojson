@@ -1,0 +1,72 @@
+{
+  "id": 1209651365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62036,38.36404,22.62036,38.36404",
+    "geom:latitude":38.36404,
+    "geom:longitude":22.62036,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9143.0",
+    "gn:asciiname":"Agios Isidoros",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10719229,
+    "gn:latitude":38.36404,
+    "gn:longitude":22.62036,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"\u00c1gios Is\u00eddoros",
+    "gn:population":89,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c3\u03af\u03b4\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Isidoros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10719229
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c36b50688fd30bb15130b04b19a1a8c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209651365
+        }
+    ],
+    "wof:id":1209651365,
+    "wof:lastmodified":1537625088,
+    "wof:name":"Agios Isidoros",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62036,
+    38.36404,
+    22.62036,
+    38.36404
+],
+  "geometry": {"coordinates":[22.62036,38.36404],"type":"Point"}
+}

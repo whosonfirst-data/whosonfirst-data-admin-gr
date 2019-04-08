@@ -1,0 +1,65 @@
+{
+  "id": 1243103393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6955,37.7528,20.6955,37.7528",
+    "geom:latitude":37.7528,
+    "geom:longitude":20.6955,
+    "gn:admin1_code":"ESYE22",
+    "gn:asciiname":"Limnionas",
+    "gn:country_code":"GR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7288035,
+    "gn:latitude":37.7528,
+    "gn:longitude":20.6955,
+    "gn:modification_date":"2010-04-13",
+    "gn:name":"Limnionas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7288035
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"284b2d360b22bfdf1068c239999b7581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243103393,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243103393,
+    "wof:lastmodified":1536802891,
+    "wof:name":"Limnionas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6955,
+    37.7528,
+    20.6955,
+    37.7528
+],
+  "geometry": {"coordinates":[20.6955,37.7528],"type":"Point"}
+}

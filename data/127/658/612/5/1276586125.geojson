@@ -1,0 +1,73 @@
+{
+  "id": 1276586125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.72931,40.17717,20.72931,40.17717",
+    "geom:latitude":40.17717,
+    "geom:longitude":20.72931,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9085",
+    "gn:asciiname":"Loutra",
+    "gn:country_code":"GR",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10175104,
+    "gn:latitude":40.17717,
+    "gn:longitude":20.72931,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Loutr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03c4\u03c1\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Loutra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175104
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"de05a9de1b44080ffc535a6ec75b147d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276586125,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1276586125,
+    "wof:lastmodified":1537625082,
+    "wof:name":"Loutra",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.72931,
+    40.17717,
+    20.72931,
+    40.17717
+],
+  "geometry": {"coordinates":[20.72931,40.17717],"type":"Point"}
+}

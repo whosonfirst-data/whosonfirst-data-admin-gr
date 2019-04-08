@@ -1,0 +1,67 @@
+{
+  "id": 1226680665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43623,36.50218,22.43623,36.50218",
+    "geom:latitude":36.50218,
+    "geom:longitude":22.43623,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Pepon",
+    "gn:country_code":"GR",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255603,
+    "gn:latitude":36.50218,
+    "gn:longitude":22.43623,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"P\u00e9pon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255603
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dd37ea820cc3db82aefe4b5acadba57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226680665,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226680665,
+    "wof:lastmodified":1536808831,
+    "wof:name":"Pepon",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43623,
+    36.50218,
+    22.43623,
+    36.50218
+],
+  "geometry": {"coordinates":[22.43623,36.50218],"type":"Point"}
+}

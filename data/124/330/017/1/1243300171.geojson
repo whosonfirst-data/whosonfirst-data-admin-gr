@@ -1,0 +1,77 @@
+{
+  "id": 1243300171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18443,35.29201,24.18443,35.29201",
+    "geom:latitude":35.29201,
+    "geom:longitude":24.18443,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9324",
+    "gn:asciiname":"Askyfou",
+    "gn:country_code":"GR",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":8594708,
+    "gn:latitude":35.29201,
+    "gn:longitude":24.18443,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ask\u00fdfou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ba\u03cd\u03c6\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Askyfou"
+    ],
+    "name:und_x_variant":[
+        "Ask\u00fdfou",
+        "Ask\u00edfou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594708
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"30f71c7290c69c39522048ab6d21d9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243300171,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243300171,
+    "wof:lastmodified":1537625024,
+    "wof:name":"Askyfou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18443,
+    35.29201,
+    24.18443,
+    35.29201
+],
+  "geometry": {"coordinates":[24.18443,35.29201],"type":"Point"}
+}

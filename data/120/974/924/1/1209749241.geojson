@@ -1,0 +1,91 @@
+{
+  "id": 1209749241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29875,40.74022,21.29875,40.74022",
+    "geom:latitude":40.74022,
+    "geom:longitude":21.29875,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Trivouno",
+    "gn:country_code":"GR",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":734006,
+    "gn:latitude":40.74022,
+    "gn:longitude":21.29875,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Tr\u00edvouno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u03a4\u03cd\u03c1\u03c3\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03af\u03b2\u03bf\u03c5\u03bd\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03af\u03b2\u03bf\u03c5\u03bd\u03bf\u03bd",
+        "\u03a4\u03cd\u03c1\u03c3\u03b9\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Tyrsia"
+    ],
+    "name:eng_x_preferred":[
+        "Trivouno"
+    ],
+    "name:eng_x_variant":[
+        "Tyrsia"
+    ],
+    "name:und_x_variant":[
+        "T\u00edrsia",
+        "Tr\u00edvounon",
+        "Tr\u00edvouno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734006
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"972748ba45ea3bfdd49de2d453665259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209749241,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1209749241,
+    "wof:lastmodified":1537624817,
+    "wof:name":"Trivouno",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29875,
+    40.74022,
+    21.29875,
+    40.74022
+],
+  "geometry": {"coordinates":[21.29875,40.74022],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310531911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11997,37.30009,22.11997,37.30009",
+    "geom:latitude":37.30009,
+    "geom:longitude":22.11997,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Ellinitsa",
+    "gn:country_code":"GR",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262711,
+    "gn:latitude":37.30009,
+    "gn:longitude":22.11997,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ellin\u00edtsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03bb\u03b7\u03bd\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "M\u00edmi",
+        "M\u00e9mi",
+        "Ellin\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262711,
+        "wk:page":"Ellinitsa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"16cf15df7e9cc25b31d11655f34c38c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310531911,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310531911,
+    "wof:lastmodified":1537624645,
+    "wof:name":"Ellinitsa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11997,
+    37.30009,
+    22.11997,
+    37.30009
+],
+  "geometry": {"coordinates":[22.11997,37.30009],"type":"Point"}
+}

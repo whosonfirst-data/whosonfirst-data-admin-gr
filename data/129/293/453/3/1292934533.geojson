@@ -1,0 +1,83 @@
+{
+  "id": 1292934533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.72108,35.2682,25.72108,35.2682",
+    "geom:latitude":35.2682,
+    "geom:longitude":25.72108,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Mavrikiano",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605681,
+    "gn:latitude":35.2682,
+    "gn:longitude":25.72108,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Mavrikian\u00f3",
+    "gn:population":142,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c5\u03c1\u03b9\u03ba\u03b9\u03b1\u03bd\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c5\u03c1\u03b9\u03ba\u03b9\u03b1\u03bd\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Mavrikiano"
+    ],
+    "name:und_x_variant":[
+        "Mavrikian\u00f3",
+        "Mavrikian\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605681
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5af9be6e488db7565cc163a06e0fcea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292934533,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1292934533,
+    "wof:lastmodified":1537625027,
+    "wof:name":"Mavrikiano",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.72108,
+    35.2682,
+    25.72108,
+    35.2682
+],
+  "geometry": {"coordinates":[25.72108,35.2682],"type":"Point"}
+}

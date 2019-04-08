@@ -1,0 +1,78 @@
+{
+  "id": 1209040887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72841,40.71598,22.72841,40.71598",
+    "geom:latitude":40.71598,
+    "geom:longitude":22.72841,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9038",
+    "gn:asciiname":"Agios Athanasios",
+    "gn:country_code":"GR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736621,
+    "gn:latitude":40.71598,
+    "gn:longitude":22.72841,
+    "gn:modification_date":"2017-12-14",
+    "gn:name":"\u00c1gios Athan\u00e1sios",
+    "gn:population":4648,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0432\u0430\u043a\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kavakl\u00ed",
+        "\u00c1yios Athan\u00e1sios",
+        "\u00c1gios Athan\u00e1sios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736621,
+        "wk:page":"Agios_Athanasios%2C_Thessaloniki"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"37a624d6972f642e384332ab5b30be6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209040887
+        }
+    ],
+    "wof:id":1209040887,
+    "wof:lastmodified":1537624966,
+    "wof:name":"Agios Athanasios",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":4648,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72841,
+    40.71598,
+    22.72841,
+    40.71598
+],
+  "geometry": {"coordinates":[22.72841,40.71598],"type":"Point"}
+}

@@ -1,0 +1,131 @@
+{
+  "id": 1125863843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86667,37.81667,22.86667,37.81667",
+    "geom:latitude":37.81667,
+    "geom:longitude":22.86667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1769,
+    "gn:population":1699,
+    "iso:country":"GR",
+    "lbl:latitude":37.81667,
+    "lbl:longitude":22.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u064a\u0644\u064a\u0648\u0645\u0648\u062f\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u043b\u0438\u043e\u043c\u043e\u0434\u0438"
+    ],
+    "name:cze_x_preferred":[
+        "Chiliomodi"
+    ],
+    "name:dut_x_preferred":[
+        "Chiliomodi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bb\u03b9\u03bf\u03bc\u03cc\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b9\u03bb\u03b9\u03bf\u03bc\u03cc\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Chiliomodi"
+    ],
+    "name:fre_x_preferred":[
+        "Chiliomodi"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b9\u03bb\u03b9\u03bf\u03bc\u03cc\u03b4\u03b9 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Chiliomodi"
+    ],
+    "name:nno_x_preferred":[
+        "Khiliom\u00f3di"
+    ],
+    "name:rum_x_preferred":[
+        "Chiliomodi"
+    ],
+    "name:swe_x_preferred":[
+        "Khiliom\u00f3dhi"
+    ],
+    "name:unk_x_variant":[
+        "Khiliomodion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":259993,
+    "qs_pg:gn_pop":1769,
+    "qs_pg:name":"Khiliomodhion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1292056,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":953139,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259993,
+        "gp:id":953139,
+        "qs_pg:id":1292056,
+        "wd:id":"Q670537"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293945,
+    "wof:geomhash":"d27b13b6925a339d4f0ba46c8c4d8a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125863843,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125863843,
+    "wof:lastmodified":1514443979,
+    "wof:name":"Khiliomodhion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1699,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86667,
+    37.81667,
+    22.86667,
+    37.81667
+],
+  "geometry": {"coordinates":[22.86667,37.81667],"type":"Point"}
+}

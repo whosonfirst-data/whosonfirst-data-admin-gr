@@ -1,0 +1,81 @@
+{
+  "id": 1293326751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37349,36.52123,22.37349,36.52123",
+    "geom:latitude":36.52123,
+    "geom:longitude":22.37349,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Stavri",
+    "gn:country_code":"GR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253270,
+    "gn:latitude":36.52123,
+    "gn:longitude":22.37349,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Stavr\u00ed",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Stavri"
+    ],
+    "name:und_x_variant":[
+        "Stavr\u00ed",
+        "Stravr\u00ed",
+        "Stavr\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253270
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a92bdf03322a103a9a189a45799ab38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293326751,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293326751,
+    "wof:lastmodified":1537624213,
+    "wof:name":"Stavri",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37349,
+    36.52123,
+    22.37349,
+    36.52123
+],
+  "geometry": {"coordinates":[22.37349,36.52123],"type":"Point"}
+}

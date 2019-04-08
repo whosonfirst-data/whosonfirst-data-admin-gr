@@ -1,0 +1,76 @@
+{
+  "id": 1327463053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43265,35.36297,24.43265,35.36297",
+    "geom:latitude":35.36297,
+    "geom:longitude":24.43265,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318.0",
+    "gn:asciiname":"Agna",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942582,
+    "gn:latitude":35.36297,
+    "gn:longitude":24.43265,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Agn\u00e1",
+    "gn:population":363,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Agna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942582
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2528464bd7fe9452d94387ae70dbddf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327463053,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327463053,
+    "wof:lastmodified":1537625094,
+    "wof:name":"Agna",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":363,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43265,
+    35.36297000000001,
+    24.43265,
+    35.36297000000001
+],
+  "geometry": {"coordinates":[24.43265,35.36297000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242812587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02494,38.88452,23.02494,38.88452",
+    "geom:latitude":38.88452,
+    "geom:longitude":23.02494,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Maounis",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227031,
+    "gn:latitude":38.88452,
+    "gn:longitude":23.02494,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Mao\u00fanis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bf\u03cd\u03bd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Maounis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227031
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ced930e60853045b15660ae6adb17633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242812587,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1242812587,
+    "wof:lastmodified":1537625083,
+    "wof:name":"Maounis",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02494,
+    38.88452,
+    23.02494,
+    38.88452
+],
+  "geometry": {"coordinates":[23.02494,38.88452],"type":"Point"}
+}

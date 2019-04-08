@@ -1,0 +1,74 @@
+{
+  "id": 1343497575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75981,35.12319,24.75981,35.12319",
+    "geom:latitude":35.12319,
+    "geom:longitude":24.75981,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Sata",
+    "gn:country_code":"GR",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254048,
+    "gn:latitude":35.12319,
+    "gn:longitude":24.75981,
+    "gn:modification_date":"2015-11-25",
+    "gn:name":"S\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Si\u00e1ta",
+        "S\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254048
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dc2115b8b5fdd36001e59ce51ee94375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343497575,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343497575,
+    "wof:lastmodified":1537624250,
+    "wof:name":"Sata",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75981,
+    35.12319,
+    24.75981,
+    35.12319
+],
+  "geometry": {"coordinates":[24.75981,35.12319],"type":"Point"}
+}

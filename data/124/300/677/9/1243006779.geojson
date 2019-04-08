@@ -1,0 +1,73 @@
+{
+  "id": 1243006779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81368,37.91862,22.81368,37.91862",
+    "geom:latitude":37.91862,
+    "geom:longitude":22.81368,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9242.0",
+    "gn:asciiname":"Zachoulitika",
+    "gn:country_code":"GR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079505,
+    "gn:latitude":37.91862,
+    "gn:longitude":22.81368,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zachoul\u00edtika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Zachoul\u00edtika"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03c7\u03bf\u03c5\u03bb\u03af\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079505
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c4f1274c9203801f397235be57ff54c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243006779,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243006779,
+    "wof:lastmodified":1537625111,
+    "wof:name":"Zachoulitika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81368,
+    37.91862,
+    22.81368,
+    37.91862
+],
+  "geometry": {"coordinates":[22.81368,37.91862],"type":"Point"}
+}

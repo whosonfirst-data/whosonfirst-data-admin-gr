@@ -1,0 +1,76 @@
+{
+  "id": 1343395513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96681,38.95342,22.96681,38.95342",
+    "geom:latitude":38.95342,
+    "geom:longitude":22.96681,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9164",
+    "gn:asciiname":"Glifa",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262039,
+    "gn:latitude":38.95342,
+    "gn:longitude":22.96681,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Gl\u00edfa",
+    "gn:population":612,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03bb\u03cd\u03c6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Glyfa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262039
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3a7d359d70433a5aef284cf7e9c3fa59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343395513,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343395513,
+    "wof:lastmodified":1537624617,
+    "wof:name":"Glifa",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":612,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96681,
+    38.95342,
+    22.96681,
+    38.95342
+],
+  "geometry": {"coordinates":[22.96681,38.95342],"type":"Point"}
+}

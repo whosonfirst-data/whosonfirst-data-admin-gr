@@ -1,0 +1,79 @@
+{
+  "id": 1343696053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67559,35.23149,25.67559,35.23149",
+    "geom:latitude":35.23149,
+    "geom:longitude":25.67559,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Dyo Prinoi",
+    "gn:country_code":"GR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608188,
+    "gn:latitude":35.23149,
+    "gn:longitude":25.67559,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"D\u00fdo Pr\u00ednoi",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03cd\u03bf \u03a0\u03c1\u03af\u03bd\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Dyo Prinoi"
+    ],
+    "name:und_x_variant":[
+        "D\u00fdo Pr\u00ednoi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608188
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ed0e68d6978806d295cba33baf02ea60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343696053,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343696053,
+    "wof:lastmodified":1537625028,
+    "wof:name":"Dyo Prinoi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67559,
+    35.23149,
+    25.67559,
+    35.23149
+],
+  "geometry": {"coordinates":[25.67559,35.23149],"type":"Point"}
+}

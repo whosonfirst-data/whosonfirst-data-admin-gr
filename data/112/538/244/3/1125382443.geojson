@@ -1,0 +1,79 @@
+{
+  "id": 1125382443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02932,39.60445,22.02932,39.60445",
+    "geom:latitude":39.60445,
+    "geom:longitude":22.02932,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15133,
+    "gn:population":15133,
+    "iso:country":"GR",
+    "lbl:latitude":39.60445,
+    "lbl:longitude":22.02932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c1\u03ba\u03b1\u03b4\u03cc\u03bd\u03b1\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133853,
+    "qs_pg:gn_pop":15133,
+    "qs_pg:name":"Dimos Farkadona",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":381498,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133853,
+        "qs_pg:id":381498
+    },
+    "wof:country":"GR",
+    "wof:created":1497048127,
+    "wof:geomhash":"73aa66f55f56207266465292a1e9b5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125382443,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125382443,
+    "wof:lastmodified":1509389610,
+    "wof:name":"Dimos Farkadona",
+    "wof:parent_id":85684685,
+    "wof:placetype":"localadmin",
+    "wof:population":15133,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02932,
+    39.60445,
+    22.02932,
+    39.60445
+],
+  "geometry": {"coordinates":[22.02932,39.60445],"type":"Point"}
+}

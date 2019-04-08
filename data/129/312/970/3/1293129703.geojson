@@ -1,0 +1,80 @@
+{
+  "id": 1293129703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.87467,35.50939,23.87467,35.50939",
+    "geom:latitude":35.50939,
+    "geom:longitude":23.87467,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Pano Gerani",
+    "gn:country_code":"GR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594690,
+    "gn:latitude":35.50939,
+    "gn:longitude":23.87467,
+    "gn:modification_date":"2017-09-11",
+    "gn:name":"P\u00e1no Ger\u00e1ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0393\u03b5\u03c1\u03ac\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0393\u03b5\u03c1\u03ac\u03bd\u03b9\u03bf\u03bd",
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u0393\u03b5\u03c1\u03ac\u03bd\u03b9",
+        "\u03a0\u03b1\u03bb\u03b9\u03cc \u0393\u03b5\u03c1\u03ac\u03bd\u03b9"
+    ],
+    "name:und_x_variant":[
+        "P\u00e1no Ger\u00e1ni",
+        "P\u00e1no Ger\u00e1nion",
+        "Palio Gerani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594690
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b9082f024d426283749999cb0a78d2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293129703,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293129703,
+    "wof:lastmodified":1537625024,
+    "wof:name":"Pano Gerani",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.87467,
+    35.50939,
+    23.87467,
+    35.50939
+],
+  "geometry": {"coordinates":[23.87467,35.50939],"type":"Point"}
+}

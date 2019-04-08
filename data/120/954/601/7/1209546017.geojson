@@ -1,0 +1,72 @@
+{
+  "id": 1209546017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04421,39.50906,21.04421,39.50906",
+    "geom:latitude":39.50906,
+    "geom:longitude":21.04421,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9080",
+    "gn:asciiname":"Rouga",
+    "gn:country_code":"GR",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9972936,
+    "gn:latitude":39.50906,
+    "gn:longitude":21.04421,
+    "gn:modification_date":"2015-02-02",
+    "gn:name":"Ro\u00faga",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03b3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Rouga"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9972936
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c83994fde0ca8afae37e717184792807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209546017
+        }
+    ],
+    "wof:id":1209546017,
+    "wof:lastmodified":1537625079,
+    "wof:name":"Rouga",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04421,
+    39.50906,
+    21.04421,
+    39.50906
+],
+  "geometry": {"coordinates":[21.04421,39.50906],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343697845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56256,38.12369,21.56256,38.12369",
+    "geom:latitude":38.12369,
+    "geom:longitude":21.56256,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Spartoula",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253378,
+    "gn:latitude":38.12369,
+    "gn:longitude":21.56256,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sparto\u00fala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sparto\u00fala"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c0\u03b1\u03c1\u03c4\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253378
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0e1a41f4181dab6fba1da756f43a155a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343697845,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343697845,
+    "wof:lastmodified":1537624217,
+    "wof:name":"Spartoula",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56256,
+    38.12369,
+    21.56256,
+    38.12369
+],
+  "geometry": {"coordinates":[21.56256,38.12369],"type":"Point"}
+}

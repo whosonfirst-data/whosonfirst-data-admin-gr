@@ -1,0 +1,67 @@
+{
+  "id": 1193053951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11888,38.53596,24.11888,38.53596",
+    "geom:latitude":38.53596,
+    "geom:longitude":24.11888,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Orion",
+    "gn:country_code":"GR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256270,
+    "gn:latitude":38.53596,
+    "gn:longitude":24.11888,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"\u00d3rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256270
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f017c41a384f4b57c96a6bc91f57cf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193053951,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1193053951,
+    "wof:lastmodified":1536364028,
+    "wof:name":"Orion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11888,
+    38.53596,
+    24.11888,
+    38.53596
+],
+  "geometry": {"coordinates":[24.11888,38.53596],"type":"Point"}
+}

@@ -1,0 +1,141 @@
+{
+  "id": 101855093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82111,40.165146,21.82111,40.165146",
+    "geom:latitude":40.165146,
+    "geom:longitude":21.82111,
+    "gn:population":2119,
+    "iso:country":"GR",
+    "lbl:latitude":40.165146,
+    "lbl:longitude":21.82111,
+    "mps:latitude":40.165146,
+    "mps:longitude":21.82111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u0627\u0646\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Aiani"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b9\u03b1\u03bd\u03ae \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b9\u03b1\u03bd\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Aiani"
+    ],
+    "name:fin_x_preferred":[
+        "Aian\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Aiani"
+    ],
+    "name:fre_x_preferred":[
+        "Aiani"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b9\u03b1\u03bd\u03ae \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Aiani"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u0430\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043b\u0458\u0430\u043d\u0438"
+    ],
+    "name:nno_x_preferred":[
+        "Ean\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Eane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Aian\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Kallian\u00ed"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"DYTIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KOZANH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0399\u0391\u039d\u0397",
+    "qs:loc_alt":"AIANH",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":40.164722,
+    "wd:longitude":21.820833,
+    "wd:wordcount":329,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736971,
+        "gp:id":945058,
+        "qs:id":953635,
+        "qs_pg:id":953635,
+        "wd:id":"Q798872",
+        "wk:page":"Aiani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ac442cd30909fa52b9ff8bbbdcec5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855093,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":101855093,
+    "wof:lastmodified":1544742825,
+    "wof:name":"\u0391\u0399\u0391\u039d\u0397",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":2119,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82111,
+    40.165146,
+    21.82111,
+    40.165146
+],
+  "geometry": {"coordinates":[21.82111,40.165146],"type":"Point"}
+}

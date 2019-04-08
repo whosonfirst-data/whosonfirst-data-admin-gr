@@ -1,0 +1,98 @@
+{
+  "id": 1125862549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43333,40.93333,23.43333,40.93333",
+    "geom:latitude":40.93333,
+    "geom:longitude":23.43333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1502,
+    "gn:population":737,
+    "iso:country":"GR",
+    "lbl:latitude":40.93333,
+    "lbl:longitude":23.43333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03cc\u03ba\u03bb\u03b5\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Nik\u00f3kleia"
+    ],
+    "name:eng_x_preferred":[
+        "Nikokleia"
+    ],
+    "name:unk_x_variant":[
+        "Nikosl\u00e1vi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734915,
+    "qs_pg:gn_pop":1502,
+    "qs_pg:name":"Nikoklia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1284814,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":958355,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734915,
+        "gp:id":958355,
+        "qs_pg:id":1284814
+    },
+    "wof:country":"GR",
+    "wof:created":1497293890,
+    "wof:geomhash":"ac7cd59f4ee4e0deaa9bd1265061da5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125862549,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125862549,
+    "wof:lastmodified":1509396727,
+    "wof:name":"Nikoklia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":737,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43333,
+    40.93333,
+    23.43333,
+    40.93333
+],
+  "geometry": {"coordinates":[23.43333,40.93333],"type":"Point"}
+}

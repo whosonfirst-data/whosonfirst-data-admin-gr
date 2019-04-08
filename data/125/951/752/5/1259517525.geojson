@@ -1,0 +1,80 @@
+{
+  "id": 1259517525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02331,41.0497,25.02331,41.0497",
+    "geom:latitude":41.0497,
+    "geom:longitude":25.02331,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9015",
+    "gn:asciiname":"Koutso",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735569,
+    "gn:latitude":41.0497,
+    "gn:longitude":25.02331,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Kouts\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kouts\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03c4\u03c3\u03cc",
+        "Kouts\u00f3n",
+        "\u039a\u03bf\u03c5\u03c4\u03c3\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Aidin Obasi",
+        "Aidina Bashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735569,
+        "wk:page":"Koutso"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e103270a5de6dfbf42bb9b1101362177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259517525,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259517525,
+    "wof:lastmodified":1537624912,
+    "wof:name":"Koutso",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02331,
+    41.0497,
+    25.02331,
+    41.0497
+],
+  "geometry": {"coordinates":[25.02331,41.0497],"type":"Point"}
+}

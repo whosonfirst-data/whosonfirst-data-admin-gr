@@ -1,0 +1,130 @@
+{
+  "id": 101874219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.763603,39.720353,22.763603,39.720353",
+    "geom:latitude":39.720353,
+    "geom:longitude":22.763603,
+    "gn:population":2827,
+    "iso:country":"GR",
+    "lbl:latitude":39.720353,
+    "lbl:longitude":22.763603,
+    "mps:latitude":39.720353,
+    "mps:longitude":22.763603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u063a\u064a\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Agia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b3\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03b9\u03ac"
+    ],
+    "name:fin_x_preferred":[
+        "Agi\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Agia"
+    ],
+    "name:ita_x_preferred":[
+        "Agia"
+    ],
+    "name:nld_x_preferred":[
+        "Agia"
+    ],
+    "name:nno_x_preferred":[
+        "Aj\u00e1 i L\u00e1risa"
+    ],
+    "name:pol_x_preferred":[
+        "Aja"
+    ],
+    "name:ron_x_preferred":[
+        "Agia"
+    ],
+    "name:spa_x_preferred":[
+        "Agia"
+    ],
+    "name:swe_x_preferred":[
+        "Agi\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Ayi\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4f0a\u4e9a"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LARISA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0393\u0399\u0391",
+    "qs:loc_alt":"AGIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264284,
+        "gp:id":56558315,
+        "qs:id":973605,
+        "qs_pg:id":546904,
+        "wd:id":"Q2355675",
+        "wk:page":"Agia, Larissa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8f968fd2dcaee1a8dc6f79d631d69c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101874219,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101874219,
+    "wof:lastmodified":1544751605,
+    "wof:name":"\u0391\u0393\u0399\u0391",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":2827,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.763603,
+    39.720353,
+    22.763603,
+    39.720353
+],
+  "geometry": {"coordinates":[22.763603,39.720353],"type":"Point"}
+}

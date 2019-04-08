@@ -1,0 +1,76 @@
+{
+  "id": 1343894329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02728,38.78028,21.02728,38.78028",
+    "geom:latitude":38.78028,
+    "geom:longitude":21.02728,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9124",
+    "gn:asciiname":"Achyra",
+    "gn:country_code":"GR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":265467,
+    "gn:latitude":38.78028,
+    "gn:longitude":21.02728,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Achyr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Achyr\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c7\u03c5\u03c1\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Akhir\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265467
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b6cfeaa3c523cafc5b949d061f5d30ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343894329,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343894329,
+    "wof:lastmodified":1537624779,
+    "wof:name":"Achyra",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02728,
+    38.78028,
+    21.02728,
+    38.78028
+],
+  "geometry": {"coordinates":[21.02728,38.78028],"type":"Point"}
+}

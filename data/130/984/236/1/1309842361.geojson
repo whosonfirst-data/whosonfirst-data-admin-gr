@@ -1,0 +1,81 @@
+{
+  "id": 1309842361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21831,41.39825,24.21831,41.39825",
+    "geom:latitude":41.39825,
+    "geom:longitude":24.21831,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9002",
+    "gn:asciiname":"Kallikarpo",
+    "gn:country_code":"GR",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736048,
+    "gn:latitude":41.39825,
+    "gn:longitude":24.21831,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Kall\u00edkarpo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0432\u0447\u0438\u0449\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "Kall\u00edkarpo"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03bb\u03af\u03ba\u03b1\u03c1\u03c0\u03bf",
+        "\u039a\u03b1\u03bb\u03bb\u03af\u03ba\u03b1\u03c1\u03c0\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Loft\u00edsta",
+        "Kall\u00edkarpon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736048
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"09e03b9ddd4aa8933238a25ff98fc2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309842361,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1309842361,
+    "wof:lastmodified":1537624937,
+    "wof:name":"Kallikarpo",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21831,
+    41.39825,
+    24.21831,
+    41.39825
+],
+  "geometry": {"coordinates":[24.21831,41.39825],"type":"Point"}
+}

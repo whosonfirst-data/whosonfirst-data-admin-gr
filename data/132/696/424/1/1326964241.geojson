@@ -1,0 +1,75 @@
+{
+  "id": 1326964241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41756,37.72222,21.41756,37.72222",
+    "geom:latitude":37.72222,
+    "geom:longitude":21.41756,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141",
+    "gn:asciiname":"Katsaros",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260426,
+    "gn:latitude":37.72222,
+    "gn:longitude":21.41756,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Katsar\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03c3\u03b1\u03c1\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Katsaro\u00fa",
+        "Katsar\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260426,
+        "wk:page":"Katsaros"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"17e431fb5dd1a4d64718394b186bf536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326964241,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1326964241,
+    "wof:lastmodified":1537624539,
+    "wof:name":"Katsaros",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41756,
+    37.72222,
+    21.41756,
+    37.72222
+],
+  "geometry": {"coordinates":[21.41756,37.72222],"type":"Point"}
+}

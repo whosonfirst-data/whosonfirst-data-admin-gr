@@ -1,0 +1,79 @@
+{
+  "id": 1226679781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14789,37.45522,22.14789,37.45522",
+    "geom:latitude":37.45522,
+    "geom:longitude":22.14789,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Trilofo",
+    "gn:country_code":"GR",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252634,
+    "gn:latitude":37.45522,
+    "gn:longitude":22.14789,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Tr\u00edlofo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tr\u00edlofo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03af\u03bb\u03bf\u03c6\u03bf",
+        "\u03a4\u03c1\u03af\u03bb\u03bf\u03c6\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Imbra\u00efm",
+        "Ibra\u1e2fm",
+        "Tr\u00edlofon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252634
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"923b8f15758375052af226ece8f4d2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226679781,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226679781,
+    "wof:lastmodified":1537624192,
+    "wof:name":"Trilofo",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14789,
+    37.45522,
+    22.14789,
+    37.45522
+],
+  "geometry": {"coordinates":[22.14789,37.45522],"type":"Point"}
+}

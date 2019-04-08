@@ -1,0 +1,67 @@
+{
+  "id": 1209546105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11409,37.61429,26.11409,37.61429",
+    "geom:latitude":37.61429,
+    "geom:longitude":26.11409,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Lapsachades",
+    "gn:country_code":"GR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265882,
+    "gn:latitude":37.61429,
+    "gn:longitude":26.11409,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Lapsach\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lapsach\u00e1des"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03c8\u03b1\u03c7\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265882
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"32b0f8d21ef0037e8476b6e637f14345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209546105
+        }
+    ],
+    "wof:id":1209546105,
+    "wof:lastmodified":1537625114,
+    "wof:name":"Lapsachades",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11409,
+    37.61429,
+    26.11409,
+    37.61429
+],
+  "geometry": {"coordinates":[26.11409,37.61429],"type":"Point"}
+}

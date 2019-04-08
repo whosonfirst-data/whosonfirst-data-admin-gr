@@ -1,0 +1,78 @@
+{
+  "id": 1327263317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81433,37.24367,21.81433,37.24367",
+    "geom:latitude":37.24367,
+    "geom:longitude":21.81433,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Polythea",
+    "gn:country_code":"GR",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254902,
+    "gn:latitude":37.24367,
+    "gn:longitude":21.81433,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Polyth\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Polyth\u00e9a"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03c5\u03b8\u03ad\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Mal\u00edki",
+        "Mal\u00edkion",
+        "Polith\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254902
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"af68cc8807248e2f50f7ca83f6755810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327263317,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327263317,
+    "wof:lastmodified":1537624282,
+    "wof:name":"Polythea",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81433,
+    37.24367,
+    21.81433,
+    37.24367
+],
+  "geometry": {"coordinates":[21.81433,37.24367],"type":"Point"}
+}

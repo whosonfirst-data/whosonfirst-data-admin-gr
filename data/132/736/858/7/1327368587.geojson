@@ -1,0 +1,76 @@
+{
+  "id": 1327368587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10316,37.06076,22.10316,37.06076",
+    "geom:latitude":37.06076,
+    "geom:longitude":22.10316,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Kserokampi",
+    "gn:country_code":"GR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9960446,
+    "gn:latitude":37.06076,
+    "gn:longitude":22.10316,
+    "gn:modification_date":"2015-01-17",
+    "gn:name":"Kserok\u00e1mpi",
+    "gn:population":279,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039e\u03b5\u03c1\u03bf\u03ba\u03ac\u03bc\u03c0\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kserokampi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9960446
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3f5f9567c85d1d2f3adfadd7eaf2ce71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368587,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327368587,
+    "wof:lastmodified":1537625078,
+    "wof:name":"Kserokampi",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10316,
+    37.06076,
+    22.10316,
+    37.06076
+],
+  "geometry": {"coordinates":[22.10316,37.06076],"type":"Point"}
+}

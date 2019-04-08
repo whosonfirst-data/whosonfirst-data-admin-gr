@@ -1,0 +1,75 @@
+{
+  "id": 101849131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.218864,39.225933,23.218864,39.225933",
+    "geom:latitude":39.225933,
+    "geom:longitude":23.218864,
+    "iso:country":"GR",
+    "lbl:latitude":39.225933,
+    "lbl:longitude":23.218864,
+    "mps:latitude":39.225933,
+    "mps:longitude":23.218864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"MAGNHSIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03a1\u0393\u0391\u039b\u0391\u03a3\u0398",
+    "qs:loc_alt":"ARGALASU",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":946351,
+        "qs:id":2
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"385370d1788cda3ddac9e2d2760b066c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849131,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849131,
+    "wof:lastmodified":1544740795,
+    "wof:name":"\u0391\u03a1\u0393\u0391\u039b\u0391\u03a3\u0398",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.218864,
+    39.225933,
+    23.218864,
+    39.225933
+],
+  "geometry": {"coordinates":[23.218864,39.225933],"type":"Point"}
+}

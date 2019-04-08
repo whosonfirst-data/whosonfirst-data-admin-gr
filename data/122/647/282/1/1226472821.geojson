@@ -1,0 +1,76 @@
+{
+  "id": 1226472821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97986,40.90811,25.97986,40.90811",
+    "geom:latitude":40.90811,
+    "geom:longitude":25.97986,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Doriko",
+    "gn:country_code":"GR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736409,
+    "gn:latitude":40.90811,
+    "gn:longitude":25.97986,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Dorik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dorik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c9\u03c1\u03b9\u03ba\u03cc",
+        "Dhorik\u00f3n",
+        "Dorik\u00f3n",
+        "\u0394\u03c9\u03c1\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736409
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"207d373c538e5b6050f8d936d0750b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226472821,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226472821,
+    "wof:lastmodified":1537624954,
+    "wof:name":"Doriko",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97986,
+    40.90811,
+    25.97986,
+    40.90811
+],
+  "geometry": {"coordinates":[25.97986,40.90811],"type":"Point"}
+}

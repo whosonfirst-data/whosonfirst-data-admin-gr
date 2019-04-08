@@ -1,0 +1,76 @@
+{
+  "id": 1260116491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60081,41.24119,24.60081,41.24119",
+    "geom:latitude":41.24119,
+    "geom:longitude":24.60081,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9017",
+    "gn:asciiname":"Stavrochori",
+    "gn:country_code":"GR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734159,
+    "gn:latitude":41.24119,
+    "gn:longitude":24.60081,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Stavroch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Stavroch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Stavrokh\u00f3rion",
+        "Stavroch\u00f3rion",
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734159
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ec80e02a983ef477b459861f26cffd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260116491,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260116491,
+    "wof:lastmodified":1537624826,
+    "wof:name":"Stavrochori",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60081,
+    41.24119,
+    24.60081,
+    41.24119
+],
+  "geometry": {"coordinates":[24.60081,41.24119],"type":"Point"}
+}

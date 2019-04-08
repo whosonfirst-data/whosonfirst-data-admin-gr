@@ -1,0 +1,79 @@
+{
+  "id": 1243101639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69154,35.43281,23.69154,35.43281",
+    "geom:latitude":35.43281,
+    "geom:longitude":23.69154,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Kapsaniana",
+    "gn:country_code":"GR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521840,
+    "gn:latitude":35.43281,
+    "gn:longitude":23.69154,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Kapsanian\u00e1",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c8\u03b1\u03bd\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kapsaniana"
+    ],
+    "name:und_x_variant":[
+        "Kapsanian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521840
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6b53af8fc4b518c5ea2a9a95c2c1df0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243101639,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243101639,
+    "wof:lastmodified":1537625010,
+    "wof:name":"Kapsaniana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69154,
+    35.43281,
+    23.69154,
+    35.43281
+],
+  "geometry": {"coordinates":[23.69154,35.43281],"type":"Point"}
+}

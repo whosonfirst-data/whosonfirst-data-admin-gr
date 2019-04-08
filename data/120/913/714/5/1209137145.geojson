@@ -1,0 +1,75 @@
+{
+  "id": 1209137145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47453,36.93729,25.47453,36.93729",
+    "geom:latitude":36.93729,
+    "geom:longitude":25.47453,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292.0",
+    "gn:asciiname":"Kalantos",
+    "gn:country_code":"GR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794107,
+    "gn:latitude":36.93729,
+    "gn:longitude":25.47453,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Kalant\u00f3s",
+    "gn:population":10,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03bd\u03c4\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kalantos"
+    ],
+    "name:eng_x_variant":[
+        "Kalandos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794107
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b8958e30312184120886139020c04ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209137145
+        }
+    ],
+    "wof:id":1209137145,
+    "wof:lastmodified":1537625091,
+    "wof:name":"Kalantos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47453,
+    36.93729,
+    25.47453,
+    36.93729
+],
+  "geometry": {"coordinates":[25.47453,36.93729],"type":"Point"}
+}

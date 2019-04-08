@@ -1,0 +1,79 @@
+{
+  "id": 1293626123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14517,37.58536,25.14517,37.58536",
+    "geom:latitude":37.58536,
+    "geom:longitude":25.14517,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9301",
+    "gn:asciiname":"Smardakito",
+    "gn:country_code":"GR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253509,
+    "gn:latitude":37.58536,
+    "gn:longitude":25.14517,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Smard\u00e1kito",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Smard\u00e1kiton"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bc\u03b1\u03c1\u03b4\u03ac\u03ba\u03b9\u03c4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Smardh\u00e1ktion",
+        "Smardh\u00f3koitos",
+        "Smard\u00e1kito",
+        "\u03a3\u03bc\u03b1\u03c1\u03b4\u03ac\u03ba\u03b9\u03c4\u03bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253509
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c2b56a1bb0ba53c1e6489dd88b360588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293626123,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1293626123,
+    "wof:lastmodified":1537624224,
+    "wof:name":"Smardakito",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14517,
+    37.58536,
+    25.14517,
+    37.58536
+],
+  "geometry": {"coordinates":[25.14517,37.58536],"type":"Point"}
+}

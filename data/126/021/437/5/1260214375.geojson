@@ -1,0 +1,73 @@
+{
+  "id": 1260214375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35432,41.66723,26.35432,41.66723",
+    "geom:latitude":41.66723,
+    "geom:longitude":26.35432,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9008",
+    "gn:asciiname":"Krios",
+    "gn:country_code":"GR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735531,
+    "gn:latitude":41.66723,
+    "gn:longitude":26.35432,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kri\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kri\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b9\u03cc\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735531
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2d6a91bf90e57016ddd4ed6e5a456ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260214375,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260214375,
+    "wof:lastmodified":1537624909,
+    "wof:name":"Krios",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35432,
+    41.66723,
+    26.35432,
+    41.66723
+],
+  "geometry": {"coordinates":[26.35432,41.66723],"type":"Point"}
+}

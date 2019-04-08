@@ -1,0 +1,75 @@
+{
+  "id": 1360218273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40703,37.69253,21.40703,37.69253",
+    "geom:latitude":37.69253,
+    "geom:longitude":21.40703,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141",
+    "gn:asciiname":"Lastaiika",
+    "gn:country_code":"GR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258565,
+    "gn:latitude":37.69253,
+    "gn:longitude":21.40703,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Lasta\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c3\u03c4\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Last\u00e9\u00efka",
+        "Lasta\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258565,
+        "wk:page":"Lasteika"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6a86fe0361ded8f45ed8036cb6fa6b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360218273,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360218273,
+    "wof:lastmodified":1537624455,
+    "wof:name":"Lastaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40703,
+    37.69253,
+    21.40703,
+    37.69253
+],
+  "geometry": {"coordinates":[21.40703,37.69253],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243010015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11707,37.41724,22.11707,37.41724",
+    "geom:latitude":37.41724,
+    "geom:longitude":22.11707,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Oresteio",
+    "gn:country_code":"GR",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256281,
+    "gn:latitude":37.41724,
+    "gn:longitude":22.11707,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Or\u00e9steio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Or\u00e9steio"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03ad\u03c3\u03c4\u03b5\u03b9\u03bf",
+        "Or\u00e9steion",
+        "\u039f\u03c1\u03ad\u03c3\u03c4\u03b5\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kasidhokh\u00f3rion",
+        "Kasidhokh\u00f3ri",
+        "Or\u00e9stion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256281
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3e0b9b93b4323b9074ae1c65c58691dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243010015,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243010015,
+    "wof:lastmodified":1537624346,
+    "wof:name":"Oresteio",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11707,
+    37.41724,
+    22.11707,
+    37.41724
+],
+  "geometry": {"coordinates":[22.11707,37.41724],"type":"Point"}
+}

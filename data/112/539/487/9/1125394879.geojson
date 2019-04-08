@@ -1,0 +1,79 @@
+{
+  "id": 1125394879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82803,40.12819,23.82803,40.12819",
+    "geom:latitude":40.12819,
+    "geom:longitude":23.82803,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11798,
+    "gn:population":11798,
+    "iso:country":"GR",
+    "lbl:latitude":40.12819,
+    "lbl:longitude":23.82803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03b8\u03c9\u03bd\u03af\u03b1\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133963,
+    "qs_pg:gn_pop":11798,
+    "qs_pg:name":"Dimos Sithonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1042597,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133963,
+        "qs_pg:id":1042597
+    },
+    "wof:country":"GR",
+    "wof:created":1497048944,
+    "wof:geomhash":"f92903640db00e43e05a902ed63c6f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125394879,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125394879,
+    "wof:lastmodified":1509389921,
+    "wof:name":"Dimos Sithonia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"localadmin",
+    "wof:population":11798,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82803,
+    40.12819,
+    23.82803,
+    40.12819
+],
+  "geometry": {"coordinates":[23.82803,40.12819],"type":"Point"}
+}

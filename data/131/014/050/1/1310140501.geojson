@@ -1,0 +1,73 @@
+{
+  "id": 1310140501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70131,38.31084,23.70131,38.31084",
+    "geom:latitude":38.31084,
+    "geom:longitude":23.70131,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9227.0",
+    "gn:asciiname":"Tourla",
+    "gn:country_code":"GR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971202,
+    "gn:latitude":38.31084,
+    "gn:longitude":23.70131,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"To\u00farla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "To\u00farla"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03bf\u03cd\u03c1\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971202
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d2218899f1760ee416ffab69792d7143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310140501,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1310140501,
+    "wof:lastmodified":1537625094,
+    "wof:name":"Tourla",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70131,
+    38.31084,
+    23.70131,
+    38.31084
+],
+  "geometry": {"coordinates":[23.70131,38.31084],"type":"Point"}
+}

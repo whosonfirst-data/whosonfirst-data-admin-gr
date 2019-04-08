@@ -1,0 +1,74 @@
+{
+  "id": 1260010493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92582,41.02377,24.92582,41.02377",
+    "geom:latitude":41.02377,
+    "geom:longitude":24.92582,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9015",
+    "gn:asciiname":"Gkiona",
+    "gn:country_code":"GR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736190,
+    "gn:latitude":41.02377,
+    "gn:longitude":24.92582,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Gki\u00f3na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Gki\u00f3na"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03b9\u03ce\u03bd\u03b1",
+        "Gi\u00f3na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736190
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9f099a35840cfdc87db5f6350140475f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260010493,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260010493,
+    "wof:lastmodified":1537624944,
+    "wof:name":"Gkiona",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92582,
+    41.02377,
+    24.92582,
+    41.02377
+],
+  "geometry": {"coordinates":[24.92582,41.02377],"type":"Point"}
+}

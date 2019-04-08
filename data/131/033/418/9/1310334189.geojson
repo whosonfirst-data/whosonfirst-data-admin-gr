@@ -1,0 +1,76 @@
+{
+  "id": 1310334189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56403,38.10539,21.56403,38.10539",
+    "geom:latitude":38.10539,
+    "geom:longitude":21.56403,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Ano Achaia",
+    "gn:country_code":"GR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264969,
+    "gn:latitude":38.10539,
+    "gn:longitude":21.56403,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00c1no Acha\u1e2fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Acha\u1e2fa"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u0391\u03c7\u03b1\u0390\u03b1"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Akha\u1e2fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264969
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fdc578edbcf0bcd00034d781b16b0e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310334189,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310334189,
+    "wof:lastmodified":1537624753,
+    "wof:name":"Ano Achaia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56403,
+    38.10539,
+    21.56403,
+    38.10539
+],
+  "geometry": {"coordinates":[21.56403,38.10539],"type":"Point"}
+}

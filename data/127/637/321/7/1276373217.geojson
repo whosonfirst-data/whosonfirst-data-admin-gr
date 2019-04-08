@@ -1,0 +1,75 @@
+{
+  "id": 1276373217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61659,40.06306,21.61659,40.06306",
+    "geom:latitude":40.06306,
+    "geom:longitude":21.61659,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Itea",
+    "gn:country_code":"GR",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736095,
+    "gn:latitude":40.06306,
+    "gn:longitude":21.61659,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"It\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03ad\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00farbovon",
+        "Iti\u00e9s",
+        "It\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736095
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f8e3da7a007701be2440578e2962d087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373217,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1276373217,
+    "wof:lastmodified":1537624939,
+    "wof:name":"Itea",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61659,
+    40.06306,
+    21.61659,
+    40.06306
+],
+  "geometry": {"coordinates":[21.61659,40.06306],"type":"Point"}
+}

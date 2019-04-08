@@ -1,0 +1,73 @@
+{
+  "id": 1243397395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85568,40.14406,20.85568,40.14406",
+    "geom:latitude":40.14406,
+    "geom:longitude":20.85568,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9085",
+    "gn:asciiname":"Pogoniskos",
+    "gn:country_code":"GR",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":734556,
+    "gn:latitude":40.14406,
+    "gn:longitude":20.85568,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Pogon\u00edskos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Pogon\u00edskos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c9\u03b3\u03c9\u03bd\u03af\u03c3\u03ba\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734556
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a2e73f9d89fb06b9dabb25b546bbdd4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243397395,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1243397395,
+    "wof:lastmodified":1537624849,
+    "wof:name":"Pogoniskos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85568,
+    40.14406,
+    20.85568,
+    40.14406
+],
+  "geometry": {"coordinates":[20.85568,40.14406],"type":"Point"}
+}

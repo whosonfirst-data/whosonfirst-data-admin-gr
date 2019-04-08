@@ -1,0 +1,73 @@
+{
+  "id": 1260217967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73723,35.12743,24.73723,35.12743",
+    "geom:latitude":35.12743,
+    "geom:longitude":24.73723,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Rizikas",
+    "gn:country_code":"GR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254289,
+    "gn:latitude":35.12743,
+    "gn:longitude":24.73723,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"R\u00edzikas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "R\u00edzikas"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03af\u03b6\u03b9\u03ba\u03b1\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254289
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5d6c2a480591c053191cbca4cae2055d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260217967,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260217967,
+    "wof:lastmodified":1537624261,
+    "wof:name":"Rizikas",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73723,
+    35.12743,
+    24.73723,
+    35.12743
+],
+  "geometry": {"coordinates":[24.73723,35.12743],"type":"Point"}
+}

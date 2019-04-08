@@ -1,0 +1,76 @@
+{
+  "id": 1327368147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8075,39.66561,20.8075,39.66561",
+    "geom:latitude":39.66561,
+    "geom:longitude":20.8075,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9084",
+    "gn:asciiname":"Ammos",
+    "gn:country_code":"GR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10175085,
+    "gn:latitude":39.66561,
+    "gn:longitude":20.8075,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"\u00c1mmos",
+    "gn:population":479,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bc\u03bc\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ammos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175085
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e14d1f6747203d29670b1188ab00d39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368147,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1327368147,
+    "wof:lastmodified":1537625081,
+    "wof:name":"Ammos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":479,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8075,
+    39.66561,
+    20.8075,
+    39.66561
+],
+  "geometry": {"coordinates":[20.8075,39.66561],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209750485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73464,38.94858,20.73464,38.94858",
+    "geom:latitude":38.94858,
+    "geom:longitude":20.73464,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9090",
+    "gn:asciiname":"Pantokratoras",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255867,
+    "gn:latitude":38.94858,
+    "gn:longitude":20.73464,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Pantokr\u00e1toras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pantokr\u00e1toras"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03c4\u03bf\u03ba\u03c1\u03ac\u03c4\u03c9\u03c1\u03b1\u03c2",
+        "Pantokr\u00e1tor",
+        "\u03a0\u03b1\u03bd\u03c4\u03bf\u03ba\u03c1\u03ac\u03c4\u03c9\u03c1"
+    ],
+    "name:und_x_variant":[
+        "Pandokr\u00e1tor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255867
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c333d20ffaf5ef93af3d689f748241c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209750485,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1209750485,
+    "wof:lastmodified":1537624326,
+    "wof:name":"Pantokratoras",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73464,
+    38.94858,
+    20.73464,
+    38.94858
+],
+  "geometry": {"coordinates":[20.73464,38.94858],"type":"Point"}
+}

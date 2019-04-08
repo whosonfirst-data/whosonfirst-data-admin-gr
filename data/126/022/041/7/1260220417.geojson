@@ -1,0 +1,74 @@
+{
+  "id": 1260220417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96981,35.48317,23.96981,35.48317",
+    "geom:latitude":35.48317,
+    "geom:longitude":23.96981,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Lygides",
+    "gn:country_code":"GR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258167,
+    "gn:latitude":35.48317,
+    "gn:longitude":23.96981,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Lygid\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lygid\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03c5\u03b3\u03b9\u03b4\u03ad\u03c2",
+        "Liyidh\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258167
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bd2edd5441ce749b2bcc8736ec265463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260220417,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260220417,
+    "wof:lastmodified":1537624435,
+    "wof:name":"Lygides",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96981,
+    35.48317,
+    23.96981,
+    35.48317
+],
+  "geometry": {"coordinates":[23.96981,35.48317],"type":"Point"}
+}

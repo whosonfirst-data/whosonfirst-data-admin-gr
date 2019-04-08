@@ -1,0 +1,94 @@
+{
+  "id": 1126041479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99389,39.00667,21.99389,39.00667",
+    "geom:latitude":39.00667,
+    "geom:longitude":21.99389,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":268,
+    "gn:population":303,
+    "iso:country":"GR",
+    "lbl:latitude":39.00667,
+    "lbl:longitude":21.99389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u03a1\u03bf\u03b2\u03bf\u03bb\u03b9\u03ac\u03c1\u03bf\u03c2",
+        "\u03a1\u03bf\u03b2\u03bf\u03bb\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b2\u03bf\u03bb\u03b9\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03b2\u03bf\u03bb\u03b9\u03ac\u03c1\u03b9\u03bf\u03bd",
+        "\u03a1\u03bf\u03b2\u03bf\u03bb\u03b9\u03ac\u03c1\u03bf\u03c2",
+        "\u03a1\u03bf\u03b2\u03bf\u03bb\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Rovoliari"
+    ],
+    "name:unk_x_variant":[
+        "Ay\u00eda Paraskev\u00ed"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254166,
+    "qs_pg:gn_pop":268,
+    "qs_pg:name":"Rovoli\u00e1rion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546454,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254166,
+        "qs_pg:id":546454
+    },
+    "wof:country":"GR",
+    "wof:created":1497302185,
+    "wof:geomhash":"d8bf708f8703f5c407c48feead4d02bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126041479,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1126041479,
+    "wof:lastmodified":1509408536,
+    "wof:name":"Rovoli\u00e1rion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99389,
+    39.00667,
+    21.99389,
+    39.00667
+],
+  "geometry": {"coordinates":[21.99389,39.00667],"type":"Point"}
+}

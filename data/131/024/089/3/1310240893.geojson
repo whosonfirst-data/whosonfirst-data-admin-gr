@@ -1,0 +1,74 @@
+{
+  "id": 1310240893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.68711,38.98861,21.68711,38.98861",
+    "geom:latitude":38.98861,
+    "geom:longitude":21.68711,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9156",
+    "gn:asciiname":"Viniani",
+    "gn:country_code":"GR",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251952,
+    "gn:latitude":38.98861,
+    "gn:longitude":21.68711,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"V\u00edniani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bd\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "V\u00edniani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251952,
+        "wk:page":"Viniani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e317fd533048db50baa552349668f9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310240893,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1310240893,
+    "wof:lastmodified":1537624162,
+    "wof:name":"Viniani",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.68711,
+    38.98861,
+    21.68711,
+    38.98861
+],
+  "geometry": {"coordinates":[21.68711,38.98861],"type":"Point"}
+}

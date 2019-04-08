@@ -1,0 +1,69 @@
+{
+  "id": 1209139791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09237,39.78366,21.09237,39.78366",
+    "geom:latitude":39.78366,
+    "geom:longitude":21.09237,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9086",
+    "gn:asciiname":"Nikaros",
+    "gn:country_code":"GR",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256425,
+    "gn:latitude":39.78366,
+    "gn:longitude":21.09237,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"N\u00edkaros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "N\u00edkaros"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03af\u03ba\u03b1\u03c1\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256425
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e6601859fe463ceaf7ef3eceee7b282c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209139791
+        }
+    ],
+    "wof:id":1209139791,
+    "wof:lastmodified":1537624351,
+    "wof:name":"Nikaros",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09237000000001,
+    39.78366,
+    21.09237000000001,
+    39.78366
+],
+  "geometry": {"coordinates":[21.09237000000001,39.78366],"type":"Point"}
+}

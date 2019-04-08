@@ -1,0 +1,112 @@
+{
+  "id": 1125837245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55,40.48333,21.55,40.48333",
+    "geom:latitude":40.48333,
+    "geom:longitude":21.55,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1033,
+    "gn:population":1033,
+    "iso:country":"GR",
+    "lbl:latitude":40.48333,
+    "lbl:longitude":21.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0625\u0645\u0628\u0648\u0631\u064a\u0648\u0646\u060c \u0643\u0648\u0632\u0627\u0646\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043c\u0431\u043e\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Emporio"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bc\u03c0\u03cc\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Emp\u00f3rio",
+        "\u0395\u03bc\u03c0\u03cc\u03c1\u03b9\u03bf",
+        "Emp\u00f3rion"
+    ],
+    "name:eng_x_preferred":[
+        "Emporio"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bc\u03c0\u03cc\u03c1\u03b9\u03bf \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0415\u043c\u0431\u043e\u0440\u0435"
+    ],
+    "name:nno_x_preferred":[
+        "Emb\u00f3rio i Koz\u00e1ni"
+    ],
+    "name:swe_x_preferred":[
+        "Emp\u00f3rio"
+    ],
+    "name:unk_x_variant":[
+        "Emboriya"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736324,
+    "qs_pg:gn_pop":1033,
+    "qs_pg:name":"Emb\u00f3rion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":83336,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736324,
+        "qs_pg:id":83336,
+        "wd:id":"Q3393201"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292768,
+    "wof:geomhash":"066b0ebef345c9e8f174f3901cc8dd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125837245,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125837245,
+    "wof:lastmodified":1514443947,
+    "wof:name":"Emb\u00f3rion",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":1033,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55,
+    40.48333,
+    21.55,
+    40.48333
+],
+  "geometry": {"coordinates":[21.55,40.48333],"type":"Point"}
+}

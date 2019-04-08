@@ -1,0 +1,98 @@
+{
+  "id": 1125862705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,38.01667,22.73333,38.01667",
+    "geom:latitude":38.01667,
+    "geom:longitude":22.73333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1150,
+    "gn:population":1298,
+    "iso:country":"GR",
+    "lbl:latitude":38.01667,
+    "lbl:longitude":22.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03c3\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Pasio"
+    ],
+    "name:unk_x_variant":[
+        "Pas\u00f3"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255709,
+    "qs_pg:gn_pop":1150,
+    "qs_pg:name":"Paso",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1284908,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":959374,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255709,
+        "gp:id":959374,
+        "qs_pg:id":1284908
+    },
+    "wof:country":"GR",
+    "wof:created":1497293899,
+    "wof:geomhash":"6918863156f582ef5151a6a9dc54da75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125862705,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125862705,
+    "wof:lastmodified":1509396751,
+    "wof:name":"Paso",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1298,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    38.01667,
+    22.73333,
+    38.01667
+],
+  "geometry": {"coordinates":[22.73333,38.01667],"type":"Point"}
+}

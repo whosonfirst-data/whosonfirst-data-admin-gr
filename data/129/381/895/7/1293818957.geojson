@@ -1,0 +1,75 @@
+{
+  "id": 1293818957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4781,37.91563,21.4781,37.91563",
+    "geom:latitude":37.91563,
+    "geom:longitude":21.4781,
+    "gn:admin1_code":"ESYE25",
+    "gn:asciiname":"Palaiokhora",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256129,
+    "gn:latitude":37.91563,
+    "gn:longitude":21.4781,
+    "gn:modification_date":"2011-02-22",
+    "gn:name":"Palaiokh\u00f3ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Da\u00fati",
+        "Pali\u00f3khora",
+        "Dao\u00fati",
+        "Palaiokh\u00f3ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256129
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"75598a93c2d6f62defcf3ba30ad62a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293818957,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293818957,
+    "wof:lastmodified":1537624339,
+    "wof:name":"Palaiokhora",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4781,
+    37.91563,
+    21.4781,
+    37.91563
+],
+  "geometry": {"coordinates":[21.4781,37.91563],"type":"Point"}
+}

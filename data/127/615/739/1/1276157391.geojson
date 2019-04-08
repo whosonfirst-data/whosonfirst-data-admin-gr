@@ -1,0 +1,74 @@
+{
+  "id": 1276157391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.29575,41.15611,26.29575,41.15611",
+    "geom:latitude":41.15611,
+    "geom:longitude":26.29575,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9010",
+    "gn:asciiname":"Kornofolia",
+    "gn:country_code":"GR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735611,
+    "gn:latitude":41.15611,
+    "gn:longitude":26.29575,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kornofoli\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kornofoli\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c1\u03bd\u03bf\u03c6\u03c9\u03bb\u03b9\u03ac",
+        "Kornofole\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735611
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"81a889ab633db522cdb4854e5cd3f5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276157391,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276157391,
+    "wof:lastmodified":1537624914,
+    "wof:name":"Kornofolia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.29575,
+    41.15611,
+    26.29575,
+    41.15611
+],
+  "geometry": {"coordinates":[26.29575,41.15611],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276373523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36407,38.54226,21.36407,38.54226",
+    "geom:latitude":38.54226,
+    "geom:longitude":21.36407,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Bresiakon",
+    "gn:country_code":"GR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781269,
+    "gn:latitude":38.54226,
+    "gn:longitude":21.36407,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"Br\u00e9siakon",
+    "gn:population":64,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ad\u03c3\u03b9\u03b1\u03ba\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03c1\u03ad\u03c3\u03b9\u03b1\u03ba\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Bresiako"
+    ],
+    "name:und_x_variant":[
+        "Mpresiakon",
+        "Mpresiako"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781269
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7b1d183c3d64a275f778d95a7d96dcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373523,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276373523,
+    "wof:lastmodified":1537625074,
+    "wof:name":"Bresiakon",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36407,
+    38.54226,
+    21.36407,
+    38.54226
+],
+  "geometry": {"coordinates":[21.36407,38.54226],"type":"Point"}
+}

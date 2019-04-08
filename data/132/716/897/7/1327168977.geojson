@@ -1,0 +1,76 @@
+{
+  "id": 1327168977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45244,38.78015,21.45244,38.78015",
+    "geom:latitude":38.78015,
+    "geom:longitude":21.45244,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Kelanitis",
+    "gn:country_code":"GR",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260281,
+    "gn:latitude":38.78015,
+    "gn:longitude":21.45244,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Kelan\u00edtis",
+    "gn:population":67,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bb\u03b1\u03bd\u03af\u03c4\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kelanitis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260281
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1923a12186988d85d49713a8768d8ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327168977,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327168977,
+    "wof:lastmodified":1537624533,
+    "wof:name":"Kelanitis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45244,
+    38.78015,
+    21.45244,
+    38.78015
+],
+  "geometry": {"coordinates":[21.45244,38.78015],"type":"Point"}
+}

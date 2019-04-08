@@ -1,0 +1,80 @@
+{
+  "id": 1260323169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.80504,37.63707,22.80504,37.63707",
+    "geom:latitude":37.63707,
+    "geom:longitude":22.80504,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Ayia Trias",
+    "gn:country_code":"GR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264131,
+    "gn:latitude":37.63707,
+    "gn:longitude":22.80504,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Ay\u00eda Tri\u00e1s",
+    "gn:population":1151,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a4\u03c1\u03b9\u03ac\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Triada"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9rbakas",
+        "Ay\u00eda Tri\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264131
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fcaa333b9f373ebb268be85ec268e7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260323169,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260323169,
+    "wof:lastmodified":1537624715,
+    "wof:name":"Ayia Trias",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1151,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.80504,
+    37.63707,
+    22.80504,
+    37.63707
+],
+  "geometry": {"coordinates":[22.80504,37.63707],"type":"Point"}
+}

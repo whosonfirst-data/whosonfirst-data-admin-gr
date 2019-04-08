@@ -1,0 +1,79 @@
+{
+  "id": 1125414341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90326,40.67609,22.90326,40.67609",
+    "geom:latitude":40.67609,
+    "geom:longitude":22.90326,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":77174,
+    "gn:population":77174,
+    "iso:country":"GR",
+    "lbl:latitude":40.67609,
+    "lbl:longitude":22.90326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03b4\u03b5\u03bb\u03b9\u03bf\u03cd - \u0395\u03c5\u03cc\u03c3\u03bc\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133918,
+    "qs_pg:gn_pop":77174,
+    "qs_pg:name":"Dimos Kordelio-Evosmos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":109702,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133918,
+        "qs_pg:id":109702
+    },
+    "wof:country":"GR",
+    "wof:created":1497050996,
+    "wof:geomhash":"1c48d536623c0e32d679d9baeef198d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125414341,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125414341,
+    "wof:lastmodified":1509390335,
+    "wof:name":"Dimos Kordelio-Evosmos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"localadmin",
+    "wof:population":77174,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90326,
+    40.67609,
+    22.90326,
+    40.67609
+],
+  "geometry": {"coordinates":[22.90326,40.67609],"type":"Point"}
+}

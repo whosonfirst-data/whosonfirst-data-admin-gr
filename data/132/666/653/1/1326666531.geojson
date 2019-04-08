@@ -1,0 +1,73 @@
+{
+  "id": 1326666531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77477,35.52256,23.77477,35.52256",
+    "geom:latitude":35.52256,
+    "geom:longitude":23.77477,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Marathokefala",
+    "gn:country_code":"GR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257719,
+    "gn:latitude":35.52256,
+    "gn:longitude":23.77477,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Marathokef\u00e1la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Marathokef\u00e1la"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c1\u03b1\u03b8\u03bf\u03ba\u03b5\u03c6\u03ac\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257719
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"596e5e152a3e5bc4f40278fc288e90c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326666531,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1326666531,
+    "wof:lastmodified":1537624415,
+    "wof:name":"Marathokefala",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77477,
+    35.52256,
+    23.77477,
+    35.52256
+],
+  "geometry": {"coordinates":[23.77477,35.52256],"type":"Point"}
+}

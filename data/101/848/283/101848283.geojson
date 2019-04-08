@@ -1,0 +1,135 @@
+{
+  "id": 101848283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.982086,35.229927,24.982086,35.229927",
+    "geom:latitude":35.229927,
+    "geom:longitude":24.982086,
+    "gn:population":2811,
+    "iso:country":"GR",
+    "lbl:latitude":35.229927,
+    "lbl:longitude":24.982086,
+    "mps:latitude":35.229927,
+    "mps:longitude":24.982086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Krousonas"
+    ],
+    "name:dut_x_preferred":[
+        "Krousonas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c1\u03bf\u03c5\u03c3\u03ce\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03bf\u03c5\u03c3\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Krousson"
+    ],
+    "name:eng_x_variant":[
+        "Krouss\u00f3n",
+        "Krousonas"
+    ],
+    "name:fin_x_preferred":[
+        "Krous\u00f3nas"
+    ],
+    "name:fre_x_preferred":[
+        "Krousonas"
+    ],
+    "name:ger_x_preferred":[
+        "Krousonas"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c1\u03bf\u03c5\u03c3\u03ce\u03bd\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Krousonas"
+    ],
+    "name:nno_x_preferred":[
+        "Krous\u00f3nas"
+    ],
+    "name:por_x_preferred":[
+        "Crus\u00f3nas"
+    ],
+    "name:swe_x_preferred":[
+        "Krous\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Kro\u00fasonas"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u03a1\u0397\u03a4\u0397",
+    "qs:a1_alt":"KRHTH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"HRAKLEIO",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03a1\u039f\u03a5\u03a3\u03a9\u039d",
+    "qs:loc_alt":"KROYSVN",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1147d192-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":258744,
+        "gp:id":954785,
+        "qs:id":208555,
+        "qs_pg:id":208555,
+        "wd:id":"Q640658",
+        "wk:page":"Krousonas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"49b3533dfa5bbc42bfc95e6d4a09dbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848283,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":101848283,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740364,
+    "wof:name":"\u039a\u03a1\u039f\u03a5\u03a3\u03a9\u039d",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":2811,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.982086,
+    35.229927,
+    24.982086,
+    35.229927
+],
+  "geometry": {"coordinates":[24.982086,35.229927],"type":"Point"}
+}

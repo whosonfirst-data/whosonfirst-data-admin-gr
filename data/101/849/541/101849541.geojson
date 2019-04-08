@@ -1,0 +1,123 @@
+{
+  "id": 101849541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.297342,38.567368,21.297342,38.567368",
+    "geom:latitude":38.567368,
+    "geom:longitude":21.297342,
+    "gn:population":1220,
+    "iso:country":"GR",
+    "lbl:latitude":38.567368,
+    "lbl:longitude":21.297342,
+    "mps:latitude":38.567368,
+    "mps:longitude":21.297342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062c\u0644\u0648\u0643\u0627\u0633\u062a\u0631\u0648\u0646\u060c \u0623\u064a\u062a\u0648\u0644\u064a\u0627 \u0643\u064a \u0623\u0643\u0627\u0631\u0646\u0627\u0646\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Angelokastro"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03b3\u03b5\u03bb\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03b3\u03b5\u03bb\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Angelokastro"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03b3\u03b5\u03bb\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Angelocastro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b2\u30ed\u30ab\u30b9\u30c8\u30ed"
+    ],
+    "name:nno_x_preferred":[
+        "Angel\u00f3kastro"
+    ],
+    "name:rum_x_preferred":[
+        "Angelokastro"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Angelokastro"
+    ],
+    "name:swe_x_preferred":[
+        "Angel\u00f3kastro"
+    ],
+    "name:tur_x_preferred":[
+        "Angelokastro"
+    ],
+    "name:unk_x_variant":[
+        "Angel\u00f3kastro"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"AITVLIA KAI AKARNANIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0393\u0393\u0395\u039b\u039f\u039a\u0391\u03a3\u03a4\u03a1\u039f\u039d",
+    "qs:loc_alt":"AGGELOKASTRON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265013,
+        "gp:id":945735,
+        "qs:id":1283696,
+        "wd:id":"Q2466281"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"acd7b029dce3218aca02a88978591dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849541,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849541,
+    "wof:lastmodified":1553815543,
+    "wof:name":"\u0391\u0393\u0393\u0395\u039b\u039f\u039a\u0391\u03a3\u03a4\u03a1\u039f\u039d",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":1220,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.297342,
+    38.567368,
+    21.297342,
+    38.567368
+],
+  "geometry": {"coordinates":[21.297342,38.567368],"type":"Point"}
+}

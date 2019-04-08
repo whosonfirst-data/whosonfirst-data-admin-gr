@@ -1,0 +1,76 @@
+{
+  "id": 1360215251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36155,37.42522,25.36155,37.42522",
+    "geom:latitude":37.42522,
+    "geom:longitude":25.36155,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9290.0",
+    "gn:asciiname":"Plintri",
+    "gn:country_code":"GR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10627128,
+    "gn:latitude":37.42522,
+    "gn:longitude":25.36155,
+    "gn:modification_date":"2015-08-14",
+    "gn:name":"Plintr\u00ed",
+    "gn:population":544,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b9\u03bd\u03c4\u03c1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Plintri"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10627128
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7ad5cd159c9ae1d663828f9eea01a13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360215251,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1360215251,
+    "wof:lastmodified":1537625087,
+    "wof:name":"Plintri",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":544,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36155,
+    37.42522,
+    25.36155,
+    37.42522
+],
+  "geometry": {"coordinates":[25.36155,37.42522],"type":"Point"}
+}

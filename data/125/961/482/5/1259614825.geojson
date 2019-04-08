@@ -1,0 +1,79 @@
+{
+  "id": 1259614825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90113,37.44648,24.90113,37.44648",
+    "geom:latitude":37.44648,
+    "geom:longitude":24.90113,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Kinion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259790,
+    "gn:latitude":37.44648,
+    "gn:longitude":24.90113,
+    "gn:modification_date":"2014-03-22",
+    "gn:name":"K\u00ednion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kini"
+    ],
+    "name:und_x_variant":[
+        "K\u00f3nion",
+        "K\u00f3ni",
+        "K\u00ednion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259790
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"787bb710fe6c6b5f9cbe992627b8fac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259614825,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1259614825,
+    "wof:lastmodified":1537624508,
+    "wof:name":"Kinion",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90113,
+    37.44648,
+    24.90113,
+    37.44648
+],
+  "geometry": {"coordinates":[24.90113,37.44648],"type":"Point"}
+}

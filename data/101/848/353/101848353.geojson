@@ -1,0 +1,147 @@
+{
+  "id": 101848353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.162988,37.538471,25.162988,37.538471",
+    "geom:latitude":37.538471,
+    "geom:longitude":25.162988,
+    "gn:population":4573,
+    "iso:country":"GR",
+    "lbl:latitude":37.538471,
+    "lbl:longitude":25.162988,
+    "mps:latitude":37.538471,
+    "mps:longitude":25.162988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Tinos"
+    ],
+    "name:dut_x_preferred":[
+        "Tinos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ae\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Tinos"
+    ],
+    "name:est_x_preferred":[
+        "T\u00ednos"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0646\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "T\u00ednos"
+    ],
+    "name:fra_x_preferred":[
+        "Tinos"
+    ],
+    "name:fre_x_preferred":[
+        "Tinos"
+    ],
+    "name:ger_x_preferred":[
+        "Tinos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03ae\u03bd\u03bf\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Tinos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30ce\u30b9"
+    ],
+    "name:lat_x_preferred":[
+        "Tenos"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u06cc\u0646\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Jednostka regionalna Tinos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u043e\u0441"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043d\u043e\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u043d\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Saint Nicholas"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039d\u039f\u03a4\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"NOTIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KYKLADES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u0397\u039d\u039f\u03a3",
+    "qs:loc_alt":"UNOS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":37.5333,
+    "wd:longitude":25.1667,
+    "wd:wordcount":141,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252854,
+        "gp:id":963192,
+        "qs:id":1235081,
+        "qs_pg:id":222182,
+        "wd:id":"Q1231074",
+        "wk:page":"Tinos (town)"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e4df9ce28bc4a8e354ee4f5fb3eeefff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848353,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":101848353,
+    "wof:lastmodified":1553815542,
+    "wof:name":"\u03a4\u0397\u039d\u039f\u03a3",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":4573,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.162988,
+    37.538471,
+    25.162988,
+    37.538471
+],
+  "geometry": {"coordinates":[25.162988,37.538471],"type":"Point"}
+}

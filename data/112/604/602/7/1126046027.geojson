@@ -1,0 +1,95 @@
+{
+  "id": 1126046027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06194,40.36333,22.06194,40.36333",
+    "geom:latitude":40.36333,
+    "geom:longitude":22.06194,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":695,
+    "gn:population":695,
+    "iso:country":"GR",
+    "lbl:latitude":40.36333,
+    "lbl:longitude":22.06194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Polymylos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03cd\u03bc\u03c5\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Polymylos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03cd\u03bc\u03c5\u03bb\u03bf\u03c2 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Pol\u00fdmylos"
+    ],
+    "name:unk_x_variant":[
+        "H\u00e1dova"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734534,
+    "qs_pg:gn_pop":695,
+    "qs_pg:name":"Pol\u00fdmylos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552826,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734534,
+        "qs_pg:id":552826,
+        "wd:id":"Q16896999"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302436,
+    "wof:geomhash":"6ffeefeda95e6e6ceb957b51225df595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126046027,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1126046027,
+    "wof:lastmodified":1514444043,
+    "wof:name":"Pol\u00fdmylos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":695,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06194,
+    40.36333,
+    22.06194,
+    40.36333
+],
+  "geometry": {"coordinates":[22.06194,40.36333],"type":"Point"}
+}

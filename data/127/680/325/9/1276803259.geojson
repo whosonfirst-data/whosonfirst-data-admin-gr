@@ -1,0 +1,76 @@
+{
+  "id": 1276803259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.02371,37.76329,24.02371,37.76329",
+    "geom:latitude":37.76329,
+    "geom:longitude":24.02371,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Plaka",
+    "gn:country_code":"GR",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255126,
+    "gn:latitude":37.76329,
+    "gn:longitude":24.02371,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Pl\u00e1ka",
+    "gn:population":558,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03ac\u03ba\u03b1 \u039a\u03b5\u03c1\u03b1\u03c4\u03ad\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Plaka Kerateas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255126
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e39c629e77c9bf6d9acd3ff524c4b896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276803259,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1276803259,
+    "wof:lastmodified":1537624291,
+    "wof:name":"Plaka",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":558,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.02371,
+    37.76329000000001,
+    24.02371,
+    37.76329000000001
+],
+  "geometry": {"coordinates":[24.02371,37.76329000000001],"type":"Point"}
+}

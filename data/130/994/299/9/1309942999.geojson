@@ -1,0 +1,73 @@
+{
+  "id": 1309942999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.47675,37.68193,23.47675,37.68193",
+    "geom:latitude":37.68193,
+    "geom:longitude":23.47675,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9208.0",
+    "gn:asciiname":"Klima",
+    "gn:country_code":"GR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064083,
+    "gn:latitude":37.68193,
+    "gn:longitude":23.47675,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kl\u00edma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kl\u00edma"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bb\u03af\u03bc\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064083
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3e431f85a18f530139ff3d5a399ba0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309942999,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1309942999,
+    "wof:lastmodified":1537625109,
+    "wof:name":"Klima",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47675,
+    37.68193,
+    23.47675,
+    37.68193
+],
+  "geometry": {"coordinates":[23.47675,37.68193],"type":"Point"}
+}

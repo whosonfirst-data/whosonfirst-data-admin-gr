@@ -1,0 +1,79 @@
+{
+  "id": 1242712763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94128,40.40633,21.94128,40.40633",
+    "geom:latitude":40.40633,
+    "geom:longitude":21.94128,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Ryaki",
+    "gn:country_code":"GR",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734400,
+    "gn:latitude":40.40633,
+    "gn:longitude":21.94128,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ry\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ry\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03c5\u03ac\u03ba\u03b9",
+        "Ry\u00e1kion",
+        "\u03a1\u03c5\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ri\u00e1ki",
+        "Ri\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734400
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0f690ba0abed5d8364b9472bac1ca118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242712763,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1242712763,
+    "wof:lastmodified":1537624840,
+    "wof:name":"Ryaki",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94128,
+    40.40633,
+    21.94128,
+    40.40633
+],
+  "geometry": {"coordinates":[21.94128,40.40633],"type":"Point"}
+}

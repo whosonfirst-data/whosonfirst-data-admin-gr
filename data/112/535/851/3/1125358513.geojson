@@ -1,0 +1,79 @@
+{
+  "id": 1125358513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7411,37.9152,22.7411,37.9152",
+    "geom:latitude":37.9152,
+    "geom:longitude":22.7411,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":17251,
+    "gn:population":17251,
+    "iso:country":"GR",
+    "lbl:latitude":37.9152,
+    "lbl:longitude":22.7411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03bb\u03bf\u03c5 - \u0392\u03cc\u03c7\u03b1\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133799,
+    "qs_pg:gn_pop":17251,
+    "qs_pg:name":"Dimos Velo-Vocha",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":758712,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133799,
+        "qs_pg:id":758712
+    },
+    "wof:country":"GR",
+    "wof:created":1497046630,
+    "wof:geomhash":"e648ea56a4cbae9f3b556c9eecfbe704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125358513,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125358513,
+    "wof:lastmodified":1509389010,
+    "wof:name":"Dimos Velo-Vocha",
+    "wof:parent_id":85684643,
+    "wof:placetype":"localadmin",
+    "wof:population":17251,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7411,
+    37.9152,
+    22.7411,
+    37.9152
+],
+  "geometry": {"coordinates":[22.7411,37.9152],"type":"Point"}
+}

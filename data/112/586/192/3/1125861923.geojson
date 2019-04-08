@@ -1,0 +1,98 @@
+{
+  "id": 1125861923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68333,38.45,23.68333,38.45",
+    "geom:latitude":38.45,
+    "geom:longitude":23.68333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1365,
+    "gn:population":1405,
+    "iso:country":"GR",
+    "lbl:latitude":38.45,
+    "lbl:longitude":23.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03c6\u03c1\u03ac\u03c4\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c6\u03c1\u03ac\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Afrati"
+    ],
+    "name:unk_x_variant":[
+        "Afr\u00e1ti"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":265650,
+    "qs_pg:gn_pop":1365,
+    "qs_pg:name":"Afration",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1283604,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":944913,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265650,
+        "gp:id":944913,
+        "qs_pg:id":1283604
+    },
+    "wof:country":"GR",
+    "wof:created":1497293862,
+    "wof:geomhash":"907564f22c7bd7e8d2129fe9bb88ab34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125861923,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125861923,
+    "wof:lastmodified":1509396687,
+    "wof:name":"Afration",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1405,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68333,
+    38.45,
+    23.68333,
+    38.45
+],
+  "geometry": {"coordinates":[23.68333,38.45],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209552431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47297,40.89062,21.47297,40.89062",
+    "geom:latitude":40.89062,
+    "geom:longitude":21.47297,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Neos Kafkasos",
+    "gn:country_code":"GR",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734940,
+    "gn:latitude":40.89062,
+    "gn:longitude":21.47297,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"N\u00e9os K\u00e1fkasos",
+    "gn:population":229,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf\u03c2 \u039a\u03b1\u03cd\u03ba\u03b1\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Neos Kafkasos"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9os K\u00e1fkasos",
+        "N\u00e9os K\u00e1vkasos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734940
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a31eec86fc2084a92884e1593ca41b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209552431
+        }
+    ],
+    "wof:id":1209552431,
+    "wof:lastmodified":1537624870,
+    "wof:name":"Neos Kafkasos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47297,
+    40.89062,
+    21.47297,
+    40.89062
+],
+  "geometry": {"coordinates":[21.47297,40.89062],"type":"Point"}
+}

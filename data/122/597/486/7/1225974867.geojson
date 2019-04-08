@@ -1,0 +1,77 @@
+{
+  "id": 1225974867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0047,39.36917,22.0047,39.36917",
+    "geom:latitude":39.36917,
+    "geom:longitude":22.0047,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9092",
+    "gn:asciiname":"Agios Theodoros",
+    "gn:country_code":"GR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263718,
+    "gn:latitude":39.36917,
+    "gn:longitude":22.0047,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c1gios The\u00f3doros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios The\u00f3doros"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kapouts\u00ed",
+        "\u00c1yios The\u00f3dhoros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263718
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"18a03a3b008c3246da47324073a245c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225974867,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1225974867,
+    "wof:lastmodified":1537624695,
+    "wof:name":"Agios Theodoros",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0047,
+    39.36917,
+    22.0047,
+    39.36917
+],
+  "geometry": {"coordinates":[22.0047,39.36917],"type":"Point"}
+}

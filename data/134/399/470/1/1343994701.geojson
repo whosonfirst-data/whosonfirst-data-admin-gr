@@ -1,0 +1,76 @@
+{
+  "id": 1343994701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53423,38.76004,21.53423,38.76004",
+    "geom:latitude":38.76004,
+    "geom:longitude":21.53423,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Kastanoula",
+    "gn:country_code":"GR",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260817,
+    "gn:latitude":38.76004,
+    "gn:longitude":21.53423,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Kastano\u00fala",
+    "gn:population":106,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c4\u03b1\u03bd\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kastanoula"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260817
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"34bb9b6e657c051bc74a394f50d164e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343994701,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343994701,
+    "wof:lastmodified":1537624560,
+    "wof:name":"Kastanoula",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53423,
+    38.76004,
+    21.53423,
+    38.76004
+],
+  "geometry": {"coordinates":[21.53423,38.76004],"type":"Point"}
+}

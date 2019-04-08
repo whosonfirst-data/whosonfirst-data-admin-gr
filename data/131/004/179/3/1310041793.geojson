@@ -1,0 +1,79 @@
+{
+  "id": 1310041793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86898,36.94297,21.86898,36.94297",
+    "geom:latitude":36.94297,
+    "geom:longitude":21.86898,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Trypes",
+    "gn:country_code":"GR",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252625,
+    "gn:latitude":36.94297,
+    "gn:longitude":21.86898,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tr\u00fdpes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tr\u00fdpes"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03cd\u03c0\u03b5\u03c2",
+        "Tr\u00fdpai",
+        "\u03a4\u03c1\u03cd\u03c0\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00edpes",
+        "Tr\u00edpai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252625
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3cd893f9928656d5f62e48cbe9bf8343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310041793,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310041793,
+    "wof:lastmodified":1537624191,
+    "wof:name":"Trypes",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86898,
+    36.94297,
+    21.86898,
+    36.94297
+],
+  "geometry": {"coordinates":[21.86898,36.94297],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276373359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06891,35.52027,24.06891,35.52027",
+    "geom:latitude":35.52027,
+    "geom:longitude":24.06891,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Kanteris",
+    "gn:country_code":"GR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427654,
+    "gn:latitude":35.52027,
+    "gn:longitude":24.06891,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kant\u00e9ris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kant\u00e9ris"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bd\u03c4\u03ad\u03c1\u03b7\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427654
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e673200f40e398a8901271af50f649b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373359,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276373359,
+    "wof:lastmodified":1537625007,
+    "wof:name":"Kanteris",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06891,
+    35.52027000000001,
+    24.06891,
+    35.52027000000001
+],
+  "geometry": {"coordinates":[24.06891,35.52027000000001],"type":"Point"}
+}

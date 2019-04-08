@@ -1,0 +1,87 @@
+{
+  "id": 1225980955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50342,41.14427,25.50342,41.14427",
+    "geom:latitude":41.14427,
+    "geom:longitude":25.50342,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Stylari",
+    "gn:country_code":"GR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734137,
+    "gn:latitude":41.14427,
+    "gn:longitude":25.50342,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Styl\u00e1ri",
+    "gn:population":300,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03c5\u03bb\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03c5\u03bb\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Stylari"
+    ],
+    "name:tur_x_preferred":[
+        "Barakl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Styl\u00e1ri",
+        "Stil\u00e1rion",
+        "Styl\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734137
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cbab9e5a338faf728cb198ae65cb1a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225980955,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1225980955,
+    "wof:lastmodified":1537624824,
+    "wof:name":"Stylari",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50342,
+    41.14427,
+    25.50342,
+    41.14427
+],
+  "geometry": {"coordinates":[25.50342,41.14427],"type":"Point"}
+}

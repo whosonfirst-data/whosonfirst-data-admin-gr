@@ -1,0 +1,67 @@
+{
+  "id": 1293421007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86335,35.34482,24.86335,35.34482",
+    "geom:latitude":35.34482,
+    "geom:longitude":24.86335,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Theodhora",
+    "gn:country_code":"GR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252970,
+    "gn:latitude":35.34482,
+    "gn:longitude":24.86335,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Theodh\u00f3ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252970
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"86c123223c71449eb7b983e4d2665983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293421007,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293421007,
+    "wof:lastmodified":1536882301,
+    "wof:name":"Theodhora",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86335,
+    35.34482,
+    24.86335,
+    35.34482
+],
+  "geometry": {"coordinates":[24.86335,35.34482],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125786453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00778,37.05111,22.00778,37.05111",
+    "geom:latitude":37.05111,
+    "geom:longitude":22.00778,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":6773,
+    "gn:population":6773,
+    "iso:country":"GR",
+    "lbl:latitude":37.05111,
+    "lbl:longitude":22.00778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Messini"
+    ],
+    "name:dut_x_preferred":[
+        "Messini"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03c3\u03ae\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Messini"
+    ],
+    "name:fin_x_preferred":[
+        "Mess\u00edni"
+    ],
+    "name:fre_x_preferred":[
+        "Messini"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b5\u03c3\u03c3\u03ae\u03bd\u03b7"
+    ],
+    "name:nno_x_preferred":[
+        "Mess\u00edni"
+    ],
+    "name:pol_x_preferred":[
+        "Mesini"
+    ],
+    "name:rum_x_preferred":[
+        "Messini"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u0438\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Messeni"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":257152,
+    "qs_pg:gn_pop":6773,
+    "qs_pg:name":"Mess\u00edni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1248266,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257152,
+        "qs_pg:id":1248266,
+        "wd:id":"Q12874064"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290699,
+    "wof:geomhash":"d82000ea12d3cad8f194e6ea66e45727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125786453,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125786453,
+    "wof:lastmodified":1514444005,
+    "wof:name":"Mess\u00edni",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":6773,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00778,
+    37.05111,
+    22.00778,
+    37.05111
+],
+  "geometry": {"coordinates":[22.00778,37.05111],"type":"Point"}
+}

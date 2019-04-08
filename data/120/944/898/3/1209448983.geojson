@@ -1,0 +1,79 @@
+{
+  "id": 1209448983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63553,35.34267,24.63553,35.34267",
+    "geom:latitude":35.34267,
+    "geom:longitude":24.63553,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Roupes",
+    "gn:country_code":"GR",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254200,
+    "gn:latitude":35.34267,
+    "gn:longitude":24.63553,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Ro\u00fapes",
+    "gn:population":37,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03c0\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03cd\u03c0\u03b1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Roupes"
+    ],
+    "name:und_x_variant":[
+        "Ro\u00fapes",
+        "Ro\u00fapai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254200
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"da0c32322d7077d8b5c4e27e7d712559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209448983
+        }
+    ],
+    "wof:id":1209448983,
+    "wof:lastmodified":1537624257,
+    "wof:name":"Roupes",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63553,
+    35.34267,
+    24.63553,
+    35.34267
+],
+  "geometry": {"coordinates":[24.63553,35.34267],"type":"Point"}
+}

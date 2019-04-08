@@ -1,0 +1,76 @@
+{
+  "id": 1293820827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90179,39.55991,20.90179,39.55991",
+    "geom:latitude":39.55991,
+    "geom:longitude":20.90179,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Taksiarchis",
+    "gn:country_code":"GR",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973018,
+    "gn:latitude":39.55991,
+    "gn:longitude":20.90179,
+    "gn:modification_date":"2015-02-02",
+    "gn:name":"Taksi\u00e1rchis",
+    "gn:population":98,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03be\u03b9\u03ac\u03c1\u03c7\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Taksiarchis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973018
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e67bf958a361d1bc8ff16f9de02bf05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293820827,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293820827,
+    "wof:lastmodified":1537625079,
+    "wof:name":"Taksiarchis",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90179,
+    39.55991,
+    20.90179,
+    39.55991
+],
+  "geometry": {"coordinates":[20.90179,39.55991],"type":"Point"}
+}

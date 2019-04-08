@@ -1,0 +1,75 @@
+{
+  "id": 1259717405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1992,39.24212,26.1992,39.24212",
+    "geom:latitude":39.24212,
+    "geom:longitude":26.1992,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Dafia",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263325,
+    "gn:latitude":39.24212,
+    "gn:longitude":26.1992,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"D\u00e1fia",
+    "gn:population":992,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03ac\u03c6\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Dh\u00e1fia",
+        "D\u00e1fia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263325
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ff76a1e4a7550753224bc0e332ab1413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1259717405,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259717405,
+    "wof:lastmodified":1537624680,
+    "wof:name":"Dafia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":992,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1992,
+    39.24212,
+    26.1992,
+    39.24212
+],
+  "geometry": {"coordinates":[26.1992,39.24212],"type":"Point"}
+}

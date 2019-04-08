@@ -1,0 +1,86 @@
+{
+  "id": 1293820051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04044,39.49663,21.04044,39.49663",
+    "geom:latitude":39.49663,
+    "geom:longitude":21.04044,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9080",
+    "gn:asciiname":"Megali Rachi",
+    "gn:country_code":"GR",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257428,
+    "gn:latitude":39.49663,
+    "gn:longitude":21.04044,
+    "gn:modification_date":"2015-02-02",
+    "gn:name":"Meg\u00e1li R\u00e1chi",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u03a1\u03ac\u03c7\u03b7 \u039c\u03b5\u03b3\u03ac\u03bb\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03a1\u03ac\u03c7\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03ac\u03c7\u03b7 \u039c\u03b5\u03b3\u03ac\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Megali Rachi"
+    ],
+    "name:und_x_variant":[
+        "Meg\u00e1li R\u00e1khi",
+        "Meg\u00e1li R\u00e1chi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257428
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"907ec88253e87d09d7453671af6acdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293820051,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293820051,
+    "wof:lastmodified":1537624405,
+    "wof:name":"Megali Rachi",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04044,
+    39.49663,
+    21.04044,
+    39.49663
+],
+  "geometry": {"coordinates":[21.04044,39.49663],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276260365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6567,38.13083,23.6567,38.13083",
+    "geom:latitude":38.13083,
+    "geom:longitude":23.6567,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9232",
+    "gn:asciiname":"Moni Koimiseos Theotokou Kleiston",
+    "gn:country_code":"GR",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036837,
+    "gn:latitude":38.13083,
+    "gn:longitude":23.6567,
+    "gn:modification_date":"2014-05-23",
+    "gn:name":"Mon\u00ed Koim\u00edseos Theot\u00f3kou Kleist\u00f3n",
+    "gn:population":9,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u039a\u03bf\u03b9\u03bc\u03ae\u03c3\u03b5\u03c9\u03c2 \u0398\u03b5\u03bf\u03c4\u03cc\u03ba\u03bf\u03c5 \u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03ce\u03bd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036837
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4ad629954382d2e0d506cefd5eca5fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276260365,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1276260365,
+    "wof:lastmodified":1537551163,
+    "wof:name":"Moni Koimiseos Theotokou Kleiston",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6567,
+    38.13083,
+    23.6567,
+    38.13083
+],
+  "geometry": {"coordinates":[23.6567,38.13083],"type":"Point"}
+}

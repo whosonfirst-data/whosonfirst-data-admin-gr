@@ -1,0 +1,81 @@
+{
+  "id": 102545491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4015,37.5268,22.4015,37.5268",
+    "geom:latitude":37.5268,
+    "geom:longitude":22.4015,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Tripoli"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03c0\u03bf\u03c1\u03b9\u03ba\u03ae \u0392\u03ac\u03c3\u03b7 \u03a4\u03c1\u03b9\u03c0\u03cc\u03bb\u03b5\u03c9\u03c2"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tripolis AB"
+    ],
+    "name:swe_x_preferred":[
+        "Tripoli Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0440\u043e\u0431\u043b\u0441"
+    ],
+    "oa:elevation_ft":"2113",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":55,
+    "woe:hierarchy":{
+        "country_id":23424833,
+        "county_id":12591119,
+        "localadmin_id":24543854,
+        "planet_id":1,
+        "state_id":12577887
+    },
+    "wof:belongsto":[
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513330,
+        "icao:code":"LGTP",
+        "oa:id":"4292",
+        "wd:id":"Q2382846"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"754d5f0c2c8acdf8727f05b06d869ed1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545491,
+            "country_id":85633171,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":102545491,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Tripolis Airport",
+    "wof:parent_id":85684643,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.4015,
+    37.5268,
+    22.4015,
+    37.5268
+],
+  "geometry": {"coordinates":[22.4015,37.5268],"type":"Point"}
+}

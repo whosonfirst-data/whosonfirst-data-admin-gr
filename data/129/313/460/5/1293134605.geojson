@@ -1,0 +1,80 @@
+{
+  "id": 1293134605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.45197,41.27065,23.45197,41.27065",
+    "geom:latitude":41.27065,
+    "geom:longitude":23.45197,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9055",
+    "gn:asciiname":"Faia Petra",
+    "gn:country_code":"GR",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736275,
+    "gn:latitude":41.27065,
+    "gn:longitude":23.45197,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Fai\u00e1 P\u00e9tra",
+    "gn:population":92,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03b9\u03ac \u03a0\u03ad\u03c4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Faia Petra"
+    ],
+    "name:und_x_variant":[
+        "El\u00e9snitsa",
+        "Fai\u00e1 P\u00e9tra"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736275
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"975c7e19d0f2d581f19357a1e39ed6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293134605,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293134605,
+    "wof:lastmodified":1537624947,
+    "wof:name":"Faia Petra",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45197000000001,
+    41.27065,
+    23.45197000000001,
+    41.27065
+],
+  "geometry": {"coordinates":[23.45197000000001,41.27065],"type":"Point"}
+}

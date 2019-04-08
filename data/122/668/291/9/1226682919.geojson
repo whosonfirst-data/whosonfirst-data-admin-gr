@@ -1,0 +1,78 @@
+{
+  "id": 1226682919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32954,40.31966,21.32954,40.31966",
+    "geom:latitude":40.31966,
+    "geom:longitude":21.32954,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Chorigos",
+    "gn:country_code":"GR",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735770,
+    "gn:latitude":40.31966,
+    "gn:longitude":21.32954,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Chorig\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chorig\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03c1\u03b7\u03b3\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Khoriv\u00f3n",
+        "Khorig\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735770,
+        "wk:page":"Chorigos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6b608c5ff1d737a26d4427cd662e25fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682919,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1226682919,
+    "wof:lastmodified":1537624923,
+    "wof:name":"Chorigos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32954,
+    40.31966,
+    21.32954,
+    40.31966
+],
+  "geometry": {"coordinates":[21.32954,40.31966],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259814865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59785,37.39656,22.59785,37.39656",
+    "geom:latitude":37.39656,
+    "geom:longitude":22.59785,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9237",
+    "gn:asciiname":"Aetochori",
+    "gn:country_code":"GR",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265684,
+    "gn:latitude":37.39656,
+    "gn:longitude":22.59785,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Aetoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Aetoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b5\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Aetoch\u00f3rion",
+        "\u0391\u03b5\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Galten\u00e1",
+        "A\u00ebtokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265684
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c462cf5259c2a91b46ced4f16e0afe5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259814865,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259814865,
+    "wof:lastmodified":1537624789,
+    "wof:name":"Aetochori",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59785,
+    37.39656,
+    22.59785,
+    37.39656
+],
+  "geometry": {"coordinates":[22.59785,37.39656],"type":"Point"}
+}

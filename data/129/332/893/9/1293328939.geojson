@@ -1,0 +1,75 @@
+{
+  "id": 1293328939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50273,40.3514,22.50273,40.3514",
+    "geom:latitude":40.3514,
+    "geom:longitude":22.50273,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"9047",
+    "gn:asciiname":"Chrani",
+    "gn:country_code":"GR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735761,
+    "gn:latitude":40.3514,
+    "gn:longitude":22.50273,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Chr\u00e1ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03c1\u03ac\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Hrani",
+        "Khr\u00e1ni",
+        "Chr\u00e1ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735761
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"42433348eeb7c0b675d4075e2ab8c00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293328939,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293328939,
+    "wof:lastmodified":1537624922,
+    "wof:name":"Chrani",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50273,
+    40.3514,
+    22.50273,
+    40.3514
+],
+  "geometry": {"coordinates":[22.50273,40.3514],"type":"Point"}
+}

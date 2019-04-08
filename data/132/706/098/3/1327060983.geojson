@@ -1,0 +1,81 @@
+{
+  "id": 1327060983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1336,40.32946,23.1336,40.32946",
+    "geom:latitude":40.32946,
+    "geom:longitude":23.1336,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9058",
+    "gn:asciiname":"Nea Silata",
+    "gn:country_code":"GR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734984,
+    "gn:latitude":40.32946,
+    "gn:longitude":23.1336,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"N\u00e9a S\u00edlata",
+    "gn:population":788,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u03a3\u03af\u03bb\u03b1\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Silata"
+    ],
+    "name:und_x_variant":[
+        "Karvi\u00e1",
+        "N\u00e9a Sill\u00e1ta",
+        "N\u00e9a S\u00edlata"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734984
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3d4fb8b13a332c74ab9d513a49fa5278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327060983,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1327060983,
+    "wof:lastmodified":1537624873,
+    "wof:name":"Nea Silata",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":788,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1336,
+    40.32946,
+    23.1336,
+    40.32946
+],
+  "geometry": {"coordinates":[23.1336,40.32946],"type":"Point"}
+}

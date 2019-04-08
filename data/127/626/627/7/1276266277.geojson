@@ -1,0 +1,74 @@
+{
+  "id": 1276266277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31467,40.81306,23.31467,40.81306",
+    "geom:latitude":40.81306,
+    "geom:longitude":23.31467,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9034",
+    "gn:asciiname":"Avgi",
+    "gn:country_code":"GR",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736665,
+    "gn:latitude":40.81306,
+    "gn:longitude":23.31467,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Avg\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Avg\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c5\u03b3\u03ae",
+        "Avy\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736665
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2fa1d35228dbf8b53ecd82ccbcb7cbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276266277,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1276266277,
+    "wof:lastmodified":1537624968,
+    "wof:name":"Avgi",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31467,
+    40.81306,
+    23.31467,
+    40.81306
+],
+  "geometry": {"coordinates":[23.31467,40.81306],"type":"Point"}
+}

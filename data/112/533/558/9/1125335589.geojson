@@ -1,0 +1,80 @@
+{
+  "id": 1125335589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.869729,39.150098,23.869729,39.150098",
+    "geom:latitude":39.150098,
+    "geom:longitude":23.869729,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":39.150098,
+    "lbl:longitude":23.869729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Alonnisos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1154,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1311232,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":24543694,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24543694,
+        "qs_pg:id":1311232
+    },
+    "wof:country":"GR",
+    "wof:created":1497045390,
+    "wof:geomhash":"acdb4bea6bdb176c13d46a4239006b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125335589,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125335589,
+    "wof:lastmodified":1509388490,
+    "wof:name":"Alonnisos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.869729,
+    39.150098,
+    23.869729,
+    39.150098
+],
+  "geometry": {"coordinates":[23.869729,39.150098],"type":"Point"}
+}

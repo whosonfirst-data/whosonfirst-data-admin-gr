@@ -1,0 +1,76 @@
+{
+  "id": 1242904711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20656,38.13425,23.20656,38.13425",
+    "geom:latitude":38.13425,
+    "geom:longitude":23.20656,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230",
+    "gn:asciiname":"Mytikas",
+    "gn:country_code":"GR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036817,
+    "gn:latitude":38.13425,
+    "gn:longitude":23.20656,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Mytikas",
+    "gn:population":16,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03cd\u03c4\u03b9\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Mytikas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036817
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6ec6fb26e7a97c4e1df0da99498ca628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242904711,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1242904711,
+    "wof:lastmodified":1537625044,
+    "wof:name":"Mytikas",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20656,
+    38.13425,
+    23.20656,
+    38.13425
+],
+  "geometry": {"coordinates":[23.20656,38.13425],"type":"Point"}
+}

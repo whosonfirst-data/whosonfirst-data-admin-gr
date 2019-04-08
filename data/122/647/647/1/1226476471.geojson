@@ -1,0 +1,76 @@
+{
+  "id": 1226476471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69901,38.47037,23.69901,38.47037",
+    "geom:latitude":38.47037,
+    "geom:longitude":23.69901,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9155",
+    "gn:asciiname":"Gyrismata",
+    "gn:country_code":"GR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10240120,
+    "gn:latitude":38.47037,
+    "gn:longitude":23.69901,
+    "gn:modification_date":"2018-07-29",
+    "gn:name":"Gyr\u00edsmata",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c5\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Gyrismata"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10240120
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7dd535d2ccb62b2f36f051ef2b85981e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226476471,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226476471,
+    "wof:lastmodified":1537625085,
+    "wof:name":"Gyrismata",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69901,
+    38.47037,
+    23.69901,
+    38.47037
+],
+  "geometry": {"coordinates":[23.69901,38.47037],"type":"Point"}
+}

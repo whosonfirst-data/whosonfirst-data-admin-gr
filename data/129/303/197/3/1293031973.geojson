@@ -1,0 +1,76 @@
+{
+  "id": 1293031973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97796,37.99336,23.97796,37.99336",
+    "geom:latitude":37.99336,
+    "geom:longitude":23.97796,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9226",
+    "gn:asciiname":"Agia Kyriakii Spaton",
+    "gn:country_code":"GR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036778,
+    "gn:latitude":37.99336,
+    "gn:longitude":23.97796,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Agia Kyriaki\u00ed Sp\u00e1ton",
+    "gn:population":886,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae \u03a3\u03c0\u03ac\u03c4\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Kyriaki Spaton"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036778
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6550a7c76fee79174de8b6af8ae44749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293031973,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293031973,
+    "wof:lastmodified":1537625042,
+    "wof:name":"Agia Kyriakii Spaton",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":886,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97796,
+    37.99336,
+    23.97796,
+    37.99336
+],
+  "geometry": {"coordinates":[23.97796,37.99336],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310037027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94835,36.61599,24.94835,36.61599",
+    "geom:latitude":36.61599,
+    "geom:longitude":24.94835,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9273",
+    "gn:asciiname":"Karavostasis",
+    "gn:country_code":"GR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261011,
+    "gn:latitude":36.61599,
+    "gn:longitude":24.94835,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Karavost\u00e1sis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03b2\u03bf\u03c3\u03c4\u03ac\u03c3\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yios Art\u00e9mios",
+        "Karavost\u00e1si",
+        "Karavost\u00e1sis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261011
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d53443fa5a988d82d3cfca56a5f6dcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310037027,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1310037027,
+    "wof:lastmodified":1537624570,
+    "wof:name":"Karavostasis",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94835,
+    36.61599,
+    24.94835,
+    36.61599
+],
+  "geometry": {"coordinates":[24.94835,36.61599],"type":"Point"}
+}

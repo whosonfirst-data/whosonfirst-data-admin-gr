@@ -1,0 +1,74 @@
+{
+  "id": 1309939953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7738,35.28108,23.7738,35.28108",
+    "geom:latitude":35.28108,
+    "geom:longitude":23.7738,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Aidonoi",
+    "gn:country_code":"GR",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265536,
+    "gn:latitude":35.28108,
+    "gn:longitude":23.7738,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Aidono\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Aidono\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b7\u03b4\u03bf\u03bd\u03bf\u03af",
+        "Aidhono\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265536
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7a02318d5ccacf68f35cc5eaff1cd487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309939953,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1309939953,
+    "wof:lastmodified":1537624781,
+    "wof:name":"Aidonoi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7738,
+    35.28108,
+    23.7738,
+    35.28108
+],
+  "geometry": {"coordinates":[23.7738,35.28108],"type":"Point"}
+}

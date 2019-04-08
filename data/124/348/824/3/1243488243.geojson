@@ -1,0 +1,73 @@
+{
+  "id": 1243488243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88062,37.81391,23.88062,37.81391",
+    "geom:latitude":37.81391,
+    "geom:longitude":23.88062,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9225.0",
+    "gn:asciiname":"Plagies Lagonisiou",
+    "gn:country_code":"GR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999712,
+    "gn:latitude":37.81391,
+    "gn:longitude":23.88062,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Plagi\u00e9s Lagonis\u00edou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Plagi\u00e9s Lagonis\u00edou"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03b3\u03b9\u03ad\u03c2 \u039b\u03b1\u03b3\u03bf\u03bd\u03b7\u03c3\u03af\u03bf\u03c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999712
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"caec94e735315b1a06d653f85258b785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243488243,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1243488243,
+    "wof:lastmodified":1537625101,
+    "wof:name":"Plagies Lagonisiou",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88062,
+    37.81391,
+    23.88062,
+    37.81391
+],
+  "geometry": {"coordinates":[23.88062,37.81391],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343595531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92093,37.4222,24.92093,37.4222",
+    "geom:latitude":37.4222,
+    "geom:longitude":24.92093,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Mesaria",
+    "gn:country_code":"GR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257222,
+    "gn:latitude":37.4222,
+    "gn:longitude":24.92093,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mesari\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03b1\u03c1\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Messari\u00e1",
+        "Mesari\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257222
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ea983efdac3e76aec998985195c82cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343595531,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1343595531,
+    "wof:lastmodified":1537624395,
+    "wof:name":"Mesaria",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92093,
+    37.4222,
+    24.92093,
+    37.4222
+],
+  "geometry": {"coordinates":[24.92093,37.4222],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326959147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79847,35.31045,23.79847,35.31045",
+    "geom:latitude":35.31045,
+    "geom:longitude":23.79847,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Kampanos",
+    "gn:country_code":"GR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261245,
+    "gn:latitude":35.31045,
+    "gn:longitude":23.79847,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kampan\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kampan\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kambano\u00fa",
+        "Kamban\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261245,
+        "wk:page":"Kampanos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aa73f4024286a73657f82c24a2503e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326959147,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1326959147,
+    "wof:lastmodified":1537624580,
+    "wof:name":"Kampanos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79847,
+    35.31045,
+    23.79847,
+    35.31045
+],
+  "geometry": {"coordinates":[23.79847,35.31045],"type":"Point"}
+}

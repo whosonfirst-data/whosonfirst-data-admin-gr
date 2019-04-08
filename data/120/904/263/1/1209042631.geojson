@@ -1,0 +1,75 @@
+{
+  "id": 1209042631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11077,35.11258,25.11077,35.11258",
+    "geom:latitude":35.11258,
+    "geom:longitude":25.11077,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9302",
+    "gn:asciiname":"Melidochori",
+    "gn:country_code":"GR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257327,
+    "gn:latitude":35.11258,
+    "gn:longitude":25.11077,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Melidoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Melidoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03bb\u03b9\u03b4\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Melidoch\u00f3rion",
+        "\u039c\u03b5\u03bb\u03b9\u03b4\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Melidhokh\u00f3ri",
+        "Melidhokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257327
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dde726381c6517d81c234c43f63b93be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209042631
+        }
+    ],
+    "wof:id":1209042631,
+    "wof:lastmodified":1537624401,
+    "wof:name":"Melidochori",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11077,
+    35.11258,
+    25.11077,
+    35.11258
+],
+  "geometry": {"coordinates":[25.11077,35.11258],"type":"Point"}
+}

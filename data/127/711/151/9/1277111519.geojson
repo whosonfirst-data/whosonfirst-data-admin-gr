@@ -1,0 +1,81 @@
+{
+  "id": 1277111519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60406,41.09672,24.60406,41.09672",
+    "geom:latitude":41.09672,
+    "geom:longitude":24.60406,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Mesi Konstantinia",
+    "gn:country_code":"GR",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":735632,
+    "gn:latitude":41.09672,
+    "gn:longitude":24.60406,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Mes\u00ed Konstantini\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u039a\u03c9\u03c4\u03c3\u03bf\u03b3\u03bb\u03ac\u03c1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03ae \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "Mes\u00ed Konstantini\u00e1",
+        "\u039a\u03c9\u03c4\u03c3\u03bf\u03b3\u03bb\u03ac\u03c1"
+    ],
+    "name:und_x_variant":[
+        "Kotsogl\u00e1r",
+        "Konstandini\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735632
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"20b8d2e5cea38ec7d4b4dc0b9b2a33ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277111519,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1277111519,
+    "wof:lastmodified":1537624914,
+    "wof:name":"Mesi Konstantinia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60406,
+    41.09672,
+    24.60406,
+    41.09672
+],
+  "geometry": {"coordinates":[24.60406,41.09672],"type":"Point"}
+}

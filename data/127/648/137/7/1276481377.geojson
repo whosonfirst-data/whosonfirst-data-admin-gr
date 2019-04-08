@@ -1,0 +1,67 @@
+{
+  "id": 1276481377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1673,34.97808,25.1673,34.97808",
+    "geom:latitude":34.97808,
+    "geom:longitude":25.1673,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9302",
+    "gn:asciiname":"Mournia",
+    "gn:country_code":"GR",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256698,
+    "gn:latitude":34.97808,
+    "gn:longitude":25.1673,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Mourni\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256698
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9ba5e4e39da83b0d266a22410c36e3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276481377,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276481377,
+    "wof:lastmodified":1537074427,
+    "wof:name":"Mournia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1673,
+    34.97808,
+    25.1673,
+    34.97808
+],
+  "geometry": {"coordinates":[25.1673,34.97808],"type":"Point"}
+}

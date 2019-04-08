@@ -1,0 +1,142 @@
+{
+  "id": 101849637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.177189,39.327671,26.177189,39.327671",
+    "geom:latitude":39.327671,
+    "geom:longitude":26.177189,
+    "gn:population":1299,
+    "iso:country":"GR",
+    "lbl:latitude":39.327671,
+    "lbl:longitude":26.177189,
+    "mps:latitude":39.327671,
+    "mps:longitude":26.177189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0631\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Petra"
+    ],
+    "name:dut_x_preferred":[
+        "Petra"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1 \u039b\u03ad\u03c3\u03b2\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1",
+        "P\u00e9tra"
+    ],
+    "name:eng_x_preferred":[
+        "Petras"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00e9tra"
+    ],
+    "name:fre_x_preferred":[
+        "Petra"
+    ],
+    "name:ger_x_preferred":[
+        "Petra"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1 \u039b\u03ad\u03c3\u03b2\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Petra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c8\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Petra"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e9tra p\u00e5 L\u00e9svos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e9tra"
+    ],
+    "name:unk_x_variant":[
+        "Lokovo"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0392\u039f\u03a1\u0395\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"BOREIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LESBOS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0395\u03a4\u03a1\u0391",
+    "qs:loc_alt":"PETRA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.316667,
+    "wd:longitude":26.183333,
+    "wd:wordcount":237,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864856,
+        "gp:id":959731,
+        "qs:id":4116,
+        "qs_pg:id":954484,
+        "wd:id":"Q1240371",
+        "wk:page":"Petra, Lesbos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bb0c48e9a31cbfb9024fb69d4d1595c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849637,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":101849637,
+    "wof:lastmodified":1553815543,
+    "wof:name":"\u03a0\u0395\u03a4\u03a1\u0391",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:population":1299,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.177189,
+    39.327671,
+    26.177189,
+    39.327671
+],
+  "geometry": {"coordinates":[26.177189,39.327671],"type":"Point"}
+}

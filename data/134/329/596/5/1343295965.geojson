@@ -1,0 +1,73 @@
+{
+  "id": 1343295965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01558,38.41458,23.01558,38.41458",
+    "geom:latitude":38.41458,
+    "geom:longitude":23.01558,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9145",
+    "gn:asciiname":"Karaxini",
+    "gn:country_code":"GR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261007,
+    "gn:latitude":38.41458,
+    "gn:longitude":23.01558,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Karax\u00edni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Karax\u00edni"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b1\u03be\u03af\u03bd\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261007
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eecb0854add595d3061dd2d8820c02a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343295965,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343295965,
+    "wof:lastmodified":1537624570,
+    "wof:name":"Karaxini",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01558,
+    38.41458,
+    23.01558,
+    38.41458
+],
+  "geometry": {"coordinates":[23.01558,38.41458],"type":"Point"}
+}

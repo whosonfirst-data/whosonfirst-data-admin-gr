@@ -1,0 +1,92 @@
+{
+  "id": 1125844651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79444,41.11556,22.79444,41.11556",
+    "geom:latitude":41.11556,
+    "geom:longitude":22.79444,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":151,
+    "gn:population":151,
+    "iso:country":"GR",
+    "lbl:latitude":41.11556,
+    "lbl:longitude":22.79444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03af\u03bd\u03b4\u03c1\u03b9\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Kal\u00edndhria"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736070,
+    "qs_pg:gn_pop":151,
+    "qs_pg:name":"Kalendra",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1284147,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":950820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736070,
+        "gp:id":950820,
+        "qs_pg:id":1284147
+    },
+    "wof:country":"GR",
+    "wof:created":1497293095,
+    "wof:geomhash":"937e6a0b29d69770499c26bff907e2ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125844651,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125844651,
+    "wof:lastmodified":1509395541,
+    "wof:name":"Kalendra",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79444,
+    41.11556,
+    22.79444,
+    41.11556
+],
+  "geometry": {"coordinates":[22.79444,41.11556],"type":"Point"}
+}

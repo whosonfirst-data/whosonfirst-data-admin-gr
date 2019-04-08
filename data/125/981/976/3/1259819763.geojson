@@ -1,0 +1,73 @@
+{
+  "id": 1259819763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51457,41.01188,25.51457,41.01188",
+    "geom:latitude":41.01188,
+    "geom:longitude":25.51457,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022",
+    "gn:asciiname":"Venna",
+    "gn:country_code":"GR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733909,
+    "gn:latitude":41.01188,
+    "gn:longitude":25.51457,
+    "gn:modification_date":"2014-06-17",
+    "gn:name":"V\u00e9nna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03bd\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "V\u00e9nna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733909
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"df7cb0262d1a05b2fa0556d5b267bc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259819763,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259819763,
+    "wof:lastmodified":1537624812,
+    "wof:name":"Venna",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51457000000001,
+    41.01188,
+    25.51457000000001,
+    41.01188
+],
+  "geometry": {"coordinates":[25.51457000000001,41.01188],"type":"Point"}
+}

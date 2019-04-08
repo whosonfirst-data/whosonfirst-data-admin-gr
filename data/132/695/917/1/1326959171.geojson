@@ -1,0 +1,74 @@
+{
+  "id": 1326959171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24119,39.11011,21.24119,39.11011",
+    "geom:latitude":39.11011,
+    "geom:longitude":21.24119,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Diakopia",
+    "gn:country_code":"GR",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263151,
+    "gn:latitude":39.11011,
+    "gn:longitude":21.24119,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Diak\u00f3pia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03ba\u03cc\u03c0\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Dhiak\u00f3pia",
+        "Diak\u00f3pia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263151
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1de1b0aa47fb56cbef038d90e5c79166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326959171,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1326959171,
+    "wof:lastmodified":1537624670,
+    "wof:name":"Diakopia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24119,
+    39.11011,
+    21.24119,
+    39.11011
+],
+  "geometry": {"coordinates":[21.24119,39.11011],"type":"Point"}
+}

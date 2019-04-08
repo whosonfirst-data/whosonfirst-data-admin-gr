@@ -1,0 +1,80 @@
+{
+  "id": 1243396891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93229,36.6678,22.93229,36.6678",
+    "geom:latitude":36.6678,
+    "geom:longitude":22.93229,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9251",
+    "gn:asciiname":"Talanta",
+    "gn:country_code":"GR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253057,
+    "gn:latitude":36.6678,
+    "gn:longitude":22.93229,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"T\u00e1lanta",
+    "gn:population":137,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03bb\u03b1\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Talanta"
+    ],
+    "name:und_x_variant":[
+        "T\u00e1lanta",
+        "T\u00e1landa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253057
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ce41760a42c997e0745a8d5b6f5f7a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243396891,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243396891,
+    "wof:lastmodified":1537624204,
+    "wof:name":"Talanta",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93229,
+    36.6678,
+    22.93229,
+    36.6678
+],
+  "geometry": {"coordinates":[22.93229,36.6678],"type":"Point"}
+}

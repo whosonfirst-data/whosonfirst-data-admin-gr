@@ -1,0 +1,76 @@
+{
+  "id": 1310140475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1184,37.61406,23.1184,37.61406",
+    "geom:latitude":37.61406,
+    "geom:longitude":23.1184,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Moni Kalamiou",
+    "gn:country_code":"GR",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9257393,
+    "gn:latitude":37.61406,
+    "gn:longitude":23.1184,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Mon\u00ed Kalam\u00edou",
+    "gn:population":33,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u039a\u03b1\u03bb\u03b1\u03bc\u03af\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Moni Kalamiou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257393
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8c730e1163ba25ee1e7bfdb710b463b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310140475,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310140475,
+    "wof:lastmodified":1537625056,
+    "wof:name":"Moni Kalamiou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1184,
+    37.61406,
+    23.1184,
+    37.61406
+],
+  "geometry": {"coordinates":[23.1184,37.61406],"type":"Point"}
+}

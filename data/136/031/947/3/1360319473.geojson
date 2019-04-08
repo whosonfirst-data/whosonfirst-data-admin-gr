@@ -1,0 +1,80 @@
+{
+  "id": 1360319473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.50354,35.33826,24.50354,35.33826",
+    "geom:latitude":35.33826,
+    "geom:longitude":24.50354,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Myloi",
+    "gn:country_code":"GR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256974,
+    "gn:latitude":35.33826,
+    "gn:longitude":24.50354,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"M\u00fdloi",
+    "gn:population":27,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03cd\u03bb\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Myloi"
+    ],
+    "name:und_x_variant":[
+        "M\u00fdloi",
+        "M\u00edloi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256974
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b4ab72e55e3a9e6ee80b4e4866bd0d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360319473,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360319473,
+    "wof:lastmodified":1537624379,
+    "wof:name":"Myloi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.50354,
+    35.33826,
+    24.50354,
+    35.33826
+],
+  "geometry": {"coordinates":[24.50354,35.33826],"type":"Point"}
+}

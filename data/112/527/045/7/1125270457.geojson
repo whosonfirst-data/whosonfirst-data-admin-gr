@@ -1,0 +1,81 @@
+{
+  "id": 1125270457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99196,35.21584,24.99196,35.21584",
+    "geom:latitude":35.21584,
+    "geom:longitude":24.99196,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":35.21584,
+    "lbl:longitude":24.99196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Kr\u00edti"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03ae\u03c4\u03b7"
+    ],
+    "name:unk_x_variant":[
+        "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":8200480,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Apokentrom\u00e9ni Dio\u00edkisi Kr\u00edtis",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904455,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200480,
+        "qs_pg:id":904455
+    },
+    "wof:country":"GR",
+    "wof:created":1497042103,
+    "wof:geomhash":"1469c2440b4a118277913e16c2039edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125270457,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125270457,
+    "wof:lastmodified":1509387007,
+    "wof:name":"Apokentrom\u00e9ni Dio\u00edkisi Kr\u00edtis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99196,
+    35.21584,
+    24.99196,
+    35.21584
+],
+  "geometry": {"coordinates":[24.99196,35.21584],"type":"Point"}
+}

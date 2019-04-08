@@ -1,0 +1,84 @@
+{
+  "id": 1343988773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99517,37.66453,23.99517,37.66453",
+    "geom:latitude":37.66453,
+    "geom:longitude":23.99517,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Legrena",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258526,
+    "gn:latitude":37.66453,
+    "gn:longitude":23.99517,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Legren\u00e1",
+    "gn:population":289,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Legren\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03b3\u03c1\u03b5\u03bd\u03ac",
+        "Legraina"
+    ],
+    "name:eng_x_preferred":[
+        "Legrena"
+    ],
+    "name:und_x_variant":[
+        "Legraina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258526,
+        "wk:page":"Legrena"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"602540f1a6a9f0bdbf2fa4e9484f1500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343988773,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343988773,
+    "wof:lastmodified":1537624453,
+    "wof:name":"Legrena",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":289,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99517,
+    37.66453,
+    23.99517,
+    37.66453
+],
+  "geometry": {"coordinates":[23.99517,37.66453],"type":"Point"}
+}

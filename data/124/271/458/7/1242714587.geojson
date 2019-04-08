@@ -1,0 +1,70 @@
+{
+  "id": 1242714587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05987,39.36168,23.05987,39.36168",
+    "geom:latitude":39.36168,
+    "geom:longitude":23.05987,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9105",
+    "gn:asciiname":"Ayios Lavrendios",
+    "gn:country_code":"GR",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263848,
+    "gn:latitude":39.36168,
+    "gn:longitude":23.05987,
+    "gn:modification_date":"2017-09-13",
+    "gn:name":"\u00c1yios Lavr\u00e9ndios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039b\u03b1\u03c5\u03c1\u03ad\u03bd\u03c4\u03b9\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263848
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fd1eacb2eafeaca78e5ad243f030c26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242714587,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242714587,
+    "wof:lastmodified":1537624701,
+    "wof:name":"Ayios Lavrendios",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05987,
+    39.36168,
+    23.05987,
+    39.36168
+],
+  "geometry": {"coordinates":[23.05987,39.36168],"type":"Point"}
+}

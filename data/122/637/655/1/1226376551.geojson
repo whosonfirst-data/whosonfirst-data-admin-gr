@@ -1,0 +1,77 @@
+{
+  "id": 1226376551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56361,38.38389,20.56361,38.38389",
+    "geom:latitude":38.38389,
+    "geom:longitude":20.56361,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Defaranata",
+    "gn:country_code":"GR",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263228,
+    "gn:latitude":38.38389,
+    "gn:longitude":20.56361,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Defaran\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Defaran\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b5\u03c6\u03b1\u03c1\u03b1\u03bd\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Dhefarin\u00e1ta",
+        "Dhefaran\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263228
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a2ce774ebe6f165fa83e5535e5ce7320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226376551,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226376551,
+    "wof:lastmodified":1537624674,
+    "wof:name":"Defaranata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56361,
+    38.38389,
+    20.56361,
+    38.38389
+],
+  "geometry": {"coordinates":[20.56361,38.38389],"type":"Point"}
+}

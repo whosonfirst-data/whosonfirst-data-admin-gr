@@ -1,0 +1,74 @@
+{
+  "id": 1209251525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24553,39.17706,23.24553,39.17706",
+    "geom:latitude":39.17706,
+    "geom:longitude":23.24553,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Lafkos",
+    "gn:country_code":"GR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258546,
+    "gn:latitude":39.17706,
+    "gn:longitude":23.24553,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"L\u00e1fkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e1fkos"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03cd\u03ba\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "P\u00e1vkos",
+        "Lavko",
+        "L\u00e1vkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258546
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3ad81d1036b55de53c6f8e69053cd18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209251525
+        }
+    ],
+    "wof:id":1209251525,
+    "wof:lastmodified":1537624454,
+    "wof:name":"Lafkos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24553,
+    39.17706,
+    23.24553,
+    39.17706
+],
+  "geometry": {"coordinates":[23.24553,39.17706],"type":"Point"}
+}

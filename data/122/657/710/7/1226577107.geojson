@@ -1,0 +1,69 @@
+{
+  "id": 1226577107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95479,38.66092,23.95479,38.66092",
+    "geom:latitude":38.66092,
+    "geom:longitude":23.95479,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Paralia Metochiou",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10175187,
+    "gn:latitude":38.66092,
+    "gn:longitude":23.95479,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Paralia Metochiou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u039c\u03b5\u03c4\u03cc\u03c7\u03bf\u03c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175187
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bc6278cbcc6d88ea529261ebf7b16cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226577107,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226577107,
+    "wof:lastmodified":1537625082,
+    "wof:name":"Paralia Metochiou",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95479,
+    38.66092,
+    23.95479,
+    38.66092
+],
+  "geometry": {"coordinates":[23.95479,38.66092],"type":"Point"}
+}

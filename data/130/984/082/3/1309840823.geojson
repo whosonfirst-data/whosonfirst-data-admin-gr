@@ -1,0 +1,91 @@
+{
+  "id": 1309840823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13229,40.81374,21.13229,40.81374",
+    "geom:latitude":40.81374,
+    "geom:longitude":21.13229,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9071",
+    "gn:asciiname":"Platy",
+    "gn:country_code":"GR",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734574,
+    "gn:latitude":40.81374,
+    "gn:longitude":21.13229,
+    "gn:modification_date":"2017-12-20",
+    "gn:name":"Plat\u00fd",
+    "gn:population":73,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a3\u03c4\u03cd\u03c1\u03ba\u03bf\u03b2\u03b1",
+        "\u03a3\u03c4\u03ad\u03c1\u03ba\u03bf\u03b2\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03cd\u03c1\u03ba\u03bf\u03b2\u03b1",
+        "\u03a3\u03c4\u03ad\u03c1\u03ba\u03bf\u03b2\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Platy"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0442\u0440\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "St\u00e9rkovon",
+        "Plat\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734574
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"863298cef658d87f607eb7221fa70610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309840823,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1309840823,
+    "wof:lastmodified":1537624850,
+    "wof:name":"Platy",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13229,
+    40.81374,
+    21.13229,
+    40.81374
+],
+  "geometry": {"coordinates":[21.13229,40.81374],"type":"Point"}
+}

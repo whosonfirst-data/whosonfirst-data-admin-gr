@@ -1,0 +1,99 @@
+{
+  "id": 1125820405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57139,39.9925,22.57139,39.9925",
+    "geom:latitude":39.9925,
+    "geom:longitude":22.57139,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":86,
+    "gn:population":86,
+    "iso:country":"GR",
+    "lbl:latitude":39.9925,
+    "lbl:longitude":22.57139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Palai\u00f3s Pantele\u00edmonas"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c2 \u03a0\u03b1\u03bd\u03c4\u03b5\u03bb\u03b5\u03ae\u03bc\u03bf\u03bd\u03b1\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Pandele\u1e2fmon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255876,
+    "qs_pg:gn_pop":86,
+    "qs_pg:name":"Pandeleimon",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1167831,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":959123,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255876,
+        "gp:id":959123,
+        "qs_pg:id":1167831
+    },
+    "wof:country":"GR",
+    "wof:created":1497292021,
+    "wof:geomhash":"435298c02969b555ff64912b305c3705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125820405,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125820405,
+    "wof:lastmodified":1509394054,
+    "wof:name":"Pandeleimon",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57139,
+    39.9925,
+    22.57139,
+    39.9925
+],
+  "geometry": {"coordinates":[22.57139,39.9925],"type":"Point"}
+}

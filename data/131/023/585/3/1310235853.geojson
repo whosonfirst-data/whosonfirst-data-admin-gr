@@ -1,0 +1,73 @@
+{
+  "id": 1310235853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70006,35.30434,23.70006,35.30434",
+    "geom:latitude":35.30434,
+    "geom:longitude":23.70006,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Koulourida",
+    "gn:country_code":"GR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522535,
+    "gn:latitude":35.30434,
+    "gn:longitude":23.70006,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Koulour\u00edda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Koulour\u00edda"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bb\u03bf\u03c5\u03c1\u03af\u03b4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522535
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bf986bec86ca9c85bfb7fc61a2c43b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310235853,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310235853,
+    "wof:lastmodified":1537625014,
+    "wof:name":"Koulourida",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70006,
+    35.30434,
+    23.70006,
+    35.30434
+],
+  "geometry": {"coordinates":[23.70006,35.30434],"type":"Point"}
+}

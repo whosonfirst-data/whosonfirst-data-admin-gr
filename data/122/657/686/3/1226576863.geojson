@@ -1,0 +1,76 @@
+{
+  "id": 1226576863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63842,38.74354,20.63842,38.74354",
+    "geom:latitude":38.74354,
+    "geom:longitude":20.63842,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Ammokampos",
+    "gn:country_code":"GR",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166676,
+    "gn:latitude":38.74354,
+    "gn:longitude":20.63842,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Amm\u00f3kampos",
+    "gn:population":19,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03bc\u03cc\u03ba\u03b1\u03bc\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ammokampos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166676
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63a088dee252683a9c5eb8f958b9c952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226576863,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226576863,
+    "wof:lastmodified":1537625053,
+    "wof:name":"Ammokampos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63842,
+    38.74354,
+    20.63842,
+    38.74354
+],
+  "geometry": {"coordinates":[20.63842,38.74354],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343697887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6667,35.49092,23.6667,35.49092",
+    "geom:latitude":35.49092,
+    "geom:longitude":23.6667,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322.0",
+    "gn:asciiname":"Agios Antonios Kallergianon",
+    "gn:country_code":"GR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10792541,
+    "gn:latitude":35.49092,
+    "gn:longitude":23.6667,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"\u00c1gios Ant\u00f3nios Kallergian\u00f3n",
+    "gn:population":284,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03c4\u03ce\u03bd\u03b9\u03bf\u03c2 \u039a\u03b1\u03bb\u03bb\u03b5\u03c1\u03b3\u03b9\u03b1\u03bd\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Antonios Kallergianon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792541
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4dec3bfbf223810b29f346a874102a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343697887,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343697887,
+    "wof:lastmodified":1537625090,
+    "wof:name":"Agios Antonios Kallergianon",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6667,
+    35.49092,
+    23.6667,
+    35.49092
+],
+  "geometry": {"coordinates":[23.6667,35.49092],"type":"Point"}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 1125923683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09963,40.61048,23.09963,40.61048",
+    "geom:latitude":40.61048,
+    "geom:longitude":23.09963,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3466,
+    "gn:population":3466,
+    "iso:country":"GR",
+    "lbl:latitude":40.61048,
+    "lbl:longitude":23.09963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0631\u062a\u064a\u0627\u062a\u064a\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0440\u0442\u0430\u0447"
+    ],
+    "name:dut_x_preferred":[
+        "Chortiatis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c1\u03c4\u03b9\u03ac\u03c4\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Khorti\u00e1tis",
+        "Chorti\u00e1tis",
+        "Chorti\u00e1ti",
+        "\u03a7\u03bf\u03c1\u03c4\u03b9\u03ac\u03c4\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Chortiatis"
+    ],
+    "name:fre_x_preferred":[
+        "Chortiatis"
+    ],
+    "name:ger_x_preferred":[
+        "Chortiatis"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03bf\u03c1\u03c4\u03b9\u03ac\u03c4\u03b7\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Chortiatis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30eb\u30c6\u30a3\u30a2\u30c6\u30a3\u30b9"
+    ],
+    "name:mac_x_preferred":[
+        "\u0425\u043e\u0440\u0442\u0430\u0447"
+    ],
+    "name:nno_x_preferred":[
+        "Khorti\u00e1tis i Thessalon\u00edki"
+    ],
+    "name:swe_x_preferred":[
+        "Chorti\u00e1tis"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735764,
+    "qs_pg:gn_pop":3466,
+    "qs_pg:name":"Chortiatis",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":185,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1230483,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":55869688,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735764,
+        "gp:id":55869688,
+        "qs_pg:id":1230483,
+        "wd:id":"Q1076595"
+    },
+    "wof:country":"GR",
+    "wof:created":1497296568,
+    "wof:geomhash":"caff1d60215d5cdead7ee86de825f1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125923683,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125923683,
+    "wof:lastmodified":1553816632,
+    "wof:name":"Chortiatis",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":3466,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09963,
+    40.61048,
+    23.09963,
+    40.61048
+],
+  "geometry": {"coordinates":[23.09963,40.61048],"type":"Point"}
+}

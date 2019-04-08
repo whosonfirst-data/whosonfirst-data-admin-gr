@@ -1,0 +1,76 @@
+{
+  "id": 1327167863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82961,37.77706,20.82961,37.77706",
+    "geom:latitude":37.77706,
+    "geom:longitude":20.82961,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Chamouzas",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166412,
+    "gn:latitude":37.77706,
+    "gn:longitude":20.82961,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Chamouz\u00e1s",
+    "gn:population":33,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bc\u03bf\u03c5\u03b6\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Chamouzas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166412
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c469a2d91fb603255b8fbd99d7930156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327167863,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327167863,
+    "wof:lastmodified":1537625051,
+    "wof:name":"Chamouzas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82961,
+    37.77706,
+    20.82961,
+    37.77706
+],
+  "geometry": {"coordinates":[20.82961,37.77706],"type":"Point"}
+}

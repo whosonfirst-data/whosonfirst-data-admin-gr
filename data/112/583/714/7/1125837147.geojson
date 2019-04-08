@@ -1,0 +1,107 @@
+{
+  "id": 1125837147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0,40.72306,23.0,40.72306",
+    "geom:latitude":40.72306,
+    "geom:longitude":23.0,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2649,
+    "gn:population":2649,
+    "iso:country":"GR",
+    "lbl:latitude":40.72306,
+    "lbl:longitude":23.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u064a\u064a\u0646\u0627\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u044a\u0433\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Lagyna"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03c5\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Lagyna"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03b3\u03c5\u03bd\u03ac"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u0430\u0438\u043d\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Lagyn\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Lagyn\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "La\u00efn\u00e1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735472,
+    "qs_pg:gn_pop":2649,
+    "qs_pg:name":"Lagyn\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":83316,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735472,
+        "qs_pg:id":83316,
+        "wd:id":"Q3565344"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292763,
+    "wof:geomhash":"4f40e668831661e8a8bcf5c3287b5495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125837147,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125837147,
+    "wof:lastmodified":1514443992,
+    "wof:name":"Lagyn\u00e1",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2649,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0,
+    40.72306,
+    23.0,
+    40.72306
+],
+  "geometry": {"coordinates":[23.0,40.72306],"type":"Point"}
+}

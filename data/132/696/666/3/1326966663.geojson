@@ -1,0 +1,79 @@
+{
+  "id": 1326966663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86027,35.11072,25.86027,35.11072",
+    "geom:latitude":35.11072,
+    "geom:longitude":25.86027,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Xerompela",
+    "gn:country_code":"GR",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8609837,
+    "gn:latitude":35.11072,
+    "gn:longitude":25.86027,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Xer\u00f3mpela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039e\u03b5\u03c1\u03cc\u03bc\u03c0\u03b5\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03b5\u03c1\u03ac\u03bc\u03c0\u03b5\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Xerompela"
+    ],
+    "name:und_x_variant":[
+        "Xer\u00f3mpela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609837
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b6c1f68a1118b364df58e116fd9f14c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326966663,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1326966663,
+    "wof:lastmodified":1537625031,
+    "wof:name":"Xerompela",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86027,
+    35.11072,
+    25.86027,
+    35.11072
+],
+  "geometry": {"coordinates":[25.86027,35.11072],"type":"Point"}
+}

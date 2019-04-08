@@ -1,0 +1,75 @@
+{
+  "id": 1125278345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99842,39.24585,23.99842,39.24585",
+    "geom:latitude":39.24585,
+    "geom:longitude":23.99842,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":2425,
+    "gn:population":2425,
+    "iso:country":"GR",
+    "lbl:latitude":39.24585,
+    "lbl:longitude":23.99842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133938,
+    "qs_pg:gn_pop":2425,
+    "qs_pg:name":"Dimos Alonnisos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":109707,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133938,
+        "qs_pg:id":109707
+    },
+    "wof:country":"GR",
+    "wof:created":1497042407,
+    "wof:geomhash":"8fc8ffe4b70224a799275c81b56b2d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125278345,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125278345,
+    "wof:lastmodified":1509387220,
+    "wof:name":"Dimos Alonnisos",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":2425,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99842,
+    39.24585,
+    23.99842,
+    39.24585
+],
+  "geometry": {"coordinates":[23.99842,39.24585],"type":"Point"}
+}

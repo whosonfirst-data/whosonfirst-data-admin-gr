@@ -1,0 +1,73 @@
+{
+  "id": 1343994247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73695,36.8424,21.73695,36.8424",
+    "geom:latitude":36.8424,
+    "geom:longitude":21.73695,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Neroula",
+    "gn:country_code":"GR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256442,
+    "gn:latitude":36.8424,
+    "gn:longitude":21.73695,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Neroul\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Neroul\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03c1\u03bf\u03c5\u03bb\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256442
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b22e11b30410aa0dcc546e27751e2b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343994247,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343994247,
+    "wof:lastmodified":1537624353,
+    "wof:name":"Neroula",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73695,
+    36.8424,
+    21.73695,
+    36.8424
+],
+  "geometry": {"coordinates":[21.73695,36.8424],"type":"Point"}
+}

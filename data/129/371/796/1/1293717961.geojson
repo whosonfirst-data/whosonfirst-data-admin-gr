@@ -1,0 +1,78 @@
+{
+  "id": 1293717961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38185,41.2237,24.38185,41.2237",
+    "geom:latitude":41.2237,
+    "geom:longitude":24.38185,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Mavrokordatos",
+    "gn:country_code":"GR",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735296,
+    "gn:latitude":41.2237,
+    "gn:longitude":24.38185,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Mavrokord\u00e1tos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mavrokord\u00e1tos"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c5\u03c1\u03bf\u03ba\u03bf\u03c1\u03b4\u03ac\u03c4\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Mavrokordh\u00e1ton",
+        "Libot\u00e9n",
+        "Mavrokordh\u00e1tos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735296
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8e04eaec01498b90ea204d454f1093df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293717961,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293717961,
+    "wof:lastmodified":1537624893,
+    "wof:name":"Mavrokordatos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38185,
+    41.2237,
+    24.38185,
+    41.2237
+],
+  "geometry": {"coordinates":[24.38185,41.2237],"type":"Point"}
+}

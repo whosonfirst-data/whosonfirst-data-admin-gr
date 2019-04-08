@@ -1,0 +1,107 @@
+{
+  "id": 1125836969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54611,40.41389,22.54611,40.41389",
+    "geom:latitude":40.41389,
+    "geom:longitude":22.54611,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1209,
+    "gn:population":1209,
+    "iso:country":"GR",
+    "lbl:latitude":40.41389,
+    "lbl:longitude":22.54611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0641\u064a\u0646\u062f\u0627\u0645\u064a\u0648\u060c \u0628\u064a\u0631\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0444\u0435\u043d\u0434\u0430\u043c\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Sfendami"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c6\u03b5\u03bd\u03b4\u03ac\u03bc\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c6\u03b5\u03bd\u03b4\u03ac\u03bc\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Sfendami"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c6\u03b5\u03bd\u03b4\u03ac\u03bc\u03b9 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0430\u043b\u0458\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sfend\u00e1mi"
+    ],
+    "name:unk_x_variant":[
+        "P\u00e1liani"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734320,
+    "qs_pg:gn_pop":1209,
+    "qs_pg:name":"Sfend\u00e1mion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":83290,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734320,
+        "qs_pg:id":83290,
+        "wd:id":"Q12073806"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292757,
+    "wof:geomhash":"75cfade00e7668bfd2b33fc4209b35a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125836969,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125836969,
+    "wof:lastmodified":1514444052,
+    "wof:name":"Sfend\u00e1mion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1209,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54611,
+    40.41389,
+    22.54611,
+    40.41389
+],
+  "geometry": {"coordinates":[22.54611,40.41389],"type":"Point"}
+}

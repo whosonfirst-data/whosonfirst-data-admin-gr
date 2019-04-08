@@ -1,0 +1,78 @@
+{
+  "id": 1276695935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83376,40.66961,21.83376,40.66961",
+    "geom:latitude":40.66961,
+    "geom:longitude":21.83376,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9067",
+    "gn:asciiname":"Pyrgoi",
+    "gn:country_code":"GR",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734615,
+    "gn:latitude":40.66961,
+    "gn:longitude":21.83376,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"P\u00fdrgoi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00fdrgoi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Katran\u00edtsa",
+        "P\u00edryoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734615,
+        "wk:page":"Pyrgoi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a337a94d1fd08431dfaca252e49f71a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276695935,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1276695935,
+    "wof:lastmodified":1537624853,
+    "wof:name":"Pyrgoi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83376,
+    40.66961,
+    21.83376,
+    40.66961
+],
+  "geometry": {"coordinates":[21.83376,40.66961],"type":"Point"}
+}

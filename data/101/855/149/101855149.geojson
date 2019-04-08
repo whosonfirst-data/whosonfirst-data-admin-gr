@@ -1,0 +1,113 @@
+{
+  "id": 101855149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.523027,40.424782,23.523027,40.424782",
+    "geom:latitude":40.424782,
+    "geom:longitude":23.523027,
+    "gn:population":903,
+    "iso:country":"GR",
+    "lbl:latitude":40.424782,
+    "lbl:longitude":23.523027,
+    "mps:latitude":40.424782,
+    "mps:longitude":23.523027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0643\u0633\u064a\u0627\u0631\u0643\u064a\u0633\u060c \u0647\u0627\u0644\u0643\u064a\u062f\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043a\u0441\u0438\u0430\u0440\u0445\u0438\u0441"
+    ],
+    "name:ell_x_historical":[
+        "\u039b\u03bf\u03cd\u03ba\u03bf\u03b2\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03be\u03b9\u03ac\u03c1\u03c7\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Taxi\u00e1rchis",
+        "\u039b\u03bf\u03cd\u03ba\u03bf\u03b2\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Taksiarchis"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b1\u03be\u03b9\u03ac\u03c1\u03c7\u03b7\u03c2 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Taxi\u00e1rchis"
+    ],
+    "name:unk_x_variant":[
+        "Lik\u00f3vi"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"XALKIDIKH",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u0391\u039e\u0399\u0391\u03a1\u03a7\u0397\u03a3",
+    "qs:loc_alt":"TAJIARXHS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734108,
+        "gp:id":963167,
+        "qs:id":552796,
+        "wd:id":"Q3562056"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c0d4835b28e3d17ff6b9e723a36ab77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855149,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101855149,
+    "wof:lastmodified":1553815549,
+    "wof:name":"\u03a4\u0391\u039e\u0399\u0391\u03a1\u03a7\u0397\u03a3",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":903,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.523027,
+    40.424782,
+    23.523027,
+    40.424782
+],
+  "geometry": {"coordinates":[23.523027,40.424782],"type":"Point"}
+}

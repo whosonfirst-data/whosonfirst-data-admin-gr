@@ -1,0 +1,75 @@
+{
+  "id": 1226677045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78907,40.98495,24.78907,40.98495",
+    "geom:latitude":40.98495,
+    "geom:longitude":24.78907,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9018",
+    "gn:asciiname":"Orfano",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734877,
+    "gn:latitude":40.98495,
+    "gn:longitude":24.78907,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Orfan\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Orfan\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03c6\u03b1\u03bd\u03cc",
+        "Orfan\u00f3n",
+        "\u039f\u03c1\u03c6\u03b1\u03bd\u03cc\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734877
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9f6ac9daf5e823bbef473e082a3c7030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226677045,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226677045,
+    "wof:lastmodified":1537624867,
+    "wof:name":"Orfano",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78907,
+    40.98495,
+    24.78907,
+    40.98495
+],
+  "geometry": {"coordinates":[24.78907,40.98495],"type":"Point"}
+}

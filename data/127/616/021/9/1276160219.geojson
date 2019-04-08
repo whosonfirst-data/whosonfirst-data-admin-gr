@@ -1,0 +1,74 @@
+{
+  "id": 1276160219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69898,40.65498,23.69898,40.65498",
+    "geom:latitude":40.65498,
+    "geom:longitude":23.69898,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9027",
+    "gn:asciiname":"Ano Stavros",
+    "gn:country_code":"GR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736785,
+    "gn:latitude":40.65498,
+    "gn:longitude":23.69898,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"\u00c1no Stavr\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Stavr\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736785,
+        "wk:page":"Ano_Stavros"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4318a8f10373ba744288289ca899ac96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276160219,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1276160219,
+    "wof:lastmodified":1537624975,
+    "wof:name":"Ano Stavros",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69898,
+    40.65498,
+    23.69898,
+    40.65498
+],
+  "geometry": {"coordinates":[23.69898,40.65498],"type":"Point"}
+}

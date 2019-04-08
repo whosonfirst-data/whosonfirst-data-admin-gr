@@ -1,0 +1,74 @@
+{
+  "id": 1327467711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95167,41.27329,25.95167,41.27329",
+    "geom:latitude":41.27329,
+    "geom:longitude":25.95167,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9010",
+    "gn:asciiname":"Kissos",
+    "gn:country_code":"GR",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735706,
+    "gn:latitude":41.27329,
+    "gn:longitude":25.95167,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kiss\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c3\u03c3\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kiss\u00e9li",
+        "Kiss\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735706
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"424937893fa5f6034a8f78cb4f54b223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327467711,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327467711,
+    "wof:lastmodified":1537624919,
+    "wof:name":"Kissos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95167,
+    41.27329,
+    25.95167,
+    41.27329
+],
+  "geometry": {"coordinates":[25.95167,41.27329],"type":"Point"}
+}

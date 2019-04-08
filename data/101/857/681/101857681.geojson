@@ -1,0 +1,142 @@
+{
+  "id": 101857681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.697767,41.024513,25.697767,41.024513",
+    "geom:latitude":41.024513,
+    "geom:longitude":25.697767,
+    "gn:population":4506,
+    "iso:country":"GR",
+    "lbl:latitude":41.024513,
+    "lbl:longitude":25.697767,
+    "mps:latitude":41.024513,
+    "mps:longitude":25.697767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0628\u064a\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u043f\u0447\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Sapes"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03b1\u03c0\u03ce\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ac\u03c0\u03b1\u03b9",
+        "\u03a3\u03ac\u03c0\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Sapes"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e1pes"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03c0\u03b5\u03c2 \u03a1\u03bf\u03b4\u03cc\u03c0\u03b7\u03c2"
+    ],
+    "name:hbs_x_preferred":[
+        "Sapes"
+    ],
+    "name:ita_x_preferred":[
+        "Sapes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30da\u30b9"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00e1pes"
+    ],
+    "name:ron_x_preferred":[
+        "Sapes"
+    ],
+    "name:rum_x_preferred":[
+        "Sapes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e1pes"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eap\u00e7\u0131"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e1pes"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
+    "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"RODOPH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u0391\u03a0\u0391\u0399",
+    "qs:loc_alt":"SAPAI",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":41.033333,
+    "wd:longitude":25.7,
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734355,
+        "gp:id":966164,
+        "qs:id":129031,
+        "qs_pg:id":129031,
+        "wd:id":"Q2643560",
+        "wk:page":"Sapes"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bff653245cff0c9d329036f6d4c9b8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857681,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":101857681,
+    "wof:lastmodified":1544744023,
+    "wof:name":"\u03a3\u0391\u03a0\u0391\u0399",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":4506,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.697767,
+    41.024513,
+    25.697767,
+    41.024513
+],
+  "geometry": {"coordinates":[25.697767,41.024513],"type":"Point"}
+}

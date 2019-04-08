@@ -1,0 +1,76 @@
+{
+  "id": 1225979035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84422,37.8288,22.84422,37.8288",
+    "geom:latitude":37.8288,
+    "geom:longitude":22.84422,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9243",
+    "gn:asciiname":"Koutalas",
+    "gn:country_code":"GR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409075,
+    "gn:latitude":37.8288,
+    "gn:longitude":22.84422,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Koutal\u00e1s",
+    "gn:population":215,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c4\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Koutalas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409075
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1519691601516854cfc422aa8ae5fc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225979035,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1225979035,
+    "wof:lastmodified":1537625068,
+    "wof:name":"Koutalas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84422,
+    37.8288,
+    22.84422,
+    37.8288
+],
+  "geometry": {"coordinates":[22.84422,37.8288],"type":"Point"}
+}

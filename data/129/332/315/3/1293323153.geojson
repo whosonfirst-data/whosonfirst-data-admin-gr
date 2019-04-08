@@ -1,0 +1,77 @@
+{
+  "id": 1293323153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54576,39.45399,22.54576,39.45399",
+    "geom:latitude":39.45399,
+    "geom:longitude":22.54576,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9099",
+    "gn:asciiname":"Myra",
+    "gn:country_code":"GR",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256937,
+    "gn:latitude":39.45399,
+    "gn:longitude":22.54576,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"M\u00fdra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00fdra"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03cd\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Haj\u00ed-Ba\u00efr\u00e1ki",
+        "M\u00edra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256937
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ed1855d8a5fd7266d4dbcef52e6f199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293323153,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293323153,
+    "wof:lastmodified":1537624377,
+    "wof:name":"Myra",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54576,
+    39.45399000000001,
+    22.54576,
+    39.45399000000001
+],
+  "geometry": {"coordinates":[22.54576,39.45399000000001],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310630195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5612,40.06032,22.5612,40.06032",
+    "geom:latitude":40.06032,
+    "geom:longitude":22.5612,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"9046",
+    "gn:asciiname":"Leptokarya",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734256,
+    "gn:latitude":40.06032,
+    "gn:longitude":22.5612,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Leptokary\u00e1",
+    "gn:population":3366,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c0\u03c4\u03bf\u03ba\u03b1\u03c1\u03c5\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00e1la Leptokari\u00e1s",
+        "Leptokarja",
+        "Sk\u00e1la Leptokary\u00e1s",
+        "Leptokary\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734256,
+        "wk:page":"Leptokarya"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"329b677af99b7d92757e001a76ad606b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310630195,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310630195,
+    "wof:lastmodified":1537624832,
+    "wof:name":"Leptokarya",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":3366,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5612,
+    40.06032,
+    22.5612,
+    40.06032
+],
+  "geometry": {"coordinates":[22.5612,40.06032],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327170711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05282,39.60549,22.05282,39.60549",
+    "geom:latitude":39.60549,
+    "geom:longitude":22.05282,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"9115",
+    "gn:asciiname":"Panagitsa",
+    "gn:country_code":"GR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255883,
+    "gn:latitude":39.60549,
+    "gn:longitude":22.05282,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Panag\u00edtsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Panag\u00edtsa"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Tsioto\u00falion",
+        "Panay\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255883
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"158f57ed9c4e257782718d4726870b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170711,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1327170711,
+    "wof:lastmodified":1537624326,
+    "wof:name":"Panagitsa",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05282,
+    39.60549,
+    22.05282,
+    39.60549
+],
+  "geometry": {"coordinates":[22.05282,39.60549],"type":"Point"}
+}

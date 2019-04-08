@@ -1,0 +1,76 @@
+{
+  "id": 1344090513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34037,37.41622,23.34037,37.41622",
+    "geom:latitude":37.41622,
+    "geom:longitude":23.34037,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Akti Ydras",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257404,
+    "gn:latitude":37.41622,
+    "gn:longitude":23.34037,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Akt\u00ed Ydras",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c4\u03ae \u038e\u03b4\u03c1\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Akti Ydras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257404
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6e0dd7e3eb6094327e2632ae467d0f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344090513,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1344090513,
+    "wof:lastmodified":1537625057,
+    "wof:name":"Akti Ydras",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34037,
+    37.41622,
+    23.34037,
+    37.41622
+],
+  "geometry": {"coordinates":[23.34037,37.41622],"type":"Point"}
+}

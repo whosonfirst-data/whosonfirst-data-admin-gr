@@ -1,0 +1,72 @@
+{
+  "id": 1326765667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88609,35.07159,24.88609,35.07159",
+    "geom:latitude":35.07159,
+    "geom:longitude":24.88609,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308",
+    "gn:asciiname":"Ayios Andonios",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264034,
+    "gn:latitude":35.07159,
+    "gn:longitude":24.88609,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"\u00c1yios And\u00f3nios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c1yios And\u00f3nias",
+        "\u00c1yios And\u00f3nios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264034
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"206fbfec106da82944d11b8cd91696a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326765667,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1326765667,
+    "wof:lastmodified":1537624710,
+    "wof:name":"Ayios Andonios",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88609,
+    35.07159,
+    24.88609,
+    35.07159
+],
+  "geometry": {"coordinates":[24.88609,35.07159],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327470481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79453,38.40006,21.79453,38.40006",
+    "geom:latitude":38.40006,
+    "geom:longitude":21.79453,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Karalaiika",
+    "gn:country_code":"GR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261065,
+    "gn:latitude":38.40006,
+    "gn:longitude":21.79453,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Karala\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Karal\u00e9ika",
+        "Karala\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261065
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"badd1f411ff8e47562129c44cbfec4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327470481,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327470481,
+    "wof:lastmodified":1537624572,
+    "wof:name":"Karalaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79453,
+    38.40006,
+    21.79453,
+    38.40006
+],
+  "geometry": {"coordinates":[21.79453,38.40006],"type":"Point"}
+}

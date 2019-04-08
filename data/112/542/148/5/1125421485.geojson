@@ -1,0 +1,82 @@
+{
+  "id": 1125421485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28269,36.90985,22.28269,36.90985",
+    "geom:latitude":36.90985,
+    "geom:longitude":22.28269,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":6658,
+    "gn:population":6658,
+    "iso:country":"GR",
+    "lbl:latitude":36.90985,
+    "lbl:longitude":22.28269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u039c\u03ac\u03bd\u03b7"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133724,
+    "qs_pg:gn_pop":6658,
+    "qs_pg:name":"Dimos West Mani",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":758696,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133724,
+        "qs_pg:id":758696
+    },
+    "wof:country":"GR",
+    "wof:created":1497052324,
+    "wof:geomhash":"14ea5ac04c8d67fd8e66982ffb46829d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125421485,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125421485,
+    "wof:lastmodified":1509390487,
+    "wof:name":"Dimos West Mani",
+    "wof:parent_id":85684643,
+    "wof:placetype":"localadmin",
+    "wof:population":6658,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28269,
+    36.90985,
+    22.28269,
+    36.90985
+],
+  "geometry": {"coordinates":[22.28269,36.90985],"type":"Point"}
+}

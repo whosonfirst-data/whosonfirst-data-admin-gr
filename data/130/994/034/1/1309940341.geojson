@@ -1,0 +1,79 @@
+{
+  "id": 1309940341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.44066,39.2273,26.44066,39.2273",
+    "geom:latitude":39.2273,
+    "geom:longitude":26.44066,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Neai Kydoniai",
+    "gn:country_code":"GR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256616,
+    "gn:latitude":39.2273,
+    "gn:longitude":26.44066,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"N\u00e9ai Kydon\u00edai",
+    "gn:population":485,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b5\u03c2 \u039a\u03c5\u03b4\u03c9\u03bd\u03af\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Nees Kydonies"
+    ],
+    "name:und_x_variant":[
+        "Valtz\u00edkion",
+        "N\u00e9ai Kidhon\u00edai",
+        "N\u00e9ai Kydon\u00edai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256616
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b4273bb11f856a8a0b95d01c75f1e4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1309940341,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309940341,
+    "wof:lastmodified":1537624365,
+    "wof:name":"Neai Kydoniai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":485,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.44066,
+    39.2273,
+    26.44066,
+    39.2273
+],
+  "geometry": {"coordinates":[26.44066,39.2273],"type":"Point"}
+}

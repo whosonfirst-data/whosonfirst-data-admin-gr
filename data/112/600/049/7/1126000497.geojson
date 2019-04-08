@@ -1,0 +1,116 @@
+{
+  "id": 1126000497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92163,40.84084,22.92163,40.84084",
+    "geom:latitude":40.84084,
+    "geom:longitude":22.92163,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1420,
+    "gn:population":1420,
+    "iso:country":"GR",
+    "lbl:latitude":40.84084,
+    "lbl:longitude":22.92163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0627 \u0633\u0627\u0646\u062a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0432\u043e\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Nea Santa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u03a3\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Santa"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03ad\u03b1 \u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03b9\u03bb\u03ba\u03af\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0432\u043e\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e9a S\u00e1nta"
+    ],
+    "name:unk_x_variant":[
+        "Volov\u00f3t"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734987,
+    "qs_pg:gn_pop":1420,
+    "qs_pg:name":"Nea Santa",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":242065,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":957989,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734987,
+        "gp:id":957989,
+        "qs_pg:id":242065,
+        "wd:id":"Q3555748"
+    },
+    "wof:country":"GR",
+    "wof:created":1497299621,
+    "wof:geomhash":"6e3a24692a6c4a3cbb1e4bb5680854f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126000497,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1126000497,
+    "wof:lastmodified":1514444017,
+    "wof:name":"Nea Santa",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1420,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92163,
+    40.84084,
+    22.92163,
+    40.84084
+],
+  "geometry": {"coordinates":[22.92163,40.84084],"type":"Point"}
+}

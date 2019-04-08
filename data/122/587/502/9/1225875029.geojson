@@ -1,0 +1,78 @@
+{
+  "id": 1225875029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28993,39.90584,25.28993,39.90584",
+    "geom:latitude":39.90584,
+    "geom:longitude":25.28993,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9263",
+    "gn:asciiname":"Romanon",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254239,
+    "gn:latitude":39.90584,
+    "gn:longitude":25.28993,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"Roman\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03c9\u03bc\u03b1\u03bd\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03c9\u03bc\u03b1\u03bd\u03cc"
+    ],
+    "name:und_x_variant":[
+        "Orm\u00e1no",
+        "Romano\u00fa",
+        "Roman\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254239,
+        "wk:page":"Romanou"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"78eb98e03b4d4deab5fb99f55b906daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1225875029,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225875029,
+    "wof:lastmodified":1537624258,
+    "wof:name":"Romanon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28993,
+    39.90584000000001,
+    25.28993,
+    39.90584000000001
+],
+  "geometry": {"coordinates":[25.28993,39.90584000000001],"type":"Point"}
+}

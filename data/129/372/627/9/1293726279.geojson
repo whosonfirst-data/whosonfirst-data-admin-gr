@@ -1,0 +1,73 @@
+{
+  "id": 1293726279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65236,39.54388,21.65236,39.54388",
+    "geom:latitude":39.54388,
+    "geom:longitude":21.65236,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"9114",
+    "gn:asciiname":"Matsoukiotika",
+    "gn:country_code":"GR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257578,
+    "gn:latitude":39.54388,
+    "gn:longitude":21.65236,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Matsouki\u00f3tika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Matsouki\u00f3tika"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c4\u03c3\u03bf\u03c5\u03ba\u03b9\u03ce\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257578
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2095c53d58d8c32115e2de9422e05693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293726279,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293726279,
+    "wof:lastmodified":1537624410,
+    "wof:name":"Matsoukiotika",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65236,
+    39.54388,
+    21.65236,
+    39.54388
+],
+  "geometry": {"coordinates":[21.65236,39.54388],"type":"Point"}
+}

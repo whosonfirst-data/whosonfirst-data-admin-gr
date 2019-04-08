@@ -1,0 +1,92 @@
+{
+  "id": 1125862451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23722,40.85583,22.23722,40.85583",
+    "geom:latitude":40.85583,
+    "geom:longitude":22.23722,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":430,
+    "gn:population":430,
+    "iso:country":"GR",
+    "lbl:latitude":40.85583,
+    "lbl:longitude":22.23722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03ba\u03ba\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "B\u00e1biani"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735493,
+    "qs_pg:gn_pop":430,
+    "qs_pg:name":"Lakka",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1284480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":954927,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735493,
+        "gp:id":954927,
+        "qs_pg:id":1284480
+    },
+    "wof:country":"GR",
+    "wof:created":1497293881,
+    "wof:geomhash":"f09df389b8206a35fa6ae22c9dc38320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125862451,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125862451,
+    "wof:lastmodified":1509396718,
+    "wof:name":"Lakka",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":430,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23722,
+    40.85583,
+    22.23722,
+    40.85583
+],
+  "geometry": {"coordinates":[22.23722,40.85583],"type":"Point"}
+}

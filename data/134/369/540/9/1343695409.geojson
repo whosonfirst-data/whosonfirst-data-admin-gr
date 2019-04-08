@@ -1,0 +1,80 @@
+{
+  "id": 1343695409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1416,40.1938,21.1416,40.1938",
+    "geom:latitude":40.1938,
+    "geom:longitude":21.1416,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Pentalofos",
+    "gn:country_code":"GR",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734723,
+    "gn:latitude":40.1938,
+    "gn:longitude":21.1416,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Pent\u00e1lofos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pent\u00e1lofos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03bd\u03c4\u03ac\u03bb\u03bf\u03c6\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Zoup\u00e1nion",
+        "Pend\u00e1lofon",
+        "Petr\u00f3vounon",
+        "Pend\u00e1lofos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734723,
+        "wk:page":"Pentalofos%2C_Kozani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"658c5cfecf272e2c342b5d3035470bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343695409,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343695409,
+    "wof:lastmodified":1537624858,
+    "wof:name":"Pentalofos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1416,
+    40.1938,
+    21.1416,
+    40.1938
+],
+  "geometry": {"coordinates":[21.1416,40.1938],"type":"Point"}
+}

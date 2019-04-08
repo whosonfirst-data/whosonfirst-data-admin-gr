@@ -1,0 +1,82 @@
+{
+  "id": 1125826241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11556,39.45389,21.11556,39.45389",
+    "geom:latitude":39.45389,
+    "geom:longitude":21.11556,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":64,
+    "gn:population":64,
+    "iso:country":"GR",
+    "lbl:latitude":39.45389,
+    "lbl:longitude":21.11556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03c5\u03bf\u03c0\u03b7\u03b3\u03ae"
+    ],
+    "name:unk_x_variant":[
+        "Sinoikism\u00f3s Mouts\u00e1ra"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258780,
+    "qs_pg:gn_pop":64,
+    "qs_pg:name":"Kryopig\u00ed",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546658,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258780,
+        "qs_pg:id":546658
+    },
+    "wof:country":"GR",
+    "wof:created":1497292290,
+    "wof:geomhash":"7949c3b4788b01b95d2ea66d7b3be021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125826241,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125826241,
+    "wof:lastmodified":1509394414,
+    "wof:name":"Kryopig\u00ed",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11556,
+    39.45389,
+    21.11556,
+    39.45389
+],
+  "geometry": {"coordinates":[21.11556,39.45389],"type":"Point"}
+}

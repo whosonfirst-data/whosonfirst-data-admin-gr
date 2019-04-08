@@ -1,0 +1,83 @@
+{
+  "id": 1259418975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98048,36.16082,22.98048,36.16082",
+    "geom:latitude":36.16082,
+    "geom:longitude":22.98048,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Manitokhori",
+    "gn:country_code":"GR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257769,
+    "gn:latitude":36.16082,
+    "gn:longitude":22.98048,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Manitokh\u00f3ri",
+    "gn:population":20,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b9\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bd\u03b9\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd",
+        "\u039c\u03b1\u03bd\u03b9\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Manitochori"
+    ],
+    "name:und_x_variant":[
+        "Manitokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257769
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"68e1d6b3f42f06b24b4689780327d2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259418975,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1259418975,
+    "wof:lastmodified":1537624417,
+    "wof:name":"Manitokhori",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98048,
+    36.16082,
+    22.98048,
+    36.16082
+],
+  "geometry": {"coordinates":[22.98048,36.16082],"type":"Point"}
+}

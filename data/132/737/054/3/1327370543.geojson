@@ -1,0 +1,76 @@
+{
+  "id": 1327370543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76202,35.10127,25.76202,35.10127",
+    "geom:latitude":35.10127,
+    "geom:longitude":25.76202,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311.0",
+    "gn:asciiname":"Iera Moni Faneromenis",
+    "gn:country_code":"GR",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10792526,
+    "gn:latitude":35.10127,
+    "gn:longitude":25.76202,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Ier\u00e1 Mon\u00ed Fanerom\u00e9nis",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03b5\u03c1\u03ac \u039c\u03bf\u03bd\u03ae \u03a6\u03b1\u03bd\u03b5\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Iera Moni Faneromenis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792526
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1493bbd2019b85b3f548b00c6307b2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327370543,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327370543,
+    "wof:lastmodified":1537625089,
+    "wof:name":"Iera Moni Faneromenis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76202,
+    35.10127,
+    25.76202,
+    35.10127
+],
+  "geometry": {"coordinates":[25.76202,35.10127],"type":"Point"}
+}

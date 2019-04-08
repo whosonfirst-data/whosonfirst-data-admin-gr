@@ -1,0 +1,79 @@
+{
+  "id": 1293623871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82808,37.16704,21.82808,37.16704",
+    "geom:latitude":37.16704,
+    "geom:longitude":21.82808,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Palaiokastro",
+    "gn:country_code":"GR",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251492,
+    "gn:latitude":37.16704,
+    "gn:longitude":21.82808,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Palaiok\u00e1stro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Palaiok\u00e1stro"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03ba\u03ac\u03c3\u03c4\u03c1\u03bf",
+        "Palaiok\u00e1stron",
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03ba\u03ac\u03c3\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ser\u00f3kasi",
+        "Xirok\u00e1sion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251492
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b50b3acd4f76afdb21275b79adc8268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293623871,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293623871,
+    "wof:lastmodified":1537624143,
+    "wof:name":"Palaiokastro",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82808,
+    37.16704,
+    21.82808,
+    37.16704
+],
+  "geometry": {"coordinates":[21.82808,37.16704],"type":"Point"}
+}

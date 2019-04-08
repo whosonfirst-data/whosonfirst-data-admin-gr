@@ -1,0 +1,71 @@
+{
+  "id": 1209745905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51667,37.73333,22.51667,37.73333",
+    "geom:latitude":37.73333,
+    "geom:longitude":22.51667,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Dhoukas",
+    "gn:country_code":"GR",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":262984,
+    "gn:latitude":37.73333,
+    "gn:longitude":22.51667,
+    "gn:modification_date":"2014-05-09",
+    "gn:name":"Dho\u00fakas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Dho\u00faka",
+        "Dho\u00fakas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262984
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"91d55968c0304ce43255776bb8fac563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209745905,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209745905,
+    "wof:lastmodified":1537624660,
+    "wof:name":"Dhoukas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51667,
+    37.73333,
+    22.51667,
+    37.73333
+],
+  "geometry": {"coordinates":[22.51667,37.73333],"type":"Point"}
+}

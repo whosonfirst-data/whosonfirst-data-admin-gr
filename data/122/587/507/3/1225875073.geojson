@@ -1,0 +1,80 @@
+{
+  "id": 1225875073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83466,40.62814,21.83466,40.62814",
+    "geom:latitude":40.62814,
+    "geom:longitude":21.83466,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9067",
+    "gn:asciiname":"Mesovouno",
+    "gn:country_code":"GR",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735171,
+    "gn:latitude":40.62814,
+    "gn:longitude":21.83466,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mes\u00f3vouno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mes\u00f3vouno"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf",
+        "\u039c\u03b5\u03c3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mes\u00f3vounos",
+        "Kr\u00edmsia",
+        "Mes\u00f3vounon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735171,
+        "wk:page":"Mesovouno"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d30a39d930fe89c8c17d94684a6a52fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875073,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1225875073,
+    "wof:lastmodified":1537624885,
+    "wof:name":"Mesovouno",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83466,
+    40.62814,
+    21.83466,
+    40.62814
+],
+  "geometry": {"coordinates":[21.83466,40.62814],"type":"Point"}
+}

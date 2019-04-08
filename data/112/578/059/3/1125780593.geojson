@@ -1,0 +1,102 @@
+{
+  "id": 1125780593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.765975,39.011447,21.765975,39.011447",
+    "geom:latitude":39.011447,
+    "geom:longitude":21.765975,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":39.011447,
+    "lbl:longitude":21.765975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ktimenia"
+    ],
+    "name:eng_x_preferred":[
+        "Ktimenia"
+    ],
+    "name:fre_x_preferred":[
+        "Ktimenia"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03c4\u03b7\u03bc\u03b5\u03bd\u03af\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Ktimenia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30c6\u30a3\u30e1\u30cb\u30a2"
+    ],
+    "name:nno_x_preferred":[
+        "Ktim\u00e9nia"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ktimenia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192469,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":55869651,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55869651,
+        "qs_pg:id":192469,
+        "wd:id":"Q3564390"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290453,
+    "wof:geomhash":"baadebc5aea54624014156d5be7d5e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125780593,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125780593,
+    "wof:lastmodified":1514443990,
+    "wof:name":"Ktimenia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.765975,
+    39.011447,
+    21.765975,
+    39.011447
+],
+  "geometry": {"coordinates":[21.765975,39.011447],"type":"Point"}
+}

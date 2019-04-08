@@ -1,0 +1,80 @@
+{
+  "id": 1309740739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04654,37.69238,24.04654,37.69238",
+    "geom:latitude":37.69238,
+    "geom:longitude":24.04654,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Agios Gerasimos",
+    "gn:country_code":"GR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036753,
+    "gn:latitude":37.69238,
+    "gn:longitude":24.04654,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Agios Ger\u00e1simos",
+    "gn:population":281,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03c1\u03ac\u03c3\u03b9\u03bc\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Gerasimos"
+    ],
+    "name:und_x_variant":[
+        "Ayios Gerasimos",
+        "Aghios Gerasimos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036753
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"edf97938cbe76ebf8a1af4b265f64054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309740739,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1309740739,
+    "wof:lastmodified":1537625041,
+    "wof:name":"Agios Gerasimos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04654,
+    37.69238,
+    24.04654,
+    37.69238
+],
+  "geometry": {"coordinates":[24.04654,37.69238],"type":"Point"}
+}

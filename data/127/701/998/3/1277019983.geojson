@@ -1,0 +1,78 @@
+{
+  "id": 1277019983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21408,35.24128,24.21408,35.24128",
+    "geom:latitude":35.24128,
+    "geom:longitude":24.21408,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9324",
+    "gn:asciiname":"Asfendos",
+    "gn:country_code":"GR",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264505,
+    "gn:latitude":35.24128,
+    "gn:longitude":24.21408,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"\u00c1sfendos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1sfendos"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03c3\u03c6\u03b5\u03bd\u03b4\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Asf\u00e9ndon",
+        "Asf\u00e9ndhon",
+        "\u00c1sfendhos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264505
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0aeff48def7b25fb0fbec4bcb99c481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277019983,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1277019983,
+    "wof:lastmodified":1537624728,
+    "wof:name":"Asfendos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21408,
+    35.24128,
+    24.21408,
+    35.24128
+],
+  "geometry": {"coordinates":[24.21408,35.24128],"type":"Point"}
+}

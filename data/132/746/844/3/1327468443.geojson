@@ -1,0 +1,78 @@
+{
+  "id": 1327468443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01454,37.3921,22.01454,37.3921",
+    "geom:latitude":37.3921,
+    "geom:longitude":22.01454,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Lykosoura",
+    "gn:country_code":"GR",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258346,
+    "gn:latitude":37.3921,
+    "gn:longitude":22.01454,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Lyk\u00f3soura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lyk\u00f3soura"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03c5\u03ba\u03cc\u03c3\u03bf\u03c5\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Zaglak\u00f3rema",
+        "Ast\u00e1la",
+        "Lik\u00f3soura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258346
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b9eb8a0a94a91ed660d4ab8501766e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327468443,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327468443,
+    "wof:lastmodified":1537624443,
+    "wof:name":"Lykosoura",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01454,
+    37.3921,
+    22.01454,
+    37.3921
+],
+  "geometry": {"coordinates":[22.01454,37.3921],"type":"Point"}
+}

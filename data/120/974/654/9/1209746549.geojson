@@ -1,0 +1,68 @@
+{
+  "id": 1209746549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08743,39.85494,25.08743,39.85494",
+    "geom:latitude":39.85494,
+    "geom:longitude":25.08743,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9263",
+    "gn:asciiname":"Thanos",
+    "gn:country_code":"GR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252978,
+    "gn:latitude":39.85494,
+    "gn:longitude":25.08743,
+    "gn:modification_date":"2017-02-09",
+    "gn:name":"Th\u00e1nos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0398\u03ac\u03bd\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252978
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8507e0dcea170f38178da449abc0a343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1209746549,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209746549,
+    "wof:lastmodified":1537624201,
+    "wof:name":"Thanos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08743,
+    39.85494,
+    25.08743,
+    39.85494
+],
+  "geometry": {"coordinates":[25.08743,39.85494],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276693063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94593,37.60787,22.94593,37.60787",
+    "geom:latitude":37.60787,
+    "geom:longitude":22.94593,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Metokhion",
+    "gn:country_code":"GR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257103,
+    "gn:latitude":37.60787,
+    "gn:longitude":22.94593,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Met\u00f3khion",
+    "gn:population":761,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c4\u03cc\u03c7\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Metochi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257103
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7f6041f3df02288cbb15c27e99634285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276693063,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276693063,
+    "wof:lastmodified":1537624388,
+    "wof:name":"Metokhion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":761,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94593,
+    37.60787,
+    22.94593,
+    37.60787
+],
+  "geometry": {"coordinates":[22.94593,37.60787],"type":"Point"}
+}

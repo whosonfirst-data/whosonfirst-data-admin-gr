@@ -1,0 +1,75 @@
+{
+  "id": 101848207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.063902,36.50922,23.063902,36.50922",
+    "geom:latitude":36.50922,
+    "geom:longitude":23.063902,
+    "iso:country":"GR",
+    "lbl:latitude":36.50922,
+    "lbl:longitude":23.063902,
+    "mps:latitude":36.50922,
+    "mps:longitude":23.063902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
+    "qs:a1_alt":"PELOPONNHSOS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LAKVNIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039d\u0395\u0391\u03a0\u039f\u039b\u0399\u03a3 \u0392\u039f\u0399\u03a9\u039d",
+    "qs:loc_alt":"NEAPOLIS BOIVN",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":958026,
+        "qs:id":7
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"78b569861dfd0a547362d0a8ab58c763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848207,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":101848207,
+    "wof:lastmodified":1544740309,
+    "wof:name":"\u039d\u0395\u0391\u03a0\u039f\u039b\u0399\u03a3 \u0392\u039f\u0399\u03a9\u039d",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.063902,
+    36.50922,
+    23.063902,
+    36.50922
+],
+  "geometry": {"coordinates":[23.063902,36.50922],"type":"Point"}
+}

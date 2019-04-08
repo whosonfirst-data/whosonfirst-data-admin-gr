@@ -1,0 +1,74 @@
+{
+  "id": 1276801797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77677,40.98506,24.77677,40.98506",
+    "geom:latitude":40.98506,
+    "geom:longitude":24.77677,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9018",
+    "gn:asciiname":"Kyrnos",
+    "gn:country_code":"GR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735710,
+    "gn:latitude":40.98506,
+    "gn:longitude":24.77677,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"K\u00fdrnos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00fdrnos"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03cd\u03c1\u03bd\u03bf\u03c2",
+        "K\u00edrnos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735710
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9fb2b1943fd20e8a57a8f73269a75afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276801797,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276801797,
+    "wof:lastmodified":1537624919,
+    "wof:name":"Kyrnos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77677000000001,
+    40.98506,
+    24.77677000000001,
+    40.98506
+],
+  "geometry": {"coordinates":[24.77677000000001,40.98506],"type":"Point"}
+}

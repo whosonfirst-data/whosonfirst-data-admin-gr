@@ -1,0 +1,73 @@
+{
+  "id": 1293420991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47572,38.24267,20.47572,38.24267",
+    "geom:latitude":38.24267,
+    "geom:longitude":20.47572,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Kourouklata",
+    "gn:country_code":"GR",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259005,
+    "gn:latitude":38.24267,
+    "gn:longitude":20.47572,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Kouroukl\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kouroukl\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03c1\u03bf\u03c5\u03ba\u03bb\u03ac\u03c4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259005
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"398e6c2d0e311a02d206ef9a6cc04056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293420991,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293420991,
+    "wof:lastmodified":1537624475,
+    "wof:name":"Kourouklata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47572000000001,
+    38.24267,
+    20.47572000000001,
+    38.24267
+],
+  "geometry": {"coordinates":[20.47572000000001,38.24267],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209248395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62333,39.98655,22.62333,39.98655",
+    "geom:latitude":39.98655,
+    "geom:longitude":22.62333,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"9046",
+    "gn:asciiname":"Platamonas",
+    "gn:country_code":"GR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253806,
+    "gn:latitude":39.98655,
+    "gn:longitude":22.62333,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Platam\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Platam\u00f3nas"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bc\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Sinoikism\u00f3s Pandele\u1e2fmonos",
+        "Synoikism\u00f3s Pantele\u00edmonos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253806
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1551916ae74ba02496f3c338742a0806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248395
+        }
+    ],
+    "wof:id":1209248395,
+    "wof:lastmodified":1537624238,
+    "wof:name":"Platamonas",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62333,
+    39.98655,
+    22.62333,
+    39.98655
+],
+  "geometry": {"coordinates":[22.62333,39.98655],"type":"Point"}
+}

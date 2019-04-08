@@ -1,0 +1,73 @@
+{
+  "id": 1243103891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71667,38.15,23.71667,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":23.71667,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9215",
+    "gn:asciiname":"Ayia Trias",
+    "gn:country_code":"GR",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":264129,
+    "gn:latitude":38.15,
+    "gn:longitude":23.71667,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Ay\u00eda Tri\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a4\u03c1\u03b9\u03ac\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Ay\u00eda Tri\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264129
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e3e1548df8292b02e8505ad4993cef91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243103891,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1243103891,
+    "wof:lastmodified":1537624714,
+    "wof:name":"Ayia Trias",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71667,
+    38.15,
+    23.71667,
+    38.15
+],
+  "geometry": {"coordinates":[23.71667,38.15],"type":"Point"}
+}

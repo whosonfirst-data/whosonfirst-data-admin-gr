@@ -1,0 +1,80 @@
+{
+  "id": 1242612227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99242,39.30589,20.99242,39.30589",
+    "geom:latitude":39.30589,
+    "geom:longitude":20.99242,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9073",
+    "gn:asciiname":"Kallithea",
+    "gn:country_code":"GR",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257981,
+    "gn:latitude":39.30589,
+    "gn:longitude":20.99242,
+    "gn:modification_date":"2015-10-25",
+    "gn:name":"Kallith\u00e9a",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kallithea"
+    ],
+    "name:und_x_variant":[
+        "Kallith\u00e9a",
+        "Makhal\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257981
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"385d544721e5625082e53e748641f00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242612227,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1242612227,
+    "wof:lastmodified":1537624425,
+    "wof:name":"Kallithea",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99242000000001,
+    39.30589000000001,
+    20.99242000000001,
+    39.30589000000001
+],
+  "geometry": {"coordinates":[20.99242000000001,39.30589000000001],"type":"Point"}
+}

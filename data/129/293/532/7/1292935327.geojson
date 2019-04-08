@@ -1,0 +1,77 @@
+{
+  "id": 1292935327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52514,35.24563,24.52514,35.24563",
+    "geom:latitude":35.24563,
+    "geom:longitude":24.52514,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Karines",
+    "gn:country_code":"GR",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260945,
+    "gn:latitude":35.24563,
+    "gn:longitude":24.52514,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kar\u00ednes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03af\u03bd\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03af\u03bd\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Kar\u00ednes",
+        "Kar\u00ednai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260945
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5a6f4d2414fc6b1444512d73c1c093d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292935327,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1292935327,
+    "wof:lastmodified":1537624566,
+    "wof:name":"Karines",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52514,
+    35.24563,
+    24.52514,
+    35.24563
+],
+  "geometry": {"coordinates":[24.52514,35.24563],"type":"Point"}
+}

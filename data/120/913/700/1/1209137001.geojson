@@ -1,0 +1,71 @@
+{
+  "id": 1209137001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87499,40.35837,21.87499,40.35837",
+    "geom:latitude":40.35837,
+    "geom:longitude":21.87499,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Galani",
+    "gn:country_code":"GR",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736212,
+    "gn:latitude":40.35837,
+    "gn:longitude":21.87499,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Gal\u00e1ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03bb\u03ac\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Chakirl\u00ed",
+        "Gal\u00e1ni",
+        "Gal\u00e1nion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736212
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ff36dea0beba97a28a042ff13fe7fa04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209137001
+        }
+    ],
+    "wof:id":1209137001,
+    "wof:lastmodified":1537624945,
+    "wof:name":"Galani",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87499,
+    40.35837,
+    21.87499,
+    40.35837
+],
+  "geometry": {"coordinates":[21.87499,40.35837],"type":"Point"}
+}

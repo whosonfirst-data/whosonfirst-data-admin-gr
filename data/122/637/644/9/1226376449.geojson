@@ -1,0 +1,74 @@
+{
+  "id": 1226376449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68017,38.17828,20.68017,38.17828",
+    "geom:latitude":38.17828,
+    "geom:longitude":20.68017,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Sofata",
+    "gn:country_code":"GR",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253490,
+    "gn:latitude":38.17828,
+    "gn:longitude":20.68017,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Sof\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c6\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Sof\u00e1ta",
+        "Sof\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253490
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6af1287b1492346740fd57ce30958830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226376449,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226376449,
+    "wof:lastmodified":1537624223,
+    "wof:name":"Sofata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68017,
+    38.17828,
+    20.68017,
+    38.17828
+],
+  "geometry": {"coordinates":[20.68017,38.17828],"type":"Point"}
+}

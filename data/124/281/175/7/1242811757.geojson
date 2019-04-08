@@ -1,0 +1,73 @@
+{
+  "id": 1242811757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04041,38.16673,24.04041,38.16673",
+    "geom:latitude":38.16673,
+    "geom:longitude":24.04041,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220.0",
+    "gn:asciiname":"Sfakona",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975525,
+    "gn:latitude":38.16673,
+    "gn:longitude":24.04041,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sfak\u00f3na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sfak\u00f3na"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c6\u03b1\u03ba\u03cc\u03bd\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975525
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4854d8a902ed44d22c32178aa6b60f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242811757,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1242811757,
+    "wof:lastmodified":1537625097,
+    "wof:name":"Sfakona",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04041,
+    38.16673,
+    24.04041,
+    38.16673
+],
+  "geometry": {"coordinates":[24.04041,38.16673],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293137353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15097,40.11333,21.15097,40.11333",
+    "geom:latitude":40.11333,
+    "geom:longitude":21.15097,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Mesolouri",
+    "gn:country_code":"GR",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735181,
+    "gn:latitude":40.11333,
+    "gn:longitude":21.15097,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mesolo\u00fari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03bf\u03bb\u03bf\u03cd\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mesolo\u00fari",
+        "Mesolo\u00farion",
+        "\u039c\u03b5\u03c3\u03bf\u03bb\u03bf\u03cd\u03c1\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735181,
+        "wk:page":"Mesolouri"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fe9baf9b9bea632b218bf0bd529f13c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293137353,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293137353,
+    "wof:lastmodified":1537624886,
+    "wof:name":"Mesolouri",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15097,
+    40.11333,
+    21.15097,
+    40.11333
+],
+  "geometry": {"coordinates":[21.15097,40.11333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293326509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97756,38.2573,21.97756,38.2573",
+    "geom:latitude":38.2573,
+    "geom:longitude":21.97756,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Ano Doukanaiika",
+    "gn:country_code":"GR",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10242872,
+    "gn:latitude":38.2573,
+    "gn:longitude":21.97756,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"\u00c1no Doukana\u00edika",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0394\u03bf\u03c5\u03ba\u03b1\u03bd\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u0394\u03bf\u03c5\u03ba\u03b1\u03bd\u03ad\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Doukanaiika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10242872
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eec97ef9f67ad1b88fd83569cbd95a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293326509,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293326509,
+    "wof:lastmodified":1537625086,
+    "wof:name":"Ano Doukanaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97756,
+    38.2573,
+    21.97756,
+    38.2573
+],
+  "geometry": {"coordinates":[21.97756,38.2573],"type":"Point"}
+}

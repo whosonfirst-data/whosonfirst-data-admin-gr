@@ -1,0 +1,74 @@
+{
+  "id": 1193173757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16595,39.17273,22.16595,39.17273",
+    "geom:latitude":39.17273,
+    "geom:longitude":22.16595,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9096",
+    "gn:asciiname":"Asimokhorion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264498,
+    "gn:latitude":39.17273,
+    "gn:longitude":22.16595,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Asimokh\u00f3rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asimokh\u00f3ri",
+        "Balabal\u00ed",
+        "Balabano\u00fa",
+        "Asimokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264498
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9e2cc8b0580596cc7b0caaf9e1412cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193173757,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1193173757,
+    "wof:lastmodified":1537624728,
+    "wof:name":"Asimokhorion",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16595,
+    39.17273,
+    22.16595,
+    39.17273
+],
+  "geometry": {"coordinates":[22.16595,39.17273],"type":"Point"}
+}

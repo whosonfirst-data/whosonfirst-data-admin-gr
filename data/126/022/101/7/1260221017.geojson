@@ -1,0 +1,76 @@
+{
+  "id": 1260221017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26058,35.30127,25.26058,35.30127",
+    "geom:latitude":35.30127,
+    "geom:longitude":25.26058,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9309.0",
+    "gn:asciiname":"Moni Agiou Ioannou Theologou",
+    "gn:country_code":"GR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10859315,
+    "gn:latitude":35.30127,
+    "gn:longitude":25.26058,
+    "gn:modification_date":"2015-10-25",
+    "gn:name":"Mon\u00ed Ag\u00edou Io\u00e1nnou Theol\u00f3gou",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u0391\u03b3\u03af\u03bf\u03c5 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 \u0398\u03b5\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Moni Agiou Ioannou Theologou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859315
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a620312b976ee6aaeb2c4658bc7a5053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260221017,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260221017,
+    "wof:lastmodified":1537625093,
+    "wof:name":"Moni Agiou Ioannou Theologou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26058,
+    35.30127,
+    25.26058,
+    35.30127
+],
+  "geometry": {"coordinates":[25.26058,35.30127],"type":"Point"}
+}

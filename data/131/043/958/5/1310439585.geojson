@@ -1,0 +1,84 @@
+{
+  "id": 1310439585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07598,41.25172,23.07598,41.25172",
+    "geom:latitude":41.25172,
+    "geom:longitude":23.07598,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9055",
+    "gn:asciiname":"Livadia",
+    "gn:country_code":"GR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735391,
+    "gn:latitude":41.25172,
+    "gn:longitude":23.07598,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Livadi\u00e1",
+    "gn:population":623,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a4\u03b6\u03bf\u03c5\u03bc\u03ac \u039c\u03b1\u03c7\u03b1\u03bb\u03ad"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b2\u03b1\u03b4\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "Livadi\u00e1",
+        "Livadhi\u00e1",
+        "\u03a4\u03b6\u03bf\u03c5\u03bc\u03ac \u039c\u03b1\u03c7\u03b1\u03bb\u03ad"
+    ],
+    "name:eng_x_preferred":[
+        "Livadia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735391
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6e5a8bae66fde790b99417a397a778b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310439585,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310439585,
+    "wof:lastmodified":1537624899,
+    "wof:name":"Livadia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07598,
+    41.25172,
+    23.07598,
+    41.25172
+],
+  "geometry": {"coordinates":[23.07598,41.25172],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293237885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74244,37.76495,20.74244,37.76495",
+    "geom:latitude":37.76495,
+    "geom:longitude":20.74244,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Fterini",
+    "gn:country_code":"GR",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166417,
+    "gn:latitude":37.76495,
+    "gn:longitude":20.74244,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Fter\u00edni",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03c4\u03b5\u03c1\u03af\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "\u03a6\u03c4\u03b5\u03c1\u03af\u03bd\u03b9"
+    ],
+    "name:eng_x_variant":[
+        "Fterini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166417
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d21a24ce1d942ef12bb3ad383b4727b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293237885,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293237885,
+    "wof:lastmodified":1537625052,
+    "wof:name":"Fterini",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74244,
+    37.76495,
+    20.74244,
+    37.76495
+],
+  "geometry": {"coordinates":[20.74244,37.76495],"type":"Point"}
+}

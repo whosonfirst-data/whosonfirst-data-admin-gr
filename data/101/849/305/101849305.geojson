@@ -1,0 +1,124 @@
+{
+  "id": 101849305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.232223,38.623016,23.232223,38.623016",
+    "geom:latitude":38.623016,
+    "geom:longitude":23.232223,
+    "gn:population":3833,
+    "iso:country":"GR",
+    "lbl:latitude":38.623016,
+    "lbl:longitude":23.232223,
+    "mps:latitude":38.623016,
+    "mps:longitude":23.232223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u0633\u064a\u0646\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Malesina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03b1\u03bb\u03b5\u03c3\u03af\u03bd\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bb\u03b5\u03c3\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Malesina"
+    ],
+    "name:fre_x_preferred":[
+        "Malesina"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03b1\u03bb\u03b5\u03c3\u03af\u03bd\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Malesina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ec\u30b7\u30ca"
+    ],
+    "name:lat_x_preferred":[
+        "Malesina"
+    ],
+    "name:nno_x_preferred":[
+        "Males\u00edna"
+    ],
+    "name:swe_x_preferred":[
+        "Males\u00edna"
+    ],
+    "name:unk_x_variant":[
+        "Males\u00edna"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"FUIVTIDA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391",
+    "qs:loc_alt":"MALESINA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":424,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257868,
+        "gp:id":956015,
+        "qs:id":123807,
+        "qs_pg:id":123807,
+        "wd:id":"Q1227675",
+        "wk:page":"Malesina"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"80d21606dc686f1682e3a3a40c6c53c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849305,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849305,
+    "wof:lastmodified":1544740885,
+    "wof:name":"\u039c\u0391\u039b\u0395\u03a3\u0399\u039d\u0391",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":3833,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.232223,
+    38.623016,
+    23.232223,
+    38.623016
+],
+  "geometry": {"coordinates":[23.232223,38.623016],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360017087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67649,37.00944,24.67649,37.00944",
+    "geom:latitude":37.00944,
+    "geom:longitude":24.67649,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9289",
+    "gn:asciiname":"Troulaki",
+    "gn:country_code":"GR",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9171993,
+    "gn:latitude":37.00944,
+    "gn:longitude":24.67649,
+    "gn:modification_date":"2014-06-25",
+    "gn:name":"Troul\u00e1ki",
+    "gn:population":27,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Troulaki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9171993
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e4a037e8be3ba6a0ed2cea4e8efd57fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360017087,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1360017087,
+    "wof:lastmodified":1537625054,
+    "wof:name":"Troulaki",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67649,
+    37.00944000000001,
+    24.67649,
+    37.00944000000001
+],
+  "geometry": {"coordinates":[24.67649,37.00944000000001],"type":"Point"}
+}

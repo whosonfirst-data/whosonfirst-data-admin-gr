@@ -1,0 +1,80 @@
+{
+  "id": 1260322817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70722,39.427,20.70722,39.427",
+    "geom:latitude":39.427,
+    "geom:longitude":20.70722,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Kampos",
+    "gn:country_code":"GR",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445353,
+    "gn:latitude":39.427,
+    "gn:longitude":20.70722,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"K\u00e1mpos",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bc\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kampos"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1mbos",
+        "K\u00e1mpos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445353
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f7d9ec11e9ebd14ef03a706b950b476a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260322817,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1260322817,
+    "wof:lastmodified":1537624804,
+    "wof:name":"Kampos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70722,
+    39.427,
+    20.70722,
+    39.427
+],
+  "geometry": {"coordinates":[20.70722,39.427],"type":"Point"}
+}

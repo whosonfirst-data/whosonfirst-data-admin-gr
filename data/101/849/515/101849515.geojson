@@ -1,0 +1,127 @@
+{
+  "id": 101849515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.886778,38.920567,20.886778,38.920567",
+    "geom:latitude":38.920567,
+    "geom:longitude":20.886778,
+    "gn:population":4703,
+    "iso:country":"GR",
+    "lbl:latitude":38.920567,
+    "lbl:longitude":20.886778,
+    "mps:latitude":38.920567,
+    "mps:longitude":20.886778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0646\u064a\u062a\u0633\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Anaktorio"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vonitsa"
+    ],
+    "name:fin_x_preferred":[
+        "V\u00f3nitsa"
+    ],
+    "name:fra_x_preferred":[
+        "Vonitza"
+    ],
+    "name:ita_x_preferred":[
+        "Vonitsa"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00f3nitsa"
+    ],
+    "name:pol_x_preferred":[
+        "Wonitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Vonitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00f3nitsa"
+    ],
+    "name:unk_x_variant":[
+        "V\u00f3nitsa"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"AITVLIA KAI AKARNANIA",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0392\u039f\u039d\u0399\u03a4\u03a3\u0391",
+    "qs:loc_alt":"BONITSA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.915278,
+    "wd:longitude":20.891111,
+    "wd:wordcount":259,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251823,
+        "gp:id":964778,
+        "qs:id":1242738,
+        "qs_pg:id":1024373,
+        "wd:id":"Q1727945",
+        "wk:page":"Vonitsa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"759de0a01a46f556d701b330825f8268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849515,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849515,
+    "wof:lastmodified":1544740987,
+    "wof:name":"\u0392\u039f\u039d\u0399\u03a4\u03a3\u0391",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":4703,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.886778,
+    38.920567,
+    20.886778,
+    38.920567
+],
+  "geometry": {"coordinates":[20.886778,38.920567],"type":"Point"}
+}

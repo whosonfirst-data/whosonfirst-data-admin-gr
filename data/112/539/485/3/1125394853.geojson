@@ -1,0 +1,79 @@
+{
+  "id": 1125394853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69077,39.12891,23.69077,39.12891",
+    "geom:latitude":39.12891,
+    "geom:longitude":23.69077,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":4706,
+    "gn:population":4706,
+    "iso:country":"GR",
+    "lbl:latitude":39.12891,
+    "lbl:longitude":23.69077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c0\u03ad\u03bb\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133893,
+    "qs_pg:gn_pop":4706,
+    "qs_pg:name":"Dimos Skopelos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1042580,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133893,
+        "qs_pg:id":1042580
+    },
+    "wof:country":"GR",
+    "wof:created":1497048943,
+    "wof:geomhash":"49f7f7b4115f27dbda339fb458b7ac4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125394853,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125394853,
+    "wof:lastmodified":1509389920,
+    "wof:name":"Dimos Skopelos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"localadmin",
+    "wof:population":4706,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69077,
+    39.12891,
+    23.69077,
+    39.12891
+],
+  "geometry": {"coordinates":[23.69077,39.12891],"type":"Point"}
+}

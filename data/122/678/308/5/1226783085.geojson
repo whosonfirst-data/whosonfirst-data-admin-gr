@@ -1,0 +1,73 @@
+{
+  "id": 1226783085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62382,37.404,22.62382,37.404",
+    "geom:latitude":37.404,
+    "geom:longitude":22.62382,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9237",
+    "gn:asciiname":"Stolos",
+    "gn:country_code":"GR",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253153,
+    "gn:latitude":37.404,
+    "gn:longitude":22.62382,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"St\u00f3los",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "St\u00f3los"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03cc\u03bb\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253153
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"67018dec73af10bea5a6560e8416bbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226783085,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226783085,
+    "wof:lastmodified":1537624207,
+    "wof:name":"Stolos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62382,
+    37.404,
+    22.62382,
+    37.404
+],
+  "geometry": {"coordinates":[22.62382,37.404],"type":"Point"}
+}

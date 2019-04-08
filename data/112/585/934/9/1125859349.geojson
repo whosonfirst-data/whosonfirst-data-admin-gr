@@ -1,0 +1,80 @@
+{
+  "id": 1125859349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.361536,37.973703,23.361536,37.973703",
+    "geom:latitude":37.973703,
+    "geom:longitude":23.361536,
+    "gn:gn_country":"GR",
+    "iso:country":"GR",
+    "lbl:latitude":37.973703,
+    "lbl:longitude":23.361536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:name":"Pakhi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1101621,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":958668,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":958668,
+        "qs_pg:id":1101621
+    },
+    "wof:country":"GR",
+    "wof:created":1497293761,
+    "wof:geomhash":"853b63c59acc57be93dd1cf5cb9cae3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125859349,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1125859349,
+    "wof:lastmodified":1509396486,
+    "wof:name":"Pakhi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.361536,
+    37.973703,
+    23.361536,
+    37.973703
+],
+  "geometry": {"coordinates":[23.361536,37.973703],"type":"Point"}
+}

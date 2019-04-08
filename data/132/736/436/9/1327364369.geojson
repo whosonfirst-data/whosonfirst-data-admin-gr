@@ -1,0 +1,74 @@
+{
+  "id": 1327364369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1,40.56667,23.1,40.56667",
+    "geom:latitude":40.56667,
+    "geom:longitude":23.1,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9030",
+    "gn:asciiname":"Mersinouda",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735209,
+    "gn:latitude":40.56667,
+    "gn:longitude":23.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mersino\u00fada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mersino\u00fada"
+    ],
+    "name:und_x_variant":[
+        "Insel\u00eddhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735209
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aef9b5f83dc5bdcee6bb11e0158468f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327364369,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1327364369,
+    "wof:lastmodified":1537624887,
+    "wof:name":"Mersinouda",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1,
+    40.56667,
+    23.1,
+    40.56667
+],
+  "geometry": {"coordinates":[23.1,40.56667],"type":"Point"}
+}

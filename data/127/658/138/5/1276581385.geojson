@@ -1,0 +1,77 @@
+{
+  "id": 1276581385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73556,39.41167,21.73556,39.41167",
+    "geom:latitude":39.41167,
+    "geom:longitude":21.73556,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9094",
+    "gn:asciiname":"Platones",
+    "gn:country_code":"GR",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":255649,
+    "gn:latitude":39.41167,
+    "gn:longitude":21.73556,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Plat\u00f3nes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Plat\u00f3nes"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03ce\u03bd\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Pazar\u00e1kion",
+        "Plat\u00e1nistos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255649
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"05799a5de63ff6287407e73dac925ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276581385,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1276581385,
+    "wof:lastmodified":1537624315,
+    "wof:name":"Platones",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73556,
+    39.41167,
+    21.73556,
+    39.41167
+],
+  "geometry": {"coordinates":[21.73556,39.41167],"type":"Point"}
+}

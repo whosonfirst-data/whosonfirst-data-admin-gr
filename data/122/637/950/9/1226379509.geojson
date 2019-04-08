@@ -1,0 +1,76 @@
+{
+  "id": 1226379509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66677,35.27828,25.66677,35.27828",
+    "geom:latitude":35.27828,
+    "geom:longitude":25.66677,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310.0",
+    "gn:asciiname":"Syrmeso",
+    "gn:country_code":"GR",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10792435,
+    "gn:latitude":35.27828,
+    "gn:longitude":25.66677,
+    "gn:modification_date":"2015-09-12",
+    "gn:name":"Syrmeso",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03cd\u03c1\u03bc\u03b5\u03c3\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Syrmeso"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792435
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"95859d60172948059731958e2fe23069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226379509,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226379509,
+    "wof:lastmodified":1537625089,
+    "wof:name":"Syrmeso",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66677,
+    35.27828,
+    25.66677,
+    35.27828
+],
+  "geometry": {"coordinates":[25.66677,35.27828],"type":"Point"}
+}

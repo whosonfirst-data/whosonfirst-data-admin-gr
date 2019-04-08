@@ -1,0 +1,77 @@
+{
+  "id": 1327268053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16003,39.21981,20.16003,39.21981",
+    "geom:latitude":39.21981,
+    "geom:longitude":20.16003,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9119",
+    "gn:asciiname":"Koutsi",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258945,
+    "gn:latitude":39.21981,
+    "gn:longitude":20.16003,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Ko\u00fatsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c3\u03c4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03cd\u03c3\u03c4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ko\u00fatsi",
+        "Ko\u00fatsion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258945
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"de7efb119c6132d1325136536936f28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327268053,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327268053,
+    "wof:lastmodified":1537624472,
+    "wof:name":"Koutsi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16003,
+    39.21981,
+    20.16003,
+    39.21981
+],
+  "geometry": {"coordinates":[20.16003,39.21981],"type":"Point"}
+}

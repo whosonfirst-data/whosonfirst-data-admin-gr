@@ -1,0 +1,86 @@
+{
+  "id": 1293524457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37345,41.07038,24.37345,41.07038",
+    "geom:latitude":41.07038,
+    "geom:longitude":24.37345,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9012",
+    "gn:asciiname":"Vounochori",
+    "gn:country_code":"GR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733869,
+    "gn:latitude":41.07038,
+    "gn:longitude":24.37345,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Vounoch\u00f3ri",
+    "gn:population":106,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c5\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Vounoch\u00f3ri",
+        "Vounoch\u00f3rion",
+        "\u0392\u03bf\u03c5\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Vounochori"
+    ],
+    "name:und_x_variant":[
+        "Muh\u00e1l",
+        "Vounokh\u00f3ri",
+        "Vounokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733869
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"447def1d9c0749e8b4e9e9c6e36c976b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293524457,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293524457,
+    "wof:lastmodified":1537624810,
+    "wof:name":"Vounochori",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37345,
+    41.07038,
+    24.37345,
+    41.07038
+],
+  "geometry": {"coordinates":[24.37345,41.07038],"type":"Point"}
+}

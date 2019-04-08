@@ -1,0 +1,76 @@
+{
+  "id": 101848211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.563867,36.758991,22.563867,36.758991",
+    "geom:latitude":36.758991,
+    "geom:longitude":22.563867,
+    "geonames:id":"251297,6695515",
+    "iso:country":"GR",
+    "lbl:latitude":36.758991,
+    "lbl:longitude":22.563867,
+    "mps:latitude":36.758991,
+    "mps:longitude":22.563867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
+    "qs:a1_alt":"PELOPONNHSOS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LAKVNIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0393\u03a5\u0398\u0395\u0399\u039f\u039d",
+    "qs:loc_alt":"GYUEION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":949999,
+        "qs:id":9
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"31e90739417c456aae9b2a72ea60c9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848211,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":101848211,
+    "wof:lastmodified":1544740312,
+    "wof:name":"\u0393\u03a5\u0398\u0395\u0399\u039f\u039d",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.563867,
+    36.758991,
+    22.563867,
+    36.758991
+],
+  "geometry": {"coordinates":[22.563867,36.758991],"type":"Point"}
+}

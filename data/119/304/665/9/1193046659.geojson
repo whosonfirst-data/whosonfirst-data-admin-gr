@@ -1,0 +1,79 @@
+{
+  "id": 1193046659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03043,38.14352,24.03043,38.14352",
+    "geom:latitude":38.14352,
+    "geom:longitude":24.03043,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220",
+    "gn:asciiname":"Schinias",
+    "gn:country_code":"GR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740256,
+    "gn:latitude":38.14352,
+    "gn:longitude":24.03043,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Schini\u00e1s",
+    "gn:population":264,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c7\u03b9\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c7\u03bf\u03b9\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Schinias"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740256
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c761eac7ebb2b83fdb48e3c6a36afe85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193046659,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1193046659,
+    "wof:lastmodified":1537625037,
+    "wof:name":"Schinias",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03043,
+    38.14352,
+    24.03043,
+    38.14352
+],
+  "geometry": {"coordinates":[24.03043,38.14352],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1209946017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92517,40.44844,20.92517,40.44844",
+    "geom:latitude":40.44844,
+    "geom:longitude":20.92517,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9064",
+    "gn:asciiname":"Giannochori",
+    "gn:country_code":"GR",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":733774,
+    "gn:latitude":40.44844,
+    "gn:longitude":20.92517,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Giannoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bd\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03b1\u03bd\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Giannochori"
+    ],
+    "name:und_x_variant":[
+        "Yiannokh\u00f3ri",
+        "Yiannova\u00edni",
+        "Yiannokh\u00f3rion",
+        "Ere\u00edpia Giannoch\u00f3rion",
+        "Giannoch\u00f3ri",
+        "Giannoch\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733774
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"46eeb8ed0f639d3e46a9945488c2db17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209946017,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1209946017,
+    "wof:lastmodified":1537624806,
+    "wof:name":"Giannochori",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92517,
+    40.44844000000001,
+    20.92517,
+    40.44844000000001
+],
+  "geometry": {"coordinates":[20.92517,40.44844000000001],"type":"Point"}
+}

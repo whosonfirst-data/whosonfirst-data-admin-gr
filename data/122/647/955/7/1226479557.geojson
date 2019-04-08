@@ -1,0 +1,67 @@
+{
+  "id": 1226479557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.23617,35.09263,26.23617,35.09263",
+    "geom:latitude":35.09263,
+    "geom:longitude":26.23617,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Xirokampias",
+    "gn:country_code":"GR",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8555927,
+    "gn:latitude":35.09263,
+    "gn:longitude":26.23617,
+    "gn:modification_date":"2013-06-11",
+    "gn:name":"Xirokampias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8555927
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5e4cc93d0d7cb8e98b1f3d492e4d1721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226479557,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226479557,
+    "wof:lastmodified":1537090067,
+    "wof:name":"Xirokampias",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.23617,
+    35.09263,
+    26.23617,
+    35.09263
+],
+  "geometry": {"coordinates":[26.23617,35.09263],"type":"Point"}
+}

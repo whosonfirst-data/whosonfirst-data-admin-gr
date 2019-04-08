@@ -1,0 +1,78 @@
+{
+  "id": 1327368369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71975,37.78978,21.71975,37.78978",
+    "geom:latitude":37.78978,
+    "geom:longitude":21.71975,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Foloi",
+    "gn:country_code":"GR",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262317,
+    "gn:latitude":37.78978,
+    "gn:longitude":21.71975,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Fol\u00f3i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fol\u00f3i"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bf\u03bb\u03cc\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Pol\u00f3\u00ef",
+        "Yi\u00e1rmena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262317,
+        "wk:page":"Foloi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"666864cf98d0215161245c98d0e6531c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368369,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327368369,
+    "wof:lastmodified":1537624627,
+    "wof:name":"Foloi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71975,
+    37.78978,
+    21.71975,
+    37.78978
+],
+  "geometry": {"coordinates":[21.71975,37.78978],"type":"Point"}
+}

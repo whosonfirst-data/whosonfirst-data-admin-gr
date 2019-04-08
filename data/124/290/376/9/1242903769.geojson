@@ -1,0 +1,79 @@
+{
+  "id": 1242903769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23347,37.18525,22.23347,37.18525",
+    "geom:latitude":37.18525,
+    "geom:longitude":22.23347,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Neochori",
+    "gn:country_code":"GR",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256538,
+    "gn:latitude":37.18525,
+    "gn:longitude":22.23347,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Neoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Neoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Neoch\u00f3rion",
+        "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Neokh\u00f3ri",
+        "Neokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256538
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"98e00d8d458634ed894fdf48dfac4010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242903769,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242903769,
+    "wof:lastmodified":1537624361,
+    "wof:name":"Neochori",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23347,
+    37.18525,
+    22.23347,
+    37.18525
+],
+  "geometry": {"coordinates":[22.23347,37.18525],"type":"Point"}
+}

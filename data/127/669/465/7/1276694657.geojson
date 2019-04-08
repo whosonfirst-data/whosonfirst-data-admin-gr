@@ -1,0 +1,84 @@
+{
+  "id": 1276694657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.47373,41.00595,23.47373,41.00595",
+    "geom:latitude":41.00595,
+    "geom:longitude":23.47373,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9054",
+    "gn:asciiname":"Kouvouklia",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735566,
+    "gn:latitude":41.00595,
+    "gn:longitude":23.47373,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Kouvo\u00faklia",
+    "gn:population":222,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a4\u03b6\u03b1\u03bc\u03af \u039c\u03b1\u03c7\u03b1\u03bb\u03ad"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03b2\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Kouvo\u00faklia",
+        "\u039a\u03bf\u03c5\u03b2\u03bf\u03cd\u03ba\u03bb\u03b9\u03bf\u03bd",
+        "\u03a4\u03b6\u03b1\u03bc\u03af \u039c\u03b1\u03c7\u03b1\u03bb\u03ad"
+    ],
+    "name:eng_x_preferred":[
+        "Kouvouklia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735566
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7353dfe1d2bf6a8083548883001ed4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276694657,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1276694657,
+    "wof:lastmodified":1537624912,
+    "wof:name":"Kouvouklia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47373,
+    41.00595,
+    23.47373,
+    41.00595
+],
+  "geometry": {"coordinates":[23.47373,41.00595],"type":"Point"}
+}

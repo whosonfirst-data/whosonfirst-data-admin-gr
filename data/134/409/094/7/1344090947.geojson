@@ -1,0 +1,76 @@
+{
+  "id": 1344090947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7609,35.4538,23.7609,35.4538",
+    "geom:latitude":35.4538,
+    "geom:longitude":23.7609,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Vasiliana",
+    "gn:country_code":"GR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427048,
+    "gn:latitude":35.4538,
+    "gn:longitude":23.7609,
+    "gn:modification_date":"2015-11-18",
+    "gn:name":"Vasilian\u00e1",
+    "gn:population":21,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vasilian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427048
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e7f14331e156275ba1883f8079f5fe01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344090947,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1344090947,
+    "wof:lastmodified":1537625006,
+    "wof:name":"Vasiliana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7609,
+    35.4538,
+    23.7609,
+    35.4538
+],
+  "geometry": {"coordinates":[23.7609,35.4538],"type":"Point"}
+}

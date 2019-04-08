@@ -1,0 +1,97 @@
+{
+  "id": 1360120691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58783,40.79536,21.58783,40.79536",
+    "geom:latitude":40.79536,
+    "geom:longitude":21.58783,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Lofoi",
+    "gn:country_code":"GR",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735377,
+    "gn:latitude":40.79536,
+    "gn:longitude":21.58783,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"L\u00f3foi",
+    "gn:population":355,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0396\u03b1\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7",
+        "\u0396\u03b1\u03bc\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03c6\u03bf\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7",
+        "\u0396\u03b1\u03bc\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7"
+    ],
+    "name:eng_x_historical":[
+        "Zapyrdani",
+        "Zampyrdani"
+    ],
+    "name:eng_x_preferred":[
+        "Lofoi"
+    ],
+    "name:eng_x_variant":[
+        "L\u00f3foi",
+        "Zapyrdani",
+        "Zampyrdani"
+    ],
+    "name:und_x_variant":[
+        "Zab\u00edrdani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735377,
+        "wk:page":"Lofoi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b1a0e293f9810983d30a63935551ed4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360120691,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1360120691,
+    "wof:lastmodified":1537624898,
+    "wof:name":"Lofoi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":355,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58783,
+    40.79536,
+    21.58783,
+    40.79536
+],
+  "geometry": {"coordinates":[21.58783,40.79536],"type":"Point"}
+}

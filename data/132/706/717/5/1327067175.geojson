@@ -1,0 +1,74 @@
+{
+  "id": 1327067175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.77896,37.05804,22.77896,37.05804",
+    "geom:latitude":37.05804,
+    "geom:longitude":22.77896,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9240",
+    "gn:asciiname":"Tzamalaiika",
+    "gn:country_code":"GR",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":252393,
+    "gn:latitude":37.05804,
+    "gn:longitude":22.77896,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Tzamala\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03bc\u03b1\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Tsamal\u00e9\u00efka",
+        "Tzamala\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252393
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"af1a21764b03c06f91fa69c625d6ad13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327067175,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327067175,
+    "wof:lastmodified":1537624181,
+    "wof:name":"Tzamalaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.77896,
+    37.05804000000001,
+    22.77896,
+    37.05804000000001
+],
+  "geometry": {"coordinates":[22.77896,37.05804000000001],"type":"Point"}
+}

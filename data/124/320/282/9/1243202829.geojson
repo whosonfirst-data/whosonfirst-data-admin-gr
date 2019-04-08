@@ -1,0 +1,77 @@
+{
+  "id": 1243202829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86922,38.14886,21.86922,38.14886",
+    "geom:latitude":38.14886,
+    "geom:longitude":21.86922,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134",
+    "gn:asciiname":"Pigi",
+    "gn:country_code":"GR",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251174,
+    "gn:latitude":38.14886,
+    "gn:longitude":21.86922,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Pig\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pig\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b7\u03b3\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Tsimb\u00e1ta",
+        "Zoumb\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251174
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a873554a949703c0eeb3012b4682a43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243202829,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243202829,
+    "wof:lastmodified":1537624129,
+    "wof:name":"Pigi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86922,
+    38.14886,
+    21.86922,
+    38.14886
+],
+  "geometry": {"coordinates":[21.86922,38.14886],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1210047259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23327,37.14317,22.23327,37.14317",
+    "geom:latitude":37.14317,
+    "geom:longitude":22.23327,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Nedousa",
+    "gn:country_code":"GR",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256564,
+    "gn:latitude":37.14317,
+    "gn:longitude":22.23327,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"N\u00e9dousa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "N\u00e9dousa"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b4\u03bf\u03c5\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Anast\u00e1sova Meg\u00e1li",
+        "\u00c1sova",
+        "N\u00e9dhousa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256564
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7278a2e74d59decbcf3787df7a1925bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210047259,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1210047259,
+    "wof:lastmodified":1537624362,
+    "wof:name":"Nedousa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23327,
+    37.14317,
+    22.23327,
+    37.14317
+],
+  "geometry": {"coordinates":[22.23327,37.14317],"type":"Point"}
+}

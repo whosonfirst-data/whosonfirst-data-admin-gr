@@ -1,0 +1,69 @@
+{
+  "id": 1209448691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3365,38.99771,26.3365,38.99771",
+    "geom:latitude":38.99771,
+    "geom:longitude":26.3365,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Kournela",
+    "gn:country_code":"GR",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9034645,
+    "gn:latitude":38.99771,
+    "gn:longitude":26.3365,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"Kourn\u00e9la",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03bd\u03ad\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9034645
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8578926238045b3390448c058d3b05f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209448691
+        }
+    ],
+    "wof:id":1209448691,
+    "wof:lastmodified":1537551152,
+    "wof:name":"Kournela",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3365,
+    38.99771,
+    26.3365,
+    38.99771
+],
+  "geometry": {"coordinates":[26.3365,38.99771],"type":"Point"}
+}

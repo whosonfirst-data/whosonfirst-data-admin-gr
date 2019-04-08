@@ -1,0 +1,117 @@
+{
+  "id": 1125878385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.858184,38.001516,23.858184,38.001516",
+    "geom:latitude":38.001516,
+    "geom:longitude":23.858184,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":38.001516,
+    "lbl:longitude":23.858184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u063a\u0644\u064a\u0643\u0627 \u0646\u064a\u0631\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Glyka Nera"
+    ],
+    "name:eng_x_preferred":[
+        "Glyka Nera"
+    ],
+    "name:fin_x_preferred":[
+        "Glyk\u00e1 Ner\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Glyka Nera"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03bb\u03c5\u03ba\u03ac \u039d\u03b5\u03c1\u03ac \u03a0\u03b1\u03b9\u03b1\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Glyka Nera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ea\u30ab\u30fb\u30cd\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Glyk\u00e1 Ner\u00e1"
+    ],
+    "name:rum_x_preferred":[
+        "Glyka Nera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0456\u043a\u0430-\u041d\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0644\u06cc\u06a9\u0627 \u0646\u06cc\u0631\u0627"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Glyka Nera",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1197738,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":55869301,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55869301,
+        "qs_pg:id":1197738,
+        "wd:id":"Q2532088"
+    },
+    "wof:country":"GR",
+    "wof:created":1497294662,
+    "wof:geomhash":"f31eb3811b6031deeaf2b75abe98b185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125878385,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1125878385,
+    "wof:lastmodified":1514443957,
+    "wof:name":"Glyka Nera",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.858184,
+    38.001516,
+    23.858184,
+    38.001516
+],
+  "geometry": {"coordinates":[23.858184,38.001516],"type":"Point"}
+}

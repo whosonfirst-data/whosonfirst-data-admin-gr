@@ -1,0 +1,86 @@
+{
+  "id": 1242714923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61418,38.5037,21.61418,38.5037",
+    "geom:latitude":38.5037,
+    "geom:longitude":21.61418,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Kapsorrachi",
+    "gn:country_code":"GR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261078,
+    "gn:latitude":38.5037,
+    "gn:longitude":21.61418,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Kapsorr\u00e1chi",
+    "gn:population":287,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c8\u03bf\u03c1\u03ac\u03c7\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c8\u03bf\u03c1\u03c1\u03ac\u03c7\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Kapsorachi"
+    ],
+    "name:eng_x_variant":[
+        "Kapsorrachi"
+    ],
+    "name:und_x_variant":[
+        "Metapa",
+        "Kapsoraxi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261078
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5015e9683f46bcd8b01bd98f859c3d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242714923,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1242714923,
+    "wof:lastmodified":1537624573,
+    "wof:name":"Kapsorrachi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61418,
+    38.5037,
+    21.61418,
+    38.5037
+],
+  "geometry": {"coordinates":[21.61418,38.5037],"type":"Point"}
+}

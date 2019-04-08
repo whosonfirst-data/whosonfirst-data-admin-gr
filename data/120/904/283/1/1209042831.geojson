@@ -1,0 +1,63 @@
+{
+  "id": 1209042831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44716,40.07536,23.44716,40.07536",
+    "geom:latitude":40.07536,
+    "geom:longitude":23.44716,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Kalithea",
+    "gn:country_code":"GR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227695,
+    "gn:latitude":40.07536,
+    "gn:longitude":23.44716,
+    "gn:modification_date":"2015-04-17",
+    "gn:name":"Kalithea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227695
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9323f1229e621d16cf8ba7cd8e9698ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209042831
+        }
+    ],
+    "wof:id":1209042831,
+    "wof:lastmodified":1536299490,
+    "wof:name":"Kalithea",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44716,
+    40.07536,
+    23.44716,
+    40.07536
+],
+  "geometry": {"coordinates":[23.44716,40.07536],"type":"Point"}
+}

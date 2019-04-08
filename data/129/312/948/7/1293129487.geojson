@@ -1,0 +1,73 @@
+{
+  "id": 1293129487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38511,38.25183,20.38511,38.25183",
+    "geom:latitude":38.25183,
+    "geom:longitude":20.38511,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Vilatoria",
+    "gn:country_code":"GR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251961,
+    "gn:latitude":38.25183,
+    "gn:longitude":20.38511,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Vilat\u00f3ria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vilat\u00f3ria"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b9\u03bb\u03b1\u03c4\u03ce\u03c1\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251961
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"52507c636668e2c2ab321f74bab642a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293129487,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293129487,
+    "wof:lastmodified":1537624163,
+    "wof:name":"Vilatoria",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38511,
+    38.25183,
+    20.38511,
+    38.25183
+],
+  "geometry": {"coordinates":[20.38511,38.25183],"type":"Point"}
+}

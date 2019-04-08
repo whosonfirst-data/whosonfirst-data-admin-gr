@@ -1,0 +1,84 @@
+{
+  "id": 1327270899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71166,38.03106,22.71166,38.03106",
+    "geom:latitude":38.03106,
+    "geom:longitude":22.71166,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Dhiminio",
+    "gn:country_code":"GR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263084,
+    "gn:latitude":38.03106,
+    "gn:longitude":22.71166,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Dhimini\u00f3",
+    "gn:population":457,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03bc\u03b7\u03bd\u03b9\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03bc\u03b7\u03bd\u03b9\u03cc\u03bd",
+        "\u0386\u03bd\u03c9 \u0394\u03b9\u03bc\u03b7\u03bd\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Diminio"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Dhimini\u00f3",
+        "Dhimini\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263084
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e8e24362e6ac18f4865643f8b232c563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327270899,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327270899,
+    "wof:lastmodified":1537624666,
+    "wof:name":"Dhiminio",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":457,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71166,
+    38.03106,
+    22.71166,
+    38.03106
+],
+  "geometry": {"coordinates":[22.71166,38.03106],"type":"Point"}
+}

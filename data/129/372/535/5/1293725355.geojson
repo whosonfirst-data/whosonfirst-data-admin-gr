@@ -1,0 +1,73 @@
+{
+  "id": 1293725355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4273,38.0562,23.4273,38.0562",
+    "geom:latitude":38.0562,
+    "geom:longitude":23.4273,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230.0",
+    "gn:asciiname":"Agios Meletios",
+    "gn:country_code":"GR",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035340,
+    "gn:latitude":38.0562,
+    "gn:longitude":23.4273,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Mel\u00e9tios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Mel\u00e9tios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b5\u03bb\u03ad\u03c4\u03b9\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035340
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6bc8ce9c6b8aab73ca35b1e9d607edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293725355,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293725355,
+    "wof:lastmodified":1537625104,
+    "wof:name":"Agios Meletios",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4273,
+    38.0562,
+    23.4273,
+    38.0562
+],
+  "geometry": {"coordinates":[23.4273,38.0562],"type":"Point"}
+}

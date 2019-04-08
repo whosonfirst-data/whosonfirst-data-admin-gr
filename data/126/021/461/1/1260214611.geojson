@@ -1,0 +1,76 @@
+{
+  "id": 1260214611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61919,39.60261,20.61919,39.60261",
+    "geom:latitude":39.60261,
+    "geom:longitude":20.61919,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9083",
+    "gn:asciiname":"Laliza",
+    "gn:country_code":"GR",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10175083,
+    "gn:latitude":39.60261,
+    "gn:longitude":20.61919,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"L\u00e1liza",
+    "gn:population":49,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03bb\u03b9\u03b6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Laliza"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175083
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"69611eddbcbc66ba32638777b1810592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260214611,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1260214611,
+    "wof:lastmodified":1537625081,
+    "wof:name":"Laliza",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61919,
+    39.60261,
+    20.61919,
+    39.60261
+],
+  "geometry": {"coordinates":[20.61919,39.60261],"type":"Point"}
+}

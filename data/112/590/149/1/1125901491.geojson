@@ -1,0 +1,125 @@
+{
+  "id": 1125901491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96667,41.28333,24.96667,41.28333",
+    "geom:latitude":41.28333,
+    "geom:longitude":24.96667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2162,
+    "gn:population":2162,
+    "iso:country":"GR",
+    "lbl:latitude":41.28333,
+    "lbl:longitude":24.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0625\u062e\u064a\u0646\u0648\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0445\u0438\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Echinos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c7\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Ech\u00ednos"
+    ],
+    "name:eng_x_preferred":[
+        "Echinos"
+    ],
+    "name:ger_x_preferred":[
+        "Echinos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03c7\u03af\u03bd\u03bf\u03c2 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Ekh\u00ednos"
+    ],
+    "name:swe_x_preferred":[
+        "Ech\u00ednos"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eahin"
+    ],
+    "name:unk_x_variant":[
+        "Ekh\u00ednos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736354,
+    "qs_pg:gn_pop":2162,
+    "qs_pg:name":"Ekhinos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028788,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":948968,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736354,
+        "gp:id":948968,
+        "qs_pg:id":1028788,
+        "wd:id":"Q269251"
+    },
+    "wof:country":"GR",
+    "wof:created":1497295827,
+    "wof:geomhash":"4572c803e093dc2f9bcaeaa9f207754d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125901491,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1125901491,
+    "wof:lastmodified":1514443943,
+    "wof:name":"Ekhinos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":2162,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96667,
+    41.28333,
+    24.96667,
+    41.28333
+],
+  "geometry": {"coordinates":[24.96667,41.28333],"type":"Point"}
+}

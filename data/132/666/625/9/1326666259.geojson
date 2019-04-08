@@ -1,0 +1,79 @@
+{
+  "id": 1326666259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67057,35.32381,25.67057,35.32381",
+    "geom:latitude":35.32381,
+    "geom:longitude":25.67057,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Patsopoulos",
+    "gn:country_code":"GR",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605592,
+    "gn:latitude":35.32381,
+    "gn:longitude":25.67057,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Pats\u00f3poulos",
+    "gn:population":15,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c4\u03c3\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Patsopoulos"
+    ],
+    "name:und_x_variant":[
+        "Pats\u00f3poulos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605592
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dd24a78225aaa3243b3213e7aca0af9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326666259,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1326666259,
+    "wof:lastmodified":1537625026,
+    "wof:name":"Patsopoulos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67057,
+    35.32380999999999,
+    25.67057,
+    35.32380999999999
+],
+  "geometry": {"coordinates":[25.67057,35.32380999999999],"type":"Point"}
+}

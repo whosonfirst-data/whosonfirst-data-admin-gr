@@ -1,0 +1,82 @@
+{
+  "id": 1125836047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29056,39.36028,21.29056,39.36028",
+    "geom:latitude":39.36028,
+    "geom:longitude":21.29056,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":90,
+    "gn:population":90,
+    "iso:country":"GR",
+    "lbl:latitude":39.36028,
+    "lbl:longitude":21.29056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03c5\u03ac"
+    ],
+    "name:unk_x_variant":[
+        "Greven\u00edta"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":261867,
+    "qs_pg:gn_pop":90,
+    "qs_pg:name":"Kary\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546792,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261867,
+        "qs_pg:id":546792
+    },
+    "wof:country":"GR",
+    "wof:created":1497292721,
+    "wof:geomhash":"9ab4ffc3132c342d3ff3c58e5825b50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125836047,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125836047,
+    "wof:lastmodified":1509394984,
+    "wof:name":"Kary\u00e1",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29056,
+    39.36028,
+    21.29056,
+    39.36028
+],
+  "geometry": {"coordinates":[21.29056,39.36028],"type":"Point"}
+}

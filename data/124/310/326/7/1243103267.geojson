@@ -1,0 +1,73 @@
+{
+  "id": 1243103267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01685,35.14241,25.01685,35.14241",
+    "geom:latitude":35.14241,
+    "geom:longitude":25.01685,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9304",
+    "gn:asciiname":"Peirouniana",
+    "gn:country_code":"GR",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560781,
+    "gn:latitude":35.14241,
+    "gn:longitude":25.01685,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Peirounian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Peirounian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03b9\u03c1\u03bf\u03c5\u03bd\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560781
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b9385a27270040589628267a53395e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243103267,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243103267,
+    "wof:lastmodified":1537625022,
+    "wof:name":"Peirouniana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01685,
+    35.14241,
+    25.01685,
+    35.14241
+],
+  "geometry": {"coordinates":[25.01685,35.14241],"type":"Point"}
+}

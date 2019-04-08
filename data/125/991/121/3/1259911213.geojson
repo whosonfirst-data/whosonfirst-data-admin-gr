@@ -1,0 +1,80 @@
+{
+  "id": 1259911213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85794,38.907,21.85794,38.907",
+    "geom:latitude":38.907,
+    "geom:longitude":21.85794,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Lefka",
+    "gn:country_code":"GR",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165843,
+    "gn:latitude":38.907,
+    "gn:longitude":21.85794,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"L\u00e9fka",
+    "gn:population":23,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03cd\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lefka"
+    ],
+    "name:und_x_variant":[
+        "Levka",
+        "Leuka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165843
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"25e345d9790e9d2d6767eeebf276ac72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259911213,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1259911213,
+    "wof:lastmodified":1537625047,
+    "wof:name":"Lefka",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85794,
+    38.907,
+    21.85794,
+    38.907
+],
+  "geometry": {"coordinates":[21.85794,38.907],"type":"Point"}
+}

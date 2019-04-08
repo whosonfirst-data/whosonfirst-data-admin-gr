@@ -1,0 +1,71 @@
+{
+  "id": 1243101457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93304,39.24275,23.93304,39.24275",
+    "geom:latitude":39.24275,
+    "geom:longitude":23.93304,
+    "gn:admin1_code":"ESYE14",
+    "gn:asciiname":"Diaselo",
+    "gn:country_code":"GR",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498145,
+    "gn:latitude":39.24275,
+    "gn:longitude":23.93304,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Di\u00e1selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Di\u00e1selo"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03ac\u03c3\u03b5\u03bb\u03bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498145
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fbe92aea5ed596d624e770a84b1a4c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243101457,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243101457,
+    "wof:lastmodified":1537625118,
+    "wof:name":"Diaselo",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93304,
+    39.24275,
+    23.93304,
+    39.24275
+],
+  "geometry": {"coordinates":[23.93304,39.24275],"type":"Point"}
+}

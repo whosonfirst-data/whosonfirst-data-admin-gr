@@ -1,0 +1,73 @@
+{
+  "id": 1226176757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81117,35.47277,23.81117,35.47277",
+    "geom:latitude":35.47277,
+    "geom:longitude":23.81117,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Petres",
+    "gn:country_code":"GR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427141,
+    "gn:latitude":35.47277,
+    "gn:longitude":23.81117,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Petr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Petr\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c4\u03c1\u03ad\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427141
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0c87985443e7387e9e04d2c2f6bd0246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226176757,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226176757,
+    "wof:lastmodified":1537625006,
+    "wof:name":"Petres",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81117,
+    35.47277000000001,
+    23.81117,
+    35.47277000000001
+],
+  "geometry": {"coordinates":[23.81117,35.47277000000001],"type":"Point"}
+}

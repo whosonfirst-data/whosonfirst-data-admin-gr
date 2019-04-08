@@ -1,0 +1,81 @@
+{
+  "id": 1327470499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98879,38.31085,21.98879,38.31085",
+    "geom:latitude":38.31085,
+    "geom:longitude":21.98879,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Lambirion",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258634,
+    "gn:latitude":38.31085,
+    "gn:longitude":21.98879,
+    "gn:modification_date":"2017-12-18",
+    "gn:name":"Lamb\u00edrion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039b\u03b1\u03bc\u03c0\u03af\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bc\u03c0\u03af\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03bc\u03c0\u03af\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Erine\u00f3s",
+        "Lamb\u00edri",
+        "Lamb\u00edrion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258634
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1a2e39832fb49cf9be5f09df473dfba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327470499,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327470499,
+    "wof:lastmodified":1537624458,
+    "wof:name":"Lambirion",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98879,
+    38.31085,
+    21.98879,
+    38.31085
+],
+  "geometry": {"coordinates":[21.98879,38.31085],"type":"Point"}
+}

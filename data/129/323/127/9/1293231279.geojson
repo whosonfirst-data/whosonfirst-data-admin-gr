@@ -1,0 +1,76 @@
+{
+  "id": 1293231279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68367,38.45164,20.68367,38.45164",
+    "geom:latitude":38.45164,
+    "geom:longitude":20.68367,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9117",
+    "gn:asciiname":"Rachi",
+    "gn:country_code":"GR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254405,
+    "gn:latitude":38.45164,
+    "gn:longitude":20.68367,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"R\u00e1chi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "R\u00e1chi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03ac\u03c7\u03b7"
+    ],
+    "name:und_x_variant":[
+        "R\u00e1khi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254405
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f994b4a7dc982f819c64607d3e87b088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293231279,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293231279,
+    "wof:lastmodified":1537624267,
+    "wof:name":"Rachi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68367000000001,
+    38.45164000000001,
+    20.68367000000001,
+    38.45164000000001
+],
+  "geometry": {"coordinates":[20.68367000000001,38.45164000000001],"type":"Point"}
+}

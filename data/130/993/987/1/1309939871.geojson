@@ -1,0 +1,72 @@
+{
+  "id": 1309939871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02059,35.13486,25.02059,35.13486",
+    "geom:latitude":35.13486,
+    "geom:longitude":25.02059,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9304",
+    "gn:asciiname":"Megali Vrisi",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257419,
+    "gn:latitude":35.13486,
+    "gn:longitude":25.02059,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Meg\u00e1li Vr\u00edsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meg\u00e1li Vr\u00edsis",
+        "Meg\u00e1li Vr\u00edsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257419
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3d12ed848ea362bba1a316a01141b6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309939871,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1309939871,
+    "wof:lastmodified":1537624404,
+    "wof:name":"Megali Vrisi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02059,
+    35.13486,
+    25.02059,
+    35.13486
+],
+  "geometry": {"coordinates":[25.02059,35.13486],"type":"Point"}
+}

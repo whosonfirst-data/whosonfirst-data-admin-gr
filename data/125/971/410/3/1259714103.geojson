@@ -1,0 +1,77 @@
+{
+  "id": 1259714103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72532,37.96892,23.72532,37.96892",
+    "geom:latitude":37.96892,
+    "geom:longitude":23.72532,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445408.0",
+    "gn:admin3_code":"9186",
+    "gn:asciiname":"Akropoli",
+    "gn:country_code":"GR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9036071,
+    "gn:latitude":37.96892,
+    "gn:longitude":23.72532,
+    "gn:modification_date":"2014-05-26",
+    "gn:name":"Akr\u00f3poli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c1\u03cc\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Acropolis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0440\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036071,
+        "wk:page":"Acropolis,_Athens"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4f6d4831ea161af2cb98f692af260628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259714103,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1259714103,
+    "wof:lastmodified":1537625039,
+    "wof:name":"Akropoli",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72532,
+    37.96892,
+    23.72532,
+    37.96892
+],
+  "geometry": {"coordinates":[23.72532,37.96892],"type":"Point"}
+}

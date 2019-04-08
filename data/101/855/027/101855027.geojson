@@ -1,0 +1,135 @@
+{
+  "id": 101855027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.229065,39.880108,22.229065,39.880108",
+    "geom:latitude":39.880108,
+    "geom:longitude":22.229065,
+    "gn:population":2514,
+    "iso:country":"GR",
+    "lbl:latitude":39.880108,
+    "lbl:longitude":22.229065,
+    "mps:latitude":39.880108,
+    "mps:longitude":22.229065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0627\u0631\u064a\u062a\u0633\u0627\u0646\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0446\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Tsaritsani"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c1\u03b9\u03c4\u03c3\u03ac\u03bd\u03b7 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b1\u03c1\u03af\u03c4\u03c3\u03b1\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Tsaritsani"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c1\u03b9\u03c4\u03c3\u03ac\u03bd\u03b7 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Tsaritsani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30a1\u30ea\u30c4\u30a1\u30cb"
+    ],
+    "name:mac_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:nno_x_preferred":[
+        "Tsarits\u00e1ni"
+    ],
+    "name:ron_x_preferred":[
+        "Tsaritsani"
+    ],
+    "name:rum_x_preferred":[
+        "Tsaritsani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0446\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tsar\u00edtsani"
+    ],
+    "name:unk_x_variant":[
+        "Tsar\u00edtsani"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LARISA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u03a3\u0391\u03a1\u0399\u03a4\u03a3\u0391\u039d\u0397",
+    "qs:loc_alt":"TSARITSANH",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.882,
+    "wd:longitude":22.228,
+    "wd:wordcount":495,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252523,
+        "gp:id":963754,
+        "qs:id":349041,
+        "qs_pg:id":349041,
+        "wd:id":"Q2638361",
+        "wk:page":"Tsaritsani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"af63e409cfd71684920a25bf774a95fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855027,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101855027,
+    "wof:lastmodified":1544742791,
+    "wof:name":"\u03a4\u03a3\u0391\u03a1\u0399\u03a4\u03a3\u0391\u039d\u0397",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":2514,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.229065,
+    39.880108,
+    22.229065,
+    39.880108
+],
+  "geometry": {"coordinates":[22.229065,39.880108],"type":"Point"}
+}

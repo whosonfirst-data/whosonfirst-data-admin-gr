@@ -1,0 +1,138 @@
+{
+  "id": 101849117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.077837,39.098949,23.077837,39.098949",
+    "geom:latitude":39.098949,
+    "geom:longitude":23.077837,
+    "gn:population":1182,
+    "iso:country":"GR",
+    "lbl:latitude":39.098949,
+    "lbl:longitude":23.077837,
+    "mps:latitude":39.098949,
+    "mps:longitude":23.077837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u0643\u064a\u0631\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u054f\u0580\u056b\u056f\u0565\u0580\u056b"
+    ],
+    "name:dut_x_preferred":[
+        "Trikeri"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03af\u03ba\u03b5\u03c1\u03b9 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03af\u03ba\u03b5\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Trikeri"
+    ],
+    "name:fra_x_preferred":[
+        "Tr\u00edkeri"
+    ],
+    "name:fre_x_preferred":[
+        "Tr\u00edkeri"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c1\u03af\u03ba\u03b5\u03c1\u03b9 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u056b\u056f\u0565\u0580\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Trikeri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ea\u30b1\u30ea"
+    ],
+    "name:nno_x_preferred":[
+        "Tr\u00edkeri i Magnis\u00eda"
+    ],
+    "name:ron_x_preferred":[
+        "Trikeri"
+    ],
+    "name:rum_x_preferred":[
+        "Trikeri"
+    ],
+    "name:swe_x_preferred":[
+        "Tr\u00edkeri"
+    ],
+    "name:unk_x_variant":[
+        "Tr\u00edkerion"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"MAGNHSIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u03a1\u0399\u039a\u0395\u03a1\u039f\u039d",
+    "qs:loc_alt":"TRIKERON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.100278,
+    "wd:longitude":23.076944,
+    "wd:wordcount":243,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252655,
+        "gp:id":963591,
+        "qs:id":1052532,
+        "qs_pg:id":1052532,
+        "wd:id":"Q2637021",
+        "wk:page":"Trikeri"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d4e04ef8fd7c28fa9df836d6f9114ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849117,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849117,
+    "wof:lastmodified":1544740788,
+    "wof:name":"\u03a4\u03a1\u0399\u039a\u0395\u03a1\u039f\u039d",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1182,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.077837,
+    39.098949,
+    23.077837,
+    39.098949
+],
+  "geometry": {"coordinates":[23.077837,39.098949],"type":"Point"}
+}

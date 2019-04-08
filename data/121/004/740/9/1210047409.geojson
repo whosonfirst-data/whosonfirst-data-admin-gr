@@ -1,0 +1,72 @@
+{
+  "id": 1210047409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39861,39.43778,20.39861,39.43778",
+    "geom:latitude":39.43778,
+    "geom:longitude":20.39861,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"18.0",
+    "gn:admin3_code":"9078",
+    "gn:asciiname":"Agios Panteleimonas",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251946,
+    "gn:latitude":39.43778,
+    "gn:longitude":20.39861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c1gios Pantele\u00edmonas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Virv\u00edtsa",
+        "\u00c1gios Pantele\u00edmonas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251946
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1bdf2f5d5b8c32b8772c2abd6976eb72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210047409,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1210047409,
+    "wof:lastmodified":1537624162,
+    "wof:name":"Agios Panteleimonas",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39861,
+    39.43778,
+    20.39861,
+    39.43778
+],
+  "geometry": {"coordinates":[20.39861,39.43778],"type":"Point"}
+}

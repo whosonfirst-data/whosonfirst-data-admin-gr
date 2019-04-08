@@ -1,0 +1,69 @@
+{
+  "id": 1209142265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71155,35.29096,23.71155,35.29096",
+    "geom:latitude":35.29096,
+    "geom:longitude":23.71155,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Kompiana",
+    "gn:country_code":"GR",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522585,
+    "gn:latitude":35.29096,
+    "gn:longitude":23.71155,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kompian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kompian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bc\u03c0\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522585
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"62e67e176d7acc6244aa99ff6b1bb09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209142265
+        }
+    ],
+    "wof:id":1209142265,
+    "wof:lastmodified":1537625014,
+    "wof:name":"Kompiana",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71155,
+    35.29096,
+    23.71155,
+    35.29096
+],
+  "geometry": {"coordinates":[23.71155,35.29096],"type":"Point"}
+}

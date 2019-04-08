@@ -1,0 +1,107 @@
+{
+  "id": 1125841505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,41.4,26.41667,41.4",
+    "geom:latitude":41.4,
+    "geom:longitude":26.41667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":663,
+    "gn:population":663,
+    "iso:country":"GR",
+    "lbl:latitude":41.4,
+    "lbl:longitude":26.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u0648\u062a\u064a\u060c \u0625\u0641\u0631\u0648\u0633"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03c9\u03c4\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Karoti"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03c1\u03c9\u03c4\u03ae \u0388\u03b2\u03c1\u03bf\u03c5"
+    ],
+    "name:swe_x_preferred":[
+        "Karot\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Karot\u00ed"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735955,
+    "qs_pg:gn_pop":663,
+    "qs_pg:name":"Karoti",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":771611,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":951765,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735955,
+        "gp:id":951765,
+        "qs_pg:id":771611,
+        "wd:id":"Q6373268"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292955,
+    "wof:geomhash":"d7f6acd13d4333a2b1db39432ee002ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125841505,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1125841505,
+    "wof:lastmodified":1514443970,
+    "wof:name":"Karoti",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":663,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    41.4,
+    26.41667,
+    41.4
+],
+  "geometry": {"coordinates":[26.41667,41.4],"type":"Point"}
+}

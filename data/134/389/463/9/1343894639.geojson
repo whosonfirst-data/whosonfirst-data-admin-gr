@@ -1,0 +1,77 @@
+{
+  "id": 1343894639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53142,41.14352,25.53142,41.14352",
+    "geom:latitude":41.14352,
+    "geom:longitude":25.53142,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Gratini",
+    "gn:country_code":"GR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736156,
+    "gn:latitude":41.14352,
+    "gn:longitude":25.53142,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Gratin\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0440\u0438\u0434\u0436\u0430\u043d \u0445\u0438\u0441\u0430\u0440"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03c4\u03b9\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Gratin\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736156,
+        "wk:page":"Gratini"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8e5d3a184f4bfb89bd3b3f4f95acdb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343894639,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343894639,
+    "wof:lastmodified":1537624943,
+    "wof:name":"Gratini",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53142,
+    41.14352,
+    25.53142,
+    41.14352
+],
+  "geometry": {"coordinates":[25.53142,41.14352],"type":"Point"}
+}

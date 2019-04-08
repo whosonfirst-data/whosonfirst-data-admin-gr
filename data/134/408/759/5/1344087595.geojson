@@ -1,0 +1,76 @@
+{
+  "id": 1344087595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7247,38.80691,22.7247,38.80691",
+    "geom:latitude":38.80691,
+    "geom:longitude":22.7247,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9163",
+    "gn:asciiname":"Thronion",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":252884,
+    "gn:latitude":38.80691,
+    "gn:longitude":22.7247,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Thr\u00f3nion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0398\u03c1\u03cc\u03bd\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03c1\u03cc\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Thronio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252884
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b947e9c9bdd7ebb77290f02eab731dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087595,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1344087595,
+    "wof:lastmodified":1537624198,
+    "wof:name":"Thronion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7247,
+    38.80691,
+    22.7247,
+    38.80691
+],
+  "geometry": {"coordinates":[22.7247,38.80691],"type":"Point"}
+}

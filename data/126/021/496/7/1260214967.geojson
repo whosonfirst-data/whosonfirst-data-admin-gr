@@ -1,0 +1,75 @@
+{
+  "id": 1260214967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.74448,40.85473,25.74448,40.85473",
+    "geom:latitude":40.85473,
+    "geom:longitude":25.74448,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Makri",
+    "gn:country_code":"GR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735354,
+    "gn:latitude":40.85473,
+    "gn:longitude":25.74448,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"M\u00e1kri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03ba\u03c1\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Mahr\u0113",
+        "M\u00e1kri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735354,
+        "wk:page":"Makri%2C_Evros"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c803958cbb26ad16eca1db782782242c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260214967,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260214967,
+    "wof:lastmodified":1537624897,
+    "wof:name":"Makri",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.74448,
+    40.85473,
+    25.74448,
+    40.85473
+],
+  "geometry": {"coordinates":[25.74448,40.85473],"type":"Point"}
+}

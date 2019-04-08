@@ -1,0 +1,73 @@
+{
+  "id": 1260114745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08826,37.92194,23.08826,37.92194",
+    "geom:latitude":37.92194,
+    "geom:longitude":23.08826,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9244.0",
+    "gn:asciiname":"Ano Sousaki",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078861,
+    "gn:latitude":37.92194,
+    "gn:longitude":23.08826,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1no Sous\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Sous\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u03a3\u03bf\u03c5\u03c3\u03ac\u03ba\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078861
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"10ed2d753301da4817d42f4a857e7667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260114745,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260114745,
+    "wof:lastmodified":1537625110,
+    "wof:name":"Ano Sousaki",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08826,
+    37.92194,
+    23.08826,
+    37.92194
+],
+  "geometry": {"coordinates":[23.08826,37.92194],"type":"Point"}
+}

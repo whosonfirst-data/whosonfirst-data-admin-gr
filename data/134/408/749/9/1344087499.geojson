@@ -1,0 +1,77 @@
+{
+  "id": 1344087499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65389,38.66799,20.65389,38.66799",
+    "geom:latitude":38.66799,
+    "geom:longitude":20.65389,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Vournikas",
+    "gn:country_code":"GR",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251726,
+    "gn:latitude":38.66799,
+    "gn:longitude":20.65389,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Vournik\u00e1s",
+    "gn:population":154,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c5\u03c1\u03bd\u03b9\u03ba\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Vournik\u00e1",
+        "Vournik\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251726
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d6e2df29580a41a36f462158b12ce1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087499,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1344087499,
+    "wof:lastmodified":1537624153,
+    "wof:name":"Vournikas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65389,
+    38.66799,
+    20.65389,
+    38.66799
+],
+  "geometry": {"coordinates":[20.65389,38.66799],"type":"Point"}
+}

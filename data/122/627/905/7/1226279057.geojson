@@ -1,0 +1,74 @@
+{
+  "id": 1226279057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.72139,39.68722,19.72139,39.68722",
+    "geom:latitude":39.68722,
+    "geom:longitude":19.72139,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Vitoulades",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463547,
+    "gn:latitude":39.68722,
+    "gn:longitude":19.72139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vitoul\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vitoul\u00e1dhes",
+        "Vital\u00e1dhes",
+        "Vital\u00e1des",
+        "Vitoul\u00e1des"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463547
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a524c407c8a389b6ccdf0d7d666af0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226279057,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226279057,
+    "wof:lastmodified":1537624991,
+    "wof:name":"Vitoulades",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.72139,
+    39.68722,
+    19.72139,
+    39.68722
+],
+  "geometry": {"coordinates":[19.72139,39.68722],"type":"Point"}
+}

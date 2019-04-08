@@ -1,0 +1,77 @@
+{
+  "id": 1326866323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95686,39.48814,22.95686,39.48814",
+    "geom:latitude":39.48814,
+    "geom:longitude":22.95686,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9108",
+    "gn:asciiname":"Ano Kerasia",
+    "gn:country_code":"GR",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":264906,
+    "gn:latitude":39.48814,
+    "gn:longitude":22.95686,
+    "gn:modification_date":"2015-04-30",
+    "gn:name":"\u00c1no Kerasi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u039a\u03b5\u03c1\u03b1\u03c3\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Kerasia"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Kerasi\u00e1",
+        "\u00c1no Keras\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264906
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6920a2cb598eea9fe73314fcf7aa0f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326866323,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326866323,
+    "wof:lastmodified":1537624749,
+    "wof:name":"Ano Kerasia",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95686,
+    39.48814,
+    22.95686,
+    39.48814
+],
+  "geometry": {"coordinates":[22.95686,39.48814],"type":"Point"}
+}

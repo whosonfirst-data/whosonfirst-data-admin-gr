@@ -1,0 +1,67 @@
+{
+  "id": 1242711931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30398,39.14314,23.30398,39.14314",
+    "geom:latitude":39.14314,
+    "geom:longitude":23.30398,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Kastri",
+    "gn:country_code":"GR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714307,
+    "gn:latitude":39.14314,
+    "gn:longitude":23.30398,
+    "gn:modification_date":"2014-02-20",
+    "gn:name":"Kastri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714307
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"36f75313d338a294e7b38e87d22a427c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242711931,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242711931,
+    "wof:lastmodified":1536869160,
+    "wof:name":"Kastri",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30398,
+    39.14314,
+    23.30398,
+    39.14314
+],
+  "geometry": {"coordinates":[23.30398,39.14314],"type":"Point"}
+}

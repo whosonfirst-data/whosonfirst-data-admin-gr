@@ -1,0 +1,115 @@
+{
+  "id": 101857601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.382812,41.014492,24.382812,41.014492",
+    "geom:latitude":41.014492,
+    "geom:longitude":24.382812,
+    "gn:population":1485,
+    "iso:country":"GR",
+    "lbl:latitude":41.014492,
+    "lbl:longitude":24.382812,
+    "mps:latitude":41.014492,
+    "mps:longitude":24.382812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0438\u0433\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Zygos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03c5\u03b3\u03cc\u03c2 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03c5\u03b3\u03cc\u03c2",
+        "Zyg\u00f3s"
+    ],
+    "name:eng_x_preferred":[
+        "Zygos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0396\u03c5\u03b3\u03cc\u03c2 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
+    ],
+    "name:sco_x_preferred":[
+        "Zygos"
+    ],
+    "name:swe_x_preferred":[
+        "Zyg\u00f3s"
+    ],
+    "name:unk_x_variant":[
+        "Zig\u00f3s"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
+    "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KABALA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0396\u03a5\u0393\u039f\u03a3",
+    "qs:loc_alt":"ZYGOS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":41.0167,
+    "wd:longitude":24.3833,
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251212,
+        "gp:id":965700,
+        "qs:id":424128,
+        "qs_pg:id":79720,
+        "wd:id":"Q8075892",
+        "wk:page":"Zygos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"97eaaa8d26f4acb7d36cb6afa582bc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857601,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":101857601,
+    "wof:lastmodified":1544743980,
+    "wof:name":"\u0396\u03a5\u0393\u039f\u03a3",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":1485,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.382812,
+    41.014492,
+    24.382812,
+    41.014492
+],
+  "geometry": {"coordinates":[24.382812,41.014492],"type":"Point"}
+}

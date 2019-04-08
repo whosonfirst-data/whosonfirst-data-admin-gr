@@ -1,0 +1,76 @@
+{
+  "id": 1243300033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12981,40.30824,21.12981,40.30824",
+    "geom:latitude":40.30824,
+    "geom:longitude":21.12981,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Zoni",
+    "gn:country_code":"GR",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733744,
+    "gn:latitude":40.30824,
+    "gn:longitude":21.12981,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Z\u00f3ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03ce\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Yerakokh\u00f3ri",
+        "Z\u00e1ntsikon",
+        "Z\u00f3ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733744,
+        "wk:page":"Zoni%2C_Kozani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"93e98eda151a8ad6ddca2e8b1a4c61f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243300033,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1243300033,
+    "wof:lastmodified":1537624805,
+    "wof:name":"Zoni",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12981,
+    40.30824000000001,
+    21.12981,
+    40.30824000000001
+],
+  "geometry": {"coordinates":[21.12981,40.30824000000001],"type":"Point"}
+}

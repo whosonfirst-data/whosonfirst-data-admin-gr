@@ -1,0 +1,74 @@
+{
+  "id": 1343397389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94525,38.71167,20.94525,38.71167",
+    "geom:latitude":38.71167,
+    "geom:longitude":20.94525,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9129",
+    "gn:asciiname":"Kravaraiika",
+    "gn:country_code":"GR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258857,
+    "gn:latitude":38.71167,
+    "gn:longitude":20.94525,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kravara\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03b2\u03b1\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kravar\u00e9\u00efka",
+        "Kravara\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258857
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d32bfad07a7950d2a996377647d9f618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343397389,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343397389,
+    "wof:lastmodified":1537624469,
+    "wof:name":"Kravaraiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94525,
+    38.71167,
+    20.94525,
+    38.71167
+],
+  "geometry": {"coordinates":[20.94525,38.71167],"type":"Point"}
+}

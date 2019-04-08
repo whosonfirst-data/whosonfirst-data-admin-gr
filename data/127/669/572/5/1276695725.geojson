@@ -1,0 +1,79 @@
+{
+  "id": 1276695725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55644,38.13861,20.55644,38.13861",
+    "geom:latitude":38.13861,
+    "geom:longitude":20.55644,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Kastro",
+    "gn:country_code":"GR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260732,
+    "gn:latitude":38.13861,
+    "gn:longitude":20.55644,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"K\u00e1stro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1stro"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf",
+        "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yios Yeoryios",
+        "Kastro tou \u00c1yiou Yeoryiou",
+        "K\u00e1stron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260732
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ac2fe362114d527a4abd061bb0289d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276695725,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1276695725,
+    "wof:lastmodified":1537624557,
+    "wof:name":"Kastro",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55644,
+    38.13861,
+    20.55644,
+    38.13861
+],
+  "geometry": {"coordinates":[20.55644,38.13861],"type":"Point"}
+}

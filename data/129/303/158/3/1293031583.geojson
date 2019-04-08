@@ -1,0 +1,84 @@
+{
+  "id": 1293031583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81346,40.04353,23.81346,40.04353",
+    "geom:latitude":40.04353,
+    "geom:longitude":23.81346,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9060",
+    "gn:asciiname":"Agia Kyriaki",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735155,
+    "gn:latitude":40.04353,
+    "gn:longitude":23.81346,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Ag\u00eda Kyriak\u00ed",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "Ag\u00eda Kyriak\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Kyriaki"
+    ],
+    "name:und_x_variant":[
+        "Simen\u00edtiko",
+        "Met\u00f3khion Simen\u00edtiko",
+        "Met\u00f3khion Ay\u00edas Kiriak\u00eds"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735155
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cd33c9e41ce2806bcfe5320f9239a459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293031583,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293031583,
+    "wof:lastmodified":1537624884,
+    "wof:name":"Agia Kyriaki",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81346,
+    40.04353,
+    23.81346,
+    40.04353
+],
+  "geometry": {"coordinates":[23.81346,40.04353],"type":"Point"}
+}

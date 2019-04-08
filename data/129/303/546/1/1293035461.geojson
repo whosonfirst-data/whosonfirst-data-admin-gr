@@ -1,0 +1,77 @@
+{
+  "id": 1293035461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74642,38.09683,20.74642,38.09683",
+    "geom:latitude":38.09683,
+    "geom:longitude":20.74642,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Ano Valtes",
+    "gn:country_code":"GR",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264827,
+    "gn:latitude":38.09683,
+    "gn:longitude":20.74642,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c1no V\u00e1ltes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no V\u00e1ltes"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u0392\u03ac\u03bb\u03c4\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "V\u00e1lta",
+        "\u00c1no V\u00e1ltai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264827
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a914a34229ccdf8ee4f34a3822759fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293035461,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293035461,
+    "wof:lastmodified":1537624743,
+    "wof:name":"Ano Valtes",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74642,
+    38.09683,
+    20.74642,
+    38.09683
+],
+  "geometry": {"coordinates":[20.74642,38.09683],"type":"Point"}
+}

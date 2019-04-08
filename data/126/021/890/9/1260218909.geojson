@@ -1,0 +1,74 @@
+{
+  "id": 1260218909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76325,35.02536,24.76325,35.02536",
+    "geom:latitude":35.02536,
+    "geom:longitude":24.76325,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308.0",
+    "gn:asciiname":"Neo Kalamaki",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942437,
+    "gn:latitude":35.02536,
+    "gn:longitude":24.76325,
+    "gn:modification_date":"2015-11-25",
+    "gn:name":"N\u00e9o Kalam\u00e1ki",
+    "gn:population":27,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf \u039a\u03b1\u03bb\u03b1\u03bc\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Neo Kalamaki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942437
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5b9d25d3e6076db5d0c721643c2882a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1260218909,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260218909,
+    "wof:lastmodified":1537625094,
+    "wof:name":"Neo Kalamaki",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76325,
+    35.02536,
+    24.76325,
+    35.02536
+],
+  "geometry": {"coordinates":[24.76325,35.02536],"type":"Point"}
+}

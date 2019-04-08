@@ -1,0 +1,75 @@
+{
+  "id": 1209141667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47949,36.48362,22.47949,36.48362",
+    "geom:latitude":36.48362,
+    "geom:longitude":22.47949,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Lagia",
+    "gn:country_code":"GR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258541,
+    "gn:latitude":36.48362,
+    "gn:longitude":22.47949,
+    "gn:modification_date":"2015-05-04",
+    "gn:name":"L\u00e1gia",
+    "gn:population":55,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b3\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lagia"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1yia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258541
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e09a2a5c5e45c0867e6c36eb0ce8c5ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209141667
+        }
+    ],
+    "wof:id":1209141667,
+    "wof:lastmodified":1537624454,
+    "wof:name":"Lagia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47949,
+    36.48362,
+    22.47949,
+    36.48362
+],
+  "geometry": {"coordinates":[22.47949,36.48362],"type":"Point"}
+}

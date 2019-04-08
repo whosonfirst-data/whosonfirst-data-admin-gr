@@ -1,0 +1,73 @@
+{
+  "id": 1310439381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31081,37.94169,21.31081,37.94169",
+    "geom:latitude":37.94169,
+    "geom:longitude":21.31081,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9135",
+    "gn:asciiname":"Katsapaiika",
+    "gn:country_code":"GR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260433,
+    "gn:latitude":37.94169,
+    "gn:longitude":21.31081,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Katsapa\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Katsapa\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c4\u03c3\u03b1\u03c0\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260433
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5d828c3c8bff9676011681e61619f3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310439381,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310439381,
+    "wof:lastmodified":1537624539,
+    "wof:name":"Katsapaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31081,
+    37.94169,
+    21.31081,
+    37.94169
+],
+  "geometry": {"coordinates":[21.31081,37.94169],"type":"Point"}
+}

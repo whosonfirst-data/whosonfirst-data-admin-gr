@@ -1,0 +1,76 @@
+{
+  "id": 1276157905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87516,36.82832,25.87516,36.82832",
+    "geom:latitude":36.82832,
+    "geom:longitude":25.87516,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9291",
+    "gn:asciiname":"Christoulaki",
+    "gn:country_code":"GR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9253869,
+    "gn:latitude":36.82832,
+    "gn:longitude":25.87516,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"Christoul\u00e1ki",
+    "gn:population":19,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5\u03bb\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Christoulaki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253869
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1254061b8c51d5654178e3e80642140b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276157905,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1276157905,
+    "wof:lastmodified":1537625055,
+    "wof:name":"Christoulaki",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87516,
+    36.82832,
+    25.87516,
+    36.82832
+],
+  "geometry": {"coordinates":[25.87516,36.82832],"type":"Point"}
+}

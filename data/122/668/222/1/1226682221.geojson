@@ -1,0 +1,67 @@
+{
+  "id": 1226682221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70053,35.40493,24.70053,35.40493",
+    "geom:latitude":35.40493,
+    "geom:longitude":24.70053,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Roumeli",
+    "gn:country_code":"GR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254202,
+    "gn:latitude":35.40493,
+    "gn:longitude":24.70053,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Roumel\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254202
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"45214e43af66222c8a976f2e2520e956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682221,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226682221,
+    "wof:lastmodified":1536806700,
+    "wof:name":"Roumeli",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70053,
+    35.40493,
+    24.70053,
+    35.40493
+],
+  "geometry": {"coordinates":[24.70053,35.40493],"type":"Point"}
+}

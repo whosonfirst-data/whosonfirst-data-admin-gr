@@ -1,0 +1,73 @@
+{
+  "id": 1360121039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89499,41.01699,24.89499,41.01699",
+    "geom:latitude":41.01699,
+    "geom:longitude":24.89499,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9018",
+    "gn:asciiname":"Melissa",
+    "gn:country_code":"GR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735233,
+    "gn:latitude":41.01699,
+    "gn:longitude":24.89499,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"M\u00e9lissa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00e9lissa"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ad\u03bb\u03b9\u03c3\u03c3\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735233
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"28dacd0ad9afd2208b17ed428b665485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360121039,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1360121039,
+    "wof:lastmodified":1537624889,
+    "wof:name":"Melissa",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89499,
+    41.01699,
+    24.89499,
+    41.01699
+],
+  "geometry": {"coordinates":[24.89499,41.01699],"type":"Point"}
+}

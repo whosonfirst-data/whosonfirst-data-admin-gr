@@ -1,0 +1,67 @@
+{
+  "id": 1259817855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47026,36.42004,25.47026,36.42004",
+    "geom:latitude":36.42004,
+    "geom:longitude":25.47026,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9270",
+    "gn:asciiname":"Exo Gialos",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8030037,
+    "gn:latitude":36.42004,
+    "gn:longitude":25.47026,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Exo Gialos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030037
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a583659be410b337d1737b01094e7872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259817855,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1259817855,
+    "wof:lastmodified":1536872806,
+    "wof:name":"Exo Gialos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47026,
+    36.42004,
+    25.47026,
+    36.42004
+],
+  "geometry": {"coordinates":[25.47026,36.42004],"type":"Point"}
+}

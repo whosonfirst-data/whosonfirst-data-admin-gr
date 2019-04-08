@@ -1,0 +1,79 @@
+{
+  "id": 1209945459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83785,37.82697,20.83785,37.82697",
+    "geom:latitude":37.82697,
+    "geom:longitude":20.83785,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Neromylos",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166416,
+    "gn:latitude":37.82697,
+    "gn:longitude":20.83785,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Ner\u00f3mylos",
+    "gn:population":61,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03c1\u03cc\u03bc\u03c5\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Neromylos"
+    ],
+    "name:und_x_variant":[
+        "Neromilos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166416
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"59994764581a4d5673199ed1267e2a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209945459,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1209945459,
+    "wof:lastmodified":1537625052,
+    "wof:name":"Neromylos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83785,
+    37.82697,
+    20.83785,
+    37.82697
+],
+  "geometry": {"coordinates":[20.83785,37.82697],"type":"Point"}
+}

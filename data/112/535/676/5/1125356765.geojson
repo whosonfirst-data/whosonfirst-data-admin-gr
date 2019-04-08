@@ -1,0 +1,79 @@
+{
+  "id": 1125356765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5477,39.8423,22.5477,39.8423",
+    "geom:latitude":39.8423,
+    "geom:longitude":22.5477,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15439,
+    "gn:population":15439,
+    "iso:country":"GR",
+    "lbl:latitude":39.8423,
+    "lbl:longitude":22.5477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bc\u03c0\u03ce\u03bd"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133789,
+    "qs_pg:gn_pop":15439,
+    "qs_pg:name":"Dimos Tempi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":758707,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133789,
+        "qs_pg:id":758707
+    },
+    "wof:country":"GR",
+    "wof:created":1497046520,
+    "wof:geomhash":"13bff28f26fdac26534085cbe9ce8e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125356765,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125356765,
+    "wof:lastmodified":1509388967,
+    "wof:name":"Dimos Tempi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"localadmin",
+    "wof:population":15439,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5477,
+    39.8423,
+    22.5477,
+    39.8423
+],
+  "geometry": {"coordinates":[22.5477,39.8423],"type":"Point"}
+}

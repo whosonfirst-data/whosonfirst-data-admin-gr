@@ -1,0 +1,67 @@
+{
+  "id": 1293819731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22139,37.03968,22.22139,37.03968",
+    "geom:latitude":37.03968,
+    "geom:longitude":22.22139,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Arakhova",
+    "gn:country_code":"GR",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264717,
+    "gn:latitude":37.03968,
+    "gn:longitude":22.22139,
+    "gn:modification_date":"2015-01-16",
+    "gn:name":"Ar\u00e1khova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264717
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"67770a42cd81eaec13ff9440aa42833e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293819731,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293819731,
+    "wof:lastmodified":1536805005,
+    "wof:name":"Arakhova",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22139,
+    37.03968,
+    22.22139,
+    37.03968
+],
+  "geometry": {"coordinates":[22.22139,37.03968],"type":"Point"}
+}

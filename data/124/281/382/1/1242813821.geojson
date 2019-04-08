@@ -1,0 +1,79 @@
+{
+  "id": 1242813821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41537,40.00572,23.41537,40.00572",
+    "geom:latitude":40.00572,
+    "geom:longitude":23.41537,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Fourka",
+    "gn:country_code":"GR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262278,
+    "gn:latitude":40.00572,
+    "gn:longitude":23.41537,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"Fo\u00farka",
+    "gn:population":543,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03cd\u03c1\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Fo\u00farka"
+    ],
+    "name:eng_x_preferred":[
+        "Fourka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262278
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"34d7f9c9f23f661f8dbc17f7bede8ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242813821,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1242813821,
+    "wof:lastmodified":1537624625,
+    "wof:name":"Fourka",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":543,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41537000000001,
+    40.00572,
+    23.41537000000001,
+    40.00572
+],
+  "geometry": {"coordinates":[23.41537000000001,40.00572],"type":"Point"}
+}

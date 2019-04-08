@@ -1,0 +1,81 @@
+{
+  "id": 1277013337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99636,39.38239,22.99636,39.38239",
+    "geom:latitude":39.38239,
+    "geom:longitude":22.99636,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9105",
+    "gn:asciiname":"Katichori",
+    "gn:country_code":"GR",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260562,
+    "gn:latitude":39.38239,
+    "gn:longitude":22.99636,
+    "gn:modification_date":"2017-09-11",
+    "gn:name":"Katich\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03b7\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c4\u03b7\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd",
+        "\u039a\u03b1\u03c4\u03c9\u03c7\u03ce\u03c1\u03b9",
+        "\u039a\u03b1\u03c4\u03c9\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Katik\u00f3ri",
+        "Katokh\u00f3rion",
+        "Katich\u00f3ri",
+        "Katich\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260562
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e48140f86b0ed2cfb98c8ad2c22cfacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277013337,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1277013337,
+    "wof:lastmodified":1537624547,
+    "wof:name":"Katichori",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99636,
+    39.38239,
+    22.99636,
+    39.38239
+],
+  "geometry": {"coordinates":[22.99636,39.38239],"type":"Point"}
+}

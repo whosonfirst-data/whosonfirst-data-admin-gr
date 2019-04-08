@@ -1,0 +1,93 @@
+{
+  "id": 1293725323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04779,41.21298,23.04779,41.21298",
+    "geom:latitude":41.21298,
+    "geom:longitude":23.04779,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9055",
+    "gn:asciiname":"Stavrodromi",
+    "gn:country_code":"GR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734161,
+    "gn:latitude":41.21298,
+    "gn:longitude":23.04779,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Stavrodr\u00f3mi",
+    "gn:population":151,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2",
+        "\u03a3\u03c4\u03b1\u03c1\u03cc\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Stavrodr\u00f3mi",
+        "Stavrodr\u00f3mion",
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf\u03bd",
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2",
+        "\u03a3\u03c4\u03b1\u03c1\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stavrodromi"
+    ],
+    "name:und_x_variant":[
+        "Stavrodh\u00f3mi",
+        "Stavrodhr\u00f3mi",
+        "Star\u00f3s",
+        "Stavrodhr\u00f3mion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734161
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2674a57068c70fd08667d8de930a3e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293725323,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1293725323,
+    "wof:lastmodified":1537624826,
+    "wof:name":"Stavrodromi",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04779,
+    41.21298,
+    23.04779,
+    41.21298
+],
+  "geometry": {"coordinates":[23.04779,41.21298],"type":"Point"}
+}

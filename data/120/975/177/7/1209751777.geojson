@@ -1,0 +1,77 @@
+{
+  "id": 1209751777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12708,41.13952,24.12708,41.13952",
+    "geom:latitude":41.13952,
+    "geom:longitude":24.12708,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9002",
+    "gn:asciiname":"Arkadikos",
+    "gn:country_code":"GR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736748,
+    "gn:latitude":41.13952,
+    "gn:longitude":24.12708,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Arkadik\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Arkadik\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03ba\u03b1\u03b4\u03b9\u03ba\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Sad\u00edk-Chifl\u00edk",
+        "Arkadhik\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736748
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"354b6d4d5c7c5c30440cb5f3ef1efe12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209751777,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1209751777,
+    "wof:lastmodified":1537624973,
+    "wof:name":"Arkadikos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12708,
+    41.13952000000001,
+    24.12708,
+    41.13952000000001
+],
+  "geometry": {"coordinates":[24.12708,41.13952000000001],"type":"Point"}
+}

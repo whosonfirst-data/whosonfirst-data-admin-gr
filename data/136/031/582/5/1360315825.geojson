@@ -1,0 +1,63 @@
+{
+  "id": 1360315825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17593,35.50592,24.17593,35.50592",
+    "geom:latitude":35.50592,
+    "geom:longitude":24.17593,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Marathi",
+    "gn:country_code":"GR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224295,
+    "gn:latitude":35.50592,
+    "gn:longitude":24.17593,
+    "gn:modification_date":"2012-03-15",
+    "gn:name":"Marathi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224295
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3d4f804542cf2e95f457dcdc9bb9ea1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360315825,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360315825,
+    "wof:lastmodified":1536610232,
+    "wof:name":"Marathi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17593,
+    35.50592,
+    24.17593,
+    35.50592
+],
+  "geometry": {"coordinates":[24.17593,35.50592],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243103581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86996,35.07012,24.86996,35.07012",
+    "geom:latitude":35.07012,
+    "geom:longitude":24.86996,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308",
+    "gn:asciiname":"Monokhoron",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256774,
+    "gn:latitude":35.07012,
+    "gn:longitude":24.86996,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Mon\u00f3khoron",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mon\u00f3khoro",
+        "Mon\u00f3khoron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256774
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"50e21cc1144a9f7404a9f218b7cc46ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243103581,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243103581,
+    "wof:lastmodified":1537624370,
+    "wof:name":"Monokhoron",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86996,
+    35.07012,
+    24.86996,
+    35.07012
+],
+  "geometry": {"coordinates":[24.86996,35.07012],"type":"Point"}
+}

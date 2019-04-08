@@ -1,0 +1,97 @@
+{
+  "id": 1125890925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53917,39.91417,20.53917,39.91417",
+    "geom:latitude":39.91417,
+    "geom:longitude":20.53917,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":154,
+    "gn:population":99,
+    "iso:country":"GR",
+    "lbl:latitude":39.91417,
+    "lbl:longitude":20.53917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Limni"
+    ],
+    "name:unk_x_variant":[
+        "L\u00edmni"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258304,
+    "qs_pg:gn_pop":154,
+    "qs_pg:name":"Limni",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":916904,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":955455,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258304,
+        "gp:id":955455,
+        "qs_pg:id":916904
+    },
+    "wof:country":"GR",
+    "wof:created":1497295313,
+    "wof:geomhash":"105afb1d35e391d207e6c1faa2d09f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125890925,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125890925,
+    "wof:lastmodified":1509398795,
+    "wof:name":"Limni",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53917,
+    39.91417,
+    20.53917,
+    39.91417
+],
+  "geometry": {"coordinates":[20.53917,39.91417],"type":"Point"}
+}

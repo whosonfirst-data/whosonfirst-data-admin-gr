@@ -1,0 +1,73 @@
+{
+  "id": 1360321575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88319,36.64905,22.88319,36.64905",
+    "geom:latitude":36.64905,
+    "geom:longitude":22.88319,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9251.0",
+    "gn:asciiname":"Paralia",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497087,
+    "gn:latitude":36.64905,
+    "gn:longitude":22.88319,
+    "gn:modification_date":"2017-03-30",
+    "gn:name":"Paralia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Paralia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497087
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e9ccf2e554a74ed72438de53a23da4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360321575,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1360321575,
+    "wof:lastmodified":1537625117,
+    "wof:name":"Paralia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88319,
+    36.64905,
+    22.88319,
+    36.64905
+],
+  "geometry": {"coordinates":[22.88319,36.64905],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225875451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6977,38.33598,23.6977,38.33598",
+    "geom:latitude":38.33598,
+    "geom:longitude":23.6977,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9227.0",
+    "gn:asciiname":"Pantena",
+    "gn:country_code":"GR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10971161,
+    "gn:latitude":38.33598,
+    "gn:longitude":23.6977,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pant\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pant\u00e9na"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03c4\u03ad\u03bd\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10971161
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"23dd9d66f1bfab08e18ef8ddef4cb9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875451,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1225875451,
+    "wof:lastmodified":1537625094,
+    "wof:name":"Pantena",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6977,
+    38.33598,
+    23.6977,
+    38.33598
+],
+  "geometry": {"coordinates":[23.6977,38.33598],"type":"Point"}
+}

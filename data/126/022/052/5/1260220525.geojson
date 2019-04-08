@@ -1,0 +1,73 @@
+{
+  "id": 1260220525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28413,39.94038,25.28413,39.94038",
+    "geom:latitude":39.94038,
+    "geom:longitude":25.28413,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Kotsinas",
+    "gn:country_code":"GR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254754,
+    "gn:latitude":39.94038,
+    "gn:longitude":25.28413,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Kots\u00ednas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kots\u00ednas"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c4\u03c3\u03af\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Porni\u00e1",
+        "Pourni\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254754
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d708c67453aaf5051045b7b796a87534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1260220525,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260220525,
+    "wof:lastmodified":1537624278,
+    "wof:name":"Kotsinas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28413,
+    39.94038,
+    25.28413,
+    39.94038
+],
+  "geometry": {"coordinates":[25.28413,39.94038],"type":"Point"}
+}

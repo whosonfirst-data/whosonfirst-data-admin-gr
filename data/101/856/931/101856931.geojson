@@ -1,0 +1,126 @@
+{
+  "id": 101856931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.964144,41.060367,24.964144,41.060367",
+    "geom:latitude":41.060367,
+    "geom:longitude":24.964144,
+    "gn:population":1935,
+    "iso:country":"GR",
+    "lbl:latitude":41.060367,
+    "lbl:longitude":24.964144,
+    "mps:latitude":41.060367,
+    "mps:longitude":24.964144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u064a\u064a\u0646\u064a\u0633\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0419\u0435\u043d\u0438\u0434\u0436\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Genisea"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03bd\u03b9\u03c3\u03ad\u03b1 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03bd\u03b9\u03c3\u03ad\u03b1",
+        "Geniss\u00e9a",
+        "\u0393\u03b5\u03bd\u03b9\u03c3\u03c3\u03ad\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Genisea"
+    ],
+    "name:fin_x_preferred":[
+        "Genis\u00e9a"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03b5\u03bd\u03b9\u03c3\u03ad\u03b1 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Jenis\u00e9a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0438\u0441\u0435\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Geniss\u00e9a"
+    ],
+    "name:unk_x_variant":[
+        "Yenisa\u00eda"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
+    "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"JANUH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0393\u0395\u039d\u0399\u03a3\u0395\u0391",
+    "qs:loc_alt":"GENISEA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":41.066667,
+    "wd:longitude":24.966667,
+    "wd:population":2185,
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733798,
+        "gp:id":965311,
+        "qs:id":129010,
+        "qs_pg:id":129010,
+        "wd:id":"Q3659157",
+        "wk:page":"Genisea"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b8310b1ba6de48cbf8fee0cb9ee14a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101856931,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":101856931,
+    "wof:lastmodified":1544743635,
+    "wof:name":"\u0393\u0395\u039d\u0399\u03a3\u0395\u0391",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":2185,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.964144,
+    41.060367,
+    24.964144,
+    41.060367
+],
+  "geometry": {"coordinates":[24.964144,41.060367],"type":"Point"}
+}

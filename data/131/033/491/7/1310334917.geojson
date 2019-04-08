@@ -1,0 +1,80 @@
+{
+  "id": 1310334917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39728,38.07244,21.39728,38.07244",
+    "geom:latitude":38.07244,
+    "geom:longitude":21.39728,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Neo Vouprasio",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251746,
+    "gn:latitude":38.07244,
+    "gn:longitude":21.39728,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"N\u00e9o Voupr\u00e1sio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "N\u00e9o Voupr\u00e1sio"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03bf \u0392\u03bf\u03c5\u03c0\u03c1\u03ac\u03c3\u03b9\u03bf",
+        "N\u00e9on Voupr\u00e1sion",
+        "\u039d\u03ad\u03bf\u03bd \u0392\u03bf\u03c5\u03c0\u03c1\u03ac\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Al\u00ed-Chelep\u00ed",
+        "Al\u00ed Tsel\u00e9pi",
+        "Voupr\u00e1sion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251746
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9c71cc875052f3816a50e27792432ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310334917,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310334917,
+    "wof:lastmodified":1537624154,
+    "wof:name":"Neo Vouprasio",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39728,
+    38.07244,
+    21.39728,
+    38.07244
+],
+  "geometry": {"coordinates":[21.39728,38.07244],"type":"Point"}
+}

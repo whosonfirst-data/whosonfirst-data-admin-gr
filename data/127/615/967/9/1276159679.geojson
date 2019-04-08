@@ -1,0 +1,78 @@
+{
+  "id": 1276159679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04372,39.28782,22.04372,39.28782",
+    "geom:latitude":39.28782,
+    "geom:longitude":22.04372,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9096",
+    "gn:asciiname":"Ampelos",
+    "gn:country_code":"GR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265202,
+    "gn:latitude":39.28782,
+    "gn:longitude":22.04372,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c1mpelos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1mpelos"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bc\u03c0\u03b5\u03bb\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kazn\u00e9sion",
+        "Kasn\u00e9si",
+        "\u00c1mbelos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265202
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"59884c0fbb141b7723001b4e5bd9775b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276159679,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1276159679,
+    "wof:lastmodified":1537624765,
+    "wof:name":"Ampelos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04372,
+    39.28782,
+    22.04372,
+    39.28782
+],
+  "geometry": {"coordinates":[22.04372,39.28782],"type":"Point"}
+}

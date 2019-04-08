@@ -1,0 +1,79 @@
+{
+  "id": 1126043153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18528,39.25,21.18528,39.25",
+    "geom:latitude":39.25,
+    "geom:longitude":21.18528,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":172,
+    "gn:population":172,
+    "iso:country":"GR",
+    "lbl:latitude":39.25,
+    "lbl:longitude":21.18528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kalend\u00edni"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":264928,
+    "qs_pg:gn_pop":172,
+    "qs_pg:name":"\u00c1no Kalent\u00edni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546941,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264928,
+        "qs_pg:id":546941
+    },
+    "wof:country":"GR",
+    "wof:created":1497302275,
+    "wof:geomhash":"2c9b061a31582d6785b4d2637dfceca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126043153,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126043153,
+    "wof:lastmodified":1509408677,
+    "wof:name":"\u00c1no Kalent\u00edni",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":172,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18528,
+    39.25,
+    21.18528,
+    39.25
+],
+  "geometry": {"coordinates":[21.18528,39.25],"type":"Point"}
+}

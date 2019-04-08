@@ -1,0 +1,73 @@
+{
+  "id": 1293723987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85769,38.02798,23.85769,38.02798",
+    "geom:latitude":38.02798,
+    "geom:longitude":23.85769,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9223.0",
+    "gn:asciiname":"Gargittos",
+    "gn:country_code":"GR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020449,
+    "gn:latitude":38.02798,
+    "gn:longitude":23.85769,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gargitt\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Gargitt\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b1\u03c1\u03b3\u03b7\u03c4\u03c4\u03cc\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020449
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c195b70988155653af21f50ccbf600d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293723987,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293723987,
+    "wof:lastmodified":1537625103,
+    "wof:name":"Gargittos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85769,
+    38.02798,
+    23.85769,
+    38.02798
+],
+  "geometry": {"coordinates":[23.85769,38.02798],"type":"Point"}
+}

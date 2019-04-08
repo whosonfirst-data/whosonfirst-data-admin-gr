@@ -1,0 +1,71 @@
+{
+  "id": 1326563737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50452,38.48894,23.50452,38.48894",
+    "geom:latitude":38.48894,
+    "geom:longitude":23.50452,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9155",
+    "gn:asciiname":"Ktyponision",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10240117,
+    "gn:latitude":38.48894,
+    "gn:longitude":23.50452,
+    "gn:modification_date":"2015-04-29",
+    "gn:name":"Ktypon\u00edsion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039a\u03c4\u03c5\u03c0\u03bf\u03bd\u03ae\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Ktyponisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10240117
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"143a62d46ee0a3eea55bb0fb63727987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1326563737,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326563737,
+    "wof:lastmodified":1537625085,
+    "wof:name":"Ktyponision",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50452,
+    38.48894,
+    23.50452,
+    38.48894
+],
+  "geometry": {"coordinates":[23.50452,38.48894],"type":"Point"}
+}

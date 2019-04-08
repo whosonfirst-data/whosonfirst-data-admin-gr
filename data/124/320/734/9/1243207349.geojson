@@ -1,0 +1,73 @@
+{
+  "id": 1243207349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28019,39.07381,21.28019,39.07381",
+    "geom:latitude":39.07381,
+    "geom:longitude":21.28019,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Tarla",
+    "gn:country_code":"GR",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253036,
+    "gn:latitude":39.07381,
+    "gn:longitude":21.28019,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"T\u00e1rla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "T\u00e1rla"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03ac\u03c1\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253036
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"369ab2459eb9a041a52dc554fb100e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243207349,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243207349,
+    "wof:lastmodified":1537624203,
+    "wof:name":"Tarla",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28019,
+    39.07381,
+    21.28019,
+    39.07381
+],
+  "geometry": {"coordinates":[21.28019,39.07381],"type":"Point"}
+}

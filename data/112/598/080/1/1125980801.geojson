@@ -1,0 +1,95 @@
+{
+  "id": 1125980801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21111,40.79333,22.21111,40.79333",
+    "geom:latitude":40.79333,
+    "geom:longitude":22.21111,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":152,
+    "gn:population":152,
+    "iso:country":"GR",
+    "lbl:latitude":40.79333,
+    "lbl:longitude":22.21111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03b4\u03ac\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd\u03b4\u03ac\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Sandh\u00e1lion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734356,
+    "qs_pg:gn_pop":152,
+    "qs_pg:name":"Sandhalion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":423729,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":961494,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734356,
+        "gp:id":961494,
+        "qs_pg:id":423729
+    },
+    "wof:country":"GR",
+    "wof:created":1497298547,
+    "wof:geomhash":"c54a04e1fe8b173a1b5cc9a0b68a0726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125980801,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125980801,
+    "wof:lastmodified":1509404755,
+    "wof:name":"Sandhalion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21111,
+    40.79333,
+    22.21111,
+    40.79333
+],
+  "geometry": {"coordinates":[22.21111,40.79333],"type":"Point"}
+}

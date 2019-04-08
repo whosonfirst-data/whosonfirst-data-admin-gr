@@ -1,0 +1,113 @@
+{
+  "id": 101849671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.928208,37.896721,22.928208,37.896721",
+    "geom:latitude":37.896721,
+    "geom:longitude":22.928208,
+    "gn:population":1810,
+    "iso:country":"GR",
+    "lbl:latitude":37.896721,
+    "lbl:longitude":22.928208,
+    "mps:latitude":37.896721,
+    "mps:longitude":22.928208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u0643\u0633\u0627\u0645\u064a\u0644\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Examilia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03be\u03b1\u03bc\u03af\u03bb\u03b9\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03be\u03b1\u03bc\u03af\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Examilia"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03be\u03b1\u03bc\u03af\u03bb\u03b9\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:ron_x_preferred":[
+        "Examilia"
+    ],
+    "name:rum_x_preferred":[
+        "Examilia"
+    ],
+    "name:swe_x_preferred":[
+        "Exam\u00edlia"
+    ],
+    "name:unk_x_variant":[
+        "Exam\u00edlion"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
+    "qs:a1_alt":"PELOPONNHSOS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KORINUIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0395\u039e\u0391\u039c\u0399\u039b\u0399\u0391",
+    "qs:loc_alt":"EJAMILIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262558,
+        "gp:id":949358,
+        "qs:id":28688,
+        "wd:id":"Q4120009",
+        "wk:page":"Examilia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"75d0ed874485f3f6493b629f1b400a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849671,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":101849671,
+    "wof:lastmodified":1544741060,
+    "wof:name":"\u0395\u039e\u0391\u039c\u0399\u039b\u0399\u0391",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1810,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.928208,
+    37.896721,
+    22.928208,
+    37.896721
+],
+  "geometry": {"coordinates":[22.928208,37.896721],"type":"Point"}
+}

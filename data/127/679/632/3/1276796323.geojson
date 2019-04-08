@@ -1,0 +1,87 @@
+{
+  "id": 1276796323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62918,37.93731,22.62918,37.93731",
+    "geom:latitude":37.93731,
+    "geom:longitude":22.62918,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Gonoussa",
+    "gn:country_code":"GR",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261995,
+    "gn:latitude":37.93731,
+    "gn:longitude":22.62918,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Gono\u00fassa",
+    "gn:population":157,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039b\u03b9\u03cc\u03c0\u03b5\u03c3\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03bd\u03bf\u03cd\u03c3\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03cc\u03c0\u03b5\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Gonoussa"
+    ],
+    "name:und_x_variant":[
+        "Li\u00f3pesi",
+        "Gono\u00fasa",
+        "Gono\u00fassa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261995
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1b5b2c86cfbc0fafbb2c78e65f7f4f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276796323,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276796323,
+    "wof:lastmodified":1537624616,
+    "wof:name":"Gonoussa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62918,
+    37.93731,
+    22.62918,
+    37.93731
+],
+  "geometry": {"coordinates":[22.62918,37.93731],"type":"Point"}
+}

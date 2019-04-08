@@ -1,0 +1,79 @@
+{
+  "id": 1360316621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64287,38.45876,21.64287,38.45876",
+    "geom:latitude":38.45876,
+    "geom:longitude":21.64287,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Metaxas",
+    "gn:country_code":"GR",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257136,
+    "gn:latitude":38.45876,
+    "gn:longitude":21.64287,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Metax\u00e1s",
+    "gn:population":50,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c4\u03b1\u03be\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Metaxas"
+    ],
+    "name:und_x_variant":[
+        "Metaksas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257136
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4c526d979ef53139312816275a61b8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360316621,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360316621,
+    "wof:lastmodified":1537624390,
+    "wof:name":"Metaxas",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64287,
+    38.45876,
+    21.64287,
+    38.45876
+],
+  "geometry": {"coordinates":[21.64287,38.45876],"type":"Point"}
+}

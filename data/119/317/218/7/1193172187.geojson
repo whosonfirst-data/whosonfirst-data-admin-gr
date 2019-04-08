@@ -1,0 +1,80 @@
+{
+  "id": 1193172187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87513,39.59499,19.87513,39.59499",
+    "geom:latitude":39.59499,
+    "geom:longitude":19.87513,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Bastounion",
+    "gn:country_code":"GR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463751,
+    "gn:latitude":39.59499,
+    "gn:longitude":19.87513,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Basto\u00fanion",
+    "gn:population":63,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Mpastouni"
+    ],
+    "name:und_x_variant":[
+        "Basto\u00fani",
+        "Basto\u00fanion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463751
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e63f47cfe7586c673b5505e6665413df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193172187,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1193172187,
+    "wof:lastmodified":1537624994,
+    "wof:name":"Bastounion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87513,
+    39.59499,
+    19.87513,
+    39.59499
+],
+  "geometry": {"coordinates":[19.87513,39.59499],"type":"Point"}
+}

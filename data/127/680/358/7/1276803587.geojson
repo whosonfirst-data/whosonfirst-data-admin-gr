@@ -1,0 +1,76 @@
+{
+  "id": 1276803587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74258,36.93864,24.74258,36.93864",
+    "geom:latitude":36.93864,
+    "geom:longitude":24.74258,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9289",
+    "gn:asciiname":"Chrisopigi",
+    "gn:country_code":"GR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8593837,
+    "gn:latitude":36.93864,
+    "gn:longitude":24.74258,
+    "gn:modification_date":"2014-06-25",
+    "gn:name":"Chrisopigi",
+    "gn:population":6,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03c1\u03c5\u03c3\u03bf\u03c0\u03b7\u03b3\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Chrysopigi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8593837
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"72cf9748c5255336e184b5a052ee5694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276803587,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1276803587,
+    "wof:lastmodified":1537625024,
+    "wof:name":"Chrisopigi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74258,
+    36.93864,
+    24.74258,
+    36.93864
+],
+  "geometry": {"coordinates":[24.74258,36.93864],"type":"Point"}
+}

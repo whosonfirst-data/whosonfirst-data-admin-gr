@@ -1,0 +1,79 @@
+{
+  "id": 1125394835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48754,37.70661,21.48754,37.70661",
+    "geom:latitude":37.70661,
+    "geom:longitude":21.48754,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":51634,
+    "gn:population":51634,
+    "iso:country":"GR",
+    "lbl:latitude":37.70661,
+    "lbl:longitude":21.48754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133887,
+    "qs_pg:gn_pop":51634,
+    "qs_pg:name":"Dimos Pyrgos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1042577,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133887,
+        "qs_pg:id":1042577
+    },
+    "wof:country":"GR",
+    "wof:created":1497048942,
+    "wof:geomhash":"428eb68ee153dfe760774e1a713bc792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125394835,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1125394835,
+    "wof:lastmodified":1509389920,
+    "wof:name":"Dimos Pyrgos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"localadmin",
+    "wof:population":51634,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48754,
+    37.70661,
+    21.48754,
+    37.70661
+],
+  "geometry": {"coordinates":[21.48754,37.70661],"type":"Point"}
+}

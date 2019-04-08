@@ -1,0 +1,67 @@
+{
+  "id": 1209649175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.29328,37.6409,26.29328,37.6409",
+    "geom:latitude":37.6409,
+    "geom:longitude":26.29328,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Oxea",
+    "gn:country_code":"GR",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265949,
+    "gn:latitude":37.6409,
+    "gn:longitude":26.29328,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Ox\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ox\u00e9a"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03be\u03ad\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265949
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"99918fb674fdf10f6950b0943a37f531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649175
+        }
+    ],
+    "wof:id":1209649175,
+    "wof:lastmodified":1537625116,
+    "wof:name":"Oxea",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.29328,
+    37.6409,
+    26.29328,
+    37.6409
+],
+  "geometry": {"coordinates":[26.29328,37.6409],"type":"Point"}
+}

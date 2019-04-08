@@ -1,0 +1,124 @@
+{
+  "id": 101849601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.098542,39.522713,21.098542,39.522713",
+    "geom:latitude":39.522713,
+    "geom:longitude":21.098542,
+    "gn:population":1137,
+    "iso:country":"GR",
+    "lbl:latitude":39.522713,
+    "lbl:longitude":21.098542,
+    "mps:latitude":39.522713,
+    "mps:longitude":21.098542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u0645\u0627\u0646\u062a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Pramanta"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03c1\u03b1\u03bc\u03ac\u03bd\u03c4\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03ac\u03bc\u03b1\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pramanta"
+    ],
+    "name:fin_x_preferred":[
+        "Pr\u00e1manta"
+    ],
+    "name:fre_x_preferred":[
+        "Pramanta"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03c1\u03ac\u03bc\u03b1\u03bd\u03c4\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Pramanta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30de\u30f3\u30bf"
+    ],
+    "name:nno_x_preferred":[
+        "Pr\u00e1manda"
+    ],
+    "name:swe_x_preferred":[
+        "Pr\u00e1manta"
+    ],
+    "name:unk_x_variant":[
+        "Pr\u00e1manda"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0397\u03a0\u0395\u0399\u03a1\u039f\u03a3",
+    "qs:a1_alt":"HPEIROS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"IVANNINA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03a1\u0391\u039c\u0391\u039d\u03a4\u0391",
+    "qs:loc_alt":"PRAMANTA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":169,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254746,
+        "gp:id":960671,
+        "qs:id":201819,
+        "qs_pg:id":201819,
+        "wd:id":"Q2021812",
+        "wk:page":"Pramanta"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aa39915249e7db3d4473b36529c9079f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849601,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":101849601,
+    "wof:lastmodified":1544741027,
+    "wof:name":"\u03a0\u03a1\u0391\u039c\u0391\u039d\u03a4\u0391",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":1137,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.098542,
+    39.522713,
+    21.098542,
+    39.522713
+],
+  "geometry": {"coordinates":[21.098542,39.522713],"type":"Point"}
+}

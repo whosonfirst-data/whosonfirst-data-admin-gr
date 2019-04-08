@@ -1,0 +1,74 @@
+{
+  "id": 1225876043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40843,41.64575,26.40843,41.64575",
+    "geom:latitude":41.64575,
+    "geom:longitude":26.40843,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9008",
+    "gn:asciiname":"Kanadas",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736011,
+    "gn:latitude":41.64575,
+    "gn:longitude":26.40843,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kanad\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kanad\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2",
+        "Kanadh\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736011
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"491a4db172b7256f574d782ab9698bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225876043,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1225876043,
+    "wof:lastmodified":1537624935,
+    "wof:name":"Kanadas",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40843,
+    41.64575,
+    26.40843,
+    41.64575
+],
+  "geometry": {"coordinates":[26.40843,41.64575],"type":"Point"}
+}

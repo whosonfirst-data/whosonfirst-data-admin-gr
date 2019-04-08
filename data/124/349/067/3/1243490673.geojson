@@ -1,0 +1,79 @@
+{
+  "id": 1243490673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21871,39.10519,26.21871,39.10519",
+    "geom:latitude":39.10519,
+    "geom:longitude":26.21871,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Lisvorio",
+    "gn:country_code":"GR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258245,
+    "gn:latitude":39.10519,
+    "gn:longitude":26.21871,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Lisv\u00f3rio",
+    "gn:population":408,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03c3\u03b2\u03cc\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03c3\u03b2\u03cc\u03c1\u03b9\u03bf",
+        "\u039b\u03b9\u03c3\u03b2\u03cc\u03c1\u03b9",
+        "Lisv\u00f3rio"
+    ],
+    "name:und_x_variant":[
+        "Lisv\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258245
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a850708fd3317b51a0d0c7bce7b26292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1243490673,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243490673,
+    "wof:lastmodified":1537624439,
+    "wof:name":"Lisvorio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21871,
+    39.10519,
+    26.21871,
+    39.10519
+],
+  "geometry": {"coordinates":[26.21871,39.10519],"type":"Point"}
+}

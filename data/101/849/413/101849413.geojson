@@ -1,0 +1,126 @@
+{
+  "id": 101849413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.541122,38.143291,21.541122,38.143291",
+    "geom:latitude":38.143291,
+    "geom:longitude":21.541122,
+    "gn:population":5752,
+    "iso:country":"GR",
+    "lbl:latitude":38.143291,
+    "lbl:longitude":21.541122,
+    "mps:latitude":38.143291,
+    "mps:longitude":21.541122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u062a\u0648 \u0623\u0643\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Kato Achaia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03c7\u03b1\u0390\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Achaia"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00e1to Acha\u1e2fa"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03c7\u03b1\u0390\u03b1 \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c8\u30fb\u30a2\u30cf\u30a4\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Kato Achaia"
+    ],
+    "name:nno_x_preferred":[
+        "K\u00e1to Akha\u00eda"
+    ],
+    "name:ron_x_preferred":[
+        "Kato Achaia"
+    ],
+    "name:rum_x_preferred":[
+        "Kato Achaia"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e1to Acha\u1e2fa"
+    ],
+    "name:unk_x_variant":[
+        "K\u00e1to Akha\u00efa"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"AXAIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u0391\u03a4\u03a9 \u0391\u03a7\u0391\u0399\u0391",
+    "qs:loc_alt":"KATW AXAIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.15,
+    "wd:longitude":21.55,
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260644,
+        "gp:id":55869598,
+        "qs:id":202763,
+        "qs_pg:id":202763,
+        "wd:id":"Q13359779",
+        "wk:page":"Kato Achaia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a4e9f7cb571808c6c8d4d5ce77c3219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849413,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849413,
+    "wof:lastmodified":1544740938,
+    "wof:name":"\u039a\u0391\u03a4\u03a9 \u0391\u03a7\u0391\u0399\u0391",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":5752,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.541122,
+    38.143291,
+    21.541122,
+    38.143291
+],
+  "geometry": {"coordinates":[21.541122,38.143291],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225881421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94236,38.35733,22.94236,38.35733",
+    "geom:latitude":38.35733,
+    "geom:longitude":22.94236,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9145",
+    "gn:asciiname":"Kiveri",
+    "gn:country_code":"GR",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259695,
+    "gn:latitude":38.35733,
+    "gn:longitude":22.94236,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kiv\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kiv\u00e9ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03b2\u03ad\u03c1\u03b9",
+        "Kiv\u00e9rion",
+        "\u039a\u03b9\u03b2\u03ad\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259695
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"acd75676d8d83bc68609e3bb1e41b7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225881421,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1225881421,
+    "wof:lastmodified":1537624503,
+    "wof:name":"Kiveri",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94236,
+    38.35733,
+    22.94236,
+    38.35733
+],
+  "geometry": {"coordinates":[22.94236,38.35733],"type":"Point"}
+}

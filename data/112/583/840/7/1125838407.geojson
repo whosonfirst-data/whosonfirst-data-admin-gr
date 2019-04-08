@@ -1,0 +1,79 @@
+{
+  "id": 1125838407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43916,38.31122,23.43916,38.31122",
+    "geom:latitude":38.31122,
+    "geom:longitude":23.43916,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":700,
+    "gn:population":700,
+    "iso:country":"GR",
+    "lbl:latitude":38.31122,
+    "lbl:longitude":23.43916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kallithea"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256678,
+    "qs_pg:gn_pop":700,
+    "qs_pg:name":"Kallithea - Moustaf\u00e1dhes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":79772,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256678,
+        "qs_pg:id":79772
+    },
+    "wof:country":"GR",
+    "wof:created":1497292825,
+    "wof:geomhash":"a4933ff002d16cbc722df4cf73144c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125838407,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125838407,
+    "wof:lastmodified":1509395129,
+    "wof:name":"Kallithea - Moustaf\u00e1dhes",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43916,
+    38.31122,
+    23.43916,
+    38.31122
+],
+  "geometry": {"coordinates":[23.43916,38.31122],"type":"Point"}
+}

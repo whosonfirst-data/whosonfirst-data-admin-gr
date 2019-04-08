@@ -1,0 +1,75 @@
+{
+  "id": 1276908731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93186,41.21255,24.93186,41.21255",
+    "geom:latitude":41.21255,
+    "geom:longitude":24.93186,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9016",
+    "gn:asciiname":"Livas",
+    "gn:country_code":"GR",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735382,
+    "gn:latitude":41.21255,
+    "gn:longitude":24.93186,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"L\u00edvas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03b2\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "A\u00efvaj\u00edk",
+        "L\u00edvas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735382,
+        "wk:page":"Livas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ce17bdd42c53260ce413ac390a8b2a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276908731,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276908731,
+    "wof:lastmodified":1537624898,
+    "wof:name":"Livas",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93186,
+    41.21255,
+    24.93186,
+    41.21255
+],
+  "geometry": {"coordinates":[24.93186,41.21255],"type":"Point"}
+}

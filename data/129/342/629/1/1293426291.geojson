@@ -1,0 +1,80 @@
+{
+  "id": 1293426291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84576,38.99354,21.84576,38.99354",
+    "geom:latitude":38.99354,
+    "geom:longitude":21.84576,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Ayios Kharalambos",
+    "gn:country_code":"GR",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263875,
+    "gn:latitude":38.99354,
+    "gn:longitude":21.84576,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"\u00c1yios Khar\u00e1lambos",
+    "gn:population":60,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a7\u03b1\u03c1\u03ac\u03bb\u03b1\u03bc\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Charalampos"
+    ],
+    "name:und_x_variant":[
+        "Eloga",
+        "\u00c1yios Khar\u00e1lambos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263875
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1aa24d64019705a63810f3a4f2833499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293426291,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293426291,
+    "wof:lastmodified":1537624703,
+    "wof:name":"Ayios Kharalambos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84576,
+    38.99354,
+    21.84576,
+    38.99354
+],
+  "geometry": {"coordinates":[21.84576,38.99354],"type":"Point"}
+}

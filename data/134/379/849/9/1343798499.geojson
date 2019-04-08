@@ -1,0 +1,71 @@
+{
+  "id": 1343798499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14903,37.59728,25.14903,37.59728",
+    "geom:latitude":37.59728,
+    "geom:longitude":25.14903,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9301",
+    "gn:asciiname":"Perastra",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255572,
+    "gn:latitude":37.59728,
+    "gn:longitude":25.14903,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Per\u00e1stra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Per\u00e1stra",
+        "\u03a0\u03b5\u03c1\u03ac\u03c3\u03c4\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255572
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"96c2505c50831a36d1060a12af919509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343798499,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1343798499,
+    "wof:lastmodified":1537624312,
+    "wof:name":"Perastra",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14903,
+    37.59728,
+    25.14903,
+    37.59728
+],
+  "geometry": {"coordinates":[25.14903,37.59728],"type":"Point"}
+}

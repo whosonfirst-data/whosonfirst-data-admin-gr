@@ -1,0 +1,76 @@
+{
+  "id": 1343490977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.82856,39.62063,19.82856,39.62063",
+    "geom:latitude":39.62063,
+    "geom:longitude":19.82856,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Vasilika Agiou Ioannou",
+    "gn:country_code":"GR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7302336,
+    "gn:latitude":39.62063,
+    "gn:longitude":19.82856,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Vasilik\u00e1 Ag\u00edou Io\u00e1nnou",
+    "gn:population":278,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ac \u0391\u03b3\u03af\u03bf\u03c5 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Vasilika Agiou Ioannou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7302336
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"14041db51851be1218c2cf4578ea8ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343490977,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1343490977,
+    "wof:lastmodified":1537624999,
+    "wof:name":"Vasilika Agiou Ioannou",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.82856,
+    39.62063,
+    19.82856,
+    39.62063
+],
+  "geometry": {"coordinates":[19.82856,39.62063],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276693323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13729,35.00392,26.13729,35.00392",
+    "geom:latitude":35.00392,
+    "geom:longitude":26.13729,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Atherinolakkos",
+    "gn:country_code":"GR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8612368,
+    "gn:latitude":35.00392,
+    "gn:longitude":26.13729,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Atherin\u00f3lakkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Atherin\u00f3lakkos"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b8\u03b5\u03c1\u03b9\u03bd\u03cc\u03bb\u03b1\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8612368
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4cd32c46aab090e94224f59615711b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276693323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276693323,
+    "wof:lastmodified":1537625032,
+    "wof:name":"Atherinolakkos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13729,
+    35.00392,
+    26.13729,
+    35.00392
+],
+  "geometry": {"coordinates":[26.13729,35.00392],"type":"Point"}
+}

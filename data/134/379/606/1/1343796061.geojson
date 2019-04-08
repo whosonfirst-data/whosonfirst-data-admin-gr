@@ -1,0 +1,80 @@
+{
+  "id": 1343796061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45795,40.27085,21.45795,40.27085",
+    "geom:latitude":40.27085,
+    "geom:longitude":21.45795,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Polylakko",
+    "gn:country_code":"GR",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734535,
+    "gn:latitude":40.27085,
+    "gn:longitude":21.45795,
+    "gn:modification_date":"2018-01-08",
+    "gn:name":"Pol\u00fdlakko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pol\u00fdlakko"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03b1\u03ba\u03ba\u03bf",
+        "Pol\u00fdlakkon",
+        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03b1\u03ba\u03ba\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "K\u00ednami",
+        "Pol\u00edlakkon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734535,
+        "wk:page":"Polylakko"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"20e013c836eb0b6bcf646c2f1d6c45e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343796061,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343796061,
+    "wof:lastmodified":1537624847,
+    "wof:name":"Polylakko",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45795,
+    40.27085,
+    21.45795,
+    40.27085
+],
+  "geometry": {"coordinates":[21.45795,40.27085],"type":"Point"}
+}

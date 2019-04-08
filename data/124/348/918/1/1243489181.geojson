@@ -1,0 +1,79 @@
+{
+  "id": 1243489181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87682,39.5899,19.87682,39.5899",
+    "geom:latitude":39.5899,
+    "geom:longitude":19.87682,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Agios Georgios Virou",
+    "gn:country_code":"GR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165902,
+    "gn:latitude":39.5899,
+    "gn:longitude":19.87682,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Agios Ge\u00f3rgios Viro\u00fa",
+    "gn:population":89,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u0392\u03b9\u03c1\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Virou"
+    ],
+    "name:und_x_variant":[
+        "Agios Georgios Viros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165902
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4b86d9462176da72f917ce0169c2520a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243489181,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243489181,
+    "wof:lastmodified":1537625048,
+    "wof:name":"Agios Georgios Virou",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":89,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87682,
+    39.5899,
+    19.87682,
+    39.5899
+],
+  "geometry": {"coordinates":[19.87682,39.5899],"type":"Point"}
+}

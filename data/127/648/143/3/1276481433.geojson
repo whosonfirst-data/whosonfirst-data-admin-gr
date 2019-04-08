@@ -1,0 +1,76 @@
+{
+  "id": 1276481433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45404,37.50303,22.45404,37.50303",
+    "geom:latitude":37.50303,
+    "geom:longitude":22.45404,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Samarades",
+    "gn:country_code":"GR",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254130,
+    "gn:latitude":37.50303,
+    "gn:longitude":22.45404,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Samar\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Samar\u00e1des"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bc\u03b1\u03c1\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Samar\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254130
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3a16ecd7936672e71a5c7a4588ed05d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276481433,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276481433,
+    "wof:lastmodified":1537624253,
+    "wof:name":"Samarades",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45404,
+    37.50303,
+    22.45404,
+    37.50303
+],
+  "geometry": {"coordinates":[22.45404,37.50303],"type":"Point"}
+}

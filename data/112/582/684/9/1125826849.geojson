@@ -1,0 +1,95 @@
+{
+  "id": 1125826849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50167,40.51,22.50167,40.51",
+    "geom:latitude":40.51,
+    "geom:longitude":22.50167,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":294,
+    "gn:population":294,
+    "iso:country":"GR",
+    "lbl:latitude":40.51,
+    "lbl:longitude":22.50167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b\u044f\u043c\u0431\u0435\u043b\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Paliampela"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ac\u03bc\u03c0\u03b5\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Paliampela"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ac\u03bc\u03c0\u03b5\u03bb\u03b1 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Pali\u00e1mbela"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734796,
+    "qs_pg:gn_pop":294,
+    "qs_pg:name":"Pali\u00e1mpela",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552847,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734796,
+        "qs_pg:id":552847,
+        "wd:id":"Q12289730"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292314,
+    "wof:geomhash":"487ecbac4014e037bc21a998a44de89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125826849,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125826849,
+    "wof:lastmodified":1514444029,
+    "wof:name":"Pali\u00e1mpela",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":294,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50167,
+    40.51,
+    22.50167,
+    40.51
+],
+  "geometry": {"coordinates":[22.50167,40.51],"type":"Point"}
+}

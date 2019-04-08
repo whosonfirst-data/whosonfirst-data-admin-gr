@@ -1,0 +1,105 @@
+{
+  "id": 1125842857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.782795,35.412697,24.782795,35.412697",
+    "geom:latitude":35.412697,
+    "geom:longitude":24.782795,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":35.412697,
+    "lbl:longitude":24.782795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Geropotamos"
+    ],
+    "name:eng_x_preferred":[
+        "Geropotamos"
+    ],
+    "name:fin_x_preferred":[
+        "Gerop\u00f3tamos"
+    ],
+    "name:fre_x_preferred":[
+        "Geropotamos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0393\u03b5\u03c1\u03bf\u03c0\u03bf\u03c4\u03ac\u03bc\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Geropotamos"
+    ],
+    "name:nno_x_preferred":[
+        "Jerop\u00f3tamos"
+    ],
+    "name:por_x_preferred":[
+        "Geropotamos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Geropotamos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":785426,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56023244,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56023244,
+        "qs_pg:id":785426,
+        "wd:id":"Q2021777"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293011,
+    "wof:geomhash":"3fe03784d0fe54fb1e0492b7e54c4107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125842857,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125842857,
+    "wof:lastmodified":1514443955,
+    "wof:name":"Geropotamos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.782795,
+    35.412697,
+    24.782795,
+    35.412697
+],
+  "geometry": {"coordinates":[24.782795,35.412697],"type":"Point"}
+}

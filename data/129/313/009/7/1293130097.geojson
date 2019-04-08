@@ -1,0 +1,79 @@
+{
+  "id": 1293130097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18545,35.38862,24.18545,35.38862",
+    "geom:latitude":35.38862,
+    "geom:longitude":24.18545,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Metochi Getemi",
+    "gn:country_code":"GR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257106,
+    "gn:latitude":35.38862,
+    "gn:longitude":24.18545,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Met\u00f3chi Getem\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Met\u00f3chi Getem\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c4\u03cc\u03c7\u03b9 \u0393\u03b5\u03c4\u03b5\u03bc\u03ae",
+        "Met\u00f3chion",
+        "\u039c\u03b5\u03c4\u03cc\u03c7\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Met\u00f3kh\u00ed Yiet\u00e9mi",
+        "Met\u00f3khion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257106
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"100ed22bafa20a77befd02c3a530583b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293130097,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293130097,
+    "wof:lastmodified":1537624388,
+    "wof:name":"Metochi Getemi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18545,
+    35.38862,
+    24.18545,
+    35.38862
+],
+  "geometry": {"coordinates":[24.18545,35.38862],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1310037089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17788,38.85993,22.17788,38.85993",
+    "geom:latitude":38.85993,
+    "geom:longitude":22.17788,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Mesokhorion",
+    "gn:country_code":"GR",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257191,
+    "gn:latitude":38.85993,
+    "gn:longitude":22.17788,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"Mesokh\u00f3rion",
+    "gn:population":80,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039b\u03b9\u03ac\u03c3\u03ba\u03bf\u03b2\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf",
+        "\u039c\u03b5\u03c3\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd",
+        "\u039b\u03b9\u03ac\u03c3\u03ba\u03bf\u03b2\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Mesochori"
+    ],
+    "name:und_x_variant":[
+        "Li\u00e1skovon",
+        "Mesokh\u00f3ri",
+        "Mesokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257191
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"503c03d5dbca55978d0d41cba3eb5c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310037089,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1310037089,
+    "wof:lastmodified":1537624393,
+    "wof:name":"Mesokhorion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17788,
+    38.85993,
+    22.17788,
+    38.85993
+],
+  "geometry": {"coordinates":[22.17788,38.85993],"type":"Point"}
+}

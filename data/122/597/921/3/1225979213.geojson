@@ -1,0 +1,88 @@
+{
+  "id": 1225979213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57391,38.52225,21.57391,38.52225",
+    "geom:latitude":38.52225,
+    "geom:longitude":21.57391,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Palaiozevgaron",
+    "gn:country_code":"GR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256055,
+    "gn:latitude":38.52225,
+    "gn:longitude":21.57391,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Palaioz\u00e9vgaron",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03b6\u03b5\u03cd\u03b3\u03b1\u03c1\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b9\u03bf\u03b6\u03b5\u03c5\u03b3\u03b1\u03c1\u03bf",
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03b6\u03b5\u03cd\u03b3\u03b1\u03c1\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Paliozevgaro"
+    ],
+    "name:eng_x_variant":[
+        "Palaiozevgaro"
+    ],
+    "name:und_x_variant":[
+        "Palioz\u00e9vgaro",
+        "Palioz\u00e9vgaron",
+        "Palaioz\u00e9vgaron"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256055
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"497c7a6ca764e78d440294f699f4b7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225979213,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1225979213,
+    "wof:lastmodified":1537624333,
+    "wof:name":"Palaiozevgaron",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57391,
+    38.52225,
+    21.57391,
+    38.52225
+],
+  "geometry": {"coordinates":[21.57391,38.52225],"type":"Point"}
+}

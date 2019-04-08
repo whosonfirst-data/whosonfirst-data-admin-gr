@@ -1,0 +1,74 @@
+{
+  "id": 1293919345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53783,38.3875,21.53783,38.3875",
+    "geom:latitude":38.3875,
+    "geom:longitude":21.53783,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9127",
+    "gn:asciiname":"Karvailaiika",
+    "gn:country_code":"GR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260869,
+    "gn:latitude":38.3875,
+    "gn:longitude":21.53783,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Karvaila\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b2\u03b1\u03b9\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Karal\u00e9\u00efka",
+        "Karvaila\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260869
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9bcd6d3eb9ff4c731eb93f7a8ae7eb47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293919345,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293919345,
+    "wof:lastmodified":1537624563,
+    "wof:name":"Karvailaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53783,
+    38.3875,
+    21.53783,
+    38.3875
+],
+  "geometry": {"coordinates":[21.53783,38.3875],"type":"Point"}
+}

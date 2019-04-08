@@ -1,0 +1,79 @@
+{
+  "id": 1343592613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04001,36.73441,23.04001,36.73441",
+    "geom:latitude":36.73441,
+    "geom:longitude":23.04001,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9251",
+    "gn:asciiname":"Palaia Monemvasia",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256168,
+    "gn:latitude":36.73441,
+    "gn:longitude":23.04001,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"Palai\u00e1 Monemvas\u00eda",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ac \u039c\u03bf\u03bd\u03b5\u03bc\u03b2\u03b1\u03c3\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03ac \u039c\u03bf\u03bd\u03b5\u03bc\u03b2\u03b1\u03c3\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Palia Monemvasia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256168
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7a95faf6e89c41a963bd0eca7f85ea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343592613,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343592613,
+    "wof:lastmodified":1537624342,
+    "wof:name":"Palaia Monemvasia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04001,
+    36.73441,
+    23.04001,
+    36.73441
+],
+  "geometry": {"coordinates":[23.04001,36.73441],"type":"Point"}
+}

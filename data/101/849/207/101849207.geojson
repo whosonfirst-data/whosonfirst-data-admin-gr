@@ -1,0 +1,79 @@
+{
+  "id": 101849207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.134281,39.18211,22.134281,39.18211",
+    "geom:latitude":39.18211,
+    "geom:longitude":22.134281,
+    "iso:country":"GR",
+    "lbl:latitude":39.18211,
+    "lbl:longitude":22.134281,
+    "mps:latitude":39.18211,
+    "mps:longitude":22.134281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Aslan\u00e1r"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KARDITSA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u0395\u039f\u039d\u03a4\u0391\u03a1\u0399\u039f\u039d",
+    "qs:loc_alt":"LEONTARION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258506,
+        "gp:id":955173,
+        "qs:id":7
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a9cdc3b74efe702f797d6f2d786c68aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849207,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849207,
+    "wof:lastmodified":1544740835,
+    "wof:name":"\u039b\u0395\u039f\u039d\u03a4\u0391\u03a1\u0399\u039f\u039d",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.134281,
+    39.18211,
+    22.134281,
+    39.18211
+],
+  "geometry": {"coordinates":[22.134281,39.18211],"type":"Point"}
+}

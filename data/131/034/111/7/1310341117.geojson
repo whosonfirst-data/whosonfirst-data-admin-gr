@@ -1,0 +1,71 @@
+{
+  "id": 1310341117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29665,37.86212,21.29665,37.86212",
+    "geom:latitude":37.86212,
+    "geom:longitude":21.29665,
+    "gn:admin1_code":"ESYE25",
+    "gn:asciiname":"Koroivos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259276,
+    "gn:latitude":37.86212,
+    "gn:longitude":21.29665,
+    "gn:modification_date":"2011-02-22",
+    "gn:name":"K\u00f3roivos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelev\u00ed",
+        "K\u00f3roivos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259276,
+        "wk:page":"Koroivos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9744864e366ee09ceecee376cca29566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310341117,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310341117,
+    "wof:lastmodified":1537624486,
+    "wof:name":"Koroivos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29665,
+    37.86212,
+    21.29665,
+    37.86212
+],
+  "geometry": {"coordinates":[21.29665,37.86212],"type":"Point"}
+}

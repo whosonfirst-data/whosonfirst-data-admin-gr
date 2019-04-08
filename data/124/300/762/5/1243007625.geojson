@@ -1,0 +1,80 @@
+{
+  "id": 1243007625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75216,37.06749,21.75216,37.06749",
+    "geom:latitude":37.06749,
+    "geom:longitude":21.75216,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Stylianos",
+    "gn:country_code":"GR",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253172,
+    "gn:latitude":37.06749,
+    "gn:longitude":21.75216,
+    "gn:modification_date":"2015-09-15",
+    "gn:name":"Stylian\u00f3s",
+    "gn:population":44,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03c5\u03bb\u03b9\u03b1\u03bd\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stylianos"
+    ],
+    "name:und_x_variant":[
+        "Stiliano\u00fa",
+        "Stilian\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253172
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f192146d76c54a842a2534a58cd9d3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243007625,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243007625,
+    "wof:lastmodified":1537624208,
+    "wof:name":"Stylianos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75216,
+    37.06749,
+    21.75216,
+    37.06749
+],
+  "geometry": {"coordinates":[21.75216,37.06749],"type":"Point"}
+}

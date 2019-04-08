@@ -1,0 +1,73 @@
+{
+  "id": 1344090945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74975,36.85086,21.74975,36.85086",
+    "geom:latitude":36.85086,
+    "geom:longitude":21.74975,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Ripaina",
+    "gn:country_code":"GR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254312,
+    "gn:latitude":36.85086,
+    "gn:longitude":21.74975,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"R\u00edpaina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "R\u00edpaina"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03af\u03c0\u03b1\u03b9\u03bd\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254312
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a3c1421fb70acccc4426f89d6e279f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344090945,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1344090945,
+    "wof:lastmodified":1537624262,
+    "wof:name":"Ripaina",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74975,
+    36.85086,
+    21.74975,
+    36.85086
+],
+  "geometry": {"coordinates":[21.74975,36.85086],"type":"Point"}
+}

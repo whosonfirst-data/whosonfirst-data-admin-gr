@@ -1,0 +1,107 @@
+{
+  "id": 1125856803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8558,40.64121,22.8558,40.64121",
+    "geom:latitude":40.64121,
+    "geom:longitude":22.8558,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4162,
+    "gn:population":4162,
+    "iso:country":"GR",
+    "lbl:latitude":40.64121,
+    "lbl:longitude":22.8558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0644\u0648\u0643\u0648\u0631\u064a\u0648\u0646\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u044a\u0441\u043a\u0430\u0440\u043a\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kalochori"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kalochori"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Kalokh\u00f3ri"
+    ],
+    "name:swe_x_preferred":[
+        "Kaloch\u00f3ri"
+    ],
+    "name:unk_x_variant":[
+        "Kaskar\u00edka"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736029,
+    "qs_pg:gn_pop":4162,
+    "qs_pg:name":"Kaloch\u00f3rion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":129097,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736029,
+        "qs_pg:id":129097,
+        "wd:id":"Q3558195"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293655,
+    "wof:geomhash":"f1761e6b897c011de69cfb753a54146a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125856803,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125856803,
+    "wof:lastmodified":1553816576,
+    "wof:name":"Kaloch\u00f3rion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":4162,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8558,
+    40.64121,
+    22.8558,
+    40.64121
+],
+  "geometry": {"coordinates":[22.8558,40.64121],"type":"Point"}
+}

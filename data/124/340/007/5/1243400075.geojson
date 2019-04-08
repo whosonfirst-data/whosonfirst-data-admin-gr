@@ -1,0 +1,77 @@
+{
+  "id": 1243400075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79292,38.50283,21.79292,38.50283",
+    "geom:latitude":38.50283,
+    "geom:longitude":21.79292,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Sykia",
+    "gn:country_code":"GR",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253906,
+    "gn:latitude":38.50283,
+    "gn:longitude":21.79292,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Syki\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Syki\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c5\u03ba\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Siki\u00e1",
+        "Sik\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253906
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b84cf9a47d245bcf0936bd409f60b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243400075,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243400075,
+    "wof:lastmodified":1537624244,
+    "wof:name":"Sykia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79292,
+    38.50283,
+    21.79292,
+    38.50283
+],
+  "geometry": {"coordinates":[21.79292,38.50283],"type":"Point"}
+}

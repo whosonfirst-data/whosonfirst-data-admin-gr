@@ -1,0 +1,73 @@
+{
+  "id": 1326760903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73645,38.84541,21.73645,38.84541",
+    "geom:latitude":38.84541,
+    "geom:longitude":21.73645,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Neo Dermati",
+    "gn:country_code":"GR",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165848,
+    "gn:latitude":38.84541,
+    "gn:longitude":21.73645,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"N\u00e9o Derm\u00e1ti",
+    "gn:population":30,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf \u0394\u03b5\u03c1\u03bc\u03ac\u03c4\u03b9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165848
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"feedfb577dfe16c9a4c711b94a45b198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326760903,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1326760903,
+    "wof:lastmodified":1537551164,
+    "wof:name":"Neo Dermati",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73645,
+    38.84541,
+    21.73645,
+    38.84541
+],
+  "geometry": {"coordinates":[21.73645,38.84541],"type":"Point"}
+}

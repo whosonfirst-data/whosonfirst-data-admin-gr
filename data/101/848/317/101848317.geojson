@@ -1,0 +1,116 @@
+{
+  "id": 101848317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98159,37.166317,21.98159,37.166317",
+    "geom:latitude":37.166317,
+    "geom:longitude":21.98159,
+    "gn:population":991,
+    "iso:country":"GR",
+    "lbl:latitude":37.166317,
+    "lbl:longitude":21.98159,
+    "mps:latitude":37.166317,
+    "mps:longitude":21.98159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u064a\u0631\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Valira"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03cd\u03c1\u03b1 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03bb\u03cd\u03c1\u03b1",
+        "Val\u00fdra"
+    ],
+    "name:eng_x_preferred":[
+        "Valira"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03bb\u03cd\u03c1\u03b1 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Val\u00fdra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0438\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Val\u00edra"
+    ],
+    "name:unk_x_variant":[
+        "Tzeferem\u00edni"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
+    "qs:a1_alt":"PELOPONNHSOS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"MESSHNIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0392\u0391\u039b\u03a5\u03a1\u0391",
+    "qs:loc_alt":"BALYRA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":37.15,
+    "wd:longitude":21.966667,
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252334,
+        "gp:id":964057,
+        "qs:id":423939,
+        "wd:id":"Q2025137",
+        "wk:page":"Valira, Greece"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0a3e5378f7d75fb097c4937903312206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848317,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":101848317,
+    "wof:lastmodified":1544740380,
+    "wof:name":"\u0392\u0391\u039b\u03a5\u03a1\u0391",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":991,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98159,
+    37.166317,
+    21.98159,
+    37.166317
+],
+  "geometry": {"coordinates":[21.98159,37.166317],"type":"Point"}
+}

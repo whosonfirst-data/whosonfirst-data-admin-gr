@@ -1,0 +1,79 @@
+{
+  "id": 1310440493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75086,39.44122,20.75086,39.44122",
+    "geom:latitude":39.44122,
+    "geom:longitude":20.75086,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Kollaiika",
+    "gn:country_code":"GR",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445323,
+    "gn:latitude":39.44122,
+    "gn:longitude":20.75086,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"Kolla\u00edika",
+    "gn:population":21,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kolaiika"
+    ],
+    "name:und_x_variant":[
+        "Kolla\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445323
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e6071a03a78c73896426c1e2252cc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310440493,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1310440493,
+    "wof:lastmodified":1537624803,
+    "wof:name":"Kollaiika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75086,
+    39.44122,
+    20.75086,
+    39.44122
+],
+  "geometry": {"coordinates":[20.75086,39.44122],"type":"Point"}
+}

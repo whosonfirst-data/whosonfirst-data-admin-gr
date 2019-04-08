@@ -1,0 +1,75 @@
+{
+  "id": 1343895115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94411,39.32058,20.94411,39.32058",
+    "geom:latitude":39.32058,
+    "geom:longitude":20.94411,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9088",
+    "gn:asciiname":"Gorgomylos",
+    "gn:country_code":"GR",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261991,
+    "gn:latitude":39.32058,
+    "gn:longitude":20.94411,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Gorg\u00f3mylos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c1\u03b3\u03cc\u03bc\u03c5\u03bb\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Moulian\u00e1",
+        "Gorg\u00f3milos",
+        "Gorg\u00f3mylos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261991
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c4f46b2dd920713d1f4624136fd1ed79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343895115,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1343895115,
+    "wof:lastmodified":1537624615,
+    "wof:name":"Gorgomylos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94411,
+    39.32058,
+    20.94411,
+    39.32058
+],
+  "geometry": {"coordinates":[20.94411,39.32058],"type":"Point"}
+}

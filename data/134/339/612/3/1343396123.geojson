@@ -1,0 +1,73 @@
+{
+  "id": 1343396123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45802,37.74982,21.45802,37.74982",
+    "geom:latitude":37.74982,
+    "geom:longitude":21.45802,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141",
+    "gn:asciiname":"Ayii Apostoli",
+    "gn:country_code":"GR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251929,
+    "gn:latitude":37.74982,
+    "gn:longitude":21.45802,
+    "gn:modification_date":"2017-09-26",
+    "gn:name":"Ayii Apostoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u0391\u03c0\u03cc\u03c3\u03c4\u03bf\u03bb\u03bf\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Agioi Apostoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251929
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"47c710d9dd48b42861aaca179d35589a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343396123,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343396123,
+    "wof:lastmodified":1537624161,
+    "wof:name":"Ayii Apostoli",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45802,
+    37.74982,
+    21.45802,
+    37.74982
+],
+  "geometry": {"coordinates":[21.45802,37.74982],"type":"Point"}
+}

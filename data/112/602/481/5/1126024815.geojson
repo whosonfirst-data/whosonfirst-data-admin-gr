@@ -1,0 +1,88 @@
+{
+  "id": 1126024815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53194,39.705,20.53194,39.705",
+    "geom:latitude":39.705,
+    "geom:longitude":20.53194,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":171,
+    "gn:population":32,
+    "iso:country":"GR",
+    "lbl:latitude":39.705,
+    "lbl:longitude":20.53194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b6\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b9\u03b6\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Rizo"
+    ],
+    "name:unk_x_variant":[
+        "Riz\u00f3"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254282,
+    "qs_pg:gn_pop":171,
+    "qs_pg:name":"Riz\u00f3n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546461,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254282,
+        "qs_pg:id":546461
+    },
+    "wof:country":"GR",
+    "wof:created":1497301069,
+    "wof:geomhash":"36760a19ebccfc342f3178ef21ec6e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126024815,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126024815,
+    "wof:lastmodified":1509407474,
+    "wof:name":"Riz\u00f3n",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53194,
+    39.705,
+    20.53194,
+    39.705
+],
+  "geometry": {"coordinates":[20.53194,39.705],"type":"Point"}
+}

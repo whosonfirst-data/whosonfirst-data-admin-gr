@@ -1,0 +1,72 @@
+{
+  "id": 1327170403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15377,37.59724,25.15377,37.59724",
+    "geom:latitude":37.59724,
+    "geom:longitude":25.15377,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9301",
+    "gn:asciiname":"Monastiria",
+    "gn:country_code":"GR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":256800,
+    "gn:latitude":37.59724,
+    "gn:longitude":25.15377,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Monast\u00edria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Monast\u00edrion",
+        "Monast\u00edria",
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256800
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f7cf3cd14ff8440e684fb8fc9d3783c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170403,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1327170403,
+    "wof:lastmodified":1537624371,
+    "wof:name":"Monastiria",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15377,
+    37.59724,
+    25.15377,
+    37.59724
+],
+  "geometry": {"coordinates":[25.15377,37.59724],"type":"Point"}
+}

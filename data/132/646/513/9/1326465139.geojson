@@ -1,0 +1,76 @@
+{
+  "id": 1326465139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84604,40.02065,23.84604,40.02065",
+    "geom:latitude":40.02065,
+    "geom:longitude":23.84604,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9060",
+    "gn:asciiname":"Styladario",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9353137,
+    "gn:latitude":40.02065,
+    "gn:longitude":23.84604,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Stylad\u00e1rio",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03c5\u03bb\u03b1\u03b4\u03ac\u03c1\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Styladario"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9353137
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"19dc52e19908d94453338dc9d8e10846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326465139,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1326465139,
+    "wof:lastmodified":1537625060,
+    "wof:name":"Styladario",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84604,
+    40.02065,
+    23.84604,
+    40.02065
+],
+  "geometry": {"coordinates":[23.84604,40.02065],"type":"Point"}
+}

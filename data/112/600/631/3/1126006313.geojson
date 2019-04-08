@@ -1,0 +1,82 @@
+{
+  "id": 1126006313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44861,39.03778,21.44861,39.03778",
+    "geom:latitude":39.03778,
+    "geom:longitude":21.44861,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":204,
+    "gn:population":204,
+    "iso:country":"GR",
+    "lbl:latitude":39.03778,
+    "lbl:longitude":21.44861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03b1\u03ce\u03c1\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Vela\u00f3ra"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252080,
+    "qs_pg:gn_pop":204,
+    "qs_pg:name":"Vala\u00f3ra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":535088,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252080,
+        "qs_pg:id":535088
+    },
+    "wof:country":"GR",
+    "wof:created":1497299981,
+    "wof:geomhash":"fbbf89900435b40a927edb145112a853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126006313,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1126006313,
+    "wof:lastmodified":1509406425,
+    "wof:name":"Vala\u00f3ra",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44861,
+    39.03778,
+    21.44861,
+    39.03778
+],
+  "geometry": {"coordinates":[21.44861,39.03778],"type":"Point"}
+}

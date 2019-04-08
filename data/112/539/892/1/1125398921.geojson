@@ -1,0 +1,82 @@
+{
+  "id": 1125398921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35408,37.44529,25.35408,37.44529",
+    "geom:latitude":37.44529,
+    "geom:longitude":25.35408,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":9274,
+    "gn:population":9274,
+    "iso:country":"GR",
+    "lbl:latitude":37.44529,
+    "lbl:longitude":25.35408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03cd\u03ba\u03bf\u03bd\u03bf\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133933,
+    "qs_pg:gn_pop":9274,
+    "qs_pg:name":"Dimos Mykonos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1063889,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133933,
+        "qs_pg:id":1063889
+    },
+    "wof:country":"GR",
+    "wof:created":1497049192,
+    "wof:geomhash":"fe234f5d3e6d3b941628aea5a68a1799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125398921,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125398921,
+    "wof:lastmodified":1509390012,
+    "wof:name":"Dimos Mykonos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"localadmin",
+    "wof:population":9274,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35408,
+    37.44529,
+    25.35408,
+    37.44529
+],
+  "geometry": {"coordinates":[25.35408,37.44529],"type":"Point"}
+}

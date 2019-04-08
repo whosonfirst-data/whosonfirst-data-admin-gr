@@ -1,0 +1,118 @@
+{
+  "id": 1125882843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78331,35.41424,24.78331,35.41424",
+    "geom:latitude":35.41424,
+    "geom:longitude":24.78331,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":450,
+    "iso:country":"GR",
+    "lbl:latitude":35.41424,
+    "lbl:longitude":24.78331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bali"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Bali"
+    ],
+    "name:ger_x_preferred":[
+        "Bali"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03af \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Bali"
+    ],
+    "name:por_x_preferred":[
+        "Bal\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bali"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":263524,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bali",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":453,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":453,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":906116,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":947577,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263524,
+        "gp:id":947577,
+        "qs_pg:id":906116,
+        "wd:id":"Q446677"
+    },
+    "wof:country":"GR",
+    "wof:created":1497294905,
+    "wof:geomhash":"e59d2dd8e20af9d43cf54c85698d7993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125882843,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125882843,
+    "wof:lastmodified":1514443933,
+    "wof:name":"Bali",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":450,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78331,
+    35.41424,
+    24.78331,
+    35.41424
+],
+  "geometry": {"coordinates":[24.78331,35.41424],"type":"Point"}
+}

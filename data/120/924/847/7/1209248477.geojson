@@ -1,0 +1,92 @@
+{
+  "id": 1209248477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45254,40.86028,21.45254,40.86028",
+    "geom:latitude":40.86028,
+    "geom:longitude":21.45254,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Ano Kalliniki",
+    "gn:country_code":"GR",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736820,
+    "gn:latitude":40.86028,
+    "gn:longitude":21.45254,
+    "gn:modification_date":"2017-12-16",
+    "gn:name":"\u00c1no Kallin\u00edki",
+    "gn:population":275,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0386\u03bd\u03c9 \u039a\u03ac\u03bb\u03b5\u03bd\u03b9\u03ba"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u039a\u03b1\u03bb\u03bb\u03b9\u03bd\u03af\u03ba\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u039a\u03ac\u03bb\u03b5\u03bd\u03b9\u03ba",
+        "\u0386\u03bd\u03c9 \u039a\u03b1\u03bb\u03b7\u03bd\u03af\u03ba\u03b7"
+    ],
+    "name:eng_x_historical":[
+        "Ano Kalenik"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Kalliniki"
+    ],
+    "name:eng_x_variant":[
+        "Ano Kalenik",
+        "Ano Kaliniki"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041a\u0430\u043b\u0435\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Kallin\u00edki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736820
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"03fe1f2da9db7c0be44873af97aa4acd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248477
+        }
+    ],
+    "wof:id":1209248477,
+    "wof:lastmodified":1537624977,
+    "wof:name":"Ano Kalliniki",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45254,
+    40.86028,
+    21.45254,
+    40.86028
+],
+  "geometry": {"coordinates":[21.45254,40.86028],"type":"Point"}
+}

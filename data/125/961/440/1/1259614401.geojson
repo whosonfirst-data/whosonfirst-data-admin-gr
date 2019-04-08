@@ -1,0 +1,78 @@
+{
+  "id": 1259614401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75953,38.13531,21.75953,38.13531",
+    "geom:latitude":38.13531,
+    "geom:longitude":21.75953,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Platanovrysi",
+    "gn:country_code":"GR",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255014,
+    "gn:latitude":38.13531,
+    "gn:longitude":21.75953,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Platan\u00f3vrysi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Platan\u00f3vrysi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03cc\u03b2\u03c1\u03c5\u03c3\u03b7"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9ndzena",
+        "M\u00e9ntzaina",
+        "Platan\u00f3vrisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255014
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ac29459158ce169f2a746e80e7f456ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259614401,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259614401,
+    "wof:lastmodified":1537624287,
+    "wof:name":"Platanovrysi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75953,
+    38.13531,
+    21.75953,
+    38.13531
+],
+  "geometry": {"coordinates":[21.75953,38.13531],"type":"Point"}
+}

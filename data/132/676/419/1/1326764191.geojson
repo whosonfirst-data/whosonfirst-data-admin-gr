@@ -1,0 +1,80 @@
+{
+  "id": 1326764191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24854,40.41065,23.24854,40.41065",
+    "geom:latitude":40.41065,
+    "geom:longitude":23.24854,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Dexameni",
+    "gn:country_code":"GR",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736456,
+    "gn:latitude":40.41065,
+    "gn:longitude":23.24854,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Dexamen\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dexamen\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Ba\u00efram\u00edtsion",
+        "Baryam\u00edtai",
+        "Baryiam\u00edtsi",
+        "Baryam\u00edtsi",
+        "Dhexamen\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736456
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a9794aaad5ee5a3f8a5150ebe8119a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326764191,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1326764191,
+    "wof:lastmodified":1537624958,
+    "wof:name":"Dexameni",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24854,
+    40.41065,
+    23.24854,
+    40.41065
+],
+  "geometry": {"coordinates":[23.24854,40.41065],"type":"Point"}
+}

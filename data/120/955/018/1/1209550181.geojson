@@ -1,0 +1,63 @@
+{
+  "id": 1209550181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80022,37.50911,21.80022,37.50911",
+    "geom:latitude":37.50911,
+    "geom:longitude":21.80022,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Vreston",
+    "gn:country_code":"GR",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251658,
+    "gn:latitude":37.50911,
+    "gn:longitude":21.80022,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Vrest\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251658
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c62151d08d5e82a13b692bbe83e4b733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209550181
+        }
+    ],
+    "wof:id":1209550181,
+    "wof:lastmodified":1536283720,
+    "wof:name":"Vreston",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80022,
+    37.50911,
+    21.80022,
+    37.50911
+],
+  "geometry": {"coordinates":[21.80022,37.50911],"type":"Point"}
+}

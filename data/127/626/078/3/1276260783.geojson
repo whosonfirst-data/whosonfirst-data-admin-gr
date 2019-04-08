@@ -1,0 +1,76 @@
+{
+  "id": 1276260783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28237,37.40494,23.28237,37.40494",
+    "geom:latitude":37.40494,
+    "geom:longitude":23.28237,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Achladitsa",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257398,
+    "gn:latitude":37.40494,
+    "gn:longitude":23.28237,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Achlad\u00edtsa",
+    "gn:population":135,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03bb\u03b1\u03b4\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Achladitsa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257398
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0e01a7f74503617396c6530cc77dac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276260783,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276260783,
+    "wof:lastmodified":1537625057,
+    "wof:name":"Achladitsa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28237,
+    37.40494,
+    23.28237,
+    37.40494
+],
+  "geometry": {"coordinates":[23.28237,37.40494],"type":"Point"}
+}

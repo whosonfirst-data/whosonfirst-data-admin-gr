@@ -1,0 +1,73 @@
+{
+  "id": 1226682623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88832,37.8611,24.88832,37.8611",
+    "geom:latitude":37.8611,
+    "geom:longitude":24.88832,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9268",
+    "gn:asciiname":"Vourkoti",
+    "gn:country_code":"GR",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251734,
+    "gn:latitude":37.8611,
+    "gn:longitude":24.88832,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Vourkot\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vourkot\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03c5\u03c1\u03ba\u03c9\u03c4\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251734
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"94a2700d789c6216393688add357f092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226682623,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226682623,
+    "wof:lastmodified":1537624153,
+    "wof:name":"Vourkoti",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88832,
+    37.8611,
+    24.88832,
+    37.8611
+],
+  "geometry": {"coordinates":[24.88832,37.8611],"type":"Point"}
+}

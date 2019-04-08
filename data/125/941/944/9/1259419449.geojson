@@ -1,0 +1,74 @@
+{
+  "id": 1259419449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89656,37.82344,24.89656,37.82344",
+    "geom:latitude":37.82344,
+    "geom:longitude":24.89656,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9268",
+    "gn:asciiname":"Menites",
+    "gn:country_code":"GR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257263,
+    "gn:latitude":37.82344,
+    "gn:longitude":24.89656,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"M\u00e9nites",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03bd\u03b7\u03c4\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ma\u00ednites",
+        "M\u00e9nites"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257263
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6021aed7dce40c95c97f886f92431f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259419449,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1259419449,
+    "wof:lastmodified":1537624397,
+    "wof:name":"Menites",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89656,
+    37.82344000000001,
+    24.89656,
+    37.82344000000001
+],
+  "geometry": {"coordinates":[24.89656,37.82344000000001],"type":"Point"}
+}

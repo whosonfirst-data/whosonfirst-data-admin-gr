@@ -1,0 +1,133 @@
+{
+  "id": 101850205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.869398,38.028892,22.869398,38.028892",
+    "geom:latitude":38.028892,
+    "geom:longitude":22.869398,
+    "gn:population":1141,
+    "iso:country":"GR",
+    "lbl:latitude":38.028892,
+    "lbl:longitude":22.869398,
+    "mps:latitude":38.028892,
+    "mps:longitude":22.869398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Perahora"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0627\u0643\u0648\u0631\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Perachora"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b1\u03c7\u03ce\u03c1\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b1\u03c7\u03ce\u03c1\u03b1",
+        "Perach\u00f3ra"
+    ],
+    "name:eng_x_preferred":[
+        "Perachora"
+    ],
+    "name:fin_x_preferred":[
+        "Perach\u00f3ra"
+    ],
+    "name:ger_x_preferred":[
+        "Perachora"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b1\u03c7\u03ce\u03c1\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:nld_x_preferred":[
+        "Perachora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u0445\u043e\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Peracora"
+    ],
+    "name:swe_x_preferred":[
+        "Perach\u00f3ra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0430\u0445\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Perakh\u00f3ra"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
+    "qs:a1_alt":"PELOPONNHSOS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KORINUIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0395\u03a1\u0391\u03a7\u03a9\u03a1\u0391",
+    "qs:loc_alt":"PERAXVRA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.031389,
+    "wd:longitude":22.948611,
+    "wd:wordcount":196,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255594,
+        "gp:id":56023720,
+        "qs:id":208231,
+        "qs_pg:id":208231,
+        "wd:id":"Q2973204",
+        "wk:page":"Perachora"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b9461ef73128c4efc2f3cedb7573aabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101850205,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":101850205,
+    "wof:lastmodified":1544741309,
+    "wof:name":"\u03a0\u0395\u03a1\u0391\u03a7\u03a9\u03a1\u0391",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1141,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.869398,
+    38.028892,
+    22.869398,
+    38.028892
+],
+  "geometry": {"coordinates":[22.869398,38.028892],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343598239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34722,36.71235,22.34722,36.71235",
+    "geom:latitude":36.71235,
+    "geom:longitude":22.34722,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Arfingia",
+    "gn:country_code":"GR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":264678,
+    "gn:latitude":36.71235,
+    "gn:longitude":22.34722,
+    "gn:modification_date":"2015-05-02",
+    "gn:name":"Arf\u00edngia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u0391\u03c3\u03c6\u03cd\u03b3\u03b3\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c6\u03af\u03b3\u03ba\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c3\u03c6\u03cd\u03b3\u03b3\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Arfigkia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264678
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2f67f8fbdfd402cdeeaee94fcd7a76ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343598239,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343598239,
+    "wof:lastmodified":1537624736,
+    "wof:name":"Arfingia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34722,
+    36.71235,
+    22.34722,
+    36.71235
+],
+  "geometry": {"coordinates":[22.34722,36.71235],"type":"Point"}
+}

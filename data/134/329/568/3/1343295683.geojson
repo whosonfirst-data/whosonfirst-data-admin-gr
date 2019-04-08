@@ -1,0 +1,67 @@
+{
+  "id": 1343295683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73333,39.66667,22.73333,39.66667",
+    "geom:latitude":39.66667,
+    "geom:longitude":22.73333,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9097",
+    "gn:asciiname":"Tsekirion",
+    "gn:country_code":"GR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252514,
+    "gn:latitude":39.66667,
+    "gn:longitude":22.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsek\u00edrion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252514
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"22f3971ad2d9b441a2153b98a26e9959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343295683,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1343295683,
+    "wof:lastmodified":1536983362,
+    "wof:name":"Tsekirion",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73333,
+    39.66667,
+    22.73333,
+    39.66667
+],
+  "geometry": {"coordinates":[22.73333,39.66667],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125981141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08333,39.75,22.08333,39.75",
+    "geom:latitude":39.75,
+    "geom:longitude":22.08333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":855,
+    "gn:population":855,
+    "iso:country":"GR",
+    "lbl:latitude":39.75,
+    "lbl:longitude":22.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u0627\u0643\u0648\u064a\u064a\u0627\u0646\u064a\u0648\u0646\u060c \u0644\u0627\u0631\u064a\u0633\u0627"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03b1\u03c7\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Vlachogi\u00e1nni",
+        "\u0392\u03bb\u03b1\u03c7\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b9",
+        "Vlachogi\u00e1nnion"
+    ],
+    "name:eng_x_preferred":[
+        "Vlachogianni"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03bb\u03b1\u03c7\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b9 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Vlakhoj\u00e1nni"
+    ],
+    "name:swe_x_preferred":[
+        "Vlachogi\u00e1nni"
+    ],
+    "name:unk_x_variant":[
+        "Vlakhoyi\u00e1nni"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":251882,
+    "qs_pg:gn_pop":855,
+    "qs_pg:name":"Vlakhoyianni",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":424015,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":964698,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251882,
+        "gp:id":964698,
+        "qs_pg:id":424015,
+        "wd:id":"Q12719464"
+    },
+    "wof:country":"GR",
+    "wof:created":1497298563,
+    "wof:geomhash":"b549f53e8cf467776c24d390147fd970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125981141,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125981141,
+    "wof:lastmodified":1514444072,
+    "wof:name":"Vlakhoyianni",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":855,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08333,
+    39.75,
+    22.08333,
+    39.75
+],
+  "geometry": {"coordinates":[22.08333,39.75],"type":"Point"}
+}

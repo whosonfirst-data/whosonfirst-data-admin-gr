@@ -1,0 +1,79 @@
+{
+  "id": 1310442271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59519,38.44658,21.59519,38.44658",
+    "geom:latitude":38.44658,
+    "geom:longitude":21.59519,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Koilantonaiika",
+    "gn:country_code":"GR",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":259816,
+    "gn:latitude":38.44658,
+    "gn:longitude":21.59519,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Koilantona\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Koilantona\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03b9\u03bb\u03b1\u03bd\u03c4\u03c9\u03bd\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Triantafill\u00e1ki",
+        "Kirandon\u00e9\u00efka",
+        "Kiranton\u00e9\u00efka",
+        "Kilandonna\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259816
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"66dcae65bfca48dde592f311d4c230f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310442271,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310442271,
+    "wof:lastmodified":1537624509,
+    "wof:name":"Koilantonaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59519,
+    38.44658,
+    21.59519,
+    38.44658
+],
+  "geometry": {"coordinates":[21.59519,38.44658],"type":"Point"}
+}

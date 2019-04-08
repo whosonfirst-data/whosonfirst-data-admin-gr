@@ -1,0 +1,73 @@
+{
+  "id": 1259412137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.098,39.11306,23.098,39.11306",
+    "geom:latitude":39.11306,
+    "geom:longitude":23.098,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Kottes",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259183,
+    "gn:latitude":39.11306,
+    "gn:longitude":23.098,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"K\u00f3ttes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00f3ttes"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03cc\u03c4\u03c4\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259183
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"06ce7ccf3b158646cd012a28f4300a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259412137,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1259412137,
+    "wof:lastmodified":1537624483,
+    "wof:name":"Kottes",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09800000000001,
+    39.11306,
+    23.09800000000001,
+    39.11306
+],
+  "geometry": {"coordinates":[23.09800000000001,39.11306],"type":"Point"}
+}

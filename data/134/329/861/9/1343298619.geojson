@@ -1,0 +1,82 @@
+{
+  "id": 1343298619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86662,40.78075,23.86662,40.78075",
+    "geom:latitude":40.78075,
+    "geom:longitude":23.86662,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9049",
+    "gn:asciiname":"Limani",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9402917,
+    "gn:latitude":40.78075,
+    "gn:longitude":23.86662,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Lim\u00e1ni",
+    "gn:population":4,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u039b\u03b9\u03bc\u03ac\u03bd\u03b9 \u0391\u03bc\u03c6\u03af\u03c0\u03bf\u03bb\u03b7\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03ac\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03bc\u03ac\u03bd\u03b9 \u0391\u03bc\u03c6\u03af\u03c0\u03bf\u03bb\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Limani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9402917
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"838125ed2ce67fc0eaa696e24115a2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343298619,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1343298619,
+    "wof:lastmodified":1537625065,
+    "wof:name":"Limani",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86662,
+    40.78075,
+    23.86662,
+    40.78075
+],
+  "geometry": {"coordinates":[23.86662,40.78075],"type":"Point"}
+}

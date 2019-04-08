@@ -1,0 +1,67 @@
+{
+  "id": 1310635721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24425,35.37323,24.24425,35.37323",
+    "geom:latitude":35.37323,
+    "geom:longitude":24.24425,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Exopolis",
+    "gn:country_code":"GR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262537,
+    "gn:latitude":35.37323,
+    "gn:longitude":24.24425,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Ex\u00f3polis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262537
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0009791bbadc29e61d75b0233dae4fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310635721,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310635721,
+    "wof:lastmodified":1536729408,
+    "wof:name":"Exopolis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24425,
+    35.37323,
+    24.24425,
+    35.37323
+],
+  "geometry": {"coordinates":[24.24425,35.37323],"type":"Point"}
+}

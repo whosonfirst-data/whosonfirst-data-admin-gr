@@ -1,0 +1,73 @@
+{
+  "id": 1209139483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.464,38.26517,20.464,38.26517",
+    "geom:latitude":38.26517,
+    "geom:longitude":20.464,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Kontogourata",
+    "gn:country_code":"GR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259417,
+    "gn:latitude":38.26517,
+    "gn:longitude":20.464,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Kontogour\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c4\u03bf\u03b3\u03bf\u03c5\u03c1\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kondoyir\u00e1ta",
+        "Kondogour\u00e1ton",
+        "Kondogour\u00e1ta",
+        "Kontogour\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259417,
+        "wk:page":"Kontogourata"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7b6bb8c02a415fd1d9ffe9b803598d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209139483
+        }
+    ],
+    "wof:id":1209139483,
+    "wof:lastmodified":1537624491,
+    "wof:name":"Kontogourata",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.464,
+    38.26517,
+    20.464,
+    38.26517
+],
+  "geometry": {"coordinates":[20.464,38.26517],"type":"Point"}
+}

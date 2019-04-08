@@ -1,0 +1,86 @@
+{
+  "id": 1326766901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4461,41.05078,24.4461,41.05078",
+    "geom:latitude":41.05078,
+    "geom:longitude":24.4461,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9012",
+    "gn:asciiname":"Koryfes",
+    "gn:country_code":"GR",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735622,
+    "gn:latitude":41.05078,
+    "gn:longitude":24.4461,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Koryf\u00e9s",
+    "gn:population":38,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03c5\u03c6\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Koryf\u00e9s",
+        "Koryfa\u00ed",
+        "\u039a\u03bf\u03c1\u03c5\u03c6\u03b1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Koryfes"
+    ],
+    "name:und_x_variant":[
+        "Korif\u00e9s",
+        "Kour\u00edta",
+        "Korifa\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735622
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4922999e8687d47a25ffd47dd5e1e58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326766901,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1326766901,
+    "wof:lastmodified":1537624914,
+    "wof:name":"Koryfes",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4461,
+    41.05078,
+    24.4461,
+    41.05078
+],
+  "geometry": {"coordinates":[24.4461,41.05078],"type":"Point"}
+}

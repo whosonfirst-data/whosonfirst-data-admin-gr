@@ -1,0 +1,77 @@
+{
+  "id": 1343888569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.42394,38.64181,22.42394,38.64181",
+    "geom:latitude":38.64181,
+    "geom:longitude":22.42394,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9165",
+    "gn:asciiname":"Vargiani",
+    "gn:country_code":"GR",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252229,
+    "gn:latitude":38.64181,
+    "gn:longitude":22.42394,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"V\u00e1rgiani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "V\u00e1rgiani"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03ac\u03c1\u03b3\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Variani",
+        "V\u00e1ryiani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252229
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ed0f38706905fda01e95aee90bd4aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343888569,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343888569,
+    "wof:lastmodified":1537624174,
+    "wof:name":"Vargiani",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.42394,
+    38.64181,
+    22.42394,
+    38.64181
+],
+  "geometry": {"coordinates":[22.42394,38.64181],"type":"Point"}
+}

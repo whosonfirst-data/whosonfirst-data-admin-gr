@@ -1,0 +1,84 @@
+{
+  "id": 1310435837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39421,41.02205,23.39421,41.02205",
+    "geom:latitude":41.02205,
+    "geom:longitude":23.39421,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9052",
+    "gn:asciiname":"Variko",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733945,
+    "gn:latitude":41.02205,
+    "gn:longitude":23.39421,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"Varik\u00f3",
+    "gn:population":50,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03b9\u03ba\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "Varik\u00f3",
+        "\u0392\u03b1\u03c1\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Variko"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Karaj\u00e1ko\u00ef",
+        "Varik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733945
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"938e96b4df4ab238086ed6af61e2b7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310435837,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310435837,
+    "wof:lastmodified":1537624815,
+    "wof:name":"Variko",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39421,
+    41.02205,
+    23.39421,
+    41.02205
+],
+  "geometry": {"coordinates":[23.39421,41.02205],"type":"Point"}
+}

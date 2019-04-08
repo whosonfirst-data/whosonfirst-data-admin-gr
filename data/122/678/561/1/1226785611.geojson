@@ -1,0 +1,78 @@
+{
+  "id": 1226785611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85014,37.07169,22.85014,37.07169",
+    "geom:latitude":37.07169,
+    "geom:longitude":22.85014,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9240",
+    "gn:asciiname":"Chouni",
+    "gn:country_code":"GR",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259883,
+    "gn:latitude":37.07169,
+    "gn:longitude":22.85014,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Cho\u00fani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Cho\u00fani"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03cd\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Kho\u00fani",
+        "K\u00e1to Kho\u00fani",
+        "\u00c1no Kho\u00fani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259883
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3a51bc4344e0c02f9799b46e0a7f6c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226785611,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226785611,
+    "wof:lastmodified":1537624512,
+    "wof:name":"Chouni",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85014,
+    37.07169,
+    22.85014,
+    37.07169
+],
+  "geometry": {"coordinates":[22.85014,37.07169],"type":"Point"}
+}

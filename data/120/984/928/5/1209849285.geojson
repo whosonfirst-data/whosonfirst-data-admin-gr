@@ -1,0 +1,76 @@
+{
+  "id": 1209849285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93781,38.73019,21.93781,38.73019",
+    "geom:latitude":38.73019,
+    "geom:longitude":21.93781,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Mandrini",
+    "gn:country_code":"GR",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257801,
+    "gn:latitude":38.73019,
+    "gn:longitude":21.93781,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mandrin\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03bd\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Palo\u00fakova Meg\u00e1li",
+        "Mandhrin\u00ed",
+        "Meg\u00e1li Palo\u00fakova",
+        "Mandrin\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257801
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1e7e4d45fb1c8276f3de39956ca87d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209849285,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209849285,
+    "wof:lastmodified":1537624419,
+    "wof:name":"Mandrini",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93781,
+    38.73019,
+    21.93781,
+    38.73019
+],
+  "geometry": {"coordinates":[21.93781,38.73019],"type":"Point"}
+}

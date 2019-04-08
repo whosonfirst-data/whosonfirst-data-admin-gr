@@ -1,0 +1,78 @@
+{
+  "id": 1276695919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36961,38.81593,21.36961,38.81593",
+    "geom:latitude":38.81593,
+    "geom:longitude":21.36961,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Malataiiko",
+    "gn:country_code":"GR",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257880,
+    "gn:latitude":38.81593,
+    "gn:longitude":21.36961,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Malata\u00ediko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Malata\u00ediko"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bb\u03b1\u03c4\u03b1\u03af\u03b9\u03ba\u03bf",
+        "\u039c\u03b1\u03bb\u03b1\u03c4\u03b1\u03af\u03b9\u03ba\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Malat\u00e9\u00efkon",
+        "Malata\u00edikon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257880
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4c12dac3b46507e5bbc7812d9012bbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276695919,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276695919,
+    "wof:lastmodified":1537624422,
+    "wof:name":"Malataiiko",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36961,
+    38.81593,
+    21.36961,
+    38.81593
+],
+  "geometry": {"coordinates":[21.36961,38.81593],"type":"Point"}
+}

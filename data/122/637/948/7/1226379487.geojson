@@ -1,0 +1,74 @@
+{
+  "id": 1226379487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14277,37.70524,22.14277,37.70524",
+    "geom:latitude":37.70524,
+    "geom:longitude":22.14277,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Lasta",
+    "gn:country_code":"GR",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258566,
+    "gn:latitude":37.70524,
+    "gn:longitude":22.14277,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"L\u00e1sta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c3\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1sta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258566,
+        "wk:page":"Lasta%2C_Greece"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1e63eb7bb0f641d463fe7c87b6d21bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226379487,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226379487,
+    "wof:lastmodified":1537624455,
+    "wof:name":"Lasta",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14277,
+    37.70524,
+    22.14277,
+    37.70524
+],
+  "geometry": {"coordinates":[22.14277,37.70524],"type":"Point"}
+}

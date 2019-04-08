@@ -1,0 +1,106 @@
+{
+  "id": 1125836477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08889,40.355,21.08889,40.355",
+    "geom:latitude":40.355,
+    "geom:longitude":21.08889,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":150,
+    "gn:population":33,
+    "iso:country":"GR",
+    "lbl:latitude":40.355,
+    "lbl:longitude":21.08889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_historical":[
+        "\u0421\u043a\u0443\u043c\u0441\u043a\u043e"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u0443\u043c\u0441\u043a\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0440\u0430\u0445\u043e\u0441"
+    ],
+    "name:ell_x_historical":[
+        "\u03a3\u03ba\u03bf\u03cd\u03bc\u03c4\u03c3\u03b9\u03ba\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03ac\u03c7\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03bf\u03cd\u03bc\u03c4\u03c3\u03b9\u03ba\u03bf"
+    ],
+    "name:eng_x_historical":[
+        "Skoumtsikon"
+    ],
+    "name:eng_x_preferred":[
+        "Vrachos"
+    ],
+    "name:eng_x_variant":[
+        "Skoumtsikon"
+    ],
+    "name:unk_x_variant":[
+        "Vr\u00e1khos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":733858,
+    "qs_pg:gn_pop":150,
+    "qs_pg:name":"Vr\u00e1chos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":552778,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733858,
+        "qs_pg:id":552778
+    },
+    "wof:country":"GR",
+    "wof:created":1497292737,
+    "wof:geomhash":"8dde067a178bd1d3ce6b1e6a62588830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125836477,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125836477,
+    "wof:lastmodified":1509395009,
+    "wof:name":"Vr\u00e1chos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08889,
+    40.355,
+    21.08889,
+    40.355
+],
+  "geometry": {"coordinates":[21.08889,40.355],"type":"Point"}
+}

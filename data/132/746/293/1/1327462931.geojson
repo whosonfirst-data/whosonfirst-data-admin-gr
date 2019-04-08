@@ -1,0 +1,71 @@
+{
+  "id": 1327462931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11817,37.25541,23.11817,37.25541",
+    "geom:latitude":37.25541,
+    "geom:longitude":23.11817,
+    "gn:admin1_code":"ESYE31",
+    "gn:asciiname":"Agioi Anargyroi",
+    "gn:country_code":"GR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498307,
+    "gn:latitude":37.25541,
+    "gn:longitude":23.11817,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"\u00c1gioi An\u00e1rgyroi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gioi An\u00e1rgyroi"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u0391\u03bd\u03ac\u03c1\u03b3\u03c5\u03c1\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498307
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4cfe34cc0203c8101bff2f9432b3d790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327462931,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1327462931,
+    "wof:lastmodified":1537625118,
+    "wof:name":"Agioi Anargyroi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11817000000001,
+    37.25541,
+    23.11817000000001,
+    37.25541
+],
+  "geometry": {"coordinates":[23.11817000000001,37.25541],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1243489389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70468,41.04825,24.70468,41.04825",
+    "geom:latitude":41.04825,
+    "geom:longitude":24.70468,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Lithochori",
+    "gn:country_code":"GR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":735403,
+    "gn:latitude":41.04825,
+    "gn:longitude":24.70468,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Lithoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03c1\u03ac \u039a\u03b9\u03b4\u03b1\u03c1\u03bb\u03ae"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b8\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Lithoch\u00f3ri",
+        "Lithoch\u00f3rion",
+        "\u039b\u03b9\u03b8\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd",
+        "\u039a\u03b1\u03c1\u03ac \u039a\u03b9\u03b4\u03b1\u03c1\u03bb\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Kar\u00e1 Kidarl\u00ed",
+        "Lithokh\u00f3ri",
+        "Lithokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735403
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1508c4e45c39812b5f6385f50e8d7b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243489389,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243489389,
+    "wof:lastmodified":1537624900,
+    "wof:name":"Lithochori",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70468,
+    41.04825,
+    24.70468,
+    41.04825
+],
+  "geometry": {"coordinates":[24.70468,41.04825],"type":"Point"}
+}

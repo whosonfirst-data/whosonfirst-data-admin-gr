@@ -1,0 +1,80 @@
+{
+  "id": 1293328861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.961,37.52715,22.961,37.52715",
+    "geom:latitude":37.52715,
+    "geom:longitude":22.961,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Kandia",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261148,
+    "gn:latitude":37.52715,
+    "gn:longitude":22.961,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"K\u00e1ndia",
+    "gn:population":241,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03c4\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kantia"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1ndhia",
+        "K\u00e1ndia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261148
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a5c337de8894c9a2e4f343f6786db80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293328861,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293328861,
+    "wof:lastmodified":1537624576,
+    "wof:name":"Kandia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.961,
+    37.52715,
+    22.961,
+    37.52715
+],
+  "geometry": {"coordinates":[22.961,37.52715],"type":"Point"}
+}

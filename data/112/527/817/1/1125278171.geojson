@@ -1,0 +1,79 @@
+{
+  "id": 1125278171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48228,40.10753,22.48228,40.10753",
+    "geom:latitude":40.10753,
+    "geom:longitude":22.48228,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":25872,
+    "gn:population":25872,
+    "iso:country":"GR",
+    "lbl:latitude":40.10753,
+    "lbl:longitude":22.48228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0394\u03af\u03bf\u03c5 - \u039f\u03bb\u03cd\u03bc\u03c0\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133846,
+    "qs_pg:gn_pop":25872,
+    "qs_pg:name":"Dimos Dio-Olympos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":109672,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133846,
+        "qs_pg:id":109672
+    },
+    "wof:country":"GR",
+    "wof:created":1497042400,
+    "wof:geomhash":"a2a364380be302787649869cd99d580d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125278171,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125278171,
+    "wof:lastmodified":1509387213,
+    "wof:name":"Dimos Dio-Olympos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"localadmin",
+    "wof:population":25872,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48228,
+    40.10753,
+    22.48228,
+    40.10753
+],
+  "geometry": {"coordinates":[22.48228,40.10753],"type":"Point"}
+}

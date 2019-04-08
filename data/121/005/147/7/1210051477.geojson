@@ -1,0 +1,79 @@
+{
+  "id": 1210051477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92873,41.23675,25.92873,41.23675",
+    "geom:latitude":41.23675,
+    "geom:longitude":25.92873,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9010",
+    "gn:asciiname":"Alyko",
+    "gn:country_code":"GR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736922,
+    "gn:latitude":41.23675,
+    "gn:longitude":25.92873,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Alyk\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Alyk\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03c5\u03ba\u03cc",
+        "Alyk\u00f3n",
+        "\u0391\u03bb\u03c5\u03ba\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ahlaj\u00edko\u00ef",
+        "\u00c1likon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736922
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7b39ffe2ff79a21cdcfc78003bb878d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210051477,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1210051477,
+    "wof:lastmodified":1537624984,
+    "wof:name":"Alyko",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92873,
+    41.23675,
+    25.92873,
+    41.23675
+],
+  "geometry": {"coordinates":[25.92873,41.23675],"type":"Point"}
+}

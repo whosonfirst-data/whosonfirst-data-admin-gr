@@ -1,0 +1,134 @@
+{
+  "id": 1125995155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.45,41.38333,23.45,41.38333",
+    "geom:latitude":41.38333,
+    "geom:longitude":23.45,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1100,
+    "gn:population":373,
+    "iso:country":"GR",
+    "lbl:latitude":41.38333,
+    "lbl:longitude":23.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043d\u0433\u0435\u043b\u044c\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Agkistro"
+    ],
+    "name:ell_x_historical":[
+        "\u03a4\u03c3\u03b9\u03b3\u03b3\u03ad\u03bb\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gkistro"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03ba\u03b9\u03c3\u03c4\u03c1\u03bf",
+        "\u00c1gkistron",
+        "\u0386\u03b3\u03ba\u03b9\u03c3\u03c4\u03c1\u03bf\u03bd",
+        "\u03a4\u03c3\u03b9\u03b3\u03b3\u03ad\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Agkistro"
+    ],
+    "name:fre_x_preferred":[
+        "Agkistro"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03ba\u03b9\u03c3\u03c4\u03c1\u03bf \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Agkistro"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0435\u043d\u0433\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c1gistro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0438\u0441\u0442\u0440\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gkistro"
+    ],
+    "name:unk_x_variant":[
+        "Tsing\u00e9li"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736840,
+    "qs_pg:gn_pop":1100,
+    "qs_pg:name":"Angistron",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":239691,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":945756,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736840,
+        "gp:id":945756,
+        "qs_pg:id":239691,
+        "wd:id":"Q2472738"
+    },
+    "wof:country":"GR",
+    "wof:created":1497299277,
+    "wof:geomhash":"c40eccd8d263c6e22316541c6e91b064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125995155,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125995155,
+    "wof:lastmodified":1514443919,
+    "wof:name":"Angistron",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45,
+    41.38333,
+    23.45,
+    41.38333
+],
+  "geometry": {"coordinates":[23.45,41.38333],"type":"Point"}
+}

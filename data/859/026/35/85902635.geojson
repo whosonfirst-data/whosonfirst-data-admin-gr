@@ -1,0 +1,128 @@
+{
+  "id": 85902635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1640179.646301,
+    "geom:bbox":"23.7128762002,37.9896690281,23.7258103227,38.0061583464",
+    "geom:latitude":37.998032,
+    "geom:longitude":23.71965,
+    "gn:latitude":38.00032,
+    "gn:longitude":23.72427,
+    "iso:country":"GR",
+    "lbl:latitude":37.996976,
+    "lbl:longitude":23.722262,
+    "mps:latitude":37.998155,
+    "mps:longitude":23.719528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03c4\u03b9\u03ba\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Attiki"
+    ],
+    "name:eng_x_variant":[
+        "Attik\u00ed"
+    ],
+    "name:fin_x_preferred":[
+        "Attik\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0442\u0438\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Attik\u00ed",
+        "Attiki"
+    ],
+    "qs:gn_adm0_cc":"GR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":264371,
+    "qs:gn_nam_loc":"Athens, Athens, Attica, Attica, GR",
+    "qs:gn_namadm1":"ESYE31",
+    "qs:gn_name":"Attik\u00ed",
+    "qs:local_max":27412,
+    "qs:local_sum":157250,
+    "qs:localhoods":61,
+    "qs:name":"Attiki",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Attica",
+    "qs:name_adm2":"Attica",
+    "qs:name_lau":"Athens",
+    "qs:name_local":"Athens",
+    "qs:photo_max":133,
+    "qs:photo_sum":676,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424833,
+    "qs:woe_adm1":56558063,
+    "qs:woe_adm2":12577879,
+    "qs:woe_lau":24544440,
+    "qs:woe_local":946738,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191581,
+        1175612731,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264354,
+        "gp:id":946759,
+        "qs:id":1145391,
+        "qs_pg:id":1145391,
+        "wd:id":"Q4818367",
+        "wk:page":"Attiki, Athens"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8f945e1352bce5743e880a1579d44db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1175612731,
+            "neighbourhood_id":85902635,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":85902635,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1538606688,
+    "wof:name":"Attiki",
+    "wof:parent_id":1175612731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71287620019439,
+    37.98966902805033,
+    23.72581032268511,
+    38.00615834635649
+],
+  "geometry": {"coordinates":[[[23.71981008103882,38.00615834635649],[23.72292909011293,38.00536666093588],[23.7241408684435,38.00587929178387],[23.7249755844814,38.00481995997636],[23.72581032268511,38.00376058465085],[23.72528792641566,38.00177175088864],[23.72497558572331,38.0015735637502],[23.72497558591039,38.00049145080003],[23.7249755859167,37.99832708921257],[23.7249755859167,37.99616267172519],[23.7249755859167,37.99399819040018],[23.72497558591391,37.99183364512524],[23.72497558591914,37.98966903792403],[23.72222900390011,37.98966903478467],[23.71893794309392,37.98966902805033],[23.7183692888035,37.99183358925021],[23.71398925780011,37.99183358925021],[23.71398925780011,37.99183365310002],[23.71398925780011,37.99475022019602],[23.71287620019439,37.9961626158251],[23.71398925780011,38.00040005284211],[23.71400725093855,38.00046855315198],[23.71398925780011,38.00049138692516],[23.71398925780011,38.00049145080003],[23.71398925780011,38.00481990252534],[23.71398925780011,38.00481996640011],[23.71398930813086,38.00481996640011],[23.71400716928787,38.0048426340238],[23.71673583982511,38.00553522812791],[23.71860058645279,38.00506191614114],[23.71948242190012,38.00586131701536],[23.71981008103882,38.00615834635649]]],"type":"Polygon"}
+}

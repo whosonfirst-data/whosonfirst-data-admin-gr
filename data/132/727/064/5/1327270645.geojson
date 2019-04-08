@@ -1,0 +1,79 @@
+{
+  "id": 1327270645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97097,37.93936,21.97097,37.93936",
+    "geom:latitude":37.93936,
+    "geom:longitude":21.97097,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Drovolovo",
+    "gn:country_code":"GR",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262859,
+    "gn:latitude":37.93936,
+    "gn:longitude":21.97097,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Drovolov\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Drovolov\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03bf\u03b2\u03bf\u03bb\u03bf\u03b2\u03cc",
+        "Drovolov\u00f3n",
+        "\u0394\u03c1\u03bf\u03b2\u03bf\u03bb\u03bf\u03b2\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Dhrovolov\u00f3",
+        "Dhrovolov\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262859
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"af1c4eeec7217946b6aa8b4fbfba3390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327270645,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327270645,
+    "wof:lastmodified":1537624652,
+    "wof:name":"Drovolovo",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97097,
+    37.93936,
+    21.97097,
+    37.93936
+],
+  "geometry": {"coordinates":[21.97097,37.93936],"type":"Point"}
+}

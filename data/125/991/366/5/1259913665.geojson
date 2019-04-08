@@ -1,0 +1,80 @@
+{
+  "id": 1259913665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24973,37.71747,22.24973,37.71747",
+    "geom:latitude":37.71747,
+    "geom:longitude":22.24973,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Vlacherna",
+    "gn:country_code":"GR",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251905,
+    "gn:latitude":37.71747,
+    "gn:longitude":22.24973,
+    "gn:modification_date":"2015-11-11",
+    "gn:name":"Vlach\u00e9rna",
+    "gn:population":372,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03b1\u03c7\u03ad\u03c1\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vlacherna"
+    ],
+    "name:und_x_variant":[
+        "Bezen\u00edkon",
+        "Vlakh\u00e9rna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251905
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8e4c096a8ba2d8ca39a5df5938abd818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259913665,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259913665,
+    "wof:lastmodified":1537624160,
+    "wof:name":"Vlacherna",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":372,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24973,
+    37.71747,
+    22.24973,
+    37.71747
+],
+  "geometry": {"coordinates":[22.24973,37.71747],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226373663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69028,37.81994,21.69028,37.81994",
+    "geom:latitude":37.81994,
+    "geom:longitude":21.69028,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Panopoulo",
+    "gn:country_code":"GR",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260105,
+    "gn:latitude":37.81994,
+    "gn:longitude":21.69028,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Pan\u00f3poulo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pan\u00f3poulo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf"
+    ],
+    "name:und_x_variant":[
+        "Kh\u00e1ni Pan\u00f3poulou",
+        "Kh\u00e1nia Panopo\u00falou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260105
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a37be04726127ffc552669fd0cae9389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226373663,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226373663,
+    "wof:lastmodified":1537624523,
+    "wof:name":"Panopoulo",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69028,
+    37.81994,
+    21.69028,
+    37.81994
+],
+  "geometry": {"coordinates":[21.69028,37.81994],"type":"Point"}
+}

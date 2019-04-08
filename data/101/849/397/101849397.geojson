@@ -1,0 +1,129 @@
+{
+  "id": 101849397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.025128,38.282952,22.025128,38.282952",
+    "geom:latitude":38.282952,
+    "geom:longitude":22.025128,
+    "gn:population":902,
+    "iso:country":"GR",
+    "lbl:latitude":38.282952,
+    "lbl:longitude":22.025128,
+    "mps:latitude":38.282952,
+    "mps:longitude":22.025128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u064a\u0627\u0646\u064a\u062a\u064a\u0643\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Selianitika"
+    ],
+    "name:dut_x_preferred":[
+        "Selianitika"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03b9\u03b1\u03bd\u03af\u03c4\u03b9\u03ba\u03b1 \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b5\u03bb\u03b9\u03b1\u03bd\u03af\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Selianitika"
+    ],
+    "name:fra_x_preferred":[
+        "Selianitika"
+    ],
+    "name:fre_x_preferred":[
+        "Selianitika"
+    ],
+    "name:ger_x_preferred":[
+        "Selianitika"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03b9\u03b1\u03bd\u03af\u03c4\u03b9\u03ba\u03b1 \u0391\u03c7\u03b1\u0390\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Selianitika"
+    ],
+    "name:nld_x_preferred":[
+        "Selianitika"
+    ],
+    "name:swe_x_preferred":[
+        "Selianitika"
+    ],
+    "name:unk_x_variant":[
+        "Selian\u00edtika"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"AXAIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u0395\u039b\u0399\u0391\u039d\u0399\u03a4\u0399\u039a\u0391",
+    "qs:loc_alt":"SELIANITIKA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.266667,
+    "wd:longitude":22.016667,
+    "wd:wordcount":336,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254032,
+        "gp:id":961639,
+        "qs:id":123777,
+        "qs_pg:id":123777,
+        "wd:id":"Q2034853",
+        "wk:page":"Selianitika"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b53ae26a8765dd60fb5b02b6439b39e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849397,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849397,
+    "wof:lastmodified":1544740931,
+    "wof:name":"\u03a3\u0395\u039b\u0399\u0391\u039d\u0399\u03a4\u0399\u039a\u0391",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":902,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.025128,
+    38.282952,
+    22.025128,
+    38.282952
+],
+  "geometry": {"coordinates":[22.025128,38.282952],"type":"Point"}
+}

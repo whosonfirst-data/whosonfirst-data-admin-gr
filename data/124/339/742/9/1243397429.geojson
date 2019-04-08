@@ -1,0 +1,79 @@
+{
+  "id": 1243397429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.04479,35.30329,25.04479,35.30329",
+    "geom:latitude":35.30329,
+    "geom:longitude":25.04479,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306.0",
+    "gn:asciiname":"Agios Georgios Methystis",
+    "gn:country_code":"GR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630419,
+    "gn:latitude":35.30329,
+    "gn:longitude":25.04479,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"\u00c1gios Ge\u00f3rgios Methyst\u00eds",
+    "gn:population":117,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039c\u03b5\u03b8\u03c5\u03c3\u03c4\u03ae\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u03bf \u039c\u03b5\u03b8\u03c5\u03c3\u03c4\u03ae\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Methystis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630419
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"08a9d74a35c9373b942bf25698497f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243397429,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243397429,
+    "wof:lastmodified":1537625087,
+    "wof:name":"Agios Georgios Methystis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.04479,
+    35.30329000000001,
+    25.04479,
+    35.30329000000001
+],
+  "geometry": {"coordinates":[25.04479,35.30329000000001],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293518477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11527,35.38904,24.11527,35.38904",
+    "geom:latitude":35.38904,
+    "geom:longitude":24.11527,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Melidoni",
+    "gn:country_code":"GR",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257324,
+    "gn:latitude":35.38904,
+    "gn:longitude":24.11527,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Melid\u00f3ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Melid\u00f3ni"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03bb\u03b9\u03b4\u03cc\u03bd\u03b9",
+        "Melid\u00f3nion",
+        "\u039c\u03b5\u03bb\u03b9\u03b4\u03cc\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Melidh\u00f3ni",
+        "Melidh\u00f3nion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257324
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cc1f74dbc9d96ee33e01145cb2377d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293518477,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293518477,
+    "wof:lastmodified":1537624401,
+    "wof:name":"Melidoni",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11527,
+    35.38904,
+    24.11527,
+    35.38904
+],
+  "geometry": {"coordinates":[24.11527,35.38904],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1125978465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.498,37.051889,25.498,37.051889",
+    "geom:latitude":37.051889,
+    "geom:longitude":25.498,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":37.051889,
+    "lbl:longitude":25.498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0648\u0634\u0646\u060c \u0643\u064a\u0643\u0644\u0627\u062f\u064a\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Filoti"
+    ],
+    "name:fin_x_preferred":[
+        "Fil\u00f3ti"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03b9\u03bb\u03ce\u03c4\u03b9 \u039d\u03ac\u03be\u03bf\u03c5"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u043e\u0442\u0438\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Fil\u00f3tion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Filoti",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":993032,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":949547,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":949547,
+        "qs_pg:id":993032,
+        "wd:id":"Q12231753"
+    },
+    "wof:country":"GR",
+    "wof:created":1497298447,
+    "wof:geomhash":"cb96ad303e26f60b80c6132782b0b7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125978465,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125978465,
+    "wof:lastmodified":1514443951,
+    "wof:name":"Filoti",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.498,
+    37.051889,
+    25.498,
+    37.051889
+],
+  "geometry": {"coordinates":[25.498,37.051889],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226079215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28008,35.11791,25.28008,35.11791",
+    "geom:latitude":35.11791,
+    "geom:longitude":25.28008,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Kalo Chorio",
+    "gn:country_code":"GR",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261367,
+    "gn:latitude":35.11791,
+    "gn:longitude":25.28008,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"K\u00e1lo Chori\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1lo Chori\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03bb\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc",
+        "K\u00e1lon Chor\u00edon",
+        "\u039a\u03ac\u03bb\u03bf\u03bd \u03a7\u03c9\u03c1\u03af\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00f3 Khori\u00f3",
+        "K\u00e1to Khori\u00f3",
+        "Kal\u00f3n Khor\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261367
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0ed4e68db2efb22f7dd828065c5ddabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226079215,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226079215,
+    "wof:lastmodified":1537624586,
+    "wof:name":"Kalo Chorio",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28008,
+    35.11790999999999,
+    25.28008,
+    35.11790999999999
+],
+  "geometry": {"coordinates":[25.28008,35.11790999999999],"type":"Point"}
+}

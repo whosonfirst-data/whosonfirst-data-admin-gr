@@ -1,0 +1,108 @@
+{
+  "id": 1125967475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40833,39.75917,20.40833,39.75917",
+    "geom:latitude":39.75917,
+    "geom:longitude":20.40833,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":163,
+    "gn:population":163,
+    "iso:country":"GR",
+    "lbl:latitude":39.75917,
+    "lbl:longitude":20.40833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Leja"
+    ],
+    "name:dut_x_preferred":[
+        "Lias"
+    ],
+    "name:ell_x_preferred":[
+        "Li\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Lias"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b9\u03ac\u03c2 \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Li\u00e1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258411,
+    "qs_pg:gn_pop":163,
+    "qs_pg:name":"Lia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1157926,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":955308,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258411,
+        "gp:id":955308,
+        "qs_pg:id":1157926,
+        "wd:id":"Q3324006"
+    },
+    "wof:country":"GR",
+    "wof:created":1497298029,
+    "wof:geomhash":"e35cf845d17c1db6fc2cb8409f42434d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125967475,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125967475,
+    "wof:lastmodified":1553816662,
+    "wof:name":"Lia",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":163,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40833,
+    39.75917,
+    20.40833,
+    39.75917
+],
+  "geometry": {"coordinates":[20.40833,39.75917],"type":"Point"}
+}

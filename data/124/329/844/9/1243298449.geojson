@@ -1,0 +1,76 @@
+{
+  "id": 1243298449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70365,37.8822,20.70365,37.8822",
+    "geom:latitude":37.8822,
+    "geom:longitude":20.70365,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Skinaria",
+    "gn:country_code":"GR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253626,
+    "gn:latitude":37.8822,
+    "gn:longitude":20.70365,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Skin\u00e1ria",
+    "gn:population":63,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b9\u03bd\u03ac\u03c1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Skinaria"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253626
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e6e107496cf85158bc187024494a4a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243298449,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243298449,
+    "wof:lastmodified":1537624230,
+    "wof:name":"Skinaria",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70365,
+    37.8822,
+    20.70365,
+    37.8822
+],
+  "geometry": {"coordinates":[20.70365,37.8822],"type":"Point"}
+}

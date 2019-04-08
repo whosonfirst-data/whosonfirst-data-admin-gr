@@ -1,0 +1,75 @@
+{
+  "id": 1343292439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60656,37.90303,21.60656,37.90303",
+    "geom:latitude":37.90303,
+    "geom:longitude":21.60656,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Kalfas",
+    "gn:country_code":"GR",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261526,
+    "gn:latitude":37.90303,
+    "gn:longitude":21.60656,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00e1lfas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bb\u03c6\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1lfa",
+        "K\u00e1lfas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261526,
+        "wk:page":"Kalfas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8c66820094645e681cddc67c09cfe111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343292439,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343292439,
+    "wof:lastmodified":1537624596,
+    "wof:name":"Kalfas",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60656,
+    37.90303,
+    21.60656,
+    37.90303
+],
+  "geometry": {"coordinates":[21.60656,37.90303],"type":"Point"}
+}

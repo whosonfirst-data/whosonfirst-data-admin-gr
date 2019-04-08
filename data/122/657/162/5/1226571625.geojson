@@ -1,0 +1,90 @@
+{
+  "id": 1226571625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65109,38.80726,21.65109,38.80726",
+    "geom:latitude":38.80726,
+    "geom:longitude":21.65109,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Khelidhon",
+    "gn:country_code":"GR",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260021,
+    "gn:latitude":38.80726,
+    "gn:longitude":21.65109,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Khelidh\u00f3n",
+    "gn:population":54,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039b\u03ac\u03c3\u03c4\u03bf\u03b2\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bb\u03b9\u03b4\u03cc\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03c3\u03c4\u03bf\u03b2\u03bf",
+        "\u03a7\u03b5\u03bb\u03b9\u03b4\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Chelidona"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1stovon",
+        "Khelidh\u00f3na",
+        "Khelidh\u00f3n",
+        "Chelidon",
+        "Chelidona"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260021
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"39240d97c0c9114ee2a3e6545aa98a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226571625,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226571625,
+    "wof:lastmodified":1537624518,
+    "wof:name":"Khelidhon",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65109,
+    38.80726,
+    21.65109,
+    38.80726
+],
+  "geometry": {"coordinates":[21.65109,38.80726],"type":"Point"}
+}

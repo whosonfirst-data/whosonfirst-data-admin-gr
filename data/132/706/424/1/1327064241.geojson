@@ -1,0 +1,73 @@
+{
+  "id": 1327064241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16531,35.10203,26.16531,35.10203",
+    "geom:latitude":35.10203,
+    "geom:longitude":26.16531,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Zakathos",
+    "gn:country_code":"GR",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8612374,
+    "gn:latitude":35.10203,
+    "gn:longitude":26.16531,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Z\u00e1kathos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Z\u00e1kathos"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03ac\u03ba\u03b1\u03b8\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8612374
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c448e0c52e1046a864a3277ad77f3540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327064241,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327064241,
+    "wof:lastmodified":1537625032,
+    "wof:name":"Zakathos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16531,
+    35.10203,
+    26.16531,
+    35.10203
+],
+  "geometry": {"coordinates":[26.16531,35.10203],"type":"Point"}
+}

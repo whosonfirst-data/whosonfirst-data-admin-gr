@@ -1,0 +1,86 @@
+{
+  "id": 1343988919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65815,38.73894,21.65815,38.73894",
+    "geom:latitude":38.73894,
+    "geom:longitude":21.65815,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Tsiknaiika",
+    "gn:country_code":"GR",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255444,
+    "gn:latitude":38.73894,
+    "gn:longitude":21.65815,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Tsikna\u00edika",
+    "gn:population":29,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03ba\u03bd\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Tsiknaiika"
+    ],
+    "name:und_x_variant":[
+        "Tsikn\u00e9ika",
+        "P\u00e9tra"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255444
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fd31956c3989d7c6cacf00f1f8e6d50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343988919,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343988919,
+    "wof:lastmodified":1537624306,
+    "wof:name":"Tsiknaiika",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65815,
+    38.73894,
+    21.65815,
+    38.73894
+],
+  "geometry": {"coordinates":[21.65815,38.73894],"type":"Point"}
+}

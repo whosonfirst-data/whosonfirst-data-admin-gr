@@ -1,0 +1,112 @@
+{
+  "id": 101849471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.363727,38.03283,21.363727,38.03283",
+    "geom:latitude":38.03283,
+    "geom:longitude":21.363727,
+    "gn:population":3307,
+    "iso:country":"GR",
+    "lbl:latitude":38.03283,
+    "lbl:longitude":21.363727,
+    "mps:latitude":38.03283,
+    "mps:longitude":21.363727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0631\u062f\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Varda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03c1\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "V\u00e1rda"
+    ],
+    "name:eng_x_preferred":[
+        "Varda"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03ac\u03c1\u03b4\u03b1 \u0397\u03bb\u03b5\u03af\u03b1\u03c2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30eb\u30c0"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00e1rda i Il\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e1rda"
+    ],
+    "name:unk_x_variant":[
+        "\u00c1no Manol\u00e1s"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"DYTIKH ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"HLEIA",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0392\u0391\u03a1\u0394\u0391",
+    "qs:loc_alt":"BARDA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252291,
+        "gp:id":964146,
+        "qs:id":76175,
+        "wd:id":"Q7915519"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"48f621068c83c5d442180eb5703b42f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849471,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":101849471,
+    "wof:lastmodified":1553815543,
+    "wof:name":"\u0392\u0391\u03a1\u0394\u0391",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":3307,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.363727,
+    38.03283,
+    21.363727,
+    38.03283
+],
+  "geometry": {"coordinates":[21.363727,38.03283],"type":"Point"}
+}

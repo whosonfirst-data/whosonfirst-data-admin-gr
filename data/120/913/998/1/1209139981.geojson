@@ -1,0 +1,67 @@
+{
+  "id": 1209139981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95353,38.27732,25.95353,38.27732",
+    "geom:latitude":38.27732,
+    "geom:longitude":25.95353,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Potamoi",
+    "gn:country_code":"GR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498983,
+    "gn:latitude":38.27732,
+    "gn:longitude":25.95353,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Potamo\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Potamo\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498983
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d1d59bf94642325ca1fcb9b55a117e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209139981
+        }
+    ],
+    "wof:id":1209139981,
+    "wof:lastmodified":1537625119,
+    "wof:name":"Potamoi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95353,
+    38.27732,
+    25.95353,
+    38.27732
+],
+  "geometry": {"coordinates":[25.95353,38.27732],"type":"Point"}
+}

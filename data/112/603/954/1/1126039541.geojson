@@ -1,0 +1,94 @@
+{
+  "id": 1126039541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23778,39.60472,20.23778,39.60472",
+    "geom:latitude":39.60472,
+    "geom:longitude":20.23778,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":201,
+    "gn:population":201,
+    "iso:country":"GR",
+    "lbl:latitude":39.60472,
+    "lbl:longitude":20.23778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Sm\u00e9rtos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bc\u03ad\u03c1\u03c4\u03bf\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253506,
+    "qs_pg:gn_pop":201,
+    "qs_pg:name":"Smertos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":968610,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962511,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253506,
+        "gp:id":962511,
+        "qs_pg:id":968610
+    },
+    "wof:country":"GR",
+    "wof:created":1497302046,
+    "wof:geomhash":"1217f2b66a4e8ba0a1f5a7c49af01e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126039541,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126039541,
+    "wof:lastmodified":1509408425,
+    "wof:name":"Smertos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23778,
+    39.60472,
+    20.23778,
+    39.60472
+],
+  "geometry": {"coordinates":[20.23778,39.60472],"type":"Point"}
+}

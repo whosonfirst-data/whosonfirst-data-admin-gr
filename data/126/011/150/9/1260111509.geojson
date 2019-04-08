@@ -1,0 +1,79 @@
+{
+  "id": 1260111509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90324,39.75455,19.90324,39.75455",
+    "geom:latitude":39.75455,
+    "geom:longitude":19.90324,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Mengoulas",
+    "gn:country_code":"GR",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463628,
+    "gn:latitude":39.75455,
+    "gn:longitude":19.90324,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"M\u00e9ngoulas",
+    "gn:population":6,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03b3\u03b3\u03bf\u03c5\u03bb\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Mengoulas"
+    ],
+    "name:und_x_variant":[
+        "Meggoulas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463628
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"28f3091f8e4a603d6a8a97da76b1fe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260111509,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1260111509,
+    "wof:lastmodified":1537624993,
+    "wof:name":"Mengoulas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90324,
+    39.75455,
+    19.90324,
+    39.75455
+],
+  "geometry": {"coordinates":[19.90324,39.75455],"type":"Point"}
+}

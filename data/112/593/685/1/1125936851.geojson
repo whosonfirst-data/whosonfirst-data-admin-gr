@@ -1,0 +1,102 @@
+{
+  "id": 1125936851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99833,41.25778,22.99833,41.25778",
+    "geom:latitude":41.25778,
+    "geom:longitude":22.99833,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1250,
+    "gn:population":820,
+    "iso:country":"GR",
+    "lbl:latitude":41.25778,
+    "lbl:longitude":22.99833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u03a3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2 \u03a0\u03bf\u03c1\u03bf\u03af\u03c9\u03bd"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b4\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03b4\u03cc\u03c0\u03bf\u03bb\u03b7",
+        "\u03a3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2 \u03a0\u03bf\u03c1\u03bf\u03af\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Rodopoli"
+    ],
+    "name:unk_x_variant":[
+        "Rodh\u00f3polis"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734374,
+    "qs_pg:gn_pop":1250,
+    "qs_pg:name":"Rodhopolis",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":869530,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":961262,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734374,
+        "gp:id":961262,
+        "qs_pg:id":869530
+    },
+    "wof:country":"GR",
+    "wof:created":1497296993,
+    "wof:geomhash":"85d4d3486ee2b544b4732d45f03a452c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125936851,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125936851,
+    "wof:lastmodified":1509401804,
+    "wof:name":"Rodhopolis",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":820,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99833,
+    41.25778,
+    22.99833,
+    41.25778
+],
+  "geometry": {"coordinates":[22.99833,41.25778],"type":"Point"}
+}

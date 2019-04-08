@@ -1,0 +1,72 @@
+{
+  "id": 1209040431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77763,37.96352,23.77763,37.96352",
+    "geom:latitude":37.96352,
+    "geom:longitude":23.77763,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445408.0",
+    "gn:admin3_code":"9192",
+    "gn:asciiname":"Vlitikos Stathmos",
+    "gn:country_code":"GR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036667,
+    "gn:latitude":37.96352,
+    "gn:longitude":23.77763,
+    "gn:modification_date":"2014-05-19",
+    "gn:name":"Vlitik\u00f3s Stathm\u00f3s",
+    "gn:population":88,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc\u03c2 \u03a3\u03c4\u03b1\u03b8\u03bc\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vlitikos Stathmos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036667
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cd1d577b43f471faa3e089a09499b5fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209040431
+        }
+    ],
+    "wof:id":1209040431,
+    "wof:lastmodified":1537551154,
+    "wof:name":"Vlitikos Stathmos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77763,
+    37.96352,
+    23.77763,
+    37.96352
+],
+  "geometry": {"coordinates":[23.77763,37.96352],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1260015725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04875,38.26976,22.04875,38.26976",
+    "geom:latitude":38.26976,
+    "geom:longitude":22.04875,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Rododafni",
+    "gn:country_code":"GR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254257,
+    "gn:latitude":38.26976,
+    "gn:longitude":22.04875,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"Rodod\u00e1fni",
+    "gn:population":2564,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039c\u03bf\u03c5\u03c1\u03bb\u03ac"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b4\u03bf\u03b4\u03ac\u03c6\u03bd\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03c5\u03c1\u03bb\u03ac"
+    ],
+    "name:eng_x_historical":[
+        "Mourla"
+    ],
+    "name:eng_x_preferred":[
+        "Rododafni"
+    ],
+    "name:eng_x_variant":[
+        "Mourla"
+    ],
+    "name:und_x_variant":[
+        "Mourl\u00e1",
+        "Rodhodh\u00e1fni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254257,
+        "wk:page":"Rododafni"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1da274070116e6e2d110e865ded2d5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260015725,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1260015725,
+    "wof:lastmodified":1537624259,
+    "wof:name":"Rododafni",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":2564,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04875,
+    38.26976,
+    22.04875,
+    38.26976
+],
+  "geometry": {"coordinates":[22.04875,38.26976],"type":"Point"}
+}

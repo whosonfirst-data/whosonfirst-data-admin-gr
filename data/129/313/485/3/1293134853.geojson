@@ -1,0 +1,80 @@
+{
+  "id": 1293134853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62955,35.20766,24.62955,35.20766",
+    "geom:latitude":35.20766,
+    "geom:longitude":24.62955,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Kardaki",
+    "gn:country_code":"GR",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261004,
+    "gn:latitude":35.20766,
+    "gn:longitude":24.62955,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kard\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kard\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b4\u03ac\u03ba\u03b9",
+        "Kard\u00e1kion",
+        "\u039a\u03b1\u03c1\u03b4\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kardh\u00e1ki",
+        "Karidh\u00e1ki",
+        "Kardh\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261004
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ee8d4c72569f9d1d067921e9cd02ba43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293134853,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293134853,
+    "wof:lastmodified":1537624570,
+    "wof:name":"Kardaki",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62955,
+    35.20766,
+    24.62955,
+    35.20766
+],
+  "geometry": {"coordinates":[24.62955,35.20766],"type":"Point"}
+}

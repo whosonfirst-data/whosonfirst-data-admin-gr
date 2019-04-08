@@ -1,0 +1,83 @@
+{
+  "id": 1327170335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33278,38.90026,22.33278,38.90026",
+    "geom:latitude":38.90026,
+    "geom:longitude":22.33278,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Amouri",
+    "gn:country_code":"GR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265139,
+    "gn:latitude":38.90026,
+    "gn:longitude":22.33278,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Amo\u00fari",
+    "gn:population":278,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03bf\u03cd\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03bf\u03cd\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Amouri"
+    ],
+    "name:und_x_variant":[
+        "Amo\u00fari",
+        "Amo\u00farion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265139
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"48d038ca0012a47ad1cb7b0f26d7c43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170335,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327170335,
+    "wof:lastmodified":1537624761,
+    "wof:name":"Amouri",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33278,
+    38.90026,
+    22.33278,
+    38.90026
+],
+  "geometry": {"coordinates":[22.33278,38.90026],"type":"Point"}
+}

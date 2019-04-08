@@ -1,0 +1,89 @@
+{
+  "id": 101849597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.843407,39.600227,20.843407,39.600227",
+    "geom:latitude":39.600227,
+    "geom:longitude":20.843407,
+    "gn:population":2871,
+    "iso:country":"GR",
+    "lbl:latitude":39.600227,
+    "lbl:longitude":20.843407,
+    "mps:latitude":39.600227,
+    "mps:longitude":20.843407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03b4\u03b9\u03bd\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Pedini"
+    ],
+    "name:unk_x_variant":[
+        "Pedhin\u00ed"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0397\u03a0\u0395\u0399\u03a1\u039f\u03a3",
+    "qs:a1_alt":"HPEIROS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"IVANNINA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0395\u0394\u0399\u039d\u0397",
+    "qs:loc_alt":"PEDINH",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255646,
+        "gp:id":959445,
+        "qs:id":78855
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0bf9648af6b533985f36d81ea2690772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849597,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":101849597,
+    "wof:lastmodified":1544741025,
+    "wof:name":"\u03a0\u0395\u0394\u0399\u039d\u0397",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":2871,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.843407,
+    39.600227,
+    20.843407,
+    39.600227
+],
+  "geometry": {"coordinates":[20.843407,39.600227],"type":"Point"}
+}

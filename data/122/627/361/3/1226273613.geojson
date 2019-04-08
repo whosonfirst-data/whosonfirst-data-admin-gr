@@ -1,0 +1,67 @@
+{
+  "id": 1226273613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59556,41.01444,22.59556,41.01444",
+    "geom:latitude":41.01444,
+    "geom:longitude":22.59556,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"6.0",
+    "gn:admin3_code":"9041",
+    "gn:asciiname":"Koulinaiika",
+    "gn:country_code":"GR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862574,
+    "gn:latitude":41.01444,
+    "gn:longitude":22.59556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koulina\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862574
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"003dd855087619cbe5028ca4926b2835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226273613,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1226273613,
+    "wof:lastmodified":1536893252,
+    "wof:name":"Koulinaiika",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59556,
+    41.01444,
+    22.59556,
+    41.01444
+],
+  "geometry": {"coordinates":[22.59556,41.01444],"type":"Point"}
+}

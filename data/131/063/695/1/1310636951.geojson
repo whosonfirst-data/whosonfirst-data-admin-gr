@@ -1,0 +1,76 @@
+{
+  "id": 1310636951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37168,36.49911,22.37168,36.49911",
+    "geom:latitude":36.49911,
+    "geom:longitude":22.37168,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Kounos",
+    "gn:country_code":"GR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259045,
+    "gn:latitude":36.49911,
+    "gn:longitude":22.37168,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Ko\u00fanos",
+    "gn:population":32,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kounos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259045
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"086c9cfb9f3ac15adbf9efca0ea749c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310636951,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310636951,
+    "wof:lastmodified":1537624477,
+    "wof:name":"Kounos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37168,
+    36.49911,
+    22.37168,
+    36.49911
+],
+  "geometry": {"coordinates":[22.37168,36.49911],"type":"Point"}
+}

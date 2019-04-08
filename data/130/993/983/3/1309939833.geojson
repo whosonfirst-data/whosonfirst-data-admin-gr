@@ -1,0 +1,75 @@
+{
+  "id": 1309939833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86222,36.91918,21.86222,36.91918",
+    "geom:latitude":36.91918,
+    "geom:longitude":21.86222,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Gamvria",
+    "gn:country_code":"GR",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262120,
+    "gn:latitude":36.91918,
+    "gn:longitude":21.86222,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Gamvri\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03bc\u03b2\u03c1\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Gamoria",
+        "Gambri\u00e1",
+        "Gamvri\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262120
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3b1e54a55db62973f0f97dee44792302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309939833,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1309939833,
+    "wof:lastmodified":1537624620,
+    "wof:name":"Gamvria",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86222,
+    36.91918,
+    21.86222,
+    36.91918
+],
+  "geometry": {"coordinates":[21.86222,36.91918],"type":"Point"}
+}

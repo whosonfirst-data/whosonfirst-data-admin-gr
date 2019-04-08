@@ -1,0 +1,71 @@
+{
+  "id": 1243007121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17121,37.58321,25.17121,37.58321",
+    "geom:latitude":37.58321,
+    "geom:longitude":25.17121,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9301",
+    "gn:asciiname":"Koumaros",
+    "gn:country_code":"GR",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259083,
+    "gn:latitude":37.58321,
+    "gn:longitude":25.17121,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Koum\u00e1ros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koum\u00e1ros",
+        "\u039a\u03bf\u03c5\u03bc\u03ac\u03c1\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259083
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"029b8dacea900511efd3721075fac6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243007121,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243007121,
+    "wof:lastmodified":1537624479,
+    "wof:name":"Koumaros",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17121,
+    37.58321,
+    25.17121,
+    37.58321
+],
+  "geometry": {"coordinates":[25.17121,37.58321],"type":"Point"}
+}

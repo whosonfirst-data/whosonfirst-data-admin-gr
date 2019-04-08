@@ -1,0 +1,74 @@
+{
+  "id": 1226074831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89774,37.0855,21.89774,37.0855",
+    "geom:latitude":37.0855,
+    "geom:longitude":21.89774,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Manesis",
+    "gn:country_code":"GR",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257793,
+    "gn:latitude":37.0855,
+    "gn:longitude":21.89774,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"M\u00e1nesis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03b5\u03c3\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "M\u00e1nesi",
+        "M\u00e1nesis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257793
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4da72398ae9e88f6aa33725a90f1b403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226074831,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226074831,
+    "wof:lastmodified":1537624418,
+    "wof:name":"Manesis",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89774,
+    37.0855,
+    21.89774,
+    37.0855
+],
+  "geometry": {"coordinates":[21.89774,37.0855],"type":"Point"}
+}

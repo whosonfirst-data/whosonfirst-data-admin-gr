@@ -1,0 +1,76 @@
+{
+  "id": 1343295847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13493,37.91702,21.13493,37.91702",
+    "geom:latitude":37.91702,
+    "geom:longitude":21.13493,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9135.0",
+    "gn:asciiname":"Analipsi",
+    "gn:country_code":"GR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497734,
+    "gn:latitude":37.91702,
+    "gn:longitude":21.13493,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Analipsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0391\u03bd\u03ac\u03bb\u03b7\u03c8\u03b9\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ac\u03bb\u03b7\u03c8\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03ac\u03bb\u03b7\u03c8\u03b9\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497734
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"156a08123fb4e907385c46e69ff05f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343295847,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343295847,
+    "wof:lastmodified":1537625118,
+    "wof:name":"Analipsi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13493,
+    37.91702,
+    21.13493,
+    37.91702
+],
+  "geometry": {"coordinates":[21.13493,37.91702],"type":"Point"}
+}

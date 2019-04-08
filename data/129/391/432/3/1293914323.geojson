@@ -1,0 +1,76 @@
+{
+  "id": 1293914323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58141,37.05531,25.58141,37.05531",
+    "geom:latitude":37.05531,
+    "geom:longitude":25.58141,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292.0",
+    "gn:asciiname":"Lygaridia",
+    "gn:country_code":"GR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794105,
+    "gn:latitude":37.05531,
+    "gn:longitude":25.58141,
+    "gn:modification_date":"2015-10-02",
+    "gn:name":"Lygar\u00eddia",
+    "gn:population":23,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03c5\u03b3\u03b1\u03c1\u03af\u03b4\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lygaridia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794105
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"97272f5fa7d76285a10a181190c5f35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293914323,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1293914323,
+    "wof:lastmodified":1537625091,
+    "wof:name":"Lygaridia",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58141,
+    37.05531,
+    25.58141,
+    37.05531
+],
+  "geometry": {"coordinates":[25.58141,37.05531],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209549349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00337,37.8145,24.00337,37.8145",
+    "geom:latitude":37.8145,
+    "geom:longitude":24.00337,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Kontra Vilara",
+    "gn:country_code":"GR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036745,
+    "gn:latitude":37.8145,
+    "gn:longitude":24.00337,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"K\u00f3ntra Vilar\u00e1",
+    "gn:population":146,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bd\u03c4\u03c1\u03b1 \u0392\u03b9\u03bb\u03b1\u03c1\u03ac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036745
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ea3412fc3c177e2433ed270ee876748d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209549349
+        }
+    ],
+    "wof:id":1209549349,
+    "wof:lastmodified":1537551159,
+    "wof:name":"Kontra Vilara",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00337,
+    37.8145,
+    24.00337,
+    37.8145
+],
+  "geometry": {"coordinates":[24.00337,37.8145],"type":"Point"}
+}

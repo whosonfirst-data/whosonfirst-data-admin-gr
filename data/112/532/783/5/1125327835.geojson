@@ -1,0 +1,79 @@
+{
+  "id": 1125327835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99858,37.25566,21.99858,37.25566",
+    "geom:latitude":37.25566,
+    "geom:longitude":21.99858,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11681,
+    "gn:population":11681,
+    "iso:country":"GR",
+    "lbl:latitude":37.25566,
+    "lbl:longitude":21.99858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039f\u03b9\u03c7\u03b1\u03bb\u03af\u03b1\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133987,
+    "qs_pg:gn_pop":11681,
+    "qs_pg:name":"Dimos Oichalia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109718,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133987,
+        "qs_pg:id":109718
+    },
+    "wof:country":"GR",
+    "wof:created":1497044924,
+    "wof:geomhash":"8ef7a5997ade0bbcc8d2913ce7b3ceac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125327835,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125327835,
+    "wof:lastmodified":1509388289,
+    "wof:name":"Dimos Oichalia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"localadmin",
+    "wof:population":11681,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99858,
+    37.25566,
+    21.99858,
+    37.25566
+],
+  "geometry": {"coordinates":[21.99858,37.25566],"type":"Point"}
+}

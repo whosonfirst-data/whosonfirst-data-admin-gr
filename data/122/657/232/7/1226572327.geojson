@@ -1,0 +1,79 @@
+{
+  "id": 1226572327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12612,39.29597,22.12612,39.29597",
+    "geom:latitude":39.29597,
+    "geom:longitude":22.12612,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9096",
+    "gn:asciiname":"Agios Vissarios",
+    "gn:country_code":"GR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257397,
+    "gn:latitude":39.29597,
+    "gn:longitude":22.12612,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c1gios Viss\u00e1rios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Viss\u00e1rios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b7\u03c3\u03c3\u03ac\u03c1\u03b9\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Meg\u00e1lo Pazar\u00e1ki",
+        "M\u00e9ga Pazar\u00e1ki",
+        "M\u00e9ga Pazar\u00e1kion",
+        "Meg\u00e1lo Pazar\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257397
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6144cad671d7a5c01eaf95ae128d4544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226572327,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1226572327,
+    "wof:lastmodified":1537624403,
+    "wof:name":"Agios Vissarios",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12612,
+    39.29597,
+    22.12612,
+    39.29597
+],
+  "geometry": {"coordinates":[22.12612,39.29597],"type":"Point"}
+}

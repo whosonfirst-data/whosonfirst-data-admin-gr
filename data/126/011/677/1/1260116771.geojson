@@ -1,0 +1,80 @@
+{
+  "id": 1260116771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68115,35.24072,25.68115,35.24072",
+    "geom:latitude":35.24072,
+    "geom:longitude":25.68115,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Agia Pelagia",
+    "gn:country_code":"GR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264167,
+    "gn:latitude":35.24072,
+    "gn:longitude":25.68115,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Ag\u00eda Pelag\u00eda",
+    "gn:population":9,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b5\u03bb\u03b1\u03b3\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Pelagia"
+    ],
+    "name:und_x_variant":[
+        "Ag\u00eda Pelag\u00eda",
+        "Ay\u00eda Pelay\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264167
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ee3d71ef5958e789a7dbc6d475541a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260116771,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260116771,
+    "wof:lastmodified":1537624716,
+    "wof:name":"Agia Pelagia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68115,
+    35.24072,
+    25.68115,
+    35.24072
+],
+  "geometry": {"coordinates":[25.68115,35.24072],"type":"Point"}
+}

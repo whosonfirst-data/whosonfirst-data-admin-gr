@@ -1,0 +1,100 @@
+{
+  "id": 1209551559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00264,40.75414,21.00264,40.75414",
+    "geom:latitude":40.75414,
+    "geom:longitude":21.00264,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9071",
+    "gn:asciiname":"Pyxos",
+    "gn:country_code":"GR",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":734603,
+    "gn:latitude":40.75414,
+    "gn:longitude":21.00264,
+    "gn:modification_date":"2017-12-21",
+    "gn:name":"P\u00fdxos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u03a1\u03ac\u03c7\u03c9\u03b2\u03b1",
+        "\u038c\u03c1\u03bf\u03b2\u03bf\u03bd",
+        "\u039f\u03c1\u03ad\u03c7\u03bf\u03b2\u03bf\u03bd",
+        "\u03a1\u03ad\u03c7\u03bf\u03b2\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03be\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cd\u03c7\u03bf\u03c2",
+        "\u03a1\u03ac\u03c7\u03c9\u03b2\u03b1",
+        "\u038c\u03c1\u03bf\u03b2\u03bf\u03bd",
+        "\u039f\u03c1\u03ad\u03c7\u03bf\u03b2\u03bf\u03bd",
+        "\u03a1\u03ad\u03c7\u03bf\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pyxos"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u0420\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "P\u00edxos",
+        "Rahova-Orovon",
+        "Orovo",
+        "P\u00fdxos",
+        "\u00d3rovon",
+        "Rahova-Orovan",
+        "Piksos",
+        "R\u00e1khova",
+        "Rahovo",
+        "Ere\u00edpia P\u00fdxos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734603
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"88ade1e67ff4bbb37ec259fff5c753cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209551559
+        }
+    ],
+    "wof:id":1209551559,
+    "wof:lastmodified":1537624852,
+    "wof:name":"Pyxos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00264,
+    40.75414,
+    21.00264,
+    40.75414
+],
+  "geometry": {"coordinates":[21.00264,40.75414],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 1125959665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82028,39.90611,20.82028,39.90611",
+    "geom:latitude":39.90611,
+    "geom:longitude":20.82028,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":304,
+    "gn:population":261,
+    "iso:country":"GR",
+    "lbl:latitude":39.90611,
+    "lbl:longitude":20.82028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043f\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Tsepelovo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03c0\u03ad\u03bb\u03bf\u03b2\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b5\u03c0\u03ad\u03bb\u03bf\u03b2\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Tsepelovo"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03c0\u03ad\u03bb\u03bf\u03b2\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:nno_x_preferred":[
+        "Tsep\u00e9lovo"
+    ],
+    "name:swe_x_preferred":[
+        "Tsep\u00e9lovo"
+    ],
+    "name:unk_x_variant":[
+        "Tsep\u00e9lovo"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252502,
+    "qs_pg:gn_pop":304,
+    "qs_pg:name":"Tsepelovon",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":988684,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":963778,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252502,
+        "gp:id":963778,
+        "qs_pg:id":988684,
+        "wd:id":"Q3562082"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297749,
+    "wof:geomhash":"fdf025722c3c8e480b88ff50d8f32a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125959665,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125959665,
+    "wof:lastmodified":1514444068,
+    "wof:name":"Tsepelovon",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":261,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82028,
+    39.90611,
+    20.82028,
+    39.90611
+],
+  "geometry": {"coordinates":[20.82028,39.90611],"type":"Point"}
+}

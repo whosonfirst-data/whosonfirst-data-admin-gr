@@ -1,0 +1,80 @@
+{
+  "id": 1125988375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7706795,37.867739,23.7706795,37.867739",
+    "geom:latitude":37.867739,
+    "geom:longitude":23.770679,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":37.867739,
+    "lbl:longitude":23.770679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zoodochos Pigi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996417,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":965849,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":965849,
+        "qs_pg:id":996417
+    },
+    "wof:country":"GR",
+    "wof:created":1497298923,
+    "wof:geomhash":"26c086d52bef6dffcdf819c9ef4edf56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125988375,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1125988375,
+    "wof:lastmodified":1509405230,
+    "wof:name":"Zoodochos Pigi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7706795,
+    37.867739,
+    23.7706795,
+    37.867739
+],
+  "geometry": {"coordinates":[23.7706795,37.867739],"type":"Point"}
+}

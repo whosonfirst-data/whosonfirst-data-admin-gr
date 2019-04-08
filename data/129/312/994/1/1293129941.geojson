@@ -1,0 +1,82 @@
+{
+  "id": 1293129941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69658,39.34673,21.69658,39.34673",
+    "geom:latitude":39.34673,
+    "geom:longitude":21.69658,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9093",
+    "gn:asciiname":"Nevropoli",
+    "gn:country_code":"GR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227062,
+    "gn:latitude":39.34673,
+    "gn:longitude":21.69658,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Nevr\u00f3poli",
+    "gn:population":91,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03b2\u03c1\u03cc\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03c5\u03c1\u03cc\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Nevropoli"
+    ],
+    "name:eng_x_variant":[
+        "Nevropolis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227062
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9a180153665d3d87dc515b6af977e36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293129941,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293129941,
+    "wof:lastmodified":1537625085,
+    "wof:name":"Nevropoli",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69658,
+    39.34673,
+    21.69658,
+    39.34673
+],
+  "geometry": {"coordinates":[21.69658,39.34673],"type":"Point"}
+}

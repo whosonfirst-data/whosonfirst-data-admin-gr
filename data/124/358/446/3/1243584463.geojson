@@ -1,0 +1,76 @@
+{
+  "id": 1243584463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57592,38.44894,20.57592,38.44894",
+    "geom:latitude":38.44894,
+    "geom:longitude":20.57592,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Tselentata",
+    "gn:country_code":"GR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252508,
+    "gn:latitude":38.44894,
+    "gn:longitude":20.57592,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Tselent\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tselent\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c3\u03b5\u03bb\u03b5\u03bd\u03c4\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Tselend\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252508
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"786dbf3ef3522cedb2b0ed2107419e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243584463,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243584463,
+    "wof:lastmodified":1537624186,
+    "wof:name":"Tselentata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57592,
+    38.44894,
+    20.57592,
+    38.44894
+],
+  "geometry": {"coordinates":[20.57592,38.44894],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259719769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55889,38.13183,24.55889,38.13183",
+    "geom:latitude":38.13183,
+    "geom:longitude":24.55889,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Schizali",
+    "gn:country_code":"GR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253660,
+    "gn:latitude":38.13183,
+    "gn:longitude":24.55889,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sch\u00edzali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sch\u00edzali"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c7\u03af\u03b6\u03b1\u03bb\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Skh\u00edzali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253660
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e72a45f6de682b86e1175cd765ae53a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259719769,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1259719769,
+    "wof:lastmodified":1537624231,
+    "wof:name":"Schizali",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.55889,
+    38.13183,
+    24.55889,
+    38.13183
+],
+  "geometry": {"coordinates":[24.55889,38.13183],"type":"Point"}
+}

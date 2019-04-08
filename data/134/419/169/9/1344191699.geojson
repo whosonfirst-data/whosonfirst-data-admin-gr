@@ -1,0 +1,75 @@
+{
+  "id": 1344191699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20747,38.12653,22.20747,38.12653",
+    "geom:latitude":38.12653,
+    "geom:longitude":22.20747,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Kernitsa",
+    "gn:country_code":"GR",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260190,
+    "gn:latitude":38.12653,
+    "gn:longitude":22.20747,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kern\u00edtsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03bd\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kayian\u00e9\u00efka",
+        "Kayiana\u00edika",
+        "Kern\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260190
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5736119616e9b846c1ce91547893dd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344191699,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1344191699,
+    "wof:lastmodified":1537624528,
+    "wof:name":"Kernitsa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20747,
+    38.12653,
+    22.20747,
+    38.12653
+],
+  "geometry": {"coordinates":[22.20747,38.12653],"type":"Point"}
+}

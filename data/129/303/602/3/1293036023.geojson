@@ -1,0 +1,87 @@
+{
+  "id": 1293036023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63194,39.75605,20.63194,39.75605",
+    "geom:latitude":39.75605,
+    "geom:longitude":20.63194,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9083",
+    "gn:asciiname":"Sakellariko",
+    "gn:country_code":"GR",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258960,
+    "gn:latitude":39.75605,
+    "gn:longitude":20.63194,
+    "gn:modification_date":"2015-03-29",
+    "gn:name":"Sakellarik\u00f3",
+    "gn:population":54,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03ba\u03b5\u03bb\u03bb\u03b1\u03c1\u03b9\u03ba\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03c4\u03c1\u03bf\u03c5\u03bb\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Sakellariko"
+    ],
+    "name:eng_x_variant":[
+        "Koutroulades"
+    ],
+    "name:und_x_variant":[
+        "Koutourl\u00e1dhes",
+        "Koutourl\u00e1des",
+        "Koutroul\u00e1des"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258960
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d349a36d19c7da0f8d3844f5a733e1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293036023,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293036023,
+    "wof:lastmodified":1537624473,
+    "wof:name":"Sakellariko",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63194,
+    39.75605,
+    20.63194,
+    39.75605
+],
+  "geometry": {"coordinates":[20.63194,39.75605],"type":"Point"}
+}

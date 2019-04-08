@@ -1,0 +1,82 @@
+{
+  "id": 1209137349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16575,36.99885,22.16575,36.99885",
+    "geom:latitude":36.99885,
+    "geom:longitude":22.16575,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Kato Verga",
+    "gn:country_code":"GR",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260483,
+    "gn:latitude":36.99885,
+    "gn:longitude":22.16575,
+    "gn:modification_date":"2015-01-16",
+    "gn:name":"K\u00e1to V\u00e9rga",
+    "gn:population":94,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03ad\u03bb\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03ad\u03c1\u03b3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03ad\u03bb\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Verga"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to V\u00e9rga",
+        "K\u00e1to S\u00e9litsa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260483
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"82daef7d6b2894bca3d70331d831a8ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209137349
+        }
+    ],
+    "wof:id":1209137349,
+    "wof:lastmodified":1537624542,
+    "wof:name":"Kato Verga",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16575,
+    36.99885,
+    22.16575,
+    36.99885
+],
+  "geometry": {"coordinates":[22.16575,36.99885],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310630331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14704,37.07242,25.14704,37.07242",
+    "geom:latitude":37.07242,
+    "geom:longitude":25.14704,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9294",
+    "gn:asciiname":"Kakapetra",
+    "gn:country_code":"GR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255743,
+    "gn:latitude":37.07242,
+    "gn:longitude":25.14704,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kak\u00e1petra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kak\u00e1petra"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03ba\u03ac\u03c0\u03b5\u03c4\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Parasp\u00f3ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255743
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0077f685d50b4e0fe6295021d763feea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310630331,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1310630331,
+    "wof:lastmodified":1537624319,
+    "wof:name":"Kakapetra",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14704,
+    37.07242,
+    25.14704,
+    37.07242
+],
+  "geometry": {"coordinates":[25.14704,37.07242],"type":"Point"}
+}

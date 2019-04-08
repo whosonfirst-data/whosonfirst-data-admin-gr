@@ -1,0 +1,65 @@
+{
+  "id": 1344193829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32652,37.89639,21.32652,37.89639",
+    "geom:latitude":37.89639,
+    "geom:longitude":21.32652,
+    "gn:admin1_code":"ESYE25",
+    "gn:asciiname":"Markopoulon",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257672,
+    "gn:latitude":37.89639,
+    "gn:longitude":21.32652,
+    "gn:modification_date":"2011-02-22",
+    "gn:name":"Mark\u00f3poulon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257672
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fa59febc3f37152a053432422d8498c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344193829,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1344193829,
+    "wof:lastmodified":1536683051,
+    "wof:name":"Markopoulon",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32652,
+    37.89639,
+    21.32652,
+    37.89639
+],
+  "geometry": {"coordinates":[21.32652,37.89639],"type":"Point"}
+}

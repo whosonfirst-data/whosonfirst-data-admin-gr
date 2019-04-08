@@ -1,0 +1,80 @@
+{
+  "id": 1293920175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.63044,37.8874,22.63044,37.8874",
+    "geom:latitude":37.8874,
+    "geom:longitude":22.63044,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9245",
+    "gn:asciiname":"Dhafni",
+    "gn:country_code":"GR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263314,
+    "gn:latitude":37.8874,
+    "gn:longitude":22.63044,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Dh\u00e1fni",
+    "gn:population":256,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03ac\u03c6\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Dafni"
+    ],
+    "name:und_x_variant":[
+        "L\u00e9riza",
+        "Dh\u00e1fni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263314
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e789ae946445590aa0eaa77112742a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293920175,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293920175,
+    "wof:lastmodified":1537624679,
+    "wof:name":"Dhafni",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":256,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.63044,
+    37.8874,
+    22.63044,
+    37.8874
+],
+  "geometry": {"coordinates":[22.63044,37.8874],"type":"Point"}
+}

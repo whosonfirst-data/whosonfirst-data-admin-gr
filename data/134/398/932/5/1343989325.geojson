@@ -1,0 +1,76 @@
+{
+  "id": 1343989325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45381,40.94811,24.45381,40.94811",
+    "geom:latitude":40.94811,
+    "geom:longitude":24.45381,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9012",
+    "gn:asciiname":"Aspri Ammos",
+    "gn:country_code":"GR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9389361,
+    "gn:latitude":40.94811,
+    "gn:longitude":24.45381,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"\u00c1spri \u00c1mmos",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03c3\u03c0\u03c1\u03b7 \u0386\u03bc\u03bc\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Aspri Ammos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9389361
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f3807d8682ec14de833dbc098d319fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343989325,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343989325,
+    "wof:lastmodified":1537625063,
+    "wof:name":"Aspri Ammos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45381,
+    40.94811,
+    24.45381,
+    40.94811
+],
+  "geometry": {"coordinates":[24.45381,40.94811],"type":"Point"}
+}

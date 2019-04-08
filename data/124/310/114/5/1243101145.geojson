@@ -1,0 +1,72 @@
+{
+  "id": 1243101145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71169,35.21154,24.71169,35.21154",
+    "geom:latitude":35.21154,
+    "geom:longitude":24.71169,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Fourfouras",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262281,
+    "gn:latitude":35.21154,
+    "gn:longitude":24.71169,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Fourfour\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fo\u00fafouras",
+        "Fourfour\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262281
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fb36703f1f38594a8d7078ad439669e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243101145,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243101145,
+    "wof:lastmodified":1537624625,
+    "wof:name":"Fourfouras",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71169,
+    35.21154,
+    24.71169,
+    35.21154
+],
+  "geometry": {"coordinates":[24.71169,35.21154],"type":"Point"}
+}

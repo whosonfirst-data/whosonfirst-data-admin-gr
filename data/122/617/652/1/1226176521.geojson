@@ -1,0 +1,78 @@
+{
+  "id": 1226176521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.29856,39.24047,23.29856,39.24047",
+    "geom:latitude":39.24047,
+    "geom:longitude":23.29856,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Koulouraiika",
+    "gn:country_code":"GR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259124,
+    "gn:latitude":39.24047,
+    "gn:longitude":23.29856,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kouloura\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kouloura\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bb\u03bf\u03c5\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kour\u00e9\u00efka",
+        "Koura\u00ed\u00efka",
+        "Koulara\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259124
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f03f0a42e9a6a61a48a45a46a736afcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226176521,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1226176521,
+    "wof:lastmodified":1537624481,
+    "wof:name":"Koulouraiika",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29856,
+    39.24047,
+    23.29856,
+    39.24047
+],
+  "geometry": {"coordinates":[23.29856,39.24047],"type":"Point"}
+}

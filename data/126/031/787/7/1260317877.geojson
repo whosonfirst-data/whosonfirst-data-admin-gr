@@ -1,0 +1,77 @@
+{
+  "id": 1260317877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.07221,35.20007,24.07221,35.20007",
+    "geom:latitude":35.20007,
+    "geom:longitude":24.07221,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9324",
+    "gn:asciiname":"Foinikas",
+    "gn:country_code":"GR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523211,
+    "gn:latitude":35.20007,
+    "gn:longitude":24.07221,
+    "gn:modification_date":"2015-02-15",
+    "gn:name":"Fo\u00ednikas",
+    "gn:population":13,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03af\u03bd\u03b9\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Foinikas"
+    ],
+    "name:und_x_variant":[
+        "Fo\u00ednikas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523211
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"993d756eae59b8456ff25f62cd3adfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1260317877,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260317877,
+    "wof:lastmodified":1537625016,
+    "wof:name":"Foinikas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07221,
+    35.20007000000001,
+    24.07221,
+    35.20007000000001
+],
+  "geometry": {"coordinates":[24.07221,35.20007000000001],"type":"Point"}
+}

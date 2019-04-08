@@ -1,0 +1,78 @@
+{
+  "id": 1327066825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98806,39.21722,20.98806,39.21722",
+    "geom:latitude":39.21722,
+    "geom:longitude":20.98806,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9073",
+    "gn:asciiname":"Progonon",
+    "gn:country_code":"GR",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":254589,
+    "gn:latitude":39.21722,
+    "gn:longitude":20.98806,
+    "gn:modification_date":"2015-10-25",
+    "gn:name":"Pr\u00f3gonon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03cc\u03b3\u03bf\u03bd\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Progonoi"
+    ],
+    "name:und_x_variant":[
+        "Pr\u00f3gonoi",
+        "Pr\u00f3gonos",
+        "Pr\u00f3gonon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254589
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2ce8896f49853f5268e0e8bafacd71ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327066825,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1327066825,
+    "wof:lastmodified":1537624273,
+    "wof:name":"Progonon",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98806,
+    39.21722000000001,
+    20.98806,
+    39.21722000000001
+],
+  "geometry": {"coordinates":[20.98806,39.21722000000001],"type":"Point"}
+}

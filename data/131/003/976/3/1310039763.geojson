@@ -1,0 +1,73 @@
+{
+  "id": 1310039763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86656,37.99299,23.86656,37.99299",
+    "geom:latitude":37.99299,
+    "geom:longitude":23.86656,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9223.0",
+    "gn:asciiname":"Kato Balana",
+    "gn:country_code":"GR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020063,
+    "gn:latitude":37.99299,
+    "gn:longitude":23.86656,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u00e1to Bal\u00e1na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Bal\u00e1na"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03c0\u03b1\u03bb\u03ac\u03bd\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020063
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"be0448fe3788cacedbd035ad09c7db4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310039763,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1310039763,
+    "wof:lastmodified":1537625102,
+    "wof:name":"Kato Balana",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86656,
+    37.99299,
+    23.86656,
+    37.99299
+],
+  "geometry": {"coordinates":[23.86656,37.99299],"type":"Point"}
+}

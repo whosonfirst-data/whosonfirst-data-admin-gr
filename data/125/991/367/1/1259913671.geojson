@@ -1,0 +1,78 @@
+{
+  "id": 1259913671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35875,38.14783,24.35875,38.14783",
+    "geom:latitude":38.14783,
+    "geom:longitude":24.35875,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Aktaio",
+    "gn:country_code":"GR",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265391,
+    "gn:latitude":38.14783,
+    "gn:longitude":24.35875,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Akta\u00edo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Akta\u00edo"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03ba\u03c4\u03b1\u03af\u03bf",
+        "\u0391\u03ba\u03c4\u03b1\u03af\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Skou\u00e1si",
+        "Akta\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265391
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"62d5308f1949b490d082b85ef494c0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259913671,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1259913671,
+    "wof:lastmodified":1537624775,
+    "wof:name":"Aktaio",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35875,
+    38.14783,
+    24.35875,
+    38.14783
+],
+  "geometry": {"coordinates":[24.35875,38.14783],"type":"Point"}
+}

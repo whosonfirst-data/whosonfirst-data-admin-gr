@@ -1,0 +1,72 @@
+{
+  "id": 1226081699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87783,37.62084,21.87783,37.62084",
+    "geom:latitude":37.62084,
+    "geom:longitude":21.87783,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Lotis",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258123,
+    "gn:latitude":37.62084,
+    "gn:longitude":21.87783,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"L\u00f3tis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f3ti",
+        "L\u00f3tis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258123
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1ca419e9df6f2b4983d584541c5e97fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226081699,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226081699,
+    "wof:lastmodified":1537624432,
+    "wof:name":"Lotis",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87783,
+    37.62084,
+    21.87783,
+    37.62084
+],
+  "geometry": {"coordinates":[21.87783,37.62084],"type":"Point"}
+}

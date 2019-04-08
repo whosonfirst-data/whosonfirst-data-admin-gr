@@ -1,0 +1,77 @@
+{
+  "id": 1226476111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71116,41.35099,23.71116,41.35099",
+    "geom:latitude":41.35099,
+    "geom:longitude":23.71116,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9003",
+    "gn:asciiname":"Vathytopos",
+    "gn:country_code":"GR",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733929,
+    "gn:latitude":41.35099,
+    "gn:longitude":23.71116,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Vath\u00fdtopos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vath\u00fdtopos"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03b8\u03cd\u03c4\u03bf\u03c0\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Terl\u00eds",
+        "Vath\u00edtopos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733929
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5447833a701abaeb9bd96eee6ba374ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226476111,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226476111,
+    "wof:lastmodified":1537624814,
+    "wof:name":"Vathytopos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71116,
+    41.35099,
+    23.71116,
+    41.35099
+],
+  "geometry": {"coordinates":[23.71116,41.35099],"type":"Point"}
+}

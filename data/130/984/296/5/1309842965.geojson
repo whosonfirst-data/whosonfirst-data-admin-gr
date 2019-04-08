@@ -1,0 +1,79 @@
+{
+  "id": 1309842965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24772,40.43752,21.24772,40.43752",
+    "geom:latitude":40.43752,
+    "geom:longitude":21.24772,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9065",
+    "gn:asciiname":"Kremasto",
+    "gn:country_code":"GR",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8718075,
+    "gn:latitude":40.43752,
+    "gn:longitude":21.24772,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Kremast\u00f3",
+    "gn:population":9,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b5\u03bc\u03b1\u03c3\u03c4\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Kremasto"
+    ],
+    "name:und_x_variant":[
+        "Kremast\u00f3"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8718075
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5b9203c035693d41d44b7d3f8bec945d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309842965,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1309842965,
+    "wof:lastmodified":1537625035,
+    "wof:name":"Kremasto",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24772,
+    40.43752,
+    21.24772,
+    40.43752
+],
+  "geometry": {"coordinates":[21.24772,40.43752],"type":"Point"}
+}

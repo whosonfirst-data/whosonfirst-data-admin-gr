@@ -1,0 +1,79 @@
+{
+  "id": 1293623103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67739,39.52738,20.67739,39.52738",
+    "geom:latitude":39.52738,
+    "geom:longitude":20.67739,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Boulmou",
+    "gn:country_code":"GR",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973053,
+    "gn:latitude":39.52738,
+    "gn:longitude":20.67739,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"Bo\u00falmou",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03bb\u03bc\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Boulmou"
+    ],
+    "name:und_x_variant":[
+        "Mpoulmou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973053
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8abd1514dfd2791dbfe8018f6b412325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293623103,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293623103,
+    "wof:lastmodified":1537625079,
+    "wof:name":"Boulmou",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67739,
+    39.52738,
+    20.67739,
+    39.52738
+],
+  "geometry": {"coordinates":[20.67739,39.52738],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209451919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13861,39.115,21.13861,39.115",
+    "geom:latitude":39.115,
+    "geom:longitude":21.13861,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9125",
+    "gn:asciiname":"Sygkina",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253832,
+    "gn:latitude":39.115,
+    "gn:longitude":21.13861,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"S\u00fdgkina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03cd\u03b3\u03ba\u03b9\u03bd\u03b1"
+    ],
+    "name:und_x_variant":[
+        "S\u00edngina",
+        "S\u00fdgkina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253832
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5f742fce1b12219d5ed65633db381577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209451919
+        }
+    ],
+    "wof:id":1209451919,
+    "wof:lastmodified":1537624240,
+    "wof:name":"Sygkina",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13861,
+    39.115,
+    21.13861,
+    39.115
+],
+  "geometry": {"coordinates":[21.13861,39.115],"type":"Point"}
+}

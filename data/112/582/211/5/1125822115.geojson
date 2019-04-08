@@ -1,0 +1,80 @@
+{
+  "id": 1125822115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.704993,36.815537,21.704993,36.815537",
+    "geom:latitude":36.815537,
+    "geom:longitude":21.704993,
+    "gn:gn_country":"GR",
+    "iso:country":"GR",
+    "lbl:latitude":36.815537,
+    "lbl:longitude":21.704993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:name":"Methoni Pylias",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":513,
+    "qs_pg:photos_1k":104,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":513,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1086892,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":965937,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":965937,
+        "qs_pg:id":1086892
+    },
+    "wof:country":"GR",
+    "wof:created":1497292114,
+    "wof:geomhash":"8f2f047063e63ea9a22cac7e2fdcb49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125822115,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125822115,
+    "wof:lastmodified":1509394155,
+    "wof:name":"Methoni Pylias",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.704993,
+    36.815537,
+    21.704993,
+    36.815537
+],
+  "geometry": {"coordinates":[21.704993,36.815537],"type":"Point"}
+}

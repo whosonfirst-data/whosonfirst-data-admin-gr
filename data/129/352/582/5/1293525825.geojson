@@ -1,0 +1,80 @@
+{
+  "id": 1293525825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41002,40.52072,21.41002,40.52072",
+    "geom:latitude":40.52072,
+    "geom:longitude":21.41002,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9063",
+    "gn:asciiname":"Lithia",
+    "gn:country_code":"GR",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735404,
+    "gn:latitude":40.52072,
+    "gn:longitude":21.41002,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Lithi\u00e1",
+    "gn:population":311,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b8\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Lithia"
+    ],
+    "name:und_x_variant":[
+        "Koman\u00edtsovon",
+        "Lithi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735404
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"42b7aa10c81ae233356f1ee4d63b6f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293525825,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293525825,
+    "wof:lastmodified":1537624900,
+    "wof:name":"Lithia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41002000000001,
+    40.52072,
+    21.41002000000001,
+    40.52072
+],
+  "geometry": {"coordinates":[21.41002000000001,40.52072],"type":"Point"}
+}

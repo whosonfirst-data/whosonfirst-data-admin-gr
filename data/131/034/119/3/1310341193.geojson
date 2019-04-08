@@ -1,0 +1,70 @@
+{
+  "id": 1310341193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63921,35.48013,23.63921,35.48013",
+    "geom:latitude":35.48013,
+    "geom:longitude":23.63921,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322.0",
+    "gn:asciiname":"Lakoi",
+    "gn:country_code":"GR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10793723,
+    "gn:latitude":35.48013,
+    "gn:longitude":23.63921,
+    "gn:modification_date":"2015-09-22",
+    "gn:name":"L\u00e1koi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03ba\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793723
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"37287cb4dae6ced84039d57b013d5db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310341193,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310341193,
+    "wof:lastmodified":1537625090,
+    "wof:name":"Lakoi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63921,
+    35.48013,
+    23.63921,
+    35.48013
+],
+  "geometry": {"coordinates":[23.63921,35.48013],"type":"Point"}
+}

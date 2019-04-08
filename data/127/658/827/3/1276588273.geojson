@@ -1,0 +1,75 @@
+{
+  "id": 1276588273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70309,35.33319,23.70309,35.33319",
+    "geom:latitude":35.33319,
+    "geom:longitude":23.70309,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Motziana",
+    "gn:country_code":"GR",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256739,
+    "gn:latitude":35.33319,
+    "gn:longitude":23.70309,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Motzian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c4\u03b6\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Botzian\u00e1",
+        "Montzi\u00e1na",
+        "Motzian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256739
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b9ae1e2b29772e104d12f85651f34fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276588273,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276588273,
+    "wof:lastmodified":1537624369,
+    "wof:name":"Motziana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70309,
+    35.33319,
+    23.70309,
+    35.33319
+],
+  "geometry": {"coordinates":[23.70309,35.33319],"type":"Point"}
+}

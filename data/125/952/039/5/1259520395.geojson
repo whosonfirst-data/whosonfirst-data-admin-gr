@@ -1,0 +1,76 @@
+{
+  "id": 1259520395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5646,38.46344,21.5646,38.46344",
+    "geom:latitude":38.46344,
+    "geom:longitude":21.5646,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Potamoula Mesolongiou",
+    "gn:country_code":"GR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254807,
+    "gn:latitude":38.46344,
+    "gn:longitude":21.5646,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Potamo\u00fala Mesolong\u00edou",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03cd\u03bb\u03b1 \u039c\u03b5\u03c3\u03bf\u03bb\u03bf\u03b3\u03b3\u03af\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Potamoula Mesol\u03bfngiou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254807
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"505e6376cb70720b2930843033b7f5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259520395,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259520395,
+    "wof:lastmodified":1537624280,
+    "wof:name":"Potamoula Mesolongiou",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5646,
+    38.46344000000001,
+    21.5646,
+    38.46344000000001
+],
+  "geometry": {"coordinates":[21.5646,38.46344000000001],"type":"Point"}
+}

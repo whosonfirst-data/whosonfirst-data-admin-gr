@@ -1,0 +1,82 @@
+{
+  "id": 1259720123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66399,38.03677,22.66399,38.03677",
+    "geom:latitude":38.03677,
+    "geom:longitude":22.66399,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Thalero",
+    "gn:country_code":"GR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252982,
+    "gn:latitude":38.03677,
+    "gn:longitude":22.66399,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Thaler\u00f3",
+    "gn:population":162,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0398\u03b1\u03bb\u03b5\u03c1\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Thalero"
+    ],
+    "name:und_x_variant":[
+        "Thoter\u00f3n",
+        "Tholer\u00f3n",
+        "Thaler\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252982,
+        "wk:page":"Thalero"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f2293fd39e2ab9637ba4df2756f475dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259720123,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259720123,
+    "wof:lastmodified":1537624202,
+    "wof:name":"Thalero",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66399,
+    38.03677,
+    22.66399,
+    38.03677
+],
+  "geometry": {"coordinates":[22.66399,38.03677],"type":"Point"}
+}

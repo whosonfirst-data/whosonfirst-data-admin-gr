@@ -1,0 +1,79 @@
+{
+  "id": 1277012981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98966,38.23573,21.98966,38.23573",
+    "geom:latitude":38.23573,
+    "geom:longitude":21.98966,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Toumpa",
+    "gn:country_code":"GR",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252816,
+    "gn:latitude":38.23573,
+    "gn:longitude":21.98966,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"To\u00fampa",
+    "gn:population":76,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03bc\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Toumpa"
+    ],
+    "name:und_x_variant":[
+        "To\u00famba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252816
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d7a74512b774320c3012562726af2006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277012981,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1277012981,
+    "wof:lastmodified":1537624196,
+    "wof:name":"Toumpa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98966,
+    38.23573,
+    21.98966,
+    38.23573
+],
+  "geometry": {"coordinates":[21.98966,38.23573],"type":"Point"}
+}

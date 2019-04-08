@@ -1,0 +1,123 @@
+{
+  "id": 1125978397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58001,39.99908,23.58001,39.99908",
+    "geom:latitude":39.99908,
+    "geom:longitude":23.58001,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1176,
+    "gn:population":893,
+    "iso:country":"GR",
+    "lbl:latitude":39.99908,
+    "lbl:longitude":23.58001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0646\u064a\u0648\u062a\u064a\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043d\u0438\u043e\u0442\u0438\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Chaniotis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03b9\u03ce\u03c4\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Chaniotis"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03b9\u03ce\u03c4\u03b7\u03c2 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0425\u0430\u043d\u0438\u043e\u0442\u0438"
+    ],
+    "name:nno_x_preferred":[
+        "Khani\u00f3tis"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043d\u0438\u043e\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Khani\u00f3tis"
+    ],
+    "name:unk_x_variant":[
+        "Chanioti"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":260093,
+    "qs_pg:gn_pop":1176,
+    "qs_pg:name":"Khaniotis",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos":235,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":235,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":235403,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":953020,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260093,
+        "gp:id":953020,
+        "qs_pg:id":235403,
+        "wd:id":"Q3555215"
+    },
+    "wof:country":"GR",
+    "wof:created":1497298444,
+    "wof:geomhash":"88d452dfe00ee23d684caa96c4b989dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125978397,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125978397,
+    "wof:lastmodified":1514443979,
+    "wof:name":"Khaniotis",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":893,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58001,
+    39.99908,
+    23.58001,
+    39.99908
+],
+  "geometry": {"coordinates":[23.58001,39.99908],"type":"Point"}
+}

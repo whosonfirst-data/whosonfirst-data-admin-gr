@@ -1,0 +1,136 @@
+{
+  "id": 1125793973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95985,35.23027,23.95985,35.23027",
+    "geom:latitude":35.23027,
+    "geom:longitude":23.95985,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":125,
+    "gn:population":125,
+    "iso:country":"GR",
+    "lbl:latitude":35.23027,
+    "lbl:longitude":23.95985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Agia Roumeli"
+    ],
+    "name:dut_x_preferred":[
+        "Agia Roumeli"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a1\u03bf\u03c5\u03bc\u03ad\u03bb\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Roumeli"
+    ],
+    "name:fin_x_preferred":[
+        "Ag\u00eda Roum\u00e9li"
+    ],
+    "name:fre_x_preferred":[
+        "Ag\u00eda Roum\u00e9li"
+    ],
+    "name:ger_x_preferred":[
+        "Agia Roumeli"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a1\u03bf\u03c5\u03bc\u03ad\u03bb\u03b7 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Agia Roumeli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ae\u30a2\u30fb\u30eb\u30e1\u30fc\u30ea"
+    ],
+    "name:pol_x_preferred":[
+        "Ajia Rumeli"
+    ],
+    "name:por_x_preferred":[
+        "Agia Rum\u00e9li"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0438\u044f \u0420\u0443\u043c\u0435\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ay\u00eda Ro\u00fameli"
+    ],
+    "name:unk_x_variant":[
+        "Ro\u00fameli"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":264164,
+    "qs_pg:gn_pop":125,
+    "qs_pg:name":"Ayia Roumeli",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":408,
+    "qs_pg:photos_1k":83,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":408,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1080975,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":946961,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264164,
+        "gp:id":946961,
+        "qs_pg:id":1080975,
+        "wd:id":"Q393610"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290975,
+    "wof:geomhash":"aff3c860fbbc7d59fd312891f9dd5f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125793973,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125793973,
+    "wof:lastmodified":1514443930,
+    "wof:name":"Ayia Roumeli",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95985,
+    35.23027,
+    23.95985,
+    35.23027
+],
+  "geometry": {"coordinates":[23.95985,35.23027],"type":"Point"}
+}

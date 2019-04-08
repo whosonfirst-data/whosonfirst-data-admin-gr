@@ -1,0 +1,76 @@
+{
+  "id": 1243297495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49179,38.66784,21.49179,38.66784",
+    "geom:latitude":38.66784,
+    "geom:longitude":21.49179,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Laspes",
+    "gn:country_code":"GR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781287,
+    "gn:latitude":38.66784,
+    "gn:longitude":21.49179,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"L\u00e1spes",
+    "gn:population":12,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c3\u03c0\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Laspes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781287
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f21e633eb75f61c81c503d5ceeca90f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243297495,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243297495,
+    "wof:lastmodified":1537625075,
+    "wof:name":"Laspes",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49179,
+    38.66784000000001,
+    21.49179,
+    38.66784000000001
+],
+  "geometry": {"coordinates":[21.49179,38.66784000000001],"type":"Point"}
+}

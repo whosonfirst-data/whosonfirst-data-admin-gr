@@ -1,0 +1,80 @@
+{
+  "id": 1326660609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44324,40.37064,21.44324,40.37064",
+    "geom:latitude":40.37064,
+    "geom:longitude":21.44324,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Dryovouno",
+    "gn:country_code":"GR",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736382,
+    "gn:latitude":40.37064,
+    "gn:longitude":21.44324,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Dry\u00f3vouno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dry\u00f3vouno"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03c5\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf",
+        "Dry\u00f3vounon",
+        "\u0394\u03c1\u03c5\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Dri\u00e1novon",
+        "Dhri\u00f3vounon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736382,
+        "wk:page":"Dryovouno"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"970ff639b0653f8b27386815445b282a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326660609,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1326660609,
+    "wof:lastmodified":1537624953,
+    "wof:name":"Dryovouno",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44324,
+    40.37064,
+    21.44324,
+    40.37064
+],
+  "geometry": {"coordinates":[21.44324,40.37064],"type":"Point"}
+}

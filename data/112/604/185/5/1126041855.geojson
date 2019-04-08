@@ -1,0 +1,98 @@
+{
+  "id": 1126041855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.595,39.35694,21.595,39.35694",
+    "geom:latitude":39.35694,
+    "geom:longitude":21.595,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":212,
+    "gn:population":212,
+    "iso:country":"GR",
+    "lbl:latitude":39.35694,
+    "lbl:longitude":21.595,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Oxya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03be\u03c5\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Oxya"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03be\u03c5\u03ac \u039a\u03b1\u03c1\u03b4\u03af\u03c4\u03c3\u03b1\u03c2"
+    ],
+    "name:rum_x_preferred":[
+        "Oxya"
+    ],
+    "name:swe_x_preferred":[
+        "Oxy\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Si\u00e1mi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256219,
+    "qs_pg:gn_pop":212,
+    "qs_pg:name":"Oxy\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546545,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256219,
+        "qs_pg:id":546545,
+        "wd:id":"Q3560143"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302202,
+    "wof:geomhash":"552209c85e7fdf1f4c1a5a17d78b4516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126041855,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126041855,
+    "wof:lastmodified":1514444026,
+    "wof:name":"Oxy\u00e1",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.595,
+    39.35694,
+    21.595,
+    39.35694
+],
+  "geometry": {"coordinates":[21.595,39.35694],"type":"Point"}
+}

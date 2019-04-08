@@ -1,0 +1,73 @@
+{
+  "id": 1309842221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66097,39.0915,21.66097,39.0915",
+    "geom:latitude":39.0915,
+    "geom:longitude":21.66097,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9156",
+    "gn:asciiname":"Platanoi",
+    "gn:country_code":"GR",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":255044,
+    "gn:latitude":39.0915,
+    "gn:longitude":21.66097,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Pl\u00e1tanoi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Pl\u00e1tanoi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255044
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bce988bcc0f034786dd263cc9d405230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309842221,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1309842221,
+    "wof:lastmodified":1537624289,
+    "wof:name":"Platanoi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66097,
+    39.0915,
+    21.66097,
+    39.0915
+],
+  "geometry": {"coordinates":[21.66097,39.0915],"type":"Point"}
+}

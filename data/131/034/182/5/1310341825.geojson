@@ -1,0 +1,75 @@
+{
+  "id": 1310341825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63307,35.00901,25.63307,35.00901",
+    "geom:latitude":35.00901,
+    "geom:longitude":25.63307,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Kopanes",
+    "gn:country_code":"GR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608507,
+    "gn:latitude":35.00901,
+    "gn:longitude":25.63307,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Kop\u00e1nes",
+    "gn:population":99,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c0\u03ac\u03bd\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kopanes"
+    ],
+    "name:und_x_variant":[
+        "Kop\u00e1nes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608507
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7b00ca2f7369dcd29ab0a2d383e07dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310341825,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310341825,
+    "wof:lastmodified":1537625029,
+    "wof:name":"Kopanes",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63307,
+    35.00901,
+    25.63307,
+    35.00901
+],
+  "geometry": {"coordinates":[25.63307,35.00901],"type":"Point"}
+}

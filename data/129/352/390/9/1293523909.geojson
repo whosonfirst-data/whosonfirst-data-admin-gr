@@ -1,0 +1,76 @@
+{
+  "id": 1293523909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50531,39.09194,21.50531,39.09194",
+    "geom:latitude":39.09194,
+    "geom:longitude":21.50531,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9156",
+    "gn:asciiname":"Magkanaria",
+    "gn:country_code":"GR",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445133,
+    "gn:latitude":39.09194,
+    "gn:longitude":21.50531,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Magkanari\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Magkanari\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03b3\u03ba\u03b1\u03bd\u03b1\u03c1\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Manganari\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445133
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"104c3419a59173f21fae9bafec2f9d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293523909,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293523909,
+    "wof:lastmodified":1537624796,
+    "wof:name":"Magkanaria",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50531,
+    39.09194,
+    21.50531,
+    39.09194
+],
+  "geometry": {"coordinates":[21.50531,39.09194],"type":"Point"}
+}

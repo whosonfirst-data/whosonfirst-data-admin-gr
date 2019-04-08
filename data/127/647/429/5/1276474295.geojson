@@ -1,0 +1,73 @@
+{
+  "id": 1276474295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21703,35.04165,25.21703,35.04165",
+    "geom:latitude":35.04165,
+    "geom:longitude":25.21703,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9302",
+    "gn:asciiname":"Kato Kalyvia",
+    "gn:country_code":"GR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564011,
+    "gn:latitude":35.04165,
+    "gn:longitude":25.21703,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u00e1to Kal\u00fdvia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Kal\u00fdvia"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03bb\u03cd\u03b2\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564011
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"44cf69cd339196d85b9c86db1aa5d117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276474295,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276474295,
+    "wof:lastmodified":1537625023,
+    "wof:name":"Kato Kalyvia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21703,
+    35.04165,
+    25.21703,
+    35.04165
+],
+  "geometry": {"coordinates":[25.21703,35.04165],"type":"Point"}
+}

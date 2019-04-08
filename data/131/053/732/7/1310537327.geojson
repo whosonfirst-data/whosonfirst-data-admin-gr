@@ -1,0 +1,73 @@
+{
+  "id": 1310537327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73851,35.31868,23.73851,35.31868",
+    "geom:latitude":35.31868,
+    "geom:longitude":23.73851,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Lampiriana",
+    "gn:country_code":"GR",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522641,
+    "gn:latitude":35.31868,
+    "gn:longitude":23.73851,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lampirian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lampirian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03bc\u03c0\u03b9\u03c1\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522641
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e0a27b84ebdab3ded95ec90c64670e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310537327,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310537327,
+    "wof:lastmodified":1537625015,
+    "wof:name":"Lampiriana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73851,
+    35.31868,
+    23.73851,
+    35.31868
+],
+  "geometry": {"coordinates":[23.73851,35.31868],"type":"Point"}
+}

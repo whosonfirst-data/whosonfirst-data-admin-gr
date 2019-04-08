@@ -1,0 +1,77 @@
+{
+  "id": 1226577207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70272,38.57433,21.70272,38.57433",
+    "geom:latitude":38.57433,
+    "geom:longitude":21.70272,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9126",
+    "gn:asciiname":"Chrysovitsa",
+    "gn:country_code":"GR",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259852,
+    "gn:latitude":38.57433,
+    "gn:longitude":21.70272,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Chrysov\u00edtsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chrysov\u00edtsa"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03c1\u03c5\u03c3\u03bf\u03b2\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Khrisov\u00edtsa",
+        "Khrisov\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259852
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"891fdcdc32b040b5ab82ed19039e8eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226577207,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226577207,
+    "wof:lastmodified":1537624510,
+    "wof:name":"Chrysovitsa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70272000000001,
+    38.57433,
+    21.70272000000001,
+    38.57433
+],
+  "geometry": {"coordinates":[21.70272000000001,38.57433],"type":"Point"}
+}

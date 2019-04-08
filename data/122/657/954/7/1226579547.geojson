@@ -1,0 +1,82 @@
+{
+  "id": 1226579547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.933,38.11903,21.933,38.11903",
+    "geom:latitude":38.11903,
+    "geom:longitude":21.933,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Leontio",
+    "gn:country_code":"GR",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258502,
+    "gn:latitude":38.11903,
+    "gn:longitude":21.933,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Le\u00f3ntio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Le\u00f3ntion"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03cc\u03bd\u03c4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Gurz\u00famisa",
+        "Le\u00f3ndi",
+        "Gourzo\u00famisa",
+        "Le\u00f3ndion",
+        "Le\u00f3ntio",
+        "\u039b\u03b5\u03cc\u03bd\u03c4\u03b9\u03bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258502,
+        "wk:page":"Leontio"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"07af13ad841b64f9bb871f7049a167db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226579547,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226579547,
+    "wof:lastmodified":1537624451,
+    "wof:name":"Leontio",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.933,
+    38.11903,
+    21.933,
+    38.11903
+],
+  "geometry": {"coordinates":[21.933,38.11903],"type":"Point"}
+}

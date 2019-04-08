@@ -1,0 +1,80 @@
+{
+  "id": 1276693535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.933,38.85737,21.933,38.85737",
+    "geom:latitude":38.85737,
+    "geom:longitude":21.933,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9162",
+    "gn:asciiname":"Mastoraiika",
+    "gn:country_code":"GR",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257620,
+    "gn:latitude":38.85737,
+    "gn:longitude":21.933,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Mastora\u00edika",
+    "gn:population":14,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c3\u03c4\u03bf\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mastoraiika"
+    ],
+    "name:und_x_variant":[
+        "Mastor\u00e9\u00efka",
+        "Martora\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257620
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a5844a9b16dca40ad36a91d54445db50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276693535,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276693535,
+    "wof:lastmodified":1537624412,
+    "wof:name":"Mastoraiika",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.933,
+    38.85737,
+    21.933,
+    38.85737
+],
+  "geometry": {"coordinates":[21.933,38.85737],"type":"Point"}
+}

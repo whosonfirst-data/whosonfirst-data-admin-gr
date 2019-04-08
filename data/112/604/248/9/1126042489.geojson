@@ -1,0 +1,88 @@
+{
+  "id": 1126042489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81917,39.09167,21.81917,39.09167",
+    "geom:latitude":39.09167,
+    "geom:longitude":21.81917,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":152,
+    "gn:population":70,
+    "iso:country":"GR",
+    "lbl:latitude":39.09167,
+    "lbl:longitude":21.81917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kleisto"
+    ],
+    "name:unk_x_variant":[
+        "Klist\u00f3n"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":259645,
+    "qs_pg:gn_pop":152,
+    "qs_pg:name":"Kleist\u00f3n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546696,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259645,
+        "qs_pg:id":546696
+    },
+    "wof:country":"GR",
+    "wof:created":1497302241,
+    "wof:geomhash":"93dddb70a256053fcbc979c23268c943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042489,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1126042489,
+    "wof:lastmodified":1509408632,
+    "wof:name":"Kleist\u00f3n",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81917,
+    39.09167,
+    21.81917,
+    39.09167
+],
+  "geometry": {"coordinates":[21.81917,39.09167],"type":"Point"}
+}

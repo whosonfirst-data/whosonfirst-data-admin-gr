@@ -1,0 +1,79 @@
+{
+  "id": 1225981355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96484,36.68148,22.96484,36.68148",
+    "geom:latitude":36.68148,
+    "geom:longitude":22.96484,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9251",
+    "gn:asciiname":"Ayios Nikolaos Monemvasias",
+    "gn:country_code":"GR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263816,
+    "gn:latitude":36.68148,
+    "gn:longitude":22.96484,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"\u00c1yios Nik\u00f3laos Monemvasi\u00e1s",
+    "gn:population":142,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u039c\u03bf\u03bd\u03b5\u03bc\u03b2\u03b1\u03c3\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Nikolaos Monemvasias"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yios Nik\u00f3laos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263816
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dfe79cbcf4ed4f481b997e9254e92e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225981355,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1225981355,
+    "wof:lastmodified":1537624700,
+    "wof:name":"Ayios Nikolaos Monemvasias",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96484,
+    36.68148,
+    22.96484,
+    36.68148
+],
+  "geometry": {"coordinates":[22.96484,36.68148],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326761591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88333,37.41667,24.88333,37.41667",
+    "geom:latitude":37.41667,
+    "geom:longitude":24.88333,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Khalepa",
+    "gn:country_code":"GR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260158,
+    "gn:latitude":37.41667,
+    "gn:longitude":24.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khal\u00e9pa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260158
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"22cae47459137cec3f447adb76340a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326761591,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1326761591,
+    "wof:lastmodified":1536653406,
+    "wof:name":"Khalepa",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88333,
+    37.41667,
+    24.88333,
+    37.41667
+],
+  "geometry": {"coordinates":[24.88333,37.41667],"type":"Point"}
+}

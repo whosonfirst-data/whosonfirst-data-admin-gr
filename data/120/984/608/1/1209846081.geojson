@@ -1,0 +1,76 @@
+{
+  "id": 1209846081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26521,38.39444,21.26521,38.39444",
+    "geom:latitude":38.39444,
+    "geom:longitude":21.26521,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9127",
+    "gn:asciiname":"Magoula",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258006,
+    "gn:latitude":38.39444,
+    "gn:longitude":21.26521,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Mago\u00fala",
+    "gn:population":422,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Magoula"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258006
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f73527c05a890a7122f9a4a316365843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209846081,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209846081,
+    "wof:lastmodified":1537624427,
+    "wof:name":"Magoula",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":422,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26521,
+    38.39444,
+    21.26521,
+    38.39444
+],
+  "geometry": {"coordinates":[21.26521,38.39444],"type":"Point"}
+}

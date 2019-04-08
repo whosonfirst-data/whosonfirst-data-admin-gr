@@ -1,0 +1,77 @@
+{
+  "id": 1293130001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4661,35.15649,25.4661,35.15649",
+    "geom:latitude":35.15649,
+    "geom:longitude":25.4661,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9312",
+    "gn:asciiname":"Kaminaki",
+    "gn:country_code":"GR",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261194,
+    "gn:latitude":35.15649,
+    "gn:longitude":25.4661,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Kamin\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kamin\u00e1ki",
+        "Kamin\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261194
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"30a592297a2d40971b13cf6dfbf4e05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293130001,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293130001,
+    "wof:lastmodified":1537624578,
+    "wof:name":"Kaminaki",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4661,
+    35.15649000000001,
+    25.4661,
+    35.15649000000001
+],
+  "geometry": {"coordinates":[25.4661,35.15649000000001],"type":"Point"}
+}

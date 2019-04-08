@@ -1,0 +1,82 @@
+{
+  "id": 1243489305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16473,37.80471,23.16473,37.80471",
+    "geom:latitude":37.80471,
+    "geom:longitude":23.16473,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9243",
+    "gn:asciiname":"Kiourkati",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409063,
+    "gn:latitude":37.80471,
+    "gn:longitude":23.16473,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Kiourk\u00e1ti",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u039a\u03b9\u03bf\u03c5\u03c1\u03ba\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bf\u03c5\u03c1\u03ba\u03ac\u03c4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03bf\u03c5\u03c1\u03ba\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kiourkati"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409063
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e9fcef4a9fe61920fd9e06e64c37a0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243489305,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243489305,
+    "wof:lastmodified":1537625067,
+    "wof:name":"Kiourkati",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16473,
+    37.80471,
+    23.16473,
+    37.80471
+],
+  "geometry": {"coordinates":[23.16473,37.80471],"type":"Point"}
+}

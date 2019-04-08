@@ -1,0 +1,76 @@
+{
+  "id": 1210053081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03924,37.745,24.03924,37.745",
+    "geom:latitude":37.745,
+    "geom:longitude":24.03924,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Agios Georgios Thorikou",
+    "gn:country_code":"GR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036681,
+    "gn:latitude":37.745,
+    "gn:longitude":24.03924,
+    "gn:modification_date":"2014-05-19",
+    "gn:name":"Agios Ge\u00f3rgios Thoriko\u00fa",
+    "gn:population":141,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u0398\u03bf\u03c1\u03b9\u03ba\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Thorikou"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036681
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3c20dcfa40db459000076252adf631e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210053081,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1210053081,
+    "wof:lastmodified":1537625040,
+    "wof:name":"Agios Georgios Thorikou",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03924,
+    37.745,
+    24.03924,
+    37.745
+],
+  "geometry": {"coordinates":[24.03924,37.745],"type":"Point"}
+}

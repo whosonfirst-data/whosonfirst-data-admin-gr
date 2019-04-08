@@ -1,0 +1,95 @@
+{
+  "id": 1125964887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01667,37.55,26.01667,37.55",
+    "geom:latitude":37.55,
+    "geom:longitude":26.01667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":37.55,
+    "lbl:longitude":26.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Lagk\u00e1da"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03b3\u03ba\u03ac\u03b4\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Lang\u00e1dha"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258611,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Langadha",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":507225,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":955013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258611,
+        "gp:id":955013,
+        "qs_pg:id":507225
+    },
+    "wof:country":"GR",
+    "wof:created":1497297934,
+    "wof:geomhash":"83e344893b10884bcf94c3a6ad049e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125964887,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1125964887,
+    "wof:lastmodified":1538594929,
+    "wof:name":"Langadha",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01667,
+    37.55,
+    26.01667,
+    37.55
+],
+  "geometry": {"coordinates":[26.01667,37.55],"type":"Point"}
+}

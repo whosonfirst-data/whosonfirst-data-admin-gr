@@ -1,0 +1,79 @@
+{
+  "id": 1309942181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92408,37.5596,21.92408,37.5596",
+    "geom:latitude":37.5596,
+    "geom:longitude":21.92408,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Bardhakion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263501,
+    "gn:latitude":37.5596,
+    "gn:longitude":21.92408,
+    "gn:modification_date":"2017-02-13",
+    "gn:name":"Bardh\u00e1kion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03b4\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b1\u03c1\u03b4\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Bardh\u00e1ki",
+        "Bardhas\u00ed",
+        "Bardh\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263501
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"239648e80a043612e0fbe744a85515c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309942181,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1309942181,
+    "wof:lastmodified":1537624688,
+    "wof:name":"Bardhakion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92408,
+    37.5596,
+    21.92408,
+    37.5596
+],
+  "geometry": {"coordinates":[21.92408,37.5596],"type":"Point"}
+}

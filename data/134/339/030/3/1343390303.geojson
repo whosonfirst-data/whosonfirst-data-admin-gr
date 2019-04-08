@@ -1,0 +1,79 @@
+{
+  "id": 1343390303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88855,37.21124,21.88855,37.21124",
+    "geom:latitude":37.21124,
+    "geom:longitude":21.88855,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Konchyli",
+    "gn:country_code":"GR",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259378,
+    "gn:latitude":37.21124,
+    "gn:longitude":21.88855,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Konch\u00fdli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Konch\u00fdli"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03b3\u03c7\u03cd\u03bb\u03b9",
+        "Konch\u00fdlion",
+        "\u039a\u03bf\u03b3\u03c7\u03cd\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Lakako\u00fakia",
+        "Konkh\u00edlion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259378
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4b78fb53549118543b7d10c49fcb9aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343390303,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343390303,
+    "wof:lastmodified":1537624488,
+    "wof:name":"Konchyli",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88855,
+    37.21124,
+    21.88855,
+    37.21124
+],
+  "geometry": {"coordinates":[21.88855,37.21124],"type":"Point"}
+}

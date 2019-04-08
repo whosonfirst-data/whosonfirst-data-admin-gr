@@ -1,0 +1,73 @@
+{
+  "id": 1259617391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80848,35.48765,23.80848,35.48765",
+    "geom:latitude":35.48765,
+    "geom:longitude":23.80848,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Neratzia",
+    "gn:country_code":"GR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427140,
+    "gn:latitude":35.48765,
+    "gn:longitude":23.80848,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Neratzi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Neratzi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03c1\u03b1\u03c4\u03b6\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427140
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ccf687fde69e135ed7531b2bac46fbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259617391,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259617391,
+    "wof:lastmodified":1537625006,
+    "wof:name":"Neratzia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80848,
+    35.48765,
+    23.80848,
+    35.48765
+],
+  "geometry": {"coordinates":[23.80848,35.48765],"type":"Point"}
+}

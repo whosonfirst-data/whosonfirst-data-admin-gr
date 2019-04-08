@@ -1,0 +1,127 @@
+{
+  "id": 101848205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.851925,36.807781,22.851925,36.807781",
+    "geom:latitude":36.807781,
+    "geom:longitude":22.851925,
+    "gn:population":3018,
+    "iso:country":"GR",
+    "lbl:latitude":36.807781,
+    "lbl:longitude":22.851925,
+    "mps:latitude":36.807781,
+    "mps:longitude":22.851925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u0648\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Molaoi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bb\u03ac\u03bf\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Mol\u00e1oi"
+    ],
+    "name:eng_x_preferred":[
+        "Molaoi"
+    ],
+    "name:fin_x_preferred":[
+        "Mol\u00e1oi"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03bf\u03bb\u03ac\u03bf\u03b9 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Molaoi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e9\u30a4"
+    ],
+    "name:nno_x_preferred":[
+        "Mol\u00e1i"
+    ],
+    "name:ron_x_preferred":[
+        "Molaoi"
+    ],
+    "name:rum_x_preferred":[
+        "Molaoi"
+    ],
+    "name:swe_x_preferred":[
+        "Mol\u00e1oi"
+    ],
+    "name:unk_x_variant":[
+        "Mola"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
+    "qs:a1_alt":"PELOPONNHSOS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LAKVNIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u039f\u039b\u0391\u039f\u0399",
+    "qs:loc_alt":"MOLAOI",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256833,
+        "gp:id":957551,
+        "qs:id":202093,
+        "qs_pg:id":202093,
+        "wd:id":"Q2637038",
+        "wk:page":"Molaoi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6aba4b183c09f6b631f5ece80b597350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848205,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":101848205,
+    "wof:lastmodified":1544740308,
+    "wof:name":"\u039c\u039f\u039b\u0391\u039f\u0399",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":3018,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.851925,
+    36.807781,
+    22.851925,
+    36.807781
+],
+  "geometry": {"coordinates":[22.851925,36.807781],"type":"Point"}
+}

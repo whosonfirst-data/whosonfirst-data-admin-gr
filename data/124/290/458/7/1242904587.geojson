@@ -1,0 +1,73 @@
+{
+  "id": 1242904587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55353,38.33286,20.55353,38.33286",
+    "geom:latitude":38.33286,
+    "geom:longitude":20.55353,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Lekatsata",
+    "gn:country_code":"GR",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258523,
+    "gn:latitude":38.33286,
+    "gn:longitude":20.55353,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Lekats\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lekats\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03ba\u03b1\u03c4\u03c3\u03ac\u03c4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258523
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7cd84f92bbedf6024c1c18825ab405c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242904587,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1242904587,
+    "wof:lastmodified":1537624453,
+    "wof:name":"Lekatsata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55353,
+    38.33286,
+    20.55353,
+    38.33286
+],
+  "geometry": {"coordinates":[20.55353,38.33286],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1125765565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64583,39.18361,21.64583,39.18361",
+    "geom:latitude":39.18361,
+    "geom:longitude":21.64583,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":30,
+    "gn:population":30,
+    "iso:country":"GR",
+    "lbl:latitude":39.18361,
+    "lbl:longitude":21.64583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03bb\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Paliokh\u00f3ri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252340,
+    "qs_pg:gn_pop":30,
+    "qs_pg:name":"Valarion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":423938,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":964049,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252340,
+        "gp:id":964049,
+        "qs_pg:id":423938
+    },
+    "wof:country":"GR",
+    "wof:created":1497289879,
+    "wof:geomhash":"56903091106e03a269137476727f9c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125765565,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125765565,
+    "wof:lastmodified":1509390664,
+    "wof:name":"Valarion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64583,
+    39.18361,
+    21.64583,
+    39.18361
+],
+  "geometry": {"coordinates":[21.64583,39.18361],"type":"Point"}
+}

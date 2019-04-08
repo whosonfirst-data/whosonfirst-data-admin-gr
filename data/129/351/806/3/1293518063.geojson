@@ -1,0 +1,76 @@
+{
+  "id": 1293518063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4463,36.67004,24.4463,36.67004",
+    "geom:latitude":36.67004,
+    "geom:longitude":24.4463,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9287",
+    "gn:asciiname":"Provatas",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644199,
+    "gn:latitude":36.67004,
+    "gn:longitude":24.4463,
+    "gn:modification_date":"2014-03-25",
+    "gn:name":"Provat\u00e1s",
+    "gn:population":27,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03bf\u03b2\u03b1\u03c4\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Provatas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644199
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cda625b0af53191c1c97fc690bfd5ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293518063,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1293518063,
+    "wof:lastmodified":1537625033,
+    "wof:name":"Provatas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4463,
+    36.67004,
+    24.4463,
+    36.67004
+],
+  "geometry": {"coordinates":[24.4463,36.67004],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209351361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14994,39.35825,21.14994,39.35825",
+    "geom:latitude":39.35825,
+    "geom:longitude":21.14994,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Giannitsi",
+    "gn:country_code":"GR",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445209,
+    "gn:latitude":39.35825,
+    "gn:longitude":21.14994,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Giann\u00edtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bd\u03bd\u03af\u03c4\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03b1\u03bd\u03bd\u03af\u03c4\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Giann\u00edtsi",
+        "Giann\u00edtsion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445209
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b7a77e1f3dd30a92d344087d350171a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209351361
+        }
+    ],
+    "wof:id":1209351361,
+    "wof:lastmodified":1537624799,
+    "wof:name":"Giannitsi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14994,
+    39.35825,
+    21.14994,
+    39.35825
+],
+  "geometry": {"coordinates":[21.14994,39.35825],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1125288515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97218,40.36892,20.97218,40.36892",
+    "geom:latitude":40.36892,
+    "geom:longitude":20.97218,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":3129,
+    "gn:population":3129,
+    "iso:country":"GR",
+    "lbl:latitude":40.36892,
+    "lbl:longitude":20.97218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03c3\u03c4\u03bf\u03c1\u03af\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133967,
+    "qs_pg:gn_pop":3129,
+    "qs_pg:name":"Dimos Nestorio",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":109711,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133967,
+        "qs_pg:id":109711
+    },
+    "wof:country":"GR",
+    "wof:created":1497042813,
+    "wof:geomhash":"1d26e43f9195fd3a7768b2b03ade6471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125288515,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125288515,
+    "wof:lastmodified":1509387477,
+    "wof:name":"Dimos Nestorio",
+    "wof:parent_id":85684627,
+    "wof:placetype":"localadmin",
+    "wof:population":3129,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97218,
+    40.36892,
+    20.97218,
+    40.36892
+],
+  "geometry": {"coordinates":[20.97218,40.36892],"type":"Point"}
+}

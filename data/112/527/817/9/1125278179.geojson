@@ -1,0 +1,79 @@
+{
+  "id": 1125278179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71814,40.52254,21.71814,40.52254",
+    "geom:latitude":40.52254,
+    "geom:longitude":21.71814,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":46555,
+    "gn:population":46555,
+    "iso:country":"GR",
+    "lbl:latitude":40.52254,
+    "lbl:longitude":21.71814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0395\u03bf\u03c1\u03b4\u03b1\u03af\u03b1\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133857,
+    "qs_pg:gn_pop":46555,
+    "qs_pg:name":"Dimos Eordaia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":109673,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133857,
+        "qs_pg:id":109673
+    },
+    "wof:country":"GR",
+    "wof:created":1497042401,
+    "wof:geomhash":"d09dc328ed8dd176691d5e6b63f015c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125278179,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125278179,
+    "wof:lastmodified":1509387213,
+    "wof:name":"Dimos Eordaia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"localadmin",
+    "wof:population":46555,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71814,
+    40.52254,
+    21.71814,
+    40.52254
+],
+  "geometry": {"coordinates":[21.71814,40.52254],"type":"Point"}
+}

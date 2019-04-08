@@ -1,0 +1,76 @@
+{
+  "id": 1343695453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93577,36.98566,26.93577,36.98566",
+    "geom:latitude":36.98566,
+    "geom:longitude":26.93577,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9276.0",
+    "gn:asciiname":"Kamari",
+    "gn:country_code":"GR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11054596,
+    "gn:latitude":36.98566,
+    "gn:longitude":26.93577,
+    "gn:modification_date":"2016-02-01",
+    "gn:name":"Kam\u00e1ri",
+    "gn:population":86,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kamari"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054596
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0c3bedfb5c019bdc848e80a5b96f2183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343695453,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1343695453,
+    "wof:lastmodified":1537625108,
+    "wof:name":"Kamari",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93577,
+    36.98566,
+    26.93577,
+    36.98566
+],
+  "geometry": {"coordinates":[26.93577,36.98566],"type":"Point"}
+}

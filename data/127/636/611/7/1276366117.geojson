@@ -1,0 +1,75 @@
+{
+  "id": 1276366117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34314,38.08214,24.34314,38.08214",
+    "geom:latitude":38.08214,
+    "geom:longitude":24.34314,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Alexis",
+    "gn:country_code":"GR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265348,
+    "gn:latitude":38.08214,
+    "gn:longitude":24.34314,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al\u00e9xis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ad\u03be\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Al\u00e9xi",
+        "All\u00e9xi",
+        "Al\u00e9xis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265348
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"85607229bbec03f77547a4b6d6edfc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276366117,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276366117,
+    "wof:lastmodified":1537624772,
+    "wof:name":"Alexis",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34314,
+    38.08214,
+    24.34314,
+    38.08214
+],
+  "geometry": {"coordinates":[24.34314,38.08214],"type":"Point"}
+}

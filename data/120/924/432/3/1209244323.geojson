@@ -1,0 +1,75 @@
+{
+  "id": 1209244323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49549,35.29192,24.49549,35.29192",
+    "geom:latitude":35.29192,
+    "geom:longitude":24.49549,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Oros",
+    "gn:country_code":"GR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256253,
+    "gn:latitude":35.29192,
+    "gn:longitude":24.49549,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"\u00d3ros",
+    "gn:population":54,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u038c\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Oros"
+    ],
+    "name:und_x_variant":[
+        "\u00d3ros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256253
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"952d46b9792cc138e1c1b8c65b00914a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209244323
+        }
+    ],
+    "wof:id":1209244323,
+    "wof:lastmodified":1537624345,
+    "wof:name":"Oros",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49549,
+    35.29192000000001,
+    24.49549,
+    35.29192000000001
+],
+  "geometry": {"coordinates":[24.49549,35.29192000000001],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 1125955689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83434,40.49744,22.83434,40.49744",
+    "geom:latitude":40.49744,
+    "geom:longitude":22.83434,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":991,
+    "gn:population":991,
+    "iso:country":"GR",
+    "lbl:latitude":40.49744,
+    "lbl:longitude":22.83434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062c\u0644\u0648\u0643\u0648\u0631\u064a\u0648\u0646\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u043b\u043e\u0445\u043e\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Angelochori"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03b3\u03b5\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03b3\u03b5\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Angelochori"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03b3\u03b5\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Angeloch\u00f3rion"
+    ],
+    "name:unk_x_variant":[
+        "Angelokh\u00f3rion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":736845,
+    "qs_pg:gn_pop":991,
+    "qs_pg:name":"Angelochori",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos":73,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":73,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1032468,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56070951,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736845,
+        "gp:id":56070951,
+        "qs_pg:id":1032468,
+        "wd:id":"Q4762986"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297612,
+    "wof:geomhash":"a83e828931eaad64cf50118d77a66444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125955689,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125955689,
+    "wof:lastmodified":1553816654,
+    "wof:name":"Angelochori",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":991,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83434,
+    40.49744,
+    22.83434,
+    40.49744
+],
+  "geometry": {"coordinates":[22.83434,40.49744],"type":"Point"}
+}

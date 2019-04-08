@@ -1,0 +1,75 @@
+{
+  "id": 1326561265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55977,41.43331,26.55977,41.43331",
+    "geom:latitude":41.43331,
+    "geom:longitude":26.55977,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9008",
+    "gn:asciiname":"Thourio",
+    "gn:country_code":"GR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734065,
+    "gn:latitude":41.43331,
+    "gn:longitude":26.55977,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Tho\u00fario",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tho\u00fario"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03bf\u03cd\u03c1\u03b9\u03bf",
+        "Tho\u00farion",
+        "\u0398\u03bf\u03cd\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734065
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1721abd5ca046a2ceaad3525c99de7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326561265,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1326561265,
+    "wof:lastmodified":1537624821,
+    "wof:name":"Thourio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55977,
+    41.43331,
+    26.55977,
+    41.43331
+],
+  "geometry": {"coordinates":[26.55977,41.43331],"type":"Point"}
+}

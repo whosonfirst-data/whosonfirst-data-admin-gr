@@ -1,0 +1,73 @@
+{
+  "id": 1209042781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35961,39.28244,21.35961,39.28244",
+    "geom:latitude":39.28244,
+    "geom:longitude":21.35961,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Choutiana",
+    "gn:country_code":"GR",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262024,
+    "gn:latitude":39.28244,
+    "gn:longitude":21.35961,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Choutian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03c4\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Khoudnian\u00e1",
+        "Glynik\u00e1",
+        "Khoudian\u00e1",
+        "Gl\u00ednika",
+        "Choutian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262024
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2efdcb13b7acfb605aeec55019346fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209042781
+        }
+    ],
+    "wof:id":1209042781,
+    "wof:lastmodified":1537624616,
+    "wof:name":"Choutiana",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35961,
+    39.28244,
+    21.35961,
+    39.28244
+],
+  "geometry": {"coordinates":[21.35961,39.28244],"type":"Point"}
+}

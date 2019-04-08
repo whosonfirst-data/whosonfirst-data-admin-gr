@@ -1,0 +1,70 @@
+{
+  "id": 1243101979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36287,36.6625,24.36287,36.6625",
+    "geom:latitude":36.6625,
+    "geom:longitude":24.36287,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9287",
+    "gn:asciiname":"Ksylokeratia",
+    "gn:country_code":"GR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740248,
+    "gn:latitude":36.6625,
+    "gn:longitude":24.36287,
+    "gn:modification_date":"2014-03-25",
+    "gn:name":"Ksylokerati\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039e\u03c5\u03bb\u03bf\u03ba\u03b5\u03c1\u03b1\u03c4\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740248
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"49dd6fdfdd145e74298633a070eade3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243101979,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243101979,
+    "wof:lastmodified":1537625037,
+    "wof:name":"Ksylokeratia",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36287,
+    36.6625,
+    24.36287,
+    36.6625
+],
+  "geometry": {"coordinates":[24.36287,36.6625],"type":"Point"}
+}

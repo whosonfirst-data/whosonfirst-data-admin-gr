@@ -1,0 +1,72 @@
+{
+  "id": 1209445805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9226,36.90305,21.9226,36.90305",
+    "geom:latitude":36.90305,
+    "geom:longitude":21.9226,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Khranoi",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259874,
+    "gn:latitude":36.90305,
+    "gn:longitude":21.9226,
+    "gn:modification_date":"2015-02-20",
+    "gn:name":"Khr\u00e1noi",
+    "gn:population":278,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03c1\u03ac\u03bd\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Chranoi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259874
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"13b00f9201b7ad9c2689f544407eadd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209445805
+        }
+    ],
+    "wof:id":1209445805,
+    "wof:lastmodified":1537624512,
+    "wof:name":"Khranoi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9226,
+    36.90305,
+    21.9226,
+    36.90305
+],
+  "geometry": {"coordinates":[21.9226,36.90305],"type":"Point"}
+}

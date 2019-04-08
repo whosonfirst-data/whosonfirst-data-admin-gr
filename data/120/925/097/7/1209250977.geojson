@@ -1,0 +1,72 @@
+{
+  "id": 1209250977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91331,37.83154,24.91331,37.83154",
+    "geom:latitude":37.83154,
+    "geom:longitude":24.91331,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9268",
+    "gn:asciiname":"Lamyra",
+    "gn:country_code":"GR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258619,
+    "gn:latitude":37.83154,
+    "gn:longitude":24.91331,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"L\u00e1myra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e1myra"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03bc\u03c5\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1mira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258619
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"252105a4df30b5516a0c0b06eccef297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209250977
+        }
+    ],
+    "wof:id":1209250977,
+    "wof:lastmodified":1537624457,
+    "wof:name":"Lamyra",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91331,
+    37.83154,
+    24.91331,
+    37.83154
+],
+  "geometry": {"coordinates":[24.91331,37.83154],"type":"Point"}
+}

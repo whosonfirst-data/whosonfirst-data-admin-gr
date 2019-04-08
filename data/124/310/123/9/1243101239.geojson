@@ -1,0 +1,77 @@
+{
+  "id": 1243101239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73359,39.71871,19.73359,39.71871",
+    "geom:latitude":39.71871,
+    "geom:longitude":19.73359,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Rafalades",
+    "gn:country_code":"GR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463587,
+    "gn:latitude":39.71871,
+    "gn:longitude":19.73359,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Rafal\u00e1des",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c6\u03b1\u03bb\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Rafal\u00e1dhes",
+        "Rafal\u00e1des"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463587
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f3d089d1a2de392b606b3212893bbdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243101239,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243101239,
+    "wof:lastmodified":1537624992,
+    "wof:name":"Rafalades",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73359,
+    39.71871,
+    19.73359,
+    39.71871
+],
+  "geometry": {"coordinates":[19.73359,39.71871],"type":"Point"}
+}

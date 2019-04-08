@@ -1,0 +1,76 @@
+{
+  "id": 1209040313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59976,35.50867,23.59976,35.50867",
+    "geom:latitude":35.50867,
+    "geom:longitude":23.59976,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Azogyras",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263551,
+    "gn:latitude":35.50867,
+    "gn:longitude":23.59976,
+    "gn:modification_date":"2015-09-20",
+    "gn:name":"Azogyr\u00e1s",
+    "gn:population":33,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b6\u03bf\u03b3\u03c5\u03c1\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Azogyras"
+    ],
+    "name:und_x_variant":[
+        "Azogyr\u00e1s",
+        "Azoyir\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263551
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"60153c42ae1d9f73be096b6fdaf47694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209040313
+        }
+    ],
+    "wof:id":1209040313,
+    "wof:lastmodified":1537624690,
+    "wof:name":"Azogyras",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59976,
+    35.50867,
+    23.59976,
+    35.50867
+],
+  "geometry": {"coordinates":[23.59976,35.50867],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1225980899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25942,38.17105,24.25942,38.17105",
+    "geom:latitude":38.17105,
+    "geom:longitude":24.25942,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Kellia",
+    "gn:country_code":"GR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":260276,
+    "gn:latitude":38.17105,
+    "gn:longitude":24.25942,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Kelli\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bb\u03bb\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kellia"
+    ],
+    "name:und_x_variant":[
+        "Keli\u00e1",
+        "Kelli\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260276
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f126a570e41081f7b49902d077ae4a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225980899,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1225980899,
+    "wof:lastmodified":1537624533,
+    "wof:name":"Kellia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25942,
+    38.17105,
+    24.25942,
+    38.17105
+],
+  "geometry": {"coordinates":[24.25942,38.17105],"type":"Point"}
+}

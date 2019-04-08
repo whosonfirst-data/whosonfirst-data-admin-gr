@@ -1,0 +1,84 @@
+{
+  "id": 1293523525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12909,40.39568,21.12909,40.39568",
+    "geom:latitude":40.39568,
+    "geom:longitude":21.12909,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9065",
+    "gn:asciiname":"Melanthio",
+    "gn:country_code":"GR",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735243,
+    "gn:latitude":40.39568,
+    "gn:longitude":21.12909,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Mel\u00e1nthio",
+    "gn:population":88,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03ac\u03bd\u03b8\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03bb\u03ac\u03bd\u03b8\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Melanthio"
+    ],
+    "name:und_x_variant":[
+        "Zab\u00edrdani",
+        "Mel\u00e1nthion",
+        "Mel\u00e1nthio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735243
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7500be36673af951ba406449ed0178ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293523525,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293523525,
+    "wof:lastmodified":1537624890,
+    "wof:name":"Melanthio",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12909,
+    40.39568,
+    21.12909,
+    40.39568
+],
+  "geometry": {"coordinates":[21.12909,40.39568],"type":"Point"}
+}

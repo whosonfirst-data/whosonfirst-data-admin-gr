@@ -1,0 +1,80 @@
+{
+  "id": 1276480663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84799,38.32526,21.84799,38.32526",
+    "geom:latitude":38.32526,
+    "geom:longitude":21.84799,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134",
+    "gn:asciiname":"Arachovitika",
+    "gn:country_code":"GR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264710,
+    "gn:latitude":38.32526,
+    "gn:longitude":21.84799,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Arachov\u00edtika",
+    "gn:population":305,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b1\u03c7\u03bf\u03b2\u03af\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Arachovitika"
+    ],
+    "name:und_x_variant":[
+        "Arachov\u00edtika",
+        "Arakhov\u00edtika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264710
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"180d0a064a93acd20131ae2b2930bd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276480663,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276480663,
+    "wof:lastmodified":1537624736,
+    "wof:name":"Arachovitika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84799,
+    38.32526,
+    21.84799,
+    38.32526
+],
+  "geometry": {"coordinates":[21.84799,38.32526],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243097673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38581,36.52626,22.38581,36.52626",
+    "geom:latitude":36.52626,
+    "geom:longitude":22.38581,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Agios Georgios Koitas",
+    "gn:country_code":"GR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263662,
+    "gn:latitude":36.52626,
+    "gn:longitude":22.38581,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"\u00c1gios Ge\u00f3rgios Ko\u00edtas",
+    "gn:population":18,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039a\u03bf\u03af\u03c4\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Koitas"
+    ],
+    "name:und_x_variant":[
+        "\u00c1yios Ye\u00f3ryios Ko\u00edtas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263662
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a8d260cd732ee992ee957530c9940c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243097673,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243097673,
+    "wof:lastmodified":1537624693,
+    "wof:name":"Agios Georgios Koitas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38581,
+    36.52626,
+    22.38581,
+    36.52626
+],
+  "geometry": {"coordinates":[22.38581,36.52626],"type":"Point"}
+}

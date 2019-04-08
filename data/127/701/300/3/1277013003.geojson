@@ -1,0 +1,76 @@
+{
+  "id": 1277013003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92425,40.36398,23.92425,40.36398",
+    "geom:latitude":40.36398,
+    "geom:longitude":23.92425,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9056",
+    "gn:asciiname":"Trypiti",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9344085,
+    "gn:latitude":40.36398,
+    "gn:longitude":23.92425,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Trypit\u00ed",
+    "gn:population":6,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03c5\u03c0\u03b7\u03c4\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Trypiti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9344085
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"864e47691c6a2edfe373cb50cf6bdd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277013003,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1277013003,
+    "wof:lastmodified":1537625059,
+    "wof:name":"Trypiti",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92425,
+    40.36398,
+    23.92425,
+    40.36398
+],
+  "geometry": {"coordinates":[23.92425,40.36398],"type":"Point"}
+}

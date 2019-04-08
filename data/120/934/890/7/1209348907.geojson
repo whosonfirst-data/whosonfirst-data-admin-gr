@@ -1,0 +1,70 @@
+{
+  "id": 1209348907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62897,38.38289,21.62897,38.38289",
+    "geom:latitude":38.38289,
+    "geom:longitude":21.62897,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Gavrolimni",
+    "gn:country_code":"GR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262074,
+    "gn:latitude":38.38289,
+    "gn:longitude":21.62897,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Gavrol\u00edmni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03b2\u03c1\u03bf\u03bb\u03af\u03bc\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Gavrol\u00edki",
+        "Gavrol\u00edmni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262074
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d84f4216f42725749ac1f78f7ef5be8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209348907
+        }
+    ],
+    "wof:id":1209348907,
+    "wof:lastmodified":1537624618,
+    "wof:name":"Gavrolimni",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62897,
+    38.38289,
+    21.62897,
+    38.38289
+],
+  "geometry": {"coordinates":[21.62897,38.38289],"type":"Point"}
+}

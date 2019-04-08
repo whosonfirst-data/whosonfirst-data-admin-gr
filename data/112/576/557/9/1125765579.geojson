@@ -1,0 +1,117 @@
+{
+  "id": 1125765579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98333,37.16667,21.98333,37.16667",
+    "geom:latitude":37.16667,
+    "geom:longitude":21.98333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":991,
+    "gn:population":991,
+    "iso:country":"GR",
+    "lbl:latitude":37.16667,
+    "lbl:longitude":21.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u064a\u0631\u0627\u060c \u0645\u064a\u0633\u064a\u0646\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Valira"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bb\u03cd\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Val\u00fdra"
+    ],
+    "name:eng_x_preferred":[
+        "Valira"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03bb\u03cd\u03c1\u03b1 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Val\u00fdra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0438\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Val\u00edra"
+    ],
+    "name:unk_x_variant":[
+        "Tzeferem\u00edni"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252334,
+    "qs_pg:gn_pop":991,
+    "qs_pg:name":"Valira",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":423939,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":964057,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252334,
+        "gp:id":964057,
+        "qs_pg:id":423939,
+        "wd:id":"Q2025137"
+    },
+    "wof:country":"GR",
+    "wof:created":1497289879,
+    "wof:geomhash":"45392809d940054a5aa1af61dea48c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125765579,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125765579,
+    "wof:lastmodified":1514444069,
+    "wof:name":"Valira",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":991,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98333,
+    37.16667,
+    21.98333,
+    37.16667
+],
+  "geometry": {"coordinates":[21.98333,37.16667],"type":"Point"}
+}

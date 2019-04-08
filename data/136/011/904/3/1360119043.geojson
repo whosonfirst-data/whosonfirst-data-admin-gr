@@ -1,0 +1,86 @@
+{
+  "id": 1360119043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.656,40.58898,24.656,40.58898",
+    "geom:latitude":40.58898,
+    "geom:longitude":24.656,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9011",
+    "gn:asciiname":"Astris",
+    "gn:country_code":"GR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736690,
+    "gn:latitude":40.58898,
+    "gn:longitude":24.656,
+    "gn:modification_date":"2014-08-21",
+    "gn:name":"Astr\u00eds",
+    "gn:population":51,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c4\u03c1\u03af\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c3\u03c4\u03c1\u03af\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Astris"
+    ],
+    "name:eng_x_variant":[
+        "Astrida"
+    ],
+    "name:und_x_variant":[
+        "Asto\u00eds",
+        "Astr\u00eds"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736690
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"205b2d6f1ba8ae760614d63e4bc20907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360119043,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1360119043,
+    "wof:lastmodified":1537624970,
+    "wof:name":"Astris",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.656,
+    40.58898,
+    24.656,
+    40.58898
+],
+  "geometry": {"coordinates":[24.656,40.58898],"type":"Point"}
+}

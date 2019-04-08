@@ -1,0 +1,70 @@
+{
+  "id": 1293129471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92806,39.73611,19.92806,39.73611",
+    "geom:latitude":39.73611,
+    "geom:longitude":19.92806,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Agni",
+    "gn:country_code":"GR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2564921,
+    "gn:latitude":39.73611,
+    "gn:longitude":19.92806,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Agn\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03bd\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2564921
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5d5fc4da61cfb307f3f58c0eaf331f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293129471,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293129471,
+    "wof:lastmodified":1537624995,
+    "wof:name":"Agni",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92806,
+    39.73611,
+    19.92806,
+    39.73611
+],
+  "geometry": {"coordinates":[19.92806,39.73611],"type":"Point"}
+}

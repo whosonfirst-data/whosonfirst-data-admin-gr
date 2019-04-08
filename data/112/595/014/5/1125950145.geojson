@@ -1,0 +1,117 @@
+{
+  "id": 1125950145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05279,37.56091,26.05279,37.56091",
+    "geom:latitude":37.56091,
+    "geom:longitude":26.05279,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":37.56091,
+    "lbl:longitude":26.05279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Raches"
+    ],
+    "name:eng_x_preferred":[
+        "Raches"
+    ],
+    "name:fin_x_preferred":[
+        "R\u00e1ches"
+    ],
+    "name:fre_x_preferred":[
+        "Raches"
+    ],
+    "name:ger_x_preferred":[
+        "Christos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03b1\u03c7\u03ce\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Raches"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d8\u30b9"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00e1khes"
+    ],
+    "name:pol_x_preferred":[
+        "Raches"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8131459,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Raches",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":92,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":92,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1239788,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56023336,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8131459,
+        "gp:id":56023336,
+        "qs_pg:id":1239788,
+        "wd:id":"Q1001563"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297425,
+    "wof:geomhash":"48b250b7576110eefe56c90ecc5d1d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125950145,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1125950145,
+    "wof:lastmodified":1553816652,
+    "wof:name":"Raches",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05279,
+    37.56091,
+    26.05279,
+    37.56091
+],
+  "geometry": {"coordinates":[26.05279,37.56091],"type":"Point"}
+}

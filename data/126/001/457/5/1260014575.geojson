@@ -1,0 +1,85 @@
+{
+  "id": 1260014575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97842,36.24874,22.97842,36.24874",
+    "geom:latitude":36.24874,
+    "geom:longitude":22.97842,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Dhrimonari",
+    "gn:country_code":"GR",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262894,
+    "gn:latitude":36.24874,
+    "gn:longitude":22.97842,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Dhrimon\u00e1ri",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03c1\u03c5\u03bc\u03c9\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03c5\u03bc\u03c9\u03bd\u03ac\u03c1\u03b9\u03bf",
+        "\u0394\u03c1\u03c5\u03bc\u03c9\u03bd\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Drymonari"
+    ],
+    "name:und_x_variant":[
+        "Kiprioti\u00e1nika",
+        "Dhrimon\u00e1ri",
+        "Dhrimon\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262894
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"77cfba74eed87cfb8031d6bd7d7caabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260014575,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1260014575,
+    "wof:lastmodified":1537624655,
+    "wof:name":"Dhrimonari",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97842,
+    36.24874000000001,
+    22.97842,
+    36.24874000000001
+],
+  "geometry": {"coordinates":[22.97842,36.24874000000001],"type":"Point"}
+}

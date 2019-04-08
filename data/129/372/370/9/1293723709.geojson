@@ -1,0 +1,77 @@
+{
+  "id": 1293723709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00491,38.66585,22.00491,38.66585",
+    "geom:latitude":38.66585,
+    "geom:longitude":22.00491,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Kriatsi",
+    "gn:country_code":"GR",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258836,
+    "gn:latitude":38.66585,
+    "gn:longitude":22.00491,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kri\u00e1tsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b9\u03ac\u03c4\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b9\u03ac\u03c4\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kri\u00e1tsi",
+        "Kri\u00e1tsion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258836
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2834b24f6fba2c9f1e0fbf31820cb1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293723709,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293723709,
+    "wof:lastmodified":1537624468,
+    "wof:name":"Kriatsi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00491,
+    38.66585,
+    22.00491,
+    38.66585
+],
+  "geometry": {"coordinates":[22.00491,38.66585],"type":"Point"}
+}

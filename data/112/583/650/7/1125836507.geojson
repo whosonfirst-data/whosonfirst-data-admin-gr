@@ -1,0 +1,101 @@
+{
+  "id": 1125836507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07778,41.03,22.07778,41.03",
+    "geom:latitude":41.03,
+    "geom:longitude":22.07778,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":607,
+    "gn:population":766,
+    "iso:country":"GR",
+    "lbl:latitude":41.03,
+    "lbl:longitude":22.07778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0431\u043e\u0440\u0441\u043a\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Voreino"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c1\u03b5\u03b9\u03bd\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03c1\u03b5\u03b9\u03bd\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Voreino"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0431\u043e\u0440\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vorein\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Vorein\u00f3"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":733872,
+    "qs_pg:gn_pop":607,
+    "qs_pg:name":"Vorein\u00f3n",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552782,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733872,
+        "qs_pg:id":552782,
+        "wd:id":"Q368444"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292738,
+    "wof:geomhash":"28f072f28c5686109e4fd47c2d258d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125836507,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125836507,
+    "wof:lastmodified":1553816561,
+    "wof:name":"Vorein\u00f3n",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":766,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07778,
+    41.03,
+    22.07778,
+    41.03
+],
+  "geometry": {"coordinates":[22.07778,41.03],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343389949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03388,37.79866,24.03388,37.79866",
+    "geom:latitude":37.79866,
+    "geom:longitude":24.03388,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Avrokastro",
+    "gn:country_code":"GR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036741,
+    "gn:latitude":37.79866,
+    "gn:longitude":24.03388,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Avr\u00f3kastro",
+    "gn:population":47,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c5\u03c1\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036741
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"21815ff549bd5c6cc4a2488a1161e15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343389949,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343389949,
+    "wof:lastmodified":1537551159,
+    "wof:name":"Avrokastro",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03388,
+    37.79866,
+    24.03388,
+    37.79866
+],
+  "geometry": {"coordinates":[24.03388,37.79866],"type":"Point"}
+}

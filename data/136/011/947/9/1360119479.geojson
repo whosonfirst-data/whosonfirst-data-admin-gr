@@ -1,0 +1,73 @@
+{
+  "id": 1360119479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16955,39.10314,26.16955,39.10314",
+    "geom:latitude":39.10314,
+    "geom:longitude":26.16955,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Skala Polichnitou",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253731,
+    "gn:latitude":39.10314,
+    "gn:longitude":26.16955,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Sk\u00e1la Polichn\u00edtou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sk\u00e1la Polichn\u00edtou"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03ac\u03bb\u03b1 \u03a0\u03bf\u03bb\u03b9\u03c7\u03bd\u03af\u03c4\u03bf\u03c5"
+    ],
+    "name:und_x_variant":[
+        "Sk\u00e1la Polikhn\u00edtou",
+        "Sk\u00e1la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253731
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"930ff47b96045901107873df02d3c4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1360119479,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360119479,
+    "wof:lastmodified":1537624233,
+    "wof:name":"Skala Polichnitou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16955,
+    39.10314,
+    26.16955,
+    39.10314
+],
+  "geometry": {"coordinates":[26.16955,39.10314],"type":"Point"}
+}

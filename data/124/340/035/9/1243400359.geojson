@@ -1,0 +1,77 @@
+{
+  "id": 1243400359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96253,37.04093,21.96253,37.04093",
+    "geom:latitude":37.04093,
+    "geom:longitude":21.96253,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Madena",
+    "gn:country_code":"GR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258020,
+    "gn:latitude":37.04093,
+    "gn:longitude":21.96253,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"M\u00e1dena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00e1dena"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03b4\u03b5\u03bd\u03b1"
+    ],
+    "name:und_x_variant":[
+        "M\u00e1dhaina",
+        "M\u00e1dhena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258020
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f9233a4c0f5c54d795095a2c878408f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243400359,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243400359,
+    "wof:lastmodified":1537624427,
+    "wof:name":"Madena",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96253,
+    37.04093,
+    21.96253,
+    37.04093
+],
+  "geometry": {"coordinates":[21.96253,37.04093],"type":"Point"}
+}

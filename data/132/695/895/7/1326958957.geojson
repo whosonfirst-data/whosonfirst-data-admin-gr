@@ -1,0 +1,71 @@
+{
+  "id": 1326958957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.94751,39.25315,23.94751,39.25315",
+    "geom:latitude":39.25315,
+    "geom:longitude":23.94751,
+    "gn:admin1_code":"ESYE14",
+    "gn:asciiname":"Vdoneri",
+    "gn:country_code":"GR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498139,
+    "gn:latitude":39.25315,
+    "gn:longitude":23.94751,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Vdon\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vdon\u00e9ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b4\u03bf\u03bd\u03ad\u03c1\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498139
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7c1cc9b01dc55ee3a63c6e4fee51ce14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326958957,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326958957,
+    "wof:lastmodified":1537625118,
+    "wof:name":"Vdoneri",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94751,
+    39.25315,
+    23.94751,
+    39.25315
+],
+  "geometry": {"coordinates":[23.94751,39.25315],"type":"Point"}
+}

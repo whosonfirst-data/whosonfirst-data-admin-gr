@@ -1,0 +1,73 @@
+{
+  "id": 1293236563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15597,38.14922,22.15597,38.14922",
+    "geom:latitude":38.14922,
+    "geom:longitude":22.15597,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Stavria",
+    "gn:country_code":"GR",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253271,
+    "gn:latitude":38.14922,
+    "gn:longitude":22.15597,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Stavri\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Stavri\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253271
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"07d1bfb9143dd5a1c5370e1d5afbb3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293236563,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293236563,
+    "wof:lastmodified":1537624213,
+    "wof:name":"Stavria",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15597,
+    38.14922,
+    22.15597,
+    38.14922
+],
+  "geometry": {"coordinates":[22.15597,38.14922],"type":"Point"}
+}

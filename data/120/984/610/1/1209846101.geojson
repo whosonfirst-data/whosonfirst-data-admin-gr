@@ -1,0 +1,73 @@
+{
+  "id": 1209846101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09111,37.02826,22.09111,37.02826",
+    "geom:latitude":37.02826,
+    "geom:longitude":22.09111,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Armenika",
+    "gn:country_code":"GR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264596,
+    "gn:latitude":37.02826,
+    "gn:longitude":22.09111,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Arm\u00e9nika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Arm\u00e9nika"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03bc\u03ad\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264596
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bea86d9437e55a2c10661f97fbad9902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209846101,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209846101,
+    "wof:lastmodified":1537624733,
+    "wof:name":"Armenika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09111,
+    37.02826,
+    22.09111,
+    37.02826
+],
+  "geometry": {"coordinates":[22.09111,37.02826],"type":"Point"}
+}

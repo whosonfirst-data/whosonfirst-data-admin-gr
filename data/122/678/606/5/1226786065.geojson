@@ -1,0 +1,83 @@
+{
+  "id": 1226786065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50518,37.70701,23.50518,37.70701",
+    "geom:latitude":37.70701,
+    "geom:longitude":23.50518,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9208",
+    "gn:asciiname":"Anitsaion",
+    "gn:country_code":"GR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264978,
+    "gn:latitude":37.70701,
+    "gn:longitude":23.50518,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"An\u00edtsaion",
+    "gn:population":28,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03af\u03c4\u03c3\u03b1\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03af\u03c4\u03c3\u03b1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Anitsaio"
+    ],
+    "name:und_x_variant":[
+        "Anesta\u00edon",
+        "An\u00edtsaion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264978
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eec00436987dd2f72794e36b1a806215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226786065,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226786065,
+    "wof:lastmodified":1537624754,
+    "wof:name":"Anitsaion",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50518,
+    37.70701,
+    23.50518,
+    37.70701
+],
+  "geometry": {"coordinates":[23.50518,37.70701],"type":"Point"}
+}

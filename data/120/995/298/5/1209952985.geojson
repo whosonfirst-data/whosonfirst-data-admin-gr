@@ -1,0 +1,71 @@
+{
+  "id": 1209952985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95149,39.24897,23.95149,39.24897",
+    "geom:latitude":39.24897,
+    "geom:longitude":23.95149,
+    "gn:admin1_code":"ESYE14",
+    "gn:asciiname":"Fakistres",
+    "gn:country_code":"GR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498140,
+    "gn:latitude":39.24897,
+    "gn:longitude":23.95149,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Fak\u00edstres",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fak\u00edstres"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b1\u03ba\u03af\u03c3\u03c4\u03c1\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498140
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8c24d9a3e22bf68b99eb3c53c9da34b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209952985,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1209952985,
+    "wof:lastmodified":1537625118,
+    "wof:name":"Fakistres",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95149,
+    39.24897,
+    23.95149,
+    39.24897
+],
+  "geometry": {"coordinates":[23.95149,39.24897],"type":"Point"}
+}

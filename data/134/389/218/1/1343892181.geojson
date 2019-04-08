@@ -1,0 +1,73 @@
+{
+  "id": 1343892181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.12491,35.17474,26.12491,35.17474",
+    "geom:latitude":35.17474,
+    "geom:longitude":26.12491,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Zacharinos",
+    "gn:country_code":"GR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609061,
+    "gn:latitude":35.17474,
+    "gn:longitude":26.12491,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zachar\u00ednos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Zachar\u00ednos"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03c7\u03b1\u03c1\u03af\u03bd\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609061
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"92e9f24ec4c4afc322cc487150e1f177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343892181,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343892181,
+    "wof:lastmodified":1537625030,
+    "wof:name":"Zacharinos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.12491,
+    35.17474,
+    26.12491,
+    35.17474
+],
+  "geometry": {"coordinates":[26.12491,35.17474],"type":"Point"}
+}

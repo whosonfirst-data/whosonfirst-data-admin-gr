@@ -1,0 +1,80 @@
+{
+  "id": 1226479233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14491,37.3215,22.14491,37.3215",
+    "geom:latitude":37.3215,
+    "geom:longitude":22.14491,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Leontari",
+    "gn:country_code":"GR",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258509,
+    "gn:latitude":37.3215,
+    "gn:longitude":22.14491,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Leont\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Leont\u00e1ri",
+        "\u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Leont\u00e1rion",
+        "Leondari",
+        "Leond\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258509,
+        "wk:page":"Leontari%2C_Arcadia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"24d4e4b83a7480ac8cb9e24c632df118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226479233,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226479233,
+    "wof:lastmodified":1537624452,
+    "wof:name":"Leontari",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14491,
+    37.3215,
+    22.14491,
+    37.3215
+],
+  "geometry": {"coordinates":[22.14491,37.3215],"type":"Point"}
+}

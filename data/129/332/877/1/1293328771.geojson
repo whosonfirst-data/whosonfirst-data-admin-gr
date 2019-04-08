@@ -1,0 +1,73 @@
+{
+  "id": 1293328771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64862,35.41675,24.64862,35.41675",
+    "geom:latitude":35.41675,
+    "geom:longitude":24.64862,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Lavris",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529172,
+    "gn:latitude":35.41675,
+    "gn:longitude":24.64862,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"L\u00e1vris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e1vris"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03cd\u03c1\u03b9\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529172
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"70ae4ba0c3d5199ce5594fe468141ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293328771,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293328771,
+    "wof:lastmodified":1537625018,
+    "wof:name":"Lavris",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64862,
+    35.41675,
+    24.64862,
+    35.41675
+],
+  "geometry": {"coordinates":[24.64862,35.41675],"type":"Point"}
+}

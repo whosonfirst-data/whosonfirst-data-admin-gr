@@ -1,0 +1,77 @@
+{
+  "id": 1276473737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84922,38.16378,21.84922,38.16378",
+    "geom:latitude":38.16378,
+    "geom:longitude":21.84922,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134",
+    "gn:asciiname":"Ano Souli",
+    "gn:country_code":"GR",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264834,
+    "gn:latitude":38.16378,
+    "gn:longitude":21.84922,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00c1no So\u00fali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u03a3\u03bf\u03cd\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u03a3\u03bf\u03cd\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no So\u00fali",
+        "\u00c1no So\u00falion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264834
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"35727f20ead5f0f1ed7bce9ed0789c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276473737,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276473737,
+    "wof:lastmodified":1537624744,
+    "wof:name":"Ano Souli",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84922000000001,
+    38.16378,
+    21.84922000000001,
+    38.16378
+],
+  "geometry": {"coordinates":[21.84922000000001,38.16378],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1310536293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96659,38.24821,21.96659,38.24821",
+    "geom:latitude":38.24821,
+    "geom:longitude":21.96659,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Mageiras",
+    "gn:country_code":"GR",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257475,
+    "gn:latitude":38.24821,
+    "gn:longitude":21.96659,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"M\u00e1geiras",
+    "gn:population":55,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b3\u03b5\u03b9\u03c1\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03b3\u03b5\u03b9\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mageiras"
+    ],
+    "name:und_x_variant":[
+        "M\u00e1yira",
+        "M\u00e1yiras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257475,
+        "wk:page":"Mageiras"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"529fb916fb37ad16f00ab629f3eb64dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310536293,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310536293,
+    "wof:lastmodified":1537624407,
+    "wof:name":"Mageiras",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96659,
+    38.24821,
+    21.96659,
+    38.24821
+],
+  "geometry": {"coordinates":[21.96659,38.24821],"type":"Point"}
+}

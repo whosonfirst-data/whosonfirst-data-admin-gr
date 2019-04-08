@@ -1,0 +1,73 @@
+{
+  "id": 1276371055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.12314,37.92392,23.12314,37.92392",
+    "geom:latitude":37.92392,
+    "geom:longitude":23.12314,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9244.0",
+    "gn:asciiname":"Kolantziki",
+    "gn:country_code":"GR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11078851,
+    "gn:latitude":37.92392,
+    "gn:longitude":23.12314,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kolantz\u00edki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kolantz\u00edki"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bb\u03b1\u03bd\u03c4\u03b6\u03af\u03ba\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11078851
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1c416c3c30c931c6be005746ba82a012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276371055,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276371055,
+    "wof:lastmodified":1537625110,
+    "wof:name":"Kolantziki",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.12314,
+    37.92392,
+    23.12314,
+    37.92392
+],
+  "geometry": {"coordinates":[23.12314,37.92392],"type":"Point"}
+}

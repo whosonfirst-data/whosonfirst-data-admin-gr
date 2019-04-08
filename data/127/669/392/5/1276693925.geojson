@@ -1,0 +1,78 @@
+{
+  "id": 1276693925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73287,37.2111,21.73287,37.2111",
+    "geom:latitude":37.2111,
+    "geom:longitude":21.73287,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Rodia",
+    "gn:country_code":"GR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254267,
+    "gn:latitude":37.2111,
+    "gn:longitude":21.73287,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Rodi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Rodi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03b4\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Kato Lendek\u00e1dha",
+        "K\u00e1to Lente K\u00e1dha",
+        "Rodhi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254267
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1e2dbe3abc6e8fc049df25653dc2fdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276693925,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276693925,
+    "wof:lastmodified":1537624260,
+    "wof:name":"Rodia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73287,
+    37.2111,
+    21.73287,
+    37.2111
+],
+  "geometry": {"coordinates":[21.73287,37.2111],"type":"Point"}
+}

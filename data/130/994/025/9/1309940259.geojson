@@ -1,0 +1,76 @@
+{
+  "id": 1309940259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42814,37.8615,21.42814,37.8615",
+    "geom:latitude":37.8615,
+    "geom:longitude":21.42814,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Dafni",
+    "gn:country_code":"GR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251349,
+    "gn:latitude":37.8615,
+    "gn:longitude":21.42814,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"D\u00e1fni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "D\u00e1fni"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03ac\u03c6\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Yiannika\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251349
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4543528340bc6bad50871c7680c5de9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309940259,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309940259,
+    "wof:lastmodified":1537624136,
+    "wof:name":"Dafni",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42814,
+    37.8615,
+    21.42814,
+    37.8615
+],
+  "geometry": {"coordinates":[21.42814,37.8615],"type":"Point"}
+}

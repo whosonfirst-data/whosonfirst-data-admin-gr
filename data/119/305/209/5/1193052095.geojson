@@ -1,0 +1,80 @@
+{
+  "id": 1193052095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18019,36.9778,22.18019,36.9778",
+    "geom:latitude":36.9778,
+    "geom:longitude":22.18019,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9253",
+    "gn:asciiname":"Charavgi",
+    "gn:country_code":"GR",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260071,
+    "gn:latitude":36.9778,
+    "gn:longitude":22.18019,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"Charavg\u00ed",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03b1\u03c5\u03b3\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Charavgi"
+    ],
+    "name:und_x_variant":[
+        "Trik\u00f3tsova",
+        "Kharavy\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260071
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aae3b082126fbd69e46a12da17bb8d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193052095,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1193052095,
+    "wof:lastmodified":1537624521,
+    "wof:name":"Charavgi",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18019,
+    36.9778,
+    22.18019,
+    36.9778
+],
+  "geometry": {"coordinates":[22.18019,36.9778],"type":"Point"}
+}

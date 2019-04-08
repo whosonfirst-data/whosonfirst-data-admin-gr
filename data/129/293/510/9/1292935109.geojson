@@ -1,0 +1,79 @@
+{
+  "id": 1292935109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31889,39.51942,22.31889,39.51942",
+    "geom:latitude":39.51942,
+    "geom:longitude":22.31889,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9099",
+    "gn:asciiname":"Krannonas",
+    "gn:country_code":"GR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258870,
+    "gn:latitude":39.51942,
+    "gn:longitude":22.31889,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Krann\u00f3nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03bd\u03bd\u03ce\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Krann\u00f3nas",
+        "\u039a\u03c1\u03b1\u03bd\u03bd\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kran\u00f3n",
+        "Krann\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258870,
+        "wk:page":"Krannonas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0880b971fa69caeee92e34e6a76228e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292935109,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1292935109,
+    "wof:lastmodified":1537624469,
+    "wof:name":"Krannonas",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31889,
+    39.51942,
+    22.31889,
+    39.51942
+],
+  "geometry": {"coordinates":[22.31889,39.51942],"type":"Point"}
+}

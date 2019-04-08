@@ -1,0 +1,80 @@
+{
+  "id": 1293917861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24644,38.01528,22.24644,38.01528",
+    "geom:latitude":38.01528,
+    "geom:longitude":22.24644,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Mesorougi",
+    "gn:country_code":"GR",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257166,
+    "gn:latitude":38.01528,
+    "gn:longitude":22.24644,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mesoro\u00fagi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mesoro\u00fagi"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c3\u03bf\u03c1\u03bf\u03cd\u03b3\u03b9",
+        "Mesoro\u00fagion",
+        "\u039c\u03b5\u03c3\u03bf\u03c1\u03bf\u03cd\u03b3\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mesoro\u00fayia",
+        "Mesoro\u00fayi",
+        "Mesorro\u00fayion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257166
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aa892f48bf4d3d63a1c92cb84358bf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293917861,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293917861,
+    "wof:lastmodified":1537624391,
+    "wof:name":"Mesorougi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24644,
+    38.01528,
+    22.24644,
+    38.01528
+],
+  "geometry": {"coordinates":[22.24644,38.01528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276588419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53333,39.36667,21.53333,39.36667",
+    "geom:latitude":39.36667,
+    "geom:longitude":21.53333,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9091",
+    "gn:asciiname":"Isomata",
+    "gn:country_code":"GR",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261725,
+    "gn:latitude":39.36667,
+    "gn:longitude":21.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Is\u00f3mata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261725
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2c49ea105d10cafa43a1b3bc7e15cd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276588419,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1276588419,
+    "wof:lastmodified":1536935087,
+    "wof:name":"Isomata",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53333,
+    39.36667,
+    21.53333,
+    39.36667
+],
+  "geometry": {"coordinates":[21.53333,39.36667],"type":"Point"}
+}

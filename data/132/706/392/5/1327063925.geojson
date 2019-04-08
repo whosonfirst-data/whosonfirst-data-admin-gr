@@ -1,0 +1,77 @@
+{
+  "id": 1327063925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22353,35.8897,27.22353,35.8897",
+    "geom:latitude":35.8897,
+    "geom:longitude":27.22353,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9280",
+    "gn:asciiname":"Argos",
+    "gn:country_code":"GR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254061,
+    "gn:latitude":35.8897,
+    "gn:longitude":27.22353,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u00c1rgos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sar\u00eda"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1rgos",
+        "\u0386\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Voni\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254061
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"544225eaf80f755e972f22aed0d79480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327063925,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1327063925,
+    "wof:lastmodified":1537624251,
+    "wof:name":"Argos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22353,
+    35.8897,
+    27.22353,
+    35.8897
+],
+  "geometry": {"coordinates":[27.22353,35.8897],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343295799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79713,35.31954,23.79713,35.31954",
+    "geom:latitude":35.31954,
+    "geom:longitude":23.79713,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Argastiri",
+    "gn:country_code":"GR",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264674,
+    "gn:latitude":35.31954,
+    "gn:longitude":23.79713,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Argast\u00edri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ergast\u00edri",
+        "Argast\u00edri",
+        "Argast\u00edrion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264674,
+        "wk:page":"Argastiri"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"96929259de29cf9202f978c2bd4e5526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343295799,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343295799,
+    "wof:lastmodified":1537624736,
+    "wof:name":"Argastiri",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79713,
+    35.31954,
+    23.79713,
+    35.31954
+],
+  "geometry": {"coordinates":[23.79713,35.31954],"type":"Point"}
+}

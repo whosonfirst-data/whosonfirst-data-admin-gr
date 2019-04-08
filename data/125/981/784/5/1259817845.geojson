@@ -1,0 +1,77 @@
+{
+  "id": 1259817845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32588,41.19505,24.32588,41.19505",
+    "geom:latitude":41.19505,
+    "geom:longitude":24.32588,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Gyros",
+    "gn:country_code":"GR",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733765,
+    "gn:latitude":41.19505,
+    "gn:longitude":24.32588,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"G\u00fdros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "G\u00fdros"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03cd\u03c1\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Gerikl\u00ed",
+        "Y\u00edros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733765
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5347c7e2446aeb65363cda15ebf7352f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259817845,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259817845,
+    "wof:lastmodified":1537624806,
+    "wof:name":"Gyros",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32588,
+    41.19505,
+    24.32588,
+    41.19505
+],
+  "geometry": {"coordinates":[24.32588,41.19505],"type":"Point"}
+}

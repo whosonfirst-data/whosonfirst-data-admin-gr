@@ -1,0 +1,79 @@
+{
+  "id": 1343592705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44123,36.46096,22.44123,36.46096",
+    "geom:latitude":36.46096,
+    "geom:longitude":22.44123,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Kyparissos",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259767,
+    "gn:latitude":36.46096,
+    "gn:longitude":22.44123,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Kyp\u00e1rissos",
+    "gn:population":57,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03c0\u03ac\u03c1\u03b9\u03c3\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kyparissos"
+    ],
+    "name:und_x_variant":[
+        "Kip\u00e1rissos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259767
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c727687ee0a02c94eaa74785a5dfa2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343592705,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343592705,
+    "wof:lastmodified":1537624506,
+    "wof:name":"Kyparissos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44123,
+    36.46096,
+    22.44123,
+    36.46096
+],
+  "geometry": {"coordinates":[22.44123,36.46096],"type":"Point"}
+}

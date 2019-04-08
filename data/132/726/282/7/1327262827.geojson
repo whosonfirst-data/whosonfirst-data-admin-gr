@@ -1,0 +1,67 @@
+{
+  "id": 1327262827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49702,35.21596,24.49702,35.21596",
+    "geom:latitude":35.21596,
+    "geom:longitude":24.49702,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Ayia Pelayia",
+    "gn:country_code":"GR",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264168,
+    "gn:latitude":35.21596,
+    "gn:longitude":24.49702,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Ay\u00eda Pelay\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264168
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"09eb9718db2ce1d349837dfa88d9913f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327262827,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327262827,
+    "wof:lastmodified":1536926458,
+    "wof:name":"Ayia Pelayia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49702000000001,
+    35.21595999999999,
+    24.49702000000001,
+    35.21595999999999
+],
+  "geometry": {"coordinates":[24.49702000000001,35.21595999999999],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 101857741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.375837,41.263813,23.375837,41.263813",
+    "geom:latitude":41.263813,
+    "geom:longitude":23.375837,
+    "gn:population":1042,
+    "iso:country":"GR",
+    "lbl:latitude":41.263813,
+    "lbl:longitude":23.375837,
+    "mps:latitude":41.263813,
+    "mps:longitude":23.375837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03bf\u03c0\u03cc\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Charop\u00f3",
+        "\u03a7\u03b1\u03c1\u03c9\u03c0\u03cc",
+        "Charop\u00f3n",
+        "\u03a7\u03b1\u03c1\u03c9\u03c0\u03cc\u03bd",
+        "\u03a7\u03b1\u03c1\u03bf\u03c0\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Charopo"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e1dovon"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a7\u0391\u03a1\u039f\u03a0\u039f\u039d",
+    "qs:loc_alt":"XAROPON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735794,
+        "gp:id":953072,
+        "qs:id":129092
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f165f8ed1a09ecb2eabe7913f0754a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857741,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857741,
+    "wof:lastmodified":1544744055,
+    "wof:name":"\u03a7\u0391\u03a1\u039f\u03a0\u039f\u039d",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1042,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.375837,
+    41.263813,
+    23.375837,
+    41.263813
+],
+  "geometry": {"coordinates":[23.375837,41.263813],"type":"Point"}
+}

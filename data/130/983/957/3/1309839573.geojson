@@ -1,0 +1,67 @@
+{
+  "id": 1309839573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5,35.2,24.5,35.2",
+    "geom:latitude":35.2,
+    "geom:longitude":24.5,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Dhiplokhori",
+    "gn:country_code":"GR",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263056,
+    "gn:latitude":35.2,
+    "gn:longitude":24.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dhiplokh\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263056
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ab83ec20362f96396ebaf4e7003a052f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309839573,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1309839573,
+    "wof:lastmodified":1536881808,
+    "wof:name":"Dhiplokhori",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5,
+    35.2,
+    24.5,
+    35.2
+],
+  "geometry": {"coordinates":[24.5,35.2],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226786149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25186,39.12597,21.25186,39.12597",
+    "geom:latitude":39.12597,
+    "geom:longitude":21.25186,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Vasilochori",
+    "gn:country_code":"GR",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445109,
+    "gn:latitude":39.12597,
+    "gn:longitude":21.25186,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Vasiloch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vasiloch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445109
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b8b098d5cdff53abb54e102ed0038d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226786149,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1226786149,
+    "wof:lastmodified":1537624795,
+    "wof:name":"Vasilochori",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25186,
+    39.12597,
+    21.25186,
+    39.12597
+],
+  "geometry": {"coordinates":[21.25186,39.12597],"type":"Point"}
+}

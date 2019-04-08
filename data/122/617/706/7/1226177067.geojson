@@ -1,0 +1,73 @@
+{
+  "id": 1226177067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15216,35.4001,24.15216,35.4001",
+    "geom:latitude":35.4001,
+    "geom:longitude":24.15216,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Agioi Pantes",
+    "gn:country_code":"GR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469344,
+    "gn:latitude":35.4001,
+    "gn:longitude":24.15216,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gioi P\u00e1ntes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gioi P\u00e1ntes"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a0\u03ac\u03bd\u03c4\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469344
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7ea7dbd9718d2b174bd78afc185165a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226177067,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226177067,
+    "wof:lastmodified":1537625008,
+    "wof:name":"Agioi Pantes",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15216,
+    35.4001,
+    24.15216,
+    35.4001
+],
+  "geometry": {"coordinates":[24.15216,35.4001],"type":"Point"}
+}

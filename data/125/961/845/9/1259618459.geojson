@@ -1,0 +1,72 @@
+{
+  "id": 1259618459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57,40.01389,22.57,40.01389",
+    "geom:latitude":40.01389,
+    "geom:longitude":22.57,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"16.0",
+    "gn:admin3_code":"9046",
+    "gn:asciiname":"Synoikismos Panteleimonos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734279,
+    "gn:latitude":40.01389,
+    "gn:longitude":22.57,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Synoikism\u00f3s Pantele\u00edmonos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandele\u1e2fmon",
+        "Sinoikism\u00f3s Pandele\u1e2fmonos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734279
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a54527a40e8235db0bcced4302b73344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259618459,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259618459,
+    "wof:lastmodified":1537624833,
+    "wof:name":"Synoikismos Panteleimonos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57,
+    40.01389,
+    22.57,
+    40.01389
+],
+  "geometry": {"coordinates":[22.57,40.01389],"type":"Point"}
+}

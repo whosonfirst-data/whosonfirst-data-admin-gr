@@ -1,0 +1,72 @@
+{
+  "id": 1293620267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09545,35.17781,26.09545,35.17781",
+    "geom:latitude":35.17781,
+    "geom:longitude":26.09545,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Piskokefalon",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255178,
+    "gn:latitude":35.17781,
+    "gn:longitude":26.09545,
+    "gn:modification_date":"2012-02-12",
+    "gn:name":"Piskok\u00e9falon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piskok\u00e9falo",
+        "Piskok\u00e9falon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255178
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ab92e6a146098aac35b62237a094f638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293620267,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293620267,
+    "wof:lastmodified":1537624294,
+    "wof:name":"Piskokefalon",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09545,
+    35.17781,
+    26.09545,
+    35.17781
+],
+  "geometry": {"coordinates":[26.09545,35.17781],"type":"Point"}
+}

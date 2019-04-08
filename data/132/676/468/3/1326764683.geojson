@@ -1,0 +1,84 @@
+{
+  "id": 1326764683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67832,39.71868,19.67832,39.71868",
+    "geom:latitude":39.71868,
+    "geom:longitude":19.67832,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Agios Georgios Armenadon",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165885,
+    "gn:latitude":39.71868,
+    "gn:longitude":19.67832,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Agios Ge\u00f3rgios Armen\u00e1don",
+    "gn:population":60,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u0391\u03c1\u03bc\u03b5\u03bd\u03ac\u03b4\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Armenadon"
+    ],
+    "name:und_x_variant":[
+        "Aghios Georgios Armenadon",
+        "Agios Georgios Armenades"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165885,
+        "wk:page":"Agios_Georgios%2C_Corfu"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b1b4ce7114e92198e5c9b8e46536482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326764683,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1326764683,
+    "wof:lastmodified":1537625048,
+    "wof:name":"Agios Georgios Armenadon",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67832000000001,
+    39.71868,
+    19.67832000000001,
+    39.71868
+],
+  "geometry": {"coordinates":[19.67832000000001,39.71868],"type":"Point"}
+}

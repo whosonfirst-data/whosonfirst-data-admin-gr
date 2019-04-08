@@ -1,0 +1,76 @@
+{
+  "id": 1243490365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91103,38.09675,21.91103,38.09675",
+    "geom:latitude":38.09675,
+    "geom:longitude":21.91103,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Demesticha",
+    "gn:country_code":"GR",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263207,
+    "gn:latitude":38.09675,
+    "gn:longitude":21.91103,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Dem\u00e9sticha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dem\u00e9sticha"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b5\u03bc\u03ad\u03c3\u03c4\u03b9\u03c7\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Dhem\u00e9stikha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263207
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5207c8d137752f0950b1e9c77a40f76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243490365,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243490365,
+    "wof:lastmodified":1537624673,
+    "wof:name":"Demesticha",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91103,
+    38.09675,
+    21.91103,
+    38.09675
+],
+  "geometry": {"coordinates":[21.91103,38.09675],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1125984131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7591,38.65871,20.7591,38.65871",
+    "geom:latitude":38.65871,
+    "geom:longitude":20.7591,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":453,
+    "gn:population":453,
+    "iso:country":"GR",
+    "lbl:latitude":38.65871,
+    "lbl:longitude":20.7591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0430\u0440\u0442\u043e\u0445\u043e\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Spartokh\u00f3ri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253382,
+    "qs_pg:gn_pop":453,
+    "qs_pg:name":"Spartokhorion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":994437,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962688,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253382,
+        "gp:id":962688,
+        "qs_pg:id":994437
+    },
+    "wof:country":"GR",
+    "wof:created":1497298714,
+    "wof:geomhash":"520e004e409a11ce0d5fcb446d59b72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125984131,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125984131,
+    "wof:lastmodified":1538606979,
+    "wof:name":"Spartokhorion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":453,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7591,
+    38.65871,
+    20.7591,
+    38.65871
+],
+  "geometry": {"coordinates":[20.7591,38.65871],"type":"Point"}
+}

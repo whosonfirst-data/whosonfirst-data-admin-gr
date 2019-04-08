@@ -1,0 +1,76 @@
+{
+  "id": 1209349261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71255,35.08366,25.71255,35.08366",
+    "geom:latitude":35.08366,
+    "geom:longitude":25.71255,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Meseleroi",
+    "gn:country_code":"GR",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257213,
+    "gn:latitude":35.08366,
+    "gn:longitude":25.71255,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Mesel\u00e9roi",
+    "gn:population":135,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03b5\u03bb\u03ad\u03c1\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Meseleroi"
+    ],
+    "name:und_x_variant":[
+        "Mesel\u00e9roi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257213,
+        "wk:page":"Meseleroi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0cd888399df390447a6fa9b2c9451482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209349261
+        }
+    ],
+    "wof:id":1209349261,
+    "wof:lastmodified":1537624394,
+    "wof:name":"Meseleroi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71255,
+    35.08365999999999,
+    25.71255,
+    35.08365999999999
+],
+  "geometry": {"coordinates":[25.71255,35.08365999999999],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277013117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07758,38.37053,22.07758,38.37053",
+    "geom:latitude":38.37053,
+    "geom:longitude":22.07758,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Trizonia",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252577,
+    "gn:latitude":38.37053,
+    "gn:longitude":22.07758,
+    "gn:modification_date":"2016-01-29",
+    "gn:name":"Triz\u00f3nia",
+    "gn:population":64,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a4\u03c1\u03bf\u03b9\u03b6\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03b6\u03cc\u03bd\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03bf\u03b9\u03b6\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Trizonia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252577
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8df966b2c6ca1843e26a630b6c6f0624",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277013117,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277013117,
+    "wof:lastmodified":1537624189,
+    "wof:name":"Trizonia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07758,
+    38.37053,
+    22.07758,
+    38.37053
+],
+  "geometry": {"coordinates":[22.07758,38.37053],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242708277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30528,36.82525,22.30528,36.82525",
+    "geom:latitude":36.82525,
+    "geom:longitude":22.30528,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9253",
+    "gn:asciiname":"Ano Rigklia",
+    "gn:country_code":"GR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264847,
+    "gn:latitude":36.82525,
+    "gn:longitude":22.30528,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"\u00c1no R\u00edgklia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no R\u00edgklia"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u03a1\u03af\u03b3\u03ba\u03bb\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no R\u00ednglia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264847
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dbdf0819ee3a21ed9c0ed15095ee08c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242708277,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242708277,
+    "wof:lastmodified":1537624745,
+    "wof:name":"Ano Rigklia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30528,
+    36.82525,
+    22.30528,
+    36.82525
+],
+  "geometry": {"coordinates":[22.30528,36.82525],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360221443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8143,34.99903,24.8143,34.99903",
+    "geom:latitude":34.99903,
+    "geom:longitude":24.8143,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308",
+    "gn:asciiname":"Listaros",
+    "gn:country_code":"GR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258246,
+    "gn:latitude":34.99903,
+    "gn:longitude":24.8143,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"L\u00edstaros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03c3\u03c4\u03b1\u03c1\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Lisaro",
+        "L\u00edstarkhos",
+        "Listankhos",
+        "L\u00edstaros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258246
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bc6fc6798ca92da79ea280ff20f38e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360221443,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360221443,
+    "wof:lastmodified":1537624439,
+    "wof:name":"Listaros",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8143,
+    34.99903,
+    24.8143,
+    34.99903
+],
+  "geometry": {"coordinates":[24.8143,34.99903],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209649141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51914,40.90663,25.51914,40.90663",
+    "geom:latitude":40.90663,
+    "geom:longitude":25.51914,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022",
+    "gn:asciiname":"Maroneia",
+    "gn:country_code":"GR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735308,
+    "gn:latitude":40.90663,
+    "gn:longitude":25.51914,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Marone\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Marone\u00eda"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c1\u03c9\u03bd\u03b5\u03af\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Mar\u00f3nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735308,
+        "wk:page":"Maroneia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1c0d76f1b3a5b1bf7a4b5e41dbe8e58d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649141
+        }
+    ],
+    "wof:id":1209649141,
+    "wof:lastmodified":1537624894,
+    "wof:name":"Maroneia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51914,
+    40.90663,
+    25.51914,
+    40.90663
+],
+  "geometry": {"coordinates":[25.51914,40.90663],"type":"Point"}
+}

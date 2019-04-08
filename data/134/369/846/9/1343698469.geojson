@@ -1,0 +1,73 @@
+{
+  "id": 1343698469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27517,39.28758,21.27517,39.28758",
+    "geom:latitude":39.28758,
+    "geom:longitude":21.27517,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Fisota",
+    "gn:country_code":"GR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262384,
+    "gn:latitude":39.28758,
+    "gn:longitude":21.27517,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Fisot\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fisot\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b9\u03c3\u03bf\u03c4\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262384
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6edf77b405a52677452c63a1e728954e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343698469,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1343698469,
+    "wof:lastmodified":1537624630,
+    "wof:name":"Fisota",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27517000000001,
+    39.28758,
+    21.27517000000001,
+    39.28758
+],
+  "geometry": {"coordinates":[21.27517000000001,39.28758],"type":"Point"}
+}

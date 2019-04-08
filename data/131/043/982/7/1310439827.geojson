@@ -1,0 +1,79 @@
+{
+  "id": 1310439827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57833,38.11322,20.57833,38.11322",
+    "geom:latitude":38.11322,
+    "geom:longitude":20.57833,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Pesada",
+    "gn:country_code":"GR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255481,
+    "gn:latitude":38.11322,
+    "gn:longitude":20.57833,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Pes\u00e1da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pes\u00e1da"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c3\u03ac\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pesades",
+        "Pess\u00e1dhes",
+        "Pez\u00e1dhes",
+        "Pes\u00e1dha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255481
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cf67825e9e34ebc3847789161458a665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310439827,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1310439827,
+    "wof:lastmodified":1537624307,
+    "wof:name":"Pesada",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57833,
+    38.11322,
+    20.57833,
+    38.11322
+],
+  "geometry": {"coordinates":[20.57833,38.11322],"type":"Point"}
+}

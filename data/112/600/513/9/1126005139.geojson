@@ -1,0 +1,113 @@
+{
+  "id": 1126005139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59278,39.91861,22.59278,39.91861",
+    "geom:latitude":39.91861,
+    "geom:longitude":22.59278,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1681,
+    "gn:population":1681,
+    "iso:country":"GR",
+    "lbl:latitude":39.91861,
+    "lbl:longitude":22.59278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u064a\u062a\u0648\u0633\u060c \u0644\u0627\u0631\u064a\u0633\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Pyrgetos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c5\u03c1\u03b3\u03b5\u03c4\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pyrgetos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03c5\u03c1\u03b3\u03b5\u03c4\u03cc\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Pyrget\u00f3s"
+    ],
+    "name:swe_x_preferred":[
+        "Pyrget\u00f3s"
+    ],
+    "name:unk_x_variant":[
+        "Piryet\u00f3s"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255195,
+    "qs_pg:gn_pop":1681,
+    "qs_pg:name":"Pyrgetos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":296443,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":966038,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255195,
+        "gp:id":966038,
+        "qs_pg:id":296443,
+        "wd:id":"Q3561475"
+    },
+    "wof:country":"GR",
+    "wof:created":1497299899,
+    "wof:geomhash":"09a924cdbb872c526d1ffb8a0a90930f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126005139,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126005139,
+    "wof:lastmodified":1553816693,
+    "wof:name":"Pyrgetos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1681,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59278,
+    39.91861,
+    22.59278,
+    39.91861
+],
+  "geometry": {"coordinates":[22.59278,39.91861],"type":"Point"}
+}

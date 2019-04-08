@@ -1,0 +1,100 @@
+{
+  "id": 1126019377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45,38.83333,22.45,38.83333",
+    "geom:latitude":38.83333,
+    "geom:longitude":22.45,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":763,
+    "gn:population":822,
+    "iso:country":"GR",
+    "lbl:latitude":38.83333,
+    "lbl:longitude":22.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c3\u03c7\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03c3\u03c7\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Moschochori"
+    ],
+    "name:unk_x_variant":[
+        "Moskhokh\u00f3rion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256745,
+    "qs_pg:gn_pop":763,
+    "qs_pg:name":"Moskhokhorion",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":942371,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":957681,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256745,
+        "gp:id":957681,
+        "qs_pg:id":942371
+    },
+    "wof:country":"GR",
+    "wof:created":1497300740,
+    "wof:geomhash":"a3d2c3f042396727dfb294c04c65677f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126019377,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1126019377,
+    "wof:lastmodified":1509407123,
+    "wof:name":"Moskhokhorion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":822,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45,
+    38.83333,
+    22.45,
+    38.83333
+],
+  "geometry": {"coordinates":[22.45,38.83333],"type":"Point"}
+}

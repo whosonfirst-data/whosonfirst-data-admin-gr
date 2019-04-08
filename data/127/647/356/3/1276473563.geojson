@@ -1,0 +1,67 @@
+{
+  "id": 1276473563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97552,35.51199,23.97552,35.51199",
+    "geom:latitude":35.51199,
+    "geom:longitude":23.97552,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Chrissi Akti",
+    "gn:country_code":"GR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692693,
+    "gn:latitude":35.51199,
+    "gn:longitude":23.97552,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Chrissi Akti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692693
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"87ec41045308956c95e770393ad89557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276473563,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276473563,
+    "wof:lastmodified":1537085073,
+    "wof:name":"Chrissi Akti",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97552,
+    35.51199000000001,
+    23.97552,
+    35.51199000000001
+],
+  "geometry": {"coordinates":[23.97552,35.51199000000001],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1126042171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.285,39.78111,21.285,39.78111",
+    "geom:latitude":39.78111,
+    "geom:longitude":21.285,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":513,
+    "gn:population":513,
+    "iso:country":"GR",
+    "lbl:latitude":39.78111,
+    "lbl:longitude":21.285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Malakasi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03b1\u03ba\u03ac\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bb\u03b1\u03ba\u03ac\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Malakasi"
+    ],
+    "name:fre_x_preferred":[
+        "Malakasi"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03b1\u03bb\u03b1\u03ba\u03b1\u03c3\u03af\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Malakasi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30ab\u30b7"
+    ],
+    "name:nno_x_preferred":[
+        "Malak\u00e1si"
+    ],
+    "name:swe_x_preferred":[
+        "Malak\u00e1si"
+    ],
+    "name:unk_x_variant":[
+        "Malak\u00e1si"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":257885,
+    "qs_pg:gn_pop":513,
+    "qs_pg:name":"Malak\u00e1sion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546612,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257885,
+        "qs_pg:id":546612,
+        "wd:id":"Q3559260"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302220,
+    "wof:geomhash":"016bf55897230b4d4e93f12794d4b48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042171,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126042171,
+    "wof:lastmodified":1514443999,
+    "wof:name":"Malak\u00e1sion",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":513,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.285,
+    39.78111,
+    21.285,
+    39.78111
+],
+  "geometry": {"coordinates":[21.285,39.78111],"type":"Point"}
+}

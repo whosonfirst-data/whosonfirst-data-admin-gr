@@ -1,0 +1,76 @@
+{
+  "id": 1310136157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66393,35.31775,25.66393,35.31775",
+    "geom:latitude":35.31775,
+    "geom:longitude":25.66393,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Dilakkos",
+    "gn:country_code":"GR",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263099,
+    "gn:latitude":35.31775,
+    "gn:longitude":25.66393,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"D\u00edlakkos",
+    "gn:population":7,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03af\u03bb\u03b1\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Dilakkos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263099
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c2e4d129006f34dd9f3f74b90b12f01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310136157,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310136157,
+    "wof:lastmodified":1537624667,
+    "wof:name":"Dilakkos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66393,
+    35.31775,
+    25.66393,
+    35.31775
+],
+  "geometry": {"coordinates":[25.66393,35.31775],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209035491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73851,38.83082,21.73851,38.83082",
+    "geom:latitude":38.83082,
+    "geom:longitude":21.73851,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Gavros",
+    "gn:country_code":"GR",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262072,
+    "gn:latitude":38.83082,
+    "gn:longitude":21.73851,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"G\u00e1vros",
+    "gn:population":35,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03cd\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ac\u03b2\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Gavros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262072
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"21c7fc5d09d2f3b6048aead6b08db006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209035491
+        }
+    ],
+    "wof:id":1209035491,
+    "wof:lastmodified":1537624618,
+    "wof:name":"Gavros",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73851,
+    38.83082,
+    21.73851,
+    38.83082
+],
+  "geometry": {"coordinates":[21.73851,38.83082],"type":"Point"}
+}

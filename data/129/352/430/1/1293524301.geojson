@@ -1,0 +1,79 @@
+{
+  "id": 1293524301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96719,39.50539,20.96719,39.50539",
+    "geom:latitude":39.50539,
+    "geom:longitude":20.96719,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9080",
+    "gn:asciiname":"Nistora",
+    "gn:country_code":"GR",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256371,
+    "gn:latitude":39.50539,
+    "gn:longitude":20.96719,
+    "gn:modification_date":"2015-02-02",
+    "gn:name":"N\u00edstora",
+    "gn:population":10,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03c3\u03c4\u03bf\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nistora"
+    ],
+    "name:und_x_variant":[
+        "N\u00edstora"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256371
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"788435a6bc8bcefc56cf12a5aa0e9183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293524301,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1293524301,
+    "wof:lastmodified":1537624349,
+    "wof:name":"Nistora",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96719,
+    39.50539000000001,
+    20.96719,
+    39.50539000000001
+],
+  "geometry": {"coordinates":[20.96719,39.50539000000001],"type":"Point"}
+}

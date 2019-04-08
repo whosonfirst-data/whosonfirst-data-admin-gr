@@ -1,0 +1,79 @@
+{
+  "id": 1243490531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94031,38.26533,21.94031,38.26533",
+    "geom:latitude":38.26533,
+    "geom:longitude":21.94031,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Kato Salmeniko",
+    "gn:country_code":"GR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260486,
+    "gn:latitude":38.26533,
+    "gn:longitude":21.94031,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00e1to Salm\u00e9niko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Salm\u00e9niko"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03b1\u03bb\u03bc\u03b5\u03bd\u03af\u03ba\u03bf",
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03b1\u03bb\u03bc\u03b5\u03bd\u03af\u03ba\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Salmen\u00edkon",
+        "K\u00e1to Salm\u00e9nikon",
+        "K\u00e1to Salmen\u00edkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260486
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b3c24e2a80d925cb5cc35b544d015e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243490531,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243490531,
+    "wof:lastmodified":1537624543,
+    "wof:name":"Kato Salmeniko",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94031,
+    38.26533,
+    21.94031,
+    38.26533
+],
+  "geometry": {"coordinates":[21.94031,38.26533],"type":"Point"}
+}

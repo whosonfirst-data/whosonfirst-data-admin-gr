@@ -1,0 +1,110 @@
+{
+  "id": 1125872881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.51667,38.21667,20.51667,38.21667",
+    "geom:latitude":38.21667,
+    "geom:longitude":20.51667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":719,
+    "gn:population":719,
+    "iso:country":"GR",
+    "lbl:latitude":38.21667,
+    "lbl:longitude":20.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dilinata"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03bb\u03b9\u03bd\u03ac\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Dilinata"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03b9\u03bb\u03b9\u03bd\u03ac\u03c4\u03b1 \u039a\u03b5\u03c6\u03b1\u03bb\u03bb\u03b7\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:rum_x_preferred":[
+        "Dilinata"
+    ],
+    "name:swe_x_preferred":[
+        "Dilin\u00e1ta"
+    ],
+    "name:unk_x_variant":[
+        "Dhilian\u00e1ta"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":263097,
+    "qs_pg:gn_pop":719,
+    "qs_pg:name":"Dilinata",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":123870,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":948845,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263097,
+        "gp:id":948845,
+        "qs_pg:id":123870,
+        "wd:id":"Q5276791"
+    },
+    "wof:country":"GR",
+    "wof:created":1497294387,
+    "wof:geomhash":"9ec9b552392cefeb210b0d34a6caa37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125872881,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125872881,
+    "wof:lastmodified":1514443940,
+    "wof:name":"Dilinata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":719,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.51667,
+    38.21667,
+    20.51667,
+    38.21667
+],
+  "geometry": {"coordinates":[20.51667,38.21667],"type":"Point"}
+}

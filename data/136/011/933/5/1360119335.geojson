@@ -1,0 +1,76 @@
+{
+  "id": 1360119335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37531,40.9857,24.37531,40.9857",
+    "geom:latitude":40.9857,
+    "geom:longitude":24.37531,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9012",
+    "gn:asciiname":"Prosfyges",
+    "gn:country_code":"GR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9389364,
+    "gn:latitude":40.9857,
+    "gn:longitude":24.37531,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Pr\u00f3sfyges",
+    "gn:population":572,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03cc\u03c3\u03c6\u03c5\u03b3\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Prosfyges"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9389364
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"deac41fb7efcdc149148a89b2d764ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360119335,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1360119335,
+    "wof:lastmodified":1537625063,
+    "wof:name":"Prosfyges",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":572,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37531,
+    40.9857,
+    24.37531,
+    40.9857
+],
+  "geometry": {"coordinates":[24.37531,40.9857],"type":"Point"}
+}

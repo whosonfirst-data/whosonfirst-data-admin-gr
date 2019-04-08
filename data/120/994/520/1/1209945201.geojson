@@ -1,0 +1,76 @@
+{
+  "id": 1209945201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69198,39.53099,20.69198,39.53099",
+    "geom:latitude":39.53099,
+    "geom:longitude":20.69198,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9081",
+    "gn:asciiname":"Tyria",
+    "gn:country_code":"GR",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8658963,
+    "gn:latitude":39.53099,
+    "gn:longitude":20.69198,
+    "gn:modification_date":"2015-02-03",
+    "gn:name":"T\u00fdria",
+    "gn:population":56,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03cd\u03c1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Tyria"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8658963
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f53f34e55476745f25d5ae5ac0531343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209945201,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1209945201,
+    "wof:lastmodified":1537625034,
+    "wof:name":"Tyria",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69198,
+    39.53099,
+    20.69198,
+    39.53099
+],
+  "geometry": {"coordinates":[20.69198,39.53099],"type":"Point"}
+}

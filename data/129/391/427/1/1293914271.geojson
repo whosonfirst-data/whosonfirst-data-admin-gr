@@ -1,0 +1,73 @@
+{
+  "id": 1293914271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08552,35.53469,24.08552,35.53469",
+    "geom:latitude":35.53469,
+    "geom:longitude":24.08552,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Plakoures",
+    "gn:country_code":"GR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427934,
+    "gn:latitude":35.53469,
+    "gn:longitude":24.08552,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Plako\u00fares",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Plako\u00fares"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03ba\u03bf\u03cd\u03c1\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427934
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f9964a3953893c90f769100b57eabd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293914271,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293914271,
+    "wof:lastmodified":1537625008,
+    "wof:name":"Plakoures",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08552,
+    35.53469000000001,
+    24.08552,
+    35.53469000000001
+],
+  "geometry": {"coordinates":[24.08552,35.53469000000001],"type":"Point"}
+}

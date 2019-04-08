@@ -1,0 +1,72 @@
+{
+  "id": 1209745807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03286,35.00476,25.03286,35.00476",
+    "geom:latitude":35.00476,
+    "geom:longitude":25.03286,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9304",
+    "gn:asciiname":"Staviai",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253276,
+    "gn:latitude":35.00476,
+    "gn:longitude":25.03286,
+    "gn:modification_date":"2012-04-17",
+    "gn:name":"St\u00e1viai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "St\u00e1vyies",
+        "St\u00e1viai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253276
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f2e902b7498b883a81e5ae0a62c75ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209745807,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1209745807,
+    "wof:lastmodified":1537624213,
+    "wof:name":"Staviai",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03286,
+    35.00476,
+    25.03286,
+    35.00476
+],
+  "geometry": {"coordinates":[25.03286,35.00476],"type":"Point"}
+}

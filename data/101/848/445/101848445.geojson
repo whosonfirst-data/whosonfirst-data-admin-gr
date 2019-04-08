@@ -1,0 +1,140 @@
+{
+  "id": 101848445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.117407,36.214169,28.117407,36.214169",
+    "geom:latitude":36.214169,
+    "geom:longitude":28.117407,
+    "gn:population":5398,
+    "iso:country":"GR",
+    "lbl:latitude":36.214169,
+    "lbl:longitude":28.117407,
+    "mps:latitude":36.214169,
+    "mps:longitude":28.117407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u062e\u0627\u0646\u062c\u0644\u0648\u0633"
+    ],
+    "name:ces_x_preferred":[
+        "Archangelos"
+    ],
+    "name:cze_x_preferred":[
+        "Archangelos"
+    ],
+    "name:deu_x_preferred":[
+        "Archangelos"
+    ],
+    "name:dut_x_preferred":[
+        "Archangelos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c7\u03ac\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Archangelos"
+    ],
+    "name:fin_x_preferred":[
+        "Arch\u00e1ngelos"
+    ],
+    "name:ger_x_preferred":[
+        "Archangelos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Arcangelo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30cf\u30f3\u30b2\u30ed\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Archangelos"
+    ],
+    "name:nno_x_preferred":[
+        "Arkh\u00e1ngelos p\u00e5 R\u00f3dos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Arch\u00e1ngelos"
+    ],
+    "name:unk_x_variant":[
+        "Arkh\u00e1ngelos"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039d\u039f\u03a4\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"NOTIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"DVDEKANHSOS",
+    "qs:adm0":"Greece",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03a1\u03a7\u0391\u0393\u0393\u0395\u039b\u039f\u03a3",
+    "qs:loc_alt":"ARXAGGELOS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":366,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408686,
+        "gp:id":966233,
+        "qs:id":474893,
+        "qs_pg:id":474893,
+        "wd:id":"Q632440",
+        "wk:page":"Archangelos, Rhodes"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"66f6825d28660adf326c69a7663f6091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848445,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":101848445,
+    "wof:lastmodified":1553815542,
+    "wof:name":"\u0391\u03a1\u03a7\u0391\u0393\u0393\u0395\u039b\u039f\u03a3",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":5398,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.117407,
+    36.214169,
+    28.117407,
+    36.214169
+],
+  "geometry": {"coordinates":[28.117407,36.214169],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260116357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53272,38.71749,21.53272,38.71749",
+    "geom:latitude":38.71749,
+    "geom:longitude":21.53272,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Sitomena",
+    "gn:country_code":"GR",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253755,
+    "gn:latitude":38.71749,
+    "gn:longitude":21.53272,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Sit\u00f3mena",
+    "gn:population":209,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c4\u03cc\u03bc\u03b5\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Sitomena"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253755
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e31cac142ee06aec9959085aa28d2556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260116357,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1260116357,
+    "wof:lastmodified":1537624235,
+    "wof:name":"Sitomena",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53272,
+    38.71749000000001,
+    21.53272,
+    38.71749000000001
+],
+  "geometry": {"coordinates":[21.53272,38.71749000000001],"type":"Point"}
+}

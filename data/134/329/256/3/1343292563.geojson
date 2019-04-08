@@ -1,0 +1,74 @@
+{
+  "id": 1343292563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28723,40.33535,21.28723,40.33535",
+    "geom:latitude":40.33535,
+    "geom:longitude":21.28723,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9066",
+    "gn:asciiname":"Asproula",
+    "gn:country_code":"GR",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736695,
+    "gn:latitude":40.33535,
+    "gn:longitude":21.28723,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Aspro\u00fala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c0\u03c1\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Aspro\u00fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736695,
+        "wk:page":"Asproula"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ea2888d41f42b699adffcfafceb04d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343292563,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343292563,
+    "wof:lastmodified":1537624970,
+    "wof:name":"Asproula",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28723,
+    40.33535,
+    21.28723,
+    40.33535
+],
+  "geometry": {"coordinates":[21.28723,40.33535],"type":"Point"}
+}

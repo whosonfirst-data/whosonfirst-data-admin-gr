@@ -1,0 +1,85 @@
+{
+  "id": 1125865019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31583,40.86444,24.31583,40.86444",
+    "geom:latitude":40.86444,
+    "geom:longitude":24.31583,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1147,
+    "gn:population":1560,
+    "iso:country":"GR",
+    "lbl:latitude":40.86444,
+    "lbl:longitude":24.31583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e9a Praklitsa"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735017,
+    "qs_pg:gn_pop":1147,
+    "qs_pg:name":"N\u00e9a Irakle\u00edtsa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":129060,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735017,
+        "qs_pg:id":129060
+    },
+    "wof:country":"GR",
+    "wof:created":1497293992,
+    "wof:geomhash":"d0d87d8388805eb531af658f5f588642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125865019,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1125865019,
+    "wof:lastmodified":1509396906,
+    "wof:name":"N\u00e9a Irakle\u00edtsa",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":1560,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31583,
+    40.86444,
+    24.31583,
+    40.86444
+],
+  "geometry": {"coordinates":[24.31583,40.86444],"type":"Point"}
+}

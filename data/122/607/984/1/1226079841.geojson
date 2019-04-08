@@ -1,0 +1,72 @@
+{
+  "id": 1226079841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.146,35.17802,26.146,35.17802",
+    "geom:latitude":35.17802,
+    "geom:longitude":26.146,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Roussa Ekklisia",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254189,
+    "gn:latitude":35.17802,
+    "gn:longitude":26.146,
+    "gn:modification_date":"2012-02-12",
+    "gn:name":"Ro\u00fassa Ekklis\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ro\u00fasa Ekklisi\u00e1",
+        "Ro\u00fassa Ekklis\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254189
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3f99c8dcce38a6d482095b5e7629b0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226079841,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226079841,
+    "wof:lastmodified":1537624256,
+    "wof:name":"Roussa Ekklisia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.146,
+    35.17802,
+    26.146,
+    35.17802
+],
+  "geometry": {"coordinates":[26.146,35.17802],"type":"Point"}
+}

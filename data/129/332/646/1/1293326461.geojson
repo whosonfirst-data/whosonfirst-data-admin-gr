@@ -1,0 +1,73 @@
+{
+  "id": 1293326461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13236,39.2273,20.13236,39.2273",
+    "geom:latitude":39.2273,
+    "geom:longitude":20.13236,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9119",
+    "gn:asciiname":"Chourdatika",
+    "gn:country_code":"GR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445290,
+    "gn:latitude":39.2273,
+    "gn:longitude":20.13236,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chourd\u00e1tika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chourd\u00e1tika"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03c5\u03c1\u03b4\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445290
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"13c4e166054221a15675b2ac282a5c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293326461,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293326461,
+    "wof:lastmodified":1537624801,
+    "wof:name":"Chourdatika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13236,
+    39.2273,
+    20.13236,
+    39.2273
+],
+  "geometry": {"coordinates":[20.13236,39.2273],"type":"Point"}
+}

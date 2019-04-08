@@ -1,0 +1,80 @@
+{
+  "id": 1343894347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52172,38.82911,21.52172,38.82911",
+    "geom:latitude":38.82911,
+    "geom:longitude":21.52172,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Karamanaiika",
+    "gn:country_code":"GR",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261062,
+    "gn:latitude":38.82911,
+    "gn:longitude":21.52172,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Karamana\u00edika",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03bd\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Karamanaiika"
+    ],
+    "name:und_x_variant":[
+        "Karaman\u00e9\u00efka",
+        "Karamana\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261062
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e328cb1a7337b4c9d20e67542d8ff565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343894347,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343894347,
+    "wof:lastmodified":1537624572,
+    "wof:name":"Karamanaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52172,
+    38.82911,
+    21.52172,
+    38.82911
+],
+  "geometry": {"coordinates":[21.52172,38.82911],"type":"Point"}
+}

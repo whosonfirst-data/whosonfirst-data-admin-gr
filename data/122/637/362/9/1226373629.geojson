@@ -1,0 +1,90 @@
+{
+  "id": 1226373629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6802,39.22943,22.6802,39.22943",
+    "geom:latitude":39.22943,
+    "geom:longitude":22.6802,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Mavrolofos",
+    "gn:country_code":"GR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257544,
+    "gn:latitude":39.22943,
+    "gn:longitude":22.6802,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Mavr\u00f3lofos",
+    "gn:population":16,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03c1\u03b1\u03b4\u03b1\u03bd\u03b1\u03bb\u03af",
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03b1\u03c5\u03c1\u03cc\u03bb\u03bf\u03c6\u03bf\u03c2",
+        "\u039a\u03b1\u03c1\u03b1\u03b4\u03b1\u03bd\u03b1\u03bb\u03af"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c5\u03c1\u03cc\u03bb\u03bf\u03c6\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03c1\u03b1\u03b4\u03b1\u03bd\u03b1\u03bb\u03af",
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03b1\u03c5\u03c1\u03cc\u03bb\u03bf\u03c6\u03bf\u03c2",
+        "\u039a\u03b1\u03c1\u03b1\u03b4\u03b1\u03bd\u03b1\u03bb\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Mavrolofos"
+    ],
+    "name:und_x_variant":[
+        "Karadanal\u00ed",
+        "K\u00e1to Mavr\u00f3lofos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257544
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"07d0f5dff4622ea7455f3bc4c9cda25f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226373629,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1226373629,
+    "wof:lastmodified":1537624409,
+    "wof:name":"Mavrolofos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6802,
+    39.22943,
+    22.6802,
+    39.22943
+],
+  "geometry": {"coordinates":[22.6802,39.22943],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226778239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99533,37.6093,22.99533,37.6093",
+    "geom:latitude":37.6093,
+    "geom:longitude":22.99533,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Khoutalaiika",
+    "gn:country_code":"GR",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259877,
+    "gn:latitude":37.6093,
+    "gn:longitude":22.99533,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Khoutala\u00edika",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03c4\u03b1\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Choutalaiika"
+    ],
+    "name:und_x_variant":[
+        "Khondal\u00e9\u00efka",
+        "Khoutala\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259877
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"36ee5c5c1a36b0b186bba2d264f3d5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226778239,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226778239,
+    "wof:lastmodified":1537624512,
+    "wof:name":"Khoutalaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99533,
+    37.6093,
+    22.99533,
+    37.6093
+],
+  "geometry": {"coordinates":[22.99533,37.6093],"type":"Point"}
+}

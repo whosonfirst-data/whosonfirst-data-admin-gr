@@ -1,0 +1,74 @@
+{
+  "id": 1327065947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.24151,41.70203,26.24151,41.70203",
+    "geom:latitude":41.70203,
+    "geom:longitude":26.24151,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9008",
+    "gn:asciiname":"Ptelea",
+    "gn:country_code":"GR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734428,
+    "gn:latitude":41.70203,
+    "gn:longitude":26.24151,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ptel\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c4\u03b5\u03bb\u03ad\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Fteli\u00e1",
+        "Ptel\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734428
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ecd337166bce6b9955ac04a9b9a513c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327065947,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327065947,
+    "wof:lastmodified":1537624840,
+    "wof:name":"Ptelea",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.24151,
+    41.70203,
+    26.24151,
+    41.70203
+],
+  "geometry": {"coordinates":[26.24151,41.70203],"type":"Point"}
+}

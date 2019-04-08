@@ -1,0 +1,80 @@
+{
+  "id": 1276796071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21375,36.94344,22.21375,36.94344",
+    "geom:latitude":36.94344,
+    "geom:longitude":22.21375,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9253",
+    "gn:asciiname":"Orovas",
+    "gn:country_code":"GR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256251,
+    "gn:latitude":36.94344,
+    "gn:longitude":22.21375,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"Orov\u00e1s",
+    "gn:population":24,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03bf\u03b2\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Orovas"
+    ],
+    "name:und_x_variant":[
+        "Orov\u00e1",
+        "\u00d3rva"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256251
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1416768e146077d069280d9be52453dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276796071,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276796071,
+    "wof:lastmodified":1537624345,
+    "wof:name":"Orovas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21375,
+    36.94344,
+    22.21375,
+    36.94344
+],
+  "geometry": {"coordinates":[22.21375,36.94344],"type":"Point"}
+}

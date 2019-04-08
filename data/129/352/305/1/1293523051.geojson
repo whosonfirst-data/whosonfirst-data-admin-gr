@@ -1,0 +1,67 @@
+{
+  "id": 1293523051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08335,40.03335,21.08335,40.03335",
+    "geom:latitude":40.03335,
+    "geom:longitude":21.08335,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Vasilitsa",
+    "gn:country_code":"GR",
+    "gn:dem":2107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10171141,
+    "gn:latitude":40.03335,
+    "gn:longitude":21.08335,
+    "gn:modification_date":"2015-03-11",
+    "gn:name":"Vasilitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10171141
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"24e3c1a51899616a3408492513f3eb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293523051,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1293523051,
+    "wof:lastmodified":1536735892,
+    "wof:name":"Vasilitsa",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08335,
+    40.03335,
+    21.08335,
+    40.03335
+],
+  "geometry": {"coordinates":[21.08335,40.03335],"type":"Point"}
+}

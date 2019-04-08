@@ -1,0 +1,81 @@
+{
+  "id": 1209649405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30361,39.57356,22.30361,39.57356",
+    "geom:latitude":39.57356,
+    "geom:longitude":22.30361,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9100",
+    "gn:asciiname":"Koilada",
+    "gn:country_code":"GR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259617,
+    "gn:latitude":39.57356,
+    "gn:longitude":22.30361,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Koil\u00e1da",
+    "gn:population":628,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03b9\u03bb\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Koilada"
+    ],
+    "name:und_x_variant":[
+        "Amarl\u00e1r",
+        "Koil\u00e1s",
+        "Koil\u00e1da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259617,
+        "wk:page":"Koilada"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d543e0e99d46c7a68260df8c68aa00f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649405
+        }
+    ],
+    "wof:id":1209649405,
+    "wof:lastmodified":1537624499,
+    "wof:name":"Koilada",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":628,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30361,
+    39.57356,
+    22.30361,
+    39.57356
+],
+  "geometry": {"coordinates":[22.30361,39.57356],"type":"Point"}
+}

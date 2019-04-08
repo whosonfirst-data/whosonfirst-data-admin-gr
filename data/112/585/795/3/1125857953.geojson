@@ -1,0 +1,110 @@
+{
+  "id": 1125857953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98861,40.49667,22.98861,40.49667",
+    "geom:latitude":40.49667,
+    "geom:longitude":22.98861,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3012,
+    "gn:population":3012,
+    "iso:country":"GR",
+    "lbl:latitude":40.49667,
+    "lbl:longitude":22.98861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648\u0646 \u0631\u064a\u0634\u0646\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u043e \u0420\u0438\u0441\u0438\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Neo Rysio"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf\u03bd \u03a1\u03cd\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03bf \u03a1\u03cd\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Neo Rysio"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03ad\u03bf \u03a1\u03cd\u03c3\u03b9\u03bf \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0440\u043d\u0430\u0440"
+    ],
+    "name:nno_x_preferred":[
+        "N\u00e9o R\u00fdsio"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e9o R\u00fdsi"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e9on R\u00edsion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734946,
+    "qs_pg:gn_pop":3012,
+    "qs_pg:name":"N\u00e9on R\u00fdsion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275654,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734946,
+        "qs_pg:id":275654,
+        "wd:id":"Q12288144"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293701,
+    "wof:geomhash":"e7d17f2b2b1634e26064cab9068ea44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125857953,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125857953,
+    "wof:lastmodified":1514444022,
+    "wof:name":"N\u00e9on R\u00fdsion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":3012,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98861,
+    40.49667,
+    22.98861,
+    40.49667
+],
+  "geometry": {"coordinates":[22.98861,40.49667],"type":"Point"}
+}

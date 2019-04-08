@@ -1,0 +1,79 @@
+{
+  "id": 1293329541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18279,35.05601,26.18279,35.05601",
+    "geom:latitude":35.05601,
+    "geom:longitude":26.18279,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Chamaitoulo",
+    "gn:country_code":"GR",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260127,
+    "gn:latitude":35.05601,
+    "gn:longitude":26.18279,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Chama\u00edtoulo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chama\u00edtoulo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bc\u03b1\u03af\u03c4\u03bf\u03c5\u03bb\u03bf",
+        "Chama\u00edtoulon",
+        "\u03a7\u03b1\u03bc\u03b1\u03af\u03c4\u03bf\u03c5\u03bb\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Khama\u00edtoulo",
+        "Khama\u00edtoulon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260127
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e200470617c1755f7d59e496664259bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293329541,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293329541,
+    "wof:lastmodified":1537624525,
+    "wof:name":"Chamaitoulo",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18279,
+    35.05601,
+    26.18279,
+    35.05601
+],
+  "geometry": {"coordinates":[26.18279,35.05601],"type":"Point"}
+}

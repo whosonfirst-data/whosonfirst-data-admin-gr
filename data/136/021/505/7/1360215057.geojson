@@ -1,0 +1,85 @@
+{
+  "id": 1360215057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86493,38.84893,22.86493,38.84893",
+    "geom:latitude":38.84893,
+    "geom:longitude":22.86493,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Lichada",
+    "gn:country_code":"GR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258372,
+    "gn:latitude":38.84893,
+    "gn:longitude":22.86493,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Lich\u00e1da",
+    "gn:population":181,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03c7\u03ac\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "\u039b\u03b9\u03c7\u03ac\u03c2"
+    ],
+    "name:eng_x_variant":[
+        "Lichada"
+    ],
+    "name:und_x_variant":[
+        "Lith\u00e1dha",
+        "Likh\u00e1s",
+        "Lich\u00e1da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258372,
+        "wk:page":"Lichada"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8a5214e6147349cade00b61808bb4846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360215057,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1360215057,
+    "wof:lastmodified":1537624444,
+    "wof:name":"Lichada",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":181,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86493,
+    38.84893,
+    22.86493,
+    38.84893
+],
+  "geometry": {"coordinates":[22.86493,38.84893],"type":"Point"}
+}

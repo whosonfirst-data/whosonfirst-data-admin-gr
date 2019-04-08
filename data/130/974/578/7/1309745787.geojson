@@ -1,0 +1,74 @@
+{
+  "id": 1309745787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23175,40.93575,23.23175,40.93575",
+    "geom:latitude":40.93575,
+    "geom:longitude":23.23175,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"9034",
+    "gn:asciiname":"Kydonea",
+    "gn:country_code":"GR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735741,
+    "gn:latitude":40.93575,
+    "gn:longitude":23.23175,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kydon\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kydon\u00e9a"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b4\u03c9\u03bd\u03ad\u03b1",
+        "Kidhon\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735741
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fa9cf600ab37f1fa7998b64312c44277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309745787,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1309745787,
+    "wof:lastmodified":1537624921,
+    "wof:name":"Kydonea",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23175,
+    40.93575,
+    23.23175,
+    40.93575
+],
+  "geometry": {"coordinates":[23.23175,40.93575],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209348299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48241,36.66699,22.48241,36.66699",
+    "geom:latitude":36.66699,
+    "geom:longitude":22.48241,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Parasyros",
+    "gn:country_code":"GR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255749,
+    "gn:latitude":36.66699,
+    "gn:longitude":22.48241,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Parasyr\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Parasyr\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c1\u03b1\u03c3\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Parastros",
+        "Parasir\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255749
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"94a8c0419ef591b8d41a1aa0175e7453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209348299
+        }
+    ],
+    "wof:id":1209348299,
+    "wof:lastmodified":1537624319,
+    "wof:name":"Parasyros",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48241,
+    36.66699000000001,
+    22.48241,
+    36.66699000000001
+],
+  "geometry": {"coordinates":[22.48241,36.66699000000001],"type":"Point"}
+}

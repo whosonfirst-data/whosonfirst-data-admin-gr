@@ -1,0 +1,71 @@
+{
+  "id": 1343497871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84539,41.04276,24.84539,41.04276",
+    "geom:latitude":41.04276,
+    "geom:longitude":24.84539,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9018",
+    "gn:asciiname":"Nea Amisos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735027,
+    "gn:latitude":41.04276,
+    "gn:longitude":24.84539,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"N\u00e9a Amis\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9a Amiss\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735027
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"86fb0280abe0785c1284724a86d42326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343497871,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343497871,
+    "wof:lastmodified":1537624875,
+    "wof:name":"Nea Amisos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84539,
+    41.04276,
+    24.84539,
+    41.04276
+],
+  "geometry": {"coordinates":[24.84539,41.04276],"type":"Point"}
+}

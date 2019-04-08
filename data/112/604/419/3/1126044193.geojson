@@ -1,0 +1,79 @@
+{
+  "id": 1126044193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03667,39.1325,21.03667,39.1325",
+    "geom:latitude":39.1325,
+    "geom:longitude":21.03667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":330,
+    "gn:population":330,
+    "iso:country":"GR",
+    "lbl:latitude":39.1325,
+    "lbl:longitude":21.03667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c6\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":445072,
+    "qs_pg:gn_pop":330,
+    "qs_pg:name":"Amfith\u00e9a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":548360,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445072,
+        "qs_pg:id":548360
+    },
+    "wof:country":"GR",
+    "wof:created":1497302331,
+    "wof:geomhash":"8043edfaf2fabde474bba78f764a5ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126044193,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126044193,
+    "wof:lastmodified":1509408746,
+    "wof:name":"Amfith\u00e9a",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":330,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03667,
+    39.1325,
+    21.03667,
+    39.1325
+],
+  "geometry": {"coordinates":[21.03667,39.1325],"type":"Point"}
+}

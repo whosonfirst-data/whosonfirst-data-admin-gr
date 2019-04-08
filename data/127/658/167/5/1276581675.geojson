@@ -1,0 +1,77 @@
+{
+  "id": 1276581675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32259,35.20218,25.32259,35.20218",
+    "geom:latitude":35.20218,
+    "geom:longitude":25.32259,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Arkhangelos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264636,
+    "gn:latitude":35.20218,
+    "gn:longitude":25.32259,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Arkh\u00e1ngelos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c7\u03ac\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "V\u00e1rvaro",
+        "Varv\u00e1roi",
+        "V\u00e1rvaron",
+        "Arkh\u00e1ngelos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264636
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fe2132ab4885adc5df50255e0ac05b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276581675,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276581675,
+    "wof:lastmodified":1537624734,
+    "wof:name":"Arkhangelos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32259,
+    35.20218,
+    25.32259,
+    35.20218
+],
+  "geometry": {"coordinates":[25.32259,35.20218],"type":"Point"}
+}

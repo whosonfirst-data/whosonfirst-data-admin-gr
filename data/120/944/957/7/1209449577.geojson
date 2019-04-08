@@ -1,0 +1,75 @@
+{
+  "id": 1209449577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07079,35.31609,25.07079,35.31609",
+    "geom:latitude":35.31609,
+    "geom:longitude":25.07079,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306",
+    "gn:asciiname":"Kollyvas",
+    "gn:country_code":"GR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560591,
+    "gn:latitude":35.31609,
+    "gn:longitude":25.07079,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kollyv\u00e1s",
+    "gn:population":484,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03bb\u03c5\u03b2\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Kollyv\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Kollyvas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560591
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6d3f03845e1c432722241040c2463e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209449577
+        }
+    ],
+    "wof:id":1209449577,
+    "wof:lastmodified":1537625022,
+    "wof:name":"Kollyvas",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":484,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07079,
+    35.31609,
+    25.07079,
+    35.31609
+],
+  "geometry": {"coordinates":[25.07079,35.31609],"type":"Point"}
+}

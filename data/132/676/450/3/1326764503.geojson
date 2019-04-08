@@ -1,0 +1,77 @@
+{
+  "id": 1326764503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02331,38.44844,22.02331,38.44844",
+    "geom:latitude":38.44844,
+    "geom:longitude":22.02331,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Palaiomylos",
+    "gn:country_code":"GR",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256085,
+    "gn:latitude":38.44844,
+    "gn:longitude":22.02331,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Palai\u00f3mylos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Palai\u00f3mylos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03bc\u03c5\u03bb\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Pali\u00f3milos",
+        "Palai\u00f3milos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256085
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9f26f61cbe52b7f419fbd2891ef866fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326764503,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1326764503,
+    "wof:lastmodified":1537624335,
+    "wof:name":"Palaiomylos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02331,
+    38.44844000000001,
+    22.02331,
+    38.44844000000001
+],
+  "geometry": {"coordinates":[22.02331,38.44844000000001],"type":"Point"}
+}

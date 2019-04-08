@@ -1,0 +1,92 @@
+{
+  "id": 1125776147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5,38.3,23.5,38.3",
+    "geom:latitude":38.3,
+    "geom:longitude":23.5,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1375,
+    "gn:population":1375,
+    "iso:country":"GR",
+    "lbl:latitude":38.3,
+    "lbl:longitude":23.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c9\u03c0\u03af\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Khlembots\u00e1rion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":264482,
+    "qs_pg:gn_pop":1375,
+    "qs_pg:name":"Asopia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":191530,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":946622,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264482,
+        "gp:id":946622,
+        "qs_pg:id":191530
+    },
+    "wof:country":"GR",
+    "wof:created":1497290265,
+    "wof:geomhash":"7aa962ba48db203bee611e2b33a199e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125776147,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125776147,
+    "wof:lastmodified":1509391286,
+    "wof:name":"Asopia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1375,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5,
+    38.3,
+    23.5,
+    38.3
+],
+  "geometry": {"coordinates":[23.5,38.3],"type":"Point"}
+}

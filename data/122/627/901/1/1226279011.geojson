@@ -1,0 +1,73 @@
+{
+  "id": 1226279011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52403,39.06394,21.52403,39.06394",
+    "geom:latitude":39.06394,
+    "geom:longitude":21.52403,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9156",
+    "gn:asciiname":"Ergastiria",
+    "gn:country_code":"GR",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262624,
+    "gn:latitude":39.06394,
+    "gn:longitude":21.52403,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ergast\u00edria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ergast\u00edria"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262624
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"902cce565fb4e387a1927f74cb8ff225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226279011,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226279011,
+    "wof:lastmodified":1537624640,
+    "wof:name":"Ergastiria",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52403,
+    39.06394,
+    21.52403,
+    39.06394
+],
+  "geometry": {"coordinates":[21.52403,39.06394],"type":"Point"}
+}

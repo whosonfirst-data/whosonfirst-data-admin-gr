@@ -1,0 +1,73 @@
+{
+  "id": 1260116979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34508,37.61546,22.34508,37.61546",
+    "geom:latitude":37.61546,
+    "geom:longitude":22.34508,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Kapsas",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261082,
+    "gn:latitude":37.61546,
+    "gn:longitude":22.34508,
+    "gn:modification_date":"2016-01-25",
+    "gn:name":"K\u00e1psas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e1psia",
+        "K\u00e1psas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261082,
+        "wk:page":"Kapsas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dcc0126a9b622e741ab08bdd2a84cdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260116979,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260116979,
+    "wof:lastmodified":1537624573,
+    "wof:name":"Kapsas",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34508,
+    37.61546,
+    22.34508,
+    37.61546
+],
+  "geometry": {"coordinates":[22.34508,37.61546],"type":"Point"}
+}

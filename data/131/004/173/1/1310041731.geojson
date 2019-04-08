@@ -1,0 +1,75 @@
+{
+  "id": 1310041731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81947,41.24462,23.81947,41.24462",
+    "geom:latitude":41.24462,
+    "geom:longitude":23.81947,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9005",
+    "gn:asciiname":"Panorama",
+    "gn:country_code":"GR",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734770,
+    "gn:latitude":41.24462,
+    "gn:longitude":23.81947,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Pan\u00f3rama",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03cc\u03c1\u03b1\u03bc\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Palaion Kalap\u00f3tion",
+        "Palai\u00f3n Kalap\u00f3ti",
+        "Pan\u00f3rama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734770
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2a785f592225490a0b3ffcc6b4340be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310041731,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310041731,
+    "wof:lastmodified":1537624861,
+    "wof:name":"Panorama",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81947000000001,
+    41.24462,
+    23.81947000000001,
+    41.24462
+],
+  "geometry": {"coordinates":[23.81947000000001,41.24462],"type":"Point"}
+}

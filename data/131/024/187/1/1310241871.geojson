@@ -1,0 +1,76 @@
+{
+  "id": 1310241871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48651,38.49377,21.48651,38.49377",
+    "geom:latitude":38.49377,
+    "geom:longitude":21.48651,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Palaioplatanos",
+    "gn:country_code":"GR",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256064,
+    "gn:latitude":38.49377,
+    "gn:longitude":21.48651,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"Palaiopl\u00e1tanos",
+    "gn:population":33,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Palaioplatanos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256064
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dbe2bf90fed238c3c029c000cc48b0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310241871,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310241871,
+    "wof:lastmodified":1537624334,
+    "wof:name":"Palaioplatanos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48651,
+    38.49377,
+    21.48651,
+    38.49377
+],
+  "geometry": {"coordinates":[21.48651,38.49377],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1292935343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27346,39.04729,26.27346,39.04729",
+    "geom:latitude":39.04729,
+    "geom:longitude":26.27346,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Stavros",
+    "gn:country_code":"GR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251738,
+    "gn:latitude":39.04729,
+    "gn:longitude":26.27346,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"Stavr\u00f3s",
+    "gn:population":56,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u0392\u03bf\u03cd\u03c1\u03ba\u03bf\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03cd\u03c1\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_historical":[
+        "Vourkos"
+    ],
+    "name:eng_x_preferred":[
+        "Vourkos"
+    ],
+    "name:eng_x_variant":[
+        "Stavros"
+    ],
+    "name:und_x_variant":[
+        "Vo\u00farkos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251738
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ab03071b5cee57da4f43d4f4ae295e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1292935343,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292935343,
+    "wof:lastmodified":1537624154,
+    "wof:name":"Stavros",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27346,
+    39.04729,
+    26.27346,
+    39.04729
+],
+  "geometry": {"coordinates":[26.27346,39.04729],"type":"Point"}
+}

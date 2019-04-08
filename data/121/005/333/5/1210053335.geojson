@@ -1,0 +1,68 @@
+{
+  "id": 1210053335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10754,35.32507,25.10754,35.32507",
+    "geom:latitude":35.32507,
+    "geom:longitude":25.10754,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9305",
+    "gn:asciiname":"Giofyros",
+    "gn:country_code":"GR",
+    "gn:dem":9,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224637,
+    "gn:latitude":35.32507,
+    "gn:longitude":25.10754,
+    "gn:modification_date":"2012-03-25",
+    "gn:name":"Giofyros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224637
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d21028ab0c530c2e4cb6e219f551494d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210053335,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1210053335,
+    "wof:lastmodified":1536371162,
+    "wof:name":"Giofyros",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10754,
+    35.32507000000001,
+    25.10754,
+    35.32507000000001
+],
+  "geometry": {"coordinates":[25.10754,35.32507000000001],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1360021571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57213,38.53252,21.57213,38.53252",
+    "geom:latitude":38.53252,
+    "geom:longitude":21.57213,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Dhafnias",
+    "gn:country_code":"GR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263301,
+    "gn:latitude":38.53252,
+    "gn:longitude":21.57213,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Dhafni\u00e1s",
+    "gn:population":237,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03c0\u03bf\u03c4\u03af\u03bd\u03bf\u03bd",
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03c0\u03bf\u03c4\u03af\u03bd\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03c6\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03c0\u03bf\u03c4\u03af\u03bd\u03bf\u03bd",
+        "\u039a\u03ac\u03c4\u03c9 \u039c\u03c0\u03bf\u03c4\u03af\u03bd\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Dafnias"
+    ],
+    "name:und_x_variant":[
+        "Kato Botinou",
+        "K\u00e1to Bot\u00ednon",
+        "Dhafni\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263301
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e831a1ed92298796ca087d0a08e00b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360021571,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360021571,
+    "wof:lastmodified":1537624678,
+    "wof:name":"Dhafnias",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57213,
+    38.53252,
+    21.57213,
+    38.53252
+],
+  "geometry": {"coordinates":[21.57213,38.53252],"type":"Point"}
+}

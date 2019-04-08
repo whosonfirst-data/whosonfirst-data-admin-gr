@@ -1,0 +1,76 @@
+{
+  "id": 1360121483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17806,37.50656,23.17806,37.50656",
+    "geom:latitude":37.50656,
+    "geom:longitude":23.17806,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235",
+    "gn:asciiname":"Pelei",
+    "gn:country_code":"GR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257418,
+    "gn:latitude":37.50656,
+    "gn:longitude":23.17806,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Pele\u00ed",
+    "gn:population":9,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bb\u03b5\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Pelei"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257418
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a4107d17e76e66f3a37238a8524f9f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360121483,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1360121483,
+    "wof:lastmodified":1537625057,
+    "wof:name":"Pelei",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17806,
+    37.50656,
+    23.17806,
+    37.50656
+],
+  "geometry": {"coordinates":[23.17806,37.50656],"type":"Point"}
+}

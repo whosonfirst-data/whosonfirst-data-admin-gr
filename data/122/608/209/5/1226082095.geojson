@@ -1,0 +1,74 @@
+{
+  "id": 1226082095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4819,37.35337,23.4819,37.35337",
+    "geom:latitude":37.35337,
+    "geom:longitude":23.4819,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9214",
+    "gn:asciiname":"Mandraki",
+    "gn:country_code":"GR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9474057,
+    "gn:latitude":37.35337,
+    "gn:longitude":23.4819,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Mandr\u00e1ki",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b4\u03c1\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Mandraki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9474057
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b6056945cf6646291c81132d34e7f534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1226082095,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226082095,
+    "wof:lastmodified":1537625071,
+    "wof:name":"Mandraki",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4819,
+    37.35337,
+    23.4819,
+    37.35337
+],
+  "geometry": {"coordinates":[23.4819,37.35337],"type":"Point"}
+}

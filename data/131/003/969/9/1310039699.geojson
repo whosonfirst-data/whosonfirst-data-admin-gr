@@ -1,0 +1,74 @@
+{
+  "id": 1310039699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44761,41.21164,24.44761,41.21164",
+    "geom:latitude":41.21164,
+    "geom:longitude":24.44761,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Ptelea",
+    "gn:country_code":"GR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734429,
+    "gn:latitude":41.21164,
+    "gn:longitude":24.44761,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Ptel\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03c4\u03b5\u03bb\u03ad\u03b1"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9rnitsa",
+        "Ptel\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734429
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ed439d2f6cdf8ddac2228365c3a53b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310039699,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310039699,
+    "wof:lastmodified":1537624840,
+    "wof:name":"Ptelea",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44761,
+    41.21164,
+    24.44761,
+    41.21164
+],
+  "geometry": {"coordinates":[24.44761,41.21164],"type":"Point"}
+}

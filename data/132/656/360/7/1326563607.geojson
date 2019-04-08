@@ -1,0 +1,82 @@
+{
+  "id": 1326563607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46424,36.51891,22.46424,36.51891",
+    "geom:latitude":36.51891,
+    "geom:longitude":22.46424,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Olympies",
+    "gn:country_code":"GR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256315,
+    "gn:latitude":36.51891,
+    "gn:longitude":22.46424,
+    "gn:modification_date":"2015-05-04",
+    "gn:name":"Olympi\u00e9s",
+    "gn:population":13,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03bb\u03c5\u03bc\u03c0\u03b9\u03ad\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Elimbi\u00e9s",
+        "Olimbia\u00ed",
+        "\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03af",
+        "Olympies"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256315
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"81ec8edc245a22f7e6b4a1fadc9cd75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326563607,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1326563607,
+    "wof:lastmodified":1537624347,
+    "wof:name":"Olympies",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46424,
+    36.51891,
+    22.46424,
+    36.51891
+],
+  "geometry": {"coordinates":[22.46424,36.51891],"type":"Point"}
+}

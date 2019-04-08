@@ -1,0 +1,87 @@
+{
+  "id": 1209950213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10433,39.84006,22.10433,39.84006",
+    "geom:latitude":39.84006,
+    "geom:longitude":22.10433,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9098",
+    "gn:asciiname":"Evangelismos",
+    "gn:country_code":"GR",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262590,
+    "gn:latitude":39.84006,
+    "gn:longitude":22.10433,
+    "gn:modification_date":"2015-04-21",
+    "gn:name":"Evangelism\u00f3s",
+    "gn:population":722,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03c3\u03bc\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03c3\u03bc\u03cc\u03c2 \u0395\u03bb\u03b1\u03c3\u03c3\u03cc\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Evangelismos"
+    ],
+    "name:eng_x_variant":[
+        "Evangelismos Elassonos"
+    ],
+    "name:und_x_variant":[
+        "Koniats\u00ed",
+        "Kouniats\u00ed",
+        "Evangelism\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262590
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6f8aacd4902b021dd224901610dedff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209950213,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1209950213,
+    "wof:lastmodified":1537624639,
+    "wof:name":"Evangelismos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":722,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10433,
+    39.84006,
+    22.10433,
+    39.84006
+],
+  "geometry": {"coordinates":[22.10433,39.84006],"type":"Point"}
+}

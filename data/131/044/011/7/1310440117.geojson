@@ -1,0 +1,77 @@
+{
+  "id": 1310440117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70247,37.621,21.70247,37.621",
+    "geom:latitude":37.621,
+    "geom:longitude":21.70247,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Frixa",
+    "gn:country_code":"GR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262207,
+    "gn:latitude":37.621,
+    "gn:longitude":21.70247,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Fr\u00edxa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03c1\u03af\u03be\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pr\u00edxa",
+        "Fr\u00edxa",
+        "Anemokhor\u00e1kion",
+        "Anemokhor\u00e1ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262207,
+        "wk:page":"Frixa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"833fae945db870d0c2322a7954933455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310440117,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310440117,
+    "wof:lastmodified":1537624623,
+    "wof:name":"Frixa",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70247,
+    37.621,
+    21.70247,
+    37.621
+],
+  "geometry": {"coordinates":[21.70247,37.621],"type":"Point"}
+}

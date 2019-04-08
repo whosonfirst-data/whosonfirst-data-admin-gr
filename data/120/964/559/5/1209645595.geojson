@@ -1,0 +1,74 @@
+{
+  "id": 1209645595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12028,38.30114,24.12028,38.30114",
+    "geom:latitude":38.30114,
+    "geom:longitude":24.12028,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Porto Boufalo",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263420,
+    "gn:latitude":38.30114,
+    "gn:longitude":24.12028,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"P\u00f3rto Bo\u00fafalo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00f3rto Bo\u00fafalo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cc\u03c1\u03c4\u03bf \u039c\u03c0\u03bf\u03cd\u03c6\u03b1\u03bb\u03bf"
+    ],
+    "name:und_x_variant":[
+        "Portombo\u00fafalos",
+        "P\u00f3rto Vo\u00fafalo",
+        "Bo\u00fafalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263420
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c0b72a50184cff0daf6483c8c1d4fe1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209645595
+        }
+    ],
+    "wof:id":1209645595,
+    "wof:lastmodified":1537624685,
+    "wof:name":"Porto Boufalo",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12028,
+    38.30114,
+    24.12028,
+    38.30114
+],
+  "geometry": {"coordinates":[24.12028,38.30114],"type":"Point"}
+}

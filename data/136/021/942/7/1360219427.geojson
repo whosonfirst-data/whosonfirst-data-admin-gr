@@ -1,0 +1,75 @@
+{
+  "id": 1360219427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81378,39.38872,21.81378,39.38872",
+    "geom:latitude":39.38872,
+    "geom:longitude":21.81378,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9094",
+    "gn:asciiname":"Lygaries",
+    "gn:country_code":"GR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258570,
+    "gn:latitude":39.38872,
+    "gn:longitude":21.81378,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Lygari\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03c5\u03b3\u03b1\u03c1\u03b9\u03ad\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Lygari\u00e9s",
+        "L\u00e1sdha",
+        "L\u00e1sda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258570
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b9f1d270657d8c79500ad79a15d638a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360219427,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1360219427,
+    "wof:lastmodified":1537624455,
+    "wof:name":"Lygaries",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81378,
+    39.38872,
+    21.81378,
+    39.38872
+],
+  "geometry": {"coordinates":[21.81378,39.38872],"type":"Point"}
+}

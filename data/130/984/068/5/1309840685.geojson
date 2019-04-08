@@ -1,0 +1,73 @@
+{
+  "id": 1309840685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79103,37.55458,21.79103,37.55458",
+    "geom:latitude":37.55458,
+    "geom:longitude":21.79103,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Barakitika",
+    "gn:country_code":"GR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263506,
+    "gn:latitude":37.55458,
+    "gn:longitude":21.79103,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Barak\u00edtika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Barak\u00edtika"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b1\u03c1\u03b1\u03ba\u03af\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263506
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bf1e56b171fb35d31b84c51d065c0af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309840685,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309840685,
+    "wof:lastmodified":1537624688,
+    "wof:name":"Barakitika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79103,
+    37.55458,
+    21.79103,
+    37.55458
+],
+  "geometry": {"coordinates":[21.79103,37.55458],"type":"Point"}
+}

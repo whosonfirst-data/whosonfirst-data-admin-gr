@@ -1,0 +1,135 @@
+{
+  "id": 101849653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.744354,38.010326,22.744354,38.010326",
+    "geom:latitude":38.010326,
+    "geom:longitude":22.744354,
+    "gn:population":9812,
+    "iso:country":"GR",
+    "lbl:latitude":38.010326,
+    "lbl:longitude":22.744354,
+    "mps:latitude":38.010326,
+    "mps:longitude":22.744354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Qato"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0627\u062a\u0648"
+    ],
+    "name:dut_x_preferred":[
+        "Kiato"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03ac\u03c4\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Kiato"
+    ],
+    "name:fin_x_preferred":[
+        "Ki\u00e1to"
+    ],
+    "name:ger_x_preferred":[
+        "Kiato"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b9\u03ac\u03c4\u03bf \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30c8"
+    ],
+    "name:nno_x_preferred":[
+        "Ki\u00e1to"
+    ],
+    "name:ron_x_preferred":[
+        "Kiato"
+    ],
+    "name:rum_x_preferred":[
+        "Kiato"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044c\u044f\u0442\u043e\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0458\u0430\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ki\u00e1to"
+    ],
+    "name:unk_x_variant":[
+        "Sikion\u00eda"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
+    "qs:a1_alt":"PELOPONNHSOS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KORINUIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u0399\u0391\u03a4\u039f",
+    "qs:loc_alt":"KIATO",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.011667,
+    "wd:longitude":22.746667,
+    "wd:wordcount":168,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259830,
+        "gp:id":961899,
+        "qs:id":202608,
+        "qs_pg:id":202608,
+        "wd:id":"Q3555045",
+        "wk:page":"Kiato"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"07665d244a4ceb34fc79c43cabf56206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849653,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":101849653,
+    "wof:lastmodified":1544741051,
+    "wof:name":"\u039a\u0399\u0391\u03a4\u039f",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":9812,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.744354,
+    38.010326,
+    22.744354,
+    38.010326
+],
+  "geometry": {"coordinates":[22.744354,38.010326],"type":"Point"}
+}

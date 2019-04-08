@@ -1,0 +1,77 @@
+{
+  "id": 1193054623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78794,38.97539,20.78794,38.97539",
+    "geom:latitude":38.97539,
+    "geom:longitude":20.78794,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9090",
+    "gn:asciiname":"Agios Thomas",
+    "gn:country_code":"GR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263712,
+    "gn:latitude":38.97539,
+    "gn:longitude":20.78794,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Thom\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Thom\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03c9\u03bc\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Tourkovo\u00fani",
+        "\u00c1yios Thom\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263712
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8b6a7a174cc15d146a94387b707d3c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193054623,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1193054623,
+    "wof:lastmodified":1537624695,
+    "wof:name":"Agios Thomas",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78794,
+    38.97539,
+    20.78794,
+    38.97539
+],
+  "geometry": {"coordinates":[20.78794,38.97539],"type":"Point"}
+}

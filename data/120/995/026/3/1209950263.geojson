@@ -1,0 +1,81 @@
+{
+  "id": 1209950263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15,37.25,23.15,37.25",
+    "geom:latitude":37.25,
+    "geom:longitude":23.15,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9212",
+    "gn:asciiname":"Panayia Elona",
+    "gn:country_code":"GR",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":255898,
+    "gn:latitude":37.25,
+    "gn:longitude":23.15,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Panay\u00eda \u00c9lona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03ce\u03bd\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1 \u0395\u03bb\u03ce\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Elonas"
+    ],
+    "name:und_x_variant":[
+        "\u00c9lonas",
+        "Panay\u00edas",
+        "Panay\u00eda \u00c9lona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255898
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"558dac24ea19cc5e6646d2e903754fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209950263,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1209950263,
+    "wof:lastmodified":1537624327,
+    "wof:name":"Panayia Elona",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15,
+    37.25,
+    23.15,
+    37.25
+],
+  "geometry": {"coordinates":[23.15,37.25],"type":"Point"}
+}

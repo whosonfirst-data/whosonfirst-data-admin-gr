@@ -1,0 +1,74 @@
+{
+  "id": 1292934669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8291,36.11175,27.8291,36.11175",
+    "geom:latitude":36.11175,
+    "geom:longitude":27.8291,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Istrios",
+    "gn:country_code":"GR",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261719,
+    "gn:latitude":36.11175,
+    "gn:longitude":27.8291,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u00cdstrios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u038a\u03c3\u03c4\u03c1\u03b9\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Istrio",
+        "\u00cdstrios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261719
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cf75896e5c94d9a17ad1dd8be3594288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292934669,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1292934669,
+    "wof:lastmodified":1537624605,
+    "wof:name":"Istrios",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8291,
+    36.11175,
+    27.8291,
+    36.11175
+],
+  "geometry": {"coordinates":[27.8291,36.11175],"type":"Point"}
+}

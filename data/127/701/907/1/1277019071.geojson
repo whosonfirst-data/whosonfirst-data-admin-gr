@@ -1,0 +1,80 @@
+{
+  "id": 1277019071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57489,37.77641,22.57489,37.77641",
+    "geom:latitude":37.77641,
+    "geom:longitude":22.57489,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Yimno",
+    "gn:country_code":"GR",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251318,
+    "gn:latitude":37.77641,
+    "gn:longitude":22.57489,
+    "gn:modification_date":"2014-07-30",
+    "gn:name":"Yimn\u00f3",
+    "gn:population":306,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c5\u03bc\u03bd\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Gimno"
+    ],
+    "name:und_x_variant":[
+        "Yimnon",
+        "Yimn\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251318
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0a199d0fc753ccd27b68da0ce73593f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277019071,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277019071,
+    "wof:lastmodified":1537624134,
+    "wof:name":"Yimno",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":306,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57489,
+    37.77641,
+    22.57489,
+    37.77641
+],
+  "geometry": {"coordinates":[22.57489,37.77641],"type":"Point"}
+}

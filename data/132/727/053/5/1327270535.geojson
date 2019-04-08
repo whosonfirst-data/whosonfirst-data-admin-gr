@@ -1,0 +1,74 @@
+{
+  "id": 1327270535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93189,39.32981,20.93189,39.32981",
+    "geom:latitude":39.32981,
+    "geom:longitude":20.93189,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9088",
+    "gn:asciiname":"Chalikia",
+    "gn:country_code":"GR",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260150,
+    "gn:latitude":39.32981,
+    "gn:longitude":20.93189,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Chal\u00edkia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03af\u03ba\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Khal\u00edkia",
+        "Chal\u00edkia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260150
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"acb4da3872481b6cd7e0390adbb96e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327270535,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1327270535,
+    "wof:lastmodified":1537624526,
+    "wof:name":"Chalikia",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93189,
+    39.32981,
+    20.93189,
+    39.32981
+],
+  "geometry": {"coordinates":[20.93189,39.32981],"type":"Point"}
+}

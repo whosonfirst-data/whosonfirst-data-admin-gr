@@ -1,0 +1,76 @@
+{
+  "id": 1343390149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62676,37.79328,21.62676,37.79328",
+    "geom:latitude":37.79328,
+    "geom:longitude":21.62676,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141.0",
+    "gn:asciiname":"Sitochori",
+    "gn:country_code":"GR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497089,
+    "gn:latitude":37.79328,
+    "gn:longitude":21.62676,
+    "gn:modification_date":"2017-03-30",
+    "gn:name":"Sitochori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Sitochori"
+    ],
+    "name:eng_x_variant":[
+        "Sitokhori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497089
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d05018f166c2d14f6dd9b3722b20afc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343390149,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343390149,
+    "wof:lastmodified":1537625117,
+    "wof:name":"Sitochori",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62676,
+    37.79328,
+    21.62676,
+    37.79328
+],
+  "geometry": {"coordinates":[21.62676,37.79328],"type":"Point"}
+}

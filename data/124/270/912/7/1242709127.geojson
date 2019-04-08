@@ -1,0 +1,79 @@
+{
+  "id": 1242709127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64359,37.98652,22.64359,37.98652",
+    "geom:latitude":37.98652,
+    "geom:longitude":22.64359,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Souli",
+    "gn:country_code":"GR",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253440,
+    "gn:latitude":37.98652,
+    "gn:longitude":22.64359,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"So\u00fali",
+    "gn:population":434,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Souli"
+    ],
+    "name:und_x_variant":[
+        "So\u00falion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253440
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"afece08c1138637da060afa3b74fe760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242709127,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242709127,
+    "wof:lastmodified":1537624220,
+    "wof:name":"Souli",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":434,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64359,
+    37.98652,
+    22.64359,
+    37.98652
+],
+  "geometry": {"coordinates":[22.64359,37.98652],"type":"Point"}
+}

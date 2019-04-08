@@ -1,0 +1,116 @@
+{
+  "id": 101848447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.168834,36.293014,28.168834,36.293014",
+    "geom:latitude":36.293014,
+    "geom:longitude":28.168834,
+    "gn:population":5562,
+    "iso:country":"GR",
+    "lbl:latitude":36.293014,
+    "lbl:longitude":28.168834,
+    "mps:latitude":36.293014,
+    "mps:longitude":28.168834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0627\u0646\u062a\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Afandou"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c6\u03ac\u03bd\u03c4\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c6\u03ac\u03bd\u03c4\u03bf\u03c5"
+    ],
+    "name:fin_x_preferred":[
+        "Af\u00e1ntou"
+    ],
+    "name:fra_x_preferred":[
+        "Af\u00e1ntou"
+    ],
+    "name:ita_x_preferred":[
+        "Afando"
+    ],
+    "name:nno_x_preferred":[
+        "Af\u00e1ndou"
+    ],
+    "name:pol_x_preferred":[
+        "Afandu"
+    ],
+    "name:swe_x_preferred":[
+        "Af\u00e1ntou"
+    ],
+    "name:unk_x_variant":[
+        "Af\u00e1ndou"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039d\u039f\u03a4\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"NOTIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"DVDEKANHSOS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03a6\u0391\u039d\u03a4\u039f\u03a5",
+    "qs:loc_alt":"AFANTOY",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408685,
+        "gp:id":966234,
+        "qs:id":1341769,
+        "wd:id":"Q382076",
+        "wk:page":"Afantou"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2b342a92587a841596c6d98caada825f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848447,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":101848447,
+    "wof:lastmodified":1544740458,
+    "wof:name":"\u0391\u03a6\u0391\u039d\u03a4\u039f\u03a5",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":5562,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.168834,
+    36.293014,
+    28.168834,
+    36.293014
+],
+  "geometry": {"coordinates":[28.168834,36.293014],"type":"Point"}
+}

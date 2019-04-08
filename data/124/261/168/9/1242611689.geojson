@@ -1,0 +1,74 @@
+{
+  "id": 1242611689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.33767,40.07873,21.33767,40.07873",
+    "geom:latitude":40.07873,
+    "geom:longitude":21.33767,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Elatos",
+    "gn:country_code":"GR",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736341,
+    "gn:latitude":40.07873,
+    "gn:longitude":21.33767,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"\u00c9latos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0388\u03bb\u03b1\u03c4\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "D\u00f3vrani",
+        "\u00c9latos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736341
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"077fe09b303e6655b613a6e355b0e08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242611689,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1242611689,
+    "wof:lastmodified":1537624951,
+    "wof:name":"Elatos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.33767000000001,
+    40.07873,
+    21.33767000000001,
+    40.07873
+],
+  "geometry": {"coordinates":[21.33767000000001,40.07873],"type":"Point"}
+}

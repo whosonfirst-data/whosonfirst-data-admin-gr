@@ -1,0 +1,96 @@
+{
+  "id": 1125278159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62041,39.46407,21.62041,39.46407",
+    "geom:latitude":39.46407,
+    "geom:longitude":21.62041,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":15886,
+    "gn:population":15886,
+    "iso:country":"GR",
+    "lbl:latitude":39.46407,
+    "lbl:longitude":21.62041,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03bb\u03b7\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "P\u00edli"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133843,
+    "qs_pg:gn_pop":15886,
+    "qs_pg:name":"Pyli",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":370,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":109671,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56558328,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133843,
+        "gp:id":56558328,
+        "qs_pg:id":109671
+    },
+    "wof:concordances_alt":{
+        "gn:id":255305,
+        "qs_pg:id":947124
+    },
+    "wof:country":"GR",
+    "wof:created":1497042400,
+    "wof:geomhash":"32353aa213ad9140bcf19dcbf2c8019f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125278159,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125278159,
+    "wof:lastmodified":1534379331,
+    "wof:name":"Pyli",
+    "wof:parent_id":85684685,
+    "wof:placetype":"localadmin",
+    "wof:population":15886,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125375343
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62041,
+    39.46407,
+    21.62041,
+    39.46407
+],
+  "geometry": {"coordinates":[21.62041,39.46407],"type":"Point"}
+}

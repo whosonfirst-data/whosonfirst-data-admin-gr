@@ -1,0 +1,82 @@
+{
+  "id": 1126042341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83389,39.44556,21.83389,39.44556",
+    "geom:latitude":39.44556,
+    "geom:longitude":21.83389,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":720,
+    "gn:population":720,
+    "iso:country":"GR",
+    "lbl:latitude":39.44556,
+    "lbl:longitude":21.83389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03bd\u03b9\u03ac"
+    ],
+    "name:unk_x_variant":[
+        "Krani\u00e1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258886,
+    "qs_pg:gn_pop":720,
+    "qs_pg:name":"Kran\u00e9a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546666,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258886,
+        "qs_pg:id":546666
+    },
+    "wof:country":"GR",
+    "wof:created":1497302234,
+    "wof:geomhash":"d9fc8d9115e7c93cb621a5c8175f9229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042341,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126042341,
+    "wof:lastmodified":1509408621,
+    "wof:name":"Kran\u00e9a",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83389,
+    39.44556,
+    21.83389,
+    39.44556
+],
+  "geometry": {"coordinates":[21.83389,39.44556],"type":"Point"}
+}

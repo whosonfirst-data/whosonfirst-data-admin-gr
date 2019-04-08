@@ -1,0 +1,103 @@
+{
+  "id": 1126027515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2,38.18333,24.2,38.18333",
+    "geom:latitude":38.18333,
+    "geom:longitude":24.2,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1061,
+    "gn:population":1031,
+    "iso:country":"GR",
+    "lbl:latitude":38.18333,
+    "lbl:longitude":24.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u064a \u0633\u062a\u064a\u0631\u0627\u060c \u0625\u0641\u0641\u0648\u064a\u0627"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u03a3\u03c4\u03cd\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Stira"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03ad\u03b1 \u03a3\u03c4\u03cd\u03c1\u03b1 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e9a St\u00edra"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e9a St\u00edra"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256572,
+    "qs_pg:gn_pop":1061,
+    "qs_pg:name":"Nea Stira",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":894599,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":958005,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256572,
+        "gp:id":958005,
+        "qs_pg:id":894599,
+        "wd:id":"Q12249461"
+    },
+    "wof:country":"GR",
+    "wof:created":1497301235,
+    "wof:geomhash":"a2706eb47449c5860fa58019d8d4960a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1126027515,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126027515,
+    "wof:lastmodified":1514444017,
+    "wof:name":"Nea Stira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1031,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2,
+    38.18333,
+    24.2,
+    38.18333
+],
+  "geometry": {"coordinates":[24.2,38.18333],"type":"Point"}
+}

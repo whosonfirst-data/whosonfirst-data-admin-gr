@@ -1,0 +1,84 @@
+{
+  "id": 1326561371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6563,40.92054,23.6563,40.92054",
+    "geom:latitude":40.92054,
+    "geom:longitude":23.6563,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9050",
+    "gn:asciiname":"Achinos",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736958,
+    "gn:latitude":40.92054,
+    "gn:longitude":23.6563,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Achin\u00f3s",
+    "gn:population":507,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03b9\u03bd\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Achin\u00f3s"
+    ],
+    "name:eng_x_preferred":[
+        "Achinos"
+    ],
+    "name:und_x_variant":[
+        "Takhino",
+        "Akhin\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736958,
+        "wk:page":"Achinos%2C_Serres"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2ea45e65d9688420b26f9f748885e4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326561371,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1326561371,
+    "wof:lastmodified":1537624987,
+    "wof:name":"Achinos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":507,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6563,
+    40.92054,
+    23.6563,
+    40.92054
+],
+  "geometry": {"coordinates":[23.6563,40.92054],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276689687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95871,38.21091,21.95871,38.21091",
+    "geom:latitude":38.21091,
+    "geom:longitude":21.95871,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Graikas",
+    "gn:country_code":"GR",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261914,
+    "gn:latitude":38.21091,
+    "gn:longitude":21.95871,
+    "gn:modification_date":"2015-05-01",
+    "gn:name":"Gra\u00edkas",
+    "gn:population":73,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03af\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Gkraikas"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00e9ka",
+        "Gra\u00edkas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261914
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"53d1790e8b55cc7e94634d138d14e70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276689687,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276689687,
+    "wof:lastmodified":1537624612,
+    "wof:name":"Graikas",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95871,
+    38.21091,
+    21.95871,
+    38.21091
+],
+  "geometry": {"coordinates":[21.95871,38.21091],"type":"Point"}
+}

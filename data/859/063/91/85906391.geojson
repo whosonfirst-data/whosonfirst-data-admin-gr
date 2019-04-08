@@ -1,0 +1,105 @@
+{
+  "id": 85906391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:area_square_m":194649.258032,
+    "geom:bbox":"23.7236022949,37.9658541195,23.73046875,37.9694551482",
+    "geom:latitude":37.967511,
+    "geom:longitude":23.727067,
+    "gn:id":"",
+    "iso:country":"GR",
+    "lbl:latitude":37.968092,
+    "lbl:longitude":23.727302,
+    "mps:latitude":37.967634,
+    "mps:longitude":23.726446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Veikou"
+    ],
+    "name:unk_x_variant":[
+        "Veikou"
+    ],
+    "qs:gn_adm0_cc":"GR",
+    "qs:gn_id":0,
+    "qs:gn_local":264371,
+    "qs:gn_nam_loc":"Athens, Athens, Attica, Attica, GR",
+    "qs:gn_namadm1":"ESYE31",
+    "qs:local_max":27412,
+    "qs:local_sum":157250,
+    "qs:localhoods":61,
+    "qs:name":"Veikou",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Attica",
+    "qs:name_adm2":"Attica",
+    "qs:name_lau":"Athens",
+    "qs:name_local":"Athens",
+    "qs:photo_max":304,
+    "qs:photo_sum":1750,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424833,
+    "qs:woe_adm1":56558063,
+    "qs:woe_adm2":12577879,
+    "qs:woe_lau":24544440,
+    "qs:woe_local":946738,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1175612731,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723931,
+        "qs:id":346842,
+        "qs_pg:id":346842
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ccb7e0bd2f46b642dee50f9dcea7fa07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1175612731,
+            "neighbourhood_id":85906391,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":85906391,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1538606690,
+    "wof:name":"Veikou",
+    "wof:parent_id":1175612731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72360229490005,
+    37.96585411949918,
+    23.73046875000011,
+    37.96945514823571
+],
+  "geometry": {"coordinates":[[[23.72497558592511,37.96945514823571],[23.72566223142513,37.9691648141886],[23.72634887697524,37.96945514821475],[23.72703552250022,37.96916481419881],[23.72751340807702,37.96936687834049],[23.72758299444035,37.9691020722001],[23.72772216800013,37.9691020722001],[23.72772216800013,37.96856075830009],[23.72840881357104,37.96856075824414],[23.7285131937478,37.96869316175575],[23.72875213622507,37.96859213073488],[23.72909545900035,37.96873729638601],[23.72923463305528,37.96856075771682],[23.72978210450009,37.96856075763351],[23.73046875000011,37.96856075767516],[23.73046875000011,37.96801944040007],[23.73046875000011,37.9676663622236],[23.73046875000011,37.96585412870009],[23.72991204459026,37.96585412316239],[23.72772216798779,37.96585411949918],[23.72553229497635,37.96585412372522],[23.72497558589998,37.96585412870009],[23.72497558589998,37.96693678966949],[23.723880648185,37.96693679018153],[23.72360229490005,37.96693679250004],[23.7236022949001,37.96728986606793],[23.72360229490005,37.96801943771679],[23.7236022949001,37.96874899285568],[23.72360229490005,37.9691020722001],[23.72388064030127,37.96910206955013],[23.72469724048926,37.96910207104077],[23.72497558592511,37.96945514823571]]],"type":"Polygon"}
+}

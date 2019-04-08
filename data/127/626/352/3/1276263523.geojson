@@ -1,0 +1,82 @@
+{
+  "id": 1276263523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05612,35.28634,25.05612,35.28634",
+    "geom:latitude":35.28634,
+    "geom:longitude":25.05612,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306",
+    "gn:asciiname":"Kato Kalesia",
+    "gn:country_code":"GR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260598,
+    "gn:latitude":35.28634,
+    "gn:longitude":25.05612,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"K\u00e1to Kal\u00e9sia",
+    "gn:population":729,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b1\u03bb\u03ad\u03c3\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Kalesia"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00e9ssa",
+        "K\u00e1to Kal\u00e9sa",
+        "K\u00e1to Kal\u00e9ssa",
+        "K\u00e1to Kal\u00e9sia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260598
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2cd137a2adfe2d2fc97c78c9e36fbf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276263523,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276263523,
+    "wof:lastmodified":1537624550,
+    "wof:name":"Kato Kalesia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":729,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05612,
+    35.28634,
+    25.05612,
+    35.28634
+],
+  "geometry": {"coordinates":[25.05612,35.28634],"type":"Point"}
+}

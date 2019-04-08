@@ -1,0 +1,74 @@
+{
+  "id": 1209951011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80211,37.53458,21.80211,37.53458",
+    "geom:latitude":37.53458,
+    "geom:longitude":21.80211,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Raptis",
+    "gn:country_code":"GR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254378,
+    "gn:latitude":37.53458,
+    "gn:longitude":21.80211,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"R\u00e1ptis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03c0\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "R\u00e1fti",
+        "R\u00e1ptis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254378
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"24827122d5cdaf87c0bdc05b325f5d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209951011,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1209951011,
+    "wof:lastmodified":1537624266,
+    "wof:name":"Raptis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80211,
+    37.53458,
+    21.80211,
+    37.53458
+],
+  "geometry": {"coordinates":[21.80211,37.53458],"type":"Point"}
+}

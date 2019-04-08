@@ -1,0 +1,81 @@
+{
+  "id": 1327365259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40277,41.08191,24.40277,41.08191",
+    "geom:latitude":41.08191,
+    "geom:longitude":24.40277,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9012",
+    "gn:asciiname":"Limnia",
+    "gn:country_code":"GR",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735415,
+    "gn:latitude":41.08191,
+    "gn:longitude":24.40277,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Limni\u00e1",
+    "gn:population":35,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Limnia"
+    ],
+    "name:und_x_variant":[
+        "Limi\u00e1",
+        "Suyuj\u00fak",
+        "Limni\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735415
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e965199a04891beb133d9ba333de5393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327365259,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327365259,
+    "wof:lastmodified":1537624901,
+    "wof:name":"Limnia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40277,
+    41.08191,
+    24.40277,
+    41.08191
+],
+  "geometry": {"coordinates":[24.40277,41.08191],"type":"Point"}
+}

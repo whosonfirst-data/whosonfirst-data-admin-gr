@@ -1,0 +1,70 @@
+{
+  "id": 1327165545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56818,37.15616,21.56818,37.15616",
+    "geom:latitude":37.15616,
+    "geom:longitude":21.56818,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258.0",
+    "gn:asciiname":"Limenari",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11549825,
+    "gn:latitude":37.15616,
+    "gn:longitude":21.56818,
+    "gn:modification_date":"2017-05-24",
+    "gn:name":"Limenari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03b5\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11549825
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c26d7b50ab4d23768c558fe1b819901c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327165545,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327165545,
+    "wof:lastmodified":1537625121,
+    "wof:name":"Limenari",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56818,
+    37.15616,
+    21.56818,
+    37.15616
+],
+  "geometry": {"coordinates":[21.56818,37.15616],"type":"Point"}
+}

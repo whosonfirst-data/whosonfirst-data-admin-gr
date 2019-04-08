@@ -1,0 +1,74 @@
+{
+  "id": 1243299567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82744,36.97704,21.82744,36.97704",
+    "geom:latitude":36.97704,
+    "geom:longitude":21.82744,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Mesopotamos",
+    "gn:country_code":"GR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257173,
+    "gn:latitude":36.97704,
+    "gn:longitude":21.82744,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Mesop\u00f3tamos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03bf\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Vel\u00ed",
+        "Mesop\u00f3tamos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257173
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d5625536ed38df167ae0a1dcdf89a947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243299567,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243299567,
+    "wof:lastmodified":1537624391,
+    "wof:name":"Mesopotamos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82744,
+    36.97704,
+    21.82744,
+    36.97704
+],
+  "geometry": {"coordinates":[21.82744,36.97704],"type":"Point"}
+}

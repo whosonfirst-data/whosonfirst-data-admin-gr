@@ -1,0 +1,74 @@
+{
+  "id": 1343793223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88333,40.03333,23.88333,40.03333",
+    "geom:latitude":40.03333,
+    "geom:longitude":23.88333,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9060",
+    "gn:asciiname":"Ladhokopana",
+    "gn:country_code":"GR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":735501,
+    "gn:latitude":40.03333,
+    "gn:longitude":23.88333,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Ladhokop\u00e1na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b4\u03bf\u03ba\u03bf\u03c0\u03ac\u03bd\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Ladhokap\u00e1na",
+        "Ladhokop\u00e1na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735501
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"80a64335b334a13ab61461c2ea04cac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343793223,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1343793223,
+    "wof:lastmodified":1537624908,
+    "wof:name":"Ladhokopana",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88333,
+    40.03333,
+    23.88333,
+    40.03333
+],
+  "geometry": {"coordinates":[23.88333,40.03333],"type":"Point"}
+}

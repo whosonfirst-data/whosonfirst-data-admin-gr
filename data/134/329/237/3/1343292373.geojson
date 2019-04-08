@@ -1,0 +1,80 @@
+{
+  "id": 1343292373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68787,35.4853,23.68787,35.4853",
+    "geom:latitude":35.4853,
+    "geom:longitude":23.68787,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Kaloudiana",
+    "gn:country_code":"GR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261342,
+    "gn:latitude":35.4853,
+    "gn:longitude":23.68787,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Kaloudian\u00e1",
+    "gn:population":331,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bf\u03c5\u03b4\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kaloudiana"
+    ],
+    "name:und_x_variant":[
+        "Kaloudian\u00e1",
+        "Kaloudhian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261342
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"afbf8a9d09100016cdd2e4f2dce37a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343292373,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343292373,
+    "wof:lastmodified":1537624584,
+    "wof:name":"Kaloudiana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68787,
+    35.4853,
+    23.68787,
+    35.4853
+],
+  "geometry": {"coordinates":[23.68787,35.4853],"type":"Point"}
+}

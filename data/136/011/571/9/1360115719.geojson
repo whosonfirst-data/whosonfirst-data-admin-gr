@@ -1,0 +1,75 @@
+{
+  "id": 1360115719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69903,37.56111,21.69903,37.56111",
+    "geom:latitude":37.56111,
+    "geom:longitude":21.69903,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9136",
+    "gn:asciiname":"Graikas",
+    "gn:country_code":"GR",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261915,
+    "gn:latitude":37.56111,
+    "gn:longitude":21.69903,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Gra\u00edkas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03af\u03ba\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00e9ka",
+        "Gra\u00edkas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261915,
+        "wk:page":"Graikas"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2e508b3624a7078766701e6f590ba1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360115719,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360115719,
+    "wof:lastmodified":1537624612,
+    "wof:name":"Graikas",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69903,
+    37.56111,
+    21.69903,
+    37.56111
+],
+  "geometry": {"coordinates":[21.69903,37.56111],"type":"Point"}
+}

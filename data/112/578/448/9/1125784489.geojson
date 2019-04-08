@@ -1,0 +1,98 @@
+{
+  "id": 1125784489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38333,38.2,20.38333,38.2",
+    "geom:latitude":38.2,
+    "geom:longitude":20.38333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":38.2,
+    "lbl:longitude":20.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Chavd\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03b2\u03b4\u03ac\u03c4\u03b1"
+    ],
+    "name:nld_x_preferred":[
+        "Havdata"
+    ],
+    "name:unk_x_variant":[
+        "Khavdh\u00e1ta"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":260036,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Khavdhata",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":27753,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":953109,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260036,
+        "gp:id":953109,
+        "qs_pg:id":27753
+    },
+    "wof:country":"GR",
+    "wof:created":1497290620,
+    "wof:geomhash":"509e57c4acd9b522cac21d799db31f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125784489,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125784489,
+    "wof:lastmodified":1509391834,
+    "wof:name":"Khavdhata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38333,
+    38.2,
+    20.38333,
+    38.2
+],
+  "geometry": {"coordinates":[20.38333,38.2],"type":"Point"}
+}

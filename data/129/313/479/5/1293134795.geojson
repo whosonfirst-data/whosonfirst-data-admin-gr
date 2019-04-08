@@ -1,0 +1,73 @@
+{
+  "id": 1293134795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57575,38.14107,21.57575,38.14107",
+    "geom:latitude":38.14107,
+    "geom:longitude":21.57575,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Kato Alissos",
+    "gn:country_code":"GR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260641,
+    "gn:latitude":38.14107,
+    "gn:longitude":21.57575,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00e1to Aliss\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Aliss\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03bb\u03b9\u03c3\u03c3\u03cc\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260641
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ffc6c7107e0e7d2260aa74271f128f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293134795,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293134795,
+    "wof:lastmodified":1537624553,
+    "wof:name":"Kato Alissos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57575,
+    38.14107,
+    21.57575,
+    38.14107
+],
+  "geometry": {"coordinates":[21.57575,38.14107],"type":"Point"}
+}

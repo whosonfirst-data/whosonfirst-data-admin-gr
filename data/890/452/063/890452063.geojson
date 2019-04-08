@@ -1,0 +1,66 @@
+{
+  "id": 890452063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.589713,36.150766,29.589713,36.150766",
+    "geom:latitude":36.150766,
+    "geom:longitude":29.589713,
+    "gn:country":"GR",
+    "gp:adm0":23424833,
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Megisti",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Aegean",
+    "qs:photos":937,
+    "qs:photos_1k":190,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":937,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722418,
+        "qs:id":1187394
+    },
+    "wof:country":"GR",
+    "wof:created":1469052803,
+    "wof:geomhash":"c23b3e13580090fec787b13d7773c8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":890452063,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":890452063,
+    "wof:lastmodified":1538606244,
+    "wof:name":"Megisti",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.589713,
+    36.150766,
+    29.589713,
+    36.150766
+],
+  "geometry": {"coordinates":[29.589713,36.150766],"type":"Point"}
+}

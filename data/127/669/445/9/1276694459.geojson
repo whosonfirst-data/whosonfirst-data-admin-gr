@@ -1,0 +1,79 @@
+{
+  "id": 1276694459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02678,38.22769,22.02678,38.22769",
+    "geom:latitude":38.22769,
+    "geom:longitude":22.02678,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Chatzis",
+    "gn:country_code":"GR",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260039,
+    "gn:latitude":38.22769,
+    "gn:longitude":22.02678,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Chatz\u00eds",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chatz\u00eds"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03c4\u03b6\u03ae\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Haji",
+        "Khantz\u00ed",
+        "Khatz\u00ed",
+        "Khatz\u00eds"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260039
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6a74bfaf0cfe46ab817f6dbbacb32f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276694459,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276694459,
+    "wof:lastmodified":1537624519,
+    "wof:name":"Chatzis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02678,
+    38.22769,
+    22.02678,
+    38.22769
+],
+  "geometry": {"coordinates":[22.02678,38.22769],"type":"Point"}
+}

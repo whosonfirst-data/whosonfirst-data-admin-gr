@@ -1,0 +1,76 @@
+{
+  "id": 1293820105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47105,36.52694,22.47105,36.52694",
+    "geom:latitude":36.52694,
+    "geom:longitude":22.47105,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Kokkala",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259602,
+    "gn:latitude":36.52694,
+    "gn:longitude":22.47105,
+    "gn:modification_date":"2015-05-04",
+    "gn:name":"Kokk\u00e1la",
+    "gn:population":238,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03ac\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kokkala"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259602
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"db14a80df5f5afbfc61eab89c8e52462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293820105,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293820105,
+    "wof:lastmodified":1537624499,
+    "wof:name":"Kokkala",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47105,
+    36.52694,
+    22.47105,
+    36.52694
+],
+  "geometry": {"coordinates":[22.47105,36.52694],"type":"Point"}
+}

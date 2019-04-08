@@ -1,0 +1,71 @@
+{
+  "id": 1243101317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18597,37.58265,25.18597,37.58265",
+    "geom:latitude":37.58265,
+    "geom:longitude":25.18597,
+    "gn:admin1_code":"ESYE42",
+    "gn:asciiname":"Kathlikaros",
+    "gn:country_code":"GR",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552794,
+    "gn:latitude":37.58265,
+    "gn:longitude":25.18597,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kathlik\u00e1ros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kathlik\u00e1ros"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03b8\u03bb\u03b9\u03ba\u03ac\u03c1\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552794
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"728de1107d4e440f61d00e7097cd3df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243101317,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243101317,
+    "wof:lastmodified":1537625122,
+    "wof:name":"Kathlikaros",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18597,
+    37.58265,
+    25.18597,
+    37.58265
+],
+  "geometry": {"coordinates":[25.18597,37.58265],"type":"Point"}
+}

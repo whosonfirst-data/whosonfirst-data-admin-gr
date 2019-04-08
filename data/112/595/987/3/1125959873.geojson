@@ -1,0 +1,112 @@
+{
+  "id": 1125959873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93333,38.66667,20.93333,38.66667",
+    "geom:latitude":38.66667,
+    "geom:longitude":20.93333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":934,
+    "gn:population":759,
+    "iso:country":"GR",
+    "lbl:latitude":38.66667,
+    "lbl:longitude":20.93333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a\u064a\u0643\u0627\u0633\u060c \u0623\u064a\u062a\u0648\u0644\u064a\u0627 \u0643\u064a \u0623\u0643\u0627\u0631\u0646\u0627\u0646\u064a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Mytikas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cd\u03c4\u03b9\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Mytikas"
+    ],
+    "name:ger_x_preferred":[
+        "Mytikas"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03cd\u03c4\u03b9\u03ba\u03b1\u03c2 \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Mytikas"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fdtikas"
+    ],
+    "name:unk_x_variant":[
+        "M\u00edtikas"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256871,
+    "qs_pg:gn_pop":934,
+    "qs_pg:name":"Mytikas",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":186726,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":965988,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256871,
+        "gp:id":965988,
+        "qs_pg:id":186726,
+        "wd:id":"Q4152297"
+    },
+    "wof:country":"GR",
+    "wof:created":1497297756,
+    "wof:geomhash":"30ee716f955d7bff78d8a98dd9420e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125959873,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125959873,
+    "wof:lastmodified":1553816657,
+    "wof:name":"Mytikas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":759,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93333,
+    38.66667,
+    20.93333,
+    38.66667
+],
+  "geometry": {"coordinates":[20.93333,38.66667],"type":"Point"}
+}

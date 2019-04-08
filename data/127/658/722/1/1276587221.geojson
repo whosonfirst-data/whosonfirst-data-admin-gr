@@ -1,0 +1,82 @@
+{
+  "id": 1276587221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25431,40.84666,24.25431,40.84666",
+    "geom:latitude":40.84666,
+    "geom:longitude":24.25431,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Eleftheres",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736337,
+    "gn:latitude":40.84666,
+    "gn:longitude":24.25431,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Elefther\u00e9s",
+    "gn:population":1303,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Elefther\u00e9s",
+        "Elevthera\u00ed",
+        "\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03b1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Eleftheres"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736337,
+        "wk:page":"Eleftheres"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2e769d9c6d98d3e1c17856fcb8890d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276587221,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276587221,
+    "wof:lastmodified":1537624951,
+    "wof:name":"Eleftheres",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":1303,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25431,
+    40.84666,
+    24.25431,
+    40.84666
+],
+  "geometry": {"coordinates":[24.25431,40.84666],"type":"Point"}
+}

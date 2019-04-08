@@ -1,0 +1,77 @@
+{
+  "id": 1310240929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87089,41.26298,25.87089,41.26298",
+    "geom:latitude":41.26298,
+    "geom:longitude":25.87089,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9019",
+    "gn:asciiname":"Ano Kounia",
+    "gn:country_code":"GR",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736788,
+    "gn:latitude":41.26298,
+    "gn:longitude":25.87089,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"\u00c1no Ko\u00fania",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Ko\u00fania"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u039a\u03bf\u03cd\u03bd\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Salatz\u00e1k",
+        "\u00c1no Salaj\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736788
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9339beafecc5db7221edc9b5d0641f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310240929,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310240929,
+    "wof:lastmodified":1537624975,
+    "wof:name":"Ano Kounia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87089,
+    41.26298,
+    25.87089,
+    41.26298
+],
+  "geometry": {"coordinates":[25.87089,41.26298],"type":"Point"}
+}

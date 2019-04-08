@@ -1,0 +1,65 @@
+{
+  "id": 1108942413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7304761117,37.9789439469,23.7304761117,37.9789439469",
+    "geom:latitude":37.978944,
+    "geom:longitude":23.730476,
+    "iso:country":"GR",
+    "lbl:latitude":37.978944,
+    "lbl:longitude":23.730476,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u039a\u03bb\u03b1\u03c5\u03b8\u03bc\u03ce\u03bd\u03bf\u03c2"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1175612731,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GR",
+    "wof:created":1491363079,
+    "wof:geomhash":"0af73a5d7658495d623d80d83398ada7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1175612731,
+            "neighbourhood_id":1108942413,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1108942413,
+    "wof:lastmodified":1538606682,
+    "wof:name":"Klafthmonos Square",
+    "wof:parent_id":1175612731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73047611165627,
+    37.97894394692539,
+    23.73047611165627,
+    37.97894394692539
+],
+  "geometry": {"coordinates":[23.73047611165627,37.97894394692539],"type":"Point"}
+}

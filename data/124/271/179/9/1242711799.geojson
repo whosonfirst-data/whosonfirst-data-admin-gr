@@ -1,0 +1,77 @@
+{
+  "id": 1242711799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09581,39.47828,23.09581,39.47828",
+    "geom:latitude":39.47828,
+    "geom:longitude":23.09581,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9106",
+    "gn:asciiname":"Pouri",
+    "gn:country_code":"GR",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254761,
+    "gn:latitude":39.47828,
+    "gn:longitude":23.09581,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Pour\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03c1\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c5\u03c1\u03af\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Pour\u00ed",
+        "Pour\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254761
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8a5aa54b1cd96f9fccf0a6c906c480ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242711799,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1242711799,
+    "wof:lastmodified":1537624278,
+    "wof:name":"Pouri",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09581,
+    39.47828,
+    23.09581,
+    39.47828
+],
+  "geometry": {"coordinates":[23.09581,39.47828],"type":"Point"}
+}

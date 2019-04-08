@@ -1,0 +1,77 @@
+{
+  "id": 1343894867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59114,37.89539,21.59114,37.89539",
+    "geom:latitude":37.89539,
+    "geom:longitude":21.59114,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9137",
+    "gn:asciiname":"Apidoula",
+    "gn:country_code":"GR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264763,
+    "gn:latitude":37.89539,
+    "gn:longitude":21.59114,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Apido\u00fala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Apido\u00fala"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c0\u03b9\u03b4\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kakaro\u00faka",
+        "Apidho\u00fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264763
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9200037bfd4f536c5ab23d82a6e7742d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343894867,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343894867,
+    "wof:lastmodified":1537624738,
+    "wof:name":"Apidoula",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59114,
+    37.89539,
+    21.59114,
+    37.89539
+],
+  "geometry": {"coordinates":[21.59114,37.89539],"type":"Point"}
+}

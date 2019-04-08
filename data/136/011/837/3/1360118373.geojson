@@ -1,0 +1,80 @@
+{
+  "id": 1360118373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57603,38.45967,20.57603,38.45967",
+    "geom:latitude":38.45967,
+    "geom:longitude":20.57603,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Fiskardo",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262387,
+    "gn:latitude":38.45967,
+    "gn:longitude":20.57603,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fisk\u00e1rdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fisk\u00e1rdo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b9\u03c3\u03ba\u03ac\u03c1\u03b4\u03bf",
+        "Fisk\u00e1rdon",
+        "\u03a6\u03b9\u03c3\u03ba\u03ac\u03c1\u03b4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Phiskardo",
+        "Fisk\u00e1rdho",
+        "Fisk\u00e1rdhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262387
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"945ef5c8b93175aa2366d234baf34bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360118373,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1360118373,
+    "wof:lastmodified":1537624630,
+    "wof:name":"Fiskardo",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57603,
+    38.45967,
+    20.57603,
+    38.45967
+],
+  "geometry": {"coordinates":[20.57603,38.45967],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243202953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75297,36.94468,24.75297,36.94468",
+    "geom:latitude":36.94468,
+    "geom:longitude":24.75297,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9289",
+    "gn:asciiname":"Faros",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262466,
+    "gn:latitude":36.94468,
+    "gn:longitude":24.75297,
+    "gn:modification_date":"2014-06-25",
+    "gn:name":"F\u00e1ros",
+    "gn:population":105,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03ac\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Faros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262466
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f7d8f233a03df64ad2381c9aea7f664a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243202953,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243202953,
+    "wof:lastmodified":1537624634,
+    "wof:name":"Faros",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":105,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75297,
+    36.94468,
+    24.75297,
+    36.94468
+],
+  "geometry": {"coordinates":[24.75297,36.94468],"type":"Point"}
+}

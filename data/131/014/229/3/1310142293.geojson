@@ -1,0 +1,73 @@
+{
+  "id": 1310142293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92597,35.43019,23.92597,35.43019",
+    "geom:latitude":35.43019,
+    "geom:longitude":23.92597,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Mesikefala",
+    "gn:country_code":"GR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8427335,
+    "gn:latitude":35.43019,
+    "gn:longitude":23.92597,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mesikef\u00e1la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mesikef\u00e1la"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c3\u03b9\u03ba\u03b5\u03c6\u03ac\u03bb\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8427335
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3fa9847a3740172e105bfb86dc13eb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310142293,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310142293,
+    "wof:lastmodified":1537625007,
+    "wof:name":"Mesikefala",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92597,
+    35.43019,
+    23.92597,
+    35.43019
+],
+  "geometry": {"coordinates":[23.92597,35.43019],"type":"Point"}
+}

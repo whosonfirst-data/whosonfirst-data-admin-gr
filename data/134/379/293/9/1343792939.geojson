@@ -1,0 +1,79 @@
+{
+  "id": 1343792939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30758,37.53599,22.30758,37.53599",
+    "geom:latitude":37.53599,
+    "geom:longitude":22.30758,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Mainalo",
+    "gn:country_code":"GR",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257993,
+    "gn:latitude":37.53599,
+    "gn:longitude":22.30758,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ma\u00ednalo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ma\u00ednalo"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03af\u03bd\u03b1\u03bb\u03bf",
+        "\u039c\u03b1\u03af\u03bd\u03b1\u03bb\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Zar\u00e1kova",
+        "Zar\u00e1khova",
+        "Ma\u00ednalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257993
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d8f8d0d4f09d3a58196b8939014e87c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343792939,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343792939,
+    "wof:lastmodified":1537624426,
+    "wof:name":"Mainalo",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30758,
+    37.53599000000001,
+    22.30758,
+    37.53599000000001
+],
+  "geometry": {"coordinates":[22.30758,37.53599000000001],"type":"Point"}
+}

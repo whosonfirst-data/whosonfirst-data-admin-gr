@@ -1,0 +1,76 @@
+{
+  "id": 1243006669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53329,39.65333,20.53329,39.65333",
+    "geom:latitude":39.65333,
+    "geom:longitude":20.53329,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9083",
+    "gn:asciiname":"Agios Georgios Vrosinas",
+    "gn:country_code":"GR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10175081,
+    "gn:latitude":39.65333,
+    "gn:longitude":20.53329,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"\u00c1gios Ge\u00f3rgios Vros\u00ednas",
+    "gn:population":4,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u0392\u03c1\u03bf\u03c3\u03af\u03bd\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Georgios Vrosinas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10175081
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ad152a15e8868ed0a8639243515d24c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243006669,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1243006669,
+    "wof:lastmodified":1537625081,
+    "wof:name":"Agios Georgios Vrosinas",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53329,
+    39.65333,
+    20.53329,
+    39.65333
+],
+  "geometry": {"coordinates":[20.53329,39.65333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193054475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84408,38.51861,21.84408,38.51861",
+    "geom:latitude":38.51861,
+    "geom:longitude":21.84408,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Perivolia",
+    "gn:country_code":"GR",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255502,
+    "gn:latitude":38.51861,
+    "gn:longitude":21.84408,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Periv\u00f3lia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Periv\u00f3lia"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255502
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6a9a49cc34dcb4c48ce7f5bc4af0605e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193054475,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1193054475,
+    "wof:lastmodified":1537624309,
+    "wof:name":"Perivolia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84408,
+    38.51861,
+    21.84408,
+    38.51861
+],
+  "geometry": {"coordinates":[21.84408,38.51861],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226778045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57684,38.6214,22.57684,38.6214",
+    "geom:latitude":38.6214,
+    "geom:longitude":22.57684,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9158",
+    "gn:asciiname":"Fterolakka",
+    "gn:country_code":"GR",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9535022,
+    "gn:latitude":38.6214,
+    "gn:longitude":22.57684,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Fter\u00f3lakka",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03c4\u03b5\u03c1\u03cc\u03bb\u03b1\u03ba\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Fterolakka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9535022
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"67a1e81e16342b9ebbcc8ae7ffe36e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226778045,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226778045,
+    "wof:lastmodified":1537625071,
+    "wof:name":"Fterolakka",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57684,
+    38.6214,
+    22.57684,
+    38.6214
+],
+  "geometry": {"coordinates":[22.57684,38.6214],"type":"Point"}
+}

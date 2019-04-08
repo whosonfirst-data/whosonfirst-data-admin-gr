@@ -1,0 +1,82 @@
+{
+  "id": 1126042349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41667,38.23333,20.41667,38.23333",
+    "geom:latitude":38.23333,
+    "geom:longitude":20.41667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":56,
+    "gn:population":56,
+    "iso:country":"GR",
+    "lbl:latitude":38.23333,
+    "lbl:longitude":20.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Kouval\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03b2\u03b1\u03bb\u03ac\u03c4\u03b1"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":258916,
+    "qs_pg:gn_pop":56,
+    "qs_pg:name":"Kouval\u00e1ta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546667,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258916,
+        "qs_pg:id":546667
+    },
+    "wof:country":"GR",
+    "wof:created":1497302235,
+    "wof:geomhash":"ad9e5afc0922f0c9afcd3a65b461a3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042349,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1126042349,
+    "wof:lastmodified":1509408622,
+    "wof:name":"Kouval\u00e1ta",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41667,
+    38.23333,
+    20.41667,
+    38.23333
+],
+  "geometry": {"coordinates":[20.41667,38.23333],"type":"Point"}
+}

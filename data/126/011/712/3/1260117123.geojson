@@ -1,0 +1,83 @@
+{
+  "id": 1260117123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48546,35.34267,24.48546,35.34267",
+    "geom:latitude":35.34267,
+    "geom:longitude":24.48546,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Anogeia Rethymnis",
+    "gn:country_code":"GR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264805,
+    "gn:latitude":35.34267,
+    "gn:longitude":24.48546,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"An\u00f3geia Rethymnis",
+    "gn:population":131,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ce\u03b3\u03b5\u03b9\u03b1 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03ce\u03b3\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Anogeia Rethymnis"
+    ],
+    "name:und_x_variant":[
+        "An\u00f3geia",
+        "An\u00f3yia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264805
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"93d912135bf0886a5d675dbcae8a9db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260117123,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1260117123,
+    "wof:lastmodified":1537624741,
+    "wof:name":"Anogeia Rethymnis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":131,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48546,
+    35.34267,
+    24.48546,
+    35.34267
+],
+  "geometry": {"coordinates":[24.48546,35.34267],"type":"Point"}
+}

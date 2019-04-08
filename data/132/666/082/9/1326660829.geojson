@@ -1,0 +1,80 @@
+{
+  "id": 1326660829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17006,39.714,22.17006,39.714",
+    "geom:latitude":39.714,
+    "geom:longitude":22.17006,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9102",
+    "gn:asciiname":"Damasouli",
+    "gn:country_code":"GR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263271,
+    "gn:latitude":39.714,
+    "gn:longitude":22.17006,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Damaso\u00fali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Damaso\u00fali"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b1\u03bc\u03b1\u03c3\u03bf\u03cd\u03bb\u03b9",
+        "Damaso\u00falion",
+        "\u0394\u03b1\u03bc\u03b1\u03c3\u03bf\u03cd\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Dhamaso\u00fali",
+        "Dhamaso\u00falion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263271,
+        "wk:page":"Damasouli"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cded93d33cf0d2c12070cadfa8ed38bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326660829,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326660829,
+    "wof:lastmodified":1537624676,
+    "wof:name":"Damasouli",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17006,
+    39.714,
+    22.17006,
+    39.714
+],
+  "geometry": {"coordinates":[22.17006,39.714],"type":"Point"}
+}

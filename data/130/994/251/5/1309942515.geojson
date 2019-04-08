@@ -1,0 +1,77 @@
+{
+  "id": 1309942515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56656,41.2419,24.56656,41.2419",
+    "geom:latitude":41.2419,
+    "geom:longitude":24.56656,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Drymia",
+    "gn:country_code":"GR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736387,
+    "gn:latitude":41.2419,
+    "gn:longitude":24.56656,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Drymi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Drymi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03c5\u03bc\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Kiz-Muk\u00fa",
+        "Dhrimi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736387
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ada0407a4f13cf2faabb5afb4ceb0210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309942515,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1309942515,
+    "wof:lastmodified":1537624953,
+    "wof:name":"Drymia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56656,
+    41.2419,
+    24.56656,
+    41.2419
+],
+  "geometry": {"coordinates":[24.56656,41.2419],"type":"Point"}
+}

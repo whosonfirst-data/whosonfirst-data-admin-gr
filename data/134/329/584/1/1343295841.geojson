@@ -1,0 +1,70 @@
+{
+  "id": 1343295841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64389,39.87889,20.64389,39.87889",
+    "geom:latitude":39.87889,
+    "geom:longitude":20.64389,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9087",
+    "gn:asciiname":"Kalivia Soudheniotika",
+    "gn:country_code":"GR",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":261447,
+    "gn:latitude":39.87889,
+    "gn:longitude":20.64389,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Kal\u00edvia Soudheni\u00f3tika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b9\u03b1 \u03a3\u03bf\u03c5\u03b4\u03b5\u03bd\u03b9\u03ce\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261447
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f77f8b8a00054eca857c1299e07b1673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343295841,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1343295841,
+    "wof:lastmodified":1537624591,
+    "wof:name":"Kalivia Soudheniotika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64389,
+    39.87889000000001,
+    20.64389,
+    39.87889000000001
+],
+  "geometry": {"coordinates":[20.64389,39.87889000000001],"type":"Point"}
+}

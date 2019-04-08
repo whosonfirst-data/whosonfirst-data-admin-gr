@@ -1,0 +1,75 @@
+{
+  "id": 1209650417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07169,38.16547,22.07169,38.16547",
+    "geom:latitude":38.16547,
+    "geom:longitude":22.07169,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Pyrgaki",
+    "gn:country_code":"GR",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255255,
+    "gn:latitude":38.16547,
+    "gn:longitude":22.07169,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Pyrg\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pyrg\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c5\u03c1\u03b3\u03ac\u03ba\u03b9",
+        "Pyrg\u00e1kion",
+        "\u03a0\u03c5\u03c1\u03b3\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Pirg\u00e1ki",
+        "Pirg\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255255
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0941afc60adf931815e4b40fe1c0da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209650417
+        }
+    ],
+    "wof:id":1209650417,
+    "wof:lastmodified":1537624297,
+    "wof:name":"Pyrgaki",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07169,
+    38.16547,
+    22.07169,
+    38.16547
+],
+  "geometry": {"coordinates":[22.07169,38.16547],"type":"Point"}
+}

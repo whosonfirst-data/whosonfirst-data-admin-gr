@@ -1,0 +1,76 @@
+{
+  "id": 1277110771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10971,34.85709,24.10971,34.85709",
+    "geom:latitude":34.85709,
+    "geom:longitude":24.10971,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9320",
+    "gn:asciiname":"Sarakiniko",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8523854,
+    "gn:latitude":34.85709,
+    "gn:longitude":24.10971,
+    "gn:modification_date":"2015-09-21",
+    "gn:name":"Sarak\u00edniko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b1\u03ba\u03ae\u03bd\u03b9\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Sarakiniko"
+    ],
+    "name:und_x_variant":[
+        "Sarak\u00edniko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523854
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fdc96f1f74990f1983b07c82b6b1709f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277110771,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1277110771,
+    "wof:lastmodified":1537625016,
+    "wof:name":"Sarakiniko",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10971,
+    34.85709,
+    24.10971,
+    34.85709
+],
+  "geometry": {"coordinates":[24.10971,34.85709],"type":"Point"}
+}

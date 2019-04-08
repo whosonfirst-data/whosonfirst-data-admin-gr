@@ -1,0 +1,74 @@
+{
+  "id": 1276481303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60547,35.29777,23.60547,35.29777",
+    "geom:latitude":35.29777,
+    "geom:longitude":23.60547,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Pappadiana",
+    "gn:country_code":"GR",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255802,
+    "gn:latitude":35.29777,
+    "gn:longitude":23.60547,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Pappadian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pappadian\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c0\u03c0\u03b1\u03b4\u03b9\u03b1\u03bd\u03ac",
+        "Pappadhian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255802
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"38ec47a70110bd5ac325b8c2541e6c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276481303,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276481303,
+    "wof:lastmodified":1537624322,
+    "wof:name":"Pappadiana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60547,
+    35.29777,
+    23.60547,
+    35.29777
+],
+  "geometry": {"coordinates":[23.60547,35.29777],"type":"Point"}
+}

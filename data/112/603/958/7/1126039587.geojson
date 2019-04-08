@@ -1,0 +1,140 @@
+{
+  "id": 1126039587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64861,39.75306,20.64861,39.75306",
+    "geom:latitude":39.75306,
+    "geom:longitude":20.64861,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":914,
+    "gn:population":613,
+    "iso:country":"GR",
+    "lbl:latitude":39.75306,
+    "lbl:longitude":20.64861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u062a\u0633\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Zitsa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Zitsa"
+    ],
+    "name:fin_x_preferred":[
+        "Z\u00edtsa"
+    ],
+    "name:fre_x_preferred":[
+        "Zitsa"
+    ],
+    "name:ger_x_preferred":[
+        "Zitsa"
+    ],
+    "name:gre_x_preferred":[
+        "\u0396\u03af\u03c4\u03c3\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Zitsa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30c4\u30a1"
+    ],
+    "name:mac_x_preferred":[
+        "\u0417\u0438\u0446\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Z\u00edtsa"
+    ],
+    "name:pol_x_preferred":[
+        "Zitsa"
+    ],
+    "name:spa_x_preferred":[
+        "Zitsa"
+    ],
+    "name:swe_x_preferred":[
+        "Z\u00edtsa"
+    ],
+    "name:unk_x_variant":[
+        "Z\u00edtsa"
+    ],
+    "name:vie_x_preferred":[
+        "Zitsa"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":251197,
+    "qs_pg:gn_pop":914,
+    "qs_pg:name":"Zitsa",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":968660,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":965732,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251197,
+        "gp:id":965732,
+        "qs_pg:id":968660,
+        "wd:id":"Q206563"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302049,
+    "wof:geomhash":"3f0219c49c6bf2c3b0e891f29121ecc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126039587,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126039587,
+    "wof:lastmodified":1514444079,
+    "wof:name":"Zitsa",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":613,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64861,
+    39.75306,
+    20.64861,
+    39.75306
+],
+  "geometry": {"coordinates":[20.64861,39.75306],"type":"Point"}
+}

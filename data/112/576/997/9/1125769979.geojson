@@ -1,0 +1,104 @@
+{
+  "id": 1125769979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01472,39.42056,20.01472,39.42056",
+    "geom:latitude":39.42056,
+    "geom:longitude":20.01472,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1432,
+    "gn:population":1378,
+    "iso:country":"GR",
+    "lbl:latitude":39.42056,
+    "lbl:longitude":20.01472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u0641\u0648\u0644\u064a\u0648\u0646\u060c \u0643\u064a\u0631\u0643\u064a\u0631\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Perivoli"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Perivoli"
+    ],
+    "name:ger_x_preferred":[
+        "Perivoli"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Periv\u00f3li"
+    ],
+    "name:unk_x_variant":[
+        "Periv\u00f3li"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255498,
+    "qs_pg:gn_pop":1432,
+    "qs_pg:name":"Periv\u00f3lion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":546542,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255498,
+        "qs_pg:id":546542,
+        "wd:id":"Q827238"
+    },
+    "wof:country":"GR",
+    "wof:created":1497290026,
+    "wof:geomhash":"1bee4c28b9343011e9860db78888534d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125769979,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125769979,
+    "wof:lastmodified":1553816522,
+    "wof:name":"Periv\u00f3lion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":1378,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01472,
+    39.42056,
+    20.01472,
+    39.42056
+],
+  "geometry": {"coordinates":[20.01472,39.42056],"type":"Point"}
+}

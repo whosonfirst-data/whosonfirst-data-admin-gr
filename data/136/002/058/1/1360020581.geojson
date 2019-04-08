@@ -1,0 +1,77 @@
+{
+  "id": 1360020581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.236,38.0165,22.236,38.0165",
+    "geom:latitude":38.0165,
+    "geom:longitude":22.236,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Ano Mesorougi",
+    "gn:country_code":"GR",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261953,
+    "gn:latitude":38.0165,
+    "gn:longitude":22.236,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u00c1no Mesoro\u00fagi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u039c\u03b5\u03c3\u03bf\u03c1\u03bf\u03cd\u03b3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1no Mesoro\u00fagi"
+    ],
+    "name:und_x_variant":[
+        "Gounari\u00e1nika",
+        "Gounari\u00e1nnika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261953
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"264bfe450bba3acd11e8f2d40e0868e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360020581,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360020581,
+    "wof:lastmodified":1537624614,
+    "wof:name":"Ano Mesorougi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.236,
+    38.0165,
+    22.236,
+    38.0165
+],
+  "geometry": {"coordinates":[22.236,38.0165],"type":"Point"}
+}

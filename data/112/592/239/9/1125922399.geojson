@@ -1,0 +1,103 @@
+{
+  "id": 1125922399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92528,39.48639,19.92528,39.48639",
+    "geom:latitude":39.48639,
+    "geom:longitude":19.92528,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":550,
+    "gn:population":553,
+    "iso:country":"GR",
+    "lbl:latitude":39.48639,
+    "lbl:longitude":19.92528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03b1\u0390\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03c1\u03b1\u03af\u03c4\u03b9\u03ba\u03b1",
+        "\u039c\u03bf\u03c1\u03b1\u03ca\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Moraitika"
+    ],
+    "name:unk_x_variant":[
+        "Mora\u1e2ftika"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2463623,
+    "qs_pg:gn_pop":550,
+    "qs_pg:name":"Moraitika",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1039154,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":957655,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463623,
+        "gp:id":957655,
+        "qs_pg:id":1039154
+    },
+    "wof:country":"GR",
+    "wof:created":1497296527,
+    "wof:geomhash":"dd031cebd5ad522750b0060766da0567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125922399,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125922399,
+    "wof:lastmodified":1509400889,
+    "wof:name":"Moraitika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":553,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92528,
+    39.48639,
+    19.92528,
+    39.48639
+],
+  "geometry": {"coordinates":[19.92528,39.48639],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1125859421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99417,40.98694,22.99417,40.98694",
+    "geom:latitude":40.98694,
+    "geom:longitude":22.99417,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":322,
+    "gn:population":322,
+    "iso:country":"GR",
+    "lbl:latitude":40.98694,
+    "lbl:longitude":22.99417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Koronouda"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Koronouda"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03cd\u03b4\u03b1 \u039a\u03b9\u03bb\u03ba\u03af\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Korono\u00fada"
+    ],
+    "name:unk_x_variant":[
+        "Arbur\u00ed"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735605,
+    "qs_pg:gn_pop":322,
+    "qs_pg:name":"Koronoudha",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1284421,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":954117,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735605,
+        "gp:id":954117,
+        "qs_pg:id":1284421,
+        "wd:id":"Q6432549"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293764,
+    "wof:geomhash":"8f8b5b8f8403d1344800b0035c7386a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125859421,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1125859421,
+    "wof:lastmodified":1514443987,
+    "wof:name":"Koronoudha",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":322,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99417,
+    40.98694,
+    22.99417,
+    40.98694
+],
+  "geometry": {"coordinates":[22.99417,40.98694],"type":"Point"}
+}

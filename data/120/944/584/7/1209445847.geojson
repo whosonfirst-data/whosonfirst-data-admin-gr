@@ -1,0 +1,72 @@
+{
+  "id": 1209445847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92822,39.21174,23.92822,39.21174",
+    "geom:latitude":39.21174,
+    "geom:longitude":23.92822,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9109",
+    "gn:asciiname":"Mourteron",
+    "gn:country_code":"GR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256688,
+    "gn:latitude":39.21174,
+    "gn:longitude":23.92822,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Mourter\u00f3n",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c1\u03c4\u03b5\u03c1\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Mourtero"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256688
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"10ec72683830de58674c4f64238d0538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209445847
+        }
+    ],
+    "wof:id":1209445847,
+    "wof:lastmodified":1537624367,
+    "wof:name":"Mourteron",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92822,
+    39.21174,
+    23.92822,
+    39.21174
+],
+  "geometry": {"coordinates":[23.92822,39.21174],"type":"Point"}
+}

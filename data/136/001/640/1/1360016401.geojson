@@ -1,0 +1,76 @@
+{
+  "id": 1360016401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70367,38.47017,21.70367,38.47017",
+    "geom:latitude":38.47017,
+    "geom:longitude":21.70367,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9126",
+    "gn:asciiname":"Marathoula",
+    "gn:country_code":"GR",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":254788,
+    "gn:latitude":38.47017,
+    "gn:longitude":21.70367,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Maratho\u00fala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Maratho\u00fala"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c1\u03b1\u03b8\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Po\u00faliani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254788
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"04bd20943e52bd7a7ee7fe066c49ed09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360016401,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1360016401,
+    "wof:lastmodified":1537624279,
+    "wof:name":"Marathoula",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70367,
+    38.47017,
+    21.70367,
+    38.47017
+],
+  "geometry": {"coordinates":[21.70367,38.47017],"type":"Point"}
+}

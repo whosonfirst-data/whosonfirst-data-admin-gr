@@ -1,0 +1,81 @@
+{
+  "id": 1276589485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32933,39.19192,22.32933,39.19192",
+    "geom:latitude":39.19192,
+    "geom:longitude":22.32933,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9159",
+    "gn:asciiname":"Agrapidhia",
+    "gn:country_code":"GR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265607,
+    "gn:latitude":39.19192,
+    "gn:longitude":22.32933,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Agrapidhi\u00e1",
+    "gn:population":162,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03c1\u03b1\u03c0\u03b9\u03b4\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Agrapidia"
+    ],
+    "name:und_x_variant":[
+        "Yakar\u00f3ba",
+        "Yiakar\u00f3mba",
+        "Agrapidhi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265607
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a1e56a339e15692cf9794886d6709f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276589485,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276589485,
+    "wof:lastmodified":1537624785,
+    "wof:name":"Agrapidhia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32933,
+    39.19192,
+    22.32933,
+    39.19192
+],
+  "geometry": {"coordinates":[22.32933,39.19192],"type":"Point"}
+}

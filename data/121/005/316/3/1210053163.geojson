@@ -1,0 +1,81 @@
+{
+  "id": 1210053163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04987,37.50127,23.04987,37.50127",
+    "geom:latitude":37.50127,
+    "geom:longitude":23.04987,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9236",
+    "gn:asciiname":"Karnezaiika",
+    "gn:country_code":"GR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260908,
+    "gn:latitude":37.50127,
+    "gn:longitude":23.04987,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Karneza\u00edika",
+    "gn:population":13,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03bd\u03b5\u03b6\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Karnezaiika"
+    ],
+    "name:und_x_variant":[
+        "Karnez\u00e9\u00efka",
+        "K\u00e1to Karnez\u00e9\u00efka",
+        "Karneza\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260908
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b80a5510ab866d1f06f08052640cca23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210053163,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1210053163,
+    "wof:lastmodified":1537624564,
+    "wof:name":"Karnezaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04987,
+    37.50127,
+    23.04987,
+    37.50127
+],
+  "geometry": {"coordinates":[23.04987,37.50127],"type":"Point"}
+}

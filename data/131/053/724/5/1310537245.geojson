@@ -1,0 +1,77 @@
+{
+  "id": 1310537245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75,40.6,23.75,40.6",
+    "geom:latitude":40.6,
+    "geom:longitude":23.75,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9056",
+    "gn:asciiname":"Kalivia Varvaras",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736054,
+    "gn:latitude":40.6,
+    "gn:longitude":23.75,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Kal\u00edvia Varv\u00e1ras",
+    "gn:population":11,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b9\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00edvai Varv\u00e1ras",
+        "Kal\u00edvia Varv\u00e1ras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736054
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c1bf5c1bcf2c0f557053ddd2443cab58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310537245,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310537245,
+    "wof:lastmodified":1537624938,
+    "wof:name":"Kalivia Varvaras",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75,
+    40.6,
+    23.75,
+    40.6
+],
+  "geometry": {"coordinates":[23.75,40.6],"type":"Point"}
+}

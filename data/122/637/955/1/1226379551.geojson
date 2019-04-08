@@ -1,0 +1,77 @@
+{
+  "id": 1226379551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8192,35.49653,23.8192,35.49653",
+    "geom:latitude":35.49653,
+    "geom:longitude":23.8192,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Sirili",
+    "gn:country_code":"GR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253779,
+    "gn:latitude":35.49653,
+    "gn:longitude":23.8192,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Sir\u00edli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c1\u03af\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03c1\u03af\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Sir\u00edli",
+        "Sir\u00edlion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253779
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fd0e7d7d0b3629b12457bf4dd290be79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226379551,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226379551,
+    "wof:lastmodified":1537624236,
+    "wof:name":"Sirili",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8192,
+    35.49653,
+    23.8192,
+    35.49653
+],
+  "geometry": {"coordinates":[23.8192,35.49653],"type":"Point"}
+}

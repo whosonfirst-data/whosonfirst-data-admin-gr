@@ -1,0 +1,79 @@
+{
+  "id": 1343988503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73958,38.01153,21.73958,38.01153",
+    "geom:latitude":38.01153,
+    "geom:longitude":21.73958,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Kyparissi",
+    "gn:country_code":"GR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259775,
+    "gn:latitude":38.01153,
+    "gn:longitude":21.73958,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kypar\u00edssi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kypar\u00edssi"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03c0\u03b1\u03c1\u03af\u03c3\u03c3\u03b9",
+        "Kypar\u00edssion",
+        "\u039a\u03c5\u03c0\u03b1\u03c1\u03af\u03c3\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kipar\u00edssi",
+        "Kipar\u00edssion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259775
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3932854c4517052372386b2773c2afb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343988503,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343988503,
+    "wof:lastmodified":1537624507,
+    "wof:name":"Kyparissi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73958,
+    38.01153,
+    21.73958,
+    38.01153
+],
+  "geometry": {"coordinates":[21.73958,38.01153],"type":"Point"}
+}

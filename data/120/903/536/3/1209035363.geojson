@@ -1,0 +1,76 @@
+{
+  "id": 1209035363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96389,38.52036,21.96389,38.52036",
+    "geom:latitude":38.52036,
+    "geom:longitude":21.96389,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Kokkinochori",
+    "gn:country_code":"GR",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259573,
+    "gn:latitude":38.52036,
+    "gn:longitude":21.96389,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kokkinoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kokkinoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Kokkinoch\u00f3rion",
+        "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "N\u00edsvori",
+        "Kokkinokh\u00f3ri",
+        "Kokkinokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259573
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0a99dd6c872bc12700c4698717b7a011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209035363
+        }
+    ],
+    "wof:id":1209035363,
+    "wof:lastmodified":1537624498,
+    "wof:name":"Kokkinochori",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96389,
+    38.52036,
+    21.96389,
+    38.52036
+],
+  "geometry": {"coordinates":[21.96389,38.52036],"type":"Point"}
+}

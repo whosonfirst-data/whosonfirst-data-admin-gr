@@ -1,0 +1,83 @@
+{
+  "id": 1276910023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91093,40.79663,23.91093,40.79663",
+    "geom:latitude":40.79663,
+    "geom:longitude":23.91093,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Ofrinion",
+    "gn:country_code":"GR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734898,
+    "gn:latitude":40.79663,
+    "gn:longitude":23.91093,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Ofr\u00ednion",
+    "gn:population":758,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039f\u03c6\u03c1\u03cd\u03bd\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Ofrynio"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Lakkov\u00edkia",
+        "K\u00e1to Lakkov\u00edtia",
+        "K\u00e1to Mesolaki\u00e1",
+        "K\u00e1to Lakkov\u00edkiu",
+        "Ofr\u00ednion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734898
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"966819860f477ec954fd7c57c3ca756e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276910023,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276910023,
+    "wof:lastmodified":1537624869,
+    "wof:name":"Ofrinion",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":758,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91093,
+    40.79663,
+    23.91093,
+    40.79663
+],
+  "geometry": {"coordinates":[23.91093,40.79663],"type":"Point"}
+}

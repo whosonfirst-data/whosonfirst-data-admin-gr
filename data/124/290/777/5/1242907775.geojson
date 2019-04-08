@@ -1,0 +1,79 @@
+{
+  "id": 1242907775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24954,35.11289,25.24954,35.11289",
+    "geom:latitude":35.11289,
+    "geom:longitude":25.24954,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Lefkochori",
+    "gn:country_code":"GR",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258422,
+    "gn:latitude":35.11289,
+    "gn:longitude":25.24954,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Lefkoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lefkoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c5\u03ba\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Lefkoch\u00f3rion",
+        "\u039b\u03b5\u03c5\u03ba\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Voutoufo\u00fa",
+        "Levkokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258422
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f92c67eb433ff2416cd3ac7a5a77c37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242907775,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242907775,
+    "wof:lastmodified":1537624447,
+    "wof:name":"Lefkochori",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24954,
+    35.11289,
+    25.24954,
+    35.11289
+],
+  "geometry": {"coordinates":[25.24954,35.11289],"type":"Point"}
+}

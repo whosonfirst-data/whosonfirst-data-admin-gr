@@ -1,0 +1,83 @@
+{
+  "id": 1327065099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99673,38.97319,21.99673,38.97319",
+    "geom:latitude":38.97319,
+    "geom:longitude":21.99673,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9162",
+    "gn:asciiname":"Litoselon",
+    "gn:country_code":"GR",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258224,
+    "gn:latitude":38.97319,
+    "gn:longitude":21.99673,
+    "gn:modification_date":"2014-10-06",
+    "gn:name":"Lit\u00f3selon",
+    "gn:population":66,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03c4\u03cc\u03c3\u03b5\u03bb\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03c4\u03cc\u03c3\u03b5\u03bb\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Litoselo"
+    ],
+    "name:und_x_variant":[
+        "Lit\u00f3silon",
+        "Lit\u00f3selon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258224
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2d06ede8a0427b02c982b84d8833ddc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327065099,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327065099,
+    "wof:lastmodified":1537624438,
+    "wof:name":"Litoselon",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99673,
+    38.97319,
+    21.99673,
+    38.97319
+],
+  "geometry": {"coordinates":[21.99673,38.97319],"type":"Point"}
+}

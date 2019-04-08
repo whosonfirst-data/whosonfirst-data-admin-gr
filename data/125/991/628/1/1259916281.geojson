@@ -1,0 +1,75 @@
+{
+  "id": 1259916281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.05806,39.43528,21.05806,39.43528",
+    "geom:latitude":39.43528,
+    "geom:longitude":21.05806,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9075",
+    "gn:asciiname":"Panagia",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255913,
+    "gn:latitude":39.43528,
+    "gn:longitude":21.05806,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Panag\u00eda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Panay\u00eda",
+        "Panag\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255913
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aebb204e68cb60cc7a7f05227aa7d45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259916281,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1259916281,
+    "wof:lastmodified":1537624327,
+    "wof:name":"Panagia",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05806,
+    39.43528,
+    21.05806,
+    39.43528
+],
+  "geometry": {"coordinates":[21.05806,39.43528],"type":"Point"}
+}

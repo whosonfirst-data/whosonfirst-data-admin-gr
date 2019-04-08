@@ -1,0 +1,64 @@
+{
+  "id": 1209450989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40045,39.15083,23.40045,39.15083",
+    "geom:latitude":39.15083,
+    "geom:longitude":23.40045,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9110",
+    "gn:asciiname":"Koukounaries",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692233,
+    "gn:latitude":39.15083,
+    "gn:longitude":23.40045,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koukounaries",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692233,
+        "wk:page":"Koukounaries"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5a2024ce5e485ecab25b158b1335644a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209450989
+        }
+    ],
+    "wof:id":1209450989,
+    "wof:lastmodified":1537563175,
+    "wof:name":"Koukounaries",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40045,
+    39.15083,
+    23.40045,
+    39.15083
+],
+  "geometry": {"coordinates":[23.40045,39.15083],"type":"Point"}
+}

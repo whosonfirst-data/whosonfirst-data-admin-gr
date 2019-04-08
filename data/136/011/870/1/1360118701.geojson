@@ -1,0 +1,76 @@
+{
+  "id": 1360118701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83228,40.93064,24.83228,40.93064",
+    "geom:latitude":40.93064,
+    "geom:longitude":24.83228,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9018",
+    "gn:asciiname":"Neo Erasmio",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736311,
+    "gn:latitude":40.93064,
+    "gn:longitude":24.83228,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ne\u00f3 Er\u00e1smio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ne\u00f3 Er\u00e1smio"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b5\u03cc \u0395\u03c1\u03ac\u03c3\u03bc\u03b9\u03bf",
+        "Er\u00e1smion",
+        "Ne\u00f3n Er\u00e1smion",
+        "\u039d\u03b5\u03cc\u03bd \u0395\u03c1\u03ac\u03c3\u03bc\u03b9\u03bf\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736311
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"31af61304954452925954e4c27fa5ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360118701,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1360118701,
+    "wof:lastmodified":1537624950,
+    "wof:name":"Neo Erasmio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83228,
+    40.93064,
+    24.83228,
+    40.93064
+],
+  "geometry": {"coordinates":[24.83228,40.93064],"type":"Point"}
+}

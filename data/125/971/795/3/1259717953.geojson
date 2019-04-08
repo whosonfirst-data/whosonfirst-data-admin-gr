@@ -1,0 +1,73 @@
+{
+  "id": 1259717953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.678,37.54586,21.678,37.54586",
+    "geom:latitude":37.54586,
+    "geom:longitude":21.678,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9138",
+    "gn:asciiname":"Smerna",
+    "gn:country_code":"GR",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253507,
+    "gn:latitude":37.54586,
+    "gn:longitude":21.678,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sm\u00e9rna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sm\u00e9rna"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bc\u03ad\u03c1\u03bd\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253507
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"94036fc104e760fd898a66a9550bb880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259717953,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259717953,
+    "wof:lastmodified":1537624224,
+    "wof:name":"Smerna",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.678,
+    37.54586,
+    21.678,
+    37.54586
+],
+  "geometry": {"coordinates":[21.678,37.54586],"type":"Point"}
+}

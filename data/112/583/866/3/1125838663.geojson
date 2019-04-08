@@ -1,0 +1,85 @@
+{
+  "id": 1125838663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68333,37.78333,20.68333,37.78333",
+    "geom:latitude":37.78333,
+    "geom:longitude":20.68333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":68,
+    "gn:population":59,
+    "iso:country":"GR",
+    "lbl:latitude":37.78333,
+    "lbl:longitude":20.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Kampi"
+    ],
+    "name:unk_x_variant":[
+        "Kamp\u00ed"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":261233,
+    "qs_pg:gn_pop":68,
+    "qs_pg:name":"Kamp\u00edon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":79810,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261233,
+        "qs_pg:id":79810
+    },
+    "wof:country":"GR",
+    "wof:created":1497292835,
+    "wof:geomhash":"83b8b3e7a0f5766283129d649eaa9f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125838663,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125838663,
+    "wof:lastmodified":1509395143,
+    "wof:name":"Kamp\u00edon",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68333,
+    37.78333,
+    20.68333,
+    37.78333
+],
+  "geometry": {"coordinates":[20.68333,37.78333],"type":"Point"}
+}

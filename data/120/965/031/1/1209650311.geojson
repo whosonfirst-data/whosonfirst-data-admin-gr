@@ -1,0 +1,68 @@
+{
+  "id": 1209650311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21009,35.42704,24.21009,35.42704",
+    "geom:latitude":35.42704,
+    "geom:longitude":24.21009,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Gavalokhorion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262093,
+    "gn:latitude":35.42704,
+    "gn:longitude":24.21009,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Gavalokh\u00f3rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gavalokh\u00f3ri",
+        "Gavalokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262093
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7dedc582f432713fdc90991fe52e9fb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209650311
+        }
+    ],
+    "wof:id":1209650311,
+    "wof:lastmodified":1537624619,
+    "wof:name":"Gavalokhorion",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21009,
+    35.42704000000001,
+    24.21009,
+    35.42704000000001
+],
+  "geometry": {"coordinates":[24.21009,35.42704000000001],"type":"Point"}
+}

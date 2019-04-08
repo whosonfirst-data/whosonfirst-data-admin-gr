@@ -1,0 +1,80 @@
+{
+  "id": 1326764829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67145,35.05796,25.67145,35.05796",
+    "geom:latitude":35.05796,
+    "geom:longitude":25.67145,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Psathi",
+    "gn:country_code":"GR",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254523,
+    "gn:latitude":35.05796,
+    "gn:longitude":25.67145,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Psath\u00ed",
+    "gn:population":12,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a8\u03b1\u03b8\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Psathi"
+    ],
+    "name:und_x_variant":[
+        "Psath\u00ed",
+        "Psath\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254523
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"805dbbf88760b8f5d51cff1cbb9ce6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326764829,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1326764829,
+    "wof:lastmodified":1537624271,
+    "wof:name":"Psathi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67145,
+    35.05795999999999,
+    25.67145,
+    35.05795999999999
+],
+  "geometry": {"coordinates":[25.67145,35.05795999999999],"type":"Point"}
+}

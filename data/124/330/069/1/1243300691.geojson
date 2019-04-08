@@ -1,0 +1,79 @@
+{
+  "id": 1243300691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14268,37.36232,22.14268,37.36232",
+    "geom:latitude":37.36232,
+    "geom:longitude":22.14268,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Gefyra",
+    "gn:country_code":"GR",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251464,
+    "gn:latitude":37.36232,
+    "gn:longitude":22.14268,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"G\u00e9fyra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ad\u03c6\u03c5\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "G\u00e9fyra"
+    ],
+    "name:und_x_variant":[
+        "Kos\u00e9",
+        "Kios\u00e9",
+        "Y\u00e9fira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251464,
+        "wk:page":"Gefyra%2C_Arcadia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c46ede20e42568bad6979bf665b810c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243300691,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243300691,
+    "wof:lastmodified":1537624142,
+    "wof:name":"Gefyra",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14268,
+    37.36232,
+    22.14268,
+    37.36232
+],
+  "geometry": {"coordinates":[22.14268,37.36232],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293031475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6676,38.77771,20.6676,38.77771",
+    "geom:latitude":38.77771,
+    "geom:longitude":20.6676,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Lazarata",
+    "gn:country_code":"GR",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258538,
+    "gn:latitude":38.77771,
+    "gn:longitude":20.6676,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Lazar\u00e1ta",
+    "gn:population":526,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b6\u03b1\u03c1\u03ac\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lazarata"
+    ],
+    "name:und_x_variant":[
+        "Lazar\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258538,
+        "wk:page":"Lazarata"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9a407ac470e7b00a4d5c9ca70777c76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293031475,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293031475,
+    "wof:lastmodified":1537624453,
+    "wof:name":"Lazarata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":526,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6676,
+    38.77771,
+    20.6676,
+    38.77771
+],
+  "geometry": {"coordinates":[20.6676,38.77771],"type":"Point"}
+}

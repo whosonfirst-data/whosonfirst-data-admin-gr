@@ -1,0 +1,92 @@
+{
+  "id": 1125859207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.07938,38.23966,26.07938,38.23966",
+    "geom:latitude":38.23966,
+    "geom:longitude":26.07938,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":130,
+    "gn:population":70,
+    "iso:country":"GR",
+    "lbl:latitude":38.23966,
+    "lbl:longitude":26.07938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03ac\u03c4\u03c3\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Flatsia"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":262365,
+    "qs_pg:gn_pop":130,
+    "qs_pg:name":"Flatsia",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1284050,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":949601,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262365,
+        "gp:id":949601,
+        "qs_pg:id":1284050
+    },
+    "wof:country":"GR",
+    "wof:created":1497293754,
+    "wof:geomhash":"3c421bf7e8e5736e17a16a3d813a17f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125859207,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1125859207,
+    "wof:lastmodified":1538594940,
+    "wof:name":"Flatsia",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07938,
+    38.23966,
+    26.07938,
+    38.23966
+],
+  "geometry": {"coordinates":[26.07938,38.23966],"type":"Point"}
+}

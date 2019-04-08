@@ -1,0 +1,81 @@
+{
+  "id": 1243103221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76628,38.46207,23.76628,38.46207",
+    "geom:latitude":38.46207,
+    "geom:longitude":23.76628,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9155",
+    "gn:asciiname":"Kamari",
+    "gn:country_code":"GR",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261257,
+    "gn:latitude":38.46207,
+    "gn:longitude":23.76628,
+    "gn:modification_date":"2015-04-29",
+    "gn:name":"Kam\u00e1ri",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kamari"
+    ],
+    "name:und_x_variant":[
+        "Kam\u00f3ri",
+        "Kam\u00e1ri",
+        "Kam\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261257
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9f8748341dc2ee2f335da48a7aa63646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243103221,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1243103221,
+    "wof:lastmodified":1537624581,
+    "wof:name":"Kamari",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76628,
+    38.46207,
+    23.76628,
+    38.46207
+],
+  "geometry": {"coordinates":[23.76628,38.46207],"type":"Point"}
+}

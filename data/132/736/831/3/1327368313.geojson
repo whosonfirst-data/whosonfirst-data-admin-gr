@@ -1,0 +1,74 @@
+{
+  "id": 1327368313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.72873,41.21777,25.72873,41.21777",
+    "geom:latitude":41.21777,
+    "geom:longitude":25.72873,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9019",
+    "gn:asciiname":"Ragada",
+    "gn:country_code":"GR",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734423,
+    "gn:latitude":41.21777,
+    "gn:longitude":25.72873,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Rag\u00e1da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Rag\u00e1da"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b1\u03b3\u03ac\u03b4\u03b1",
+        "Rag\u00e1dha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734423
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1bd0d281959e4e738de6fbffb5dddcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368313,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1327368313,
+    "wof:lastmodified":1537624840,
+    "wof:name":"Ragada",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.72873,
+    41.21777,
+    25.72873,
+    41.21777
+],
+  "geometry": {"coordinates":[25.72873,41.21777],"type":"Point"}
+}

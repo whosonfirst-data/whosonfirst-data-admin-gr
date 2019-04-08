@@ -1,0 +1,81 @@
+{
+  "id": 1277013475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8993,36.90151,21.8993,36.90151",
+    "geom:latitude":36.90151,
+    "geom:longitude":21.8993,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Kakorrevma",
+    "gn:country_code":"GR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261638,
+    "gn:latitude":36.90151,
+    "gn:longitude":21.8993,
+    "gn:modification_date":"2015-02-20",
+    "gn:name":"Kak\u00f3rrevma",
+    "gn:population":67,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03ba\u03cc\u03c1\u03c1\u03b5\u03c5\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kakorrevma"
+    ],
+    "name:und_x_variant":[
+        "Kak\u00f3remma",
+        "Kak\u00f3rrevma",
+        "Cacorema"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261638
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1dbec872b8d9e0035e3a4b263a30773a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277013475,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277013475,
+    "wof:lastmodified":1537624602,
+    "wof:name":"Kakorrevma",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8993,
+    36.90151,
+    21.8993,
+    36.90151
+],
+  "geometry": {"coordinates":[21.8993,36.90151],"type":"Point"}
+}

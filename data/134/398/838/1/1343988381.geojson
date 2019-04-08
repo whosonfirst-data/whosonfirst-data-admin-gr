@@ -1,0 +1,81 @@
+{
+  "id": 1343988381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96914,37.01957,21.96914,37.01957",
+    "geom:latitude":37.01957,
+    "geom:longitude":21.96914,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Analipsis",
+    "gn:country_code":"GR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265124,
+    "gn:latitude":37.01957,
+    "gn:longitude":21.96914,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"An\u00e1lipsis",
+    "gn:population":408,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ac\u03bb\u03b7\u03c8\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Analipsi"
+    ],
+    "name:und_x_variant":[
+        "Tzitz\u00f3ri",
+        "Tziz\u00f3ri",
+        "An\u00e1lipsis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265124
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"88902e7057ed4ed5f6e67c83946a9c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343988381,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343988381,
+    "wof:lastmodified":1537624761,
+    "wof:name":"Analipsis",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96914,
+    37.01957,
+    21.96914,
+    37.01957
+],
+  "geometry": {"coordinates":[21.96914,37.01957],"type":"Point"}
+}

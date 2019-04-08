@@ -1,0 +1,70 @@
+{
+  "id": 1209036305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29965,41.11355,25.29965,41.11355",
+    "geom:latitude":41.11355,
+    "geom:longitude":25.29965,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Meleti",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735239,
+    "gn:latitude":41.11355,
+    "gn:longitude":25.29965,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Mel\u00e9ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03ad\u03c4\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Belekl\u00ed",
+        "Mel\u00e9ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735239
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"70a77541a59da8e981c36f8a42fcf4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209036305
+        }
+    ],
+    "wof:id":1209036305,
+    "wof:lastmodified":1537624889,
+    "wof:name":"Meleti",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29965,
+    41.11355,
+    25.29965,
+    41.11355
+],
+  "geometry": {"coordinates":[25.29965,41.11355],"type":"Point"}
+}

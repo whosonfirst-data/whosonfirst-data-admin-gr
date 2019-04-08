@@ -1,0 +1,106 @@
+{
+  "id": 1125915177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78333,37.71667,20.78333,37.71667",
+    "geom:latitude":37.71667,
+    "geom:longitude":20.78333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":300,
+    "gn:population":323,
+    "iso:country":"GR",
+    "lbl:latitude":37.71667,
+    "lbl:longitude":20.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Agalas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agalas"
+    ],
+    "name:swe_x_preferred":[
+        "Agal\u00e1s"
+    ],
+    "name:unk_x_variant":[
+        "Agal\u00e1s"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":265641,
+    "qs_pg:gn_pop":300,
+    "qs_pg:name":"Agalas",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":478635,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":944927,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265641,
+        "gp:id":944927,
+        "qs_pg:id":478635,
+        "wd:id":"Q4691127"
+    },
+    "wof:country":"GR",
+    "wof:created":1497296293,
+    "wof:geomhash":"fd7ced18ab93588f01426052a8ca6e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125915177,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125915177,
+    "wof:lastmodified":1514443909,
+    "wof:name":"Agalas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78333,
+    37.71667,
+    20.78333,
+    37.71667
+],
+  "geometry": {"coordinates":[20.78333,37.71667],"type":"Point"}
+}

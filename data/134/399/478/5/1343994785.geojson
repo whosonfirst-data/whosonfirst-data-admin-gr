@@ -1,0 +1,76 @@
+{
+  "id": 1343994785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80938,39.7908,19.80938,39.7908",
+    "geom:latitude":39.7908,
+    "geom:longitude":19.80938,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Agios Stefanos Episkepseos",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165927,
+    "gn:latitude":39.7908,
+    "gn:longitude":19.80938,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Agios St\u00e9fanos Episk\u00e9pseos",
+    "gn:population":205,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2 \u0395\u03c0\u03b9\u03c3\u03ba\u03ad\u03c8\u03b5\u03c9\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Stefanos Episkepseos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165927
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7e6bf5632d6682ec9dfb5e1135a71953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343994785,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1343994785,
+    "wof:lastmodified":1537625049,
+    "wof:name":"Agios Stefanos Episkepseos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80938,
+    39.7908,
+    19.80938,
+    39.7908
+],
+  "geometry": {"coordinates":[19.80938,39.7908],"type":"Point"}
+}

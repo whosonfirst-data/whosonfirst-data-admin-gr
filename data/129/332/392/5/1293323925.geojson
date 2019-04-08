@@ -1,0 +1,73 @@
+{
+  "id": 1293323925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71203,38.04578,21.71203,38.04578",
+    "geom:latitude":38.04578,
+    "geom:longitude":21.71203,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Papakostaiika",
+    "gn:country_code":"GR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255824,
+    "gn:latitude":38.04578,
+    "gn:longitude":21.71203,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Papakosta\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Papakosta\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c0\u03b1\u03ba\u03c9\u03c3\u03c4\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255824
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"235c6d98f76990bd56f29b9a4e57cc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293323925,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293323925,
+    "wof:lastmodified":1537624323,
+    "wof:name":"Papakostaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71203,
+    38.04578,
+    21.71203,
+    38.04578
+],
+  "geometry": {"coordinates":[21.71203,38.04578],"type":"Point"}
+}

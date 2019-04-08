@@ -1,0 +1,79 @@
+{
+  "id": 1125283951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01646,38.40198,26.01646,38.40198",
+    "geom:latitude":38.40198,
+    "geom:longitude":26.01646,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":51773,
+    "gn:population":51773,
+    "iso:country":"GR",
+    "lbl:latitude":38.40198,
+    "lbl:longitude":26.01646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a7\u03af\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133821,
+    "qs_pg:gn_pop":51773,
+    "qs_pg:name":"Dimos Chios",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1042561,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133821,
+        "qs_pg:id":1042561
+    },
+    "wof:country":"GR",
+    "wof:created":1497042623,
+    "wof:geomhash":"f8532b9f851021213d2bf973887114cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125283951,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1125283951,
+    "wof:lastmodified":1538594908,
+    "wof:name":"Dimos Chios",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"localadmin",
+    "wof:population":51773,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01646,
+    38.40198,
+    26.01646,
+    38.40198
+],
+  "geometry": {"coordinates":[26.01646,38.40198],"type":"Point"}
+}

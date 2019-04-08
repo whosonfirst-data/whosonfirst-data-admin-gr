@@ -1,0 +1,73 @@
+{
+  "id": 1293625263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60958,39.37289,21.60958,39.37289",
+    "geom:latitude":39.37289,
+    "geom:longitude":21.60958,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9094",
+    "gn:asciiname":"Vagenia",
+    "gn:country_code":"GR",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445168,
+    "gn:latitude":39.37289,
+    "gn:longitude":21.60958,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Vag\u00e9nia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vag\u00e9nia"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03b3\u03ad\u03bd\u03b9\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445168
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e827ea5e2db378b2270711891cdc5d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625263,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1293625263,
+    "wof:lastmodified":1537624798,
+    "wof:name":"Vagenia",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60958,
+    39.37289000000001,
+    21.60958,
+    39.37289000000001
+],
+  "geometry": {"coordinates":[21.60958,39.37289000000001],"type":"Point"}
+}

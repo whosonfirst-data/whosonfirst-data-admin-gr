@@ -1,0 +1,67 @@
+{
+  "id": 1293725503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.06183,36.19109,28.06183,36.19109",
+    "geom:latitude":36.19109,
+    "geom:longitude":28.06183,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296",
+    "gn:asciiname":"Malonas",
+    "gn:country_code":"GR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6621629,
+    "gn:latitude":36.19109,
+    "gn:longitude":28.06183,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Malonas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6621629
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"89798687c6a59258e0651291490c1700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293725503,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1293725503,
+    "wof:lastmodified":1536941798,
+    "wof:name":"Malonas",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.06183,
+    36.19109,
+    28.06183,
+    36.19109
+],
+  "geometry": {"coordinates":[28.06183,36.19109],"type":"Point"}
+}

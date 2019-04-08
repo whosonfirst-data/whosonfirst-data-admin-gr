@@ -1,0 +1,80 @@
+{
+  "id": 1276478891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.94329,39.26969,23.94329,39.26969",
+    "geom:latitude":39.26969,
+    "geom:longitude":23.94329,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9109",
+    "gn:asciiname":"Yerakas",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251419,
+    "gn:latitude":39.26969,
+    "gn:longitude":23.94329,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Y\u00e9rakas",
+    "gn:population":62,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ad\u03c1\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Gerakas"
+    ],
+    "name:und_x_variant":[
+        "Sinoikism\u00f3s Y\u00e9rakas",
+        "Y\u00e9rakas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251419
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6e64a4bb5b011c31e7c985a736bb0c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276478891,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1276478891,
+    "wof:lastmodified":1537624139,
+    "wof:name":"Yerakas",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94329,
+    39.26969,
+    23.94329,
+    39.26969
+],
+  "geometry": {"coordinates":[23.94329,39.26969],"type":"Point"}
+}

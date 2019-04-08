@@ -1,0 +1,79 @@
+{
+  "id": 1209251245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3554,35.29642,24.3554,35.29642",
+    "geom:latitude":35.29642,
+    "geom:longitude":24.3554,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Zouridi",
+    "gn:country_code":"GR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251169,
+    "gn:latitude":35.29642,
+    "gn:longitude":24.3554,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Zour\u00eddi",
+    "gn:population":66,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03c1\u03af\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03bf\u03c5\u03c1\u03af\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Zouridi"
+    ],
+    "name:und_x_variant":[
+        "Zour\u00eddhi",
+        "Zour\u00eddhion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251169
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"80c7cf3d97a49349abb3fd394735d47d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209251245
+        }
+    ],
+    "wof:id":1209251245,
+    "wof:lastmodified":1537624128,
+    "wof:name":"Zouridi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3554,
+    35.29642,
+    24.3554,
+    35.29642
+],
+  "geometry": {"coordinates":[24.3554,35.29642],"type":"Point"}
+}

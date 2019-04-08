@@ -1,0 +1,83 @@
+{
+  "id": 1276482023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16661,38.97222,22.16661,38.97222",
+    "geom:latitude":38.97222,
+    "geom:longitude":22.16661,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9162",
+    "gn:asciiname":"Arkhanion",
+    "gn:country_code":"GR",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264627,
+    "gn:latitude":38.97222,
+    "gn:longitude":22.16661,
+    "gn:modification_date":"2014-10-06",
+    "gn:name":"Arkh\u00e1nion",
+    "gn:population":363,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c7\u03ac\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c7\u03ac\u03bd\u03b9\u03bf\u03bd",
+        "\u0391\u03c1\u03c7\u03ac\u03bd\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Archani"
+    ],
+    "name:und_x_variant":[
+        "Arhani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264627
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fcc271ad1dbb3e5be8bc61d8b783c5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276482023,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1276482023,
+    "wof:lastmodified":1537624734,
+    "wof:name":"Arkhanion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":363,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16661,
+    38.97222,
+    22.16661,
+    38.97222
+],
+  "geometry": {"coordinates":[22.16661,38.97222],"type":"Point"}
+}

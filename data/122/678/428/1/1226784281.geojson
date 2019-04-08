@@ -1,0 +1,76 @@
+{
+  "id": 1226784281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.149,37.28877,22.149,37.28877",
+    "geom:latitude":37.28877,
+    "geom:longitude":22.149,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Chountalou",
+    "gn:country_code":"GR",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259884,
+    "gn:latitude":37.28877,
+    "gn:longitude":22.149,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Chount\u00e1lou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chount\u00e1lou"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03c5\u03bd\u03c4\u03ac\u03bb\u03bf\u03c5"
+    ],
+    "name:und_x_variant":[
+        "Kho\u00fandalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259884
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0329e31fab53ec75e210d240be56bdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226784281,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226784281,
+    "wof:lastmodified":1537624512,
+    "wof:name":"Chountalou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.149,
+    37.28877,
+    22.149,
+    37.28877
+],
+  "geometry": {"coordinates":[22.149,37.28877],"type":"Point"}
+}

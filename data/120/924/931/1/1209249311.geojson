@@ -1,0 +1,72 @@
+{
+  "id": 1209249311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54102,37.37074,22.54102,37.37074",
+    "geom:latitude":37.37074,
+    "geom:longitude":22.54102,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9237",
+    "gn:asciiname":"Mesorrachi",
+    "gn:country_code":"GR",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257171,
+    "gn:latitude":37.37074,
+    "gn:longitude":22.54102,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Mesorr\u00e1chi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mesorr\u00e1chi"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c3\u03bf\u03c1\u03c1\u03ac\u03c7\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Mesorr\u00e1khi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257171
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"08025a6c0c80eae5b73201cfc6a35e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209249311
+        }
+    ],
+    "wof:id":1209249311,
+    "wof:lastmodified":1537624391,
+    "wof:name":"Mesorrachi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54102,
+    37.37074000000001,
+    22.54102,
+    37.37074000000001
+],
+  "geometry": {"coordinates":[22.54102,37.37074000000001],"type":"Point"}
+}

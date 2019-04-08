@@ -1,0 +1,99 @@
+{
+  "id": 1125859691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61778,39.73389,20.61778,39.73389",
+    "geom:latitude":39.73389,
+    "geom:longitude":20.61778,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":87,
+    "gn:population":24,
+    "iso:country":"GR",
+    "lbl:latitude":39.73389,
+    "lbl:longitude":20.61778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "R\u00e1ikon"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03ac\u03b9\u03ba\u03bf",
+        "\u03a1\u03ac\u03b9\u03ba\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Raiko"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e1iko"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254414,
+    "qs_pg:gn_pop":87,
+    "qs_pg:name":"Raikon",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1285112,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":960989,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254414,
+        "gp:id":960989,
+        "qs_pg:id":1285112
+    },
+    "wof:country":"GR",
+    "wof:created":1497293774,
+    "wof:geomhash":"4cfb4da0dfcda11fceb461e25926f781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125859691,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125859691,
+    "wof:lastmodified":1509396509,
+    "wof:name":"Raikon",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61778,
+    39.73389,
+    20.61778,
+    39.73389
+],
+  "geometry": {"coordinates":[20.61778,39.73389],"type":"Point"}
+}

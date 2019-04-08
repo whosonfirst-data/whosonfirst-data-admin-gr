@@ -1,0 +1,77 @@
+{
+  "id": 1260116027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51808,37.70697,21.51808,37.70697",
+    "geom:latitude":37.70697,
+    "geom:longitude":21.51808,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141",
+    "gn:asciiname":"Lanthi",
+    "gn:country_code":"GR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258588,
+    "gn:latitude":37.70697,
+    "gn:longitude":21.51808,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"L\u00e1nthi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03bd\u03b8\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03bd\u03b8\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1nthi",
+        "L\u00e1nthion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258588
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0d104f9a1425cb5c549aa3e917acdb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260116027,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1260116027,
+    "wof:lastmodified":1537624456,
+    "wof:name":"Lanthi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51808,
+    37.70697,
+    21.51808,
+    37.70697
+],
+  "geometry": {"coordinates":[21.51808,37.70697],"type":"Point"}
+}

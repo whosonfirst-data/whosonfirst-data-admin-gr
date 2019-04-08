@@ -1,0 +1,75 @@
+{
+  "id": 1209035753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69629,35.46431,23.69629,35.46431",
+    "geom:latitude":35.46431,
+    "geom:longitude":23.69629,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Mazokopiana",
+    "gn:country_code":"GR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8426822,
+    "gn:latitude":35.46431,
+    "gn:longitude":23.69629,
+    "gn:modification_date":"2015-09-21",
+    "gn:name":"Mazokopian\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b6\u03bf\u03ba\u03bf\u03c0\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03b6\u03bf\u03ba\u03bf\u03c0\u03b1\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Mazokopania"
+    ],
+    "name:und_x_variant":[
+        "Mazokopian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426822
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6fd2e6f64d35088a48f89b98dee1ba67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209035753
+        }
+    ],
+    "wof:id":1209035753,
+    "wof:lastmodified":1537625005,
+    "wof:name":"Mazokopiana",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69629,
+    35.46431,
+    23.69629,
+    35.46431
+],
+  "geometry": {"coordinates":[23.69629,35.46431],"type":"Point"}
+}

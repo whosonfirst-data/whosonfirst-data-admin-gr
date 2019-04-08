@@ -1,0 +1,67 @@
+{
+  "id": 1326666641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43333,39.65,22.43333,39.65",
+    "geom:latitude":39.65,
+    "geom:longitude":22.43333,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9100",
+    "gn:asciiname":"Nea Smirni",
+    "gn:country_code":"GR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256574,
+    "gn:latitude":39.65,
+    "gn:longitude":22.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"N\u00e9a Sm\u00edrni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256574
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"688aff36555359c79dc7914ad512c230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326666641,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326666641,
+    "wof:lastmodified":1536790606,
+    "wof:name":"Nea Smirni",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43333,
+    39.65,
+    22.43333,
+    39.65
+],
+  "geometry": {"coordinates":[22.43333,39.65],"type":"Point"}
+}

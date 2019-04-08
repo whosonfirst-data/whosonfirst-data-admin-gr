@@ -1,0 +1,74 @@
+{
+  "id": 1310531989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55685,39.33648,22.55685,39.33648",
+    "geom:latitude":39.33648,
+    "geom:longitude":22.55685,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9103",
+    "gn:asciiname":"Ano Vasilika",
+    "gn:country_code":"GR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264824,
+    "gn:latitude":39.33648,
+    "gn:longitude":22.55685,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c1no Vasilik\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ac"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Duvlat\u00e1n",
+        "\u00c1no Vasilik\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264824
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a0408a644d4ffab3fd6ed8ef39f11dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310531989,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1310531989,
+    "wof:lastmodified":1537624743,
+    "wof:name":"Ano Vasilika",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55685,
+    39.33648,
+    22.55685,
+    39.33648
+],
+  "geometry": {"coordinates":[22.55685,39.33648],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276366513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09307,35.31915,25.09307,35.31915",
+    "geom:latitude":35.31915,
+    "geom:longitude":25.09307,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306",
+    "gn:asciiname":"Agioi Theodoroi",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:elevation":"80.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224670,
+    "gn:latitude":35.31915,
+    "gn:longitude":25.09307,
+    "gn:modification_date":"2015-09-04",
+    "gn:name":"\u00c1gioi The\u00f3doroi",
+    "gn:population":789,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Agioi Theodoroi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224670
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c2b5194bd2ec356e11f1ab0abf531f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276366513,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276366513,
+    "wof:lastmodified":1537625003,
+    "wof:name":"Agioi Theodoroi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":789,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09307,
+    35.31915,
+    25.09307,
+    35.31915
+],
+  "geometry": {"coordinates":[25.09307,35.31915],"type":"Point"}
+}

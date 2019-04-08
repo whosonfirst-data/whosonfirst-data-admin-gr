@@ -1,0 +1,148 @@
+{
+  "id": 101856029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06412,39.874431,25.06412,39.874431",
+    "geom:latitude":39.874431,
+    "geom:longitude":25.06412,
+    "gn:population":5406,
+    "iso:country":"GR",
+    "lbl:latitude":39.874431,
+    "lbl:longitude":25.06412,
+    "mps:latitude":39.874431,
+    "mps:longitude":25.06412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:amh_x_preferred":[
+        "\u121a\u122a\u1293"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u064a\u0646\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Mirina"
+    ],
+    "name:dan_x_preferred":[
+        "Mirina"
+    ],
+    "name:deu_x_preferred":[
+        "Myrina"
+    ],
+    "name:dut_x_preferred":[
+        "Myrina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cd\u03c1\u03b9\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Myrina"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00fdrina"
+    ],
+    "name:fra_x_preferred":[
+        "Myrina"
+    ],
+    "name:fre_x_preferred":[
+        "Myrina"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03cd\u03c1\u03b9\u03bd\u03b1 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Mirina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30ea\u30ca"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00fdrina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mirina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fdrina"
+    ],
+    "name:unk_x_variant":[
+        "Kastro"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0392\u039f\u03a1\u0395\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
+    "qs:a1_alt":"BOREIO AIGAIO",
+    "qs:a1r":"0",
+    "qs:a2_alt":"LESBOS",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03a5\u03a1\u0399\u039d\u0391",
+    "qs:loc_alt":"MYRINA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":39.879722,
+    "wd:longitude":25.074167,
+    "wd:wordcount":993,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256919,
+        "gp:id":56023041,
+        "loc:id":"n00112643",
+        "qs:id":202132,
+        "qs_pg:id":77915,
+        "wd:id":"Q2310605",
+        "wk:page":"Myrina, Greece"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d9c8d7cc53a3857dfe5495ac7ee0e267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101856029,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":101856029,
+    "wof:lastmodified":1544743197,
+    "wof:name":"\u039c\u03a5\u03a1\u0399\u039d\u0391",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:population":5406,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06412,
+    39.874431,
+    25.06412,
+    39.874431
+],
+  "geometry": {"coordinates":[25.06412,39.874431],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1243006955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64287,39.75418,19.64287,39.75418",
+    "geom:latitude":39.75418,
+    "geom:longitude":19.64287,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Agios Stefanos Avlioton",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165889,
+    "gn:latitude":39.75418,
+    "gn:longitude":19.64287,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Agios St\u00e9fanos Avliot\u00f3n",
+    "gn:population":176,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2 \u0391\u03c5\u03bb\u03b9\u03c9\u03c4\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Stefanos Avlioton"
+    ],
+    "name:und_x_variant":[
+        "Agios Stefanos Avliotes",
+        "Ayios Stefanos Avliotes",
+        "Agios Stefanos Avliotai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165889,
+        "wk:page":"Agios_Stefanos_Avliotes"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b0fb4f9339c057a98fe880ea21fbac88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243006955,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1243006955,
+    "wof:lastmodified":1537625048,
+    "wof:name":"Agios Stefanos Avlioton",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64287,
+    39.75418,
+    19.64287,
+    39.75418
+],
+  "geometry": {"coordinates":[19.64287,39.75418],"type":"Point"}
+}

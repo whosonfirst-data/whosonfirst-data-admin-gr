@@ -1,0 +1,82 @@
+{
+  "id": 1293327263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29586,37.68269,22.29586,37.68269",
+    "geom:latitude":37.68269,
+    "geom:longitude":22.29586,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Levidion",
+    "gn:country_code":"GR",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258458,
+    "gn:latitude":37.68269,
+    "gn:longitude":22.29586,
+    "gn:modification_date":"2015-11-11",
+    "gn:name":"Lev\u00eddion",
+    "gn:population":1025,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03b2\u03af\u03b4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Levidi"
+    ],
+    "name:und_x_variant":[
+        "Levidi",
+        "Lev\u00eddhi",
+        "Lev\u00eddhion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258458,
+        "wk:page":"Levidi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c0a7217fdd086774d9043f8a08167cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293327263,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293327263,
+    "wof:lastmodified":1537624449,
+    "wof:name":"Levidion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1025,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29586,
+    37.68269,
+    22.29586,
+    37.68269
+],
+  "geometry": {"coordinates":[22.29586,37.68269],"type":"Point"}
+}

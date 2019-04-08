@@ -1,0 +1,71 @@
+{
+  "id": 1259819683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17658,39.20085,20.17658,39.20085",
+    "geom:latitude":39.20085,
+    "geom:longitude":20.17658,
+    "gn:admin1_code":"ESYE22",
+    "gn:asciiname":"Riganes",
+    "gn:country_code":"GR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498396,
+    "gn:latitude":39.20085,
+    "gn:longitude":20.17658,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"R\u00edganes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "R\u00edganes"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03af\u03b3\u03b1\u03bd\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498396
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a44a2c462a82ddc713f3a6a21ddf5d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259819683,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1259819683,
+    "wof:lastmodified":1537625118,
+    "wof:name":"Riganes",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17658,
+    39.20085,
+    20.17658,
+    39.20085
+],
+  "geometry": {"coordinates":[20.17658,39.20085],"type":"Point"}
+}

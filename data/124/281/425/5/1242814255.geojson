@@ -1,0 +1,81 @@
+{
+  "id": 1242814255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55436,35.01667,25.55436,35.01667",
+    "geom:latitude":35.01667,
+    "geom:longitude":25.55436,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Gdochia",
+    "gn:country_code":"GR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262066,
+    "gn:latitude":35.01667,
+    "gn:longitude":25.55436,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Gd\u00f3chia",
+    "gn:population":63,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b4\u03cc\u03c7\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Gdochia"
+    ],
+    "name:und_x_variant":[
+        "Gd\u00f3chia",
+        "Gdh\u00f3khia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262066,
+        "wk:page":"Gdochia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"43ad261f5289170757aac44f1c498004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242814255,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1242814255,
+    "wof:lastmodified":1537624618,
+    "wof:name":"Gdochia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55436,
+    35.01667,
+    25.55436,
+    35.01667
+],
+  "geometry": {"coordinates":[25.55436,35.01667],"type":"Point"}
+}

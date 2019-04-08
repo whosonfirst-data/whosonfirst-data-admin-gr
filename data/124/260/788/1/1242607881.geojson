@@ -1,0 +1,79 @@
+{
+  "id": 1242607881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96879,36.2722,22.96879,36.2722",
+    "geom:latitude":36.2722,
+    "geom:longitude":22.96879,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Vamvakaradhika",
+    "gn:country_code":"GR",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":263515,
+    "gn:latitude":36.2722,
+    "gn:longitude":22.96879,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Vamvakar\u00e1dhika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03bc\u03b2\u03b1\u03ba\u03b1\u03c1\u03ac\u03b4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vamvakaradika"
+    ],
+    "name:und_x_variant":[
+        "Vamvakar\u00e1rika",
+        "Barbakar\u00e1dhika",
+        "Vamvakar\u00e1dhika",
+        "Bambakar\u00e1dhika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263515
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b1248ee24940b821cf417125c88a2f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242607881,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1242607881,
+    "wof:lastmodified":1537624688,
+    "wof:name":"Vamvakaradhika",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96879,
+    36.2722,
+    22.96879,
+    36.2722
+],
+  "geometry": {"coordinates":[22.96879,36.2722],"type":"Point"}
+}

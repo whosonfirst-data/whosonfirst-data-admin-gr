@@ -1,0 +1,77 @@
+{
+  "id": 1293518343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84432,36.8328,21.84432,36.8328",
+    "geom:latitude":36.8328,
+    "geom:longitude":21.84432,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Zizani",
+    "gn:country_code":"GR",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251195,
+    "gn:latitude":36.8328,
+    "gn:longitude":21.84432,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ziz\u00e1ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03b9\u03b6\u03ac\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b9\u03b6\u03ac\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ziz\u00e1ni",
+        "Ziz\u00e1nion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251195
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"990a3c269a1d1cfcab56a4543a07a3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293518343,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293518343,
+    "wof:lastmodified":1537624130,
+    "wof:name":"Zizani",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84432,
+    36.8328,
+    21.84432,
+    36.8328
+],
+  "geometry": {"coordinates":[21.84432,36.8328],"type":"Point"}
+}

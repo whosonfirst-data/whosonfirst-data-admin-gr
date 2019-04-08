@@ -1,0 +1,92 @@
+{
+  "id": 1125859737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78972,39.17972,20.78972,39.17972",
+    "geom:latitude":39.17972,
+    "geom:longitude":20.78972,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":567,
+    "gn:population":567,
+    "iso:country":"GR",
+    "lbl:latitude":39.17972,
+    "lbl:longitude":20.78972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b5\u03c6\u03ac\u03bd\u03b7"
+    ],
+    "name:unk_x_variant":[
+        "Kandz\u00e1s"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253215,
+    "qs_pg:gn_pop":567,
+    "qs_pg:name":"Stefani",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1285292,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962892,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253215,
+        "gp:id":962892,
+        "qs_pg:id":1285292
+    },
+    "wof:country":"GR",
+    "wof:created":1497293776,
+    "wof:geomhash":"e3dd0204da639fe81447ea9aca59a4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125859737,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125859737,
+    "wof:lastmodified":1509396512,
+    "wof:name":"Stefani",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":567,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78972,
+    39.17972,
+    20.78972,
+    39.17972
+],
+  "geometry": {"coordinates":[20.78972,39.17972],"type":"Point"}
+}

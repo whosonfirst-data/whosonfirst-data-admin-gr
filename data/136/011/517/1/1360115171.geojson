@@ -1,0 +1,84 @@
+{
+  "id": 1360115171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19719,39.15393,22.19719,39.15393",
+    "geom:latitude":39.15393,
+    "geom:longitude":22.19719,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9159",
+    "gn:asciiname":"Ekkara",
+    "gn:country_code":"GR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262828,
+    "gn:latitude":39.15393,
+    "gn:longitude":22.19719,
+    "gn:modification_date":"2014-09-11",
+    "gn:name":"Ekk\u00e1ra",
+    "gn:population":576,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03ba\u03ba\u03ac\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03b3\u03cc\u03c1\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Ekkara"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Ag\u00f3riani",
+        "Ekk\u00e1ra"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262828,
+        "wk:page":"Ekkara"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"49b1aa181fe27ea0f89db44190682b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360115171,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1360115171,
+    "wof:lastmodified":1537624651,
+    "wof:name":"Ekkara",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":576,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19719,
+    39.15393,
+    22.19719,
+    39.15393
+],
+  "geometry": {"coordinates":[22.19719,39.15393],"type":"Point"}
+}

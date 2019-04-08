@@ -1,0 +1,79 @@
+{
+  "id": 1226783489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43636,37.80819,21.43636,37.80819",
+    "geom:latitude":37.80819,
+    "geom:longitude":21.43636,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Analipsi",
+    "gn:country_code":"GR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265122,
+    "gn:latitude":37.80819,
+    "gn:longitude":21.43636,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"An\u00e1lipsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "An\u00e1lipsi"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03ac\u03bb\u03b7\u03c8\u03b7",
+        "\u0391\u03bd\u03ac\u03bb\u03b7\u03c8\u03b9\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Zer\u00f3n",
+        "Xer\u00f3",
+        "An\u00e1lipsis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265122
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1410cbc5c573f2a929165599c993ba3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226783489,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226783489,
+    "wof:lastmodified":1537624761,
+    "wof:name":"Analipsi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43636,
+    37.80819,
+    21.43636,
+    37.80819
+],
+  "geometry": {"coordinates":[21.43636,37.80819],"type":"Point"}
+}

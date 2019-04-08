@@ -1,0 +1,74 @@
+{
+  "id": 1242909989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21875,38.10954,23.21875,38.10954",
+    "geom:latitude":38.10954,
+    "geom:longitude":23.21875,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230",
+    "gn:asciiname":"Psatha",
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8658877,
+    "gn:latitude":38.10954,
+    "gn:longitude":23.21875,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Ps\u00e1tha",
+    "gn:population":15,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a8\u03ac\u03b8\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Psatha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8658877
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cf9203e120ca3cdd0000182954632c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1242909989,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242909989,
+    "wof:lastmodified":1537625034,
+    "wof:name":"Psatha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21875,
+    38.10954,
+    23.21875,
+    38.10954
+],
+  "geometry": {"coordinates":[23.21875,38.10954],"type":"Point"}
+}

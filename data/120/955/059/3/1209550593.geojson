@@ -1,0 +1,74 @@
+{
+  "id": 1209550593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46881,38.42131,21.46881,38.42131",
+    "geom:latitude":38.42131,
+    "geom:longitude":21.46881,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9127",
+    "gn:asciiname":"Schinos",
+    "gn:country_code":"GR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253618,
+    "gn:latitude":38.42131,
+    "gn:longitude":21.46881,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sch\u00ednos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sch\u00ednos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c7\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Skho\u00ednos",
+        "Skh\u00ednos",
+        "Sk\u00ednos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253618
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f800b85babf4eac227d790535a20f321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209550593
+        }
+    ],
+    "wof:id":1209550593,
+    "wof:lastmodified":1537624229,
+    "wof:name":"Schinos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46881,
+    38.42131,
+    21.46881,
+    38.42131
+],
+  "geometry": {"coordinates":[21.46881,38.42131],"type":"Point"}
+}

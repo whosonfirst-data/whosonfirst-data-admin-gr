@@ -1,0 +1,80 @@
+{
+  "id": 1225979269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6018,40.67358,21.6018,40.67358",
+    "geom:latitude":40.67358,
+    "geom:longitude":21.6018,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9070",
+    "gn:asciiname":"Fanos",
+    "gn:country_code":"GR",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736270,
+    "gn:latitude":40.67358,
+    "gn:longitude":21.6018,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Fan\u00f3s",
+    "gn:population":87,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03bd\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Fanos"
+    ],
+    "name:und_x_variant":[
+        "Sp\u00e1ntsa",
+        "Fan\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736270
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d6a7ccdcb129c4879851453debdfa367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225979269,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1225979269,
+    "wof:lastmodified":1537624947,
+    "wof:name":"Fanos",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":87,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6018,
+    40.67358,
+    21.6018,
+    40.67358
+],
+  "geometry": {"coordinates":[21.6018,40.67358],"type":"Point"}
+}

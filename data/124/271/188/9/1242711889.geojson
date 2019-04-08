@@ -1,0 +1,76 @@
+{
+  "id": 1242711889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7058,38.81687,20.7058,38.81687",
+    "geom:latitude":38.81687,
+    "geom:longitude":20.7058,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Kalligonion",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261430,
+    "gn:latitude":38.81687,
+    "gn:longitude":20.7058,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Kallig\u00f3nion",
+    "gn:population":197,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03b3\u03cc\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kalligoni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261430
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"10aaeca79b27c8256a76a721fa5380cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242711889,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1242711889,
+    "wof:lastmodified":1537624590,
+    "wof:name":"Kalligonion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7058,
+    38.81687,
+    20.7058,
+    38.81687
+],
+  "geometry": {"coordinates":[20.7058,38.81687],"type":"Point"}
+}

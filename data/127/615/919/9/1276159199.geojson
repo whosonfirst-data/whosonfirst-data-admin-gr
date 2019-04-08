@@ -1,0 +1,73 @@
+{
+  "id": 1276159199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39803,37.93786,21.39803,37.93786",
+    "geom:latitude":37.93786,
+    "geom:longitude":21.39803,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9135",
+    "gn:asciiname":"Tritaraiika",
+    "gn:country_code":"GR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252581,
+    "gn:latitude":37.93786,
+    "gn:longitude":21.39803,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Tritara\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tritara\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03b9\u03c4\u03b1\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252581
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8fac03a7ba1889bb90b497cd19a66b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276159199,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1276159199,
+    "wof:lastmodified":1537624189,
+    "wof:name":"Tritaraiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39803,
+    37.93786,
+    21.39803,
+    37.93786
+],
+  "geometry": {"coordinates":[21.39803,37.93786],"type":"Point"}
+}

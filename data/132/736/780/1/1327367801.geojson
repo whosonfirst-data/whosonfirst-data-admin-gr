@@ -1,0 +1,79 @@
+{
+  "id": 1327367801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84312,36.84842,21.84312,36.84842",
+    "geom:latitude":36.84842,
+    "geom:longitude":21.84312,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Exochiko",
+    "gn:country_code":"GR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262548,
+    "gn:latitude":36.84842,
+    "gn:longitude":21.84312,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Exochik\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Exochik\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03be\u03c9\u03c7\u03b9\u03ba\u03cc",
+        "Exochik\u00f3n",
+        "\u0395\u03be\u03c9\u03c7\u03b9\u03ba\u03cc\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Gal\u00e9\u00efka",
+        "Exokhik\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262548
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"61db5994a8d2bf7db1e52ed6eb3ae552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327367801,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327367801,
+    "wof:lastmodified":1537624637,
+    "wof:name":"Exochiko",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84312000000001,
+    36.84842,
+    21.84312000000001,
+    36.84842
+],
+  "geometry": {"coordinates":[21.84312000000001,36.84842],"type":"Point"}
+}

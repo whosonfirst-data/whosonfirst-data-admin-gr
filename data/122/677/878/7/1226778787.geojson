@@ -1,0 +1,76 @@
+{
+  "id": 1226778787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07324,37.28408,22.07324,37.28408",
+    "geom:latitude":37.28408,
+    "geom:longitude":22.07324,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9239",
+    "gn:asciiname":"Chirades",
+    "gn:country_code":"GR",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259968,
+    "gn:latitude":37.28408,
+    "gn:longitude":22.07324,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Chir\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chir\u00e1des"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b9\u03c1\u03ac\u03b4\u03b5\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Khir\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259968
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9e5f0558db95fec19a166be8e9d1badc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226778787,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226778787,
+    "wof:lastmodified":1537624516,
+    "wof:name":"Chirades",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07324,
+    37.28408,
+    22.07324,
+    37.28408
+],
+  "geometry": {"coordinates":[22.07324,37.28408],"type":"Point"}
+}

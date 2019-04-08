@@ -1,0 +1,73 @@
+{
+  "id": 1343394649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3893,40.16663,21.3893,40.16663",
+    "geom:latitude":40.16663,
+    "geom:longitude":21.3893,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Lochmi",
+    "gn:country_code":"GR",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074491,
+    "gn:latitude":40.16663,
+    "gn:longitude":21.3893,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"L\u00f3chmi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00f3chmi"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03cc\u03c7\u03bc\u03b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074491
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5c07f54cd175637635011e7e0898ad4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343394649,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343394649,
+    "wof:lastmodified":1537625046,
+    "wof:name":"Lochmi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3893,
+    40.16663,
+    21.3893,
+    40.16663
+],
+  "geometry": {"coordinates":[21.3893,40.16663],"type":"Point"}
+}

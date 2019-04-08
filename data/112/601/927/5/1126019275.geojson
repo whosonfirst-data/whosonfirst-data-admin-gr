@@ -1,0 +1,107 @@
+{
+  "id": 1126019275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95,38.58333,22.95,38.58333",
+    "geom:latitude":38.58333,
+    "geom:longitude":22.95,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":965,
+    "gn:population":699,
+    "iso:country":"GR",
+    "lbl:latitude":38.58333,
+    "lbl:longitude":22.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Exarchos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03be\u03b1\u03c1\u03c7\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Exarchos"
+    ],
+    "name:ger_x_preferred":[
+        "Exarchos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0388\u03be\u03b1\u03c1\u03c7\u03bf\u03c2 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "\u00c9xarkhos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":262556,
+    "qs_pg:gn_pop":965,
+    "qs_pg:name":"Exarkhos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":942182,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":949366,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262556,
+        "gp:id":949366,
+        "qs_pg:id":942182,
+        "wd:id":"Q12872506"
+    },
+    "wof:country":"GR",
+    "wof:created":1497300733,
+    "wof:geomhash":"01b1e9c1d38224055463f22c3eb3e981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126019275,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1126019275,
+    "wof:lastmodified":1514443951,
+    "wof:name":"Exarkhos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":699,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95,
+    38.58333,
+    22.95,
+    38.58333
+],
+  "geometry": {"coordinates":[22.95,38.58333],"type":"Point"}
+}

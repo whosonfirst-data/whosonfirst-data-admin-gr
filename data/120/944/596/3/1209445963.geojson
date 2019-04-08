@@ -1,0 +1,80 @@
+{
+  "id": 1209445963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6723,35.01293,25.6723,35.01293",
+    "geom:latitude":35.01293,
+    "geom:longitude":25.6723,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Stomio",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608503,
+    "gn:latitude":35.01293,
+    "gn:longitude":25.6723,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"St\u00f3mio",
+    "gn:population":231,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03cc\u03bc\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03cc\u03bc\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Stomio"
+    ],
+    "name:und_x_variant":[
+        "St\u00f3mio",
+        "St\u00f3mion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608503,
+        "wk:page":"Stomio%2C_Lasithi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"87d2b8cf6cd1474ecb29ef24ecf3e376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209445963
+        }
+    ],
+    "wof:id":1209445963,
+    "wof:lastmodified":1537625028,
+    "wof:name":"Stomio",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6723,
+    35.01293,
+    25.6723,
+    35.01293
+],
+  "geometry": {"coordinates":[25.6723,35.01293],"type":"Point"}
+}

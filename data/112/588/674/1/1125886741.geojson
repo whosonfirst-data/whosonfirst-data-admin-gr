@@ -1,0 +1,80 @@
+{
+  "id": 1125886741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.536491,37.744996,23.536491,37.744996",
+    "geom:latitude":37.744996,
+    "geom:longitude":23.536491,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":37.744996,
+    "lbl:longitude":23.536491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ayia Marina",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos":801,
+    "qs_pg:photos_1k":162,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":801,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115573,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":946911,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":946911,
+        "qs_pg:id":1115573
+    },
+    "wof:country":"GR",
+    "wof:created":1497295116,
+    "wof:geomhash":"e835d70fb56e7a4fee453dd14f996f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125886741,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1125886741,
+    "wof:lastmodified":1509398558,
+    "wof:name":"Ayia Marina",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.536491,
+    37.744996,
+    23.536491,
+    37.744996
+],
+  "geometry": {"coordinates":[23.536491,37.744996],"type":"Point"}
+}

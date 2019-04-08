@@ -1,0 +1,75 @@
+{
+  "id": 1209449119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85444,40.84711,23.85444,40.84711",
+    "geom:latitude":40.84711,
+    "geom:longitude":23.85444,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9049",
+    "gn:asciiname":"Nea Mesolakkia",
+    "gn:country_code":"GR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659363,
+    "gn:latitude":40.84711,
+    "gn:longitude":23.85444,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"N\u00e9a Mesolakki\u00e1",
+    "gn:population":325,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u039c\u03b5\u03c3\u03bf\u03bb\u03b1\u03ba\u03ba\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "N\u00e9a Mesolakki\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Mesolakkia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659363
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3cfbb7abb1665802e8f200812cbc1b3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209449119
+        }
+    ],
+    "wof:id":1209449119,
+    "wof:lastmodified":1537625035,
+    "wof:name":"Nea Mesolakkia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85444,
+    40.84711,
+    23.85444,
+    40.84711
+],
+  "geometry": {"coordinates":[23.85444,40.84711],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1277016671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33385,36.45732,27.33385,36.45732",
+    "geom:latitude":36.45732,
+    "geom:longitude":27.33385,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9298",
+    "gn:asciiname":"Agios Antonios",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264029,
+    "gn:latitude":36.45732,
+    "gn:longitude":27.33385,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u00c1gios Ant\u00f3nios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03c4\u03ce\u03bd\u03b9\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Porto San Antonio",
+        "\u00c1yios Ant\u00f3nios",
+        "Skala",
+        "\u00c1yios And\u00f3nios",
+        "\u00c1gios Ant\u00f3nios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264029
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"768256b60f17726d44ec1291d6aba832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277016671,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1277016671,
+    "wof:lastmodified":1537624709,
+    "wof:name":"Agios Antonios",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33385,
+    36.45732,
+    27.33385,
+    36.45732
+],
+  "geometry": {"coordinates":[27.33385,36.45732],"type":"Point"}
+}

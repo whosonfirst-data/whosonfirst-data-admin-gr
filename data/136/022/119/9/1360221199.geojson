@@ -1,0 +1,88 @@
+{
+  "id": 1360221199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.42718,36.72733,24.42718,36.72733",
+    "geom:latitude":36.72733,
+    "geom:longitude":24.42718,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9287",
+    "gn:asciiname":"Schinopi",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644201,
+    "gn:latitude":36.72733,
+    "gn:longitude":24.42718,
+    "gn:modification_date":"2014-09-25",
+    "gn:name":"Schinop\u00ed",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u03a3\u03ba\u03b9\u03bd\u03c9\u03c0\u03ae \u03c4\u03bf\u03c5 \u03a0\u03ac\u03c0\u03c0\u03b1",
+        "\u03a3\u03ba\u03b9\u03bd\u03c9\u03c0\u03ae \u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5 \u03a0\u03ac\u03c0\u03c0\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b9\u03bd\u03c9\u03c0\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c7\u03b9\u03bd\u03c9\u03c0\u03ae",
+        "\u03a3\u03ba\u03b9\u03bd\u03c9\u03c0\u03ae \u03c4\u03bf\u03c5 \u03a0\u03ac\u03c0\u03c0\u03b1",
+        "\u03a3\u03ba\u03b9\u03bd\u03c9\u03c0\u03ae \u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5 \u03a0\u03ac\u03c0\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Schinopi"
+    ],
+    "name:und_x_variant":[
+        "Skinopi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644201
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3f2c4a0e6916e848c39a3fd6fcf177a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360221199,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1360221199,
+    "wof:lastmodified":1537625034,
+    "wof:name":"Schinopi",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.42718,
+    36.72733,
+    24.42718,
+    36.72733
+],
+  "geometry": {"coordinates":[24.42718,36.72733],"type":"Point"}
+}

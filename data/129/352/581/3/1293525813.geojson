@@ -1,0 +1,71 @@
+{
+  "id": 1293525813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65384,35.09756,24.65384,35.09756",
+    "geom:latitude":35.09756,
+    "geom:longitude":24.65384,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Agios Georgios",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8530037,
+    "gn:latitude":35.09756,
+    "gn:longitude":24.65384,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Ge\u00f3rgios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Ge\u00f3rgios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8530037
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d80bec75350f8b02ef6d6bcc64e43d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1293525813,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293525813,
+    "wof:lastmodified":1537625019,
+    "wof:name":"Agios Georgios",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65384,
+    35.09755999999999,
+    24.65384,
+    35.09755999999999
+],
+  "geometry": {"coordinates":[24.65384,35.09755999999999],"type":"Point"}
+}

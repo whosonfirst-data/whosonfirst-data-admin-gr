@@ -1,0 +1,87 @@
+{
+  "id": 1309942095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6518,41.12324,23.6518,41.12324",
+    "geom:latitude":41.12324,
+    "geom:longitude":23.6518,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9054",
+    "gn:asciiname":"Chionochori",
+    "gn:country_code":"GR",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735777,
+    "gn:latitude":41.12324,
+    "gn:longitude":23.6518,
+    "gn:modification_date":"2014-08-24",
+    "gn:name":"Chionoch\u00f3ri",
+    "gn:population":1,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bf\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Chionoch\u00f3ri",
+        "Chionoch\u00f3rion",
+        "\u03a7\u03b9\u03bf\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Chionochori"
+    ],
+    "name:und_x_variant":[
+        "\u00c1no Khion\u00f3khoron",
+        "Khion\u00f3khoron",
+        "Karl\u00edko\u00ef",
+        "Khionokh\u00f3rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735777
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"613b1f3a8a9d3f311cc75cfe93dc54d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309942095,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1309942095,
+    "wof:lastmodified":1537624923,
+    "wof:name":"Chionochori",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6518,
+    41.12324,
+    23.6518,
+    41.12324
+],
+  "geometry": {"coordinates":[23.6518,41.12324],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310142025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79039,35.32274,23.79039,35.32274",
+    "geom:latitude":35.32274,
+    "geom:longitude":23.79039,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Skafi",
+    "gn:country_code":"GR",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253745,
+    "gn:latitude":35.32274,
+    "gn:longitude":23.79039,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Sk\u00e1fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03c6\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Skafidh\u00e1ki",
+        "Sk\u00e1fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253745,
+        "wk:page":"Skafi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0504e4e9423dc54b745f6010cb695ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310142025,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310142025,
+    "wof:lastmodified":1537624235,
+    "wof:name":"Skafi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79039,
+    35.32274,
+    23.79039,
+    35.32274
+],
+  "geometry": {"coordinates":[23.79039,35.32274],"type":"Point"}
+}

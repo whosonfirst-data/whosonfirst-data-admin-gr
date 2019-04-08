@@ -1,0 +1,76 @@
+{
+  "id": 1310439927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.77865,36.80317,25.77865,36.80317",
+    "geom:latitude":36.80317,
+    "geom:longitude":25.77865,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9291",
+    "gn:asciiname":"Mavri Myti",
+    "gn:country_code":"GR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9253863,
+    "gn:latitude":36.80317,
+    "gn:longitude":25.77865,
+    "gn:modification_date":"2014-07-25",
+    "gn:name":"M\u00e1vri Myti",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03cd\u03c1\u03b7 \u039c\u03cd\u03c4\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Mavri Myti"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253863
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e4ed0a5126cfcd5847ac9d148808f117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310439927,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1310439927,
+    "wof:lastmodified":1537625055,
+    "wof:name":"Mavri Myti",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77865,
+    36.80317,
+    25.77865,
+    36.80317
+],
+  "geometry": {"coordinates":[25.77865,36.80317],"type":"Point"}
+}

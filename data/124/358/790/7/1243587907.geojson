@@ -1,0 +1,76 @@
+{
+  "id": 1243587907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07559,39.44595,22.07559,39.44595",
+    "geom:latitude":39.44595,
+    "geom:longitude":22.07559,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9095",
+    "gn:asciiname":"Kalyvakia",
+    "gn:country_code":"GR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261491,
+    "gn:latitude":39.44595,
+    "gn:longitude":22.07559,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kalyv\u00e1kia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kalyv\u00e1kia"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03c5\u03b2\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kaliv\u00e1kia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261491
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"834fcda0402d3cc55d3a74d03e316fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243587907,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243587907,
+    "wof:lastmodified":1537624594,
+    "wof:name":"Kalyvakia",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07559,
+    39.44595,
+    22.07559,
+    39.44595
+],
+  "geometry": {"coordinates":[22.07559,39.44595],"type":"Point"}
+}

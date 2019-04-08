@@ -1,0 +1,76 @@
+{
+  "id": 1309841123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31153,39.23222,23.31153,39.23222",
+    "geom:latitude":39.23222,
+    "geom:longitude":23.31153,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Paltsi",
+    "gn:country_code":"GR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263517,
+    "gn:latitude":39.23222,
+    "gn:longitude":23.31153,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"P\u00e1ltsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1ltsi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bb\u03c4\u03c3\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Balts\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263517
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f41ef8e4a723b46e80fd7a630fcf3a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309841123,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1309841123,
+    "wof:lastmodified":1537624689,
+    "wof:name":"Paltsi",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31153,
+    39.23222,
+    23.31153,
+    39.23222
+],
+  "geometry": {"coordinates":[23.31153,39.23222],"type":"Point"}
+}

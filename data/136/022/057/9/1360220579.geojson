@@ -1,0 +1,76 @@
+{
+  "id": 1360220579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31211,38.07681,24.31211,38.07681",
+    "geom:latitude":38.07681,
+    "geom:longitude":24.31211,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9151",
+    "gn:asciiname":"Figias",
+    "gn:country_code":"GR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262380,
+    "gn:latitude":38.07681,
+    "gn:longitude":24.31211,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Figi\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Figi\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b7\u03b3\u03b9\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Fiyi\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262380
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"897b71466725657dfcf121d1ba5a3003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360220579,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1360220579,
+    "wof:lastmodified":1537624630,
+    "wof:name":"Figias",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31211,
+    38.07681,
+    24.31211,
+    38.07681
+],
+  "geometry": {"coordinates":[24.31211,38.07681],"type":"Point"}
+}

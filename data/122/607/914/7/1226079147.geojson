@@ -1,0 +1,83 @@
+{
+  "id": 1226079147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25,35.37393,24.25,35.37393",
+    "geom:latitude":35.37393,
+    "geom:longitude":24.25,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Argyromouri",
+    "gn:country_code":"GR",
+    "gn:dem":111,
+    "gn:elevation":"100.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264523,
+    "gn:latitude":35.37393,
+    "gn:longitude":24.25,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Argyromo\u00fari",
+    "gn:population":20,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Argyromo\u00fari"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03bc\u03bf\u03cd\u03c1\u03b9",
+        "Argyromo\u00farion",
+        "\u0391\u03c1\u03b3\u03c5\u03c1\u03bf\u03bc\u03bf\u03cd\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Aryiromo\u00fari",
+        "Aryiromo\u00farion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264523
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"efa045086c1631cbb14f22e0cd1d54c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226079147,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226079147,
+    "wof:lastmodified":1537624729,
+    "wof:name":"Argyromouri",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25,
+    35.37393,
+    24.25,
+    35.37393
+],
+  "geometry": {"coordinates":[24.25,35.37393],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1125768541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74833,39.88167,20.74833,39.88167",
+    "geom:latitude":39.88167,
+    "geom:longitude":20.74833,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":132,
+    "gn:population":129,
+    "iso:country":"GR",
+    "lbl:latitude":39.88167,
+    "lbl:longitude":20.74833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Monodendri"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03bf\u03b4\u03ad\u03bd\u03b4\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bd\u03bf\u03b4\u03ad\u03bd\u03b4\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Monodendri"
+    ],
+    "name:fin_x_preferred":[
+        "Monod\u00e9ndri"
+    ],
+    "name:fre_x_preferred":[
+        "Monodendri"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03bf\u03bd\u03bf\u03b4\u03ad\u03bd\u03b4\u03c1\u03b9 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:swe_x_preferred":[
+        "Monod\u00e9ndri"
+    ],
+    "name:unk_x_variant":[
+        "Monod\u00e9ndri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":256779,
+    "qs_pg:gn_pop":132,
+    "qs_pg:name":"Monod\u00e9ndrion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":79775,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256779,
+        "qs_pg:id":79775,
+        "wd:id":"Q2437674"
+    },
+    "wof:country":"GR",
+    "wof:created":1497289982,
+    "wof:geomhash":"9e38399c198d94b09fc816dc42a19b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125768541,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125768541,
+    "wof:lastmodified":1553816521,
+    "wof:name":"Monod\u00e9ndrion",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74833,
+    39.88167,
+    20.74833,
+    39.88167
+],
+  "geometry": {"coordinates":[20.74833,39.88167],"type":"Point"}
+}

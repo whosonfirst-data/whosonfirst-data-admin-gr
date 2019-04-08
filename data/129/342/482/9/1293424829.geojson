@@ -1,0 +1,73 @@
+{
+  "id": 1293424829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5099,34.99607,25.5099,34.99607",
+    "geom:latitude":34.99607,
+    "geom:longitude":25.5099,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9303",
+    "gn:asciiname":"Kato Vigles",
+    "gn:country_code":"GR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260453,
+    "gn:latitude":34.99607,
+    "gn:longitude":25.5099,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"K\u00e1to V\u00edgles",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to V\u00edgles"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0392\u03af\u03b3\u03bb\u03b5\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260453
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c62e26ea35aab4bb039e74b4e130ee66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293424829,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293424829,
+    "wof:lastmodified":1537624541,
+    "wof:name":"Kato Vigles",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5099,
+    34.99607,
+    25.5099,
+    34.99607
+],
+  "geometry": {"coordinates":[25.5099,34.99607],"type":"Point"}
+}

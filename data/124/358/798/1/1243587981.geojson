@@ -1,0 +1,91 @@
+{
+  "id": 1243587981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5359,40.37184,23.5359,40.37184",
+    "geom:latitude":40.37184,
+    "geom:longitude":23.5359,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Vrastama",
+    "gn:country_code":"GR",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733854,
+    "gn:latitude":40.37184,
+    "gn:longitude":23.5359,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Vr\u00e1stama",
+    "gn:population":700,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0430\u0441\u0442\u0430\u043c\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0440\u0430\u0441\u0442\u0430\u0300"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03ac\u03c3\u03c4\u03b1\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03b1\u03c3\u03c4\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Vrastama"
+    ],
+    "name:und_x_variant":[
+        "Vrast\u00e1",
+        "Pl\u00e1na",
+        "Vrast\u00e1 Pl\u00e1na",
+        "Vr\u00e1stama"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733854
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4e800d97e93b9fb65de41a4f6712e6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243587981,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1243587981,
+    "wof:lastmodified":1537624810,
+    "wof:name":"Vrastama",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5359,
+    40.37184,
+    23.5359,
+    40.37184
+],
+  "geometry": {"coordinates":[23.5359,40.37184],"type":"Point"}
+}

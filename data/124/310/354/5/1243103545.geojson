@@ -1,0 +1,75 @@
+{
+  "id": 1243103545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48409,40.20772,21.48409,40.20772",
+    "geom:latitude":40.20772,
+    "geom:longitude":21.48409,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Kokkinia",
+    "gn:country_code":"GR",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735664,
+    "gn:latitude":40.20772,
+    "gn:longitude":21.48409,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kokkini\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Seubino",
+        "S\u00fabino",
+        "Kokkini\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735664
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"43f587cb83c286dd12d67d2796f3b212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243103545,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1243103545,
+    "wof:lastmodified":1537624916,
+    "wof:name":"Kokkinia",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48409,
+    40.20772,
+    21.48409,
+    40.20772
+],
+  "geometry": {"coordinates":[21.48409,40.20772],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259720493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07609,35.07073,25.07609,35.07073",
+    "geom:latitude":35.07073,
+    "geom:longitude":25.07609,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9304",
+    "gn:asciiname":"Atsipades",
+    "gn:country_code":"GR",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264361,
+    "gn:latitude":35.07073,
+    "gn:longitude":25.07609,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Atsip\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Atsip\u00e1des"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c4\u03c3\u03b9\u03c0\u03ac\u03b4\u03b5\u03c2",
+        "Atsip\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264361
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d56d41c9445fb3319cdc2846265f6b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259720493,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259720493,
+    "wof:lastmodified":1537624723,
+    "wof:name":"Atsipades",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07609,
+    35.07073,
+    25.07609,
+    35.07073
+],
+  "geometry": {"coordinates":[25.07609,35.07073],"type":"Point"}
+}

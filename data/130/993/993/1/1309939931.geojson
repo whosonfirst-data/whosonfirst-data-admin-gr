@@ -1,0 +1,76 @@
+{
+  "id": 1309939931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73639,38.13592,20.73639,38.13592",
+    "geom:latitude":38.13592,
+    "geom:longitude":20.73639,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Kampitsata",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261232,
+    "gn:latitude":38.13592,
+    "gn:longitude":20.73639,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kampits\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kampits\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bc\u03c0\u03b9\u03c4\u03c3\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kambits\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261232
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e6607995c5a06347427b0997b45e6552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309939931,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1309939931,
+    "wof:lastmodified":1537624580,
+    "wof:name":"Kampitsata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73639,
+    38.13592,
+    20.73639,
+    38.13592
+],
+  "geometry": {"coordinates":[20.73639,38.13592],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209749437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75117,38.09486,20.75117,38.09486",
+    "geom:latitude":38.09486,
+    "geom:longitude":20.75117,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Pastra",
+    "gn:country_code":"GR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255703,
+    "gn:latitude":38.09486,
+    "gn:longitude":20.75117,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"P\u00e1stra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03c3\u03c4\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "P\u00e1stra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255703,
+        "wk:page":"Pastra"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cd8e6c0e9141c86f4b686fe059e26f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209749437,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1209749437,
+    "wof:lastmodified":1537624317,
+    "wof:name":"Pastra",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75117,
+    38.09486,
+    20.75117,
+    38.09486
+],
+  "geometry": {"coordinates":[20.75117,38.09486],"type":"Point"}
+}

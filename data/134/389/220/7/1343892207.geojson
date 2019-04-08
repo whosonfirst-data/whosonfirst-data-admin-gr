@@ -1,0 +1,76 @@
+{
+  "id": 1343892207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65561,39.7361,19.65561,39.7361",
+    "geom:latitude":39.7361,
+    "geom:longitude":19.65561,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Afionitika",
+    "gn:country_code":"GR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165893,
+    "gn:latitude":39.7361,
+    "gn:longitude":19.65561,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Afion\u00edtika",
+    "gn:population":3,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c6\u03b9\u03c9\u03bd\u03af\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Afionitika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165893
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4057beee52af92309047519abda548cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343892207,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1343892207,
+    "wof:lastmodified":1537625048,
+    "wof:name":"Afionitika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65561,
+    39.7361,
+    19.65561,
+    39.7361
+],
+  "geometry": {"coordinates":[19.65561,39.7361],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259618183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03602,37.58392,26.03602,37.58392",
+    "geom:latitude":37.58392,
+    "geom:longitude":26.03602,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Kouniadoi",
+    "gn:country_code":"GR",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259049,
+    "gn:latitude":37.58392,
+    "gn:longitude":26.03602,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Kouni\u00e1doi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kouni\u00e1doi"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bd\u03b9\u03ac\u03b4\u03bf\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Kouni\u00e1dhoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259049
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f554ec380e0fa78406ab1395f34b715a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1259618183,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259618183,
+    "wof:lastmodified":1537624477,
+    "wof:name":"Kouniadoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03602,
+    37.58392,
+    26.03602,
+    37.58392
+],
+  "geometry": {"coordinates":[26.03602,37.58392],"type":"Point"}
+}

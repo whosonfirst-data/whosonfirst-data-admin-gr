@@ -1,0 +1,78 @@
+{
+  "id": 1242613959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28903,40.36309,23.28903,40.36309",
+    "geom:latitude":40.36309,
+    "geom:longitude":23.28903,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9058",
+    "gn:asciiname":"Mikri Vavdos",
+    "gn:country_code":"GR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735109,
+    "gn:latitude":40.36309,
+    "gn:longitude":23.28903,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Mikr\u00ed V\u00e1vdos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mikr\u00ed V\u00e1vdos"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03ae \u0392\u03ac\u03b2\u03b4\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ak-Bun\u00e1r",
+        "Mikr\u00f3s V\u00e1rdhos",
+        "Mikr\u00f3s V\u00e1vdhos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735109
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"346301713c9f7a004f1163430169d7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242613959,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1242613959,
+    "wof:lastmodified":1537624880,
+    "wof:name":"Mikri Vavdos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28903,
+    40.36309,
+    23.28903,
+    40.36309
+],
+  "geometry": {"coordinates":[23.28903,40.36309],"type":"Point"}
+}

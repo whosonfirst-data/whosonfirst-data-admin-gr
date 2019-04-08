@@ -1,0 +1,73 @@
+{
+  "id": 1327170241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.10675,37.45491,23.10675,37.45491",
+    "geom:latitude":37.45491,
+    "geom:longitude":23.10675,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9235.0",
+    "gn:asciiname":"Agios Ioannis Salantiou",
+    "gn:country_code":"GR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129634,
+    "gn:latitude":37.45491,
+    "gn:longitude":23.10675,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Io\u00e1nnis Salant\u00edou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Io\u00e1nnis Salant\u00edou"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a3\u03b1\u03bb\u03b1\u03bd\u03c4\u03af\u03bf\u03c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129634
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e8b5543f72ad6f25093cb4fd341fa76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170241,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327170241,
+    "wof:lastmodified":1537625112,
+    "wof:name":"Agios Ioannis Salantiou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.10675,
+    37.45491,
+    23.10675,
+    37.45491
+],
+  "geometry": {"coordinates":[23.10675,37.45491],"type":"Point"}
+}

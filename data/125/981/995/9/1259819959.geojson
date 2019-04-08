@@ -1,0 +1,79 @@
+{
+  "id": 1259819959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76785,41.06131,25.76785,41.06131",
+    "geom:latitude":41.06131,
+    "geom:longitude":25.76785,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022",
+    "gn:asciiname":"Kizari",
+    "gn:country_code":"GR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735700,
+    "gn:latitude":41.06131,
+    "gn:longitude":25.76785,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kiz\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kiz\u00e1ri"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03b6\u03ac\u03c1\u03b9",
+        "\u039a\u03b9\u03b6\u03ac\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "K\u00edzeri",
+        "Kisl\u00e1ri",
+        "Kiz\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735700
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5cf50bd9db7b6034a8e93529934184a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259819959,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1259819959,
+    "wof:lastmodified":1537624919,
+    "wof:name":"Kizari",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76785,
+    41.06131,
+    25.76785,
+    41.06131
+],
+  "geometry": {"coordinates":[25.76785,41.06131],"type":"Point"}
+}

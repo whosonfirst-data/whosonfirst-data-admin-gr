@@ -1,0 +1,74 @@
+{
+  "id": 1209551833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.334,39.43275,22.334,39.43275",
+    "geom:latitude":39.43275,
+    "geom:longitude":22.334,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9099",
+    "gn:asciiname":"Agia Paraskevi",
+    "gn:country_code":"GR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264175,
+    "gn:latitude":39.43275,
+    "gn:longitude":22.334,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ag\u00eda Paraskev\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ag\u00eda Paraskev\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00edpa",
+        "Karaj\u00f3li",
+        "Ay\u00eda Paraskev\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264175
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3d914f34ea064ff714531db3c4c8c91d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209551833
+        }
+    ],
+    "wof:id":1209551833,
+    "wof:lastmodified":1537624716,
+    "wof:name":"Agia Paraskevi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.334,
+    39.43275,
+    22.334,
+    39.43275
+],
+  "geometry": {"coordinates":[22.334,39.43275],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310635115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94246,39.47022,19.94246,39.47022",
+    "geom:latitude":39.47022,
+    "geom:longitude":19.94246,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Psaras",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732767,
+    "gn:latitude":39.47022,
+    "gn:longitude":19.94246,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Psar\u00e1s",
+    "gn:population":152,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a8\u03b1\u03c1\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Psaras"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732767
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a7894c0f538c06fb14be825384c16183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310635115,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1310635115,
+    "wof:lastmodified":1537625000,
+    "wof:name":"Psaras",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94246,
+    39.47022,
+    19.94246,
+    39.47022
+],
+  "geometry": {"coordinates":[19.94246,39.47022],"type":"Point"}
+}

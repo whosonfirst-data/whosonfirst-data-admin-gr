@@ -1,0 +1,106 @@
+{
+  "id": 1126030837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87417,39.41111,20.87417,39.41111",
+    "geom:latitude":39.41111,
+    "geom:longitude":20.87417,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":436,
+    "gn:population":281,
+    "iso:country":"GR",
+    "lbl:latitude":39.41111,
+    "lbl:longitude":20.87417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u03a4\u03ad\u03c1\u03c1\u03bf\u03b2\u03bf\u03bd",
+        "\u03a4\u03ad\u03c1\u03c1\u03bf\u03b2\u03bf"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03c1\u03bf\u03b2\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03ad\u03c1\u03bf\u03b2\u03bf\u03bd",
+        "\u03a4\u03ad\u03c1\u03c1\u03bf\u03b2\u03bf\u03bd",
+        "\u03a4\u03ad\u03c1\u03c1\u03bf\u03b2\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Terovo"
+    ],
+    "name:unk_x_variant":[
+        "T\u00e9rrovon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":252994,
+    "qs_pg:gn_pop":436,
+    "qs_pg:name":"Terovon",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":256216,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":963203,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252994,
+        "gp:id":963203,
+        "qs_pg:id":256216
+    },
+    "wof:country":"GR",
+    "wof:created":1497301460,
+    "wof:geomhash":"ec7b97f106f27d97eb78204cde336108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126030837,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126030837,
+    "wof:lastmodified":1509407902,
+    "wof:name":"Terovon",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87417,
+    39.41111,
+    20.87417,
+    39.41111
+],
+  "geometry": {"coordinates":[20.87417,39.41111],"type":"Point"}
+}

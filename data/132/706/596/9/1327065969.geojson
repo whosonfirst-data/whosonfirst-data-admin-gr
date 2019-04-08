@@ -1,0 +1,76 @@
+{
+  "id": 1327065969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29722,35.31887,25.29722,35.31887",
+    "geom:latitude":35.31887,
+    "geom:longitude":25.29722,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9309.0",
+    "gn:asciiname":"Kalivomouris",
+    "gn:country_code":"GR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10859318,
+    "gn:latitude":35.31887,
+    "gn:longitude":25.29722,
+    "gn:modification_date":"2015-10-26",
+    "gn:name":"Kalivomo\u00faris",
+    "gn:population":29,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b9\u03b2\u03bf\u03bc\u03bf\u03cd\u03c1\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kalivomouris"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10859318
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7625a857154d263bbcb58989b86b87e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327065969,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327065969,
+    "wof:lastmodified":1537625093,
+    "wof:name":"Kalivomouris",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29722000000001,
+    35.31887000000001,
+    25.29722000000001,
+    35.31887000000001
+],
+  "geometry": {"coordinates":[25.29722000000001,35.31887000000001],"type":"Point"}
+}

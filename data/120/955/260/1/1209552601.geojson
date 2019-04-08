@@ -1,0 +1,72 @@
+{
+  "id": 1209552601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10889,38.38056,24.10889,38.38056",
+    "geom:latitude":38.38056,
+    "geom:longitude":24.10889,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Koutoumoulas",
+    "gn:country_code":"GR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258964,
+    "gn:latitude":38.38056,
+    "gn:longitude":24.10889,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Koutoumoul\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c4\u03bf\u03c5\u03bc\u03bf\u03c5\u03bb\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Koutsoumo\u00fala",
+        "Koutoumoul\u00e1s",
+        "Koutoumoul\u00e1",
+        "Koutoumal\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258964
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"05fcb242c207a279678a8dd245a9a0cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209552601
+        }
+    ],
+    "wof:id":1209552601,
+    "wof:lastmodified":1537624473,
+    "wof:name":"Koutoumoulas",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10889,
+    38.38056,
+    24.10889,
+    38.38056
+],
+  "geometry": {"coordinates":[24.10889,38.38056],"type":"Point"}
+}

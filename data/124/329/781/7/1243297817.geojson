@@ -1,0 +1,73 @@
+{
+  "id": 1243297817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71667,39.15,22.71667,39.15",
+    "geom:latitude":39.15,
+    "geom:longitude":22.71667,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Amigdhalon",
+    "gn:country_code":"GR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":265164,
+    "gn:latitude":39.15,
+    "gn:longitude":22.71667,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Am\u00edgdhalon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03cd\u03b3\u03b4\u03b1\u03bb\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Amygdalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265164
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bc8da372076d0aaea11934c52f272d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243297817,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243297817,
+    "wof:lastmodified":1537624762,
+    "wof:name":"Amigdhalon",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71667,
+    39.15,
+    22.71667,
+    39.15
+],
+  "geometry": {"coordinates":[22.71667,39.15],"type":"Point"}
+}

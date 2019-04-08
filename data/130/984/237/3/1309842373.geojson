@@ -1,0 +1,77 @@
+{
+  "id": 1309842373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99639,41.11223,23.99639,41.11223",
+    "geom:latitude":41.11223,
+    "geom:longitude":23.99639,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9005",
+    "gn:asciiname":"Megalokampos",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735259,
+    "gn:latitude":41.11223,
+    "gn:longitude":23.99639,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Megal\u00f3kampos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Megal\u00f3kampos"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03b3\u03b1\u03bb\u03cc\u03ba\u03b1\u03bc\u03c0\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Meg\u00e1lo Sividr\u00edk",
+        "Megal\u00f3kambos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735259
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ef2a16c86d6a733bd0529bcc1442dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309842373,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1309842373,
+    "wof:lastmodified":1537624891,
+    "wof:name":"Megalokampos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99639,
+    41.11223,
+    23.99639,
+    41.11223
+],
+  "geometry": {"coordinates":[23.99639,41.11223],"type":"Point"}
+}

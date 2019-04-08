@@ -1,0 +1,80 @@
+{
+  "id": 1259714975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93978,38.0685,21.93978,38.0685",
+    "geom:latitude":38.0685,
+    "geom:longitude":21.93978,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Mikros Pontias",
+    "gn:country_code":"GR",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257009,
+    "gn:latitude":38.0685,
+    "gn:longitude":21.93978,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mikr\u00f3s Ponti\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mikr\u00f3s Ponti\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03c2 \u03a0\u03bf\u03bd\u03c4\u03b9\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Bondi\u00e1",
+        "Pondi\u00e1s Mikr\u00f3s",
+        "Mikr\u00f3n Pondi\u00e1s",
+        "Mikr\u00ed Poundi\u00e1",
+        "Mikr\u00f3s Pondi\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257009
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3a49dd2db230b9e16a5f60946c2e2730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259714975,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1259714975,
+    "wof:lastmodified":1537624382,
+    "wof:name":"Mikros Pontias",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93978,
+    38.0685,
+    21.93978,
+    38.0685
+],
+  "geometry": {"coordinates":[21.93978,38.0685],"type":"Point"}
+}

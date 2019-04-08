@@ -1,0 +1,102 @@
+{
+  "id": 1125828937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56667,35.41667,23.56667,35.41667",
+    "geom:latitude":35.41667,
+    "geom:longitude":23.56667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":125,
+    "iso:country":"GR",
+    "lbl:latitude":35.41667,
+    "lbl:longitude":23.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03c6\u03b7\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c6\u03b7\u03bd\u03ac\u03c1\u03b9\u03bf\u03bd",
+        "\u03a3\u03c6\u03b9\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Sfinari"
+    ],
+    "name:unk_x_variant":[
+        "Sfin\u00e1ri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253953,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sfinari",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1169638,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":961773,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253953,
+        "gp:id":961773,
+        "qs_pg:id":1169638
+    },
+    "wof:country":"GR",
+    "wof:created":1497292405,
+    "wof:geomhash":"49d363c61211df618145f3afbbe6009c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125828937,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125828937,
+    "wof:lastmodified":1509394548,
+    "wof:name":"Sfinari",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":125,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56667,
+    35.41667,
+    23.56667,
+    35.41667
+],
+  "geometry": {"coordinates":[23.56667,35.41667],"type":"Point"}
+}

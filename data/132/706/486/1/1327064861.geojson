@@ -1,0 +1,76 @@
+{
+  "id": 1327064861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40328,38.73214,21.40328,38.73214",
+    "geom:latitude":38.73214,
+    "geom:longitude":21.40328,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Ayia Varvara Saryiadhas",
+    "gn:country_code":"GR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781714,
+    "gn:latitude":38.73214,
+    "gn:longitude":21.40328,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Ay\u00eda Varv\u00e1ra Saryi\u00e1dhas",
+    "gn:population":48,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1 \u03a3\u03b1\u03c1\u03b3\u03b9\u03ac\u03b4\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Varvara Sargiadas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781714
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a11e311bbd4f1bfbe4df3daf009b6c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327064861,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1327064861,
+    "wof:lastmodified":1537625077,
+    "wof:name":"Ayia Varvara Saryiadhas",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40328,
+    38.73214,
+    21.40328,
+    38.73214
+],
+  "geometry": {"coordinates":[21.40328,38.73214],"type":"Point"}
+}

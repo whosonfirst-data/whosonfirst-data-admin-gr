@@ -1,0 +1,80 @@
+{
+  "id": 1243397365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56486,39.66517,20.56486,39.66517",
+    "geom:latitude":39.66517,
+    "geom:longitude":20.56486,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9083",
+    "gn:asciiname":"Seltsana",
+    "gn:country_code":"GR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254009,
+    "gn:latitude":39.66517,
+    "gn:longitude":20.56486,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"S\u00e9ltsana",
+    "gn:population":17,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bb\u03c4\u03c3\u03b1\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Seltsana"
+    ],
+    "name:und_x_variant":[
+        "S\u00e9ltsiana",
+        "S\u00e9ltsana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254009
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"13829bc899d0133382f3c03ca4786246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243397365,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1243397365,
+    "wof:lastmodified":1537624249,
+    "wof:name":"Seltsana",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56486,
+    39.66517,
+    20.56486,
+    39.66517
+],
+  "geometry": {"coordinates":[20.56486,39.66517],"type":"Point"}
+}

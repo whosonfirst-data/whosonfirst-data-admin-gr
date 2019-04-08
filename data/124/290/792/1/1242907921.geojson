@@ -1,0 +1,80 @@
+{
+  "id": 1242907921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.65275,38.76881,20.65275,38.76881",
+    "geom:latitude":38.76881,
+    "geom:longitude":20.65275,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Pigadhisanoi",
+    "gn:country_code":"GR",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255326,
+    "gn:latitude":38.76881,
+    "gn:longitude":20.65275,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Pigadhis\u00e1noi",
+    "gn:population":157,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b7\u03b3\u03b1\u03b4\u03b7\u03c3\u03ac\u03bd\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pigadisanoi"
+    ],
+    "name:und_x_variant":[
+        "Pigadhisi\u00e1noi",
+        "Pigadhis\u00e1noi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255326
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"be7eb321b7d54524cfc83329691211e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242907921,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1242907921,
+    "wof:lastmodified":1537624300,
+    "wof:name":"Pigadhisanoi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.65275,
+    38.76881,
+    20.65275,
+    38.76881
+],
+  "geometry": {"coordinates":[20.65275,38.76881],"type":"Point"}
+}

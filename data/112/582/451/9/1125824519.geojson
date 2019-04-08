@@ -1,0 +1,92 @@
+{
+  "id": 1125824519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77278,39.45222,20.77278,39.45222",
+    "geom:latitude":39.45222,
+    "geom:longitude":20.77278,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":66,
+    "gn:population":23,
+    "iso:country":"GR",
+    "lbl:latitude":39.45222,
+    "lbl:longitude":20.77278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03bb\u03b1\u03b4\u03b9\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c7\u03bb\u03b1\u03b4\u03ad\u03b1\u03b9",
+        "\u0391\u03c7\u03bb\u03b1\u03b4\u03ad\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Achladies"
+    ],
+    "name:eng_x_variant":[
+        "Achladees"
+    ],
+    "name:unk_x_variant":[
+        "Tosk\u00e9sion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":265457,
+    "qs_pg:gn_pop":66,
+    "qs_pg:name":"Achlad\u00e9ai",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":79844,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265457,
+        "qs_pg:id":79844
+    },
+    "wof:country":"GR",
+    "wof:created":1497292216,
+    "wof:geomhash":"e55ec3c776bf04df8f54860d9a831b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125824519,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125824519,
+    "wof:lastmodified":1509394324,
+    "wof:name":"Achlad\u00e9ai",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77278,
+    39.45222,
+    20.77278,
+    39.45222
+],
+  "geometry": {"coordinates":[20.77278,39.45222],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226376629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01374,37.83404,23.01374,37.83404",
+    "geom:latitude":37.83404,
+    "geom:longitude":23.01374,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9243",
+    "gn:asciiname":"Ano Almyri",
+    "gn:country_code":"GR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264966,
+    "gn:latitude":37.83404,
+    "gn:longitude":23.01374,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"\u00c1no Almyr\u00ed",
+    "gn:population":35,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u0391\u03bb\u03bc\u03c5\u03c1\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Almyri"
+    ],
+    "name:und_x_variant":[
+        "Ano Almiri"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264966
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cbc786f70291449a289139f90d440210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226376629,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226376629,
+    "wof:lastmodified":1537624753,
+    "wof:name":"Ano Almyri",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01374,
+    37.83404,
+    23.01374,
+    37.83404
+],
+  "geometry": {"coordinates":[23.01374,37.83404],"type":"Point"}
+}

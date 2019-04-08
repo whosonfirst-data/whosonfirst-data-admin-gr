@@ -1,0 +1,71 @@
+{
+  "id": 1209546905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38479,41.19085,25.38479,41.19085",
+    "geom:latitude":41.19085,
+    "geom:longitude":25.38479,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9020",
+    "gn:asciiname":"Folia",
+    "gn:country_code":"GR",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":736224,
+    "gn:latitude":41.19085,
+    "gn:longitude":25.38479,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Foli\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a6\u03c9\u03bb\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Buvanjil\u00ed",
+        "Foli\u00e1",
+        "Fole\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736224
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"671e2a762939257b5b17676b4b3e81dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209546905
+        }
+    ],
+    "wof:id":1209546905,
+    "wof:lastmodified":1537624945,
+    "wof:name":"Folia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38479,
+    41.19085,
+    25.38479,
+    41.19085
+],
+  "geometry": {"coordinates":[25.38479,41.19085],"type":"Point"}
+}

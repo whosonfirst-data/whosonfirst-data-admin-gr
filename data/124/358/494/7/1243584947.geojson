@@ -1,0 +1,76 @@
+{
+  "id": 1243584947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38336,38.13994,22.38336,38.13994",
+    "geom:latitude":38.13994,
+    "geom:longitude":22.38336,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Mavra Litharia",
+    "gn:country_code":"GR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257574,
+    "gn:latitude":38.13994,
+    "gn:longitude":22.38336,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"M\u00e1vra Lith\u00e1ria",
+    "gn:population":34,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03cd\u03c1\u03b1 \u039b\u03b9\u03b8\u03ac\u03c1\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mavra Litharia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257574
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63369ef7221b130baf183f6133834b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243584947,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243584947,
+    "wof:lastmodified":1537624410,
+    "wof:name":"Mavra Litharia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38336,
+    38.13994,
+    22.38336,
+    38.13994
+],
+  "geometry": {"coordinates":[22.38336,38.13994],"type":"Point"}
+}

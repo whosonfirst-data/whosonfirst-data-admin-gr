@@ -1,0 +1,83 @@
+{
+  "id": 1226379533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11681,34.84911,24.11681,34.84911",
+    "geom:latitude":34.84911,
+    "geom:longitude":24.11681,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9320",
+    "gn:asciiname":"Karave",
+    "gn:country_code":"GR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261528,
+    "gn:latitude":34.84911,
+    "gn:longitude":24.11681,
+    "gn:modification_date":"2015-09-21",
+    "gn:name":"Karav\u00e9",
+    "gn:population":21,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03b2\u03ad"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b1\u03b2\u03ad\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Karave"
+    ],
+    "name:und_x_variant":[
+        "Karav\u00e9",
+        "Kaleryian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261528
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"64d5745bed3623ce84bcd4e197c88485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226379533,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226379533,
+    "wof:lastmodified":1537624596,
+    "wof:name":"Karave",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11681,
+    34.84911,
+    24.11681,
+    34.84911
+],
+  "geometry": {"coordinates":[24.11681,34.84911],"type":"Point"}
+}

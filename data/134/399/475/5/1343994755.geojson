@@ -1,0 +1,73 @@
+{
+  "id": 1343994755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05252,36.51918,23.05252,36.51918",
+    "geom:latitude":36.51918,
+    "geom:longitude":23.05252,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9251",
+    "gn:asciiname":"Oikonomianika",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256340,
+    "gn:latitude":36.51918,
+    "gn:longitude":23.05252,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Oikonomi\u00e1nika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Oikonomi\u00e1nika"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256340
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"26655e70d681b055657bc304ea789756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343994755,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343994755,
+    "wof:lastmodified":1537624348,
+    "wof:name":"Oikonomianika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05252,
+    36.51918,
+    23.05252,
+    36.51918
+],
+  "geometry": {"coordinates":[23.05252,36.51918],"type":"Point"}
+}

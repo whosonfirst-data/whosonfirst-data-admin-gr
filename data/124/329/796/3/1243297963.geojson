@@ -1,0 +1,74 @@
+{
+  "id": 1243297963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00892,37.12944,22.00892,37.12944",
+    "geom:latitude":37.12944,
+    "geom:longitude":22.00892,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9254",
+    "gn:asciiname":"Alonia",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265268,
+    "gn:latitude":37.12944,
+    "gn:longitude":22.00892,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Al\u00f3nia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Gorzogl\u00ed",
+        "Al\u00f3nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265268
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"683bbb3b240d0a69bb4403ee96d8c3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243297963,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243297963,
+    "wof:lastmodified":1537624770,
+    "wof:name":"Alonia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00892,
+    37.12944,
+    22.00892,
+    37.12944
+],
+  "geometry": {"coordinates":[22.00892,37.12944],"type":"Point"}
+}

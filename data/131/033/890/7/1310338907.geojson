@@ -1,0 +1,73 @@
+{
+  "id": 1310338907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55503,38.15987,20.55503,38.15987",
+    "geom:latitude":38.15987,
+    "geom:longitude":20.55503,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Troianata",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252574,
+    "gn:latitude":38.15987,
+    "gn:longitude":20.55503,
+    "gn:modification_date":"2014-06-22",
+    "gn:name":"Tro\u00efan\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trouyian\u00e1ta",
+        "Tro\u00efan\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252574,
+        "wk:page":"Troianata"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63bbb8dec0833a13b322a059607d6711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310338907,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1310338907,
+    "wof:lastmodified":1537624189,
+    "wof:name":"Troianata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55503,
+    38.15987,
+    20.55503,
+    38.15987
+],
+  "geometry": {"coordinates":[20.55503,38.15987],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310634661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36465,41.17135,24.36465,41.17135",
+    "geom:latitude":41.17135,
+    "geom:longitude":24.36465,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Mikrolivado",
+    "gn:country_code":"GR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735123,
+    "gn:latitude":41.17135,
+    "gn:longitude":24.36465,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Mikrol\u00edvado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mikrol\u00edvado"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03bf\u03bb\u03af\u03b2\u03b1\u03b4\u03bf",
+        "Mikrol\u00edvadon",
+        "\u039c\u03b9\u03ba\u03c1\u03bf\u03bb\u03af\u03b2\u03b1\u03b4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mikrol\u00edvadhon",
+        "Mikroliv\u00e1dhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735123
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fb7937c5349e74ee60003b77780450c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310634661,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1310634661,
+    "wof:lastmodified":1537624881,
+    "wof:name":"Mikrolivado",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36465,
+    41.17135,
+    24.36465,
+    41.17135
+],
+  "geometry": {"coordinates":[24.36465,41.17135],"type":"Point"}
+}

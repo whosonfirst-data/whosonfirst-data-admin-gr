@@ -1,0 +1,72 @@
+{
+  "id": 1209646705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37414,38.23858,20.37414,38.23858",
+    "geom:latitude":38.23858,
+    "geom:longitude":20.37414,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Damoulianata",
+    "gn:country_code":"GR",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263264,
+    "gn:latitude":38.23858,
+    "gn:longitude":20.37414,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Damoulian\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03bc\u03bf\u03c5\u03bb\u03b9\u03b1\u03bd\u03ac\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Dhamoulian\u00e1ta"
+    ],
+    "name:und_x_variant":[
+        "Damoulian\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263264
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"053a835e95fe51a6c18624548f48cfd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209646705
+        }
+    ],
+    "wof:id":1209646705,
+    "wof:lastmodified":1537624676,
+    "wof:name":"Damoulianata",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37414,
+    38.23858,
+    20.37414,
+    38.23858
+],
+  "geometry": {"coordinates":[20.37414,38.23858],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309840373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59972,39.26583,21.59972,39.26583",
+    "geom:latitude":39.26583,
+    "geom:longitude":21.59972,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9091",
+    "gn:asciiname":"Charis",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258875,
+    "gn:latitude":39.26583,
+    "gn:longitude":21.59972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u00e1ris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krani\u00e1",
+        "Krani\u00e1s",
+        "Ch\u00e1ris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258875
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"265c298106cbdbe610c393883896a9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309840373,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1309840373,
+    "wof:lastmodified":1537624469,
+    "wof:name":"Charis",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59972,
+    39.26583,
+    21.59972,
+    39.26583
+],
+  "geometry": {"coordinates":[21.59972,39.26583],"type":"Point"}
+}

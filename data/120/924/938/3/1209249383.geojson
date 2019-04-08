@@ -1,0 +1,76 @@
+{
+  "id": 1209249383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18333,40.35,23.18333,40.35",
+    "geom:latitude":40.35,
+    "geom:longitude":23.18333,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9058",
+    "gn:asciiname":"Mikralona",
+    "gn:country_code":"GR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":735141,
+    "gn:latitude":40.35,
+    "gn:longitude":23.18333,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Mikr\u00e1lona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u03a0\u03cc\u03b6\u03b1\u03bb\u03bf\u03bd"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03c1\u03ac\u03bb\u03c9\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cc\u03b6\u03b1\u03bb\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "P\u00f3zalon",
+        "Mikr\u00e1lona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735141
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ff3994908aec40fa36003348f57b6fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209249383
+        }
+    ],
+    "wof:id":1209249383,
+    "wof:lastmodified":1537624883,
+    "wof:name":"Mikralona",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18333,
+    40.35,
+    23.18333,
+    40.35
+],
+  "geometry": {"coordinates":[23.18333,40.35],"type":"Point"}
+}

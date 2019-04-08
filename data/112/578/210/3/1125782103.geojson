@@ -1,0 +1,97 @@
+{
+  "id": 1125782103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78333,38.88333,22.78333,38.88333",
+    "geom:latitude":38.88333,
+    "geom:longitude":22.78333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":593,
+    "iso:country":"GR",
+    "lbl:latitude":38.88333,
+    "lbl:longitude":22.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03c7\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Raches"
+    ],
+    "name:unk_x_variant":[
+        "Raches"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254410,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rakhai",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1160928,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":960992,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254410,
+        "gp:id":960992,
+        "qs_pg:id":1160928
+    },
+    "wof:country":"GR",
+    "wof:created":1497290528,
+    "wof:geomhash":"b6b4805fda66fc547d7c13585648badd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125782103,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1125782103,
+    "wof:lastmodified":1509391648,
+    "wof:name":"Rakhai",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":593,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78333,
+    38.88333,
+    22.78333,
+    38.88333
+],
+  "geometry": {"coordinates":[22.78333,38.88333],"type":"Point"}
+}

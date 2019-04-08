@@ -1,0 +1,78 @@
+{
+  "id": 1260317431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30167,40.70504,21.30167,40.70504",
+    "geom:latitude":40.70504,
+    "geom:longitude":21.30167,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Koryfi",
+    "gn:country_code":"GR",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":735619,
+    "gn:latitude":40.70504,
+    "gn:longitude":21.30167,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Koryf\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03c5\u03c6\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Koryfi"
+    ],
+    "name:und_x_variant":[
+        "To\u00faria",
+        "Korif\u00ed",
+        "Koryf\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735619
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"51f2e95cca0ef71c60e777559423a4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260317431,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1260317431,
+    "wof:lastmodified":1537624914,
+    "wof:name":"Koryfi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30167,
+    40.70504,
+    21.30167,
+    40.70504
+],
+  "geometry": {"coordinates":[21.30167,40.70504],"type":"Point"}
+}

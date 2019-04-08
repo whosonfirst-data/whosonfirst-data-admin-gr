@@ -1,0 +1,76 @@
+{
+  "id": 1242714487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7006,37.89697,20.7006,37.89697",
+    "geom:latitude":37.89697,
+    "geom:longitude":20.7006,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Askos",
+    "gn:country_code":"GR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166423,
+    "gn:latitude":37.89697,
+    "gn:longitude":20.7006,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Ask\u00f3s",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ba\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Askos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166423
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c87cae2ac0932f9cd5b55a4afab0767d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242714487,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1242714487,
+    "wof:lastmodified":1537625052,
+    "wof:name":"Askos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7006,
+    37.89697,
+    20.7006,
+    37.89697
+],
+  "geometry": {"coordinates":[20.7006,37.89697],"type":"Point"}
+}

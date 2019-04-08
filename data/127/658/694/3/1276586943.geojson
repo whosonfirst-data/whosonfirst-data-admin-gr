@@ -1,0 +1,74 @@
+{
+  "id": 1276586943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31289,35.10336,25.31289,35.10336",
+    "geom:latitude":35.10336,
+    "geom:longitude":25.31289,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Kasanos",
+    "gn:country_code":"GR",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260857,
+    "gn:latitude":35.10336,
+    "gn:longitude":25.31289,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Kas\u00e1nos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03ac\u03bd\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kass\u00e1noi",
+        "Kas\u00e1nos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260857
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ba5ee990cd8af7c9ac0cfb9d6c52804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276586943,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276586943,
+    "wof:lastmodified":1537624562,
+    "wof:name":"Kasanos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31289,
+    35.10336,
+    25.31289,
+    35.10336
+],
+  "geometry": {"coordinates":[25.31289,35.10336],"type":"Point"}
+}

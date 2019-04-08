@@ -1,0 +1,79 @@
+{
+  "id": 1259614805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66264,37.66768,22.66264,37.66768",
+    "geom:latitude":37.66768,
+    "geom:longitude":22.66264,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9233",
+    "gn:asciiname":"Chantakia",
+    "gn:country_code":"GR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257370,
+    "gn:latitude":37.66768,
+    "gn:longitude":22.66264,
+    "gn:modification_date":"2014-07-30",
+    "gn:name":"Chant\u00e1kia",
+    "gn:population":33,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03c4\u03ac\u03ba\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Chantakia"
+    ],
+    "name:und_x_variant":[
+        "Hantakia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257370
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fbd42dd3d16061c91ce91e582ca96357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259614805,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1259614805,
+    "wof:lastmodified":1537625055,
+    "wof:name":"Chantakia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66264,
+    37.66768,
+    22.66264,
+    37.66768
+],
+  "geometry": {"coordinates":[22.66264,37.66768],"type":"Point"}
+}

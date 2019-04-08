@@ -1,0 +1,107 @@
+{
+  "id": 1126008383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45833,39.34722,21.45833,39.34722",
+    "geom:latitude":39.34722,
+    "geom:longitude":21.45833,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":270,
+    "gn:population":270,
+    "iso:country":"GR",
+    "lbl:latitude":39.34722,
+    "lbl:longitude":21.45833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Anthiro"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b8\u03b7\u03c1\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Anthiro"
+    ],
+    "name:fin_x_preferred":[
+        "Anthir\u00f3"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03b8\u03b7\u03c1\u03cc \u0391\u03c1\u03b3\u03b9\u03b8\u03ad\u03b1\u03c2 \u039a\u03b1\u03c1\u03b4\u03af\u03c4\u03c3\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "Anthir\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "Antiro"
+    ],
+    "name:rum_x_preferred":[
+        "Anthiro"
+    ],
+    "name:swe_x_preferred":[
+        "Anthir\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Anther\u00f3n"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":264792,
+    "qs_pg:gn_pop":270,
+    "qs_pg:name":"Anthir\u00f3",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546933,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264792,
+        "qs_pg:id":546933,
+        "wd:id":"Q3564796"
+    },
+    "wof:country":"GR",
+    "wof:created":1497300118,
+    "wof:geomhash":"b3cbadbbb7cc08b50c04e311bedc16ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126008383,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126008383,
+    "wof:lastmodified":1514443920,
+    "wof:name":"Anthir\u00f3",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45833,
+    39.34722,
+    21.45833,
+    39.34722
+],
+  "geometry": {"coordinates":[21.45833,39.34722],"type":"Point"}
+}

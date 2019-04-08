@@ -1,0 +1,80 @@
+{
+  "id": 1209945329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12182,38.59567,22.12182,38.59567",
+    "geom:latitude":38.59567,
+    "geom:longitude":22.12182,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Diakopi",
+    "gn:country_code":"GR",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263149,
+    "gn:latitude":38.59567,
+    "gn:longitude":22.12182,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Diak\u00f3pi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Diak\u00f3pi"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03b1\u03ba\u03cc\u03c0\u03b9",
+        "Diak\u00f3pion",
+        "\u0394\u03b9\u03b1\u03ba\u03cc\u03c0\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Gran\u00edtsa",
+        "Dhiak\u00f3pi",
+        "Dhiak\u00f3pion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263149
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7d3c4969cd14f8ceded9b13c26321483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209945329,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1209945329,
+    "wof:lastmodified":1537624669,
+    "wof:name":"Diakopi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12182,
+    38.59567,
+    22.12182,
+    38.59567
+],
+  "geometry": {"coordinates":[22.12182,38.59567],"type":"Point"}
+}

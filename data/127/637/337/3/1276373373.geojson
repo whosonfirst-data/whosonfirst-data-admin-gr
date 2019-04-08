@@ -1,0 +1,74 @@
+{
+  "id": 1276373373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70808,38.07703,20.70808,38.07703",
+    "geom:latitude":38.07703,
+    "geom:longitude":20.70808,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Thiramonas",
+    "gn:country_code":"GR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252917,
+    "gn:latitude":38.07703,
+    "gn:longitude":20.70808,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Thir\u00e1monas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0398\u03b7\u03c1\u03ac\u03bc\u03bf\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Thiram\u00f3na",
+        "Thir\u00e1monas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252917
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"0ed9d52133b583e259036cad35a28d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373373,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1276373373,
+    "wof:lastmodified":1537624200,
+    "wof:name":"Thiramonas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70808,
+    38.07703,
+    20.70808,
+    38.07703
+],
+  "geometry": {"coordinates":[20.70808,38.07703],"type":"Point"}
+}

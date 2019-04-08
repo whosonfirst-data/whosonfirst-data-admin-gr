@@ -1,0 +1,80 @@
+{
+  "id": 1343298923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70052,35.46108,23.70052,35.46108",
+    "geom:latitude":35.46108,
+    "geom:longitude":23.70052,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Dermiziana",
+    "gn:country_code":"GR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252995,
+    "gn:latitude":35.46108,
+    "gn:longitude":23.70052,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Dermizian\u00e1",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03b5\u03c1\u03bc\u03b9\u03b6\u03b9\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Dermiziana"
+    ],
+    "name:und_x_variant":[
+        "Dermizian\u00e1",
+        "Termitzian\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252995
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5647c4eda8edd4cfedf2886c243600e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343298923,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343298923,
+    "wof:lastmodified":1537624202,
+    "wof:name":"Dermiziana",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70052,
+    35.46107999999999,
+    23.70052,
+    35.46107999999999
+],
+  "geometry": {"coordinates":[23.70052,35.46107999999999],"type":"Point"}
+}

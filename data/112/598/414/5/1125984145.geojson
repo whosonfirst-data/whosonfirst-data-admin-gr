@@ -1,0 +1,96 @@
+{
+  "id": 1125984145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59084,35.38317,24.59084,35.38317",
+    "geom:latitude":35.38317,
+    "geom:longitude":24.59084,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":678,
+    "iso:country":"GR",
+    "lbl:latitude":35.38317,
+    "lbl:longitude":24.59084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03c9\u03bc\u03ad\u03bd\u03bf\u03c2 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Stavromenos Rethymnis"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253259,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stavromenos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":994438,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962845,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253259,
+        "gp:id":962845,
+        "qs_pg:id":994438
+    },
+    "wof:country":"GR",
+    "wof:created":1497298721,
+    "wof:geomhash":"c1ed6b09d662a2c7db1fc4317d25bc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125984145,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125984145,
+    "wof:lastmodified":1509404959,
+    "wof:name":"Stavromenos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":678,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59084,
+    35.38317,
+    24.59084,
+    35.38317
+],
+  "geometry": {"coordinates":[24.59084,35.38317],"type":"Point"}
+}

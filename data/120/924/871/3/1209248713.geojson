@@ -1,0 +1,76 @@
+{
+  "id": 1209248713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.82404,35.12805,24.82404,35.12805",
+    "geom:latitude":35.12805,
+    "geom:longitude":24.82404,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308",
+    "gn:asciiname":"Magarikari",
+    "gn:country_code":"GR",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258016,
+    "gn:latitude":35.12805,
+    "gn:longitude":24.82404,
+    "gn:modification_date":"2015-11-25",
+    "gn:name":"Magarik\u00e1ri",
+    "gn:population":295,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03b1\u03c1\u03b9\u03ba\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Magarikari"
+    ],
+    "name:und_x_variant":[
+        "Magarik\u00e1ri",
+        "Magarik\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258016
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63e81c39dac25bc0e4c3c36505ce7488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248713
+        }
+    ],
+    "wof:id":1209248713,
+    "wof:lastmodified":1537624427,
+    "wof:name":"Magarikari",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":295,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.82404,
+    35.12805,
+    24.82404,
+    35.12805
+],
+  "geometry": {"coordinates":[24.82404,35.12805],"type":"Point"}
+}

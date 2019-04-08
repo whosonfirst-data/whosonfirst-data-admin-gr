@@ -1,0 +1,83 @@
+{
+  "id": 1360322387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9965,38.90918,21.9965,38.90918",
+    "geom:latitude":38.90918,
+    "geom:longitude":21.9965,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9162",
+    "gn:asciiname":"Levkas",
+    "gn:country_code":"GR",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258450,
+    "gn:latitude":38.90918,
+    "gn:longitude":21.9965,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Levk\u00e1s",
+    "gn:population":394,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c5\u03ba\u03ac\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c5\u03ba\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Lefkada"
+    ],
+    "name:und_x_variant":[
+        "Levk\u00e1s",
+        "L\u00e9vka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258450
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1289e9a0f0d1040b28f96e2d73c0f77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360322387,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1360322387,
+    "wof:lastmodified":1537624448,
+    "wof:name":"Levkas",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9965,
+    38.90918,
+    21.9965,
+    38.90918
+],
+  "geometry": {"coordinates":[21.9965,38.90918],"type":"Point"}
+}

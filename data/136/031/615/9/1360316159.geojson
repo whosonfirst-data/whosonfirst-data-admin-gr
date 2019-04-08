@@ -1,0 +1,74 @@
+{
+  "id": 1360316159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91316,37.72161,26.91316,37.72161",
+    "geom:latitude":37.72161,
+    "geom:longitude":26.91316,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9264",
+    "gn:asciiname":"Rizovrachos",
+    "gn:country_code":"GR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9383259,
+    "gn:latitude":37.72161,
+    "gn:longitude":26.91316,
+    "gn:modification_date":"2014-08-16",
+    "gn:name":"Rizovr\u00e1chos",
+    "gn:population":63,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b6\u03bf\u03b2\u03c1\u03ac\u03c7\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Rizovrachos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9383259
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b6d2f17c435b7c5c33691a79f426b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1360316159,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360316159,
+    "wof:lastmodified":1537625062,
+    "wof:name":"Rizovrachos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91316,
+    37.72161,
+    26.91316,
+    37.72161
+],
+  "geometry": {"coordinates":[26.91316,37.72161],"type":"Point"}
+}

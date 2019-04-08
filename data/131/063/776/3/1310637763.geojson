@@ -1,0 +1,85 @@
+{
+  "id": 1310637763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49468,35.33383,24.49468,35.33383",
+    "geom:latitude":35.33383,
+    "geom:longitude":24.49468,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Roussospiti",
+    "gn:country_code":"GR",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254179,
+    "gn:latitude":35.33383,
+    "gn:longitude":24.49468,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Roussosp\u00edti",
+    "gn:population":569,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03c3\u03c3\u03bf\u03c3\u03c0\u03af\u03c4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Roussosp\u00edti",
+        "\u03a1\u03bf\u03c5\u03c3\u03c3\u03bf\u03c3\u03c0\u03af\u03c4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Roussospiti"
+    ],
+    "name:und_x_variant":[
+        "Rousosp\u00edti",
+        "Roussosp\u00edtion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254179,
+        "wk:page":"Roussospiti"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"121f37217515d546a842b330da71ef87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310637763,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1310637763,
+    "wof:lastmodified":1537624255,
+    "wof:name":"Roussospiti",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":569,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49468,
+    35.33383,
+    24.49468,
+    35.33383
+],
+  "geometry": {"coordinates":[24.49468,35.33383],"type":"Point"}
+}

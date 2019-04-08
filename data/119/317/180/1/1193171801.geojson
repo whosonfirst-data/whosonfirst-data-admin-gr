@@ -1,0 +1,80 @@
+{
+  "id": 1193171801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9848,37.61954,22.9848,37.61954",
+    "geom:latitude":37.61954,
+    "geom:longitude":22.9848,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"36.0",
+    "gn:admin3_code":"9234",
+    "gn:asciiname":"Stamataiika",
+    "gn:country_code":"GR",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253301,
+    "gn:latitude":37.61954,
+    "gn:longitude":22.9848,
+    "gn:modification_date":"2014-07-31",
+    "gn:name":"Stamata\u00edika",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03bc\u03b1\u03c4\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Stamataiika"
+    ],
+    "name:und_x_variant":[
+        "Stamat\u00e9\u00efka",
+        "Stamata\u00edika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253301
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7a84bea248eab3de08b27ce8e291e332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193171801,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1193171801,
+    "wof:lastmodified":1537624214,
+    "wof:name":"Stamataiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9848,
+    37.61954,
+    22.9848,
+    37.61954
+],
+  "geometry": {"coordinates":[22.9848,37.61954],"type":"Point"}
+}

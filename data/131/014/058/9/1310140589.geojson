@@ -1,0 +1,79 @@
+{
+  "id": 1310140589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31745,36.98089,22.31745,36.98089",
+    "geom:latitude":36.98089,
+    "geom:longitude":22.31745,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9253",
+    "gn:asciiname":"Rintomo",
+    "gn:country_code":"GR",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254322,
+    "gn:latitude":36.98089,
+    "gn:longitude":22.31745,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"R\u00edntomo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "R\u00edntomo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03af\u03bd\u03c4\u03bf\u03bc\u03bf",
+        "R\u00edntomon",
+        "\u03a1\u03af\u03bd\u03c4\u03bf\u03bc\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "R\u00edndomo",
+        "R\u00edndomon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254322
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9b85bf811d8349b42e9a3d61d1dc12d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310140589,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310140589,
+    "wof:lastmodified":1537624263,
+    "wof:name":"Rintomo",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31745,
+    36.98089,
+    22.31745,
+    36.98089
+],
+  "geometry": {"coordinates":[22.31745,36.98089],"type":"Point"}
+}

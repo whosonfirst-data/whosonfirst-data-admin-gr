@@ -1,0 +1,79 @@
+{
+  "id": 1293815067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71858,35.14806,25.71858,35.14806",
+    "geom:latitude":35.14806,
+    "geom:longitude":25.71858,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Vathy",
+    "gn:country_code":"GR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608260,
+    "gn:latitude":35.14806,
+    "gn:longitude":25.71858,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Vath\u00fd",
+    "gn:population":211,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03b8\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Vathy"
+    ],
+    "name:und_x_variant":[
+        "Vath\u00fd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608260
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"674a7ed33b025f58b90cfefbbfdb9b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293815067,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293815067,
+    "wof:lastmodified":1537625028,
+    "wof:name":"Vathy",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71858,
+    35.14806,
+    25.71858,
+    35.14806
+],
+  "geometry": {"coordinates":[25.71858,35.14806],"type":"Point"}
+}

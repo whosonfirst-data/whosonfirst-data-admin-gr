@@ -1,0 +1,72 @@
+{
+  "id": 1209345953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47125,37.06308,25.47125,37.06308",
+    "geom:latitude":37.06308,
+    "geom:longitude":25.47125,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292.0",
+    "gn:asciiname":"Zoodochos Pigi",
+    "gn:country_code":"GR",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794138,
+    "gn:latitude":37.06308,
+    "gn:longitude":25.47125,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Zood\u00f3chos Pig\u00ed",
+    "gn:population":174,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03c9\u03bf\u03b4\u03cc\u03c7\u03bf\u03c2 \u03a0\u03b7\u03b3\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Zoodochos Pigi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794138
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a174611820e4da901d838fcb8e9ff77e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209345953
+        }
+    ],
+    "wof:id":1209345953,
+    "wof:lastmodified":1537625092,
+    "wof:name":"Zoodochos Pigi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47125,
+    37.06308,
+    25.47125,
+    37.06308
+],
+  "geometry": {"coordinates":[25.47125,37.06308],"type":"Point"}
+}

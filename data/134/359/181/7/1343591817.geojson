@@ -1,0 +1,80 @@
+{
+  "id": 1343591817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56033,39.28222,21.56033,39.28222",
+    "geom:latitude":39.28222,
+    "geom:longitude":21.56033,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9091",
+    "gn:asciiname":"Drosato",
+    "gn:country_code":"GR",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262874,
+    "gn:latitude":39.28222,
+    "gn:longitude":21.56033,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dros\u00e1to",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03c1\u03bf\u03c3\u03ac\u03c4\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03c1\u03bf\u03c3\u03ac\u03c4\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mez\u00edlon",
+        "Dhros\u00e1ton",
+        "Mez\u00edlo",
+        "Dros\u00e1to",
+        "Dros\u00e1ton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262874
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fc279cd83e5acec89da880d13559c9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343591817,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1343591817,
+    "wof:lastmodified":1537624653,
+    "wof:name":"Drosato",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56033,
+    39.28222,
+    21.56033,
+    39.28222
+],
+  "geometry": {"coordinates":[21.56033,39.28222],"type":"Point"}
+}

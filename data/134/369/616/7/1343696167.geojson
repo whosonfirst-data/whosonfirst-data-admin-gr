@@ -1,0 +1,67 @@
+{
+  "id": 1343696167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62929,35.23398,24.62929,35.23398",
+    "geom:latitude":35.23398,
+    "geom:longitude":24.62929,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Meronas",
+    "gn:country_code":"GR",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257251,
+    "gn:latitude":35.23398,
+    "gn:longitude":24.62929,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"M\u00e9ronas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257251
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a6e306824d3c7177d863ed0cab12c608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343696167,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343696167,
+    "wof:lastmodified":1536903741,
+    "wof:name":"Meronas",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62929,
+    35.23397999999999,
+    24.62929,
+    35.23397999999999
+],
+  "geometry": {"coordinates":[24.62929,35.23397999999999],"type":"Point"}
+}

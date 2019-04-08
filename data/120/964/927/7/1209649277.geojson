@@ -1,0 +1,70 @@
+{
+  "id": 1209649277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89187,41.20528,23.89187,41.20528",
+    "geom:latitude":41.20528,
+    "geom:longitude":23.89187,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9005",
+    "gn:asciiname":"Grammeni",
+    "gn:country_code":"GR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736162,
+    "gn:latitude":41.20528,
+    "gn:longitude":23.89187,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Gramm\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03bc\u03bc\u03ad\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Gram\u00e9nja",
+        "Gramm\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736162
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f213eef3b826b31a5186a9dc5f3dc480",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649277
+        }
+    ],
+    "wof:id":1209649277,
+    "wof:lastmodified":1537624943,
+    "wof:name":"Grammeni",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89187,
+    41.20528,
+    23.89187,
+    41.20528
+],
+  "geometry": {"coordinates":[23.89187,41.20528],"type":"Point"}
+}

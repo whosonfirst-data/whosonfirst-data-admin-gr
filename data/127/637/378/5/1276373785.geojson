@@ -1,0 +1,75 @@
+{
+  "id": 1276373785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03898,41.02873,25.03898,41.02873",
+    "geom:latitude":41.02873,
+    "geom:longitude":25.03898,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9015",
+    "gn:asciiname":"Potamia",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734495,
+    "gn:latitude":41.02873,
+    "gn:longitude":25.03898,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Potami\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac"
+    ],
+    "name:und_x_variant":[
+        "Chep\u00e9l-Chifl\u00edk",
+        "Potami\u00e1",
+        "Chepel Orman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734495
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"adf11c9a443d82542870f991bcf15d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276373785,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1276373785,
+    "wof:lastmodified":1537624844,
+    "wof:name":"Potamia",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03898,
+    41.02873,
+    25.03898,
+    41.02873
+],
+  "geometry": {"coordinates":[25.03898,41.02873],"type":"Point"}
+}

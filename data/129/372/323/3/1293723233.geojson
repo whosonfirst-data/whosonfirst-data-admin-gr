@@ -1,0 +1,73 @@
+{
+  "id": 1293723233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28476,37.93538,22.28476,37.93538",
+    "geom:latitude":37.93538,
+    "geom:longitude":22.28476,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Iera Moni Agiou Georgiou Feneou",
+    "gn:country_code":"GR",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9409184,
+    "gn:latitude":37.93538,
+    "gn:longitude":22.28476,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"Ier\u00e1 Mon\u00ed Ag\u00edou Georg\u00edou Feneo\u00fa",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03b5\u03c1\u03ac \u039c\u03bf\u03bd\u03ae \u0391\u03b3\u03af\u03bf\u03c5 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5 \u03a6\u03b5\u03bd\u03b5\u03bf\u03cd"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409184
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"01c36772fecfa4b7e974480263b0a14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293723233,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1293723233,
+    "wof:lastmodified":1537551188,
+    "wof:name":"Iera Moni Agiou Georgiou Feneou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28476,
+    37.93538,
+    22.28476,
+    37.93538
+],
+  "geometry": {"coordinates":[22.28476,37.93538],"type":"Point"}
+}

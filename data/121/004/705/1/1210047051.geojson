@@ -1,0 +1,73 @@
+{
+  "id": 1210047051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39528,39.01583,21.39528,39.01583",
+    "geom:latitude":39.01583,
+    "geom:longitude":21.39528,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9156",
+    "gn:asciiname":"Sivista",
+    "gn:country_code":"GR",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":253752,
+    "gn:latitude":39.01583,
+    "gn:longitude":21.39528,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Siv\u00edsta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Siv\u00edsta"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03b2\u03af\u03c3\u03c4\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253752
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b42f90c7b45ce8a5094686c4e640fbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210047051,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1210047051,
+    "wof:lastmodified":1537624235,
+    "wof:name":"Sivista",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39528,
+    39.01583,
+    21.39528,
+    39.01583
+],
+  "geometry": {"coordinates":[21.39528,39.01583],"type":"Point"}
+}

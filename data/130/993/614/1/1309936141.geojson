@@ -1,0 +1,77 @@
+{
+  "id": 1309936141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.87068,41.08174,24.87068,41.08174",
+    "geom:latitude":41.08174,
+    "geom:longitude":24.87068,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9017",
+    "gn:asciiname":"Lefki",
+    "gn:country_code":"GR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735448,
+    "gn:latitude":41.08174,
+    "gn:longitude":24.87068,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"L\u00e9fki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e9fki"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03cd\u03ba\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Bedel\u00ed-Chik",
+        "L\u00e9vki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735448
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6f72ff69d901a422be0eda01e9687bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309936141,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1309936141,
+    "wof:lastmodified":1537624904,
+    "wof:name":"Lefki",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.87068,
+    41.08174,
+    24.87068,
+    41.08174
+],
+  "geometry": {"coordinates":[24.87068,41.08174],"type":"Point"}
+}

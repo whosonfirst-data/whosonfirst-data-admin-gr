@@ -1,0 +1,83 @@
+{
+  "id": 1326661197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44036,39.70381,22.44036,39.70381",
+    "geom:latitude":39.70381,
+    "geom:longitude":22.44036,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9100",
+    "gn:asciiname":"Koulouri",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259104,
+    "gn:latitude":39.70381,
+    "gn:longitude":22.44036,
+    "gn:modification_date":"2015-10-22",
+    "gn:name":"Koulo\u00fari",
+    "gn:population":250,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bb\u03bf\u03cd\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bb\u03bf\u03cd\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Koulouri"
+    ],
+    "name:und_x_variant":[
+        "Koulo\u00fari",
+        "Koulo\u00farion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259104
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a0c7eca3a2dc83bd0c2fc9d7a1121cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326661197,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1326661197,
+    "wof:lastmodified":1537624480,
+    "wof:name":"Koulouri",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44036,
+    39.70381,
+    22.44036,
+    39.70381
+],
+  "geometry": {"coordinates":[22.44036,39.70381],"type":"Point"}
+}

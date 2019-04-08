@@ -1,0 +1,73 @@
+{
+  "id": 1209139689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54715,40.14761,21.54715,40.14761",
+    "geom:latitude":40.14761,
+    "geom:longitude":21.54715,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Mikrokleisoura",
+    "gn:country_code":"GR",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735127,
+    "gn:latitude":40.14761,
+    "gn:longitude":21.54715,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mikrokleiso\u00fara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mikrokleiso\u00fara"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Sadov\u00edtsa",
+        "Mikrokliso\u00fara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735127
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"173cec6b88832aa7b730aab418d40dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209139689
+        }
+    ],
+    "wof:id":1209139689,
+    "wof:lastmodified":1537624882,
+    "wof:name":"Mikrokleisoura",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54715,
+    40.14761,
+    21.54715,
+    40.14761
+],
+  "geometry": {"coordinates":[21.54715,40.14761],"type":"Point"}
+}

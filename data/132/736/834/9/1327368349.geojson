@@ -1,0 +1,76 @@
+{
+  "id": 1327368349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.181,38.37281,24.181,38.37281",
+    "geom:latitude":38.37281,
+    "geom:longitude":24.181,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Alonia",
+    "gn:country_code":"GR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261924,
+    "gn:latitude":38.37281,
+    "gn:longitude":24.181,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al\u00f3nia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Al\u00f3nia"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Go\u00farthi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261924
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"02e6a6c9c0a4b3841ead9e8dfc7e3262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368349,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1327368349,
+    "wof:lastmodified":1537624612,
+    "wof:name":"Alonia",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.181,
+    38.37281,
+    24.181,
+    38.37281
+],
+  "geometry": {"coordinates":[24.181,38.37281],"type":"Point"}
+}

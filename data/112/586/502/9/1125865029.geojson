@@ -1,0 +1,119 @@
+{
+  "id": 1125865029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15167,40.125,22.15167,40.125",
+    "geom:latitude":40.125,
+    "geom:longitude":22.15167,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2655,
+    "gn:population":2655,
+    "iso:country":"GR",
+    "lbl:latitude":40.125,
+    "lbl:longitude":22.15167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0641\u0627\u062f\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0432\u0430\u0434\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Livadi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Livadi"
+    ],
+    "name:fre_x_preferred":[
+        "Livadi"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Livadi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f4\u30a1\u30c7\u30a3"
+    ],
+    "name:nno_x_preferred":[
+        "Liv\u00e1di"
+    ],
+    "name:rum_x_preferred":[
+        "Livadi"
+    ],
+    "name:swe_x_preferred":[
+        "Liv\u00e1di"
+    ],
+    "name:unk_x_variant":[
+        "Liv\u00e1dhion"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735390,
+    "qs_pg:gn_pop":2655,
+    "qs_pg:name":"Liv\u00e1dion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":129067,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735390,
+        "qs_pg:id":129067,
+        "wd:id":"Q2634117"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293993,
+    "wof:geomhash":"d0c3705956c784e4ec5d2a2fdc26d001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125865029,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125865029,
+    "wof:lastmodified":1553816583,
+    "wof:name":"Liv\u00e1dion",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":2655,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15167,
+    40.125,
+    22.15167,
+    40.125
+],
+  "geometry": {"coordinates":[22.15167,40.125],"type":"Point"}
+}

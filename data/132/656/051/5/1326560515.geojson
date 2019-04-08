@@ -1,0 +1,80 @@
+{
+  "id": 1326560515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59282,38.44046,23.59282,38.44046",
+    "geom:latitude":38.44046,
+    "geom:longitude":23.59282,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9155",
+    "gn:asciiname":"Mikron Vathi",
+    "gn:country_code":"GR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257016,
+    "gn:latitude":38.44046,
+    "gn:longitude":23.59282,
+    "gn:modification_date":"2015-04-29",
+    "gn:name":"Mikr\u00f3n Vath\u00ed",
+    "gn:population":576,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc \u0392\u03b1\u03b8\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Mikro Vathy"
+    ],
+    "name:und_x_variant":[
+        "Mikr\u00f3 Vath\u00ed",
+        "Mikr\u00f3n Vath\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257016
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bca86e55a364570819c643ba4f56befc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326560515,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1326560515,
+    "wof:lastmodified":1537624382,
+    "wof:name":"Mikron Vathi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":576,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59282,
+    38.44046,
+    23.59282,
+    38.44046
+],
+  "geometry": {"coordinates":[23.59282,38.44046],"type":"Point"}
+}

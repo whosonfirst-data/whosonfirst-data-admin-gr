@@ -1,0 +1,76 @@
+{
+  "id": 1343697827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20681,39.35328,23.20681,39.35328",
+    "geom:latitude":39.35328,
+    "geom:longitude":23.20681,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Lampinou",
+    "gn:country_code":"GR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258636,
+    "gn:latitude":39.35328,
+    "gn:longitude":23.20681,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Lampino\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Lampino\u00fa"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03bc\u03c0\u03b9\u03bd\u03bf\u03cd"
+    ],
+    "name:und_x_variant":[
+        "Lambino\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258636
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"07bdb444fe5507d95b61d01c8342291e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343697827,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1343697827,
+    "wof:lastmodified":1537624458,
+    "wof:name":"Lampinou",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20681,
+    39.35328,
+    23.20681,
+    39.35328
+],
+  "geometry": {"coordinates":[23.20681,39.35328],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125795385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02944,39.58472,21.02944,39.58472",
+    "geom:latitude":39.58472,
+    "geom:longitude":21.02944,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":66,
+    "gn:population":47,
+    "iso:country":"GR",
+    "lbl:latitude":39.58472,
+    "lbl:longitude":21.02944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Potistika"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254797,
+    "qs_pg:gn_pop":66,
+    "qs_pg:name":"Potistik\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":77512,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254797,
+        "qs_pg:id":77512
+    },
+    "wof:country":"GR",
+    "wof:created":1497291028,
+    "wof:geomhash":"fbcd4a436f1b17888ad84ade4a71086c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125795385,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125795385,
+    "wof:lastmodified":1509392575,
+    "wof:name":"Potistik\u00e1",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02944,
+    39.58472,
+    21.02944,
+    39.58472
+],
+  "geometry": {"coordinates":[21.02944,39.58472],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226779019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25095,35.35371,24.25095,35.35371",
+    "geom:latitude":35.35371,
+    "geom:longitude":24.25095,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9319",
+    "gn:asciiname":"Asprosikia",
+    "gn:country_code":"GR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264436,
+    "gn:latitude":35.35371,
+    "gn:longitude":24.25095,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Asprosiki\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264436
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"565b1445029303793fe039f231fdb7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226779019,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226779019,
+    "wof:lastmodified":1536667703,
+    "wof:name":"Asprosikia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25095,
+    35.35371,
+    24.25095,
+    35.35371
+],
+  "geometry": {"coordinates":[24.25095,35.35371],"type":"Point"}
+}

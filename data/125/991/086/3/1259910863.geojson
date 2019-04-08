@@ -1,0 +1,79 @@
+{
+  "id": 1259910863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11438,35.05412,26.11438,35.05412",
+    "geom:latitude":35.05412,
+    "geom:longitude":26.11438,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Exo Apidi",
+    "gn:country_code":"GR",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262555,
+    "gn:latitude":35.05412,
+    "gn:longitude":26.11438,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"\u00c9xo Ap\u00eddi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c9xo Ap\u00eddi"
+    ],
+    "name:ell_x_variant":[
+        "\u0388\u03be\u03c9 \u0391\u03c0\u03af\u03b4\u03b9",
+        "\u00c9xo Ap\u00eddion",
+        "\u0388\u03be\u03c9 \u0391\u03c0\u03af\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Exo Ap\u00eddhi",
+        "\u00c9xo Ap\u00eddhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262555
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a82af8ea7663ad698e07446bbf390cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259910863,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259910863,
+    "wof:lastmodified":1537624638,
+    "wof:name":"Exo Apidi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11438,
+    35.05412,
+    26.11438,
+    35.05412
+],
+  "geometry": {"coordinates":[26.11438,35.05412],"type":"Point"}
+}

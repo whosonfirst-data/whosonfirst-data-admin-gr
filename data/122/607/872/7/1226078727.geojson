@@ -1,0 +1,81 @@
+{
+  "id": 1226078727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94418,37.77938,24.94418,37.77938",
+    "geom:latitude":37.77938,
+    "geom:longitude":24.94418,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9268",
+    "gn:asciiname":"Rogo",
+    "gn:country_code":"GR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254249,
+    "gn:latitude":37.77938,
+    "gn:longitude":24.94418,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Rog\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a1\u03bf\u03b3\u03cc\u03bd"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b3\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03b3\u03cc\u03bd",
+        "Rog\u00f3"
+    ],
+    "name:und_x_variant":[
+        "Rogo\u00fa",
+        "Rog\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254249
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"21a9952a69bf1b4325027b35fbc13e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226078727,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226078727,
+    "wof:lastmodified":1537624258,
+    "wof:name":"Rogo",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94418,
+    37.77938,
+    24.94418,
+    37.77938
+],
+  "geometry": {"coordinates":[24.94418,37.77938],"type":"Point"}
+}

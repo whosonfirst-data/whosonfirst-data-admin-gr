@@ -1,0 +1,91 @@
+{
+  "id": 1226273003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36274,38.67144,21.36274,38.67144",
+    "geom:latitude":38.67144,
+    "geom:longitude":21.36274,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Neapolis",
+    "gn:country_code":"GR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254188,
+    "gn:latitude":38.67144,
+    "gn:longitude":21.36274,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"Ne\u00e1polis",
+    "gn:population":1442,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a1\u03bf\u03c5\u03c3\u03ad\u03ca\u03ba\u03b1",
+        "\u03a1\u03bf\u03c5\u03c3\u03c3\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03ac\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03c5\u03c3\u03ad\u03ca\u03ba\u03b1",
+        "\u03a1\u03bf\u03c5\u03c3\u03c3\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Neapolis"
+    ],
+    "name:und_x_variant":[
+        "Rousa\u00ed\u00efka",
+        "Rous\u00e9\u00efka",
+        "Roussa\u00edika",
+        "Neapoli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254188,
+        "wk:page":"Neapoli%2C_Aetolia-Acarnania"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d08fd164151a33efc5176908dc972ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226273003,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226273003,
+    "wof:lastmodified":1537624256,
+    "wof:name":"Neapolis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":1442,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36274,
+    38.67144,
+    21.36274,
+    38.67144
+],
+  "geometry": {"coordinates":[21.36274,38.67144],"type":"Point"}
+}

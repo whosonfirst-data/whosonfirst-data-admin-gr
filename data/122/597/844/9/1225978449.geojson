@@ -1,0 +1,77 @@
+{
+  "id": 1225978449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40272,38.17789,20.40272,38.17789",
+    "geom:latitude":38.17789,
+    "geom:longitude":20.40272,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Vouni",
+    "gn:country_code":"GR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251756,
+    "gn:latitude":38.17789,
+    "gn:longitude":20.40272,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Voun\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c5\u03bd\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03bf\u03c5\u03bd\u03af\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Voun\u00ed",
+        "Voun\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251756
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"96e5a5b183be58e0152f7da8caf1f59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225978449,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1225978449,
+    "wof:lastmodified":1537624154,
+    "wof:name":"Vouni",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40272,
+    38.17789000000001,
+    20.40272,
+    38.17789000000001
+],
+  "geometry": {"coordinates":[20.40272,38.17789000000001],"type":"Point"}
+}

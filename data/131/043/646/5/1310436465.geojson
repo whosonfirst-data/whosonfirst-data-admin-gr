@@ -1,0 +1,77 @@
+{
+  "id": 1310436465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93394,37.82216,24.93394,37.82216",
+    "geom:latitude":37.82216,
+    "geom:longitude":24.93394,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9268",
+    "gn:asciiname":"Vrachnou",
+    "gn:country_code":"GR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251680,
+    "gn:latitude":37.82216,
+    "gn:longitude":24.93394,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Vrachno\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vrachno\u00fa"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03b1\u03c7\u03bd\u03bf\u03cd"
+    ],
+    "name:und_x_variant":[
+        "Vrakhno\u00fa",
+        "Vrakhn\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251680
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"556df51af709e3cfd01f547b4b80c9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310436465,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1310436465,
+    "wof:lastmodified":1537624151,
+    "wof:name":"Vrachnou",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93394,
+    37.82216,
+    24.93394,
+    37.82216
+],
+  "geometry": {"coordinates":[24.93394,37.82216],"type":"Point"}
+}

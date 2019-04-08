@@ -1,0 +1,74 @@
+{
+  "id": 1226176709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.07601,41.1206,24.07601,41.1206",
+    "geom:latitude":41.1206,
+    "geom:longitude":24.07601,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9002",
+    "gn:asciiname":"Nikotsaras",
+    "gn:country_code":"GR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734912,
+    "gn:latitude":41.1206,
+    "gn:longitude":24.07601,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Nikots\u00e1ras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03bf\u03c4\u03c3\u03ac\u03c1\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Esk\u00ed-K\u00f3\u1e2f",
+        "Nikots\u00e1ras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734912
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f56f9e85d2f9a7efe3e99aa7a71c08f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226176709,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1226176709,
+    "wof:lastmodified":1537624869,
+    "wof:name":"Nikotsaras",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07601,
+    41.1206,
+    24.07601,
+    41.1206
+],
+  "geometry": {"coordinates":[24.07601,41.1206],"type":"Point"}
+}

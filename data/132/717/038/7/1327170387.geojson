@@ -1,0 +1,76 @@
+{
+  "id": 1327170387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67411,38.41978,20.67411,38.41978",
+    "geom:latitude":38.41978,
+    "geom:longitude":20.67411,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9117",
+    "gn:asciiname":"Anogi",
+    "gn:country_code":"GR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264807,
+    "gn:latitude":38.41978,
+    "gn:longitude":20.67411,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Anog\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Anog\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03c9\u03b3\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Anoy\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264807
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"92ec20921059ef3ab00c53aeb737ac46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327170387,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327170387,
+    "wof:lastmodified":1537624741,
+    "wof:name":"Anogi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67411,
+    38.41978,
+    20.67411,
+    38.41978
+],
+  "geometry": {"coordinates":[20.67411,38.41978],"type":"Point"}
+}

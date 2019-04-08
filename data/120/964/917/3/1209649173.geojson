@@ -1,0 +1,73 @@
+{
+  "id": 1209649173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66828,35.27484,23.66828,35.27484",
+    "geom:latitude":35.27484,
+    "geom:longitude":23.66828,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9321",
+    "gn:asciiname":"Kontokynigi",
+    "gn:country_code":"GR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259416,
+    "gn:latitude":35.27484,
+    "gn:longitude":23.66828,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kontokyn\u00edgi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kontokyn\u00edgi"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bd\u03c4\u03bf\u03ba\u03c5\u03bd\u03ae\u03b3\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Kond\u00f3 Kin\u00edyi",
+        "Kondokin\u00edyion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259416
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9ae8fc01060f209f279b5a0056f9f21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649173
+        }
+    ],
+    "wof:id":1209649173,
+    "wof:lastmodified":1537624491,
+    "wof:name":"Kontokynigi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66828,
+    35.27484000000001,
+    23.66828,
+    35.27484000000001
+],
+  "geometry": {"coordinates":[23.66828,35.27484000000001],"type":"Point"}
+}

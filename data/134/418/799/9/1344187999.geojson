@@ -1,0 +1,78 @@
+{
+  "id": 1344187999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.32939,38.79342,23.32939,38.79342",
+    "geom:latitude":38.79342,
+    "geom:longitude":23.32939,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9153",
+    "gn:asciiname":"Myrtias",
+    "gn:country_code":"GR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256902,
+    "gn:latitude":38.79342,
+    "gn:longitude":23.32939,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Myrti\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Myrti\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c5\u03c1\u03c4\u03b9\u03ac\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Stavr\u00f3s Mourti\u00e1",
+        "Mourtia\u00eds",
+        "Mirti\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256902
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"66a5b34cdc8ad41bbf2c331d1f645667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344187999,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1344187999,
+    "wof:lastmodified":1537624375,
+    "wof:name":"Myrtias",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.32939,
+    38.79342000000001,
+    23.32939,
+    38.79342000000001
+],
+  "geometry": {"coordinates":[23.32939,38.79342000000001],"type":"Point"}
+}

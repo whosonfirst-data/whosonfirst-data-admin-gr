@@ -1,0 +1,67 @@
+{
+  "id": 1327368367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01915,35.2241,25.01915,35.2241",
+    "geom:latitude":35.2241,
+    "geom:longitude":25.01915,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9306",
+    "gn:asciiname":"Pirgou",
+    "gn:country_code":"GR",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255209,
+    "gn:latitude":35.2241,
+    "gn:longitude":25.01915,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Pirgo\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255209
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"193c28a2da9e230a332b7ce5b1bc9fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368367,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327368367,
+    "wof:lastmodified":1536773943,
+    "wof:name":"Pirgou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01915,
+    35.2241,
+    25.01915,
+    35.2241
+],
+  "geometry": {"coordinates":[25.01915,35.2241],"type":"Point"}
+}

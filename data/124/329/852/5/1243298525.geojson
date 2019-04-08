@@ -1,0 +1,75 @@
+{
+  "id": 1243298525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06637,41.12566,25.06637,41.12566",
+    "geom:latitude":41.12566,
+    "geom:longitude":25.06637,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9020",
+    "gn:asciiname":"Amaxades",
+    "gn:country_code":"GR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736905,
+    "gn:latitude":41.12566,
+    "gn:longitude":25.06637,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Amax\u00e1des",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Amax\u00e1des"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03b1\u03be\u03ac\u03b4\u03b5\u03c2",
+        "Amax\u00e1dhes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736905,
+        "wk:page":"Amaxades"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"527e57897288a3545e632b1d4469f6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243298525,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243298525,
+    "wof:lastmodified":1537624983,
+    "wof:name":"Amaxades",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06637000000001,
+    41.12566,
+    25.06637000000001,
+    41.12566
+],
+  "geometry": {"coordinates":[25.06637000000001,41.12566],"type":"Point"}
+}

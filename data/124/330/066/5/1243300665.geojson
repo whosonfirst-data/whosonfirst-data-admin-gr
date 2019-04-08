@@ -1,0 +1,76 @@
+{
+  "id": 1243300665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19336,38.13139,22.19336,38.13139",
+    "geom:latitude":38.13139,
+    "geom:longitude":22.19336,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9130",
+    "gn:asciiname":"Lofos",
+    "gn:country_code":"GR",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258162,
+    "gn:latitude":38.13139,
+    "gn:longitude":22.19336,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"L\u00f3fos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03c6\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Vr\u00f3staina",
+        "Vr\u00f3stena",
+        "Vr\u00e9staina",
+        "L\u00f3fos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258162
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fc8bb816da5e8871b6359d02bd6f7c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243300665,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243300665,
+    "wof:lastmodified":1537624435,
+    "wof:name":"Lofos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19336,
+    38.13139,
+    22.19336,
+    38.13139
+],
+  "geometry": {"coordinates":[22.19336,38.13139],"type":"Point"}
+}

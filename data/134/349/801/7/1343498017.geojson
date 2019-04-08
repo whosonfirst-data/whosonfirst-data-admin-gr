@@ -1,0 +1,79 @@
+{
+  "id": 1343498017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99391,41.28215,25.99391,41.28215",
+    "geom:latitude":41.28215,
+    "geom:longitude":25.99391,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9010",
+    "gn:asciiname":"Archontochori",
+    "gn:country_code":"GR",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":736741,
+    "gn:latitude":41.28215,
+    "gn:longitude":25.99391,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Archontoch\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Archontoch\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Archontoch\u00f3rion",
+        "\u0391\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Arkhondokh\u00f3ra",
+        "Arkhondokh\u00f3ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736741
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0ac8ee5924e92668e6063056bc13a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343498017,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343498017,
+    "wof:lastmodified":1537624972,
+    "wof:name":"Archontochori",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99391,
+    41.28215,
+    25.99391,
+    41.28215
+],
+  "geometry": {"coordinates":[25.99391,41.28215],"type":"Point"}
+}

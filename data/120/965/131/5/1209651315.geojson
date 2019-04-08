@@ -1,0 +1,79 @@
+{
+  "id": 1209651315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32371,35.25696,24.32371,35.25696",
+    "geom:latitude":35.25696,
+    "geom:longitude":24.32371,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Arolithi",
+    "gn:country_code":"GR",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264568,
+    "gn:latitude":35.25696,
+    "gn:longitude":24.32371,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Arol\u00edthi",
+    "gn:population":9,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03bf\u03bb\u03af\u03b8\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03bf\u03bb\u03af\u03b8\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Arolithi"
+    ],
+    "name:und_x_variant":[
+        "Arol\u00edthi",
+        "Arol\u00edthion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264568
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b9a60e7f5f84b5c0157eba8aeabbde7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209651315
+        }
+    ],
+    "wof:id":1209651315,
+    "wof:lastmodified":1537624731,
+    "wof:name":"Arolithi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32371,
+    35.25696,
+    24.32371,
+    35.25696
+],
+  "geometry": {"coordinates":[24.32371,35.25696],"type":"Point"}
+}

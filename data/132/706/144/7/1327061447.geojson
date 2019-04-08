@@ -1,0 +1,74 @@
+{
+  "id": 1327061447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18347,39.26742,21.18347,39.26742",
+    "geom:latitude":39.26742,
+    "geom:longitude":21.18347,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Bourgkaiika",
+    "gn:country_code":"GR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445217,
+    "gn:latitude":39.26742,
+    "gn:longitude":21.18347,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Bourgka\u00ed\u00efka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03b3\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Bournga\u00ed\u00efka",
+        "Bourgka\u00ed\u00efka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445217
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d52b5bd223e11f98d5903137d02e102a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327061447,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1327061447,
+    "wof:lastmodified":1537624800,
+    "wof:name":"Bourgkaiika",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18347,
+    39.26742,
+    21.18347,
+    39.26742
+],
+  "geometry": {"coordinates":[21.18347,39.26742],"type":"Point"}
+}

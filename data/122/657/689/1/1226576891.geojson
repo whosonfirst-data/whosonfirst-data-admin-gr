@@ -1,0 +1,67 @@
+{
+  "id": 1226576891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93532,36.81131,21.93532,36.81131",
+    "geom:latitude":36.81131,
+    "geom:longitude":21.93532,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Agia Triada",
+    "gn:country_code":"GR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10172788,
+    "gn:latitude":36.81131,
+    "gn:longitude":21.93532,
+    "gn:modification_date":"2015-03-17",
+    "gn:name":"Agia Triada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10172788
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d4527fa610dc247f76f9f1832b7cc194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226576891,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226576891,
+    "wof:lastmodified":1536954707,
+    "wof:name":"Agia Triada",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93532,
+    36.81131,
+    21.93532,
+    36.81131
+],
+  "geometry": {"coordinates":[21.93532,36.81131],"type":"Point"}
+}

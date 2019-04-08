@@ -1,0 +1,76 @@
+{
+  "id": 1260015449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6675,38.27369,20.6675,38.27369",
+    "geom:latitude":38.27369,
+    "geom:longitude":20.6675,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Dichalia",
+    "gn:country_code":"GR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263108,
+    "gn:latitude":38.27369,
+    "gn:longitude":20.6675,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dich\u00e1lia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Dich\u00e1lia"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03c7\u03ac\u03bb\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Dhikh\u00e1lia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263108
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"904a3427fac0f3ce6dd47a454c8a7782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260015449,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1260015449,
+    "wof:lastmodified":1537624667,
+    "wof:name":"Dichalia",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6675,
+    38.27369,
+    20.6675,
+    38.27369
+],
+  "geometry": {"coordinates":[20.6675,38.27369],"type":"Point"}
+}

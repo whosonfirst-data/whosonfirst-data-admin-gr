@@ -1,0 +1,97 @@
+{
+  "id": 1125863457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.73861,39.76333,19.73861,39.76333",
+    "geom:latitude":39.76333,
+    "geom:longitude":19.73861,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":375,
+    "gn:population":180,
+    "iso:country":"GR",
+    "lbl:latitude":39.76333,
+    "lbl:longitude":19.73861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03c1\u03b1\u03c6\u03bf\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Agrafoi"
+    ],
+    "name:unk_x_variant":[
+        "Aqrafi"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2463804,
+    "qs_pg:gn_pop":375,
+    "qs_pg:name":"Agrafoi",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":208527,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":944982,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463804,
+        "gp:id":944982,
+        "qs_pg:id":208527
+    },
+    "wof:country":"GR",
+    "wof:created":1497293930,
+    "wof:geomhash":"ef9eed5881358c0ec0b00ec1977ada26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125863457,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125863457,
+    "wof:lastmodified":1509396799,
+    "wof:name":"Agrafoi",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.73861,
+    39.76333,
+    19.73861,
+    39.76333
+],
+  "geometry": {"coordinates":[19.73861,39.76333],"type":"Point"}
+}

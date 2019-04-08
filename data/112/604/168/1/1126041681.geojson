@@ -1,0 +1,88 @@
+{
+  "id": 1126041681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71833,39.78639,20.71833,39.78639",
+    "geom:latitude":39.78639,
+    "geom:longitude":20.71833,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":324,
+    "gn:population":303,
+    "iso:country":"GR",
+    "lbl:latitude":39.78639,
+    "lbl:longitude":20.71833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03c3\u03ac\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c4\u03c3\u03ac\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Petsali"
+    ],
+    "name:unk_x_variant":[
+        "Pets\u00e1li"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255367,
+    "qs_pg:gn_pop":324,
+    "qs_pg:name":"Pets\u00e1lion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":546508,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255367,
+        "qs_pg:id":546508
+    },
+    "wof:country":"GR",
+    "wof:created":1497302195,
+    "wof:geomhash":"45a620d9b2d1ee79c63ae1d8ea0eb071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126041681,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126041681,
+    "wof:lastmodified":1509408555,
+    "wof:name":"Pets\u00e1lion",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71833,
+    39.78639,
+    20.71833,
+    39.78639
+],
+  "geometry": {"coordinates":[20.71833,39.78639],"type":"Point"}
+}

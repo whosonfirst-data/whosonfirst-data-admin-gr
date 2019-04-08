@@ -1,0 +1,75 @@
+{
+  "id": 1209445345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92169,37.70713,21.92169,37.70713",
+    "geom:latitude":37.70713,
+    "geom:longitude":21.92169,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9238",
+    "gn:asciiname":"Doxa",
+    "gn:country_code":"GR",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262973,
+    "gn:latitude":37.70713,
+    "gn:longitude":21.92169,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"D\u00f3xa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "D\u00f3xa"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03cc\u03be\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Veretebo\u00fa",
+        "Vertebo\u00faga",
+        "Vredebo\u00faga",
+        "Dh\u00f3xa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262973
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5766cbf9b03004f9a621bcedb78a7202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209445345
+        }
+    ],
+    "wof:id":1209445345,
+    "wof:lastmodified":1537624660,
+    "wof:name":"Doxa",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92169,
+    37.70713,
+    21.92169,
+    37.70713
+],
+  "geometry": {"coordinates":[21.92169,37.70713],"type":"Point"}
+}

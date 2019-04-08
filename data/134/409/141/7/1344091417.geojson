@@ -1,0 +1,76 @@
+{
+  "id": 1344091417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98951,37.72762,23.98951,37.72762",
+    "geom:latitude":37.72762,
+    "geom:longitude":23.98951,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Synterina",
+    "gn:country_code":"GR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036727,
+    "gn:latitude":37.72762,
+    "gn:longitude":23.98951,
+    "gn:modification_date":"2017-11-01",
+    "gn:name":"Synter\u00edna",
+    "gn:population":214,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c5\u03bd\u03c4\u03b5\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Synterina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036727
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"625b359fd01b24d436eec891a9e8f362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344091417,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1344091417,
+    "wof:lastmodified":1537551158,
+    "wof:name":"Synterina",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98951,
+    37.72762,
+    23.98951,
+    37.72762
+],
+  "geometry": {"coordinates":[23.98951,37.72762],"type":"Point"}
+}

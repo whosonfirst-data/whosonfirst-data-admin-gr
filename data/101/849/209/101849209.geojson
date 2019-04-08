@@ -1,0 +1,130 @@
+{
+  "id": 101849209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.035809,39.16671,21.035809,39.16671",
+    "geom:latitude":39.16671,
+    "geom:longitude":21.035809,
+    "gn:population":1952,
+    "iso:country":"GR",
+    "lbl:latitude":39.16671,
+    "lbl:longitude":21.035809,
+    "mps:latitude":39.16671,
+    "mps:longitude":21.035809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Peta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03b1 \u0386\u03c1\u03c4\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Peta"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00e9ta"
+    ],
+    "name:fre_x_preferred":[
+        "Peta"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03b1 \u0386\u03c1\u03c4\u03b1\u03c2"
+    ],
+    "name:ind_x_preferred":[
+        "Peta"
+    ],
+    "name:ita_x_preferred":[
+        "Peta"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e9ta i \u00c1rta"
+    ],
+    "name:ron_x_preferred":[
+        "Peta"
+    ],
+    "name:rum_x_preferred":[
+        "Peta"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e9ta"
+    ],
+    "name:unk_x_variant":[
+        "P\u00e9ta"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0397\u03a0\u0395\u0399\u03a1\u039f\u03a3",
+    "qs:a1_alt":"HPEIROS",
+    "qs:a1r":"0",
+    "qs:a2_alt":"ARTA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0395\u03a4\u0391",
+    "qs:loc_alt":"PETA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":267,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255458,
+        "gp:id":959710,
+        "qs:id":546521,
+        "qs_pg:id":546521,
+        "wd:id":"Q2534173",
+        "wk:page":"Peta, Greece"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b770964162bbe859dbd3748e81713676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849209,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":101849209,
+    "wof:lastmodified":1544740836,
+    "wof:name":"\u03a0\u0395\u03a4\u0391",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":1952,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.035809,
+    39.16671,
+    21.035809,
+    39.16671
+],
+  "geometry": {"coordinates":[21.035809,39.16671],"type":"Point"}
+}

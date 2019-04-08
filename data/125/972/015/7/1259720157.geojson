@@ -1,0 +1,77 @@
+{
+  "id": 1259720157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56303,38.32414,20.56303,38.32414",
+    "geom:latitude":38.32414,
+    "geom:longitude":20.56303,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Antipata",
+    "gn:country_code":"GR",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265072,
+    "gn:latitude":38.32414,
+    "gn:longitude":20.56303,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Antip\u00e1ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Antip\u00e1ta"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03c4\u03b9\u03c0\u03ac\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pilaro\u00fa",
+        "Andip\u00e1ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265072
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"51a72bb66f8c5fcd66700f804017cc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259720157,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1259720157,
+    "wof:lastmodified":1537624758,
+    "wof:name":"Antipata",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56303,
+    38.32414,
+    20.56303,
+    38.32414
+],
+  "geometry": {"coordinates":[20.56303,38.32414],"type":"Point"}
+}

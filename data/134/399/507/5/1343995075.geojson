@@ -1,0 +1,73 @@
+{
+  "id": 1343995075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6,38.08333,22.6,38.08333",
+    "geom:latitude":38.08333,
+    "geom:longitude":22.6,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Arakhovitika",
+    "gn:country_code":"GR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":264711,
+    "gn:latitude":38.08333,
+    "gn:longitude":22.6,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Arakhov\u00edtika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b1\u03c7\u03c9\u03b2\u03af\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Arachovitika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264711
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"88a2d6c0bae0de36640ae4e9952933ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343995075,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1343995075,
+    "wof:lastmodified":1537624736,
+    "wof:name":"Arakhovitika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6,
+    38.08333,
+    22.6,
+    38.08333
+],
+  "geometry": {"coordinates":[22.6,38.08333],"type":"Point"}
+}

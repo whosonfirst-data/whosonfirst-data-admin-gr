@@ -1,0 +1,76 @@
+{
+  "id": 1243400353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89713,37.43314,24.89713,37.43314",
+    "geom:latitude":37.43314,
+    "geom:longitude":24.89713,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Danakos",
+    "gn:country_code":"GR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263262,
+    "gn:latitude":37.43314,
+    "gn:longitude":24.89713,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Danak\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Danak\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b1\u03bd\u03b1\u03ba\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Dhanak\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263262
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"020ca818bae7055ea98162c13cf1b4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243400353,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1243400353,
+    "wof:lastmodified":1537624676,
+    "wof:name":"Danakos",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89713,
+    37.43314,
+    24.89713,
+    37.43314
+],
+  "geometry": {"coordinates":[24.89713,37.43314],"type":"Point"}
+}

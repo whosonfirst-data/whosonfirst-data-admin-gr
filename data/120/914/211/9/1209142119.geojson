@@ -1,0 +1,73 @@
+{
+  "id": 1209142119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86487,37.07779,21.86487,37.07779",
+    "geom:latitude":37.07779,
+    "geom:longitude":21.86487,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Diodia",
+    "gn:country_code":"GR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263069,
+    "gn:latitude":37.07779,
+    "gn:longitude":21.86487,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Di\u00f3dia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Di\u00f3dia"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03cc\u03b4\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "L\u00f3\u00ef",
+        "Dhi\u00f3dhia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263069
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"324f18229681e23d1fb6f8f455efde86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209142119
+        }
+    ],
+    "wof:id":1209142119,
+    "wof:lastmodified":1537624665,
+    "wof:name":"Diodia",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86487,
+    37.07779,
+    21.86487,
+    37.07779
+],
+  "geometry": {"coordinates":[21.86487,37.07779],"type":"Point"}
+}

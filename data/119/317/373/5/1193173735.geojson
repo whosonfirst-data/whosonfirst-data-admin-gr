@@ -1,0 +1,83 @@
+{
+  "id": 1193173735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.19481,35.28507,24.19481,35.28507",
+    "geom:latitude":35.28507,
+    "geom:longitude":24.19481,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9324",
+    "gn:asciiname":"Goni Askyfou",
+    "gn:country_code":"GR",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261997,
+    "gn:latitude":35.28507,
+    "gn:longitude":24.19481,
+    "gn:modification_date":"2015-11-18",
+    "gn:name":"Gon\u00ed Ask\u00fdfou",
+    "gn:population":20,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c9\u03bd\u03af \u0391\u03c3\u03ba\u03cd\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0388\u03be\u03c9 \u0393\u03c9\u03bd\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Goni Askyfou"
+    ],
+    "name:und_x_variant":[
+        "\u00c9xo Gon\u00ed",
+        "Gon\u00edon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261997
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"021f13969a1ca2e810e0591fb7fe24d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193173735,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1193173735,
+    "wof:lastmodified":1537624616,
+    "wof:name":"Goni Askyfou",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.19481,
+    35.28507000000001,
+    24.19481,
+    35.28507000000001
+],
+  "geometry": {"coordinates":[24.19481,35.28507000000001],"type":"Point"}
+}

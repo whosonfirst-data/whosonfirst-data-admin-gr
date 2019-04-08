@@ -1,0 +1,73 @@
+{
+  "id": 1360116011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,35.03333,25.38333,35.03333",
+    "geom:latitude":35.03333,
+    "geom:longitude":25.38333,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9303",
+    "gn:asciiname":"Apostolianos",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264737,
+    "gn:latitude":35.03333,
+    "gn:longitude":25.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Apostolian\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apostoliano\u00fa",
+        "Apostolian\u00f3",
+        "Apostolian\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264737
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b658ea9ae8c5ffa48d10c4f05a08f10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360116011,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1360116011,
+    "wof:lastmodified":1537624738,
+    "wof:name":"Apostolianos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    35.03333,
+    25.38333,
+    35.03333
+],
+  "geometry": {"coordinates":[25.38333,35.03333],"type":"Point"}
+}

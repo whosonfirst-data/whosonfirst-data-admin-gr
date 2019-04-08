@@ -1,0 +1,78 @@
+{
+  "id": 1343796199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53323,40.02329,21.53323,40.02329",
+    "geom:latitude":40.02329,
+    "geom:longitude":21.53323,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Felli",
+    "gn:country_code":"GR",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736264,
+    "gn:latitude":40.02329,
+    "gn:longitude":21.53323,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Fell\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fell\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b5\u03bb\u03bb\u03af",
+        "\u03a6\u03b5\u03bb\u03bb\u03af\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Fil\u00ed",
+        "Fell\u00edon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736264
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"725d91768e8b060a2c1fea9ccd126d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343796199,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1343796199,
+    "wof:lastmodified":1537624947,
+    "wof:name":"Felli",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53323,
+    40.02329,
+    21.53323,
+    40.02329
+],
+  "geometry": {"coordinates":[21.53323,40.02329],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1243488553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72108,35.45084,23.72108,35.45084",
+    "geom:latitude":35.45084,
+    "geom:longitude":23.72108,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Trialonia",
+    "gn:country_code":"GR",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521841,
+    "gn:latitude":35.45084,
+    "gn:longitude":23.72108,
+    "gn:modification_date":"2015-09-20",
+    "gn:name":"Trial\u00f3nia",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a4\u03c1\u03af\u03b1 \u0391\u03bb\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03b1\u03bb\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03af\u03b1 \u0391\u03bb\u03ce\u03bd\u03b9\u03b1"
+    ],
+    "name:eng_x_historical":[
+        "Tria Alonia"
+    ],
+    "name:eng_x_preferred":[
+        "Trialonia"
+    ],
+    "name:eng_x_variant":[
+        "Tria Alonia"
+    ],
+    "name:und_x_variant":[
+        "Trial\u00f3nia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521841
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"81ebc66a52aaaa16e588b84eb1b70be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243488553,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243488553,
+    "wof:lastmodified":1537625011,
+    "wof:name":"Trialonia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72108,
+    35.45084,
+    23.72108,
+    35.45084
+],
+  "geometry": {"coordinates":[23.72108,35.45084],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343698799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.29488,38.14401,23.29488,38.14401",
+    "geom:latitude":38.14401,
+    "geom:longitude":23.29488,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230",
+    "gn:asciiname":"Kryo Pigadi",
+    "gn:country_code":"GR",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036811,
+    "gn:latitude":38.14401,
+    "gn:longitude":23.29488,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Kryo Pig\u00e1di",
+    "gn:population":17,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03cd\u03bf \u03a0\u03b7\u03b3\u03ac\u03b4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kryo Pigadi"
+    ],
+    "name:und_x_variant":[
+        "Krio Pigadi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036811
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4b80ea3a9350af4ef7d38125064a7910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343698799,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343698799,
+    "wof:lastmodified":1537625044,
+    "wof:name":"Kryo Pigadi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29488,
+    38.14401,
+    23.29488,
+    38.14401
+],
+  "geometry": {"coordinates":[23.29488,38.14401],"type":"Point"}
+}

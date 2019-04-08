@@ -1,0 +1,77 @@
+{
+  "id": 1193168179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13153,37.92728,22.13153,37.92728",
+    "geom:latitude":37.92728,
+    "geom:longitude":22.13153,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Glastra",
+    "gn:country_code":"GR",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251601,
+    "gn:latitude":37.92728,
+    "gn:longitude":22.13153,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Gl\u00e1stra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Gl\u00e1stra"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03bb\u03ac\u03c3\u03c4\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Vr\u00f3sthaina",
+        "Vr\u00f3stena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251601
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a7d3c4235a7baa2c2195d73c5cf378c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193168179,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1193168179,
+    "wof:lastmodified":1537624147,
+    "wof:name":"Glastra",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13153,
+    37.92728,
+    22.13153,
+    37.92728
+],
+  "geometry": {"coordinates":[22.13153,37.92728],"type":"Point"}
+}

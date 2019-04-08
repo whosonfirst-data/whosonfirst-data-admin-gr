@@ -1,0 +1,83 @@
+{
+  "id": 1310334843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92352,39.46405,22.92352,39.46405",
+    "geom:latitude":39.46405,
+    "geom:longitude":22.92352,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9108",
+    "gn:asciiname":"Kerasia",
+    "gn:country_code":"GR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260577,
+    "gn:latitude":39.46405,
+    "gn:longitude":22.92352,
+    "gn:modification_date":"2015-04-30",
+    "gn:name":"Kerasi\u00e1",
+    "gn:population":280,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03b1\u03c3\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u039a\u03b5\u03c1\u03b1\u03c3\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kerasia"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Kerasi\u00e1",
+        "K\u00e1to Keras\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260577
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ee86fce54fb3f6ef60f29d649b8ea9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310334843,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1310334843,
+    "wof:lastmodified":1537624548,
+    "wof:name":"Kerasia",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":280,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92352,
+    39.46405,
+    22.92352,
+    39.46405
+],
+  "geometry": {"coordinates":[22.92352,39.46405],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293917487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96064,38.01786,21.96064,38.01786",
+    "geom:latitude":38.01786,
+    "geom:longitude":21.96064,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Manesi",
+    "gn:country_code":"GR",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257794,
+    "gn:latitude":38.01786,
+    "gn:longitude":21.96064,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"M\u00e1nesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03b5\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03bd\u03b5\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "M\u00e1nesi",
+        "Man\u00e9sion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257794
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e3186b0d74e9e144f56768eb53a6c42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293917487,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293917487,
+    "wof:lastmodified":1537624419,
+    "wof:name":"Manesi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96064,
+    38.01786,
+    21.96064,
+    38.01786
+],
+  "geometry": {"coordinates":[21.96064,38.01786],"type":"Point"}
+}

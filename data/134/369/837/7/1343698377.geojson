@@ -1,0 +1,74 @@
+{
+  "id": 1343698377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03626,35.4143,24.03626,35.4143",
+    "geom:latitude":35.4143,
+    "geom:longitude":24.03626,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9325",
+    "gn:asciiname":"Platyvola",
+    "gn:country_code":"GR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254977,
+    "gn:latitude":35.4143,
+    "gn:longitude":24.03626,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Platyv\u00f3la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Platyv\u00f3la"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03c5\u03b2\u03cc\u03bb\u03b1",
+        "Plativ\u00f3la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254977
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a08e1a1f811c5222ec8fb7fed5dbdac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343698377,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343698377,
+    "wof:lastmodified":1537624286,
+    "wof:name":"Platyvola",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03626,
+    35.4143,
+    24.03626,
+    35.4143
+],
+  "geometry": {"coordinates":[24.03626,35.4143],"type":"Point"}
+}

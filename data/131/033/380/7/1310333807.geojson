@@ -1,0 +1,79 @@
+{
+  "id": 1310333807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97577,37.81975,23.97577,37.81975",
+    "geom:latitude":37.81975,
+    "geom:longitude":23.97577,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Fanosi",
+    "gn:country_code":"GR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036749,
+    "gn:latitude":37.81975,
+    "gn:longitude":23.97577,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"F\u00e1nosi",
+    "gn:population":17,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03ac\u03bd\u03c9\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Fanosi"
+    ],
+    "name:und_x_variant":[
+        "Phanosi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036749
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1fb809ed7be9ddf8030dbc92c7df0384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310333807,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1310333807,
+    "wof:lastmodified":1537625041,
+    "wof:name":"Fanosi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97577,
+    37.81975,
+    23.97577,
+    37.81975
+],
+  "geometry": {"coordinates":[23.97577,37.81975],"type":"Point"}
+}

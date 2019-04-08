@@ -1,0 +1,73 @@
+{
+  "id": 1292935515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12508,38.50326,24.12508,38.50326",
+    "geom:latitude":38.50326,
+    "geom:longitude":24.12508,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Avlonarion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264308,
+    "gn:latitude":38.50326,
+    "gn:longitude":24.12508,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Avlon\u00e1rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avlonari",
+        "Avlon\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264308,
+        "wk:page":"Avlonari"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ae76b139aaed89cec652364ee042c8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1292935515,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1292935515,
+    "wof:lastmodified":1537624722,
+    "wof:name":"Avlonarion",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12508,
+    38.50326,
+    24.12508,
+    38.50326
+],
+  "geometry": {"coordinates":[24.12508,38.50326],"type":"Point"}
+}

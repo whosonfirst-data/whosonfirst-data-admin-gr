@@ -1,0 +1,76 @@
+{
+  "id": 1209750423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27755,37.73806,22.27755,37.73806",
+    "geom:latitude":37.73806,
+    "geom:longitude":22.27755,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Plaisia",
+    "gn:country_code":"GR",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256352,
+    "gn:latitude":37.73806,
+    "gn:longitude":22.27755,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Pla\u00edsia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pla\u00edsia"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03af\u03c3\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "No\u00fadhimos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256352
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f457c42a042e082c8858dc6072b0a1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209750423,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209750423,
+    "wof:lastmodified":1537624348,
+    "wof:name":"Plaisia",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27755,
+    37.73806,
+    22.27755,
+    37.73806
+],
+  "geometry": {"coordinates":[22.27755,37.73806],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 101849097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.448101,38.47892,23.448101,38.47892",
+    "geom:latitude":38.47892,
+    "geom:longitude":23.448101,
+    "gn:population":1161,
+    "iso:country":"GR",
+    "lbl:latitude":38.47892,
+    "lbl:longitude":23.448101,
+    "mps:latitude":38.47892,
+    "mps:longitude":23.448101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ba\u03af\u03c3\u03b9\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Louk\u00edsia"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"EYVOIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u039f\u03a5\u039a\u0399\u03a3\u0399\u0391",
+    "qs:loc_alt":"LOYKISIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258108,
+        "gp:id":955719,
+        "qs:id":79784
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ae50d5c7244dd90156390d4ea957d132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849097,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849097,
+    "wof:lastmodified":1544740778,
+    "wof:name":"\u039b\u039f\u03a5\u039a\u0399\u03a3\u0399\u0391",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1161,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.448101,
+    38.47892,
+    23.448101,
+    38.47892
+],
+  "geometry": {"coordinates":[23.448101,38.47892],"type":"Point"}
+}

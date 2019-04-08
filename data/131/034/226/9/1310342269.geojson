@@ -1,0 +1,74 @@
+{
+  "id": 1310342269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46317,38.05544,21.46317,38.05544",
+    "geom:latitude":38.05544,
+    "geom:longitude":21.46317,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Riolos",
+    "gn:country_code":"GR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254316,
+    "gn:latitude":38.05544,
+    "gn:longitude":21.46317,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"R\u00edolos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03bf\u03bb\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "R\u00edolos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254316,
+        "wk:page":"Riolos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"07ab06c1b217992a7db47476d6c32fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310342269,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310342269,
+    "wof:lastmodified":1537624262,
+    "wof:name":"Riolos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46317,
+    38.05544,
+    21.46317,
+    38.05544
+],
+  "geometry": {"coordinates":[21.46317,38.05544],"type":"Point"}
+}

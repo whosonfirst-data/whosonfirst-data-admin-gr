@@ -1,0 +1,86 @@
+{
+  "id": 1344087851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55657,40.25729,23.55657,40.25729",
+    "geom:latitude":40.25729,
+    "geom:longitude":23.55657,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Vatopedio",
+    "gn:country_code":"GR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733923,
+    "gn:latitude":40.25729,
+    "gn:longitude":23.55657,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Vatop\u00e9dio",
+    "gn:population":191,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0442\u043e\u043f\u0435\u0434\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c4\u03bf\u03c0\u03ad\u03b4\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "Vatop\u00e9dio",
+        "Vatop\u00e9dhion",
+        "Vatop\u00e9dion",
+        "\u0392\u03b1\u03c4\u03bf\u03c0\u03ad\u03b4\u03b9\u03bf\u03bd",
+        "\u0392\u03b1\u03c4\u03bf\u03c0\u03ad\u03b4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Vatopedio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733923
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f3b3625bbbf14f153fd9bbea71607988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087851,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1344087851,
+    "wof:lastmodified":1537624813,
+    "wof:name":"Vatopedio",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":191,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55657,
+    40.25729000000001,
+    23.55657,
+    40.25729000000001
+],
+  "geometry": {"coordinates":[23.55657,40.25729000000001],"type":"Point"}
+}

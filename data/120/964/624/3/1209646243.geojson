@@ -1,0 +1,84 @@
+{
+  "id": 1209646243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16044,40.43999,21.16044,40.43999",
+    "geom:latitude":40.43999,
+    "geom:longitude":21.16044,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9063",
+    "gn:asciiname":"Ypsilo",
+    "gn:country_code":"GR",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736111,
+    "gn:latitude":40.43999,
+    "gn:longitude":21.16044,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Ypsil\u00f3",
+    "gn:population":19,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a8\u03cc\u03c7\u03c9\u03c1\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a5\u03c8\u03b7\u03bb\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u03a5\u03c8\u03b7\u03bb\u03cc\u03bd",
+        "\u03a8\u03cc\u03c7\u03c9\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Ypsilo"
+    ],
+    "name:und_x_variant":[
+        "Ypsil\u00f3",
+        "Ipsil\u00f3n",
+        "Ypsil\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736111
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fdbd6aaa95965c5daa7bed6bbae20b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209646243
+        }
+    ],
+    "wof:id":1209646243,
+    "wof:lastmodified":1537624940,
+    "wof:name":"Ypsilo",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16044,
+    40.43999,
+    21.16044,
+    40.43999
+],
+  "geometry": {"coordinates":[21.16044,40.43999],"type":"Point"}
+}

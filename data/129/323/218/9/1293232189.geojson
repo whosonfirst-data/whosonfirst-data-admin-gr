@@ -1,0 +1,73 @@
+{
+  "id": 1293232189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65471,38.91815,22.65471,38.91815",
+    "geom:latitude":38.91815,
+    "geom:longitude":22.65471,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9164",
+    "gn:asciiname":"Akhirones",
+    "gn:country_code":"GR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":265466,
+    "gn:latitude":38.91815,
+    "gn:longitude":22.65471,
+    "gn:modification_date":"2014-10-17",
+    "gn:name":"Akhir\u00f3nes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03c5\u03c1\u03ce\u03bd\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Achyrones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265466
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"49ff6d333fc75e048b50509df99df327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293232189,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1293232189,
+    "wof:lastmodified":1537624779,
+    "wof:name":"Akhirones",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65471,
+    38.91815,
+    22.65471,
+    38.91815
+],
+  "geometry": {"coordinates":[22.65471,38.91815],"type":"Point"}
+}

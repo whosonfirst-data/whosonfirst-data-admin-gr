@@ -1,0 +1,76 @@
+{
+  "id": 1343397181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87708,38.58947,21.87708,38.58947",
+    "geom:latitude":38.58947,
+    "geom:longitude":21.87708,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Podos",
+    "gn:country_code":"GR",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254941,
+    "gn:latitude":38.58947,
+    "gn:longitude":21.87708,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"P\u00f3dos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00f3dos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cc\u03b4\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "P\u00f3dhos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254941
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b16b5789c94d5ffb5935ce12ec912730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343397181,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1343397181,
+    "wof:lastmodified":1537624284,
+    "wof:name":"Podos",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87708,
+    38.58947,
+    21.87708,
+    38.58947
+],
+  "geometry": {"coordinates":[21.87708,38.58947],"type":"Point"}
+}

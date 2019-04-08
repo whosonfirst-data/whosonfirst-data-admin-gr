@@ -1,0 +1,75 @@
+{
+  "id": 1243585011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40594,38.98233,26.40594,38.98233",
+    "geom:latitude":38.98233,
+    "geom:longitude":26.40594,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Trygonas",
+    "gn:country_code":"GR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252666,
+    "gn:latitude":38.98233,
+    "gn:longitude":26.40594,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"Tr\u00fdgonas",
+    "gn:population":300,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03cd\u03b3\u03bf\u03bd\u03b1\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00edgonas",
+        "Tr\u00fdgonas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252666
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9aef884c82b44da8e6a1647922542917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1243585011,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243585011,
+    "wof:lastmodified":1537624193,
+    "wof:name":"Trygonas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40594,
+    38.98233,
+    26.40594,
+    38.98233
+],
+  "geometry": {"coordinates":[26.40594,38.98233],"type":"Point"}
+}

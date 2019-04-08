@@ -1,0 +1,76 @@
+{
+  "id": 1225881251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89289,39.57672,19.89289,39.57672",
+    "geom:latitude":39.57672,
+    "geom:longitude":19.89289,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Soulaiika",
+    "gn:country_code":"GR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165909,
+    "gn:latitude":39.57672,
+    "gn:longitude":19.89289,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Soula\u00edika",
+    "gn:population":196,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Soulaiika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165909
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7f168675e0f2d170436683e55b9d1189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225881251,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1225881251,
+    "wof:lastmodified":1537625048,
+    "wof:name":"Soulaiika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89289,
+    39.57672,
+    19.89289,
+    39.57672
+],
+  "geometry": {"coordinates":[19.89289,39.57672],"type":"Point"}
+}

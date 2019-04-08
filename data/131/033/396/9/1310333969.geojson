@@ -1,0 +1,73 @@
+{
+  "id": 1310333969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.34136,39.2775,21.34136,39.2775",
+    "geom:latitude":39.2775,
+    "geom:longitude":21.34136,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"20.0",
+    "gn:admin3_code":"9074",
+    "gn:asciiname":"Ano Karyes",
+    "gn:country_code":"GR",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445196,
+    "gn:latitude":39.2775,
+    "gn:longitude":21.34136,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"\u00c1no Kary\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1no Kary\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bd\u03c9 \u039a\u03b1\u03c1\u03c5\u03ad\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445196
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d8c7519f59dd005bffa7d623bf282839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310333969,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1310333969,
+    "wof:lastmodified":1537624799,
+    "wof:name":"Ano Karyes",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.34136,
+    39.2775,
+    21.34136,
+    39.2775
+],
+  "geometry": {"coordinates":[21.34136,39.2775],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1225875677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90788,38.02375,23.90788,38.02375",
+    "geom:latitude":38.02375,
+    "geom:longitude":23.90788,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9224",
+    "gn:asciiname":"Dhrafi",
+    "gn:country_code":"GR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262969,
+    "gn:latitude":38.02375,
+    "gn:longitude":23.90788,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Dhr\u00e1fi",
+    "gn:population":3055,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c1\u03ac\u03c6\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Drafi"
+    ],
+    "name:eng_x_variant":[
+        "Ntrafi"
+    ],
+    "name:und_x_variant":[
+        "Draf\u00ed",
+        "Dhr\u00e1fi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262969,
+        "wk:page":"Drafi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6a971fe1f02c3498e594f76efec6abf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225875677,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1225875677,
+    "wof:lastmodified":1537624659,
+    "wof:name":"Dhrafi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":3055,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90788,
+    38.02375,
+    23.90788,
+    38.02375
+],
+  "geometry": {"coordinates":[23.90788,38.02375],"type":"Point"}
+}

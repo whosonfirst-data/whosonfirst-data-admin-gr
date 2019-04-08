@@ -1,0 +1,86 @@
+{
+  "id": 101849173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.806818,39.455151,21.806818,39.455151",
+    "geom:latitude":39.455151,
+    "geom:longitude":21.806818,
+    "gn:population":1036,
+    "iso:country":"GR",
+    "lbl:latitude":39.455151,
+    "lbl:longitude":21.806818,
+    "mps:latitude":39.455151,
+    "mps:longitude":21.806818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Fan\u00e1rion Mago\u00falas"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
+    "qs:a1_alt":"UESSALIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"KARDITSA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u0391\u0393\u039f\u03a5\u039b\u0391",
+    "qs:loc_alt":"MAGOYLA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262503,
+        "gp:id":955865,
+        "qs:id":79819
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f261ac7d64e238bd689db8dcd50b2aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849173,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":101849173,
+    "wof:lastmodified":1544740817,
+    "wof:name":"\u039c\u0391\u0393\u039f\u03a5\u039b\u0391",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1036,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.806818,
+    39.455151,
+    21.806818,
+    39.455151
+],
+  "geometry": {"coordinates":[21.806818,39.455151],"type":"Point"}
+}

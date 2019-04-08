@@ -1,0 +1,93 @@
+{
+  "id": 1327470083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15452,40.79874,21.15452,40.79874",
+    "geom:latitude":40.79874,
+    "geom:longitude":21.15452,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9071",
+    "gn:asciiname":"Kallithea",
+    "gn:country_code":"GR",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736038,
+    "gn:latitude":40.79874,
+    "gn:longitude":21.15452,
+    "gn:modification_date":"2017-12-20",
+    "gn:name":"Kallith\u00e9a",
+    "gn:population":117,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a1\u03bf\u03cd\u03bd\u03c4\u03b1\u03c1",
+        "\u03a1\u03bf\u03cd\u03bd\u03c4\u03b1\u03c1\u03b9",
+        "\u03a1\u03bf\u03cd\u03b4\u03b1\u03c1\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03cd\u03bd\u03c4\u03b1\u03c1",
+        "\u03a1\u03bf\u03cd\u03bd\u03c4\u03b1\u03c1\u03b9",
+        "\u03a1\u03bf\u03cd\u03b4\u03b1\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kallithea"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0443\u0434\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ro\u00fadhari",
+        "Kallith\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736038
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f09a1804b2c7e4bf54155f3911da9d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327470083,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1327470083,
+    "wof:lastmodified":1537624937,
+    "wof:name":"Kallithea",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15452,
+    40.79874,
+    21.15452,
+    40.79874
+],
+  "geometry": {"coordinates":[21.15452,40.79874],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343389533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6525,40.99505,24.6525,40.99505",
+    "geom:latitude":40.99505,
+    "geom:longitude":24.6525,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Gravouna",
+    "gn:country_code":"GR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736152,
+    "gn:latitude":40.99505,
+    "gn:longitude":24.6525,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Gravo\u00fana",
+    "gn:population":737,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03c1\u03b1\u03b2\u03bf\u03cd\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Gravouna"
+    ],
+    "name:und_x_variant":[
+        "Do\u00efranl\u00ed",
+        "Gravo\u00fasa",
+        "Gravo\u00fana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736152
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b4d9281755664bf79b5f58e811a7fc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343389533,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1343389533,
+    "wof:lastmodified":1537624943,
+    "wof:name":"Gravouna",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":737,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6525,
+    40.99505,
+    24.6525,
+    40.99505
+],
+  "geometry": {"coordinates":[24.6525,40.99505],"type":"Point"}
+}

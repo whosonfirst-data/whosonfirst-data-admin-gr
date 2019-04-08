@@ -1,0 +1,84 @@
+{
+  "id": 1326664869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95105,40.7758,23.95105,40.7758",
+    "geom:latitude":40.7758,
+    "geom:longitude":23.95105,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9014",
+    "gn:asciiname":"Orfanio",
+    "gn:country_code":"GR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734878,
+    "gn:latitude":40.7758,
+    "gn:longitude":23.95105,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Orf\u00e1nio",
+    "gn:population":656,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03c6\u03ac\u03bd\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03c6\u03ac\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Orfanio"
+    ],
+    "name:und_x_variant":[
+        "Orf\u00e1ni",
+        "Orf\u00e1nion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734878,
+        "wk:page":"Orfani"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6456debf157b5c53aeda686e145fb683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326664869,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1326664869,
+    "wof:lastmodified":1537624867,
+    "wof:name":"Orfanio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":656,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95105,
+    40.7758,
+    23.95105,
+    40.7758
+],
+  "geometry": {"coordinates":[23.95105,40.7758],"type":"Point"}
+}

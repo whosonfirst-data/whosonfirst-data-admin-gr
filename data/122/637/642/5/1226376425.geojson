@@ -1,0 +1,79 @@
+{
+  "id": 1226376425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94945,38.51433,22.94945,38.51433",
+    "geom:latitude":38.51433,
+    "geom:longitude":22.94945,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9146",
+    "gn:asciiname":"Dionysos",
+    "gn:country_code":"GR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263063,
+    "gn:latitude":38.51433,
+    "gn:longitude":22.94945,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Di\u00f3nysos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Di\u00f3nysos"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03cc\u03bd\u03c5\u03c3\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Tzam\u00e1lion",
+        "Tsamali",
+        "Tzamal\u00ed",
+        "Dhi\u00f3nisos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263063
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"60dde4ebc6063b2c3bb40786de01f8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226376425,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1226376425,
+    "wof:lastmodified":1537624664,
+    "wof:name":"Dionysos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94945,
+    38.51433,
+    22.94945,
+    38.51433
+],
+  "geometry": {"coordinates":[22.94945,38.51433],"type":"Point"}
+}

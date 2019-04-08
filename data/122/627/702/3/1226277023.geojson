@@ -1,0 +1,68 @@
+{
+  "id": 1226277023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11003,35.32164,25.11003,35.32164",
+    "geom:latitude":35.32164,
+    "geom:longitude":25.11003,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9305",
+    "gn:asciiname":"Treis Vagies",
+    "gn:country_code":"GR",
+    "gn:dem":13,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224639,
+    "gn:latitude":35.32164,
+    "gn:longitude":25.11003,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Treis Vagies",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224639
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e76bd2ff21e1bafb7d82e1379bfb8674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226277023,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226277023,
+    "wof:lastmodified":1536888104,
+    "wof:name":"Treis Vagies",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11003,
+    35.32164,
+    25.11003,
+    35.32164
+],
+  "geometry": {"coordinates":[25.11003,35.32164],"type":"Point"}
+}

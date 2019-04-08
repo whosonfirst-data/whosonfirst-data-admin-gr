@@ -1,0 +1,108 @@
+{
+  "id": 1125929227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13702,36.38685,28.13702,36.38685",
+    "geom:latitude":36.38685,
+    "geom:longitude":28.13702,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":36.38685,
+    "lbl:longitude":28.13702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0633\u062a\u064a\u062f\u0627\u060c \u062f\u0648\u062f\u064a\u0643\u0627\u0646\u064a\u0633\u0648\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Pastida"
+    ],
+    "name:eng_x_preferred":[
+        "Pastida"
+    ],
+    "name:fin_x_preferred":[
+        "Past\u00edda"
+    ],
+    "name:ger_x_preferred":[
+        "Pastida"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b1\u03c3\u03c4\u03af\u03b4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5"
+    ],
+    "name:nno_x_preferred":[
+        "Past\u00edda"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6697693,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pastida",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Aegean",
+    "qs_pg:photos":255,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":255,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1136979,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56023254,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Aegean",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6697693,
+        "gp:id":56023254,
+        "qs_pg:id":1136979,
+        "wd:id":"Q3561519"
+    },
+    "wof:country":"GR",
+    "wof:created":1497296747,
+    "wof:geomhash":"743e8a08a496aceb7acf589161f57980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125929227,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1125929227,
+    "wof:lastmodified":1514444031,
+    "wof:name":"Pastida",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13702,
+    36.38685,
+    28.13702,
+    36.38685
+],
+  "geometry": {"coordinates":[28.13702,36.38685],"type":"Point"}
+}

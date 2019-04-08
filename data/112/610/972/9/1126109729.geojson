@@ -1,0 +1,107 @@
+{
+  "id": 1126109729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61667,38.4,23.61667,38.4",
+    "geom:latitude":38.4,
+    "geom:longitude":23.61667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1195,
+    "gn:population":1171,
+    "iso:country":"GR",
+    "lbl:latitude":38.4,
+    "lbl:longitude":23.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u0393\u03b5\u03c1\u03b1\u03bb\u03af"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03ac\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03c1\u03b1\u03bb\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Faros"
+    ],
+    "name:unk_x_variant":[
+        "Yeral\u00edon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":262465,
+    "qs_pg:gn_pop":1195,
+    "qs_pg:name":"Faros",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Attica",
+    "qs_pg:photos":380,
+    "qs_pg:photos_1k":77,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":380,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1236804,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":22723941,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Attica",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101875513,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262465,
+        "gp:id":22723941,
+        "qs_pg:id":1236804
+    },
+    "wof:country":"GR",
+    "wof:created":1497317969,
+    "wof:geomhash":"e15c8c772b37e934195acd4884cc7d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101875513,
+            "neighbourhood_id":1126109729,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1126109729,
+    "wof:lastmodified":1509412545,
+    "wof:name":"Faros",
+    "wof:parent_id":101875513,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1171,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61667,
+    38.4,
+    23.61667,
+    38.4
+],
+  "geometry": {"coordinates":[23.61667,38.4],"type":"Point"}
+}

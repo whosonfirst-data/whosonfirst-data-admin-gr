@@ -1,0 +1,72 @@
+{
+  "id": 1276156973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09492,35.16841,25.09492,35.16841",
+    "geom:latitude":35.16841,
+    "geom:longitude":25.09492,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9305",
+    "gn:asciiname":"Roukanion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254208,
+    "gn:latitude":35.16841,
+    "gn:longitude":25.09492,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Rouk\u00e1nion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rouk\u00e1ni",
+        "Rouk\u00e1nion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254208
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0ce9e9100d45377a6dbbea8d2605282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276156973,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276156973,
+    "wof:lastmodified":1537624257,
+    "wof:name":"Roukanion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09492,
+    35.16840999999999,
+    25.09492,
+    35.16840999999999
+],
+  "geometry": {"coordinates":[25.09492,35.16840999999999],"type":"Point"}
+}

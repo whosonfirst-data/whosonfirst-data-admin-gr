@@ -1,0 +1,88 @@
+{
+  "id": 1310142083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26844,40.57071,21.26844,40.57071",
+    "geom:latitude":40.57071,
+    "geom:longitude":21.26844,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9063",
+    "gn:asciiname":"Kefalari",
+    "gn:country_code":"GR",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735844,
+    "gn:latitude":40.57071,
+    "gn:longitude":21.26844,
+    "gn:modification_date":"2018-03-23",
+    "gn:name":"Kefal\u00e1ri",
+    "gn:population":353,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u03a3\u03ad\u03c4\u03bf\u03bc\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c6\u03b1\u03bb\u03ac\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03c6\u03b1\u03bb\u03ac\u03c1\u03b9\u03bf\u03bd",
+        "\u03a3\u03ad\u03c4\u03bf\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kefalari"
+    ],
+    "name:und_x_variant":[
+        "S\u00e9toma",
+        "Kefal\u00e1ri",
+        "Kefal\u00e1rion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735844
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fc11423f3d8284a6eaf1fb1ba1f98d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310142083,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1310142083,
+    "wof:lastmodified":1537624927,
+    "wof:name":"Kefalari",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26844,
+    40.57071,
+    21.26844,
+    40.57071
+],
+  "geometry": {"coordinates":[21.26844,40.57071],"type":"Point"}
+}

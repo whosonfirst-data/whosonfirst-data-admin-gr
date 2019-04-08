@@ -1,0 +1,76 @@
+{
+  "id": 1209244235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66426,40.3681,23.66426,40.3681",
+    "geom:latitude":40.3681,
+    "geom:longitude":23.66426,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9059",
+    "gn:asciiname":"Plana",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734592,
+    "gn:latitude":40.3681,
+    "gn:longitude":23.66426,
+    "gn:modification_date":"2014-08-14",
+    "gn:name":"Plan\u00e1",
+    "gn:population":210,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03bd\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Plana"
+    ],
+    "name:und_x_variant":[
+        "\u00c1ssa",
+        "Plan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734592
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"67e50f71c6d14b026486c9c18c585e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209244235
+        }
+    ],
+    "wof:id":1209244235,
+    "wof:lastmodified":1537624851,
+    "wof:name":"Plana",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66426,
+    40.3681,
+    23.66426,
+    40.3681
+],
+  "geometry": {"coordinates":[23.66426,40.3681],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326964445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53731,36.75399,24.53731,36.75399",
+    "geom:latitude":36.75399,
+    "geom:longitude":24.53731,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9287",
+    "gn:asciiname":"Voudia",
+    "gn:country_code":"GR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251790,
+    "gn:latitude":36.75399,
+    "gn:longitude":24.53731,
+    "gn:modification_date":"2015-05-09",
+    "gn:name":"Vo\u00fadia",
+    "gn:population":12,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03cd\u03b4\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Voudia"
+    ],
+    "name:und_x_variant":[
+        "Vo\u00fadhia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251790
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"63cc79b01c47ed36b2275ae0dcbff7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326964445,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1326964445,
+    "wof:lastmodified":1537624155,
+    "wof:name":"Voudia",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53731,
+    36.75399,
+    24.53731,
+    36.75399
+],
+  "geometry": {"coordinates":[24.53731,36.75399],"type":"Point"}
+}

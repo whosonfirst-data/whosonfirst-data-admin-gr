@@ -1,0 +1,73 @@
+{
+  "id": 1226676651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13983,39.23053,20.13983,39.23053",
+    "geom:latitude":39.23053,
+    "geom:longitude":20.13983,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9119",
+    "gn:asciiname":"Petratika",
+    "gn:country_code":"GR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255426,
+    "gn:latitude":39.23053,
+    "gn:longitude":20.13983,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Petr\u00e1tika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Petr\u00e1tika"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c4\u03c1\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255426
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"88bb9c46e22c977505397dcda23ffa07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226676651,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226676651,
+    "wof:lastmodified":1537624306,
+    "wof:name":"Petratika",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13983,
+    39.23053,
+    20.13983,
+    39.23053
+],
+  "geometry": {"coordinates":[20.13983,39.23053],"type":"Point"}
+}

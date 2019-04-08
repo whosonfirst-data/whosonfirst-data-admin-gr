@@ -1,0 +1,71 @@
+{
+  "id": 1327468713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27179,39.03972,26.27179,39.03972",
+    "geom:latitude":39.03972,
+    "geom:longitude":26.27179,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"9261",
+    "gn:asciiname":"Kato Stavros",
+    "gn:country_code":"GR",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9034626,
+    "gn:latitude":39.03972,
+    "gn:longitude":26.27179,
+    "gn:modification_date":"2014-05-05",
+    "gn:name":"K\u00e1to Stavr\u00f3s",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9034626
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"575bd82174be5d4506d7952a454f19a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1327468713,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327468713,
+    "wof:lastmodified":1537551151,
+    "wof:name":"Kato Stavros",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27179000000001,
+    39.03972,
+    26.27179000000001,
+    39.03972
+],
+  "geometry": {"coordinates":[26.27179000000001,39.03972],"type":"Point"}
+}

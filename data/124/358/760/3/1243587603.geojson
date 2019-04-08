@@ -1,0 +1,79 @@
+{
+  "id": 1243587603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26501,38.52589,22.26501,38.52589",
+    "geom:latitude":38.52589,
+    "geom:longitude":22.26501,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"9166",
+    "gn:asciiname":"Karoutes",
+    "gn:country_code":"GR",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260899,
+    "gn:latitude":38.52589,
+    "gn:longitude":22.26501,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Karo\u00fates",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Karo\u00fates"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03bf\u03cd\u03c4\u03b5\u03c2",
+        "\u039a\u03b1\u03c1\u03bf\u03cd\u03c4\u03b1\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Karo\u00fatia",
+        "Karo\u00fatais",
+        "Karo\u00fatai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260899
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"985af5ef580cdf9f19b09770fc8aa6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243587603,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1243587603,
+    "wof:lastmodified":1537624564,
+    "wof:name":"Karoutes",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26501,
+    38.52589,
+    22.26501,
+    38.52589
+],
+  "geometry": {"coordinates":[22.26501,38.52589],"type":"Point"}
+}

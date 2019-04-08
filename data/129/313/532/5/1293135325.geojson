@@ -1,0 +1,84 @@
+{
+  "id": 1293135325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81828,37.74853,20.81828,37.74853",
+    "geom:latitude":37.74853,
+    "geom:longitude":20.81828,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Romirion",
+    "gn:country_code":"GR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254229,
+    "gn:latitude":37.74853,
+    "gn:longitude":20.81828,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Rom\u00edrion",
+    "gn:population":605,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03bc\u03af\u03c1\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "\u03a1\u03bf\u03bc\u03af\u03c1\u03b9"
+    ],
+    "name:eng_x_variant":[
+        "Romiri"
+    ],
+    "name:und_x_variant":[
+        "Rom\u00edri",
+        "Rom\u00edrion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254229,
+        "wk:page":"Romiri"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"83bba3f53207719a0995d72d31936654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293135325,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293135325,
+    "wof:lastmodified":1537624257,
+    "wof:name":"Romirion",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81828,
+    37.74853,
+    20.81828,
+    37.74853
+],
+  "geometry": {"coordinates":[20.81828,37.74853],"type":"Point"}
+}

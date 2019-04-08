@@ -1,0 +1,70 @@
+{
+  "id": 1226479117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03707,36.27401,28.03707,36.27401",
+    "geom:latitude":36.27401,
+    "geom:longitude":28.03707,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9296.0",
+    "gn:asciiname":"Agia Eleousa",
+    "gn:country_code":"GR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11524707,
+    "gn:latitude":36.27401,
+    "gn:longitude":28.03707,
+    "gn:modification_date":"2017-05-05",
+    "gn:name":"Agia Eleo\u00fasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u0395\u03bb\u03b5\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11524707
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8729602f4838ae86f85e3d48ed14e449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226479117,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1226479117,
+    "wof:lastmodified":1537625120,
+    "wof:name":"Agia Eleousa",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03707,
+    36.27401,
+    28.03707,
+    36.27401
+],
+  "geometry": {"coordinates":[28.03707,36.27401],"type":"Point"}
+}

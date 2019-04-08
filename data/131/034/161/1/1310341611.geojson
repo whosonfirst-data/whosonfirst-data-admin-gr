@@ -1,0 +1,80 @@
+{
+  "id": 1310341611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35072,37.99202,22.35072,37.99202",
+    "geom:latitude":37.99202,
+    "geom:longitude":22.35072,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9247",
+    "gn:asciiname":"Kato Tarsos",
+    "gn:country_code":"GR",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260474,
+    "gn:latitude":37.99202,
+    "gn:longitude":22.35072,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"K\u00e1to Tars\u00f3s",
+    "gn:population":13,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a4\u03b1\u03c1\u03c3\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Tarsos"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Tars\u00f3s",
+        "K\u00e1to Tarsin\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260474
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bddc7b6a76cf72b823cf8c0521cab258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310341611,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1310341611,
+    "wof:lastmodified":1537624542,
+    "wof:name":"Kato Tarsos",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35072000000001,
+    37.99202,
+    22.35072000000001,
+    37.99202
+],
+  "geometry": {"coordinates":[22.35072000000001,37.99202],"type":"Point"}
+}

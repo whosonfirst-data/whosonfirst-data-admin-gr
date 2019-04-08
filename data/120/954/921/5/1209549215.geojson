@@ -1,0 +1,74 @@
+{
+  "id": 1209549215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66753,35.22771,24.66753,35.22771",
+    "geom:latitude":35.22771,
+    "geom:longitude":24.66753,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Monastiraki",
+    "gn:country_code":"GR",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256814,
+    "gn:latitude":35.22771,
+    "gn:longitude":24.66753,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Monastir\u00e1ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03ac\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Monastir\u00e1ki",
+        "Monastir\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256814,
+        "wk:page":"Monastiraki%2C_Crete"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c6609f4e2466201ff096219954dbb26f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209549215
+        }
+    ],
+    "wof:id":1209549215,
+    "wof:lastmodified":1537624372,
+    "wof:name":"Monastiraki",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66753,
+    35.22770999999999,
+    24.66753,
+    35.22770999999999
+],
+  "geometry": {"coordinates":[24.66753,35.22770999999999],"type":"Point"}
+}

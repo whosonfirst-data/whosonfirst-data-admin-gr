@@ -1,0 +1,78 @@
+{
+  "id": 1327262705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91319,36.80854,21.91319,36.80854",
+    "geom:latitude":36.80854,
+    "geom:longitude":21.91319,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9257",
+    "gn:asciiname":"Charokopio",
+    "gn:country_code":"GR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260058,
+    "gn:latitude":36.80854,
+    "gn:longitude":21.91319,
+    "gn:modification_date":"2017-09-08",
+    "gn:name":"Charokopio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03b1\u03ba\u03bf\u03c0\u03bf\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Charakopio"
+    ],
+    "name:und_x_variant":[
+        "Charakopio",
+        "Kharakopio",
+        "Kharokopi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260058
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c91f0de6e57bd92d2506ef0b246ad200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327262705,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1327262705,
+    "wof:lastmodified":1537624520,
+    "wof:name":"Charokopio",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91319,
+    36.80854,
+    21.91319,
+    36.80854
+],
+  "geometry": {"coordinates":[21.91319,36.80854],"type":"Point"}
+}

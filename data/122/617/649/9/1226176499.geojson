@@ -1,0 +1,72 @@
+{
+  "id": 1226176499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73057,35.34496,24.73057,35.34496",
+    "geom:latitude":35.34496,
+    "geom:longitude":24.73057,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Khoumerion",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259887,
+    "gn:latitude":35.34496,
+    "gn:longitude":24.73057,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Khoum\u00e9rion",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khoum\u00e9ri",
+        "Khoum\u00e9rion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259887
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"db9ebcb027ae05ff0d7526b5e2337deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226176499,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226176499,
+    "wof:lastmodified":1537624512,
+    "wof:name":"Khoumerion",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73057,
+    35.34496,
+    24.73057,
+    35.34496
+],
+  "geometry": {"coordinates":[24.73057,35.34496],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277019979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45081,37.03797,22.45081,37.03797",
+    "geom:latitude":37.03797,
+    "geom:longitude":22.45081,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9252",
+    "gn:asciiname":"Ayia Kiriaki",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264242,
+    "gn:latitude":37.03797,
+    "gn:longitude":22.45081,
+    "gn:modification_date":"2014-04-23",
+    "gn:name":"Ay\u00eda Kiriak\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Tsao\u00fasi",
+        "Ay\u00eda Kiriak\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264242
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"64cb85dc8afdd54feef5fa5800466225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277019979,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277019979,
+    "wof:lastmodified":1537624719,
+    "wof:name":"Ayia Kiriaki",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45081,
+    37.03797,
+    22.45081,
+    37.03797
+],
+  "geometry": {"coordinates":[22.45081,37.03797],"type":"Point"}
+}

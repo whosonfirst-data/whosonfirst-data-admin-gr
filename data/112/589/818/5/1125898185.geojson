@@ -1,0 +1,98 @@
+{
+  "id": 1125898185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58417,39.26889,21.58417,39.26889",
+    "geom:latitude":39.26889,
+    "geom:longitude":21.58417,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16,
+    "gn:population":16,
+    "iso:country":"GR",
+    "lbl:latitude":39.26889,
+    "lbl:longitude":21.58417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Chalki\u00f3poulo"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bb\u03ba\u03b9\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf",
+        "\u03a7\u03b1\u03bb\u03ba\u03b9\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Kharitopo\u00falou"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":260064,
+    "qs_pg:gn_pop":16,
+    "qs_pg:name":"Chalkiopoulo",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":919776,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":55869569,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260064,
+        "gp:id":55869569,
+        "qs_pg:id":919776
+    },
+    "wof:country":"GR",
+    "wof:created":1497295678,
+    "wof:geomhash":"a07df3166321d89b6b5fe587f624de19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125898185,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125898185,
+    "wof:lastmodified":1509399241,
+    "wof:name":"Chalkiopoulo",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58417,
+    39.26889,
+    21.58417,
+    39.26889
+],
+  "geometry": {"coordinates":[21.58417,39.26889],"type":"Point"}
+}

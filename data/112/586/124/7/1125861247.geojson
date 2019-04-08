@@ -1,0 +1,122 @@
+{
+  "id": 1125861247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18333,37.66667,22.18333,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":22.18333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":906,
+    "gn:population":906,
+    "iso:country":"GR",
+    "lbl:latitude":37.66667,
+    "lbl:longitude":22.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u062a\u064a\u0646\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0442\u0438\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Vytina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c5\u03c4\u03af\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03a5\u03a4\u0399\u039d\u0391"
+    ],
+    "name:eng_x_preferred":[
+        "Vytina"
+    ],
+    "name:fre_x_preferred":[
+        "Vytina"
+    ],
+    "name:ger_x_preferred":[
+        "Vytina"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03c5\u03c4\u03af\u03bd\u03b1 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Vytina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30c6\u30a3\u30ca"
+    ],
+    "name:nno_x_preferred":[
+        "Vyt\u00edna"
+    ],
+    "name:rum_x_preferred":[
+        "Vytina"
+    ],
+    "name:swe_x_preferred":[
+        "Vyt\u00edna"
+    ],
+    "name:unk_x_variant":[
+        "Vit\u00edna"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":251931,
+    "qs_pg:gn_pop":906,
+    "qs_pg:name":"Vyt\u00edna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":123748,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251931,
+        "qs_pg:id":123748,
+        "wd:id":"Q1727350"
+    },
+    "wof:country":"GR",
+    "wof:created":1497293838,
+    "wof:geomhash":"471f0985f8e5af783f151dae615c0f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125861247,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125861247,
+    "wof:lastmodified":1514444075,
+    "wof:name":"Vyt\u00edna",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":906,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18333,
+    37.66667,
+    22.18333,
+    37.66667
+],
+  "geometry": {"coordinates":[22.18333,37.66667],"type":"Point"}
+}

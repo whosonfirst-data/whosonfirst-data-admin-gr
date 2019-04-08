@@ -1,0 +1,72 @@
+{
+  "id": 1310441505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05307,40.29483,24.05307,40.29483",
+    "geom:latitude":40.29483,
+    "geom:longitude":24.05307,
+    "gn:admin1_code":"736572",
+    "gn:asciiname":"Thivais",
+    "gn:country_code":"GR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734068,
+    "gn:latitude":40.29483,
+    "gn:longitude":24.05307,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Thiva\u1e2fs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0398\u03b7\u03b2\u03b1\u0390\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Gournosk\u00edtai",
+        "Thiva\u1e2fs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734068
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"35dc523187259e880211afe78ac5ace9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310441505,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1310441505,
+    "wof:lastmodified":1537624821,
+    "wof:name":"Thivais",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05307,
+    40.29483,
+    24.05307,
+    40.29483
+],
+  "geometry": {"coordinates":[24.05307,40.29483],"type":"Point"}
+}

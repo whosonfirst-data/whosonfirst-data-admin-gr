@@ -1,0 +1,77 @@
+{
+  "id": 1327262663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.57125,35.47689,23.57125,35.47689",
+    "geom:latitude":35.47689,
+    "geom:longitude":23.57125,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322",
+    "gn:asciiname":"Limeniskos",
+    "gn:country_code":"GR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374192,
+    "gn:latitude":35.47689,
+    "gn:longitude":23.57125,
+    "gn:modification_date":"2015-09-14",
+    "gn:name":"Limen\u00edskos",
+    "gn:population":40,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03b5\u03bd\u03af\u03c3\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Limeniskos"
+    ],
+    "name:und_x_variant":[
+        "Limen\u00edskos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374192
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a19e606de7bb61c81ac23fa1271e969c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1327262663,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327262663,
+    "wof:lastmodified":1537625004,
+    "wof:name":"Limeniskos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57125,
+    35.47689000000001,
+    23.57125,
+    35.47689000000001
+],
+  "geometry": {"coordinates":[23.57125,35.47689000000001],"type":"Point"}
+}

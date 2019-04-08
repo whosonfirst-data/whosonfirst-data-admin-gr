@@ -1,0 +1,130 @@
+{
+  "id": 101849359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.109375,38.376374,23.109375,38.376374",
+    "geom:latitude":38.376374,
+    "geom:longitude":23.109375,
+    "gn:population":4275,
+    "iso:country":"GR",
+    "lbl:latitude":38.376374,
+    "lbl:longitude":23.109375,
+    "mps:latitude":38.376374,
+    "mps:longitude":23.109375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u064a\u0627\u0631\u062a\u0648\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Al\u00edartos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03af\u03b1\u03c1\u03c4\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03cd\u03bb\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Aliartos"
+    ],
+    "name:fin_x_preferred":[
+        "Al\u00edartos"
+    ],
+    "name:fra_x_preferred":[
+        "Ali\u00e1rtos"
+    ],
+    "name:ita_x_preferred":[
+        "Aliartos"
+    ],
+    "name:lat_x_preferred":[
+        "Haliartus"
+    ],
+    "name:nld_x_preferred":[
+        "Aliartos"
+    ],
+    "name:nno_x_preferred":[
+        "Ali\u00e1rtos"
+    ],
+    "name:pol_x_preferred":[
+        "Aliartos"
+    ],
+    "name:swe_x_preferred":[
+        "Haliartos"
+    ],
+    "name:unk_x_variant":[
+        "Mo\u00falkion"
+    ],
+    "name:vie_x_preferred":[
+        "Aliartos"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"BOIVTIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u039b\u0399\u0391\u03a1\u03a4\u039f\u03a3",
+    "qs:loc_alt":"ALIARTOS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.366667,
+    "wd:longitude":23.1,
+    "wd:wordcount":276,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265342,
+        "gp:id":56558156,
+        "qs:id":123885,
+        "wd:id":"Q1235010",
+        "wk:page":"Aliartos"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"562976ec2b91aed63c0e2e699d06ef93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849359,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849359,
+    "wof:lastmodified":1544740912,
+    "wof:name":"\u0391\u039b\u0399\u0391\u03a1\u03a4\u039f\u03a3",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":4275,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.109375,
+    38.376374,
+    23.109375,
+    38.376374
+],
+  "geometry": {"coordinates":[23.109375,38.376374],"type":"Point"}
+}

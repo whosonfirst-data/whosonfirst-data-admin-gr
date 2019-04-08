@@ -1,0 +1,79 @@
+{
+  "id": 1343592713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03646,37.71733,24.03646,37.71733",
+    "geom:latitude":37.71733,
+    "geom:longitude":24.03646,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Ergatikes Katoikies Attikis",
+    "gn:country_code":"GR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036752,
+    "gn:latitude":37.71733,
+    "gn:longitude":24.03646,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Ergatik\u00e9s Katoik\u00edes Attik\u00eds",
+    "gn:population":823,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03b3\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u039a\u03b1\u03c4\u03bf\u03b9\u03ba\u03af\u03b5\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a1\u03ce\u03c3\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ergatikes Katoikies Attikis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036752
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f53bb8a1146c62257e778e09e3a8e6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343592713,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343592713,
+    "wof:lastmodified":1537625041,
+    "wof:name":"Ergatikes Katoikies Attikis",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":823,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03646,
+    37.71733,
+    24.03646,
+    37.71733
+],
+  "geometry": {"coordinates":[24.03646,37.71733],"type":"Point"}
+}

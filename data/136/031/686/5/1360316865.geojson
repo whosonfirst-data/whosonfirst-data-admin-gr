@@ -1,0 +1,75 @@
+{
+  "id": 1360316865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87613,35.02371,25.87613,35.02371",
+    "geom:latitude":35.02371,
+    "geom:longitude":25.87613,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Agia Fotia Ierapetras",
+    "gn:country_code":"GR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264262,
+    "gn:latitude":35.02371,
+    "gn:longitude":25.87613,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"Ag\u00eda Foti\u00e1 Ier\u00e1petras",
+    "gn:population":25,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a6\u03c9\u03c4\u03b9\u03ac \u0399\u03b5\u03c1\u03ac\u03c0\u03b5\u03c4\u03c1\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agia Fotia Ierapetras"
+    ],
+    "name:und_x_variant":[
+        "Ayia Fotia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264262
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"381529acdd74b0313ce0eb05a449b3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360316865,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360316865,
+    "wof:lastmodified":1537624720,
+    "wof:name":"Agia Fotia Ierapetras",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87613,
+    35.02370999999999,
+    25.87613,
+    35.02370999999999
+],
+  "geometry": {"coordinates":[25.87613,35.02370999999999],"type":"Point"}
+}

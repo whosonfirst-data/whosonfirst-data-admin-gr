@@ -1,0 +1,74 @@
+{
+  "id": 1209751597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25294,37.59196,26.25294,37.59196",
+    "geom:latitude":37.59196,
+    "geom:longitude":26.25294,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"48.0",
+    "gn:admin3_code":"9259",
+    "gn:asciiname":"Xylosyrtis",
+    "gn:country_code":"GR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251517,
+    "gn:latitude":37.59196,
+    "gn:longitude":26.25294,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Xylos\u00fdrtis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Xylos\u00fdrtis"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03c5\u03bb\u03bf\u03c3\u03cd\u03c1\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Xilos\u00edrtis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251517
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"19b7695e8d99eff114971653f0cac042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1209751597,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209751597,
+    "wof:lastmodified":1537624144,
+    "wof:name":"Xylosyrtis",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25294,
+    37.59196,
+    26.25294,
+    37.59196
+],
+  "geometry": {"coordinates":[26.25294,37.59196],"type":"Point"}
+}

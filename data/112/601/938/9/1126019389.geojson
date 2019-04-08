@@ -1,0 +1,97 @@
+{
+  "id": 1126019389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5,41.5,26.5,41.5",
+    "geom:latitude":41.5,
+    "geom:longitude":26.5,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":932,
+    "gn:population":932,
+    "iso:country":"GR",
+    "lbl:latitude":41.5,
+    "lbl:longitude":26.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf\u03c2 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "N\u00e9os P\u00fdrgos"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e9os P\u00edrgos"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734937,
+    "qs_pg:gn_pop":932,
+    "qs_pg:name":"Neos Pirgos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Macedonia and Thrace",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":942383,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":958238,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Macedonia and Thrace",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734937,
+        "gp:id":958238,
+        "qs_pg:id":942383
+    },
+    "wof:country":"GR",
+    "wof:created":1497300742,
+    "wof:geomhash":"c347333663a352192a40e5e400559da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126019389,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1126019389,
+    "wof:lastmodified":1509407124,
+    "wof:name":"Neos Pirgos",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":932,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5,
+    41.5,
+    26.5,
+    41.5
+],
+  "geometry": {"coordinates":[26.5,41.5],"type":"Point"}
+}

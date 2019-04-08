@@ -1,0 +1,106 @@
+{
+  "id": 85902703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":30330804.920795,
+    "geom:bbox":"23.748874,37.867088,23.748874,37.867088",
+    "geom:latitude":37.867088,
+    "geom:longitude":23.748874,
+    "gn:id":"",
+    "iso:country":"GR",
+    "lbl:latitude":37.867088,
+    "lbl:longitude":23.748874,
+    "mps:latitude":37.862651,
+    "mps:longitude":23.755217,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Dytiko Aerodromio (West Air)"
+    ],
+    "name:unk_x_variant":[
+        "Dytiko Aerodromio (West Air)"
+    ],
+    "qs:gn_adm0_cc":"GR",
+    "qs:gn_id":0,
+    "qs:gn_local":8133886,
+    "qs:gn_nam_loc":"Glyfada, Attica, Attica, GR",
+    "qs:gn_namadm1":"ESYE31",
+    "qs:local_max":1328,
+    "qs:local_sum":1328,
+    "qs:localhoods":1,
+    "qs:name":"Dytiko Aerodromio (West Air)",
+    "qs:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs:name_adm1":"Attica",
+    "qs:name_adm2":"Attica",
+    "qs:name_lau":"Glyfada",
+    "qs:name_local":"Glyfada",
+    "qs:photo_max":254,
+    "qs:photo_sum":1328,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":75,
+    "qs:woe_adm0":23424833,
+    "qs:woe_adm1":56558063,
+    "qs:woe_adm2":12577879,
+    "qs:woe_lau":24544064,
+    "qs:woe_local":24544064,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":965844,
+        "qs:id":215069,
+        "qs_pg:id":215069
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"154016dc4ff2d0d38ba87d1c3db7bf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":85902703,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":85902703,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935923,
+    "wof:name":"Dytiko Aerodromio (West Air)",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.748874,
+    37.867088,
+    23.748874,
+    37.867088
+],
+  "geometry": {"coordinates":[23.748874,37.867088],"type":"Point"}
+}

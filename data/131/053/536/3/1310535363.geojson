@@ -1,0 +1,73 @@
+{
+  "id": 1310535363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64762,38.75023,21.64762,38.75023",
+    "geom:latitude":38.75023,
+    "geom:longitude":21.64762,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"30.0",
+    "gn:admin3_code":"9157",
+    "gn:asciiname":"Kouli",
+    "gn:country_code":"GR",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165851,
+    "gn:latitude":38.75023,
+    "gn:longitude":21.64762,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Ko\u00fali",
+    "gn:population":65,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bb\u03b9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165851
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c5f418d737e13a351a58b724cdfb183a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310535363,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1310535363,
+    "wof:lastmodified":1537551165,
+    "wof:name":"Kouli",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64762,
+    38.75023,
+    21.64762,
+    38.75023
+],
+  "geometry": {"coordinates":[21.64762,38.75023],"type":"Point"}
+}

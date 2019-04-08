@@ -1,0 +1,74 @@
+{
+  "id": 1226571915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.07384,35.13192,26.07384,35.13192",
+    "geom:latitude":35.13192,
+    "geom:longitude":26.07384,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Epano Episkopi",
+    "gn:country_code":"GR",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262679,
+    "gn:latitude":35.13192,
+    "gn:longitude":26.07384,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Ep\u00e1no Episkop\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03ac\u03bd\u03c9 \u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Ep\u00e1no Piskop\u00ed",
+        "Ep\u00e1no Episkop\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262679
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6949c223871528da67f28ef9b1979fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226571915,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1226571915,
+    "wof:lastmodified":1537624643,
+    "wof:name":"Epano Episkopi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07384,
+    35.13192,
+    26.07384,
+    35.13192
+],
+  "geometry": {"coordinates":[26.07384,35.13192],"type":"Point"}
+}

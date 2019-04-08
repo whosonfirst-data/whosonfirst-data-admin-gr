@@ -1,0 +1,77 @@
+{
+  "id": 1226778303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.19273,40.03113,21.19273,40.03113",
+    "geom:latitude":40.03113,
+    "geom:longitude":21.19273,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Lavda",
+    "gn:country_code":"GR",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735473,
+    "gn:latitude":40.03113,
+    "gn:longitude":21.19273,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"L\u00e1vda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e1vda"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03b2\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "L\u00e1vdha",
+        "L\u00e1vdhas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735473
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bb376c4c38ef0c7d8bb37d1a3f5e0d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226778303,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1226778303,
+    "wof:lastmodified":1537624906,
+    "wof:name":"Lavda",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.19273,
+    40.03113,
+    21.19273,
+    40.03113
+],
+  "geometry": {"coordinates":[21.19273,40.03113],"type":"Point"}
+}

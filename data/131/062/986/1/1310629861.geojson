@@ -1,0 +1,78 @@
+{
+  "id": 1310629861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65242,37.93797,21.65242,37.93797",
+    "geom:latitude":37.93797,
+    "geom:longitude":21.65242,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Rachi",
+    "gn:country_code":"GR",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254408,
+    "gn:latitude":37.93797,
+    "gn:longitude":21.65242,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"R\u00e1chi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "R\u00e1chi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03ac\u03c7\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Paliokost\u00e9\u00efka",
+        "Palaiokosta\u00edika",
+        "R\u00e1khi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254408
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d0c175a2a3a63786e35177dcb346ec7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310629861,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310629861,
+    "wof:lastmodified":1537624267,
+    "wof:name":"Rachi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65242000000001,
+    37.93797,
+    21.65242000000001,
+    37.93797
+],
+  "geometry": {"coordinates":[21.65242000000001,37.93797],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1209850387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.68022,38.74987,20.68022,38.74987",
+    "geom:latitude":38.74987,
+    "geom:longitude":20.68022,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Alexandros",
+    "gn:country_code":"GR",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265351,
+    "gn:latitude":38.74987,
+    "gn:longitude":20.68022,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Al\u00e9xandros",
+    "gn:population":22,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Alexandros"
+    ],
+    "name:und_x_variant":[
+        "Al\u00e9xandhros",
+        "Al\u00e9xandros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265351
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4a9a4d81b132be0d5ed5822d476615d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209850387,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1209850387,
+    "wof:lastmodified":1537624772,
+    "wof:name":"Alexandros",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.68022,
+    38.74987,
+    20.68022,
+    38.74987
+],
+  "geometry": {"coordinates":[20.68022,38.74987],"type":"Point"}
+}

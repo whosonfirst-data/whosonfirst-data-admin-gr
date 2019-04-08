@@ -1,0 +1,81 @@
+{
+  "id": 1276473201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40923,38.07698,22.40923,38.07698",
+    "geom:latitude":38.07698,
+    "geom:longitude":22.40923,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9246",
+    "gn:asciiname":"Khelidhoreo",
+    "gn:country_code":"GR",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260018,
+    "gn:latitude":38.07698,
+    "gn:longitude":22.40923,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Khelidh\u00f3reo",
+    "gn:population":32,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bb\u03c5\u03b4\u03cc\u03c1\u03b5\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Chelydoreo"
+    ],
+    "name:und_x_variant":[
+        "Ko\u00fatos",
+        "Khelidh\u00f3rion",
+        "Khelidh\u00f3reon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260018
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b3aceb5f6ca8413fa5545ef606f77371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276473201,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276473201,
+    "wof:lastmodified":1537624518,
+    "wof:name":"Khelidhoreo",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40923,
+    38.07698,
+    22.40923,
+    38.07698
+],
+  "geometry": {"coordinates":[22.40923,38.07698],"type":"Point"}
+}

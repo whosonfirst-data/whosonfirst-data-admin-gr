@@ -1,0 +1,73 @@
+{
+  "id": 1209449609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.47451,40.12375,21.47451,40.12375",
+    "geom:latitude":40.12375,
+    "geom:longitude":21.47451,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Myrsina",
+    "gn:country_code":"GR",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735080,
+    "gn:latitude":40.12375,
+    "gn:longitude":21.47451,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Myrs\u00edna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Myrs\u00edna"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c5\u03c1\u03c3\u03af\u03bd\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Mers\u00edna",
+        "Mirs\u00edna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735080
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3ae18ed4016af4e25d6be616a710f9be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209449609
+        }
+    ],
+    "wof:id":1209449609,
+    "wof:lastmodified":1537624878,
+    "wof:name":"Myrsina",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.47451,
+    40.12375,
+    21.47451,
+    40.12375
+],
+  "geometry": {"coordinates":[21.47451,40.12375],"type":"Point"}
+}

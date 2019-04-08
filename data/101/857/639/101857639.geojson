@@ -1,0 +1,86 @@
+{
+  "id": 101857639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.590336,40.826206,22.590336,40.826206",
+    "geom:latitude":40.826206,
+    "geom:longitude":22.590336,
+    "gn:population":1722,
+    "iso:country":"GR",
+    "lbl:latitude":40.826206,
+    "lbl:longitude":22.590336,
+    "mps:latitude":40.826206,
+    "mps:longitude":22.590336,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b8\u03c5\u03c1\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "B\u00f3zets"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"PELLA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u0398\u03a5\u03a1\u0391",
+    "qs:loc_alt":"AUYRA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736682,
+        "gp:id":946741,
+        "qs:id":83344
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d9603575c04dc822b1f7200aa92fd477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857639,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857639,
+    "wof:lastmodified":1544744000,
+    "wof:name":"\u0391\u0398\u03a5\u03a1\u0391",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1722,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.590336,
+    40.826206,
+    22.590336,
+    40.826206
+],
+  "geometry": {"coordinates":[22.590336,40.826206],"type":"Point"}
+}

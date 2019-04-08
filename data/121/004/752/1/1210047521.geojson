@@ -1,0 +1,75 @@
+{
+  "id": 1210047521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64569,41.06562,25.64569,41.06562",
+    "geom:latitude":41.06562,
+    "geom:longitude":25.64569,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9019",
+    "gn:asciiname":"Mikro Pisto",
+    "gn:country_code":"GR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735114,
+    "gn:latitude":41.06562,
+    "gn:longitude":25.64569,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Mikr\u00f3 Pist\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mikr\u00f3 Pist\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc \u03a0\u03b9\u03c3\u03c4\u03cc",
+        "Mikr\u00f3n Pist\u00f3n",
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03bd \u03a0\u03b9\u03c3\u03c4\u03cc\u03bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735114
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a5254e41948f1bfb567964f4b11f8b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1210047521,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1210047521,
+    "wof:lastmodified":1537624881,
+    "wof:name":"Mikro Pisto",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64569,
+    41.06562,
+    25.64569,
+    41.06562
+],
+  "geometry": {"coordinates":[25.64569,41.06562],"type":"Point"}
+}

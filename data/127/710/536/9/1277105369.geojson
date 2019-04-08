@@ -1,0 +1,72 @@
+{
+  "id": 1277105369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45,37.9,21.45,37.9",
+    "geom:latitude":37.9,
+    "geom:longitude":21.45,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9139",
+    "gn:asciiname":"Ayia Anna",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264275,
+    "gn:latitude":37.9,
+    "gn:longitude":21.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ay\u00eda \u00c1nna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u00ed",
+        "Ay\u00eda \u00c1nna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264275
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e33ff132db3eba576d540fb26319bbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277105369,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1277105369,
+    "wof:lastmodified":1537624721,
+    "wof:name":"Ayia Anna",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45,
+    37.9,
+    21.45,
+    37.9
+],
+  "geometry": {"coordinates":[21.45,37.9],"type":"Point"}
+}

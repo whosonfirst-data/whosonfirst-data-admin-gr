@@ -1,0 +1,76 @@
+{
+  "id": 1226479189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87231,39.458,19.87231,39.458",
+    "geom:latitude":39.458,
+    "geom:longitude":19.87231,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Chalikounas",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354596,
+    "gn:latitude":39.458,
+    "gn:longitude":19.87231,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Chaliko\u00fanas",
+    "gn:population":81,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03b9\u03ba\u03bf\u03cd\u03bd\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Chalikounas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354596
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cce987836296fd9447b745a37c8a80d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226479189,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1226479189,
+    "wof:lastmodified":1537625004,
+    "wof:name":"Chalikounas",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87231,
+    39.458,
+    19.87231,
+    39.458
+],
+  "geometry": {"coordinates":[19.87231,39.458],"type":"Point"}
+}

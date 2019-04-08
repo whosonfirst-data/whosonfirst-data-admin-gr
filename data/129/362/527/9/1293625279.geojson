@@ -1,0 +1,80 @@
+{
+  "id": 1293625279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66511,38.72801,20.66511,38.72801",
+    "geom:latitude":38.72801,
+    "geom:longitude":20.66511,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Vavkeri",
+    "gn:country_code":"GR",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252106,
+    "gn:latitude":38.72801,
+    "gn:longitude":20.66511,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"Vavker\u00ed",
+    "gn:population":63,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c5\u03ba\u03b5\u03c1\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Vafkeri"
+    ],
+    "name:und_x_variant":[
+        "Vafkeri",
+        "Vaukeri"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252106
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"84cd1f00b174e2eaa55d4de15f8f3090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625279,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1293625279,
+    "wof:lastmodified":1537624169,
+    "wof:name":"Vavkeri",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66511,
+    38.72801,
+    20.66511,
+    38.72801
+],
+  "geometry": {"coordinates":[20.66511,38.72801],"type":"Point"}
+}

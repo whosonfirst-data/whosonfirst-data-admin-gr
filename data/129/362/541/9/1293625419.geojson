@@ -1,0 +1,76 @@
+{
+  "id": 1293625419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67025,38.44233,21.67025,38.44233",
+    "geom:latitude":38.44233,
+    "geom:longitude":21.67025,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Kountantlaiika",
+    "gn:country_code":"GR",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":259058,
+    "gn:latitude":38.44233,
+    "gn:longitude":21.67025,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kountantla\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Kountantla\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bd\u03c4\u03b1\u03bd\u03c4\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Koundandla\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259058
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"51f392efb47715191f5975d3192d9ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625419,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293625419,
+    "wof:lastmodified":1537624478,
+    "wof:name":"Kountantlaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67025,
+    38.44233,
+    21.67025,
+    38.44233
+],
+  "geometry": {"coordinates":[21.67025,38.44233],"type":"Point"}
+}

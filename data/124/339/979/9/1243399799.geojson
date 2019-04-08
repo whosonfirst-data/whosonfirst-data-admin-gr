@@ -1,0 +1,73 @@
+{
+  "id": 1243399799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22581,35.18942,26.22581,35.18942",
+    "geom:latitude":35.18942,
+    "geom:longitude":26.22581,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Spiliara",
+    "gn:country_code":"GR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609322,
+    "gn:latitude":35.18942,
+    "gn:longitude":26.22581,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Spili\u00e1ra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Spili\u00e1ra"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c0\u03b7\u03bb\u03b9\u03ac\u03c1\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609322
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"36a60a2f35399c16edd5ec1156179565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243399799,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243399799,
+    "wof:lastmodified":1537625030,
+    "wof:name":"Spiliara",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22581,
+    35.18942,
+    26.22581,
+    35.18942
+],
+  "geometry": {"coordinates":[26.22581,35.18942],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260215045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.90684,40.85671,25.90684,40.85671",
+    "geom:latitude":40.85671,
+    "geom:longitude":25.90684,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"9006",
+    "gn:asciiname":"Maistros",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735357,
+    "gn:latitude":40.85671,
+    "gn:longitude":25.90684,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ma\u1e2fstros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u0390\u03c3\u03c4\u03c1\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9os Ma\u1e2fstros",
+        "Ma\u1e2fstros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735357
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"85db2340e1e80b6aeda553c5d55c6691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260215045,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1260215045,
+    "wof:lastmodified":1537624897,
+    "wof:name":"Maistros",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.90684,
+    40.85671,
+    25.90684,
+    40.85671
+],
+  "geometry": {"coordinates":[25.90684,40.85671],"type":"Point"}
+}

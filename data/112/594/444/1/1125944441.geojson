@@ -1,0 +1,96 @@
+{
+  "id": 1125944441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85761,37.23658,22.85761,37.23658",
+    "geom:latitude":37.23658,
+    "geom:longitude":22.85761,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":209,
+    "gn:population":209,
+    "iso:country":"GR",
+    "lbl:latitude":37.23658,
+    "lbl:longitude":22.85761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Sapounaka\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c0\u03bf\u03c5\u03bd\u03b1\u03ba\u03b1\u03af\u03b9\u03ba\u03b1",
+        "Sapounak\u00e9\u00efka"
+    ],
+    "name:unk_x_variant":[
+        "Sapounak\u00e9\u00efka"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254102,
+    "qs_pg:gn_pop":209,
+    "qs_pg:name":"Sapounakaiika",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1285153,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":961508,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254102,
+        "gp:id":961508,
+        "qs_pg:id":1285153
+    },
+    "wof:country":"GR",
+    "wof:created":1497297227,
+    "wof:geomhash":"d0923763a232d53846069bffdb6a3ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125944441,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125944441,
+    "wof:lastmodified":1509402289,
+    "wof:name":"Sapounakaiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85761,
+    37.23658,
+    22.85761,
+    37.23658
+],
+  "geometry": {"coordinates":[22.85761,37.23658],"type":"Point"}
+}

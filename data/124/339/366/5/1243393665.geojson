@@ -1,0 +1,67 @@
+{
+  "id": 1243393665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06773,39.34213,23.06773,39.34213",
+    "geom:latitude":39.34213,
+    "geom:longitude":23.06773,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9105",
+    "gn:asciiname":"Ayios Vlasios",
+    "gn:country_code":"GR",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263685,
+    "gn:latitude":39.34213,
+    "gn:longitude":23.06773,
+    "gn:modification_date":"2015-01-15",
+    "gn:name":"\u00c1yios Vl\u00e1sios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263685
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1e2556c4f0190e8480fb32027305e601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243393665,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1243393665,
+    "wof:lastmodified":1536881121,
+    "wof:name":"Ayios Vlasios",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06773,
+    39.34213,
+    23.06773,
+    39.34213
+],
+  "geometry": {"coordinates":[23.06773,39.34213],"type":"Point"}
+}

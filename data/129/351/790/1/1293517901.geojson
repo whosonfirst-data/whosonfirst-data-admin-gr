@@ -1,0 +1,80 @@
+{
+  "id": 1293517901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58745,35.30749,24.58745,35.30749",
+    "geom:latitude":35.30749,
+    "geom:longitude":24.58745,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9318",
+    "gn:asciiname":"Charkia",
+    "gn:country_code":"GR",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260061,
+    "gn:latitude":35.30749,
+    "gn:longitude":24.58745,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Ch\u00e1rkia",
+    "gn:population":62,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03c1\u03ba\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Charkia"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00e1rkia",
+        "Kh\u00e1rkia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260061
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ffd5bd1e92401662c71f260244385e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293517901,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293517901,
+    "wof:lastmodified":1537624520,
+    "wof:name":"Charkia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58745,
+    35.30749,
+    24.58745,
+    35.30749
+],
+  "geometry": {"coordinates":[24.58745,35.30749],"type":"Point"}
+}

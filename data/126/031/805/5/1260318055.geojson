@@ -1,0 +1,73 @@
+{
+  "id": 1260318055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99875,37.68766,23.99875,37.68766",
+    "geom:latitude":37.68766,
+    "geom:longitude":23.99875,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219.0",
+    "gn:asciiname":"Agios Nektarios",
+    "gn:country_code":"GR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997080,
+    "gn:latitude":37.68766,
+    "gn:longitude":23.99875,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c1gios Nekt\u00e1rios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Nekt\u00e1rios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039d\u03b5\u03ba\u03c4\u03ac\u03c1\u03b9\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997080
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e42ef977d93185e39ef8718503a03ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260318055,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1260318055,
+    "wof:lastmodified":1537625100,
+    "wof:name":"Agios Nektarios",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99875,
+    37.68766,
+    23.99875,
+    37.68766
+],
+  "geometry": {"coordinates":[23.99875,37.68766],"type":"Point"}
+}

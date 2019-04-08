@@ -1,0 +1,80 @@
+{
+  "id": 1226081373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4436,38.48969,21.4436,38.48969",
+    "geom:latitude":38.48969,
+    "geom:longitude":21.4436,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Ano Kerasovon",
+    "gn:country_code":"GR",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264905,
+    "gn:latitude":38.48969,
+    "gn:longitude":21.4436,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"\u00c1no Ker\u00e1sovon",
+    "gn:population":307,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u039a\u03b5\u03c1\u03ac\u03c3\u03bf\u03b2\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "Ano Kerasovo"
+    ],
+    "name:und_x_variant":[
+        "Ker\u00e1sovon",
+        "\u00c1no Ker\u00e1sovon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264905
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b75fb865ae4b59a44db31bb1b8b54aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226081373,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1226081373,
+    "wof:lastmodified":1537624749,
+    "wof:name":"Ano Kerasovon",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":307,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4436,
+    38.48969,
+    21.4436,
+    38.48969
+],
+  "geometry": {"coordinates":[21.4436,38.48969],"type":"Point"}
+}

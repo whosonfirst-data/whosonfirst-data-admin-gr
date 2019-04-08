@@ -1,0 +1,76 @@
+{
+  "id": 1259820421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.54043,35.2847,25.54043,35.2847",
+    "geom:latitude":35.2847,
+    "geom:longitude":25.54043,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310.0",
+    "gn:asciiname":"Selinari",
+    "gn:country_code":"GR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":10792426,
+    "gn:latitude":35.2847,
+    "gn:longitude":25.54043,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Selin\u00e1ri",
+    "gn:population":5,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03b7\u03bd\u03ac\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Selinari"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10792426
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"5e7eacad74d6eb00d6cf14a97250434e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259820421,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1259820421,
+    "wof:lastmodified":1537625089,
+    "wof:name":"Selinari",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54043,
+    35.2847,
+    25.54043,
+    35.2847
+],
+  "geometry": {"coordinates":[25.54043,35.2847],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243002171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89431,38.03664,21.89431,38.03664",
+    "geom:latitude":38.03664,
+    "geom:longitude":21.89431,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Neo Kompigadi",
+    "gn:country_code":"GR",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256487,
+    "gn:latitude":38.03664,
+    "gn:longitude":21.89431,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"N\u00e9o Kompig\u00e1di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "N\u00e9o Kompig\u00e1di"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03bf \u039a\u03bf\u03bc\u03c0\u03b7\u03b3\u03ac\u03b4\u03b9",
+        "N\u00e9on Kompig\u00e1dion",
+        "\u039d\u03ad\u03bf\u03bd \u039a\u03bf\u03bc\u03c0\u03b7\u03b3\u03ac\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00edvia",
+        "Kombig\u00e1dhion N\u00e9on",
+        "N\u00e9on Kombig\u00e1dhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256487
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6eac72657821dd120bc59f84d28e1661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243002171,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1243002171,
+    "wof:lastmodified":1537624356,
+    "wof:name":"Neo Kompigadi",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89431,
+    38.03664000000001,
+    21.89431,
+    38.03664000000001
+],
+  "geometry": {"coordinates":[21.89431,38.03664000000001],"type":"Point"}
+}

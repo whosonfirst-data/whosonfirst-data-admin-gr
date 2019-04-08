@@ -1,0 +1,75 @@
+{
+  "id": 1209446513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64768,35.3246,25.64768,35.3246",
+    "geom:latitude":35.3246,
+    "geom:longitude":25.64768,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Romanos",
+    "gn:country_code":"GR",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605591,
+    "gn:latitude":35.3246,
+    "gn:longitude":25.64768,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Roman\u00f3s",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a1\u03c9\u03bc\u03b1\u03bd\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Romanos"
+    ],
+    "name:und_x_variant":[
+        "Roman\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605591
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a64cb2c07f6cdb34154a7fda85e1de6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209446513
+        }
+    ],
+    "wof:id":1209446513,
+    "wof:lastmodified":1537625026,
+    "wof:name":"Romanos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64768,
+    35.3246,
+    25.64768,
+    35.3246
+],
+  "geometry": {"coordinates":[25.64768,35.3246],"type":"Point"}
+}

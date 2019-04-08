@@ -1,0 +1,73 @@
+{
+  "id": 1327165289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56272,38.11119,20.56272,38.11119",
+    "geom:latitude":38.11119,
+    "geom:longitude":20.56272,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9120",
+    "gn:asciiname":"Spartia",
+    "gn:country_code":"GR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253389,
+    "gn:latitude":38.11119,
+    "gn:longitude":20.56272,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sparti\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Sparti\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c0\u03b1\u03c1\u03c4\u03b9\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253389
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6b879b51afe1a9e7fa6fbc71fc23034e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327165289,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1327165289,
+    "wof:lastmodified":1537624218,
+    "wof:name":"Spartia",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56272,
+    38.11119,
+    20.56272,
+    38.11119
+],
+  "geometry": {"coordinates":[20.56272,38.11119],"type":"Point"}
+}

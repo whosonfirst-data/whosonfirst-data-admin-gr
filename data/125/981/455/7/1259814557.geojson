@@ -1,0 +1,70 @@
+{
+  "id": 1259814557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61667,38.7,20.61667,38.7",
+    "geom:latitude":38.7,
+    "geom:longitude":20.61667,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"9121",
+    "gn:asciiname":"Ayios Vasilios",
+    "gn:country_code":"GR",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":263695,
+    "gn:latitude":38.7,
+    "gn:longitude":20.61667,
+    "gn:modification_date":"2014-06-21",
+    "gn:name":"\u00c1yios Vas\u00edlios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263695
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"42dfea8bc9fcdeab9d06c557d75d7043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259814557,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1259814557,
+    "wof:lastmodified":1537624694,
+    "wof:name":"Ayios Vasilios",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61667000000001,
+    38.7,
+    20.61667000000001,
+    38.7
+],
+  "geometry": {"coordinates":[20.61667000000001,38.7],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209043425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91521,40.32064,21.91521,40.32064",
+    "geom:latitude":40.32064,
+    "geom:longitude":21.91521,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"9068",
+    "gn:asciiname":"Oinoi",
+    "gn:country_code":"GR",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734895,
+    "gn:latitude":40.32064,
+    "gn:longitude":21.91521,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Oin\u00f3i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Oin\u00f3i"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03b9\u03bd\u03cc\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Ilesl\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734895
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ac61ebb470767779d0dd6c85014f87a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209043425
+        }
+    ],
+    "wof:id":1209043425,
+    "wof:lastmodified":1537624868,
+    "wof:name":"Oinoi",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91521,
+    40.32064,
+    21.91521,
+    40.32064
+],
+  "geometry": {"coordinates":[21.91521,40.32064],"type":"Point"}
+}

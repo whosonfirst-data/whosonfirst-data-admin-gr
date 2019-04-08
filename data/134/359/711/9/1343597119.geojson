@@ -1,0 +1,74 @@
+{
+  "id": 1343597119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.63333,39.16667,22.63333,39.16667",
+    "geom:latitude":39.16667,
+    "geom:longitude":22.63333,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9104",
+    "gn:asciiname":"Gerikli",
+    "gn:country_code":"GR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":262065,
+    "gn:latitude":39.16667,
+    "gn:longitude":22.63333,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Gerikl\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03c1\u03b1\u03ba\u03bb\u03af"
+    ],
+    "name:und_x_variant":[
+        "Yerakl\u00ed",
+        "Gerikl\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262065
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1faa608f03e82faa71065daa108c1b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343597119,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1343597119,
+    "wof:lastmodified":1537624618,
+    "wof:name":"Gerikli",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.63333,
+    39.16667,
+    22.63333,
+    39.16667
+],
+  "geometry": {"coordinates":[22.63333,39.16667],"type":"Point"}
+}

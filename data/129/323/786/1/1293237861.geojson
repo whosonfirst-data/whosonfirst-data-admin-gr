@@ -1,0 +1,73 @@
+{
+  "id": 1293237861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74842,35.4029,24.74842,35.4029",
+    "geom:latitude":35.4029,
+    "geom:longitude":24.74842,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Exandis",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262557,
+    "gn:latitude":35.4029,
+    "gn:longitude":24.74842,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Ex\u00e1ndis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ex\u00e1ti",
+        "Ex\u00e1ndi",
+        "Ex\u00e1ndis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262557
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1742ea901e1e13c7f14f59cf2324e5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293237861,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293237861,
+    "wof:lastmodified":1537624638,
+    "wof:name":"Exandis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74842,
+    35.4029,
+    24.74842,
+    35.4029
+],
+  "geometry": {"coordinates":[24.74842,35.4029],"type":"Point"}
+}

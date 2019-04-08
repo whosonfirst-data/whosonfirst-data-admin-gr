@@ -1,0 +1,142 @@
+{
+  "id": 101849461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.942152,38.003559,23.942152,38.003559",
+    "geom:latitude":38.003559,
+    "geom:longitude":23.942152,
+    "gn:population":2009,
+    "iso:country":"GR",
+    "lbl:latitude":38.003559,
+    "lbl:longitude":23.942152,
+    "mps:latitude":38.003559,
+    "mps:longitude":23.942152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0643\u064a\u0631\u0645\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Pikermi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03ba\u03ad\u03c1\u03bc\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b9\u03ba\u03ad\u03c1\u03bc\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Pikermi"
+    ],
+    "name:eng_x_variant":[
+        "Pik\u00e9rmi"
+    ],
+    "name:fin_x_preferred":[
+        "Pik\u00e9rmi"
+    ],
+    "name:fre_x_preferred":[
+        "Pikermi"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b9\u03ba\u03ad\u03c1\u03bc\u03b9 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Pikermi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30b1\u30eb\u30df"
+    ],
+    "name:nno_x_preferred":[
+        "Pik\u00e9rmi"
+    ],
+    "name:ron_x_preferred":[
+        "Pikermi"
+    ],
+    "name:rum_x_preferred":[
+        "Pikermi"
+    ],
+    "name:swe_x_preferred":[
+        "Pik\u00e9rmi"
+    ],
+    "name:und_x_variant":[
+        "\u03a0\u0399\u039a\u0395\u03a1\u039c\u0399"
+    ],
+    "name:unk_x_variant":[
+        "K\u00e1to Pik\u00e9rmi"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
+    "qs:a1_alt":"ATTIKH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"ANATOLIKH ATTIKH",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u0399\u039a\u0395\u03a1\u039c\u0399\u039f\u039d",
+    "qs:loc_alt":"PIKERMION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.0,
+    "wd:longitude":23.933333,
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11513c82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":255319,
+        "gp:id":959905,
+        "qs:id":123783,
+        "qs_pg:id":123783,
+        "wd:id":"Q2277358",
+        "wk:page":"Pikermi"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b739c5004e609f72bf9703c51e821fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849461,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":101849461,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740962,
+    "wof:name":"\u03a0\u0399\u039a\u0395\u03a1\u039c\u0399\u039f\u039d",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":2009,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.942152,
+    38.003559,
+    23.942152,
+    38.003559
+],
+  "geometry": {"coordinates":[23.942152,38.003559],"type":"Point"}
+}

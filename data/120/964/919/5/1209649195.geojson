@@ -1,0 +1,69 @@
+{
+  "id": 1209649195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82048,37.85702,23.82048,37.85702",
+    "geom:latitude":37.85702,
+    "geom:longitude":23.82048,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9218.0",
+    "gn:asciiname":"Galini",
+    "gn:country_code":"GR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000000,
+    "gn:latitude":37.85702,
+    "gn:longitude":23.82048,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gal\u00edni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Gal\u00edni"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b1\u03bb\u03ae\u03bd\u03b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000000
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4173dd6a4ec0638b16cb920a85ff85d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209649195
+        }
+    ],
+    "wof:id":1209649195,
+    "wof:lastmodified":1537625102,
+    "wof:name":"Galini",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82048,
+    37.85702,
+    23.82048,
+    37.85702
+],
+  "geometry": {"coordinates":[23.82048,37.85702],"type":"Point"}
+}

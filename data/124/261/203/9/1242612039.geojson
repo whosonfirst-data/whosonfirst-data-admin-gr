@@ -1,0 +1,67 @@
+{
+  "id": 1242612039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41829,36.58131,22.41829,36.58131",
+    "geom:latitude":36.58131,
+    "geom:longitude":22.41829,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Skifianika",
+    "gn:country_code":"GR",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253638,
+    "gn:latitude":36.58131,
+    "gn:longitude":22.41829,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Skifi\u00e1nika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253638
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"17bfc0d7abc14220a5ada2ab22895d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242612039,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1242612039,
+    "wof:lastmodified":1537013377,
+    "wof:name":"Skifianika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41829,
+    36.58131,
+    22.41829,
+    36.58131
+],
+  "geometry": {"coordinates":[22.41829,36.58131],"type":"Point"}
+}

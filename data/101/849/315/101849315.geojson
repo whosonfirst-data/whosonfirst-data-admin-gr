@@ -1,0 +1,130 @@
+{
+  "id": 101849315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.128347,38.908436,22.128347,38.908436",
+    "geom:latitude":38.908436,
+    "geom:longitude":22.128347,
+    "gn:population":2691,
+    "iso:country":"GR",
+    "lbl:latitude":38.908436,
+    "lbl:longitude":22.128347,
+    "mps:latitude":38.908436,
+    "mps:longitude":22.128347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u0631\u062e\u064a\u0627\u062f\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Spercheiada"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03b5\u03c1\u03c7\u03b5\u03b9\u03ac\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c0\u03b5\u03c1\u03c7\u03b5\u03b9\u03ac\u03c2",
+        "Sperchei\u00e1da"
+    ],
+    "name:eng_x_preferred":[
+        "Spercheiada"
+    ],
+    "name:fin_x_preferred":[
+        "Sperchei\u00e1da"
+    ],
+    "name:fre_x_preferred":[
+        "Spercheiada"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c0\u03b5\u03c1\u03c7\u03b5\u03b9\u03ac\u03b4\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Spercheiada"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30da\u30eb\u30d2\u30e3\u30c0"
+    ],
+    "name:nno_x_preferred":[
+        "Sperkhi\u00e1da"
+    ],
+    "name:sco_x_preferred":[
+        "Spercheiada"
+    ],
+    "name:swe_x_preferred":[
+        "Sperchei\u00e1da"
+    ],
+    "name:unk_x_variant":[
+        "Sperkhi\u00e1s"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"FUIVTIDA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u03a0\u0395\u03a1\u03a7\u0395\u0399\u0391\u03a3",
+    "qs:loc_alt":"SPERXEIAS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":38.916667,
+    "wd:longitude":22.133333,
+    "wd:wordcount":141,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253360,
+        "gp:id":55869680,
+        "qs:id":278049,
+        "qs_pg:id":278049,
+        "wd:id":"Q2014656",
+        "wk:page":"Spercheiada"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3549a6f66ec1eac5048af5b5128fc58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849315,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849315,
+    "wof:lastmodified":1544740890,
+    "wof:name":"\u03a3\u03a0\u0395\u03a1\u03a7\u0395\u0399\u0391\u03a3",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":2691,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.128347,
+    38.908436,
+    22.128347,
+    38.908436
+],
+  "geometry": {"coordinates":[22.128347,38.908436],"type":"Point"}
+}

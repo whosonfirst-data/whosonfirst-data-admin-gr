@@ -1,0 +1,80 @@
+{
+  "id": 1243209063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37089,41.159,24.37089,41.159",
+    "geom:latitude":41.159,
+    "geom:longitude":24.37089,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Terpsithea",
+    "gn:country_code":"GR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734101,
+    "gn:latitude":41.159,
+    "gn:longitude":24.37089,
+    "gn:modification_date":"2014-04-18",
+    "gn:name":"Terpsith\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03bd\u03bb\u03ae"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c1\u03c8\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03bd\u03bb\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Karamanl\u00ed",
+        "Terpsith\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734101
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"73eb87d85b523259c01d3d1a09d87052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243209063,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1243209063,
+    "wof:lastmodified":1537624822,
+    "wof:name":"Terpsithea",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37089,
+    41.159,
+    24.37089,
+    41.159
+],
+  "geometry": {"coordinates":[24.37089,41.159],"type":"Point"}
+}

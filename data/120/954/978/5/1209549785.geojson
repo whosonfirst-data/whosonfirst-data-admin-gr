@@ -1,0 +1,63 @@
+{
+  "id": 1209549785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2116,39.00978,23.2116,39.00978",
+    "geom:latitude":39.00978,
+    "geom:longitude":23.2116,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9150",
+    "gn:asciiname":"Pefki",
+    "gn:country_code":"GR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6621630,
+    "gn:latitude":39.00978,
+    "gn:longitude":23.2116,
+    "gn:modification_date":"2018-04-22",
+    "gn:name":"Pefki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6621630
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8b8fbd4a0d99148b4f4af52a136c77d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209549785
+        }
+    ],
+    "wof:id":1209549785,
+    "wof:lastmodified":1536283731,
+    "wof:name":"Pefki",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2116,
+    39.00978,
+    23.2116,
+    39.00978
+],
+  "geometry": {"coordinates":[23.2116,39.00978],"type":"Point"}
+}

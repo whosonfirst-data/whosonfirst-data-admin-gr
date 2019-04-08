@@ -1,0 +1,79 @@
+{
+  "id": 1125392019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37104,35.31097,25.37104,35.31097",
+    "geom:latitude":35.31097,
+    "geom:longitude":25.37104,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":23864,
+    "gn:population":23864,
+    "iso:country":"GR",
+    "lbl:latitude":35.31097,
+    "lbl:longitude":25.37104,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03c1\u03c3\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133695,
+    "qs_pg:gn_pop":23864,
+    "qs_pg:name":"Chersonisos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1042521,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133695,
+        "qs_pg:id":1042521
+    },
+    "wof:country":"GR",
+    "wof:created":1497048763,
+    "wof:geomhash":"556334324b7b8c960d308a9967185abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125392019,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125392019,
+    "wof:lastmodified":1509389842,
+    "wof:name":"Chersonisos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"localadmin",
+    "wof:population":23864,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37104,
+    35.31097,
+    25.37104,
+    35.31097
+],
+  "geometry": {"coordinates":[25.37104,35.31097],"type":"Point"}
+}

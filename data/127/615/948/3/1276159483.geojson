@@ -1,0 +1,80 @@
+{
+  "id": 1276159483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36445,36.50436,22.36445,36.50436",
+    "geom:latitude":36.50436,
+    "geom:longitude":22.36445,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Lagoudies",
+    "gn:country_code":"GR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258703,
+    "gn:latitude":36.50436,
+    "gn:longitude":22.36445,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Lagoudi\u00e9s",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03bf\u03c5\u03b4\u03b9\u03ad\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Lagoudies"
+    ],
+    "name:und_x_variant":[
+        "Lagoudhi\u00e1",
+        "Lagoudhia\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258703
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aae740c1e4a3423638325f4cdc4b5377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276159483,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1276159483,
+    "wof:lastmodified":1537624462,
+    "wof:name":"Lagoudies",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36445,
+    36.50436,
+    22.36445,
+    36.50436
+],
+  "geometry": {"coordinates":[22.36445,36.50436],"type":"Point"}
+}

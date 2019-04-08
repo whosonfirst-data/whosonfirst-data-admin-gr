@@ -1,0 +1,105 @@
+{
+  "id": 1125839463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65556,39.51694,21.65556,39.51694",
+    "geom:latitude":39.51694,
+    "geom:longitude":21.65556,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1098,
+    "gn:population":1098,
+    "iso:country":"GR",
+    "lbl:latitude":39.51694,
+    "lbl:longitude":21.65556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a6\u03ae\u03ba\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Fiki"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03ae\u03ba\u03b7 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd"
+    ],
+    "name:nno_x_preferred":[
+        "F\u00edki"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00edki"
+    ],
+    "name:unk_x_variant":[
+        "F\u00fdki"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":262433,
+    "qs_pg:gn_pop":1098,
+    "qs_pg:name":"Fiki",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":869480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":949494,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262433,
+        "gp:id":949494,
+        "qs_pg:id":869480,
+        "wd:id":"Q11863096"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292868,
+    "wof:geomhash":"bce6247e42eadef51ff69bcd65a26bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125839463,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1125839463,
+    "wof:lastmodified":1514443951,
+    "wof:name":"Fiki",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":1098,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65556,
+    39.51694,
+    21.65556,
+    39.51694
+],
+  "geometry": {"coordinates":[21.65556,39.51694],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209946081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24083,35.28437,25.24083,35.28437",
+    "geom:latitude":35.28437,
+    "geom:longitude":25.24083,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9309",
+    "gn:asciiname":"Epano Vatheia",
+    "gn:country_code":"GR",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262663,
+    "gn:latitude":35.28437,
+    "gn:longitude":25.24083,
+    "gn:modification_date":"2015-10-26",
+    "gn:name":"Ep\u00e1no V\u00e1theia",
+    "gn:population":151,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03ac\u03bd\u03c9 \u0392\u03ac\u03b8\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Epano Vatheia"
+    ],
+    "name:und_x_variant":[
+        "Epano Vathia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262663
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e053f8815c4e66c4c4326adf941bdfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209946081,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1209946081,
+    "wof:lastmodified":1537624642,
+    "wof:name":"Epano Vatheia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":151,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24083,
+    35.28437,
+    25.24083,
+    35.28437
+],
+  "geometry": {"coordinates":[25.24083,35.28437],"type":"Point"}
+}

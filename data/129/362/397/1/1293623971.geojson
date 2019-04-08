@@ -1,0 +1,73 @@
+{
+  "id": 1293623971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.47066,37.48538,23.47066,37.48538",
+    "geom:latitude":37.48538,
+    "geom:longitude":23.47066,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9210.0",
+    "gn:asciiname":"Alyki",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11060738,
+    "gn:latitude":37.48538,
+    "gn:longitude":23.47066,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alyk\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Alyk\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03c5\u03ba\u03ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11060738
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e967d344f374d470e178396a52e31ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293623971,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293623971,
+    "wof:lastmodified":1537625108,
+    "wof:name":"Alyki",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47066,
+    37.48538,
+    23.47066,
+    37.48538
+],
+  "geometry": {"coordinates":[23.47066,37.48538],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293525433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27747,41.13562,25.27747,41.13562",
+    "geom:latitude":41.13562,
+    "geom:longitude":25.27747,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9020",
+    "gn:asciiname":"Sostis",
+    "gn:country_code":"GR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734194,
+    "gn:latitude":41.13562,
+    "gn:longitude":25.27747,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"S\u00f3stis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03ce\u03c3\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "S\u00f3stis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734194,
+        "wk:page":"Sostis"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e02b36d8269937c9ef79b7baf66868c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293525433,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293525433,
+    "wof:lastmodified":1537624827,
+    "wof:name":"Sostis",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27747,
+    41.13562,
+    25.27747,
+    41.13562
+],
+  "geometry": {"coordinates":[25.27747,41.13562],"type":"Point"}
+}

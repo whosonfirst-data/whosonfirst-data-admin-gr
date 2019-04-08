@@ -1,0 +1,78 @@
+{
+  "id": 1309942525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03094,38.08725,22.03094,38.08725",
+    "geom:latitude":38.08725,
+    "geom:longitude":22.03094,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Korfes",
+    "gn:country_code":"GR",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259318,
+    "gn:latitude":38.08725,
+    "gn:longitude":22.03094,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Korf\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03c6\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c1\u03c6\u03b1\u03af"
+    ],
+    "name:und_x_variant":[
+        "Kir\u00edtsova",
+        "Korf\u00e9s",
+        "Korfa\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259318
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"b0025e10aed4697f668536604a5dcaab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309942525,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309942525,
+    "wof:lastmodified":1537624487,
+    "wof:name":"Korfes",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03094,
+    38.08725,
+    22.03094,
+    38.08725
+],
+  "geometry": {"coordinates":[22.03094,38.08725],"type":"Point"}
+}

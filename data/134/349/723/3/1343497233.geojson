@@ -1,0 +1,84 @@
+{
+  "id": 1343497233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34785,40.98417,23.34785,40.98417",
+    "geom:latitude":40.98417,
+    "geom:longitude":23.34785,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"9050",
+    "gn:asciiname":"Triantafyllia",
+    "gn:country_code":"GR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":734027,
+    "gn:latitude":40.98417,
+    "gn:longitude":23.34785,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Triantafylli\u00e1",
+    "gn:population":702,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03b1\u03bd\u03c4\u03b1\u03c6\u03c5\u03bb\u03bb\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "Triantafylli\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Triantafyllia"
+    ],
+    "name:und_x_variant":[
+        "Triandafilli\u00e1",
+        "Triandafilli\u00e9s",
+        "Triandafill\u00e9ai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734027
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d81d4c98be4e12cb828dbd0eb9b78e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343497233,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1343497233,
+    "wof:lastmodified":1537624818,
+    "wof:name":"Triantafyllia",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":702,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34785,
+    40.98417,
+    23.34785,
+    40.98417
+],
+  "geometry": {"coordinates":[23.34785,40.98417],"type":"Point"}
+}

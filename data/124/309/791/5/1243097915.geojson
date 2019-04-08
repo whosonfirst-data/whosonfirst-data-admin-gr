@@ -1,0 +1,78 @@
+{
+  "id": 1243097915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93889,37.30685,21.93889,37.30685",
+    "geom:latitude":37.30685,
+    "geom:longitude":21.93889,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9256",
+    "gn:asciiname":"Vrysoula",
+    "gn:country_code":"GR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251629,
+    "gn:latitude":37.30685,
+    "gn:longitude":21.93889,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Vryso\u00fala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Vryso\u00fala"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03c5\u03c3\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Pazar\u00e1ki",
+        "Pazar\u00e1kion",
+        "Vriso\u00fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251629
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"71f0fb4e2984cb2b839ec47b9c2a4789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243097915,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1243097915,
+    "wof:lastmodified":1537624148,
+    "wof:name":"Vrysoula",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93889,
+    37.30685,
+    21.93889,
+    37.30685
+],
+  "geometry": {"coordinates":[21.93889,37.30685],"type":"Point"}
+}

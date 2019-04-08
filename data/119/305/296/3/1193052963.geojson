@@ -1,0 +1,77 @@
+{
+  "id": 1193052963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08014,37.84325,22.08014,37.84325",
+    "geom:latitude":37.84325,
+    "geom:longitude":22.08014,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Kalyvia Skotanis",
+    "gn:country_code":"GR",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261449,
+    "gn:latitude":37.84325,
+    "gn:longitude":22.08014,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kal\u00fdvia Skot\u00e1nis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kal\u00fdvia Skot\u00e1nis"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b9\u03b1 \u03a3\u03ba\u03bf\u03c4\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Kal\u00edvia Kok\u00f3vis",
+        "Kal\u00edvia Skot\u00e1nis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261449
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6d174f09824c515a6aacc5a972d10b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1193052963,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1193052963,
+    "wof:lastmodified":1537624591,
+    "wof:name":"Kalyvia Skotanis",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08014,
+    37.84325,
+    22.08014,
+    37.84325
+],
+  "geometry": {"coordinates":[22.08014,37.84325],"type":"Point"}
+}

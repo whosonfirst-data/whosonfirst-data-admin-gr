@@ -1,0 +1,76 @@
+{
+  "id": 1225975075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77701,39.30958,21.77701,39.30958",
+    "geom:latitude":39.30958,
+    "geom:longitude":21.77701,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"9093",
+    "gn:asciiname":"Tsardhaki",
+    "gn:country_code":"GR",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252525,
+    "gn:latitude":39.30958,
+    "gn:longitude":21.77701,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Tsardh\u00e1ki",
+    "gn:population":8,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c1\u03b4\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Tsardaki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252525
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cc6a82a14bfcde12e49dd16f765be68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225975075,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1225975075,
+    "wof:lastmodified":1537624187,
+    "wof:name":"Tsardhaki",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77701,
+    39.30958,
+    21.77701,
+    39.30958
+],
+  "geometry": {"coordinates":[21.77701,39.30958],"type":"Point"}
+}

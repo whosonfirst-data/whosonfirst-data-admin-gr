@@ -1,0 +1,77 @@
+{
+  "id": 1293135447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99958,38.03997,21.99958,38.03997",
+    "geom:latitude":38.03997,
+    "geom:longitude":21.99958,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Flampoura",
+    "gn:country_code":"GR",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262379,
+    "gn:latitude":38.03997,
+    "gn:longitude":21.99958,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Fl\u00e1mpoura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Fl\u00e1mpoura"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bb\u03ac\u03bc\u03c0\u03bf\u03c5\u03c1\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Fl\u00e1mbouras",
+        "Fl\u00e1mboura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262379
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"92bd74dcbd924ba7510c7678623031aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293135447,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293135447,
+    "wof:lastmodified":1537624630,
+    "wof:name":"Flampoura",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99958,
+    38.03997,
+    21.99958,
+    38.03997
+],
+  "geometry": {"coordinates":[21.99958,38.03997],"type":"Point"}
+}

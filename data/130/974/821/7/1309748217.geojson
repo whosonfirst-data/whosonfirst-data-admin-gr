@@ -1,0 +1,79 @@
+{
+  "id": 1309748217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08122,37.93872,22.08122,37.93872",
+    "geom:latitude":37.93872,
+    "geom:longitude":22.08122,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9133",
+    "gn:asciiname":"Lefki",
+    "gn:country_code":"GR",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258432,
+    "gn:latitude":37.93872,
+    "gn:longitude":22.08122,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"L\u00e9fki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e9fki"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03cd\u03ba\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Dounisa",
+        "Do\u00fanissa",
+        "Do\u00fani",
+        "L\u00e9vki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258432
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"68b7756e6603b97c3ddd48aeac915ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309748217,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1309748217,
+    "wof:lastmodified":1537624447,
+    "wof:name":"Lefki",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08122,
+    37.93872,
+    22.08122,
+    37.93872
+],
+  "geometry": {"coordinates":[22.08122,37.93872],"type":"Point"}
+}

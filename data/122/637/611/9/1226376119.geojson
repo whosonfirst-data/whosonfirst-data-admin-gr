@@ -1,0 +1,76 @@
+{
+  "id": 1226376119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92929,37.19503,21.92929,37.19503",
+    "geom:latitude":37.19503,
+    "geom:longitude":21.92929,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9256",
+    "gn:asciiname":"Krontires",
+    "gn:country_code":"GR",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258749,
+    "gn:latitude":37.19503,
+    "gn:longitude":21.92929,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Krontir\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Krontir\u00e9s"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03bf\u03bd\u03c4\u03b7\u03c1\u03ad\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Krondir\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258749
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"904fcefa2d0eaeb1c3e7c99296d17e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226376119,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1226376119,
+    "wof:lastmodified":1537624463,
+    "wof:name":"Krontires",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92929,
+    37.19503,
+    21.92929,
+    37.19503
+],
+  "geometry": {"coordinates":[21.92929,37.19503],"type":"Point"}
+}

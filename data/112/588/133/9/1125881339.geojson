@@ -1,0 +1,93 @@
+{
+  "id": 1125881339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.679016,39.8803,20.679016,39.8803",
+    "geom:latitude":39.8803,
+    "geom:longitude":20.679016,
+    "gn:gn_country":null,
+    "iso:country":"GR",
+    "lbl:latitude":39.8803,
+    "lbl:longitude":20.679016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u043e \u041f\u0435\u0434\u0438\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kato Pedina"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Pedina"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a0\u03b5\u03b4\u03b9\u03bd\u03ac \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kato Pedhina",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":968535,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":952362,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":952362,
+        "qs_pg:id":968535,
+        "wd:id":"Q3565369"
+    },
+    "wof:country":"GR",
+    "wof:created":1497294823,
+    "wof:geomhash":"dab06d172e7dd28fef38e9f73615355e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125881339,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125881339,
+    "wof:lastmodified":1514443974,
+    "wof:name":"Kato Pedhina",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.679016,
+    39.8803,
+    20.679016,
+    39.8803
+],
+  "geometry": {"coordinates":[20.679016,39.8803],"type":"Point"}
+}

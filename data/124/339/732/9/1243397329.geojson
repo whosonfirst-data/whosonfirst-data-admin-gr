@@ -1,0 +1,73 @@
+{
+  "id": 1243397329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64039,35.42206,23.64039,35.42206",
+    "geom:latitude":35.42206,
+    "geom:longitude":23.64039,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9322.0",
+    "gn:asciiname":"Agios Ioannis",
+    "gn:country_code":"GR",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10793715,
+    "gn:latitude":35.42206,
+    "gn:longitude":23.64039,
+    "gn:modification_date":"2015-09-21",
+    "gn:name":"\u00c1gios Io\u00e1nnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Ioannis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793715
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"82b59274c66a8d6d338c3f8e7bca1e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1243397329,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1243397329,
+    "wof:lastmodified":1537625090,
+    "wof:name":"Agios Ioannis",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64039,
+    35.42205999999999,
+    23.64039,
+    35.42205999999999
+],
+  "geometry": {"coordinates":[23.64039,35.42205999999999],"type":"Point"}
+}

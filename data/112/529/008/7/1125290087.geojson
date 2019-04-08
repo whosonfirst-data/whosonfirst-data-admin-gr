@@ -1,0 +1,93 @@
+{
+  "id": 1125290087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08441,34.84669,24.08441,34.84669",
+    "geom:latitude":34.84669,
+    "geom:longitude":24.08441,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":81,
+    "gn:population":81,
+    "iso:country":"GR",
+    "lbl:latitude":34.84669,
+    "lbl:longitude":24.08441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03cd\u03b4\u03bf\u03c5"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133751,
+    "qs_pg:gn_pop":81,
+    "qs_pg:name":"Gavdos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1200333,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":24544531,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133751,
+        "gp:id":24544531,
+        "qs_pg:id":1200333
+    },
+    "wof:country":"GR",
+    "wof:created":1497042880,
+    "wof:geomhash":"f2042db24bd73bc716101e6f928d291a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125290087,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1125290087,
+    "wof:lastmodified":1509387510,
+    "wof:name":"Gavdos",
+    "wof:parent_id":85684655,
+    "wof:placetype":"localadmin",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08441,
+    34.84669,
+    24.08441,
+    34.84669
+],
+  "geometry": {"coordinates":[24.08441,34.84669],"type":"Point"}
+}

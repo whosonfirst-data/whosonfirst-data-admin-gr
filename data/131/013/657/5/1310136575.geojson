@@ -1,0 +1,80 @@
+{
+  "id": 1310136575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.67077,38.33762,23.67077,38.33762",
+    "geom:latitude":38.33762,
+    "geom:longitude":23.67077,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"9147",
+    "gn:asciiname":"Dilesi",
+    "gn:country_code":"GR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263098,
+    "gn:latitude":38.33762,
+    "gn:longitude":23.67077,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"D\u00edlesi",
+    "gn:population":1976,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bb\u03b5\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Dilesi"
+    ],
+    "name:und_x_variant":[
+        "Dh\u00edlion",
+        "Dh\u00edlesi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263098
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"843ce4f00f4f3a4000c20e6602118056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310136575,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1310136575,
+    "wof:lastmodified":1537624667,
+    "wof:name":"Dilesi",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1976,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.67077,
+    38.33762,
+    23.67077,
+    38.33762
+],
+  "geometry": {"coordinates":[23.67077,38.33762],"type":"Point"}
+}

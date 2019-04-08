@@ -1,0 +1,86 @@
+{
+  "id": 101849385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.215853,38.23703,23.215853,38.23703",
+    "geom:latitude":38.23703,
+    "geom:longitude":23.215853,
+    "gn:population":1478,
+    "iso:country":"GR",
+    "lbl:latitude":38.23703,
+    "lbl:longitude":23.215853,
+    "mps:latitude":38.23703,
+    "mps:longitude":23.215853,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c0\u03b1\u03c1\u03ad\u03bb\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Kapar\u00e9li"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
+    "qs:a1_alt":"STEREA ELLADA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"BOIVTIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u0391\u03a0\u0391\u03a1\u0395\u039b\u039b\u0399\u039f\u039d",
+    "qs:loc_alt":"KAPARELLION",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261132,
+        "gp:id":951428,
+        "qs:id":1284194
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"29d1a43750674b6ea4a90be27ae46b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101849385,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":101849385,
+    "wof:lastmodified":1544740926,
+    "wof:name":"\u039a\u0391\u03a0\u0391\u03a1\u0395\u039b\u039b\u0399\u039f\u039d",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":1478,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.215853,
+    38.23703,
+    23.215853,
+    38.23703
+],
+  "geometry": {"coordinates":[23.215853,38.23703],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1225878117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07239,39.89131,22.07239,39.89131",
+    "geom:latitude":39.89131,
+    "geom:longitude":22.07239,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"9098",
+    "gn:asciiname":"Kefalovryso",
+    "gn:country_code":"GR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260290,
+    "gn:latitude":39.89131,
+    "gn:longitude":22.07239,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kefal\u00f3vryso",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c6\u03b1\u03bb\u03cc\u03b2\u03c1\u03c5\u03c3\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Kefal\u00f3vryso",
+        "\u039a\u03b5\u03c6\u03b1\u03bb\u03cc\u03b2\u03c1\u03c5\u03c3\u03bf",
+        "Kefal\u00f3vryson"
+    ],
+    "name:und_x_variant":[
+        "Kefal\u00f3vriso",
+        "Kefal\u00f3vrison"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260290
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f75570a636518fdc265a5be6f3760f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1225878117,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1225878117,
+    "wof:lastmodified":1537624534,
+    "wof:name":"Kefalovryso",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07239,
+    39.89131,
+    22.07239,
+    39.89131
+],
+  "geometry": {"coordinates":[22.07239,39.89131],"type":"Point"}
+}

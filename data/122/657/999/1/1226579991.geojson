@@ -1,0 +1,73 @@
+{
+  "id": 1226579991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06512,37.68389,24.06512,37.68389",
+    "geom:latitude":37.68389,
+    "geom:longitude":24.06512,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219",
+    "gn:asciiname":"Panormos",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9036754,
+    "gn:latitude":37.68389,
+    "gn:longitude":24.06512,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"Pan\u00f3rmos",
+    "gn:population":174,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03cc\u03c1\u03bc\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9036754
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7ab40d2244a4d0fbaad346aec1328257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226579991,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1226579991,
+    "wof:lastmodified":1537551159,
+    "wof:name":"Panormos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06512,
+    37.68389000000001,
+    24.06512,
+    37.68389000000001
+],
+  "geometry": {"coordinates":[24.06512,37.68389000000001],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242907585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13745,37.62463,26.13745,37.62463",
+    "geom:latitude":37.62463,
+    "geom:longitude":26.13745,
+    "gn:admin1_code":"ESYE41",
+    "gn:asciiname":"Stavlos",
+    "gn:country_code":"GR",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265903,
+    "gn:latitude":37.62463,
+    "gn:longitude":26.13745,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"St\u00e1vlos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "St\u00e1vlos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03ac\u03b2\u03bb\u03bf\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265903
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9c654084fba63c3be297a6b8e5020929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1242907585,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242907585,
+    "wof:lastmodified":1537625114,
+    "wof:name":"Stavlos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13745,
+    37.62463,
+    26.13745,
+    37.62463
+],
+  "geometry": {"coordinates":[26.13745,37.62463],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1126042905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86021,38.56369,25.86021,38.56369",
+    "geom:latitude":38.56369,
+    "geom:longitude":25.86021,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":116,
+    "gn:population":38,
+    "iso:country":"GR",
+    "lbl:latitude":38.56369,
+    "lbl:longitude":25.86021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf \u0393\u03ac\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Aghio Ghalas"
+    ],
+    "name:eng_x_variant":[
+        "Agio Gala"
+    ],
+    "name:unk_x_variant":[
+        "\u00c1yion G\u00e1la"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":264050,
+    "qs_pg:gn_pop":116,
+    "qs_pg:name":"\u00c1gion G\u00e1la",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":546887,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        1360666031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264050,
+        "qs_pg:id":546887
+    },
+    "wof:country":"GR",
+    "wof:created":1497302262,
+    "wof:geomhash":"b307282c4ea1de40892eeb5b1e3840c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042905,
+            "region_id":1360666031
+        }
+    ],
+    "wof:id":1126042905,
+    "wof:lastmodified":1538594923,
+    "wof:name":"\u00c1gion G\u00e1la",
+    "wof:parent_id":1360666031,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86021,
+    38.56369,
+    25.86021,
+    38.56369
+],
+  "geometry": {"coordinates":[25.86021,38.56369],"type":"Point"}
+}

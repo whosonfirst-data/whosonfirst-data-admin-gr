@@ -1,0 +1,73 @@
+{
+  "id": 1344087127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92151,37.0722,22.92151,37.0722",
+    "geom:latitude":37.0722,
+    "geom:longitude":22.92151,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9240",
+    "gn:asciiname":"Kataiika",
+    "gn:country_code":"GR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260707,
+    "gn:latitude":37.0722,
+    "gn:longitude":22.92151,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kata\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kata\u00edika"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c4\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260707
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e0f925fd4675e1b064ca68644175477a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087127,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1344087127,
+    "wof:lastmodified":1537624556,
+    "wof:name":"Kataiika",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92151,
+    37.0722,
+    22.92151,
+    37.0722
+],
+  "geometry": {"coordinates":[22.92151,37.0722],"type":"Point"}
+}

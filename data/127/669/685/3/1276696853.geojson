@@ -1,0 +1,79 @@
+{
+  "id": 1276696853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54396,39.83409,20.54396,39.83409",
+    "geom:latitude":39.83409,
+    "geom:longitude":20.54396,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"17.0",
+    "gn:admin3_code":"9087",
+    "gn:asciiname":"Ano Parakalamos",
+    "gn:country_code":"GR",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254671,
+    "gn:latitude":39.83409,
+    "gn:longitude":20.54396,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"\u00c1no Parak\u00e1lamos",
+    "gn:population":39,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c9 \u03a0\u03b1\u03c1\u03b1\u03ba\u03ac\u03bb\u03b1\u03bc\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ano Parakalamos"
+    ],
+    "name:und_x_variant":[
+        "Prits\u00edkovo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254671
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"02e22bf26ede360cae71e173c611d6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276696853,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1276696853,
+    "wof:lastmodified":1537624275,
+    "wof:name":"Ano Parakalamos",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54396,
+    39.83409,
+    20.54396,
+    39.83409
+],
+  "geometry": {"coordinates":[20.54396,39.83409],"type":"Point"}
+}

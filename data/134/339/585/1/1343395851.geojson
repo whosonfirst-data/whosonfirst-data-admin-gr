@@ -1,0 +1,72 @@
+{
+  "id": 1343395851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59375,35.25613,24.59375,35.25613",
+    "geom:latitude":35.25613,
+    "geom:longitude":24.59375,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9315",
+    "gn:asciiname":"Pandanassa",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255881,
+    "gn:latitude":35.25613,
+    "gn:longitude":24.59375,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Pand\u00e1nassa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandan\u00e1sa",
+        "Pand\u00e1nassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255881
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d9c975c78f128950b10ee976e0d5b28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343395851,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1343395851,
+    "wof:lastmodified":1537624326,
+    "wof:name":"Pandanassa",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59375,
+    35.25613,
+    24.59375,
+    35.25613
+],
+  "geometry": {"coordinates":[24.59375,35.25613],"type":"Point"}
+}

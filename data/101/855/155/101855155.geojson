@@ -1,0 +1,124 @@
+{
+  "id": 101855155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.484652,40.480129,22.484652,40.480129",
+    "geom:latitude":40.480129,
+    "geom:longitude":22.484652,
+    "gn:population":3590,
+    "iso:country":"GR",
+    "lbl:latitude":40.480129,
+    "lbl:longitude":22.484652,
+    "mps:latitude":40.480129,
+    "mps:longitude":22.484652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u064a\u0646\u062f\u0631\u0648\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u043d\u0434\u0440\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Kolindros"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03b9\u03bd\u03b4\u03c1\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kolindros"
+    ],
+    "name:fre_x_preferred":[
+        "Kolindros"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bb\u03b9\u03bd\u03b4\u03c1\u03cc\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Kolindros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ea\u30f3\u30c9\u30ed\u30b9"
+    ],
+    "name:nno_x_preferred":[
+        "Kolindr\u00f3s"
+    ],
+    "name:swe_x_preferred":[
+        "Kolindr\u00f3s"
+    ],
+    "name:unk_x_variant":[
+        "Kolindhr\u00f3"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"PIERIA",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u039f\u039b\u0399\u039d\u0394\u03a1\u039f\u03a3",
+    "qs:loc_alt":"KOLINDROS",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":40.483333,
+    "wd:longitude":22.483333,
+    "wd:population":2822,
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735654,
+        "gp:id":91803433,
+        "qs:id":369969,
+        "qs_pg:id":369969,
+        "wd:id":"Q2636829",
+        "wk:page":"Kolindros"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f0a54b85128b833bd2bfd5ee75f80dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855155,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101855155,
+    "wof:lastmodified":1544742856,
+    "wof:name":"\u039a\u039f\u039b\u0399\u039d\u0394\u03a1\u039f\u03a3",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":2822,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.484652,
+    40.480129,
+    22.484652,
+    40.480129
+],
+  "geometry": {"coordinates":[22.484652,40.480129],"type":"Point"}
+}

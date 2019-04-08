@@ -1,0 +1,72 @@
+{
+  "id": 1209446247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40526,36.55598,22.40526,36.55598",
+    "geom:latitude":36.55598,
+    "geom:longitude":22.40526,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Lakkos",
+    "gn:country_code":"GR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258663,
+    "gn:latitude":36.55598,
+    "gn:longitude":22.40526,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"L\u00e1kkos",
+    "gn:population":40,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03ba\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Lakkos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258663
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d07d0637c796c5079d9110a22b16f9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209446247
+        }
+    ],
+    "wof:id":1209446247,
+    "wof:lastmodified":1537624460,
+    "wof:name":"Lakkos",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40526,
+    36.55598,
+    22.40526,
+    36.55598
+],
+  "geometry": {"coordinates":[22.40526,36.55598],"type":"Point"}
+}

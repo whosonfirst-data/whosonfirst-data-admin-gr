@@ -1,0 +1,73 @@
+{
+  "id": 1209344883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78467,37.25595,21.78467,37.25595",
+    "geom:latitude":37.25595,
+    "geom:longitude":21.78467,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9258",
+    "gn:asciiname":"Artiki",
+    "gn:country_code":"GR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264546,
+    "gn:latitude":37.25595,
+    "gn:longitude":21.78467,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Art\u00edki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c4\u03af\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c4\u03af\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Art\u00edki",
+        "Art\u00edkion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264546
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"57fab027baa1fb48685d4e0640698e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209344883
+        }
+    ],
+    "wof:id":1209344883,
+    "wof:lastmodified":1537624730,
+    "wof:name":"Artiki",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78467,
+    37.25595,
+    21.78467,
+    37.25595
+],
+  "geometry": {"coordinates":[21.78467,37.25595],"type":"Point"}
+}

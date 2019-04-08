@@ -1,0 +1,75 @@
+{
+  "id": 1310235967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52128,38.14428,21.52128,38.14428",
+    "geom:latitude":38.14428,
+    "geom:longitude":21.52128,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Niforaiika",
+    "gn:country_code":"GR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256417,
+    "gn:latitude":38.14428,
+    "gn:longitude":21.52128,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Nifora\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03c6\u03bf\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Anifor\u00e9\u00efka",
+        "Nifora\u00edika",
+        "Nikifora\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256417
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"87c20d8d394b1e48d96a80914aa988bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310235967,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310235967,
+    "wof:lastmodified":1537624351,
+    "wof:name":"Niforaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52128,
+    38.14428,
+    21.52128,
+    38.14428
+],
+  "geometry": {"coordinates":[21.52128,38.14428],"type":"Point"}
+}

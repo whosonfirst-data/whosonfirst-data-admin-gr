@@ -1,0 +1,70 @@
+{
+  "id": 1209248751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49319,37.7265,21.49319,37.7265",
+    "geom:latitude":37.7265,
+    "geom:longitude":21.49319,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141",
+    "gn:asciiname":"Mavromati",
+    "gn:country_code":"GR",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257541,
+    "gn:latitude":37.7265,
+    "gn:longitude":21.49319,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mavrom\u00e1ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c5\u03c1\u03bf\u03bc\u03ac\u03c4\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Mavrom\u00e1ti",
+        "Mavromm\u00e1ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257541
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"116ac13454ade6e33685286e42d47787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209248751
+        }
+    ],
+    "wof:id":1209248751,
+    "wof:lastmodified":1537624408,
+    "wof:name":"Mavromati",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49319,
+    37.7265,
+    21.49319,
+    37.7265
+],
+  "geometry": {"coordinates":[21.49319,37.7265],"type":"Point"}
+}

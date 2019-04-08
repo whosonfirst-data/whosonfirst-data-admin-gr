@@ -1,0 +1,130 @@
+{
+  "id": 101855991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.131811,40.480697,23.131811,40.480697",
+    "geom:latitude":40.480697,
+    "geom:longitude":23.131811,
+    "gn:population":4519,
+    "iso:country":"GR",
+    "lbl:latitude":40.480697,
+    "lbl:longitude":23.131811,
+    "mps:latitude":40.480697,
+    "mps:longitude":23.131811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0633\u064a\u0644\u064a\u0643\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u0438\u043a\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Vasilika"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ac \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Vasilika"
+    ],
+    "name:fin_x_preferred":[
+        "Vasilik\u00e1"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ac \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Vasilika"
+    ],
+    "name:mac_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "Vasilik\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Vasilik\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Vasilik\u00e1"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0392\u0391\u03a3\u0399\u039b\u0399\u039a\u0391",
+    "qs:loc_alt":"BASILIKA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":40.48,
+    "wd:longitude":23.1367,
+    "wd:population":3762,
+    "wd:wordcount":165,
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733941,
+        "gp:id":964251,
+        "qs:id":1028773,
+        "qs_pg:id":1028773,
+        "wd:id":"Q4008935",
+        "wk:page":"Vasilika, Thessaloniki"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3a10dbaf1564b6728add4db3ffe07d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101855991,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101855991,
+    "wof:lastmodified":1544743177,
+    "wof:name":"\u0392\u0391\u03a3\u0399\u039b\u0399\u039a\u0391",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":3762,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.131811,
+    40.480697,
+    23.131811,
+    40.480697
+],
+  "geometry": {"coordinates":[23.131811,40.480697],"type":"Point"}
+}

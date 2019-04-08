@@ -1,0 +1,74 @@
+{
+  "id": 1343888655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91067,39.53731,19.91067,39.53731",
+    "geom:latitude":39.53731,
+    "geom:longitude":19.91067,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Stavros",
+    "gn:country_code":"GR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2595236,
+    "gn:latitude":39.53731,
+    "gn:longitude":19.91067,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Stavr\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Chalidi\u00e1ta",
+        "Stavr\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2595236
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6bfe4fa99c51bc75ed411204fd6b46aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343888655,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1343888655,
+    "wof:lastmodified":1537624995,
+    "wof:name":"Stavros",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91067,
+    39.53731,
+    19.91067,
+    39.53731
+],
+  "geometry": {"coordinates":[19.91067,39.53731],"type":"Point"}
+}

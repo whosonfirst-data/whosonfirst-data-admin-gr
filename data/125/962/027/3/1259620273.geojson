@@ -1,0 +1,84 @@
+{
+  "id": 1259620273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04621,41.02778,22.04621,41.02778",
+    "geom:latitude":41.02778,
+    "geom:longitude":22.04621,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"9042",
+    "gn:asciiname":"Garefeion",
+    "gn:country_code":"GR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10242982,
+    "gn:latitude":41.02778,
+    "gn:longitude":22.04621,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Gar\u00e9feion",
+    "gn:population":663,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_colloquial":[
+        "\u0393\u03b1\u03c1\u03ad\u03c6\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b1\u03c1\u03ad\u03c6\u03b5\u03b9\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b1\u03c1\u03ad\u03c6\u03b5\u03b9\u03bf\u03bd",
+        "\u0393\u03b1\u03c1\u03ad\u03c6\u03b9",
+        "\u0393\u03b1\u03c1\u03ad\u03c6\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Garefeio"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10242982
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f352fc17feaa2cc29b3ba43d0e5fa82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1259620273,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1259620273,
+    "wof:lastmodified":1537625086,
+    "wof:name":"Garefeion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":663,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04621,
+    41.02778,
+    22.04621,
+    41.02778
+],
+  "geometry": {"coordinates":[22.04621,41.02778],"type":"Point"}
+}

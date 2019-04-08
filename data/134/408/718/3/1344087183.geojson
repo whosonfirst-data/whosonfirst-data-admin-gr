@@ -1,0 +1,78 @@
+{
+  "id": 1344087183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77104,38.48446,21.77104,38.48446",
+    "geom:latitude":38.48446,
+    "geom:longitude":21.77104,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Rigani",
+    "gn:country_code":"GR",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":254327,
+    "gn:latitude":38.48446,
+    "gn:longitude":21.77104,
+    "gn:modification_date":"2017-04-10",
+    "gn:name":"Rig\u00e1ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Rig\u00e1ni"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b9\u03b3\u03ac\u03bd\u03b9",
+        "\u03a1\u03b9\u03b3\u03ac\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Vr\u00f3stiani",
+        "Rig\u00e1nion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254327
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"aef1682cd4a5521941cd4592049cf32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1344087183,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1344087183,
+    "wof:lastmodified":1537624263,
+    "wof:name":"Rigani",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77104,
+    38.48446,
+    21.77104,
+    38.48446
+],
+  "geometry": {"coordinates":[21.77104,38.48446],"type":"Point"}
+}

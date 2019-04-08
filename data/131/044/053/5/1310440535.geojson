@@ -1,0 +1,92 @@
+{
+  "id": 1310440535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46274,40.79165,21.46274,40.79165",
+    "geom:latitude":40.79165,
+    "geom:longitude":21.46274,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"8.0",
+    "gn:admin3_code":"9072",
+    "gn:asciiname":"Mesonision",
+    "gn:country_code":"GR",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735180,
+    "gn:latitude":40.79165,
+    "gn:longitude":21.46274,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Meson\u00edsion",
+    "gn:population":198,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_historical":[
+        "\u039b\u03ac\u03b6\u03b5\u03bd\u03b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03bf\u03bd\u03ae\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03b6\u03b5\u03bd\u03b9"
+    ],
+    "name:eng_x_historical":[
+        "Lazeni"
+    ],
+    "name:eng_x_preferred":[
+        "Mesonisi"
+    ],
+    "name:eng_x_variant":[
+        "Lazeni"
+    ],
+    "name:und_x_variant":[
+        "Meson\u00edsi",
+        "Meson\u00edsion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735180
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9f0c98739c2be98d04b4021238953d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310440535,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1310440535,
+    "wof:lastmodified":1537624886,
+    "wof:name":"Mesonision",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":198,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46274,
+    40.79165,
+    21.46274,
+    40.79165
+],
+  "geometry": {"coordinates":[21.46274,40.79165],"type":"Point"}
+}

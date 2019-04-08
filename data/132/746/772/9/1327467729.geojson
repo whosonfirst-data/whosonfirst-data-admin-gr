@@ -1,0 +1,82 @@
+{
+  "id": 1327467729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44399,35.17841,24.44399,35.17841",
+    "geom:latitude":35.17841,
+    "geom:longitude":24.44399,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Lefkogeia",
+    "gn:country_code":"GR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258415,
+    "gn:latitude":35.17841,
+    "gn:longitude":24.44399,
+    "gn:modification_date":"2015-05-12",
+    "gn:name":"Lefk\u00f3geia",
+    "gn:population":283,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c5\u03ba\u03cc\u03b3\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lefkogeia"
+    ],
+    "name:und_x_variant":[
+        "Lefk\u00f3yia",
+        "Levk\u00f3yia",
+        "Lefkogia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258415,
+        "wk:page":"Lefkogeia"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"3c3a064b48da185286a3dd83aa3194da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327467729,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327467729,
+    "wof:lastmodified":1537624446,
+    "wof:name":"Lefkogeia",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44399,
+    35.17841,
+    24.44399,
+    35.17841
+],
+  "geometry": {"coordinates":[24.44399,35.17841],"type":"Point"}
+}

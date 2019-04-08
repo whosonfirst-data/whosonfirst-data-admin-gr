@@ -1,0 +1,82 @@
+{
+  "id": 1327365055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96985,38.15312,23.96985,38.15312",
+    "geom:latitude":38.15312,
+    "geom:longitude":23.96985,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9220",
+    "gn:asciiname":"Lofos",
+    "gn:country_code":"GR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":258161,
+    "gn:latitude":38.15312,
+    "gn:longitude":23.96985,
+    "gn:modification_date":"2014-05-21",
+    "gn:name":"L\u00f3fos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_historical":[
+        "\u039c\u03c0\u03ad\u03b7\u03c2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039e\u03b5\u03c1\u03bf\u03bb\u03af\u03b8\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03ad\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Xerol\u00edthi",
+        "B\u00e9\u00ef",
+        "B\u00e9\u00efs",
+        "L\u00f3fos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258161
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"36a06bf11bf0912e5a307bc999cce7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327365055,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1327365055,
+    "wof:lastmodified":1537624435,
+    "wof:name":"Lofos",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96985,
+    38.15312,
+    23.96985,
+    38.15312
+],
+  "geometry": {"coordinates":[23.96985,38.15312],"type":"Point"}
+}

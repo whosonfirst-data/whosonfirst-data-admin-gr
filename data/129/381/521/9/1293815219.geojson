@@ -1,0 +1,74 @@
+{
+  "id": 1293815219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79675,38.06456,21.79675,38.06456",
+    "geom:latitude":38.06456,
+    "geom:longitude":21.79675,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9132",
+    "gn:asciiname":"Koutsounaiika",
+    "gn:country_code":"GR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":258928,
+    "gn:latitude":38.06456,
+    "gn:longitude":21.79675,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Koutsouna\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03c5\u03bd\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kouts\u00f3ne\u00efka",
+        "Koutsouna\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":258928
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"f81ecd64fa54c8808f6ff8c0a8b8973d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293815219,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1293815219,
+    "wof:lastmodified":1537624471,
+    "wof:name":"Koutsounaiika",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79675,
+    38.06456,
+    21.79675,
+    38.06456
+],
+  "geometry": {"coordinates":[21.79675,38.06456],"type":"Point"}
+}

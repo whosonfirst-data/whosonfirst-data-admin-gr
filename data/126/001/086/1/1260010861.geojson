@@ -1,0 +1,73 @@
+{
+  "id": 1260010861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4911,37.73812,23.4911,37.73812",
+    "geom:latitude":37.73812,
+    "geom:longitude":23.4911,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9208",
+    "gn:asciiname":"Psakhni",
+    "gn:country_code":"GR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":254545,
+    "gn:latitude":37.73812,
+    "gn:longitude":23.4911,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Psakhn\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "\u03a8\u03b1\u03c7\u03bd\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Psachni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254545
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1be0a385a620537b7d1c3a1730119040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260010861,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1260010861,
+    "wof:lastmodified":1537624271,
+    "wof:name":"Psakhni",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4911,
+    37.73812,
+    23.4911,
+    37.73812
+],
+  "geometry": {"coordinates":[23.4911,37.73812],"type":"Point"}
+}

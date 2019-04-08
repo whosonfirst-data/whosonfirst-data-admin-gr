@@ -1,0 +1,72 @@
+{
+  "id": 1276693143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37782,35.19261,25.37782,35.19261",
+    "geom:latitude":35.19261,
+    "geom:longitude":25.37782,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9307",
+    "gn:asciiname":"Kastamonitsa",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260836,
+    "gn:latitude":35.19261,
+    "gn:longitude":25.37782,
+    "gn:modification_date":"2012-03-27",
+    "gn:name":"Kastamon\u00edtsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kostam\u00f3nitsa",
+        "Kastamon\u00edtsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260836
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6ff7bdd17190b01a64f8013ce623790a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276693143,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1276693143,
+    "wof:lastmodified":1537624562,
+    "wof:name":"Kastamonitsa",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37782,
+    35.19260999999999,
+    25.37782,
+    35.19260999999999
+],
+  "geometry": {"coordinates":[25.37782,35.19260999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260215391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97681,37.99542,22.97681,37.99542",
+    "geom:latitude":37.99542,
+    "geom:longitude":22.97681,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"9244",
+    "gn:asciiname":"Moni Osiou Patapiou",
+    "gn:country_code":"GR",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":9409130,
+    "gn:latitude":37.99542,
+    "gn:longitude":22.97681,
+    "gn:modification_date":"2014-08-25",
+    "gn:name":"Mon\u00ed Os\u00edou Patap\u00edou",
+    "gn:population":41,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03ae \u039f\u03c3\u03af\u03bf\u03c5 \u03a0\u03b1\u03c4\u03b1\u03c0\u03af\u03bf\u03c5"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409130
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ce963aa85155d6bdffdefc5409cd6cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1260215391,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1260215391,
+    "wof:lastmodified":1537551187,
+    "wof:name":"Moni Osiou Patapiou",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97681,
+    37.99542,
+    22.97681,
+    37.99542
+],
+  "geometry": {"coordinates":[22.97681,37.99542],"type":"Point"}
+}

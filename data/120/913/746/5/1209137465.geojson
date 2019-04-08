@@ -1,0 +1,72 @@
+{
+  "id": 1209137465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09744,39.49383,23.09744,39.49383",
+    "geom:latitude":39.49383,
+    "geom:longitude":23.09744,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9106",
+    "gn:asciiname":"Mintzela",
+    "gn:country_code":"GR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255912,
+    "gn:latitude":39.49383,
+    "gn:longitude":23.09744,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mintz\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Mintz\u00e9la"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03bd\u03c4\u03b6\u03ad\u03bb\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Panay\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255912
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c27268f52fe5eefa96a6fd151612c23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209137465
+        }
+    ],
+    "wof:id":1209137465,
+    "wof:lastmodified":1537624327,
+    "wof:name":"Mintzela",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09744,
+    39.49383,
+    23.09744,
+    39.49383
+],
+  "geometry": {"coordinates":[23.09744,39.49383],"type":"Point"}
+}

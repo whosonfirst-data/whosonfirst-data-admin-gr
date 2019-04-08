@@ -1,0 +1,84 @@
+{
+  "id": 1293625455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99441,36.18744,22.99441,36.18744",
+    "geom:latitude":36.18744,
+    "geom:longitude":22.99441,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Katsouni",
+    "gn:country_code":"GR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260392,
+    "gn:latitude":36.18744,
+    "gn:longitude":22.99441,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Katso\u00fani",
+    "gn:population":30,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03c3\u03bf\u03cd\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c4\u03c3\u03bf\u03cd\u03bd\u03b9\u03bf",
+        "\u039a\u03b1\u03c4\u03c3\u03bf\u03cd\u03bd\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Katsouni"
+    ],
+    "name:und_x_variant":[
+        "Kato\u00fani",
+        "Katso\u00fanion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260392
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"dd337cbdc8535e66062e71d7949408df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625455,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1293625455,
+    "wof:lastmodified":1537624537,
+    "wof:name":"Katsouni",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99441,
+    36.18744,
+    22.99441,
+    36.18744
+],
+  "geometry": {"coordinates":[22.99441,36.18744],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310136181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28532,38.65795,21.28532,38.65795",
+    "geom:latitude":38.65795,
+    "geom:longitude":21.28532,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9123",
+    "gn:asciiname":"Okhthia",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256321,
+    "gn:latitude":38.65795,
+    "gn:longitude":21.28532,
+    "gn:modification_date":"2014-10-20",
+    "gn:name":"\u00d3khthia",
+    "gn:population":506,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u038c\u03c7\u03b8\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Octhia"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256321
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"bb7532f767d0d976b6b39f67ad4f2113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310136181,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1310136181,
+    "wof:lastmodified":1537624347,
+    "wof:name":"Okhthia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:population":506,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28532,
+    38.65795,
+    21.28532,
+    38.65795
+],
+  "geometry": {"coordinates":[21.28532,38.65795],"type":"Point"}
+}

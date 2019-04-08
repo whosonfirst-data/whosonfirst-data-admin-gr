@@ -1,0 +1,77 @@
+{
+  "id": 1310439295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15658,39.12581,23.15658,39.12581",
+    "geom:latitude":39.12581,
+    "geom:longitude":23.15658,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9107",
+    "gn:asciiname":"Tzasteni",
+    "gn:country_code":"GR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251247,
+    "gn:latitude":39.12581,
+    "gn:longitude":23.15658,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tz\u00e1steni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Tz\u00e1steni"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b6\u03ac\u03c3\u03c4\u03b5\u03bd\u03b7"
+    ],
+    "name:und_x_variant":[
+        "Z\u00e1staina",
+        "Z\u00e1stena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251247
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"61b4afe6f6e3436cdebc5865cae36fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1310439295,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1310439295,
+    "wof:lastmodified":1537624132,
+    "wof:name":"Tzasteni",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15658,
+    39.12581,
+    23.15658,
+    39.12581
+],
+  "geometry": {"coordinates":[23.15658,39.12581],"type":"Point"}
+}

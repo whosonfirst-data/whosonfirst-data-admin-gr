@@ -1,0 +1,76 @@
+{
+  "id": 1326760871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80469,38.49585,21.80469,38.49585",
+    "geom:latitude":38.49585,
+    "geom:longitude":21.80469,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"9128",
+    "gn:asciiname":"Stylia",
+    "gn:country_code":"GR",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":253173,
+    "gn:latitude":38.49585,
+    "gn:longitude":21.80469,
+    "gn:modification_date":"2017-11-06",
+    "gn:name":"St\u00fdlia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "St\u00fdlia"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03cd\u03bb\u03b9\u03b1"
+    ],
+    "name:und_x_variant":[
+        "St\u00edlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253173
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6296578a963121ddfe77e02376803a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1326760871,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1326760871,
+    "wof:lastmodified":1537624208,
+    "wof:name":"Stylia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80469,
+    38.49585,
+    21.80469,
+    38.49585
+],
+  "geometry": {"coordinates":[21.80469,38.49585],"type":"Point"}
+}

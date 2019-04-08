@@ -1,0 +1,78 @@
+{
+  "id": 1309936763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76227,35.53437,23.76227,35.53437",
+    "geom:latitude":35.53437,
+    "geom:longitude":23.76227,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"9323",
+    "gn:asciiname":"Koumouli",
+    "gn:country_code":"GR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":259067,
+    "gn:latitude":35.53437,
+    "gn:longitude":23.76227,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Koumo\u00fali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Koumo\u00fali"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03c5\u03bc\u03bf\u03cd\u03bb\u03b9",
+        "\u039a\u03bf\u03c5\u03bc\u03bf\u03cd\u03bb\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Kouko\u00fali",
+        "Koumo\u00falion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":259067
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fede109a17a25a1c49456818c6800c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1309936763,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1309936763,
+    "wof:lastmodified":1537624478,
+    "wof:name":"Koumouli",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76227,
+    35.53437,
+    23.76227,
+    35.53437
+],
+  "geometry": {"coordinates":[23.76227,35.53437],"type":"Point"}
+}

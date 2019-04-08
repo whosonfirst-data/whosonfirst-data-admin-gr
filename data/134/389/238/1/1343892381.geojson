@@ -1,0 +1,73 @@
+{
+  "id": 1343892381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97869,37.77976,23.97869,37.77976",
+    "geom:latitude":37.77976,
+    "geom:longitude":23.97869,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445406.0",
+    "gn:admin3_code":"9219.0",
+    "gn:asciiname":"Pani Ferizas",
+    "gn:country_code":"GR",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10995235,
+    "gn:latitude":37.77976,
+    "gn:longitude":23.97869,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pan\u00ed F\u00e9rizas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Pan\u00ed F\u00e9rizas"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bd\u03af \u03a6\u03ad\u03c1\u03b9\u03b6\u03b1\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10995235
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"6f6004ec41a02fb3ea50abc8096fe75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343892381,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1343892381,
+    "wof:lastmodified":1537625100,
+    "wof:name":"Pani Ferizas",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97869,
+    37.77976,
+    23.97869,
+    37.77976
+],
+  "geometry": {"coordinates":[23.97869,37.77976],"type":"Point"}
+}

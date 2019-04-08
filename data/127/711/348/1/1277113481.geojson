@@ -1,0 +1,77 @@
+{
+  "id": 1277113481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.40331,36.70717,22.40331,36.70717",
+    "geom:latitude":36.70717,
+    "geom:longitude":22.40331,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Kelefa",
+    "gn:country_code":"GR",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":260279,
+    "gn:latitude":36.70717,
+    "gn:longitude":22.40331,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Kelef\u00e1",
+    "gn:population":39,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bb\u03b5\u03c6\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kelefa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":260279,
+        "wk:page":"Kelefa"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7a55792fccd6836f411a25c1c7dffd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1277113481,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1277113481,
+    "wof:lastmodified":1537624533,
+    "wof:name":"Kelefa",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.40331,
+    36.70717,
+    22.40331,
+    36.70717
+],
+  "geometry": {"coordinates":[22.40331,36.70717],"type":"Point"}
+}

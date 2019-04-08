@@ -1,0 +1,76 @@
+{
+  "id": 1293135653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83065,35.07307,24.83065,35.07307",
+    "geom:latitude":35.07307,
+    "geom:longitude":24.83065,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"9308",
+    "gn:asciiname":"Faneromeni",
+    "gn:country_code":"GR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262499,
+    "gn:latitude":35.07307,
+    "gn:longitude":24.83065,
+    "gn:modification_date":"2015-11-25",
+    "gn:name":"Fanerom\u00e9ni",
+    "gn:population":464,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03bd\u03b5\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Faneromeni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":262499
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"9a865cc342a70e60d4188fa087c63277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293135653,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1293135653,
+    "wof:lastmodified":1537624635,
+    "wof:name":"Faneromeni",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":464,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83065,
+    35.07307,
+    24.83065,
+    35.07307
+],
+  "geometry": {"coordinates":[24.83065,35.07307],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276587041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48795,40.03557,23.48795,40.03557",
+    "geom:latitude":40.03557,
+    "geom:longitude":23.48795,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Evdos",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9317550,
+    "gn:latitude":40.03557,
+    "gn:longitude":23.48795,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"\u00c9vdos",
+    "gn:population":13,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03cd\u03b4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Evdos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9317550
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"7958851f4edc9271a3c474d3cf93b3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276587041,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1276587041,
+    "wof:lastmodified":1537625058,
+    "wof:name":"Evdos",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48795,
+    40.03557,
+    23.48795,
+    40.03557
+],
+  "geometry": {"coordinates":[23.48795,40.03557],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1226577011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16603,40.38357,21.16603,40.38357",
+    "geom:latitude":40.38357,
+    "geom:longitude":21.16603,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"9.0",
+    "gn:admin3_code":"9065",
+    "gn:asciiname":"Zevgostasi",
+    "gn:country_code":"GR",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733750,
+    "gn:latitude":40.38357,
+    "gn:longitude":21.16603,
+    "gn:modification_date":"2015-04-01",
+    "gn:name":"Zevgost\u00e1si",
+    "gn:population":6,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03c5\u03b3\u03bf\u03c3\u03c4\u03ac\u03c3\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b5\u03c5\u03b3\u03bf\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Zevgostasi"
+    ],
+    "name:und_x_variant":[
+        "Zevgost\u00e1si",
+        "Zevgost\u00e1sion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733750
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"eddac2a58667860231445dba68344939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226577011,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1226577011,
+    "wof:lastmodified":1537624805,
+    "wof:name":"Zevgostasi",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16603,
+    40.38357,
+    21.16603,
+    40.38357
+],
+  "geometry": {"coordinates":[21.16603,40.38357],"type":"Point"}
+}

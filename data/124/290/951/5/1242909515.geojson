@@ -1,0 +1,73 @@
+{
+  "id": 1242909515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17013,38.05593,23.17013,38.05593",
+    "geom:latitude":38.05593,
+    "geom:longitude":23.17013,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9231.0",
+    "gn:asciiname":"Paraskeva",
+    "gn:country_code":"GR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039226,
+    "gn:latitude":38.05593,
+    "gn:longitude":23.17013,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Paraskev\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Paraskev\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039226
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1bdf9f751d6f53bf0d559d2ff7441e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242909515,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1242909515,
+    "wof:lastmodified":1537625106,
+    "wof:name":"Paraskeva",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17013,
+    38.05593,
+    23.17013,
+    38.05593
+],
+  "geometry": {"coordinates":[23.17013,38.05593],"type":"Point"}
+}

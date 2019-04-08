@@ -1,0 +1,67 @@
+{
+  "id": 1226377599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06108,39.3961,23.06108,39.3961",
+    "geom:latitude":39.3961,
+    "geom:longitude":23.06108,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9105.0",
+    "gn:asciiname":"Chania",
+    "gn:country_code":"GR",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11524143,
+    "gn:latitude":39.3961,
+    "gn:longitude":23.06108,
+    "gn:modification_date":"2017-04-26",
+    "gn:name":"Ch\u00e1nia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11524143
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"660faebe5cb8a4e258e4bc6fb02cc14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1226377599,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1226377599,
+    "wof:lastmodified":1536743345,
+    "wof:name":"Chania",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06108,
+    39.3961,
+    23.06108,
+    39.3961
+],
+  "geometry": {"coordinates":[23.06108,39.3961],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209950583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35204,37.07465,25.35204,37.07465",
+    "geom:latitude":37.07465,
+    "geom:longitude":25.35204,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9292",
+    "gn:asciiname":"Agios Prokopios",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692203,
+    "gn:latitude":37.07465,
+    "gn:longitude":25.35204,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Agios Prokopios",
+    "gn:population":96,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03c1\u03bf\u03ba\u03cc\u03c0\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Prokopios"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692203
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ef18008fd942b96e78ef8e0076478e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209950583,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1209950583,
+    "wof:lastmodified":1537624996,
+    "wof:name":"Agios Prokopios",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35204,
+    37.07465,
+    25.35204,
+    37.07465
+],
+  "geometry": {"coordinates":[25.35204,37.07465],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343892295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17105,38.8143,22.17105,38.8143",
+    "geom:latitude":38.8143,
+    "geom:longitude":22.17105,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"29.0",
+    "gn:admin3_code":"9160",
+    "gn:asciiname":"Pirgos",
+    "gn:country_code":"GR",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255222,
+    "gn:latitude":38.8143,
+    "gn:longitude":22.17105,
+    "gn:modification_date":"2014-09-12",
+    "gn:name":"P\u00edrgos",
+    "gn:population":106,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pyrgos"
+    ],
+    "name:und_x_variant":[
+        "Sm\u00f3kovon",
+        "P\u00edrgos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255222
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2db726ee515cc5a631d6fb090bc3e00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1343892295,
+            "region_id":85684681
+        }
+    ],
+    "wof:id":1343892295,
+    "wof:lastmodified":1537624296,
+    "wof:name":"Pirgos",
+    "wof:parent_id":85684681,
+    "wof:placetype":"locality",
+    "wof:population":106,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17105,
+    38.8143,
+    22.17105,
+    38.8143
+],
+  "geometry": {"coordinates":[22.17105,38.8143],"type":"Point"}
+}

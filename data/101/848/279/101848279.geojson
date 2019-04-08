@@ -1,0 +1,92 @@
+{
+  "id": 101848279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.463829,35.282593,25.463829,35.282593",
+    "geom:latitude":35.282593,
+    "geom:longitude":25.463829,
+    "gn:population":4343,
+    "iso:country":"GR",
+    "lbl:latitude":35.282593,
+    "lbl:longitude":25.463829,
+    "mps:latitude":35.282593,
+    "mps:longitude":25.463829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Malia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u044f"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e1lia"
+    ],
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u03a1\u0397\u03a4\u0397",
+    "qs:a1_alt":"KRHTH",
+    "qs:a1r":"0",
+    "qs:a2_alt":"HRAKLEIO",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u0391\u039b\u0399\u0391",
+    "qs:loc_alt":"MALIA",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257859,
+        "gp:id":956019,
+        "qs:id":4068
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"c8be6dcad0d78aa0ab1264cca84917cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848279,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":101848279,
+    "wof:lastmodified":1544740361,
+    "wof:name":"\u039c\u0391\u039b\u0399\u0391",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:population":4343,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.463829,
+    35.282593,
+    25.463829,
+    35.282593
+],
+  "geometry": {"coordinates":[25.463829,35.282593],"type":"Point"}
+}

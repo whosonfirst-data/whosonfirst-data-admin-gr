@@ -1,0 +1,76 @@
+{
+  "id": 1293625401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.82782,41.065,24.82782,41.065",
+    "geom:latitude":41.065,
+    "geom:longitude":24.82782,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"3.0",
+    "gn:admin3_code":"9018",
+    "gn:asciiname":"Prasinada",
+    "gn:country_code":"GR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":734480,
+    "gn:latitude":41.065,
+    "gn:longitude":24.82782,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Prasin\u00e1da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Prasin\u00e1da"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03b1\u03c3\u03b9\u03bd\u03ac\u03b4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Prasin\u00e1dha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734480
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"da73f6048f66dccc75908919a28b8243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293625401,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293625401,
+    "wof:lastmodified":1537624843,
+    "wof:name":"Prasinada",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.82782000000001,
+    41.065,
+    24.82782000000001,
+    41.065
+],
+  "geometry": {"coordinates":[24.82782000000001,41.065],"type":"Point"}
+}

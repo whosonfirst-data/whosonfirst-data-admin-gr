@@ -1,0 +1,76 @@
+{
+  "id": 1209546749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83241,37.81254,20.83241,37.81254",
+    "geom:latitude":37.81254,
+    "geom:longitude":20.83241,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Tragakion",
+    "gn:country_code":"GR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":252755,
+    "gn:latitude":37.81254,
+    "gn:longitude":20.83241,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Trag\u00e1kion",
+    "gn:population":622,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b1\u03b3\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Tragaki"
+    ],
+    "name:und_x_variant":[
+        "Trag\u00e1ki",
+        "Trag\u00e1kion"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":252755
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"2eefdd5f04d0a459ab2fe23e0d5965fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209546749
+        }
+    ],
+    "wof:id":1209546749,
+    "wof:lastmodified":1537624195,
+    "wof:name":"Tragakion",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:population":622,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83241,
+    37.81254000000001,
+    20.83241,
+    37.81254000000001
+],
+  "geometry": {"coordinates":[20.83241,37.81254000000001],"type":"Point"}
+}

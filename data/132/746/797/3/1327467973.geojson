@@ -1,0 +1,79 @@
+{
+  "id": 1327467973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.1196,35.05673,26.1196,35.05673",
+    "geom:latitude":35.05673,
+    "geom:longitude":26.1196,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9313",
+    "gn:asciiname":"Mesa Apidi",
+    "gn:country_code":"GR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":257242,
+    "gn:latitude":35.05673,
+    "gn:longitude":26.1196,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"M\u00e9sa Ap\u00eddi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00e9sa Ap\u00eddi"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ad\u03c3\u03b1 \u0391\u03c0\u03af\u03b4\u03b9",
+        "M\u00e9sa Ap\u00eddion",
+        "\u039c\u03ad\u03c3\u03b1 \u0391\u03c0\u03af\u03b4\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mesa Ap\u00eddhi",
+        "M\u00e9sa Ap\u00eddhion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":257242
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"62163988af45c916e2f0a316a25fca78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327467973,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1327467973,
+    "wof:lastmodified":1537624396,
+    "wof:name":"Mesa Apidi",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.1196,
+    35.05673,
+    26.1196,
+    35.05673
+],
+  "geometry": {"coordinates":[26.1196,35.05673],"type":"Point"}
+}

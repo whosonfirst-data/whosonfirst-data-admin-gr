@@ -1,0 +1,63 @@
+{
+  "id": 1209451575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44029,35.24155,24.44029,35.24155",
+    "geom:latitude":35.24155,
+    "geom:longitude":24.44029,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Palaioloutra",
+    "gn:country_code":"GR",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256088,
+    "gn:latitude":35.24155,
+    "gn:longitude":24.44029,
+    "gn:modification_date":"2012-03-26",
+    "gn:name":"Palai\u00f3loutra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":256088
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a19afd87bea4e3f0ce92d7d36b8454b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209451575
+        }
+    ],
+    "wof:id":1209451575,
+    "wof:lastmodified":1536286656,
+    "wof:name":"Palaioloutra",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44029,
+    35.24155,
+    24.44029,
+    35.24155
+],
+  "geometry": {"coordinates":[24.44029,35.24155],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125776741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61667,40.68333,21.61667,40.68333",
+    "geom:latitude":40.68333,
+    "geom:longitude":21.61667,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1176,
+    "gn:population":1081,
+    "iso:country":"GR",
+    "lbl:latitude":40.68333,
+    "lbl:longitude":21.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_historical":[
+        "\u0415\u043a\u0448\u0438 \u0421\u0443",
+        "\u0413\u043e\u0440\u043d\u043e \u0412\u044a\u0440\u0431\u0435\u043d\u0438"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043a\u0448\u0438 \u0421\u0443"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u043e\u0440\u043d\u043e \u0412\u044a\u0440\u0431\u0435\u043d\u0438",
+        "\u041a\u0441\u0438\u043d\u0300\u043e \u041d\u0435\u0440\u0300\u043e"
+    ],
+    "name:ell_x_historical":[
+        "\u0395\u03be\u03af \u03a3\u03bf\u03c5",
+        "\u0393\u03ba\u03cc\u03c1\u03bd\u03bf \u0392\u03ac\u03c1\u03bc\u03c0\u03b9\u03b1\u03bd\u03b7",
+        "\u0386\u03bd\u03c9 \u0392\u03ad\u03c1\u03bc\u03c0\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:ell_x_preferred":[
+        "\u039e\u03b9\u03bd\u03cc\u03bd \u039d\u03b5\u03c1\u03cc\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039e\u03b9\u03bd\u03cc \u039d\u03b5\u03c1\u03cc",
+        "\u0395\u03be\u03af \u03a3\u03bf\u03c5",
+        "\u0393\u03ba\u03cc\u03c1\u03bd\u03bf \u0392\u03ac\u03c1\u03bc\u03c0\u03b9\u03b1\u03bd\u03b7",
+        "\u0386\u03bd\u03c9 \u0392\u03ad\u03c1\u03bc\u03c0\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Ksino Nero"
+    ],
+    "name:unk_x_variant":[
+        "Ex\u00ed Su"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":733827,
+    "qs_pg:gn_pop":1176,
+    "qs_pg:name":"Xinon Neron",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":191697,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":965197,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733827,
+        "gp:id":965197,
+        "qs_pg:id":191697
+    },
+    "wof:country":"GR",
+    "wof:created":1497290294,
+    "wof:geomhash":"517275b0391f438f2b486e1d007d8894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125776741,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125776741,
+    "wof:lastmodified":1509391328,
+    "wof:name":"Xinon Neron",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":1081,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61667,
+    40.68333,
+    21.61667,
+    40.68333
+],
+  "geometry": {"coordinates":[21.61667,40.68333],"type":"Point"}
+}

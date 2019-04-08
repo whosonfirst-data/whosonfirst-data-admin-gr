@@ -1,0 +1,77 @@
+{
+  "id": 1343895257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89048,38.27522,25.89048,38.27522",
+    "geom:latitude":38.27522,
+    "geom:longitude":25.89048,
+    "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"50.0",
+    "gn:admin3_code":"9266",
+    "gn:asciiname":"Merikounta",
+    "gn:country_code":"GR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8349509,
+    "gn:latitude":38.27522,
+    "gn:longitude":25.89048,
+    "gn:modification_date":"2014-08-15",
+    "gn:name":"Meriko\u00fanta",
+    "gn:population":13,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Merikounda"
+    ],
+    "name:und_x_variant":[
+        "Merikoynta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8349509
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cb27297ce321336c54e593a785ecfeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1343895257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343895257,
+    "wof:lastmodified":1537625004,
+    "wof:name":"Merikounta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89048,
+    38.27522,
+    25.89048,
+    38.27522
+],
+  "geometry": {"coordinates":[25.89048,38.27522],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1125838273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98639,39.86778,20.98639,39.86778",
+    "geom:latitude":39.86778,
+    "geom:longitude":20.98639,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":63,
+    "gn:population":19,
+    "iso:country":"GR",
+    "lbl:latitude":39.86778,
+    "lbl:longitude":20.98639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u03a3\u03ad\u03c3\u03b1"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03af\u03bb\u03b1\u03ba\u03ba\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ad\u03c3\u03b1",
+        "\u0394\u03af\u03bb\u03b1\u03ba\u03ba\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Dilakko"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03af\u03bb\u03b1\u03ba\u03ba\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e9sa"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":253981,
+    "qs_pg:gn_pop":63,
+    "qs_pg:name":"D\u00edlakkon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":79747,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":253981,
+        "qs_pg:id":79747,
+        "wd:id":"Q17009168"
+    },
+    "wof:country":"GR",
+    "wof:created":1497292815,
+    "wof:geomhash":"d435180da3119bfeaf111b3dc2cafe1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125838273,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1125838273,
+    "wof:lastmodified":1514443942,
+    "wof:name":"D\u00edlakkon",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98639,
+    39.86778,
+    20.98639,
+    39.86778
+],
+  "geometry": {"coordinates":[20.98639,39.86778],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1126004521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56611,39.63667,20.56611,39.63667",
+    "geom:latitude":39.63667,
+    "geom:longitude":20.56611,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":277,
+    "gn:population":63,
+    "iso:country":"GR",
+    "lbl:latitude":39.63667,
+    "lbl:longitude":20.56611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Polydoro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03cd\u03b4\u03c9\u03c1\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03cd\u03b4\u03c9\u03c1\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Polydoro"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03cd\u03b4\u03c9\u03c1\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    ],
+    "name:rum_x_preferred":[
+        "Polydoro"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e1zia"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":254922,
+    "qs_pg:gn_pop":277,
+    "qs_pg:name":"Polidhoron",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Epirus and Western Macedonia",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":916988,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":960425,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Epirus and Western Macedonia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":254922,
+        "gp:id":960425,
+        "qs_pg:id":916988,
+        "wd:id":"Q3563053"
+    },
+    "wof:country":"GR",
+    "wof:created":1497299857,
+    "wof:geomhash":"be6c5898110ad15aac0f31f3f777c091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126004521,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1126004521,
+    "wof:lastmodified":1514444041,
+    "wof:name":"Polidhoron",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56611,
+    39.63667,
+    20.56611,
+    39.63667
+],
+  "geometry": {"coordinates":[20.56611,39.63667],"type":"Point"}
+}

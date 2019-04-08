@@ -1,0 +1,81 @@
+{
+  "id": 1327368863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95696,36.24566,22.95696,36.24566",
+    "geom:latitude":36.24566,
+    "geom:longitude":22.95696,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"406101.0",
+    "gn:admin3_code":"9209",
+    "gn:asciiname":"Araioi",
+    "gn:country_code":"GR",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264722,
+    "gn:latitude":36.24566,
+    "gn:longitude":22.95696,
+    "gn:modification_date":"2014-08-30",
+    "gn:name":"Ara\u00edoi",
+    "gn:population":15,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b1\u03b9\u03bf\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Araioi"
+    ],
+    "name:und_x_variant":[
+        "Ar\u00e9oi",
+        "Ar\u00e9on",
+        "Ara\u00edoi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":264722
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"843266de113be46ab7c4f6d4e5c03f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1327368863,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":1327368863,
+    "wof:lastmodified":1537624737,
+    "wof:name":"Araioi",
+    "wof:parent_id":85684697,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95696,
+    36.24566,
+    22.95696,
+    36.24566
+],
+  "geometry": {"coordinates":[22.95696,36.24566],"type":"Point"}
+}

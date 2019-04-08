@@ -1,0 +1,67 @@
+{
+  "id": 1209746051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56993,37.45805,22.56993,37.45805",
+    "geom:latitude":37.45805,
+    "geom:longitude":22.56993,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"9241",
+    "gn:asciiname":"Eleochori",
+    "gn:country_code":"GR",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8478259,
+    "gn:latitude":37.45805,
+    "gn:longitude":22.56993,
+    "gn:modification_date":"2013-03-07",
+    "gn:name":"Eleochori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8478259
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"fca4a1debf55c4a2a3cf9d7f802e3f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209746051,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1209746051,
+    "wof:lastmodified":1536394947,
+    "wof:name":"Eleochori",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56993,
+    37.45805,
+    22.56993,
+    37.45805
+],
+  "geometry": {"coordinates":[22.56993,37.45805],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1360121533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65334,40.98096,25.65334,40.98096",
+    "geom:latitude":40.98096,
+    "geom:longitude":25.65334,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9022",
+    "gn:asciiname":"Velkio",
+    "gn:country_code":"GR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733914,
+    "gn:latitude":40.98096,
+    "gn:longitude":25.65334,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"V\u00e9lkio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "V\u00e9lkio"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03ad\u03bb\u03ba\u03b9\u03bf",
+        "\u0392\u03ad\u03bb\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Mikr\u00f3n",
+        "Bek\u00edrkioi",
+        "Bek\u00edrkion",
+        "V\u00e9lkion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733914
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"a1d308245062eddf884cb4e856866f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1360121533,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1360121533,
+    "wof:lastmodified":1537624813,
+    "wof:name":"Velkio",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65334,
+    40.98096,
+    25.65334,
+    40.98096
+],
+  "geometry": {"coordinates":[25.65334,40.98096],"type":"Point"}
+}

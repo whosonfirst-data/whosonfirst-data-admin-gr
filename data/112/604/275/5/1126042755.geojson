@@ -1,0 +1,91 @@
+{
+  "id": 1126042755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53333,35.36667,24.53333,35.36667",
+    "geom:latitude":35.36667,
+    "geom:longitude":24.53333,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"GR",
+    "lbl:latitude":35.36667,
+    "lbl:longitude":24.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03ad\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Platanes"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":255077,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Platanias",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Crete",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905366,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56024202,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Crete",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":255077,
+        "gp:id":56024202,
+        "qs_pg:id":905366
+    },
+    "wof:country":"GR",
+    "wof:created":1497302254,
+    "wof:geomhash":"7ffc5521edede3907d12445257be8645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126042755,
+            "region_id":85684655
+        }
+    ],
+    "wof:id":1126042755,
+    "wof:lastmodified":1509408651,
+    "wof:name":"Platanias",
+    "wof:parent_id":85684655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53333,
+    35.36667,
+    24.53333,
+    35.36667
+],
+  "geometry": {"coordinates":[24.53333,35.36667],"type":"Point"}
+}

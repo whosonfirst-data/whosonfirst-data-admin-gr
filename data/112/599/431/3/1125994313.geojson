@@ -1,0 +1,80 @@
+{
+  "id": 1125994313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.484566,38.153971,20.484566,38.153971",
+    "geom:latitude":38.153971,
+    "geom:longitude":20.484566,
+    "gn:gn_country":"GR",
+    "iso:country":"GR",
+    "lbl:latitude":38.153971,
+    "lbl:longitude":20.484566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:name":"Platys Gialos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "qs_pg:photos":154,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":154,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":7167,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":56024427,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56024427,
+        "qs_pg:id":7167
+    },
+    "wof:country":"GR",
+    "wof:created":1497299213,
+    "wof:geomhash":"23d8c1035b298b6bc64c725fccc33629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125994313,
+            "region_id":85684693
+        }
+    ],
+    "wof:id":1125994313,
+    "wof:lastmodified":1509405616,
+    "wof:name":"Platys Gialos",
+    "wof:parent_id":85684693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.484566,
+    38.153971,
+    20.484566,
+    38.153971
+],
+  "geometry": {"coordinates":[20.484566,38.153971],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226276717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6617,35.0092,25.6617,35.0092",
+    "geom:latitude":35.0092,
+    "geom:longitude":25.6617,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Nea Anatoli",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608506,
+    "gn:latitude":35.0092,
+    "gn:longitude":25.6617,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"N\u00e9a Anatol\u00ed",
+    "gn:population":1002,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Anatoli"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9a Anatol\u00ed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608506
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"cf747955567652898ef947e6f612d35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226276717,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226276717,
+    "wof:lastmodified":1537625028,
+    "wof:name":"Nea Anatoli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1002,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6617,
+    35.0092,
+    25.6617,
+    35.0092
+],
+  "geometry": {"coordinates":[25.6617,35.0092],"type":"Point"}
+}

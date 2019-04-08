@@ -1,0 +1,71 @@
+{
+  "id": 1209140709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50067,38.10889,21.50067,38.10889",
+    "geom:latitude":38.10889,
+    "geom:longitude":21.50067,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9131",
+    "gn:asciiname":"Karaiika",
+    "gn:country_code":"GR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261073,
+    "gn:latitude":38.10889,
+    "gn:longitude":21.50067,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kara\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Kar\u00e9\u00efka",
+        "Kara\u00edika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261073,
+        "wk:page":"Kareika"
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"8ba828781c6e1c2048a4c3e10a0c5e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209140709
+        }
+    ],
+    "wof:id":1209140709,
+    "wof:lastmodified":1537624572,
+    "wof:name":"Karaiika",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50067,
+    38.10889,
+    21.50067,
+    38.10889
+],
+  "geometry": {"coordinates":[21.50067,38.10889],"type":"Point"}
+}

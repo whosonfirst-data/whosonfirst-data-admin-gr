@@ -1,0 +1,75 @@
+{
+  "id": 101857749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.630699,41.004177,23.630699,41.004177",
+    "geom:latitude":41.004177,
+    "geom:longitude":23.630699,
+    "iso:country":"GR",
+    "lbl:latitude":41.004177,
+    "lbl:longitude":23.630699,
+    "mps:latitude":41.004177,
+    "mps:longitude":23.630699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Greece",
+    "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
+    "qs:a1_alt":"KENTRIKH MAKEDONIA",
+    "qs:a1r":"0",
+    "qs:a2_alt":"SERRES",
+    "qs:adm0":"Greece",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a8\u03a5\u03a7\u0399\u039a\u039f\u039d",
+    "qs:loc_alt":"CYXIKON",
+    "qs:pop":0,
+    "qs:source":"CCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":960887,
+        "qs:id":1
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"ec7f3cdb513f8be59fbc2d9df28e01c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101857749,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":101857749,
+    "wof:lastmodified":1544744058,
+    "wof:name":"\u03a8\u03a5\u03a7\u0399\u039a\u039f\u039d",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.630699,
+    41.004177,
+    23.630699,
+    41.004177
+],
+  "geometry": {"coordinates":[23.630699,41.004177],"type":"Point"}
+}

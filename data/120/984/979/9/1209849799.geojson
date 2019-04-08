@@ -1,0 +1,76 @@
+{
+  "id": 1209849799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76509,39.31579,22.76509,39.31579",
+    "geom:latitude":39.31579,
+    "geom:longitude":22.76509,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"9108",
+    "gn:asciiname":"Polyzaiika",
+    "gn:country_code":"GR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10241151,
+    "gn:latitude":39.31579,
+    "gn:longitude":22.76509,
+    "gn:modification_date":"2015-04-30",
+    "gn:name":"Polyza\u00edika",
+    "gn:population":10,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03c5\u03b6\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Polyzaiika"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10241151
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"d8efc4849cee9ab2f9c6f404ef282233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209849799,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1209849799,
+    "wof:lastmodified":1537625085,
+    "wof:name":"Polyzaiika",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76509,
+    39.31579,
+    22.76509,
+    39.31579
+],
+  "geometry": {"coordinates":[22.76509,39.31579],"type":"Point"}
+}

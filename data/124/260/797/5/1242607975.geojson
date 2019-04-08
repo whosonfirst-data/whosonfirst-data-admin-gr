@@ -1,0 +1,77 @@
+{
+  "id": 1242607975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49133,41.15792,25.49133,41.15792",
+    "geom:latitude":41.15792,
+    "geom:longitude":25.49133,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"9021",
+    "gn:asciiname":"Iampoli",
+    "gn:country_code":"GR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736140,
+    "gn:latitude":41.15792,
+    "gn:longitude":25.49133,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"I\u00e1mpoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03ac\u03bc\u03c0\u03bf\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "I\u00e1mpoli"
+    ],
+    "name:und_x_variant":[
+        "Y\u00e1boli",
+        "I\u00e1mbolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736140
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"4379e495e6d8518a1a7ef8af3a4317f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1242607975,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1242607975,
+    "wof:lastmodified":1537624942,
+    "wof:name":"Iampoli",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49133,
+    41.15792,
+    25.49133,
+    41.15792
+],
+  "geometry": {"coordinates":[25.49133,41.15792],"type":"Point"}
+}

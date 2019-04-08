@@ -1,0 +1,87 @@
+{
+  "id": 1125823593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7,37.0,22.7,37.0",
+    "geom:latitude":37.0,
+    "geom:longitude":22.7,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1323,
+    "gn:population":1323,
+    "iso:country":"GR",
+    "lbl:latitude":37.0,
+    "lbl:longitude":22.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03c1\u03ac\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "Ger\u00e1ki",
+        "\u0393\u03b5\u03c1\u03ac\u03ba\u03b9",
+        "Ger\u00e1kion"
+    ],
+    "name:unk_x_variant":[
+        "Ybraki"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":251411,
+    "qs_pg:gn_pop":1323,
+    "qs_pg:name":"Yer\u00e1kion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":79727,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251411,
+        "qs_pg:id":79727
+    },
+    "wof:country":"GR",
+    "wof:created":1497292177,
+    "wof:geomhash":"fba129eb0f07f56e9ccf7f9ed85b0350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125823593,
+            "region_id":85684643
+        }
+    ],
+    "wof:id":1125823593,
+    "wof:lastmodified":1509394267,
+    "wof:name":"Yer\u00e1kion",
+    "wof:parent_id":85684643,
+    "wof:placetype":"locality",
+    "wof:population":1323,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7,
+    37.0,
+    22.7,
+    37.0
+],
+  "geometry": {"coordinates":[22.7,37.0],"type":"Point"}
+}

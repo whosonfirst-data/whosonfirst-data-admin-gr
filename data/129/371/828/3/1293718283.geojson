@@ -1,0 +1,85 @@
+{
+  "id": 1293718283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73487,41.06675,24.73487,41.06675",
+    "geom:latitude":41.06675,
+    "geom:longitude":24.73487,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"9013",
+    "gn:asciiname":"Eklekto",
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":736352,
+    "gn:latitude":41.06675,
+    "gn:longitude":24.73487,
+    "gn:modification_date":"2014-08-17",
+    "gn:name":"Eklekt\u00f3",
+    "gn:population":2,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03ba\u03bb\u03b5\u03ba\u03c4\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "Eklekt\u00f3",
+        "\u0395\u03ba\u03bb\u03b5\u03ba\u03c4\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Eklekto"
+    ],
+    "name:und_x_variant":[
+        "Arapl\u00edon",
+        "Arapl\u00ed",
+        "Eklekt\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":736352
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"e82530fd841491ccf9a948c536c16287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1293718283,
+            "region_id":85684701
+        }
+    ],
+    "wof:id":1293718283,
+    "wof:lastmodified":1537624952,
+    "wof:name":"Eklekto",
+    "wof:parent_id":85684701,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73487,
+    41.06675,
+    24.73487,
+    41.06675
+],
+  "geometry": {"coordinates":[24.73487,41.06675],"type":"Point"}
+}

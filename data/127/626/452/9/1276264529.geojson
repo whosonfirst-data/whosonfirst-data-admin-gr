@@ -1,0 +1,73 @@
+{
+  "id": 1276264529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91624,37.41462,24.91624,37.41462",
+    "geom:latitude":37.41462,
+    "geom:longitude":24.91624,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9300",
+    "gn:asciiname":"Agros",
+    "gn:country_code":"GR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265548,
+    "gn:latitude":37.41462,
+    "gn:longitude":24.91624,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Agr\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Agr\u00f3s"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03c1\u03cc\u03c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265548
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1a37d6681fc14fdb452e2f9f122a0e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1276264529,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":1276264529,
+    "wof:lastmodified":1537624782,
+    "wof:name":"Agros",
+    "wof:parent_id":85684659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91624,
+    37.41462,
+    24.91624,
+    37.41462
+],
+  "geometry": {"coordinates":[24.91624,37.41462],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1126046137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54139,40.70583,22.54139,40.70583",
+    "geom:latitude":40.70583,
+    "geom:longitude":22.54139,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1518,
+    "gn:population":1518,
+    "iso:country":"GR",
+    "lbl:latitude":40.70583,
+    "lbl:longitude":22.54139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0643\u0631\u0648\u0646 \u0645\u0648\u0646\u0627\u0633\u062a\u064a\u0631\u064a\u0648\u0646\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u043e\u0440\u0431\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Mikro Monastiri"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03bd \u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc \u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Mikro Monastiri"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b9\u03ba\u03c1\u03cc \u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:mac_x_preferred":[
+        "\u0417\u043e\u0440\u0431\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Mikr\u00f3 Monast\u00edri"
+    ],
+    "name:unk_x_variant":[
+        "Mikr\u00f3 Monast\u00edri"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735115,
+    "qs_pg:gn_pop":1518,
+    "qs_pg:name":"Mikr\u00f3n Monast\u00edrion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":552876,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735115,
+        "qs_pg:id":552876,
+        "wd:id":"Q12280599"
+    },
+    "wof:country":"GR",
+    "wof:created":1497302442,
+    "wof:geomhash":"151193076997dd21866923c02a1263a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126046137,
+            "region_id":85684637
+        }
+    ],
+    "wof:id":1126046137,
+    "wof:lastmodified":1514444006,
+    "wof:name":"Mikr\u00f3n Monast\u00edrion",
+    "wof:parent_id":85684637,
+    "wof:placetype":"locality",
+    "wof:population":1518,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54139,
+    40.70583,
+    22.54139,
+    40.70583
+],
+  "geometry": {"coordinates":[22.54139,40.70583],"type":"Point"}
+}

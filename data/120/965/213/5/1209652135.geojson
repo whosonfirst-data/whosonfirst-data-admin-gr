@@ -1,0 +1,63 @@
+{
+  "id": 1209652135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05954,38.56311,24.05954,38.56311",
+    "geom:latitude":38.56311,
+    "geom:longitude":24.05954,
+    "gn:admin1_code":"ESYE24",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"9152",
+    "gn:asciiname":"Dhirrevmata",
+    "gn:country_code":"GR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":263037,
+    "gn:latitude":38.56311,
+    "gn:longitude":24.05954,
+    "gn:modification_date":"2015-03-30",
+    "gn:name":"Dhirr\u00e9vmata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":263037
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"1d1aeea0e43fd9223853c6b4670c0d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633171,
+            "locality_id":1209652135
+        }
+    ],
+    "wof:id":1209652135,
+    "wof:lastmodified":1536280546,
+    "wof:name":"Dhirrevmata",
+    "wof:parent_id":85633171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05954,
+    38.56311,
+    24.05954,
+    38.56311
+],
+  "geometry": {"coordinates":[24.05954,38.56311],"type":"Point"}
+}

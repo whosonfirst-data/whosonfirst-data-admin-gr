@@ -1,0 +1,92 @@
+{
+  "id": 1125826867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98528,40.4625,20.98528,40.4625",
+    "geom:latitude":40.4625,
+    "geom:longitude":20.98528,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":58,
+    "gn:population":6,
+    "iso:country":"GR",
+    "lbl:latitude":40.4625,
+    "lbl:longitude":20.98528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_historical":[
+        "\u0396\u03ad\u03bb\u03b5\u03b3\u03ba\u03c1\u03b1\u03b4"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03cc\u03b2\u03c1\u03b1\u03c7\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c3\u03cc\u03b2\u03c1\u03b1\u03c7\u03bf\u03bd",
+        "\u0396\u03ad\u03bb\u03b5\u03b3\u03ba\u03c1\u03b1\u03b4"
+    ],
+    "name:eng_x_preferred":[
+        "Mesovracho"
+    ],
+    "name:unk_x_variant":[
+        "Mes\u00f3vrakhon"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":735170,
+    "qs_pg:gn_pop":58,
+    "qs_pg:name":"Mes\u00f3vrachon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":552885,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":735170,
+        "qs_pg:id":552885
+    },
+    "wof:country":"GR",
+    "wof:created":1497292315,
+    "wof:geomhash":"6c77d612c99cfb8bd4b61578c20a6b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1125826867,
+            "region_id":85684627
+        }
+    ],
+    "wof:id":1125826867,
+    "wof:lastmodified":1509394444,
+    "wof:name":"Mes\u00f3vrachon",
+    "wof:parent_id":85684627,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98528,
+    40.4625,
+    20.98528,
+    40.4625
+],
+  "geometry": {"coordinates":[20.98528,40.4625],"type":"Point"}
+}

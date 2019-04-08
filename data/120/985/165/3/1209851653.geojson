@@ -1,0 +1,71 @@
+{
+  "id": 1209851653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38333,39.41667,20.38333,39.41667",
+    "geom:latitude":39.41667,
+    "geom:longitude":20.38333,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"18.0",
+    "gn:admin3_code":"9077",
+    "gn:asciiname":"Goritsa",
+    "gn:cc2":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261981,
+    "gn:latitude":39.41667,
+    "gn:longitude":20.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gor\u00edtsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
+    "iso:country":"GR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stanokh\u00f3ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":261981
+    },
+    "wof:country":"GR",
+    "wof:geomhash":"40f14c623fc98d4be804c19909d80a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1209851653,
+            "region_id":85684631
+        }
+    ],
+    "wof:id":1209851653,
+    "wof:lastmodified":1537624615,
+    "wof:name":"Goritsa",
+    "wof:parent_id":85684631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38333,
+    39.41667,
+    20.38333,
+    39.41667
+],
+  "geometry": {"coordinates":[20.38333,39.41667],"type":"Point"}
+}

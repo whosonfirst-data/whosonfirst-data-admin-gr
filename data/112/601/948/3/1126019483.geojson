@@ -1,0 +1,107 @@
+{
+  "id": 1126019483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29556,40.00361,22.29556,40.00361",
+    "geom:latitude":40.00361,
+    "geom:longitude":22.29556,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":166,
+    "gn:population":166,
+    "iso:country":"GR",
+    "lbl:latitude":40.00361,
+    "lbl:longitude":22.29556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Flampouro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03b1\u03c1\u03bc\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Sparmos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c0\u03b1\u03c1\u03bc\u03cc\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Sparm\u00f3s"
+    ],
+    "name:unk_x_variant":[
+        "Met\u00f3khion Sparmo\u00fa"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":734177,
+    "qs_pg:gn_pop":166,
+    "qs_pg:name":"Sparmos",
+    "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "qs_pg:name_adm1":"Thessaly and Continental Greece",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":942469,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424833,
+    "qs_pg:woe_id":962669,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424833,
+    "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "woe:name_adm1":"Thessaly and Continental Greece",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":734177,
+        "gp:id":962669,
+        "qs_pg:id":942469,
+        "wd:id":"Q5457334"
+    },
+    "wof:country":"GR",
+    "wof:created":1497300747,
+    "wof:geomhash":"959b65b8b13a81cd31e734d2c7b2a134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":1126019483,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":1126019483,
+    "wof:lastmodified":1514444055,
+    "wof:name":"Sparmos",
+    "wof:parent_id":85684685,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29556,
+    40.00361,
+    22.29556,
+    40.00361
+],
+  "geometry": {"coordinates":[22.29556,40.00361],"type":"Point"}
+}

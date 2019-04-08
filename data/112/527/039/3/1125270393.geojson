@@ -1,0 +1,79 @@
+{
+  "id": 1125270393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13914,38.153,22.13914,38.153",
+    "geom:latitude":38.153,
+    "geom:longitude":22.13914,
+    "gn:gn_country":"GR",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":53585,
+    "gn:population":53585,
+    "iso:country":"GR",
+    "lbl:latitude":38.153,
+    "lbl:longitude":22.13914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03b9\u03b3\u03b9\u03b1\u03bb\u03b5\u03af\u03b1\u03c2"
+    ],
+    "qs_pg:aaroncc":"GR",
+    "qs_pg:gn_country":"GR",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8133669,
+    "qs_pg:gn_pop":53585,
+    "qs_pg:name":"Dimos Aigialeia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":904440,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133669,
+        "qs_pg:id":904440
+    },
+    "wof:country":"GR",
+    "wof:created":1497042101,
+    "wof:geomhash":"4561d80ee70b95034f1b9502ca83a6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633171,
+            "localadmin_id":1125270393,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":1125270393,
+    "wof:lastmodified":1509387001,
+    "wof:name":"Dimos Aigialeia",
+    "wof:parent_id":85684621,
+    "wof:placetype":"localadmin",
+    "wof:population":53585,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13914,
+    38.153,
+    22.13914,
+    38.153
+],
+  "geometry": {"coordinates":[22.13914,38.153],"type":"Point"}
+}
