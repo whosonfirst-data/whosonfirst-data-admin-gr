@@ -23,15 +23,13 @@
     "name:deu_x_preferred":[
         "Aliveri"
     ],
-    "name:dut_x_preferred":[
-        "Aliveri"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b9\u03b2\u03ad\u03c1\u03b9"
     ],
     "name:ell_x_variant":[
         "\u0391\u03bb\u03b9\u03b2\u03ad\u03c1\u03b9\u03bf\u03bd",
-        "Aliv\u00e9ri"
+        "Aliv\u00e9ri",
+        "\u0391\u03bb\u03b9\u03b2\u03ad\u03c1\u03b9 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Aliveri"
@@ -39,14 +37,11 @@
     "name:fin_x_preferred":[
         "Aliv\u00e9ri"
     ],
-    "name:ger_x_preferred":[
-        "Aliveri"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03b9\u03b2\u03ad\u03c1\u03b9 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
-    ],
     "name:lat_x_preferred":[
         "Aliberium"
+    ],
+    "name:nld_x_preferred":[
+        "Aliveri"
     ],
     "name:nno_x_preferred":[
         "Aliv\u00e9ri"
@@ -113,7 +108,7 @@
         }
     ],
     "wof:id":101849727,
-    "wof:lastmodified":1544741088,
+    "wof:lastmodified":1561844006,
     "wof:name":"\u0391\u039b\u0399\u0392\u0395\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

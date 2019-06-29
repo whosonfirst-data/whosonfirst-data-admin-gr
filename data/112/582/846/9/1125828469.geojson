@@ -22,14 +22,17 @@
     "name:cat_x_preferred":[
         "Matala"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Matala"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Matala"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03c4\u03b1\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03c4\u03b1\u03bb\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Matala"
@@ -37,16 +40,13 @@
     "name:fin_x_preferred":[
         "M\u00e1tala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Matala"
-    ],
-    "name:ger_x_preferred":[
-        "Matala"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03c4\u03b1\u03bb\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
+        "Matala"
+    ],
+    "name:nld_x_preferred":[
         "Matala"
     ],
     "name:pol_x_preferred":[
@@ -58,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0442\u0430\u043b\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Matala"
     ],
     "name:spa_x_preferred":[
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125828469,
-    "wof:lastmodified":1514444003,
+    "wof:lastmodified":1561844047,
     "wof:name":"Matala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

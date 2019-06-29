@@ -17,23 +17,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0631\u0645\u0648\u0628\u0648\u0644\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u0580\u0574\u0578\u0582\u057a\u0578\u056c\u056b\u057d"
-    ],
     "name:bul_x_preferred":[
         "\u0415\u0440\u043c\u0443\u043f\u043e\u043b\u0438"
     ],
     "name:cat_x_preferred":[
         "Herm\u00fapolis"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5c14\u7a46\u6ce2\u5229"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ermupoli"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ermoupoli"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03bc\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
     ],
     "name:eng_x_preferred":[
         "Ermoupolis"
@@ -47,17 +44,14 @@
     "name:fin_x_preferred":[
         "Ermo\u00fapoli"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ermo\u00fapoli"
-    ],
-    "name:ger_x_preferred":[
-        "Ermoupoli"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c1\u03bc\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
     ],
     "name:hrv_x_preferred":[
         "Ermoupolis"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0580\u0574\u0578\u0582\u057a\u0578\u056c\u056b\u057d"
     ],
     "name:ind_x_preferred":[
         "Ermoupoli"
@@ -77,6 +71,9 @@
     "name:lit_x_preferred":[
         "Ermupolis"
     ],
+    "name:nld_x_preferred":[
+        "Ermoupoli"
+    ],
     "name:nno_x_preferred":[
         "Ermo\u00fapoli"
     ],
@@ -89,7 +86,7 @@
     "name:por_x_preferred":[
         "Herm\u00f3polis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ermoupolis"
     ],
     "name:rus_x_preferred":[
@@ -118,6 +115,9 @@
     ],
     "name:war_x_preferred":[
         "Ermoupoli"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u7a46\u6ce2\u5229"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Greece",
@@ -236,7 +236,7 @@
         }
     ],
     "wof:id":1141907829,
-    "wof:lastmodified":1514443949,
+    "wof:lastmodified":1561844068,
     "wof:name":"Ermoupoli",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

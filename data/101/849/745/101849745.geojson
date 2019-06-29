@@ -20,14 +20,12 @@
     "name:deu_x_preferred":[
         "Limni"
     ],
-    "name:dut_x_preferred":[
-        "Limni"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03af\u03bc\u03bd\u03b7 \u0395\u03c5\u03b2\u03bf\u03af\u03b1\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03af\u03bc\u03bd\u03b7"
+        "\u039b\u03af\u03bc\u03bd\u03b7",
+        "\u039b\u03af\u03bc\u03bd\u03b7 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Limni"
@@ -38,17 +36,11 @@
     "name:fra_x_preferred":[
         "Limni"
     ],
-    "name:fre_x_preferred":[
-        "Limni"
-    ],
-    "name:ger_x_preferred":[
-        "Limni"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bc\u03bd\u03b7 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
-    ],
     "name:lat_x_preferred":[
         "Limne"
+    ],
+    "name:nld_x_preferred":[
+        "Limni"
     ],
     "name:nno_x_preferred":[
         "L\u00edmni"
@@ -111,7 +103,7 @@
         }
     ],
     "wof:id":101849745,
-    "wof:lastmodified":1544741098,
+    "wof:lastmodified":1561844006,
     "wof:name":"\u039b\u0399\u039c\u039d\u0397",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

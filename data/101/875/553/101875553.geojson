@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000942,
-    "geom:area_square_m":9030931.283274,
+    "geom:area_square_m":9030931.283273,
     "geom:bbox":"20.9678192111,39.142593161,21.0041429426,39.176787833",
     "geom:latitude":39.159319,
     "geom:longitude":20.986421,
@@ -17,9 +17,6 @@
     "mps:longitude":20.986767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Narta"
-    ],
     "name:ara_x_preferred":[
         "\u0622\u0631\u062a\u0627"
     ],
@@ -35,19 +32,13 @@
     "name:cat_x_preferred":[
         "Arta"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c14\u5854"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Arta"
     ],
     "name:dan_x_preferred":[
         "Arta"
     ],
     "name:deu_x_preferred":[
-        "Arta"
-    ],
-    "name:dut_x_preferred":[
         "Arta"
     ],
     "name:ell_x_preferred":[
@@ -62,17 +53,14 @@
     "name:est_x_preferred":[
         "\u00c1rta"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u00c1rta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arta"
-    ],
-    "name:ger_x_preferred":[
-        "Arta"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c1\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0a9f\u0abe"
@@ -113,13 +101,13 @@
     "name:lit_x_preferred":[
         "Arta"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u0442\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Arta"
     ],
     "name:nld_x_preferred":[
@@ -134,9 +122,6 @@
     "name:nob_x_preferred":[
         "Arta"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u062a\u0627"
-    ],
     "name:pol_x_preferred":[
         "Arta"
     ],
@@ -144,9 +129,6 @@
         "Arta"
     ],
     "name:ron_x_preferred":[
-        "Arta"
-    ],
-    "name:rum_x_preferred":[
         "Arta"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +142,9 @@
     ],
     "name:spa_x_preferred":[
         "Arta"
+    ],
+    "name:sqi_x_preferred":[
+        "Narta"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u0442\u0430"
@@ -193,6 +178,9 @@
     ],
     "name:war_x_preferred":[
         "Arta"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u5854"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0397\u03a0\u0395\u0399\u03a1\u039f\u03a3",
@@ -234,7 +222,7 @@
         }
     ],
     "wof:id":101875553,
-    "wof:lastmodified":1514444111,
+    "wof:lastmodified":1561843989,
     "wof:name":"\u0391\u03a1\u03a4\u0391",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

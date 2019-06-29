@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000242,
-    "geom:area_square_m":2356495.837075,
+    "geom:area_square_m":2356495.837076,
     "geom:bbox":"23.761727026,37.9991116169,23.7790206799,38.0172995391",
     "geom:latitude":38.008356,
     "geom:longitude":23.770264,
@@ -22,17 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u064a\u062e\u064a\u0643\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0553\u057d\u056b\u056d\u056b\u056f\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u666e\u5e0c\u57fa\u79d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Psychiko"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Psychiko"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc"
     ],
     "name:eng_x_preferred":[
         "Psychiko"
@@ -40,11 +37,8 @@
     "name:fin_x_preferred":[
         "Psychik\u00f3"
     ],
-    "name:ger_x_preferred":[
-        "Psychiko"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a8\u03c5\u03c7\u03b9\u03ba\u03cc"
+    "name:hye_x_preferred":[
+        "\u0553\u057d\u056b\u056d\u056b\u056f\u0578"
     ],
     "name:ita_x_preferred":[
         "Psichiko"
@@ -52,13 +46,16 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30d2\u30b3"
     ],
+    "name:nld_x_preferred":[
+        "Psychiko"
+    ],
     "name:nno_x_preferred":[
         "Psykhik\u00f3"
     ],
     "name:pol_x_preferred":[
         "Psichiko"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Psychikon"
     ],
     "name:sco_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0441\u0456\u0445\u0456\u043a\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5e0c\u57fa\u79d1"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":101875593,
-    "wof:lastmodified":1534985949,
+    "wof:lastmodified":1561843988,
     "wof:name":"\u03a8\u03a5\u03a7\u0399\u039a\u039f\u039d",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

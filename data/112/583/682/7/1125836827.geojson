@@ -28,9 +28,6 @@
     "name:deu_x_preferred":[
         "Agios Achillios"
     ],
-    "name:dut_x_preferred":[
-        "Agios Achillios"
-    ],
     "name:ell_x_historical":[
         "\u03a7\u03b1\u0390\u03bb\u03bb\u03b9"
     ],
@@ -38,7 +35,8 @@
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03c7\u03af\u03bb\u03bb\u03b5\u03b9\u03bf\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u03a7\u03b1\u0390\u03bb\u03bb\u03b9"
+        "\u03a7\u03b1\u0390\u03bb\u03bb\u03b9",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03c7\u03af\u03bb\u03bb\u03b5\u03b9\u03bf\u03c2 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Agios Achillios"
@@ -46,14 +44,11 @@
     "name:fin_x_preferred":[
         "\u00c1gios Ach\u00edlleios"
     ],
-    "name:ger_x_preferred":[
-        "Agios Achillios"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03c7\u03af\u03bb\u03bb\u03b5\u03b9\u03bf\u03c2 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
-    ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u0410\u0445\u0438\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Agios Achillios"
     ],
     "name:swe_x_preferred":[
         "Nis\u00edda \u00c1gios Ach\u00edlleios"
@@ -98,7 +93,7 @@
         }
     ],
     "wof:id":1125836827,
-    "wof:lastmodified":1553816561,
+    "wof:lastmodified":1561844059,
     "wof:name":"\u00c1gios Ach\u00edlleios",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -20,14 +20,14 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0646\u0627\u0641\u0627\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u4f10\u90a3\u6cd5\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Varnavas"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03c1\u03bd\u03ac\u03b2\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c1\u03bd\u03ac\u03b2\u03b1\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Varnavas"
@@ -38,14 +38,8 @@
     "name:fin_x_preferred":[
         "Varn\u00e1vas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Varnavas"
-    ],
-    "name:ger_x_preferred":[
-        "Varnavas"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03c1\u03bd\u03ac\u03b2\u03b1\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:ita_x_preferred":[
         "Varnava"
@@ -53,10 +47,13 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30eb\u30ca\u30f4\u30a1\u30b9"
     ],
+    "name:nld_x_preferred":[
+        "Varnavas"
+    ],
     "name:nno_x_preferred":[
         "Varn\u00e1vas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Varnava"
     ],
     "name:swe_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:unk_x_variant":[
         "Varn\u00e1vas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f10\u90a3\u6cd5\u65af"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -117,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740949,
+    "wof:lastmodified":1561844005,
     "wof:name":"\u0392\u0391\u03a1\u039d\u0391\u0392\u0391\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

@@ -26,11 +26,11 @@
     "name:deu_x_preferred":[
         "Atalandi"
     ],
-    "name:dut_x_preferred":[
-        "Atalanti"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03c4\u03b1\u03bb\u03ac\u03bd\u03c4\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c4\u03b1\u03bb\u03ac\u03bd\u03c4\u03b7 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Atalanti"
@@ -41,15 +41,6 @@
     "name:fra_x_preferred":[
         "Atal\u00e1nti"
     ],
-    "name:fre_x_preferred":[
-        "Atal\u00e1nti"
-    ],
-    "name:ger_x_preferred":[
-        "Atalandi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03b1\u03bb\u03ac\u03bd\u03c4\u03b7 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
-    ],
     "name:ita_x_preferred":[
         "Atalanti"
     ],
@@ -59,13 +50,13 @@
     "name:lat_x_preferred":[
         "Atalanta"
     ],
+    "name:nld_x_preferred":[
+        "Atalanti"
+    ],
     "name:nno_x_preferred":[
         "Atal\u00e1ndi"
     ],
     "name:ron_x_preferred":[
-        "Atalanti"
-    ],
-    "name:rum_x_preferred":[
         "Atalanti"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":101849299,
-    "wof:lastmodified":1544740882,
+    "wof:lastmodified":1561844005,
     "wof:name":"\u0391\u03a4\u0391\u039b\u0391\u039d\u03a4\u0397",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

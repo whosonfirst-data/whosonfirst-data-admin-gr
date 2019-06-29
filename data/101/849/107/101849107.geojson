@@ -26,14 +26,12 @@
     "name:deu_x_preferred":[
         "Zagora"
     ],
-    "name:dut_x_preferred":[
-        "Zagora"
-    ],
     "name:ell_x_preferred":[
         "\u0396\u03b1\u03b3\u03bf\u03c1\u03ac \u03a0\u03b7\u03bb\u03af\u03bf\u03c5"
     ],
     "name:ell_x_variant":[
-        "\u0396\u03b1\u03b3\u03bf\u03c1\u03ac"
+        "\u0396\u03b1\u03b3\u03bf\u03c1\u03ac",
+        "\u0396\u03b1\u03b3\u03bf\u03c1\u03ac \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Zagora"
@@ -44,15 +42,6 @@
     "name:fra_x_preferred":[
         "Zagora"
     ],
-    "name:fre_x_preferred":[
-        "Zagora"
-    ],
-    "name:ger_x_preferred":[
-        "Zagora"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03b3\u03bf\u03c1\u03ac \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
-    ],
     "name:ita_x_preferred":[
         "Zagora"
     ],
@@ -61,6 +50,9 @@
     ],
     "name:lit_x_preferred":[
         "Zagora-Muresis"
+    ],
+    "name:nld_x_preferred":[
+        "Zagora"
     ],
     "name:nno_x_preferred":[
         "Zagor\u00e1 i Magnis\u00eda"
@@ -120,7 +112,7 @@
         }
     ],
     "wof:id":101849107,
-    "wof:lastmodified":1553815543,
+    "wof:lastmodified":1561844003,
     "wof:name":"\u0396\u0391\u0393\u039f\u03a1\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

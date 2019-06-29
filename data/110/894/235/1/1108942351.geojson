@@ -21,8 +21,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Ambelokipi"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03c0\u03b5\u03bb\u03cc\u03ba\u03b7\u03c0\u03bf\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c0\u03b5\u03bb\u03cc\u03ba\u03b7\u03c0\u03bf\u03b9 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ampelokipoi"
@@ -33,19 +39,13 @@
     "name:fin_x_preferred":[
         "Ampel\u00f3kipoi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ambel\u03cckipi"
-    ],
-    "name:ger_x_preferred":[
-        "Ambelokipi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03c0\u03b5\u03bb\u03cc\u03ba\u03b7\u03c0\u03bf\u03b9 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d9\u30ed\u30ad\u30d4"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ampelokipoi"
     ],
     "name:rus_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1108942351,
-    "wof:lastmodified":1538606683,
+    "wof:lastmodified":1561843983,
     "wof:name":"Ampelokipoi",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

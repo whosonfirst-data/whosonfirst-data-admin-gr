@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000474,
-    "geom:area_square_m":4417487.317017,
+    "geom:area_square_m":4417487.317018,
     "geom:bbox":"23.5249575,41.0757635,23.5629995,41.098526",
     "geom:latitude":41.086614,
     "geom:longitude":23.546334,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0580\u0565\u057d"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u0440\u044d"
     ],
@@ -36,9 +33,6 @@
     "name:cat_x_preferred":[
         "Serres"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u96f7"
-    ],
     "name:chu_x_preferred":[
         "\u0421\u0463\u0440\u044a"
     ],
@@ -46,9 +40,6 @@
         "Serres"
     ],
     "name:deu_x_preferred":[
-        "Serres"
-    ],
-    "name:dut_x_preferred":[
         "Serres"
     ],
     "name:ell_x_preferred":[
@@ -66,20 +57,14 @@
     "name:epo_x_preferred":[
         "Seres"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0633"
+    ],
     "name:fin_x_preferred":[
         "S\u00e9rres"
     ],
     "name:fra_x_preferred":[
         "Serr\u00e8s"
-    ],
-    "name:fre_x_preferred":[
-        "Serr\u00e8s"
-    ],
-    "name:ger_x_preferred":[
-        "Serres"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03c1\u03c1\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0ab0\u0ac7\u0ab8"
@@ -99,10 +84,13 @@
     "name:hun_x_preferred":[
         "Sz\u00e9resz"
     ],
-    "name:ice_x_preferred":[
-        "Serres"
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0580\u0565\u057d"
     ],
     "name:ind_x_preferred":[
+        "Serres"
+    ],
+    "name:isl_x_preferred":[
         "Serres"
     ],
     "name:ita_x_preferred":[
@@ -126,26 +114,23 @@
     "name:lit_x_preferred":[
         "Ser\u0117s"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0930\u0947\u0938"
     ],
-    "name:may_x_preferred":[
-        "Serres"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Serres"
+    ],
+    "name:nld_x_preferred":[
+        "Serres"
     ],
     "name:nno_x_preferred":[
         "S\u00e9rres"
     ],
     "name:nob_x_preferred":[
         "Serres"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0631\u0633"
     ],
     "name:pnt_x_preferred":[
         "\u03a3\u03ad\u03c1\u03c1\u03b5\u03c2"
@@ -160,9 +145,6 @@
         "Serrae"
     ],
     "name:ron_x_variant":[
-        "Serres"
-    ],
-    "name:rum_x_preferred":[
         "Serres"
     ],
     "name:rus_x_preferred":[
@@ -351,7 +333,7 @@
         }
     ],
     "wof:id":101752349,
-    "wof:lastmodified":1527641653,
+    "wof:lastmodified":1561843987,
     "wof:name":"\u03a3\u0395\u03a1\u03a1\u0391\u0399",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -25,29 +25,26 @@
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u044f \u041f\u0430\u0440\u0430\u0441\u043a\u0435\u0432\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u5e15\u62c9\u65af\u51ef\u7ef4"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Agia Paraskevi"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"
     ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Agia Paraskevi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u0647 \u0628\u0627\u0631\u0627\u0633\u06a9\u0648\u06cc"
     ],
     "name:fin_x_preferred":[
         "Ag\u00eda Paraskev\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aghia Paraskevi"
-    ],
-    "name:ger_x_preferred":[
-        "Agia Paraskevi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:hun_x_preferred":[
         "Aj\u00eda Paraszkev\u00ed"
@@ -58,16 +55,16 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ae\u30a2\u30fb\u30d1\u30e9\u30b9\u30ab\u30f4\u30a3"
     ],
+    "name:nld_x_preferred":[
+        "Agia Paraskevi"
+    ],
     "name:nno_x_preferred":[
         "Aj\u00eda Paraskev\u00ed"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u06cc\u0647 \u0628\u0627\u0631\u0627\u0633\u06a9\u0648\u06cc"
     ],
     "name:pol_x_preferred":[
         "Ajia Paraskewi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Agia Paraskevi"
     ],
     "name:sco_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "Aghia Paraskevi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5e15\u62c9\u65af\u51ef\u7ef4"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1125926009,
-    "wof:lastmodified":1553816634,
+    "wof:lastmodified":1561844015,
     "wof:name":"Ayia Paraskevi",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

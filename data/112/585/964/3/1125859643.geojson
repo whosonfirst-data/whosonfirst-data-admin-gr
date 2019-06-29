@@ -22,14 +22,14 @@
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043f\u0438"
     ],
-    "name:cze_x_preferred":[
-        "Filippoi"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Filippoi"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ad\u03c1\u03bd\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03b9 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Perni"
@@ -37,11 +37,8 @@
     "name:fin_x_preferred":[
         "F\u00edlippoi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Filippoi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03b9 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
     ],
     "name:hun_x_preferred":[
         "Filippoi"
@@ -51,6 +48,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a3\u30ea\u30c3\u30d4"
+    ],
+    "name:nld_x_preferred":[
+        "Filippoi"
     ],
     "name:nno_x_preferred":[
         "F\u00edlippi"
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125859643,
-    "wof:lastmodified":1514444036,
+    "wof:lastmodified":1561844049,
     "wof:name":"Perni",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

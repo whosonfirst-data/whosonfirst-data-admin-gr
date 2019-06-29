@@ -29,11 +29,11 @@
     "name:deu_x_preferred":[
         "Servia"
     ],
-    "name:dut_x_preferred":[
-        "Servia"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ad\u03c1\u03b2\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ad\u03c1\u03b2\u03b9\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Servia"
@@ -44,26 +44,17 @@
     "name:fra_x_preferred":[
         "S\u00e9rvia"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e9rvia"
-    ],
-    "name:ger_x_preferred":[
-        "Servia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03c1\u03b2\u03b9\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
-    ],
     "name:hun_x_preferred":[
         "Sz\u00e9rvia"
     ],
     "name:ita_x_preferred":[
         "Servia"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0440\u0444\u0438\u045f\u0435"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0440\u0444\u0438\u045f\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Servia"
     ],
     "name:nno_x_preferred":[
         "S\u00e9rvia"
@@ -139,7 +130,7 @@
         }
     ],
     "wof:id":101855091,
-    "wof:lastmodified":1544742824,
+    "wof:lastmodified":1561844007,
     "wof:name":"\u03a3\u0395\u03a1\u0392\u0399\u0391",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u064a\u0644\u064a\u0646\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u057f\u056b\u056c\u056b\u0576\u056b"
-    ],
-    "name:baq_x_preferred":[
-        "Mitilene"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u0442\u044b\u043b\u0456\u043d\u0456"
     ],
@@ -43,17 +37,17 @@
     "name:cat_x_preferred":[
         "Mitilene"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u8482\u5229\u5c3c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mytil\u00e9na"
     ],
     "name:dan_x_preferred":[
         "Mytilini"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mytilini"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c5\u03c4\u03b9\u03bb\u03ae\u03bd\u03b7"
     ],
     "name:eng_x_preferred":[
         "Mytilene"
@@ -61,20 +55,20 @@
     "name:epo_x_preferred":[
         "Mitileno"
     ],
+    "name:eus_x_preferred":[
+        "Mitilene"
+    ],
     "name:fao_x_preferred":[
         "Mytilini"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062a\u06cc\u0644\u0646"
     ],
     "name:fin_x_preferred":[
         "Mytil\u00edni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mytil\u00e8ne"
-    ],
-    "name:ger_x_preferred":[
-        "Mytilini"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c5\u03c4\u03b9\u03bb\u03ae\u03bd\u03b7"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0a9f\u0abf\u0ab2\u0ac7\u0aa8"
@@ -87,6 +81,9 @@
     ],
     "name:hrv_x_preferred":[
         "Mitilene"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057f\u056b\u056c\u056b\u0576\u056b"
     ],
     "name:ile_x_preferred":[
         "Mitilene"
@@ -118,11 +115,14 @@
     "name:mar_x_preferred":[
         "\u092e\u094d\u092f\u0924\u093f\u0932\u0940\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mytilene"
     ],
     "name:nap_x_preferred":[
         "Mitilene"
+    ],
+    "name:nld_x_preferred":[
+        "Mytilini"
     ],
     "name:nno_x_preferred":[
         "Mytil\u00edni"
@@ -130,16 +130,13 @@
     "name:nob_x_preferred":[
         "Mytilene"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u062a\u06cc\u0644\u0646"
-    ],
     "name:pol_x_preferred":[
         "Mitylena"
     ],
     "name:por_x_preferred":[
         "Mitilene"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mytilene"
     ],
     "name:rus_x_preferred":[
@@ -154,7 +151,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dba\u0dd2\u0da7\u0dd9\u0dbd\u0dd2\u0db1\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mytilini"
     ],
     "name:spa_x_preferred":[
@@ -189,6 +186,9 @@
     ],
     "name:war_x_preferred":[
         "Mytilene"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u8482\u5229\u5c3c"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -236,7 +236,7 @@
         }
     ],
     "wof:id":1125838247,
-    "wof:lastmodified":1538594936,
+    "wof:lastmodified":1561844060,
     "wof:name":"Mytilene",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

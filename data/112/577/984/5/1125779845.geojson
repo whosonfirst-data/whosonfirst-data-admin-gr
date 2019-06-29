@@ -22,34 +22,31 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0631\u0627\u060c \u0641\u0648\u0643\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Krisa"
-    ],
     "name:cat_x_preferred":[
         "Crissa"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kirra"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03af\u03c1\u03c1\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03af\u03c1\u03c1\u03b1 \u03a6\u03c9\u03ba\u03af\u03b4\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Kirra"
     ],
-    "name:ger_x_preferred":[
-        "Kirra"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03c1\u03c1\u03b1 \u03a6\u03c9\u03ba\u03af\u03b4\u03b1\u03c2"
+    "name:eus_x_preferred":[
+        "Krisa"
     ],
     "name:ita_x_preferred":[
         "Cirra"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Kirra"
+    ],
+    "name:ron_x_preferred":[
         "Kirra"
     ],
     "name:rus_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Xerop\u00edgadho"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u62c9"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125779845,
-    "wof:lastmodified":1514443981,
+    "wof:lastmodified":1561844057,
     "wof:name":"Kirra",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

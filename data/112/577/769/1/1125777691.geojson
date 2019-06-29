@@ -22,11 +22,11 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u062a\u064a\u0644\u064a\u060c \u0623\u062a\u064a\u0643\u064a"
     ],
-    "name:dut_x_preferred":[
-        "Penteli"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Penteli"
@@ -34,11 +34,8 @@
     "name:fin_x_preferred":[
         "Pent\u00e9li"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Penteli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03bd\u03c4\u03ad\u03bb\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:ita_x_preferred":[
         "Penteli"
@@ -52,19 +49,22 @@
     "name:lit_x_preferred":[
         "Pentelis"
     ],
+    "name:nld_x_preferred":[
+        "Penteli"
+    ],
     "name:nno_x_preferred":[
         "Pend\u00e9li i Aten"
     ],
     "name:pol_x_preferred":[
         "Pendeli"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Penteli"
     ],
     "name:sco_x_preferred":[
         "Penteli"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pendeli"
     ],
     "name:srp_x_preferred":[
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1125777691,
-    "wof:lastmodified":1553816527,
+    "wof:lastmodified":1561844057,
     "wof:name":"Pendeli",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

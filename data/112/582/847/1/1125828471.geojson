@@ -16,8 +16,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Olympos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039f\u03bb\u03cd\u03bc\u03c0\u03bf\u03c5 \u0395\u03bb\u03b1\u03c3\u03c3\u03cc\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Olympos"
@@ -25,14 +28,8 @@
     "name:fin_x_preferred":[
         "\u00d3lympos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Olympos"
-    ],
-    "name:ger_x_preferred":[
-        "Olympos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039f\u03bb\u03cd\u03bc\u03c0\u03bf\u03c5 \u0395\u03bb\u03b1\u03c3\u03c3\u03cc\u03bd\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Olympos"
@@ -40,10 +37,13 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30ea\u30f3\u30dc\u30b9"
     ],
+    "name:nld_x_preferred":[
+        "Olympos"
+    ],
     "name:nno_x_preferred":[
         "\u00d3lymbos i L\u00e1risa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Olympos"
     ],
     "qs_pg:aaroncc":"GR",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125828471,
-    "wof:lastmodified":1514444024,
+    "wof:lastmodified":1561844047,
     "wof:name":"Olympos",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

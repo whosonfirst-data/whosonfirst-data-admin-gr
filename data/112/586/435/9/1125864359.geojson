@@ -16,8 +16,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Paliki"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b9\u03ba\u03ae"
     ],
     "name:eng_x_preferred":[
         "Paliki"
@@ -25,20 +28,17 @@
     "name:fin_x_preferred":[
         "Palik\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paliki"
-    ],
-    "name:ger_x_preferred":[
-        "Paliki"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b9\u03ba\u03ae"
     ],
     "name:ita_x_preferred":[
         "Paliki"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ea\u30ad"
+    ],
+    "name:nld_x_preferred":[
+        "Paliki"
     ],
     "name:nno_x_preferred":[
         "Palik\u00ed"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125864359,
-    "wof:lastmodified":1514444028,
+    "wof:lastmodified":1561844027,
     "wof:name":"Paliki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

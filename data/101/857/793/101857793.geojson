@@ -26,14 +26,12 @@
     "name:deu_x_preferred":[
         "Soufli"
     ],
-    "name:dut_x_preferred":[
-        "Soufli"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c5\u03c6\u03bb\u03af"
     ],
     "name:ell_x_variant":[
-        "\u03a3\u03bf\u03c5\u03c6\u03bb\u03af\u03bf\u03bd"
+        "\u03a3\u03bf\u03c5\u03c6\u03bb\u03af\u03bf\u03bd",
+        "\u03a3\u03bf\u03c5\u03c6\u03bb\u03af \u0388\u03b2\u03c1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Soufli"
@@ -43,15 +41,6 @@
     ],
     "name:fra_x_preferred":[
         "Soufl\u00ed"
-    ],
-    "name:fre_x_preferred":[
-        "Soufl\u00ed"
-    ],
-    "name:ger_x_preferred":[
-        "Soufli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03c6\u03bb\u03af \u0388\u03b2\u03c1\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
         "Soufli"
@@ -69,9 +58,6 @@
         "Sufli"
     ],
     "name:ron_x_preferred":[
-        "Soufli"
-    ],
-    "name:rum_x_preferred":[
         "Soufli"
     ],
     "name:spa_x_preferred":[
@@ -140,7 +126,7 @@
         }
     ],
     "wof:id":101857793,
-    "wof:lastmodified":1544744081,
+    "wof:lastmodified":1561843993,
     "wof:name":"\u03a3\u039f\u03a5\u03a6\u039b\u0399\u039f\u039d",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

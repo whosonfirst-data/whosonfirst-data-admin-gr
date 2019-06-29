@@ -29,11 +29,11 @@
     "name:deu_x_preferred":[
         "Amfilochia"
     ],
-    "name:dut_x_preferred":[
-        "Amfilochia"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03c6\u03b9\u03bb\u03bf\u03c7\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bc\u03c6\u03b9\u03bb\u03bf\u03c7\u03af\u03b1 \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Amfilochia"
@@ -44,14 +44,8 @@
     "name:fra_x_preferred":[
         "Amphilochie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Amfilochia"
-    ],
-    "name:ger_x_preferred":[
-        "Amfilochia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03c6\u03b9\u03bb\u03bf\u03c7\u03af\u03b1 \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Amfilochia"
@@ -72,9 +66,6 @@
         "Amfilochia"
     ],
     "name:ron_x_preferred":[
-        "Amfilochia"
-    ],
-    "name:rum_x_preferred":[
         "Amfilochia"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +130,7 @@
         }
     ],
     "wof:id":101849519,
-    "wof:lastmodified":1544740988,
+    "wof:lastmodified":1561844002,
     "wof:name":"\u0391\u039c\u03a6\u0399\u039b\u039f\u03a7\u0399\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":1967219.079215,
+    "geom:area_square_m":1967219.079213,
     "geom:bbox":"20.2588826006,39.4956547116,20.2769457361,39.5130401608",
     "geom:latitude":39.50525,
     "geom:longitude":20.266984,
@@ -17,9 +17,6 @@
     "mps:longitude":20.266812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Gumenica"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u064a\u063a\u0648\u0645\u0646\u064a\u062a\u0633\u0627"
     ],
@@ -32,10 +29,7 @@
     "name:ces_x_preferred":[
         "Igoumenitsa"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u53e4\u8fc8\u5c3c\u5bdf"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Igumenica"
     ],
     "name:dan_x_preferred":[
@@ -43,9 +37,6 @@
     ],
     "name:deu_x_preferred":[
         "Igoumenitsa"
-    ],
-    "name:dut_x_preferred":[
-        "Igoemenitsa"
     ],
     "name:ell_x_preferred":[
         "\u0397\u03b3\u03bf\u03c5\u03bc\u03b5\u03bd\u03af\u03c4\u03c3\u03b1"
@@ -67,15 +58,6 @@
     ],
     "name:fra_x_variant":[
         "Igoumenitsa"
-    ],
-    "name:fre_x_preferred":[
-        "Igoumenitsa"
-    ],
-    "name:ger_x_preferred":[
-        "Igoumenitsa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0397\u03b3\u03bf\u03c5\u03bc\u03b5\u03bd\u03af\u03c4\u03c3\u03b1"
     ],
     "name:hbs_x_preferred":[
         "Igumenica"
@@ -104,9 +86,6 @@
     "name:lit_x_preferred":[
         "Igumenica"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0433\u0443\u043c\u0435\u043d\u0438\u0446\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0418\u0433\u0443\u043c\u0435\u043d\u0438\u0446\u0430"
     ],
@@ -123,9 +102,6 @@
         "Igumenitsa"
     ],
     "name:ron_x_preferred":[
-        "Igoumenitsa"
-    ],
-    "name:rum_x_preferred":[
         "Igoumenitsa"
     ],
     "name:rus_x_preferred":[
@@ -203,7 +179,7 @@
         }
     ],
     "wof:id":101875715,
-    "wof:lastmodified":1527642579,
+    "wof:lastmodified":1561843989,
     "wof:name":"\u0397\u0393\u039f\u03a5\u039c\u0395\u039d\u0399\u03a4\u03a3\u0391",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

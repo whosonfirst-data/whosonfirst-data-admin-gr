@@ -28,10 +28,10 @@
     "name:cat_x_preferred":[
         "Estratos"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stratos"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Stratos"
     ],
     "name:ell_x_historical":[
@@ -44,7 +44,8 @@
     "name:ell_x_variant":[
         "\u03a3\u03c9\u03c1\u03bf\u03b2\u03af\u03b3\u03bb\u03b9",
         "\u03a3\u03bf\u03c5\u03c1\u03bf\u03b2\u03af\u03b3\u03bb\u03b9",
-        "\u0393\u03b9\u03b1\u03bd\u03bd\u03af\u03ba\u03b1"
+        "\u0393\u03b9\u03b1\u03bd\u03bd\u03af\u03ba\u03b1",
+        "\u03a3\u03c4\u03c1\u03ac\u03c4\u03bf\u03c2 \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Sorovigli"
@@ -58,14 +59,8 @@
     "name:fin_x_preferred":[
         "Str\u00e1tos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stratos"
-    ],
-    "name:ger_x_preferred":[
-        "Stratos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03c1\u03ac\u03c4\u03bf\u03c2 \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Stratos"
@@ -75,6 +70,9 @@
     ],
     "name:lat_x_preferred":[
         "Stratus"
+    ],
+    "name:nld_x_preferred":[
+        "Stratos"
     ],
     "name:nno_x_preferred":[
         "Str\u00e1tos i Etoloakarnan\u00eda"
@@ -140,7 +138,7 @@
         }
     ],
     "wof:id":1125818263,
-    "wof:lastmodified":1514444058,
+    "wof:lastmodified":1561844027,
     "wof:name":"Stratos",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

@@ -23,20 +23,15 @@
     "name:cat_x_preferred":[
         "Carist"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u91cc\u65af\u591a\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Karystos"
-    ],
-    "name:dut_x_preferred":[
         "Karystos"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c1\u03c5\u03c3\u03c4\u03bf\u03c2"
     ],
     "name:ell_x_variant":[
-        "K\u00e1rystos"
+        "K\u00e1rystos",
+        "\u039a\u03ac\u03c1\u03c5\u03c3\u03c4\u03bf\u03c2 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Karystos"
@@ -46,15 +41,6 @@
     ],
     "name:fra_x_preferred":[
         "Carystos"
-    ],
-    "name:fre_x_preferred":[
-        "Carystos"
-    ],
-    "name:ger_x_preferred":[
-        "Karystos"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c1\u03c5\u03c3\u03c4\u03bf\u03c2 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Karystos"
@@ -97,6 +83,9 @@
     ],
     "name:vie_x_preferred":[
         "Karystos"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u65af\u591a\u65af"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
@@ -148,7 +137,7 @@
         }
     ],
     "wof:id":101849741,
-    "wof:lastmodified":1553815543,
+    "wof:lastmodified":1561844003,
     "wof:name":"\u039a\u0391\u03a1\u03a5\u03a3\u03a4\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

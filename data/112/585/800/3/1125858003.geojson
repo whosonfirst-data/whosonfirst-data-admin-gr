@@ -25,14 +25,15 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u044a\u0448\u0430\u0431\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chrysoupoli"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03c1\u03c5\u03c3\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u03a7\u03c1\u03c5\u03c3\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
+        "\u03a7\u03c1\u03c5\u03c3\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
+        "\u03a7\u03c1\u03c5\u03c3\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Chrysoupoli"
@@ -40,14 +41,8 @@
     "name:fin_x_preferred":[
         "Chryso\u00fapoli"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chrysoupoli"
-    ],
-    "name:ger_x_preferred":[
-        "Chrysoupoli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03c1\u03c5\u03c3\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05db\u05e8\u05d9\u05e1\u05d5\u05e4\u05d5\u05dc\u05d9"
@@ -58,8 +53,11 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30ea\u30b9\u30dd\u30ea"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u0440\u0438\u0448\u0430\u0431\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Chrysoupoli"
     ],
     "name:nno_x_preferred":[
         "Khryso\u00fapoli i Kav\u00e1la"
@@ -119,7 +117,7 @@
         }
     ],
     "wof:id":1125858003,
-    "wof:lastmodified":1514443936,
+    "wof:lastmodified":1561844051,
     "wof:name":"Chryso\u00fapolis",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

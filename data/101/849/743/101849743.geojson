@@ -20,32 +20,27 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0574\u056b"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0456\u043c\u0456"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043c\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u7c73"
+    "name:ces_x_preferred":[
+        "Kymi"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kymi"
     ],
     "name:deu_x_preferred":[
-        "Kymi"
-    ],
-    "name:dut_x_preferred":[
         "Kymi"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cd\u03bc\u03b7"
     ],
     "name:ell_x_variant":[
-        "K\u00fdmi"
+        "K\u00fdmi",
+        "\u039a\u03cd\u03bc\u03b7 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kymi"
@@ -56,14 +51,8 @@
     "name:fra_x_preferred":[
         "Kymi"
     ],
-    "name:fre_x_preferred":[
-        "Kymi"
-    ],
-    "name:ger_x_preferred":[
-        "Kymi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cd\u03bc\u03b7 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0574\u056b"
     ],
     "name:ita_x_preferred":[
         "Kymi"
@@ -74,13 +63,16 @@
     "name:lat_x_preferred":[
         "Cyme"
     ],
+    "name:nld_x_preferred":[
+        "Kymi"
+    ],
     "name:nno_x_preferred":[
         "K\u00fdmi"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043c\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kymi"
     ],
     "name:spa_x_preferred":[
@@ -92,8 +84,8 @@
     "name:unk_x_variant":[
         "Kymi"
     ],
-    "name:wel_x_preferred":[
-        "Kymi"
+    "name:zho_x_preferred":[
+        "\u57fa\u7c73"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
@@ -144,7 +136,7 @@
         }
     ],
     "wof:id":101849743,
-    "wof:lastmodified":1553815543,
+    "wof:lastmodified":1561844005,
     "wof:name":"\u039a\u03a5\u039c\u0397",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

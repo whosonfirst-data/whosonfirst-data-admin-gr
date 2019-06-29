@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u064a\u0627\u064a\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Istiaia"
-    ],
     "name:ell_x_historical":[
         "\u039e\u03b7\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9"
     ],
@@ -30,7 +27,8 @@
         "\u0399\u03c3\u03c4\u03b9\u03b1\u03af\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u039e\u03b7\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9"
+        "\u039e\u03b7\u03c1\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "\u0399\u03c3\u03c4\u03b9\u03b1\u03af\u03b1 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Istiaia"
@@ -47,12 +45,6 @@
     "name:fra_x_variant":[
         "Istiea"
     ],
-    "name:fre_x_preferred":[
-        "Istia\u00eda"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c3\u03c4\u03b9\u03b1\u03af\u03b1 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
-    ],
     "name:hbs_x_preferred":[
         "Istieja"
     ],
@@ -64,6 +56,9 @@
     ],
     "name:lat_x_preferred":[
         "Histiaea"
+    ],
+    "name:nld_x_preferred":[
+        "Istiaia"
     ],
     "name:nno_x_preferred":[
         "Isti\u00e9a"
@@ -132,7 +127,7 @@
         }
     ],
     "wof:id":101849739,
-    "wof:lastmodified":1544741094,
+    "wof:lastmodified":1561844000,
     "wof:name":"\u0399\u03a3\u03a4\u0399\u0391\u0399\u0391",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

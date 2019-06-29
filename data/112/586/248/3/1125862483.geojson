@@ -16,14 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Tripolica"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0628\u0648\u0644\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0580\u056b\u057a\u0578\u056c\u056b"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0440\u044b\u043f\u0430\u043b\u0456"
@@ -37,17 +31,17 @@
     "name:cat_x_preferred":[
         "Tr\u00edpoli"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u91cc\u6ce2\u5229"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tripolis"
     ],
     "name:dan_x_preferred":[
         "Tripoli"
     ],
-    "name:dut_x_preferred":[
-        "Tripolis"
+    "name:deu_x_preferred":[
+        "Tripoli"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03af\u03c0\u03bf\u03bb\u03b7 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tripoli"
@@ -55,17 +49,14 @@
     "name:epo_x_preferred":[
         "Tripol\u03bf"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u06cc\u067e\u0648\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tr\u00edpoli"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tripoli"
-    ],
-    "name:ger_x_preferred":[
-        "Tripoli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03af\u03c0\u03bf\u03bb\u03b7 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0ac0\u0aaa\u0acb\u0ab2\u0ac0"
@@ -78,6 +69,9 @@
     ],
     "name:hun_x_preferred":[
         "Tr\u00edpoli"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u056b\u057a\u0578\u056c\u056b"
     ],
     "name:ile_x_preferred":[
         "Tripoli"
@@ -106,8 +100,11 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u0930\u0940\u092a\u094b\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tripoli"
+    ],
+    "name:nld_x_preferred":[
+        "Tripolis"
     ],
     "name:nno_x_preferred":[
         "Tr\u00edpoli i Hellas"
@@ -118,16 +115,13 @@
     "name:oci_x_preferred":[
         "Tr\u00edpol"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u06cc\u067e\u0648\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Tripoli"
     ],
     "name:por_x_preferred":[
         "Tr\u00edpoli"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tripoli"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +136,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db4\u0ddc\u0dbd\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tripoli"
     ],
     "name:slv_x_preferred":[
@@ -150,6 +144,9 @@
     ],
     "name:spa_x_preferred":[
         "Tr\u00edpoli"
+    ],
+    "name:sqi_x_preferred":[
+        "Tripolica"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0438\u043f\u043e\u043b\u0438"
@@ -180,6 +177,9 @@
     ],
     "name:war_x_preferred":[
         "Tripoli"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u91cc\u6ce2\u5229"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -227,7 +227,7 @@
         }
     ],
     "wof:id":1125862483,
-    "wof:lastmodified":1514444066,
+    "wof:lastmodified":1561844026,
     "wof:name":"Tripolis",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

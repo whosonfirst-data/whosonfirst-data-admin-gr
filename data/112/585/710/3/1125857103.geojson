@@ -22,14 +22,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0641\u064a\u060c \u0647\u0627\u0646\u064a\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kalyves"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03cd\u03b2\u03b1\u03b9"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2"
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2",
+        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kalyves"
@@ -40,14 +41,8 @@
     "name:fra_x_preferred":[
         "Kalyv\u00e8s"
     ],
-    "name:fre_x_preferred":[
-        "Kalyv\u00e8s"
-    ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Kalyves"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03cd\u03b2\u03b5\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:nno_x_preferred":[
         "Kal\u00fdves"
@@ -112,7 +107,7 @@
         }
     ],
     "wof:id":1125857103,
-    "wof:lastmodified":1553816576,
+    "wof:lastmodified":1561844052,
     "wof:name":"Kalivai",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

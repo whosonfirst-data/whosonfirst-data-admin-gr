@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Prosymna"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03cc\u03c3\u03c5\u03bc\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03cc\u03c3\u03c5\u03bc\u03bd\u03b1 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Prosymna"
     ],
     "name:fin_x_preferred":[
         "Pr\u00f3symna"
-    ],
-    "name:ger_x_preferred":[
-        "Prosymna"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03cc\u03c3\u03c5\u03bc\u03bd\u03b1 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2"
     ],
     "name:spa_x_preferred":[
         "Prosimna"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125991797,
-    "wof:lastmodified":1514444045,
+    "wof:lastmodified":1561844035,
     "wof:name":"Prosimna",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -22,23 +22,21 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043a\u0430\u043b\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Katakali"
-    ],
     "name:ell_x_preferred":[
         "Kat\u00e1kali"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03c4\u03ac\u03ba\u03b1\u03bb\u03b7"
+        "\u039a\u03b1\u03c4\u03ac\u03ba\u03b1\u03bb\u03b7",
+        "\u039a\u03b1\u03c4\u03ac\u03ba\u03b1\u03bb\u03b7 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
     ],
     "name:eng_x_preferred":[
         "Katakali"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c4\u03ac\u03ba\u03b1\u03bb\u03b7 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
-    ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043a\u0430\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Katakali"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -87,7 +85,7 @@
         }
     ],
     "wof:id":1125979891,
-    "wof:lastmodified":1514443973,
+    "wof:lastmodified":1561844038,
     "wof:name":"Katakali",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

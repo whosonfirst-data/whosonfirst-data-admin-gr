@@ -22,11 +22,14 @@
     "name:cat_x_preferred":[
         "Agia Roumeli"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Agia Roumeli"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u03a1\u03bf\u03c5\u03bc\u03ad\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u03a1\u03bf\u03c5\u03bc\u03ad\u03bb\u03b7 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Agia Roumeli"
@@ -34,20 +37,17 @@
     "name:fin_x_preferred":[
         "Ag\u00eda Roum\u00e9li"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ag\u00eda Roum\u00e9li"
-    ],
-    "name:ger_x_preferred":[
-        "Agia Roumeli"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03af\u03b1 \u03a1\u03bf\u03c5\u03bc\u03ad\u03bb\u03b7 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:ita_x_preferred":[
         "Agia Roumeli"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ae\u30a2\u30fb\u30eb\u30e1\u30fc\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Agia Roumeli"
     ],
     "name:pol_x_preferred":[
         "Ajia Rumeli"
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125793973,
-    "wof:lastmodified":1514443930,
+    "wof:lastmodified":1561844054,
     "wof:name":"Ayia Roumeli",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

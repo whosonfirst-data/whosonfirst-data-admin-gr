@@ -20,12 +20,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0641\u064a\u0633\u0648\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7d0d\u7dad\u7d22\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Anavyssos"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ac\u03b2\u03c5\u03c3\u03c3\u03bf\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
@@ -40,20 +34,14 @@
     "name:fin_x_preferred":[
         "An\u00e1vyssos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Anavyssos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d0\u10d5\u10d8\u10e1\u10dd\u10e1\u10d8"
     ],
     "name:grc_x_preferred":[
         "An\u00e1flystos"
     ],
     "name:grc_x_variant":[
         "\u0391\u03bd\u03ac\u03c6\u03bb\u03c5\u03c3\u03c4\u03bf\u03c2"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03ac\u03b2\u03c5\u03c3\u03c3\u03bf\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Anavysos"
@@ -67,17 +55,20 @@
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d0\u10d5\u10d8\u10e1\u10dd\u10e1\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Anavyssos"
+    ],
     "name:nno_x_preferred":[
         "An\u00e1vyssos"
     ],
     "name:ron_x_preferred":[
         "Anavyssos"
     ],
-    "name:rum_x_preferred":[
-        "Anavyssos"
-    ],
     "name:swe_x_preferred":[
         "An\u00e1vyssos"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d0d\u7dad\u7d22\u65af"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -126,7 +117,7 @@
         }
     ],
     "wof:id":101875589,
-    "wof:lastmodified":1527642579,
+    "wof:lastmodified":1561843989,
     "wof:name":"\u0391\u039d\u0391\u0392\u03a5\u03a3\u03a3\u039f\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

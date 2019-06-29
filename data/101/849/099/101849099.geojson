@@ -44,6 +44,9 @@
     "name:cym_x_preferred":[
         "Ithaca"
     ],
+    "name:cym_x_variant":[
+        "Vathy"
+    ],
     "name:dan_x_preferred":[
         "Ithaka"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03b8\u03ac\u03ba\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03b8\u03cd \u0399\u03b8\u03ac\u03ba\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Vathy"
@@ -74,14 +80,11 @@
     "name:fra_x_preferred":[
         "Ithaque"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Vathy"
     ],
     "name:glg_x_preferred":[
         "\u00cdtaca"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03b8\u03cd \u0399\u03b8\u03ac\u03ba\u03b7\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Itaka"
@@ -170,9 +173,6 @@
     "name:vie_x_preferred":[
         "Ithaki"
     ],
-    "name:wel_x_preferred":[
-        "Vathy"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u85a9\u57fa\u5cf6"
     ],
@@ -222,7 +222,7 @@
         }
     ],
     "wof:id":101849099,
-    "wof:lastmodified":1544740779,
+    "wof:lastmodified":1561844001,
     "wof:name":"\u0399\u0398\u0391\u039a\u0397",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

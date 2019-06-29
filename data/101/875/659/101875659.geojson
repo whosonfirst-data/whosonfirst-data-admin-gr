@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":2092312.270419,
+    "geom:area_square_m":2092312.270416,
     "geom:bbox":"23.6920851717,40.655245695,23.7102691617,40.6723231333",
     "geom:latitude":40.66427,
     "geom:longitude":23.701648,
@@ -22,11 +22,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0440\u043e\u0441"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Stavros"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Stavros"
@@ -34,20 +37,17 @@
     "name:fin_x_preferred":[
         "Stavr\u00f3s"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stavros"
-    ],
-    "name:ger_x_preferred":[
-        "Stavros"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
     ],
     "name:lat_x_preferred":[
         "Staurus"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0440\u043e\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Stavros"
     ],
     "name:nno_x_preferred":[
         "Stavr\u00f3s i Thessalon\u00edki"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":101875659,
-    "wof:lastmodified":1514444357,
+    "wof:lastmodified":1561843988,
     "wof:name":"\u03a3\u03a4\u0391\u03a5\u03a1\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

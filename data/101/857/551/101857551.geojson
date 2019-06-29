@@ -23,23 +23,21 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0441\u0430\u043d \u0410\u0431\u0430\u0441"
     ],
-    "name:dut_x_preferred":[
-        "Pedino"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03b4\u03b9\u03bd\u03cc\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03b5\u03b4\u03b9\u03bd\u03cc"
+        "\u03a0\u03b5\u03b4\u03b9\u03bd\u03cc",
+        "\u03a0\u03b5\u03b4\u03b9\u03bd\u03cc \u039a\u03b9\u03bb\u03ba\u03af\u03c2"
     ],
     "name:eng_x_preferred":[
         "Pedino"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03b4\u03b9\u03bd\u03cc \u039a\u03b9\u03bb\u03ba\u03af\u03c2"
-    ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u0430\u0441\u0430\u043d \u0410\u0431\u0430\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Pedino"
     ],
     "name:unk_x_variant":[
         "Has\u00e1n \u00d3basi"
@@ -87,7 +85,7 @@
         }
     ],
     "wof:id":101857551,
-    "wof:lastmodified":1544743954,
+    "wof:lastmodified":1561843991,
     "wof:name":"\u03a0\u0395\u0394\u0399\u039d\u039f\u039d",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

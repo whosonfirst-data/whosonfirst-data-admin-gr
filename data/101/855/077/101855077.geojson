@@ -23,14 +23,17 @@
     "name:bul_x_preferred":[
         "\u0421\u044f\u0442\u0438\u0449\u0430"
     ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Siatista"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Siatista"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03ac\u03c4\u03b9\u03c3\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03ac\u03c4\u03b9\u03c3\u03c4\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Siatista"
@@ -41,23 +44,14 @@
     "name:fra_x_preferred":[
         "Si\u00e1tista"
     ],
-    "name:fre_x_preferred":[
-        "Si\u00e1tista"
-    ],
-    "name:ger_x_preferred":[
-        "Siatista"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03ac\u03c4\u03b9\u03c3\u03c4\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
-    ],
     "name:ita_x_preferred":[
         "Siatista"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0447\u0438\u0448\u0442\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0447\u0438\u0448\u0442\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Siatista"
     ],
     "name:nno_x_preferred":[
         "Si\u00e1tista"
@@ -70,9 +64,6 @@
     ],
     "name:unk_x_variant":[
         "Kh\u00f3ra"
-    ],
-    "name:wel_x_preferred":[
-        "Siatista"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
@@ -123,7 +114,7 @@
         }
     ],
     "wof:id":101855077,
-    "wof:lastmodified":1544742817,
+    "wof:lastmodified":1561844006,
     "wof:name":"\u03a3\u0399\u0391\u03a4\u0399\u03a3\u03a4\u0391",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

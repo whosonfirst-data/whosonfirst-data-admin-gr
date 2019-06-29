@@ -18,17 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Charakas"
-    ],
     "name:ell_x_preferred":[
         "\u03a7\u03ac\u03c1\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ac\u03c1\u03b1\u03ba\u03b1\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Charakas"
     ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03c1\u03b1\u03ba\u03b1\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
+    "name:nld_x_preferred":[
+        "Charakas"
     ],
     "name:unk_x_variant":[
         "Kh\u00e1rakas"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1125801253,
-    "wof:lastmodified":1514443935,
+    "wof:lastmodified":1561844032,
     "wof:name":"Charakas",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

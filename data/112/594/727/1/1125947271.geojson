@@ -22,14 +22,8 @@
     "name:ara_x_preferred":[
         "\u0625\u0644\u0641\u0633\u064a\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c\u0587\u057d\u056b\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u064a\u0648\u0633\u064a\u0633"
-    ],
-    "name:baq_x_preferred":[
-        "Eleusis"
     ],
     "name:bel_x_preferred":[
         "\u042d\u043b\u0435\u0444\u0441\u0456\u0441"
@@ -40,17 +34,14 @@
     "name:cat_x_preferred":[
         "Eleusis"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u83b1\u592b\u897f\u7eb3"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Eleusis"
     ],
     "name:dan_x_preferred":[
         "Eleusis"
     ],
-    "name:dut_x_preferred":[
-        "Elefsina"
+    "name:deu_x_preferred":[
+        "Eleusis"
     ],
     "name:ell_x_preferred":[
         "Elefs\u00eds"
@@ -67,14 +58,17 @@
     "name:epo_x_preferred":[
         "Ele\u016dziso"
     ],
+    "name:eus_x_preferred":[
+        "Eleusis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0632\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Eleusis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9leusis"
-    ],
-    "name:ger_x_preferred":[
-        "Eleusis"
     ],
     "name:gle_x_preferred":[
         "Eileoisis"
@@ -85,9 +79,6 @@
     "name:grc_x_preferred":[
         "\u1f18\u03bb\u03b5\u03c5\u03c3\u03af\u03c2"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb\u03b5\u03c5\u03c3\u03af\u03bd\u03b1"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d0\u05d5\u05e1\u05d9\u05e1"
     ],
@@ -96,6 +87,9 @@
     ],
     "name:hun_x_preferred":[
         "El\u00e9fszina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c\u0587\u057d\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Eleusina"
@@ -115,8 +109,11 @@
     "name:lit_x_preferred":[
         "Elefsina"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u043b\u0435\u0432\u0441\u0438\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Elefsina"
     ],
     "name:nno_x_preferred":[
         "Elevs\u00edna"
@@ -124,22 +121,19 @@
     "name:nob_x_preferred":[
         "Eleusis"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0648\u0632\u06cc\u0633"
-    ],
     "name:pol_x_preferred":[
         "Eleusis"
     ],
     "name:por_x_preferred":[
         "El\u00eausis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Eleusina"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u0435\u0444\u0441\u0438\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Elefsina"
     ],
     "name:slv_x_preferred":[
@@ -171,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Elefsina"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u83b1\u592b\u897f\u7eb3"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -223,7 +220,7 @@
         }
     ],
     "wof:id":1125947271,
-    "wof:lastmodified":1514443945,
+    "wof:lastmodified":1561844012,
     "wof:name":"Elefsis",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

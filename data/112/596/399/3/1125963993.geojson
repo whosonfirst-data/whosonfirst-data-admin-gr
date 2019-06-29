@@ -22,11 +22,14 @@
     "name:ara_x_preferred":[
         "\u0623\u062a\u0633\u064a\u0643\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Atsiki"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c4\u03c3\u03b9\u03ba\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c4\u03c3\u03b9\u03ba\u03ae \u039b\u03ae\u03bc\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Atsiki"
@@ -34,20 +37,17 @@
     "name:fin_x_preferred":[
         "Atsik\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atsiki"
-    ],
-    "name:ger_x_preferred":[
-        "Atsiki"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03c3\u03b9\u03ba\u03ae \u039b\u03ae\u03bc\u03bd\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
         "Atsiki"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c4\u30a3\u30ad"
+    ],
+    "name:nld_x_preferred":[
+        "Atsiki"
     ],
     "name:nno_x_preferred":[
         "Atsik\u00ed"
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1125963993,
-    "wof:lastmodified":1538594928,
+    "wof:lastmodified":1561844038,
     "wof:name":"Atsiki",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

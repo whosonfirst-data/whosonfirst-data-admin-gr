@@ -19,13 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0565\u0578\u057a\u0578\u056c\u056b\u057d"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u0435\u043e\u043f\u043e\u043b\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Areopoli"
+    ],
+    "name:deu_x_preferred":[
         "Areopoli"
     ],
     "name:ell_x_historical":[
@@ -37,7 +37,8 @@
     ],
     "name:ell_x_variant":[
         "\u03a4\u03c3\u03af\u03bc\u03bf\u03b2\u03b1",
-        "\u03a4\u03b6\u03af\u03bc\u03bf\u03b2\u03b1"
+        "\u03a4\u03b6\u03af\u03bc\u03bf\u03b2\u03b1",
+        "\u0391\u03c1\u03b5\u03cc\u03c0\u03bf\u03bb\u03b7 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Areopolis"
@@ -51,14 +52,8 @@
     "name:fin_x_preferred":[
         "Are\u00f3poli"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Are\u00f3poli"
-    ],
-    "name:ger_x_preferred":[
-        "Areopoli"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03b5\u03cc\u03c0\u03bf\u03bb\u03b7 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2"
     ],
     "name:gsw_x_preferred":[
         "Areopoli"
@@ -66,13 +61,19 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d0\u05d5\u05e4\u05d5\u05dc\u05d9"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0565\u0578\u057a\u0578\u056c\u056b\u057d"
+    ],
     "name:lat_x_preferred":[
         "Areopolis"
+    ],
+    "name:nld_x_preferred":[
+        "Areopoli"
     ],
     "name:nno_x_preferred":[
         "Are\u00f3poli"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Areopoli"
     ],
     "name:rus_x_preferred":[
@@ -86,9 +87,6 @@
     ],
     "name:unk_x_variant":[
         "Ts\u00edmova"
-    ],
-    "name:wel_x_preferred":[
-        "Areopoli"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -141,7 +139,7 @@
         }
     ],
     "wof:id":1125947455,
-    "wof:lastmodified":1514443922,
+    "wof:lastmodified":1561844012,
     "wof:name":"Areopoli",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

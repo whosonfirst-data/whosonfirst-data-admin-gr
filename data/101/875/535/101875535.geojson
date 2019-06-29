@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":3420298.150541,
+    "geom:area_square_m":3420298.150545,
     "geom:bbox":"23.5095561587,38.0630142594,23.5324068205,38.0914882489",
     "geom:latitude":38.079088,
     "geom:longitude":23.521024,
@@ -20,14 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0648\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Magoula"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1 \u0395\u03bb\u03b5\u03c5\u03c3\u03af\u03bd\u03bf\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1"
+        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1",
+        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Magoula"
@@ -38,17 +36,17 @@
     "name:fin_x_preferred":[
         "Mago\u00fala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Magoula"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:ita_x_preferred":[
         "Magoula"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b0\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Magoula"
     ],
     "name:nno_x_preferred":[
         "Mago\u00fala"
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815563,
+    "wof:lastmodified":1561843988,
     "wof:name":"\u039c\u0391\u0393\u039f\u03a5\u039b\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

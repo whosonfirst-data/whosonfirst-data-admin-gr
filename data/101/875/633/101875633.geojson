@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":7801932.780848,
+    "geom:area_square_m":7801932.780849,
     "geom:bbox":"21.3975139013,38.6084171302,21.4309234742,38.6447318097",
     "geom:latitude":38.624835,
     "geom:longitude":21.415787,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0623\u063a\u0631\u064a\u0646\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0563\u0580\u056b\u0576\u056b\u0578\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u0997\u09cd\u09b0\u09bf\u09a8\u09bf\u0989"
     ],
@@ -36,17 +33,11 @@
     "name:cat_x_preferred":[
         "Agr\u00ednion"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u683c\u6797\u5c3c\u7fc1"
-    ],
     "name:dan_x_preferred":[
         "Agrinio"
     ],
     "name:deu_x_preferred":[
         "Agrinio"
-    ],
-    "name:dut_x_preferred":[
-        "Agrinion"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03c1\u03af\u03bd\u03b9\u03bf"
@@ -68,15 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Agr\u00ednio"
-    ],
-    "name:fre_x_preferred":[
-        "Agr\u00ednio"
-    ],
-    "name:ger_x_preferred":[
-        "Agrinio"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03c1\u03af\u03bd\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a97\u0acd\u0ab0\u0ac0\u0aa8\u0abf\u0aaf\u0acb"
@@ -117,7 +99,7 @@
     "name:mar_x_preferred":[
         "\u090f\u0917\u094d\u0930\u0940\u0928\u093f\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Agrinio"
     ],
     "name:nld_x_preferred":[
@@ -129,9 +111,6 @@
     "name:nob_x_preferred":[
         "Agr\u00ednio"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u06af\u0631\u06cc\u0646\u06cc\u0648"
-    ],
     "name:pol_x_preferred":[
         "Agrinio"
     ],
@@ -139,9 +118,6 @@
         "Agrinio"
     ],
     "name:ron_x_preferred":[
-        "Agrinion"
-    ],
-    "name:rum_x_preferred":[
         "Agrinion"
     ],
     "name:rus_x_preferred":[
@@ -168,9 +144,6 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e01\u0e23\u0e35\u0e19\u0e34\u0e2d\u0e2d\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f42\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f72\u0f60\u0f7c\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Agrinion"
     ],
@@ -185,6 +158,9 @@
     ],
     "name:vie_x_preferred":[
         "Agrinio"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u683c\u6797\u5c3c\u7fc1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"United Kingdom",
@@ -327,7 +303,7 @@
         }
     ],
     "wof:id":101875633,
-    "wof:lastmodified":1527642576,
+    "wof:lastmodified":1561843988,
     "wof:name":"\u0391\u0393\u03a1\u0399\u039d\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

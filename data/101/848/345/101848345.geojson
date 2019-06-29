@@ -23,35 +23,21 @@
     "name:cat_x_preferred":[
         "Korone"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u90ce"
-    ],
     "name:deu_x_preferred":[
-        "Koroni"
-    ],
-    "name:dut_x_preferred":[
         "Koroni"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c1\u03ce\u03bd\u03b7"
     ],
     "name:ell_x_variant":[
-        "Kor\u00f3ni"
+        "Kor\u00f3ni",
+        "\u039a\u03bf\u03c1\u03ce\u03bd\u03b7 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Koroni"
     ],
     "name:fra_x_preferred":[
         "Coron"
-    ],
-    "name:fre_x_preferred":[
-        "Coron"
-    ],
-    "name:ger_x_preferred":[
-        "Koroni"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03ce\u03bd\u03b7 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2"
     ],
     "name:gsw_x_preferred":[
         "Koroni"
@@ -68,13 +54,13 @@
     "name:lat_x_preferred":[
         "Corone"
     ],
+    "name:nld_x_preferred":[
+        "Koroni"
+    ],
     "name:nno_x_preferred":[
         "Kor\u00f3ni"
     ],
     "name:ron_x_preferred":[
-        "Koroni"
-    ],
-    "name:rum_x_preferred":[
         "Koroni"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +83,9 @@
     ],
     "name:vec_x_preferred":[
         "Coron"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u90ce"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
@@ -147,7 +136,7 @@
         }
     ],
     "wof:id":101848345,
-    "wof:lastmodified":1544740394,
+    "wof:lastmodified":1561843999,
     "wof:name":"\u039a\u039f\u03a1\u03a9\u039d\u0397",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

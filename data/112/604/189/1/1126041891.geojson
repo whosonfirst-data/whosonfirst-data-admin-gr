@@ -19,8 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Ioannina Island"
+    "name:deu_x_preferred":[
+        "Ioannina-Insel"
     ],
     "name:ell_x_colloquial":[
         "\u039d\u03b7\u03c3\u03af"
@@ -29,7 +29,8 @@
         "\u039d\u03ae\u03c3\u03bf\u03c2 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u039d\u03b7\u03c3\u03af"
+        "\u039d\u03b7\u03c3\u03af",
+        "\u039d\u03b7\u03c3\u03af \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Nisos Ioanninon"
@@ -37,20 +38,17 @@
     "name:fin_x_preferred":[
         "Io\u00e1nnina-saari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00cele de Ioannina"
-    ],
-    "name:ger_x_preferred":[
-        "Ioannina-Insel"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b7\u03c3\u03af \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
     ],
     "name:ita_x_preferred":[
         "Isola di Giannina"
     ],
     "name:jpn_x_preferred":[
         "\u30e8\u30a2\u30cb\u30ca\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Ioannina Island"
     ],
     "name:nno_x_preferred":[
         "Io\u00e1nnina \u00f8y"
@@ -98,7 +96,7 @@
         }
     ],
     "wof:id":1126041891,
-    "wof:lastmodified":1514444022,
+    "wof:lastmodified":1561844021,
     "wof:name":"N\u00edsos Ioann\u00ednon",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

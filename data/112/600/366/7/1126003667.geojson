@@ -19,17 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Azoros"
-    ],
     "name:ell_x_preferred":[
         "\u0386\u03b6\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b6\u03c9\u03c1\u03bf\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Azoros"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b6\u03c9\u03c1\u03bf\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
+    "name:nld_x_preferred":[
+        "Azoros"
     ],
     "name:swe_x_preferred":[
         "\u00c1zoros"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1126003667,
-    "wof:lastmodified":1514443932,
+    "wof:lastmodified":1561844044,
     "wof:name":"Azoros",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

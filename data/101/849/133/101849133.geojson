@@ -26,14 +26,12 @@
     "name:deu_x_preferred":[
         "Velestino"
     ],
-    "name:dut_x_preferred":[
-        "Velestino"
-    ],
     "name:ell_x_preferred":[
         "\u0392\u03b5\u03bb\u03b5\u03c3\u03c4\u03af\u03bd\u03bf"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03b5\u03bb\u03b5\u03c3\u03c4\u03af\u03bd\u03bf\u03bd"
+        "\u0392\u03b5\u03bb\u03b5\u03c3\u03c4\u03af\u03bd\u03bf\u03bd",
+        "\u0392\u03b5\u03bb\u03b5\u03c3\u03c4\u03af\u03bd\u03bf \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Velestino"
@@ -41,14 +39,11 @@
     "name:fin_x_preferred":[
         "Velest\u00edno"
     ],
-    "name:ger_x_preferred":[
-        "Velestino"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b5\u03bb\u03b5\u03c3\u03c4\u03af\u03bd\u03bf \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
-    ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0435\u043b\u0435\u0441\u0442\u0438\u043d\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Velestino"
     ],
     "name:nno_x_preferred":[
         "Velest\u00edno"
@@ -112,7 +107,7 @@
         }
     ],
     "wof:id":101849133,
-    "wof:lastmodified":1544740796,
+    "wof:lastmodified":1561844000,
     "wof:name":"\u0392\u0395\u039b\u0395\u03a3\u03a4\u0399\u039d\u039f\u039d",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

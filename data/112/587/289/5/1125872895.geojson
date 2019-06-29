@@ -22,11 +22,11 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u064a\u0627 \u0645\u0627\u0631\u064a\u0646\u0627\u060c \u0647\u0627\u0646\u064a\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Agia Marina"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Agia Marina"
@@ -34,8 +34,8 @@
     "name:fin_x_preferred":[
         "Ag\u00eda Mar\u00edna"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    "name:nld_x_preferred":[
+        "Agia Marina"
     ],
     "name:nno_x_preferred":[
         "Aj\u00eda Mar\u00edna i Khani\u00e1"
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125872895,
-    "wof:lastmodified":1514443930,
+    "wof:lastmodified":1561844032,
     "wof:name":"Ayia Marina",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

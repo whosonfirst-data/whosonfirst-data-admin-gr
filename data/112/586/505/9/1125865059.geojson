@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Vodena"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u0630\u064a\u0633\u0627"
     ],
@@ -34,22 +31,16 @@
     "name:cat_x_preferred":[
         "Edessa"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u6cfd\u8428"
+    "name:ces_x_preferred":[
+        "Edessa"
     ],
     "name:chu_x_preferred":[
         "\u0412\u043e\u0434\u044c\u043d\u044a"
-    ],
-    "name:cze_x_preferred":[
-        "Edessa"
     ],
     "name:dan_x_preferred":[
         "Edessa"
     ],
     "name:deu_x_preferred":[
-        "Edessa"
-    ],
-    "name:dut_x_preferred":[
         "Edessa"
     ],
     "name:ell_x_preferred":[
@@ -64,20 +55,14 @@
     "name:est_x_preferred":[
         "\u00c9dessa"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Edessa"
     ],
     "name:fra_x_preferred":[
         "\u00c9dessa"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9dessa"
-    ],
-    "name:ger_x_preferred":[
-        "Edessa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0388\u03b4\u03b5\u03c3\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa1\u0ac7\u0ab8\u0abe"
@@ -112,17 +97,14 @@
     "name:lit_x_preferred":[
         "Edesa"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u043e\u0434\u0435\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u090f\u0921\u0947\u0938\u093e"
     ],
-    "name:may_x_preferred":[
-        "Edessa"
-    ],
     "name:mkd_x_preferred":[
         "\u0412\u043e\u0434\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Edessa"
     ],
     "name:nld_x_preferred":[
         "Edessa"
@@ -132,9 +114,6 @@
     ],
     "name:nob_x_preferred":[
         "Edessa"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u062f\u0633\u0627"
     ],
     "name:pnt_x_preferred":[
         "\u0388\u03b4\u03b5\u03c3\u03c3\u03b1"
@@ -148,9 +127,6 @@
     "name:ron_x_preferred":[
         "Edessa"
     ],
-    "name:rum_x_preferred":[
-        "Edessa"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u0434\u0435\u0441\u0441\u0430"
     ],
@@ -160,11 +136,14 @@
     "name:sin_x_preferred":[
         "\u0d91\u0da9\u0dd9\u0dc3\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Edessa"
     ],
     "name:spa_x_preferred":[
         "\u00c9dessa"
+    ],
+    "name:sqi_x_preferred":[
+        "Vodena"
     ],
     "name:srp_x_preferred":[
         "\u0412\u043e\u0434\u0435\u043d"
@@ -198,6 +177,9 @@
     ],
     "name:war_x_preferred":[
         "Edessa"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u6cfd\u8428"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -236,7 +218,7 @@
         }
     ],
     "wof:id":1125865059,
-    "wof:lastmodified":1514444081,
+    "wof:lastmodified":1561844025,
     "wof:name":"\u00c9dessa",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",
