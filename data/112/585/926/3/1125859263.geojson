@@ -19,23 +19,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Kastriza"
-    ],
-    "name:dut_x_preferred":[
-        "Kastri"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03c4\u03c1\u03af"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03c3\u03c4\u03c1\u03af\u03bf\u03bd"
+        "\u039a\u03b1\u03c3\u03c4\u03c1\u03af\u03bf\u03bd",
+        "\u039a\u03b1\u03c3\u03c4\u03c1\u03af \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kastri"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03c4\u03c1\u03af \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2"
+    "name:nld_x_preferred":[
+        "Kastri"
+    ],
+    "name:sqi_x_preferred":[
+        "Kastriza"
     ],
     "name:swe_x_preferred":[
         "Kastr\u00ed"
@@ -90,7 +88,7 @@
         }
     ],
     "wof:id":1125859263,
-    "wof:lastmodified":1553816578,
+    "wof:lastmodified":1561844052,
     "wof:name":"Kastrion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

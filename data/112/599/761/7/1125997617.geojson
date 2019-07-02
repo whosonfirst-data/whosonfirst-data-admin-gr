@@ -25,11 +25,11 @@
     "name:deu_x_preferred":[
         "Nydri"
     ],
-    "name:dut_x_preferred":[
-        "Nydri"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03c5\u03b4\u03c1\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c5\u03b4\u03c1\u03af \u039b\u03b5\u03c5\u03ba\u03ac\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Nydri"
@@ -37,14 +37,8 @@
     "name:fin_x_preferred":[
         "Nydr\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nydri"
-    ],
-    "name:ger_x_preferred":[
-        "Nydri"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c5\u03b4\u03c1\u03af \u039b\u03b5\u03c5\u03ba\u03ac\u03b4\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Nydri"
@@ -52,13 +46,13 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30c9\u30ea"
     ],
+    "name:nld_x_preferred":[
+        "Nydri"
+    ],
     "name:nno_x_preferred":[
         "Nydr\u00ed"
     ],
     "name:ron_x_preferred":[
-        "Nydri"
-    ],
-    "name:rum_x_preferred":[
         "Nydri"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +121,7 @@
         }
     ],
     "wof:id":1125997617,
-    "wof:lastmodified":1514444020,
+    "wof:lastmodified":1561844034,
     "wof:name":"Nidhrion",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

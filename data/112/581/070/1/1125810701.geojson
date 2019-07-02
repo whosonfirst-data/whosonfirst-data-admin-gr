@@ -21,14 +21,15 @@
     "name:cat_x_preferred":[
         "M\u00e0leme"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maleme"
     ],
     "name:ell_x_preferred":[
         "\u039c\u0391\u039b\u0395\u039c\u0395"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03ac\u03bb\u03b5\u03bc\u03b5"
+        "\u039c\u03ac\u03bb\u03b5\u03bc\u03b5",
+        "\u039c\u03ac\u03bb\u03b5\u03bc\u03b5 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Maleme"
@@ -36,20 +37,17 @@
     "name:fin_x_preferred":[
         "M\u00e1leme"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Maleme"
-    ],
-    "name:ger_x_preferred":[
-        "Maleme"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03bb\u03b5\u03bc\u03b5 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:ita_x_preferred":[
         "Mal\u00e9me"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ec\u30e1"
+    ],
+    "name:nld_x_preferred":[
+        "Maleme"
     ],
     "name:pol_x_preferred":[
         "Maleme"
@@ -119,7 +117,7 @@
         }
     ],
     "wof:id":1125810701,
-    "wof:lastmodified":1514444000,
+    "wof:lastmodified":1561844027,
     "wof:name":"Maleme",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

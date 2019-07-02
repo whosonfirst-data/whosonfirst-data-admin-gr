@@ -22,11 +22,14 @@
     "name:ara_x_preferred":[
         "\u0623\u063a\u064a\u0627 \u0628\u0627\u0631\u0627\u0633\u0643\u064a\u0641\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Agia Paraskevi"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1  \u0391\u03b3\u03af\u03b1\u03c2 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae\u03c2 \u039b\u03ad\u03c3\u03b2\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ay\u00eda Paraskev\u00ed"
@@ -34,17 +37,11 @@
     "name:fin_x_preferred":[
         "Ag\u00eda Paraskev\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Agia Paraskevi"
     ],
     "name:fry_x_preferred":[
         "Agia Paraskevi"
-    ],
-    "name:ger_x_preferred":[
-        "Agia Paraskevi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1  \u0391\u03b3\u03af\u03b1\u03c2 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae\u03c2 \u039b\u03ad\u03c3\u03b2\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
         "Agia Paraskevi"
@@ -53,6 +50,9 @@
         "\u30a2\u30ae\u30a2\u30fb\u30d1\u30e9\u30b9\u30b1\u30f4\u30a3"
     ],
     "name:lim_x_preferred":[
+        "Agia Paraskevi"
+    ],
+    "name:nld_x_preferred":[
         "Agia Paraskevi"
     ],
     "name:nno_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125764965,
-    "wof:lastmodified":1553816518,
+    "wof:lastmodified":1561844048,
     "wof:name":"Agia Paraskevi",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

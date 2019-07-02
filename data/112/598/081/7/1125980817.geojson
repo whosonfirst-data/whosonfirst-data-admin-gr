@@ -19,21 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Paleochori"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9"
     ],
     "name:ell_x_variant":[
         "Palaioch\u00f3ri",
-        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd",
+        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Palaiochori"
-    ],
-    "name:ger_x_preferred":[
-        "Paleochori"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
     ],
     "name:swe_x_preferred":[
         "Palaioch\u00f3ri"
@@ -88,7 +86,7 @@
         }
     ],
     "wof:id":1125980817,
-    "wof:lastmodified":1553816676,
+    "wof:lastmodified":1561844040,
     "wof:name":"Palaiochori",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

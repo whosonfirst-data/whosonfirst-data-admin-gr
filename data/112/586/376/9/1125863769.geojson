@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03ac\u03ba\u03b9\u03b1"
+    ],
     "name:eng_x_historical":[
         "Stavrakion"
     ],
@@ -28,9 +31,6 @@
         "\u03a3\u03c4\u03b1\u03c5\u03c1\u03ac\u03ba\u03b9\u03b1"
     ],
     "name:gre_x_historical":[
-        "\u03a3\u03c4\u03b1\u03c5\u03c1\u03ac\u03ba\u03b9\u03b1"
-    ],
-    "name:gre_x_preferred":[
         "\u03a3\u03c4\u03b1\u03c5\u03c1\u03ac\u03ba\u03b9\u03b1"
     ],
     "qs_pg:aaroncc":"GR",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1125863769,
-    "wof:lastmodified":1509396829,
+    "wof:lastmodified":1561844026,
     "wof:name":"Stavrakia",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

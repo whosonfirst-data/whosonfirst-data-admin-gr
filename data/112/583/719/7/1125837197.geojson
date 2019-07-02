@@ -19,17 +19,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Sm\u00ebrdeshi"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0633\u062a\u0627\u0644\u0648\u0628\u064a\u063a\u064a"
     ],
     "name:bul_x_preferred":[
         "\u0421\u043c\u044a\u0440\u0434\u0435\u0448"
-    ],
-    "name:dut_x_preferred":[
-        "Krystallopigi"
     ],
     "name:ell_x_historical":[
         "\u03a3\u03bc\u03b1\u03c1\u03b4\u03ad\u03c3\u03b9",
@@ -40,7 +34,8 @@
     ],
     "name:ell_x_variant":[
         "\u03a3\u03bc\u03b1\u03c1\u03b4\u03ad\u03c3\u03b9",
-        "\u039a\u03c1\u03bf\u03c5\u03c3\u03c4\u03b1\u03bb\u03bb\u03bf\u03c0\u03b7\u03b3\u03ae"
+        "\u039a\u03c1\u03bf\u03c5\u03c3\u03c4\u03b1\u03bb\u03bb\u03bf\u03c0\u03b7\u03b3\u03ae",
+        "\u039a\u03c1\u03c5\u03c3\u03c4\u03b1\u03bb\u03bb\u03bf\u03c0\u03b7\u03b3\u03ae \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Kroustallopigi",
@@ -53,23 +48,26 @@
         "Kroustallopigi",
         "Smardesi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Krystallopigi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03c5\u03c3\u03c4\u03b1\u03bb\u03bb\u03bf\u03c0\u03b7\u03b3\u03ae \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Krystallopigi"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043c\u0440\u0434\u0435\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Krystallopigi"
     ],
     "name:nno_x_preferred":[
         "Krystallopij\u00ed"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Krystallopigi"
+    ],
+    "name:sqi_x_preferred":[
+        "Sm\u00ebrdeshi"
     ],
     "name:swe_x_preferred":[
         "Krystallopig\u00ed"
@@ -114,7 +112,7 @@
         }
     ],
     "wof:id":1125837197,
-    "wof:lastmodified":1553816562,
+    "wof:lastmodified":1561844060,
     "wof:name":"Krystallopig\u00ed",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -19,21 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Fortosi"
-    ],
     "name:ell_x_preferred":[
         "\u03a6\u03bf\u03c1\u03c4\u03cc\u03c3\u03b9"
     ],
     "name:ell_x_variant":[
         "\u03a6\u03bf\u03c1\u03c4\u03cc\u03c3\u03b9\u03bf\u03bd",
-        "\u03a6\u03bf\u03c1\u03c4\u03cc\u03c3\u03b9\u03bf"
+        "\u03a6\u03bf\u03c1\u03c4\u03cc\u03c3\u03b9\u03bf",
+        "\u03a0\u03ac\u03c4\u03b5\u03c1\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Fortosi"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03c4\u03b5\u03c1\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
+    "name:nld_x_preferred":[
+        "Fortosi"
     ],
     "name:unk_x_variant":[
         "Fort\u00f3si"
@@ -85,7 +83,7 @@
         }
     ],
     "wof:id":1125942621,
-    "wof:lastmodified":1514443952,
+    "wof:lastmodified":1561844012,
     "wof:name":"Fortosion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

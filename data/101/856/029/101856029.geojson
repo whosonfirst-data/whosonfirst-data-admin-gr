@@ -32,11 +32,11 @@
     "name:deu_x_preferred":[
         "Myrina"
     ],
-    "name:dut_x_preferred":[
-        "Myrina"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03cd\u03c1\u03b9\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03cd\u03c1\u03b9\u03bd\u03b1 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Myrina"
@@ -47,17 +47,14 @@
     "name:fra_x_preferred":[
         "Myrina"
     ],
-    "name:fre_x_preferred":[
-        "Myrina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cd\u03c1\u03b9\u03bd\u03b1 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5"
-    ],
     "name:ita_x_preferred":[
         "Mirina"
     ],
     "name:jpn_x_preferred":[
         "\u30df\u30ea\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Myrina"
     ],
     "name:nno_x_preferred":[
         "M\u00fdrina"
@@ -127,7 +124,7 @@
         }
     ],
     "wof:id":101856029,
-    "wof:lastmodified":1544743197,
+    "wof:lastmodified":1561843996,
     "wof:name":"\u039c\u03a5\u03a1\u0399\u039d\u0391",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

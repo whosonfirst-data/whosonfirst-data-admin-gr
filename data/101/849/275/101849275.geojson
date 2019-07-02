@@ -26,11 +26,11 @@
     "name:deu_x_preferred":[
         "Domokos"
     ],
-    "name:dut_x_preferred":[
-        "Domokos"
-    ],
     "name:ell_x_preferred":[
         "\u0394\u03bf\u03bc\u03bf\u03ba\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03bf\u03bc\u03bf\u03ba\u03cc\u03c2 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Domokos"
@@ -41,17 +41,8 @@
     "name:fra_x_preferred":[
         "Domokos"
     ],
-    "name:fre_x_preferred":[
-        "Domokos"
-    ],
-    "name:ger_x_preferred":[
-        "Domokos"
-    ],
     "name:glg_x_preferred":[
         "Domok\u00f3s"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03bf\u03bc\u03bf\u03ba\u03cc\u03c2 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Domokos"
@@ -139,7 +130,7 @@
         }
     ],
     "wof:id":101849275,
-    "wof:lastmodified":1544740870,
+    "wof:lastmodified":1561844001,
     "wof:name":"\u0394\u039f\u039c\u039f\u039a\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

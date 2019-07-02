@@ -31,6 +31,9 @@
     "name:ell_x_preferred":[
         "\u03a8\u03c5\u03c1\u03ae"
     ],
+    "name:ell_x_variant":[
+        "\u03a8\u03c5\u03c1\u03c1\u03ae"
+    ],
     "name:eng_x_preferred":[
         "Psiri"
     ],
@@ -46,11 +49,8 @@
     "name:fra_x_preferred":[
         "Psyr\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Psiri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a8\u03c5\u03c1\u03c1\u03ae"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30b7\u30ea"
@@ -130,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606693,
+    "wof:lastmodified":1561843967,
     "wof:name":"Psyri",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

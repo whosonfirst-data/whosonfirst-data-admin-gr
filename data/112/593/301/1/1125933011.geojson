@@ -25,11 +25,14 @@
     "name:cat_x_preferred":[
         "Torone"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Toroni"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03c1\u03ce\u03bd\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03bf\u03c1\u03ce\u03bd\u03b7 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Toroni"
@@ -37,20 +40,17 @@
     "name:fin_x_preferred":[
         "Tor\u00f3ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Toroni"
-    ],
-    "name:ger_x_preferred":[
-        "Toroni"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c1\u03ce\u03bd\u03b7 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:ita_x_preferred":[
         "Toroni"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ed\u30cb"
+    ],
+    "name:nld_x_preferred":[
+        "Toroni"
     ],
     "name:nno_x_preferred":[
         "Tor\u00f3ni"
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1125933011,
-    "wof:lastmodified":1514444063,
+    "wof:lastmodified":1561844012,
     "wof:name":"Toroni",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

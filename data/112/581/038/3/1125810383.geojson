@@ -22,17 +22,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0648\u0633\u060c \u0643\u064a\u0631\u0643\u064a\u0631\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u057e\u0578\u057d"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0432\u043e\u0441"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kavos"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03b2\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03b2\u03bf\u03c2 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kavos"
@@ -40,11 +40,11 @@
     "name:eng_x_variant":[
         "Cavos"
     ],
-    "name:ger_x_preferred":[
-        "Kavos"
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057e\u0578\u057d"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03b2\u03bf\u03c2 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
+    "name:nld_x_preferred":[
+        "Kavos"
     ],
     "name:swe_x_preferred":[
         "K\u00e1vos"
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125810383,
-    "wof:lastmodified":1553816549,
+    "wof:lastmodified":1561844028,
     "wof:name":"Kavos",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

@@ -22,11 +22,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u063a\u0627\u0644\u0627\u0633\u062a\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Argalasti"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03b3\u03b1\u03bb\u03b1\u03c3\u03c4\u03ae"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03b3\u03b1\u03bb\u03b1\u03c3\u03c4\u03ae \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Argalasti"
@@ -34,20 +37,17 @@
     "name:fin_x_preferred":[
         "Argalast\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Argalasti"
-    ],
-    "name:ger_x_preferred":[
-        "Argalasti"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03b3\u03b1\u03bb\u03b1\u03c3\u03c4\u03ae \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Argalasti"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30ac\u30e9\u30b9\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Argalasti"
     ],
     "name:nno_x_preferred":[
         "Argalast\u00ed"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125885991,
-    "wof:lastmodified":1514443923,
+    "wof:lastmodified":1561844029,
     "wof:name":"Argalast\u00ed",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

@@ -21,14 +21,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Goudi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Goudi"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03bf\u03c5\u03b4\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03bf\u03c5\u03b4\u03ae"
     ],
     "name:eng_x_preferred":[
         "Goudi"
@@ -36,14 +39,11 @@
     "name:fin_x_preferred":[
         "Goud\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Goud\u00ed"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Goudi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b4\u03ae"
     ],
     "name:nno_x_preferred":[
         "Goudi"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1108942327,
-    "wof:lastmodified":1538606681,
+    "wof:lastmodified":1561843983,
     "wof:name":"Goudi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

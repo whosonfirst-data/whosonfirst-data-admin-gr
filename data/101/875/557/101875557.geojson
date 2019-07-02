@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":2422811.898635,
+    "geom:area_square_m":2422811.898634,
     "geom:bbox":"21.6094334701,39.7092378492,21.6275966111,39.7274008787",
     "geom:latitude":39.718441,
     "geom:longitude":21.618433,
@@ -20,14 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u062a\u0631\u0627\u0643\u064a\u0648\u0646\u060c \u062a\u0631\u064a\u0643\u0627\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Kastraki"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9\u03bf\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9"
+        "\u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9",
+        "\u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kastraki"
@@ -35,8 +33,8 @@
     "name:fin_x_preferred":[
         "Kastr\u00e1ki"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd"
+    "name:nld_x_preferred":[
+        "Kastraki"
     ],
     "name:pol_x_preferred":[
         "Kastraki"
@@ -90,7 +88,7 @@
         }
     ],
     "wof:id":101875557,
-    "wof:lastmodified":1553815563,
+    "wof:lastmodified":1561843988,
     "wof:name":"\u039a\u0391\u03a3\u03a4\u03a1\u0391\u039a\u0399\u039f\u039d",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

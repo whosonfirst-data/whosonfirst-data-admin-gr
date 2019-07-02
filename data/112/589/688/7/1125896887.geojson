@@ -22,9 +22,6 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043c\u043e\u0441"
     ],
-    "name:dut_x_preferred":[
-        "Gramos"
-    ],
     "name:ell_x_historical":[
         "\u0393\u03c1\u03ac\u03bc\u03bc\u03bf\u03c3\u03c4\u03b1"
     ],
@@ -33,7 +30,8 @@
     ],
     "name:ell_x_variant":[
         "\u0393\u03c1\u03ac\u03bc\u03bc\u03bf\u03c2",
-        "\u0393\u03c1\u03ac\u03bc\u03bc\u03bf\u03c3\u03c4\u03b1"
+        "\u0393\u03c1\u03ac\u03bc\u03bc\u03bf\u03c3\u03c4\u03b1",
+        "\u0393\u03c1\u03ac\u03bc\u03bf\u03c2 \u039a\u03b1\u03c3\u03c4\u03bf\u03c1\u03b9\u03ac\u03c2"
     ],
     "name:eng_x_historical":[
         "Grammosta"
@@ -48,17 +46,11 @@
     "name:fin_x_preferred":[
         "Gr\u00e1mos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gramos"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03c1\u03ac\u03bc\u03bf\u03c2 \u039a\u03b1\u03c3\u03c4\u03bf\u03c1\u03b9\u03ac\u03c2"
     ],
     "name:ita_x_preferred":[
         "Gramos"
-    ],
-    "name:mac_x_preferred":[
-        "\u0413\u0440\u0430\u043c\u0443\u0448\u0442\u0430"
     ],
     "name:mkd_x_historical":[
         "\u0413\u0440\u0430\u043c\u043e\u0448\u0442\u0430"
@@ -67,7 +59,11 @@
         "\u0413\u0440\u0430\u043c\u043e\u0448\u0442\u0430"
     ],
     "name:mkd_x_variant":[
-        "\u0413\u0440\u0430\u043c\u043e\u0441"
+        "\u0413\u0440\u0430\u043c\u043e\u0441",
+        "\u0413\u0440\u0430\u043c\u0443\u0448\u0442\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Gramos"
     ],
     "name:nno_x_preferred":[
         "Gr\u00e1mos i Kastori\u00e1"
@@ -112,7 +108,7 @@
         }
     ],
     "wof:id":1125896887,
-    "wof:lastmodified":1514443958,
+    "wof:lastmodified":1561844030,
     "wof:name":"Gramos",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

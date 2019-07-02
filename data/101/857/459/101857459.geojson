@@ -23,24 +23,19 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0432\u0430\u043a\u043b\u0438\u0435\u0432\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Agios Athanasios"
-    ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b3\u03af\u03bf\u03c5 \u0391\u03b8\u03b1\u03bd\u03b1\u03c3\u03af\u03bf\u03c5"
     ],
     "name:ell_x_variant":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2",
-        "\u00c1gios Athan\u00e1sios"
+        "\u00c1gios Athan\u00e1sios",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Agios Athanasios"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Agios Athanasios"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
     ],
     "name:ita_x_preferred":[
         "Agios Athanasios"
@@ -48,11 +43,14 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30aa\u30b9\u30fb\u30a2\u30bf\u30ca\u30b7\u30aa\u30b9"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0432\u0430\u043a\u043b\u0438\u043e\u0432\u043e"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0432\u0430\u043a\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u0432\u0430\u043a\u043b\u0438\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Agios Athanasios"
     ],
     "name:nno_x_preferred":[
         "\u00c1jos Athan\u00e1sios"
@@ -113,7 +111,7 @@
         }
     ],
     "wof:id":101857459,
-    "wof:lastmodified":1553815550,
+    "wof:lastmodified":1561843994,
     "wof:name":"\u0391\u0393\u0399\u039f\u03a3 \u0391\u0398\u0391\u039d\u0391\u03a3\u0399\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

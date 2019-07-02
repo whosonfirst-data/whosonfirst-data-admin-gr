@@ -16,8 +16,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Thinali"
+    ],
+    "name:ell_x_preferred":[
+        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b9\u03bd\u03b1\u03bb\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Thinali"
@@ -25,20 +28,17 @@
     "name:fin_x_preferred":[
         "Thin\u00e1li"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thinali"
-    ],
-    "name:ger_x_preferred":[
-        "Thinali"
-    ],
-    "name:gre_x_preferred":[
-        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b9\u03bd\u03b1\u03bb\u03af\u03c9\u03bd"
     ],
     "name:ita_x_preferred":[
         "Thinali"
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30a3\u30ca\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Thinali"
     ],
     "name:nno_x_preferred":[
         "Thin\u00e1li"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125978751,
-    "wof:lastmodified":1514444062,
+    "wof:lastmodified":1561844036,
     "wof:name":"Thinalio",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

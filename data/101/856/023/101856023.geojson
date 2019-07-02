@@ -17,9 +17,6 @@
     "mps:longitude":21.426412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Grebena"
-    ],
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u0641\u064a\u0646\u0627"
     ],
@@ -29,13 +26,7 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0435\u0432\u0435\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u96f7\u97e6\u7eb3"
-    ],
     "name:deu_x_preferred":[
-        "Grevena"
-    ],
-    "name:dut_x_preferred":[
         "Grevena"
     ],
     "name:ell_x_preferred":[
@@ -50,14 +41,8 @@
     "name:fra_x_preferred":[
         "Gr\u00e9v\u00e9na"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Grevena"
-    ],
-    "name:ger_x_preferred":[
-        "Grevena"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ac"
     ],
     "name:hbs_x_preferred":[
         "Grevena"
@@ -80,9 +65,6 @@
     "name:lit_x_preferred":[
         "Grevena"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0440\u0435\u0431\u0435\u043d"
-    ],
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0435\u0431\u0435\u043d"
     ],
@@ -98,16 +80,10 @@
     "name:ron_x_preferred":[
         "Grevena"
     ],
-    "name:rum_x_preferred":[
-        "Grevena"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u0432\u0435\u043d\u0430"
     ],
     "name:slk_x_preferred":[
-        "Grevena"
-    ],
-    "name:slo_x_preferred":[
         "Grevena"
     ],
     "name:spa_x_preferred":[
@@ -115,6 +91,9 @@
     ],
     "name:sqi_x_preferred":[
         "Grebeneja"
+    ],
+    "name:sqi_x_variant":[
+        "Grebena"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0435\u0431\u0435\u043d"
@@ -187,7 +166,7 @@
         }
     ],
     "wof:id":101856023,
-    "wof:lastmodified":1544743193,
+    "wof:lastmodified":1561843995,
     "wof:name":"\u0393\u03a1\u0395\u0392\u0395\u039d\u0391",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

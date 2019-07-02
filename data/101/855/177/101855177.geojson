@@ -29,11 +29,11 @@
     "name:deu_x_preferred":[
         "Drusenk\u00f6pfe"
     ],
-    "name:dut_x_preferred":[
-        "Lofos"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03cc\u03c6\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03cc\u03c6\u03bf\u03c2 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Lofos"
@@ -47,9 +47,6 @@
     "name:fra_x_preferred":[
         "Conolophus"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03cc\u03c6\u03bf\u03c2 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2"
-    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e0\u05d5\u05dc\u05d5\u05e4\u05d5\u05e1"
     ],
@@ -58,6 +55,9 @@
     ],
     "name:nld_x_preferred":[
         "Galapagos landleguaan"
+    ],
+    "name:nld_x_variant":[
+        "Lofos"
     ],
     "name:nor_x_preferred":[
         "Kamiguaner"
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":101855177,
-    "wof:lastmodified":1544742867,
+    "wof:lastmodified":1561844008,
     "wof:name":"\u039b\u039f\u03a6\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

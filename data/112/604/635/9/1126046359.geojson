@@ -25,11 +25,14 @@
     "name:cat_x_preferred":[
         "Khers\u00f3nissos"
     ],
-    "name:dut_x_preferred":[
-        "Chersonissos"
+    "name:deu_x_preferred":[
+        "Limenas Chersonisou"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b5\u03c1\u03c3\u03cc\u03bd\u03b7\u03c3\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03a7\u03b5\u03c1\u03c3\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Hersonissos"
@@ -37,14 +40,8 @@
     "name:fin_x_preferred":[
         "Chers\u00f3nisos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chers\u00f3nissos"
-    ],
-    "name:ger_x_preferred":[
-        "Limenas Chersonisou"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03a7\u03b5\u03c1\u03c3\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05e8\u05e1\u05d5\u05e0\u05d9\u05e1\u05d5\u05e1"
@@ -57,6 +54,9 @@
     ],
     "name:lat_x_preferred":[
         "Portus Chersonesi"
+    ],
+    "name:nld_x_preferred":[
+        "Chersonissos"
     ],
     "name:nno_x_preferred":[
         "Khers\u00f3nisos"
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1126046359,
-    "wof:lastmodified":1514443979,
+    "wof:lastmodified":1561844021,
     "wof:name":"Khersonisos",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

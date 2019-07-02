@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Exarchos"
     ],
     "name:ell_x_preferred":[
         "\u0388\u03be\u03b1\u03c1\u03c7\u03bf\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0388\u03be\u03b1\u03c1\u03c7\u03bf\u03c2 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Exarchos"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Exarchos"
-    ],
-    "name:gre_x_preferred":[
-        "\u0388\u03be\u03b1\u03c1\u03c7\u03bf\u03c2 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:unk_x_variant":[
         "\u00c9xarkhos"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1126019275,
-    "wof:lastmodified":1514443951,
+    "wof:lastmodified":1561844042,
     "wof:name":"Exarkhos",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

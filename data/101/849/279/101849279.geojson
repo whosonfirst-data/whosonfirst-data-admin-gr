@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0631\u0627\u0643\u0648\u0645\u064a"
     ],
-    "name:dut_x_preferred":[
-        "Makrakomi"
-    ],
     "name:ell_x_historical":[
         "\u0392\u03b1\u03c1\u03c5\u03bc\u03c0\u03cc\u03c0\u03b7"
     ],
@@ -30,7 +27,8 @@
         "\u039c\u03b1\u03ba\u03c1\u03b1\u03ba\u03ce\u03bc\u03b7"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03b1\u03c1\u03c5\u03bc\u03c0\u03cc\u03c0\u03b7"
+        "\u0392\u03b1\u03c1\u03c5\u03bc\u03c0\u03cc\u03c0\u03b7",
+        "\u039c\u03b1\u03ba\u03c1\u03b1\u03ba\u03ce\u03bc\u03b7 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Makrakomi"
@@ -40,12 +38,6 @@
     ],
     "name:fra_x_preferred":[
         "Makrakomi"
-    ],
-    "name:fre_x_preferred":[
-        "Makrakomi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03ba\u03c1\u03b1\u03ba\u03ce\u03bc\u03b7 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Makrakomi"
@@ -120,7 +112,7 @@
         }
     ],
     "wof:id":101849279,
-    "wof:lastmodified":1544740872,
+    "wof:lastmodified":1561844003,
     "wof:name":"\u039c\u0391\u039a\u03a1\u0391\u039a\u03a9\u039c\u0397",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

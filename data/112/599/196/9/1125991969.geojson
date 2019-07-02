@@ -21,14 +21,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u062f\u0631\u0648\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u5179\u7f57\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Mudros"
+    "name:deu_x_preferred":[
+        "Moudros"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03cd\u03b4\u03c1\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03cd\u03b4\u03c1\u03bf\u03c2 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Moudros"
@@ -36,20 +36,17 @@
     "name:fin_x_preferred":[
         "Mo\u00fadros"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moudros"
-    ],
-    "name:ger_x_preferred":[
-        "Moudros"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03cd\u03b4\u03c1\u03bf\u03c2 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
         "Moudros"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30c9\u30ed\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Mudros"
     ],
     "name:nno_x_preferred":[
         "Mo\u00fadros"
@@ -74,6 +71,9 @@
     ],
     "name:unk_x_variant":[
         "Mudros"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5179\u7f57\u65af"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1125991969,
-    "wof:lastmodified":1538594920,
+    "wof:lastmodified":1561844034,
     "wof:name":"Moudhros",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

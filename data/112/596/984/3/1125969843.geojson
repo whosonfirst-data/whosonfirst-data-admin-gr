@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Karlovasi"
     ],
-    "name:dut_x_preferred":[
-        "Karlovasi"
-    ],
     "name:ell_x_colloquial":[
         "\u039a\u03b1\u03c1\u03bb\u03cc\u03b2\u03b1\u03c3\u03b9"
     ],
@@ -35,7 +32,8 @@
         "\u039d\u03ad\u03bf\u03bd \u039a\u03b1\u03c1\u03bb\u03bf\u03b2\u03ac\u03c3\u03b9\u03bf\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03c1\u03bb\u03cc\u03b2\u03b1\u03c3\u03b9"
+        "\u039a\u03b1\u03c1\u03bb\u03cc\u03b2\u03b1\u03c3\u03b9",
+        "\u039a\u03b1\u03c1\u03bb\u03cc\u03b2\u03b1\u03c3\u03b9 \u03a3\u03ac\u03bc\u03bf\u03c5"
     ],
     "name:eng_x_historical":[
         "Karlovassi"
@@ -49,20 +47,17 @@
     "name:fin_x_preferred":[
         "Karl\u00f3vasi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Karlovasi"
-    ],
-    "name:ger_x_preferred":[
-        "Karlovasi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03bb\u03cc\u03b2\u03b1\u03c3\u03b9 \u03a3\u03ac\u03bc\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
         "Karlovasi"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30ed\u30f4\u30a1\u30b7"
+    ],
+    "name:nld_x_preferred":[
+        "Karlovasi"
     ],
     "name:nno_x_preferred":[
         "Karl\u00f3vasi"
@@ -128,7 +123,7 @@
         }
     ],
     "wof:id":1125969843,
-    "wof:lastmodified":1538594942,
+    "wof:lastmodified":1561844038,
     "wof:name":"Neon Karlovasion",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

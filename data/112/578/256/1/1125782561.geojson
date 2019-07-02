@@ -19,32 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Samarina"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u0627\u0631\u064a\u0646\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0574\u0561\u0580\u056b\u0576\u0561"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u0438\u043d\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Samarina"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bc\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bc\u03b1\u03c1\u03af\u03bd\u03b1 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
     ],
     "name:eng_x_preferred":[
         "Samarina"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bc\u03b1\u03c1\u03af\u03bd\u03b1 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
-    ],
     "name:hrv_x_preferred":[
         "Samarina"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0574\u0561\u0580\u056b\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "Samarina"
@@ -52,8 +46,11 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30de\u30ea\u30ca"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Samarina"
     ],
     "name:nno_x_preferred":[
         "Samar\u00edna"
@@ -61,7 +58,7 @@
     "name:pol_x_preferred":[
         "Samarina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Samarina"
     ],
     "name:rup_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Samarina"
     ],
     "name:swe_x_preferred":[
         "Samar\u00edna"
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125782561,
-    "wof:lastmodified":1553816530,
+    "wof:lastmodified":1561844052,
     "wof:name":"Samar\u00edna",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

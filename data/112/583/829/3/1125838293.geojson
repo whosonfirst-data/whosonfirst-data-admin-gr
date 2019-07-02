@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Polythea"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03bb\u03c5\u03b8\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03c5\u03b8\u03ad\u03b1 \u0391\u03c3\u03c0\u03c1\u03bf\u03c0\u03bf\u03c4\u03ac\u03bc\u03bf\u03c5 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Polythea"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bb\u03c5\u03b8\u03ad\u03b1 \u0391\u03c3\u03c0\u03c1\u03bf\u03c0\u03bf\u03c4\u03ac\u03bc\u03bf\u03c5 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd"
-    ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u0432\u0438\u0448\u0442\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Polythea"
     ],
     "name:swe_x_preferred":[
         "Polyth\u00e9a"
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1125838293,
-    "wof:lastmodified":1514444042,
+    "wof:lastmodified":1561844058,
     "wof:name":"Polyth\u00e9a",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

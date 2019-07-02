@@ -19,11 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Olympos"
     ],
-    "name:dut_x_preferred":[
-        "Olympos"
+    "name:deu_x_preferred":[
+        "Olymbos"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bb\u03c5\u03bc\u03c0\u03bf\u03c2 \u039a\u03b1\u03c1\u03c0\u03ac\u03b8\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Olympos"
@@ -31,14 +34,8 @@
     "name:fin_x_preferred":[
         "\u00d3lympos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Olympos"
-    ],
-    "name:ger_x_preferred":[
-        "Olymbos"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03bb\u03c5\u03bc\u03c0\u03bf\u03c2 \u039a\u03b1\u03c1\u03c0\u03ac\u03b8\u03bf\u03c5"
     ],
     "name:ita_x_preferred":[
         "Olimpo"
@@ -48,6 +45,9 @@
     ],
     "name:lat_x_preferred":[
         "Olympus"
+    ],
+    "name:nld_x_preferred":[
+        "Olympos"
     ],
     "name:nno_x_preferred":[
         "\u00d3lymbos Karp\u00e1thou"
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1125834355,
-    "wof:lastmodified":1553816560,
+    "wof:lastmodified":1561844060,
     "wof:name":"Elymbos",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

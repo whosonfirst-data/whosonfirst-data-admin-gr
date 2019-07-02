@@ -22,11 +22,14 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u062a\u0633\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zitsa"
     ],
     "name:ell_x_preferred":[
         "\u0396\u03af\u03c4\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03af\u03c4\u03c3\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Zitsa"
@@ -34,14 +37,8 @@
     "name:fin_x_preferred":[
         "Z\u00edtsa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zitsa"
-    ],
-    "name:ger_x_preferred":[
-        "Zitsa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03af\u03c4\u03c3\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd"
     ],
     "name:ita_x_preferred":[
         "Zitsa"
@@ -49,8 +46,11 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30c4\u30a1"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Zitsa"
     ],
     "name:nno_x_preferred":[
         "Z\u00edtsa"
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1126039587,
-    "wof:lastmodified":1514444079,
+    "wof:lastmodified":1561844024,
     "wof:name":"Zitsa",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

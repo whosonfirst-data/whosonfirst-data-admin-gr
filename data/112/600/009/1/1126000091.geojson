@@ -28,35 +28,29 @@
     "name:cat_x_preferred":[
         "Pirgos"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5c14\u6208\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pyrgos"
     ],
     "name:deu_x_preferred":[
         "Pyrgos"
     ],
-    "name:dut_x_preferred":[
-        "Pyrgos"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u0397\u03bb\u03b5\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Pyrgos"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06af\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "P\u00fdrgos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pyrgos"
-    ],
-    "name:ger_x_preferred":[
-        "Pyrgos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u0397\u03bb\u03b5\u03af\u03b1\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e8\u05d7\u05d5\u05e1"
@@ -79,11 +73,11 @@
     "name:lit_x_preferred":[
         "Pirgas"
     ],
+    "name:nld_x_preferred":[
+        "Pyrgos"
+    ],
     "name:nno_x_preferred":[
         "P\u00fdrgos"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0631\u06af\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Pirgos"
@@ -91,13 +85,13 @@
     "name:por_x_preferred":[
         "Pyrgos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pyrgos"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0440\u0433\u043e\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pyrgos"
     ],
     "name:spa_x_preferred":[
@@ -120,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Pyrgos"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u5c14\u6208\u65af"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -172,7 +169,7 @@
         }
     ],
     "wof:id":1126000091,
-    "wof:lastmodified":1514444039,
+    "wof:lastmodified":1561844043,
     "wof:name":"Pirgos",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

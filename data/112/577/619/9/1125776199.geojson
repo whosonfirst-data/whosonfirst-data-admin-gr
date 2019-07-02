@@ -22,17 +22,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0643\u0627\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u056f\u0561\u056c\u056b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ekali"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ekali"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03ba\u03ac\u03bb\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03ba\u03ac\u03bb\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ekali"
@@ -40,14 +40,11 @@
     "name:fin_x_preferred":[
         "Ek\u00e1li"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ekali"
     ],
-    "name:ger_x_preferred":[
-        "Ekali"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03ba\u03ac\u03bb\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    "name:hye_x_preferred":[
+        "\u0537\u056f\u0561\u056c\u056b"
     ],
     "name:ita_x_preferred":[
         "Ekali"
@@ -58,19 +55,22 @@
     "name:lat_x_preferred":[
         "Hecale"
     ],
+    "name:nld_x_preferred":[
+        "Ekali"
+    ],
     "name:nno_x_preferred":[
         "Ek\u00e1li"
     ],
     "name:pol_x_preferred":[
         "Ekali"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ekali"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043a\u0430\u043b\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ekali"
     ],
     "name:unk_x_variant":[
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1125776199,
-    "wof:lastmodified":1514443943,
+    "wof:lastmodified":1561844056,
     "wof:name":"Ekali",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

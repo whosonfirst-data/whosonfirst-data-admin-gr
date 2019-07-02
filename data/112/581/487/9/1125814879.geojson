@@ -25,11 +25,14 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0435\u043e \u0424\u0430\u043b\u0438\u0440\u043e"
     ],
+    "name:cym_x_preferred":[
+        "Palaio Faliro"
+    ],
     "name:deu_x_preferred":[
         "Alt Phaleron"
     ],
-    "name:dut_x_preferred":[
-        "Phalerum"
+    "name:deu_x_variant":[
+        "Paleo Faliro"
     ],
     "name:ell_x_colloquial":[
         "\u03a0\u03b1\u03bb\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf"
@@ -49,17 +52,14 @@
     "name:eng_x_variant":[
         "Palaio Faliro"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0626\u0648 \u0641\u0627\u0644\u06cc\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Palai\u00f3 F\u00e1liro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pale\u00f3 F\u00e1liro"
-    ],
-    "name:ger_x_preferred":[
-        "Paleo Faliro"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u03a6\u03ac\u03bb\u03b7\u03c1\u03bf"
     ],
     "name:hun_x_preferred":[
         "Wikip\u00e9dia:Feljav\u00edt\u00e1sra v\u00e1r\u00f3 cikkjel\u00f6ltek/Pale\u00f3 F\u00e1liro"
@@ -76,16 +76,16 @@
     "name:lit_x_preferred":[
         "Senasis Faliras"
     ],
+    "name:nld_x_preferred":[
+        "Phalerum"
+    ],
     "name:nno_x_preferred":[
         "Pale\u00f3 F\u00e1liro"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0644\u0626\u0648 \u0641\u0627\u0644\u06cc\u0631\u0648"
     ],
     "name:pol_x_preferred":[
         "Paleo Faliro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Palaion Faliron"
     ],
     "name:rus_x_preferred":[
@@ -108,9 +108,6 @@
     ],
     "name:vie_x_preferred":[
         "Paleo Faliro"
-    ],
-    "name:wel_x_preferred":[
-        "Palaio Faliro"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -163,7 +160,7 @@
         }
     ],
     "wof:id":1125814879,
-    "wof:lastmodified":1514444027,
+    "wof:lastmodified":1561844028,
     "wof:name":"Palaio Faliro",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

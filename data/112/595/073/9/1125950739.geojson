@@ -25,11 +25,11 @@
     "name:cat_x_preferred":[
         "Vrisses"
     ],
-    "name:dut_x_preferred":[
-        "Vryses"
-    ],
     "name:ell_x_preferred":[
         "\u0392\u03c1\u03cd\u03c3\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03cd\u03c3\u03b5\u03c2 \u0391\u03c0\u03bf\u03ba\u03bf\u03c1\u03ce\u03bd\u03bf\u03c5 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Vryses"
@@ -37,11 +37,11 @@
     "name:fin_x_preferred":[
         "Vr\u00fdses"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vryses"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03c1\u03cd\u03c3\u03b5\u03c2 \u0391\u03c0\u03bf\u03ba\u03bf\u03c1\u03ce\u03bd\u03bf\u03c5 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    "name:nld_x_preferred":[
+        "Vryses"
     ],
     "name:nno_x_preferred":[
         "Vr\u00fdses"
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125950739,
-    "wof:lastmodified":1514444075,
+    "wof:lastmodified":1561844016,
     "wof:name":"Vrises",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

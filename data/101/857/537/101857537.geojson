@@ -26,11 +26,11 @@
     "name:deu_x_preferred":[
         "Chalastra"
     ],
-    "name:dut_x_preferred":[
-        "Chalastra"
-    ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03bb\u03ac\u03c3\u03c4\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bb\u03ac\u03c3\u03c4\u03c1\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Chalastra"
@@ -38,14 +38,8 @@
     "name:fin_x_preferred":[
         "Chal\u00e1stra"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chalastra"
-    ],
-    "name:ger_x_preferred":[
-        "Chalastra"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bb\u03ac\u03c3\u03c4\u03c1\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
     ],
     "name:ita_x_preferred":[
         "Chalastra"
@@ -53,11 +47,11 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30e9\u30b9\u30c8\u30e9"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u043b\u0430\u045c\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0443\u043b\u0430\u045c\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Chalastra"
     ],
     "name:nno_x_preferred":[
         "Khal\u00e1stra"
@@ -119,7 +113,7 @@
         }
     ],
     "wof:id":101857537,
-    "wof:lastmodified":1544743947,
+    "wof:lastmodified":1561843993,
     "wof:name":"\u03a7\u0391\u039b\u0391\u03a3\u03a4\u03a1\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

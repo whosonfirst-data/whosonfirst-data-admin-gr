@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Loutraki"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u5854\u5176"
-    ],
-    "name:cze_x_preferred":[
-        "Loutraki"
-    ],
     "name:deu_x_preferred":[
-        "Loutraki"
-    ],
-    "name:dut_x_preferred":[
         "Loutraki"
     ],
     "name:ell_x_preferred":[
@@ -43,7 +34,8 @@
         "\u039b\u039f\u03a5\u03a4\u03a1\u0391\u039a\u0399",
         "Loutr\u00e1kion",
         "Lutraki",
-        "Loutr\u00e1ki"
+        "Loutr\u00e1ki",
+        "\u039b\u03bf\u03c5\u03c4\u03c1\u03ac\u03ba\u03b9 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Loutraki"
@@ -54,14 +46,8 @@
     "name:fra_x_preferred":[
         "Loutr\u00e1ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Loutraki"
-    ],
-    "name:ger_x_preferred":[
-        "Loutraki"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03c4\u03c1\u03ac\u03ba\u03b9 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d8\u05e8\u05e7\u05d9"
@@ -74,6 +60,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30c8\u30e9\u30ad"
+    ],
+    "name:nld_x_preferred":[
+        "Loutraki"
     ],
     "name:nno_x_preferred":[
         "Loutr\u00e1ki"
@@ -90,9 +79,6 @@
     "name:ron_x_preferred":[
         "Loutraki"
     ],
-    "name:rum_x_preferred":[
-        "Loutraki"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u0442\u0440\u0430\u043a\u0438\u043e\u043d"
     ],
@@ -107,6 +93,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0624\u062a\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u5854\u5176"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
@@ -155,7 +144,7 @@
         }
     ],
     "wof:id":101849507,
-    "wof:lastmodified":1544740983,
+    "wof:lastmodified":1561844003,
     "wof:name":"\u039b\u039f\u03a5\u03a4\u03a1\u0391\u039a\u0399\u039f\u039d",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

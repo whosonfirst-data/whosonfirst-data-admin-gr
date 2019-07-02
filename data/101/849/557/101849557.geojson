@@ -20,35 +20,33 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u062a\u0648\u0644\u064a\u0643\u0648"
     ],
+    "name:cym_x_preferred":[
+        "Aitoliko"
+    ],
     "name:deu_x_preferred":[
         "Etoliko"
-    ],
-    "name:dut_x_preferred":[
-        "Aitoliko"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc"
     ],
     "name:ell_x_variant":[
-        "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc\u03bd"
+        "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc\u03bd",
+        "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Aitoliko"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aitoliko"
-    ],
-    "name:ger_x_preferred":[
-        "Etoliko"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b9\u03c4\u03c9\u03bb\u03b9\u03ba\u03cc \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:ita_x_preferred":[
         "Aitoliko"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30c8\u30ea\u30b3"
+    ],
+    "name:nld_x_preferred":[
+        "Aitoliko"
     ],
     "name:nno_x_preferred":[
         "Etolik\u00f3"
@@ -59,17 +57,11 @@
     "name:ron_x_preferred":[
         "Aitoliko"
     ],
-    "name:rum_x_preferred":[
-        "Aitoliko"
-    ],
     "name:swe_x_preferred":[
         "Aitolik\u00f3"
     ],
     "name:unk_x_variant":[
         "Etolikon"
-    ],
-    "name:wel_x_preferred":[
-        "Aitoliko"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
@@ -120,7 +112,7 @@
         }
     ],
     "wof:id":101849557,
-    "wof:lastmodified":1544741006,
+    "wof:lastmodified":1561844000,
     "wof:name":"\u0391\u0399\u03a4\u03a9\u039b\u0399\u039a\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

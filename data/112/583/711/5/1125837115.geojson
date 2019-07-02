@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u064a\u0646\u062b\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Olinto"
-    ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u0438\u043d\u0442"
     ],
@@ -34,14 +31,8 @@
     "name:ces_x_preferred":[
         "Olynthos"
     ],
-    "name:cze_x_preferred":[
-        "Olynthos"
-    ],
     "name:deu_x_preferred":[
         "Olynth"
-    ],
-    "name:dut_x_preferred":[
-        "Olynthos"
     ],
     "name:ell_x_historical":[
         "\u039c\u03b1\u03c1\u03b9\u03b1\u03bd\u03ac",
@@ -52,7 +43,8 @@
     ],
     "name:ell_x_variant":[
         "\u039c\u03b1\u03c1\u03b9\u03b1\u03bd\u03ac",
-        "\u039d\u03ad\u03b1 \u038c\u03bb\u03c5\u03bd\u03b8\u03bf\u03c2"
+        "\u039d\u03ad\u03b1 \u038c\u03bb\u03c5\u03bd\u03b8\u03bf\u03c2",
+        "\u038c\u03bb\u03c5\u03bd\u03b8\u03bf\u03c2 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_historical":[
         "Mariana",
@@ -69,17 +61,11 @@
     "name:epo_x_preferred":[
         "Olinto"
     ],
+    "name:eus_x_preferred":[
+        "Olinto"
+    ],
     "name:fra_x_preferred":[
         "Olynthe"
-    ],
-    "name:fre_x_preferred":[
-        "Olynthe"
-    ],
-    "name:ger_x_preferred":[
-        "Olynth"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03bb\u03c5\u03bd\u03b8\u03bf\u03c2 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Olint"
@@ -112,9 +98,6 @@
         "Olinto"
     ],
     "name:ron_x_preferred":[
-        "Olint"
-    ],
-    "name:rum_x_preferred":[
         "Olint"
     ],
     "name:rus_x_preferred":[
@@ -169,7 +152,7 @@
         }
     ],
     "wof:id":1125837115,
-    "wof:lastmodified":1514444022,
+    "wof:lastmodified":1561844060,
     "wof:name":"N\u00e9a \u00d3linthos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",
