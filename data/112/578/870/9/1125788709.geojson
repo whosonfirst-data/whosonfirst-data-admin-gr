@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0643\u064a\u060c \u0647\u0627\u0644\u0643\u064a\u062f\u064a\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0643\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u043a\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Syki\u00e1"
     ],
     "name:deu_x_preferred":[
         "Sykia"
@@ -42,14 +48,26 @@
     "name:mkd_x_preferred":[
         "\u0428\u0438\u043a\u0458\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u0428\u0438\u045c\u0430"
+    ],
     "name:nld_x_preferred":[
         "Sykia"
     ],
     "name:nno_x_preferred":[
         "Syki\u00e1"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0435\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Sykia"
+    ],
     "name:swe_x_preferred":[
         "Syki\u00e1"
+    ],
+    "name:swe_x_variant":[
+        "Aleomandra"
     ],
     "name:unk_x_variant":[
         "Sik\u00e9a"
@@ -91,7 +109,7 @@
         }
     ],
     "wof:id":1125788709,
-    "wof:lastmodified":1561844053,
+    "wof:lastmodified":1563279067,
     "wof:name":"Siki\u00e1",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

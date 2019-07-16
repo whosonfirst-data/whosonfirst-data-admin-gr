@@ -20,8 +20,14 @@
     "name:bul_x_preferred":[
         "\u0421\u044f\u0440"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u044a\u0441\u043f\u0438\u043a\u0435\u0441\u0438"
+    ],
     "name:cat_x_preferred":[
         "Serres"
+    ],
+    "name:ceb_x_preferred":[
+        "Sko\u00fatari"
     ],
     "name:chu_x_preferred":[
         "\u0421\u0463\u0440\u044a"
@@ -42,13 +48,17 @@
         "\u03a3\u03ad\u03c1\u03c1\u03b1\u03b9",
         "S\u00e9rrai",
         "\u03a3\u03ad\u03c1\u03c1\u03b1",
-        "S\u00e9rres"
+        "S\u00e9rres",
+        "\u03a3\u03ba\u03bf\u03cd\u03c4\u03b1\u03c1\u03b9 \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
     ],
     "name:eng_x_preferred":[
         "Skoutari"
     ],
     "name:eng_x_variant":[
         "Serres"
+    ],
+    "name:fin_x_preferred":[
+        "Sko\u00fatari"
     ],
     "name:fra_x_preferred":[
         "Serr\u00e8s"
@@ -77,6 +87,9 @@
     "name:mkd_x_variant":[
         "\u0421\u0435\u0440"
     ],
+    "name:nld_x_preferred":[
+        "Skoutari"
+    ],
     "name:nno_x_preferred":[
         "Skout\u00e1ri i S\u00e9rres"
     ],
@@ -91,6 +104,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0440\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043a\u0443\u0442\u0430\u0440\u0438"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0440"
@@ -163,7 +179,7 @@
         }
     ],
     "wof:id":101857735,
-    "wof:lastmodified":1544744051,
+    "wof:lastmodified":1563277927,
     "wof:name":"\u03a3\u039a\u039f\u03a5\u03a4\u0391\u03a1\u0399",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

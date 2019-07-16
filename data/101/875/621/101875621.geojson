@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000929,
-    "geom:area_square_m":9164616.855752,
+    "geom:area_square_m":9164616.855754,
     "geom:bbox":"22.4176343672,37.0561061113,22.4509896496,37.0924842719",
     "geom:latitude":37.073869,
     "geom:longitude":22.43449,
@@ -36,9 +36,6 @@
     "name:bel_x_preferred":[
         "\u0421\u043f\u0430\u0440\u0442\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u043f\u0430\u0440\u0442\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09aa\u09be\u09b0\u09cd\u099f\u09be"
     ],
@@ -53,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Esparta"
+    ],
+    "name:ceb_x_preferred":[
+        "Sp\u00e1rti"
     ],
     "name:ces_x_preferred":[
         "Sparta"
@@ -121,6 +121,12 @@
     "name:glg_x_preferred":[
         "Esparta"
     ],
+    "name:gsw_x_preferred":[
+        "Sparta"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0aaa\u0abe\u0ab0\u0acd\u0a9f\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Sparta"
     ],
@@ -178,6 +184,9 @@
     "name:lat_x_preferred":[
         "Lacedaemon"
     ],
+    "name:lat_x_variant":[
+        "Sparta"
+    ],
     "name:lav_x_preferred":[
         "Sparta"
     ],
@@ -187,6 +196,12 @@
     "name:ltz_x_preferred":[
         "Sparta"
     ],
+    "name:lzh_x_preferred":[
+        "\u53e4\u65af\u5df4\u9054"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u092a\u093e\u0930\u094d\u091f\u093e"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u043f\u0430\u0440\u0442\u0430"
     ],
@@ -195,6 +210,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1005\u1015\u102b\u1010\u102c"
+    ],
+    "name:nan_x_preferred":[
+        "Sparta"
     ],
     "name:nds_x_preferred":[
         "Sparta"
@@ -208,6 +226,9 @@
     "name:nno_x_preferred":[
         "Sp\u00e1rti"
     ],
+    "name:nob_x_preferred":[
+        "Sparta"
+    ],
     "name:nor_x_preferred":[
         "Sparta"
     ],
@@ -219,6 +240,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0633\u067e\u0627\u0631\u0679\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sparta"
     ],
     "name:por_x_preferred":[
         "Esparta"
@@ -238,11 +262,20 @@
     "name:sco_x_preferred":[
         "Sparta"
     ],
+    "name:sgs_x_preferred":[
+        "Sparta"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0db4\u0dcf\u0dbb\u0dca\u0da7\u0dcf"
+    ],
     "name:slk_x_preferred":[
         "Sparta"
     ],
     "name:slv_x_preferred":[
         "Anti\u010dna \u0160parta"
+    ],
+    "name:slv_x_variant":[
+        "\u0160parta"
     ],
     "name:spa_x_preferred":[
         "Esparta"
@@ -264,6 +297,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b8e\u0b9a\u0bc1\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c3e"
     ],
     "name:tgl_x_preferred":[
         "Isparta"
@@ -294,6 +330,12 @@
     ],
     "name:war_x_preferred":[
         "Sparta"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u5df4\u8fbe"
+    ],
+    "name:yue_x_preferred":[
+        "\u53e4\u65af\u5df4\u9054"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sparta"
@@ -443,7 +485,7 @@
         }
     ],
     "wof:id":101875621,
-    "wof:lastmodified":1507750762,
+    "wof:lastmodified":1563277859,
     "wof:name":"\u03a3\u03a0\u0391\u03a1\u03a4\u0397",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

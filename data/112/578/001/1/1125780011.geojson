@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u062a\u0631\u0627\u0643\u064a\u0648\u0646\u060c \u0628\u064a\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0648\u062a\u0631\u0627\u0643\u064a\u0648\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0436\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Loutr\u00e1ki"
     ],
     "name:ell_x_colloquial":[
         "\u03a0\u03cc\u03b6\u03b1\u03c1",
@@ -49,6 +55,9 @@
     "name:eng_x_preferred":[
         "Loutraki"
     ],
+    "name:eng_x_variant":[
+        "Loutraki Pellas"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0436\u0430\u0440\u0441\u043a\u043e"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:pol_x_preferred":[
         "Lutraki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0442\u0440\u0430\u043a\u0438\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Loutr\u00e1ki"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1125780011,
-    "wof:lastmodified":1561844052,
+    "wof:lastmodified":1563279062,
     "wof:name":"K\u00e1to Loutr\u00e1kion",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

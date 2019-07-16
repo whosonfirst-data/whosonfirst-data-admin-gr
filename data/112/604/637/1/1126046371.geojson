@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0643\u064a\u0643\u0648\u0646\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0644\u0643\u064a\u0643\u0648\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0435\u0432\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Kolchik\u00f3n"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bb\u03c7\u03b9\u03ba\u03cc"
@@ -33,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Kolchik\u00f3"
+    ],
+    "name:eng_x_variant":[
+        "Kolchiko"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043b\u0435\u0432\u0435\u0446"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1126046371,
-    "wof:lastmodified":1561844022,
+    "wof:lastmodified":1563278472,
     "wof:name":"Kolchik\u00f3n",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

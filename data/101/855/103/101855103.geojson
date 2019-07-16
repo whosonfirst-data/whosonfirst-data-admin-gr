@@ -21,10 +21,14 @@
         "\u0410\u043d\u0442\u0435\u043c\u0443\u043d\u0442"
     ],
     "name:bul_x_variant":[
-        "\u0413\u0430\u043b\u0430\u0442\u0438\u0449\u0430"
+        "\u0413\u0430\u043b\u0430\u0442\u0438\u0449\u0430",
+        "\u0410\u043d\u0442\u0435\u043c\u0443\u0441"
     ],
     "name:cat_x_preferred":[
         "Antemos"
+    ],
+    "name:ceb_x_preferred":[
+        "Gal\u00e1tista"
     ],
     "name:deu_x_preferred":[
         "Galatista"
@@ -38,14 +42,29 @@
     "name:eng_x_preferred":[
         "Galatista"
     ],
+    "name:eng_x_variant":[
+        "Anthemous"
+    ],
+    "name:fra_x_preferred":[
+        "Anthemous"
+    ],
+    "name:hun_x_preferred":[
+        "Anthemousz"
+    ],
     "name:ita_x_preferred":[
         "Anthemous"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0430\u043b\u0430\u0447\u0438\u0448\u0442\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Anthemous"
+    ],
     "name:nno_x_preferred":[
         "Gal\u00e1tista"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0435\u043c\u0443\u043d\u0442"
     ],
     "name:spa_x_preferred":[
         "Antemunte"
@@ -101,7 +120,7 @@
         }
     ],
     "wof:id":101855103,
-    "wof:lastmodified":1544742829,
+    "wof:lastmodified":1563278130,
     "wof:name":"\u0393\u0391\u039b\u0391\u03a4\u0399\u03a3\u03a4\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

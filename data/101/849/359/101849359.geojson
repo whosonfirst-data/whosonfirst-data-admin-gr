@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "Al\u00edartos"
     ],
+    "name:ceb_x_preferred":[
+        "Al\u00edartos"
+    ],
+    "name:deu_x_preferred":[
+        "Aliartos"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03af\u03b1\u03c1\u03c4\u03bf\u03c2"
     ],
@@ -38,8 +44,14 @@
     "name:fra_x_preferred":[
         "Ali\u00e1rtos"
     ],
+    "name:fra_x_variant":[
+        "Al\u00edartos"
+    ],
     "name:ita_x_preferred":[
         "Aliartos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30ea\u30a2\u30eb\u30c8\u30b9"
     ],
     "name:lat_x_preferred":[
         "Haliartus"
@@ -53,8 +65,20 @@
     "name:pol_x_preferred":[
         "Aliartos"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438\u0430\u0440\u0442\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Al\u00edartos"
+    ],
     "name:swe_x_preferred":[
         "Haliartos"
+    ],
+    "name:tur_x_preferred":[
+        "Alyartos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u0456\u0430\u0440\u0442"
     ],
     "name:unk_x_variant":[
         "Mo\u00falkion"
@@ -109,7 +133,7 @@
         }
     ],
     "wof:id":101849359,
-    "wof:lastmodified":1544740912,
+    "wof:lastmodified":1563278084,
     "wof:name":"\u0391\u039b\u0399\u0391\u03a1\u03a4\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

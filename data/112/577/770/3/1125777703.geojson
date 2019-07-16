@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0644\u064a\u0627\u060c \u0628\u064a\u0631\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u0627\u0644\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043b\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Paral\u00eda"
     ],
     "name:deu_x_preferred":[
         "Paralia"
@@ -37,6 +43,12 @@
     ],
     "name:eng_x_preferred":[
         "Paralia Katerinis"
+    ],
+    "name:eng_x_variant":[
+        "Paralia"
+    ],
+    "name:fin_x_preferred":[
+        "Paral\u00eda"
     ],
     "name:fra_x_preferred":[
         "Paralia"
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1125777703,
-    "wof:lastmodified":1561844057,
+    "wof:lastmodified":1563279146,
     "wof:name":"Paralia",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

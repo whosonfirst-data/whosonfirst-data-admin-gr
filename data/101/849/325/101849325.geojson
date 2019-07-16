@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Karpenisi"
     ],
+    "name:ceb_x_preferred":[
+        "Karpen\u00edsi"
+    ],
     "name:deu_x_preferred":[
         "Karpenisi"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Karpenisi"
+    ],
+    "name:fra_x_variant":[
+        "Karpen\u00edsi"
     ],
     "name:glg_x_preferred":[
         "Karpenisi"
@@ -92,11 +98,20 @@
     "name:spa_x_preferred":[
         "Karpenisi"
     ],
+    "name:spa_x_variant":[
+        "Karpenisio"
+    ],
+    "name:sqi_x_preferred":[
+        "Karpeneshi"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u043f\u0435\u043d\u0438\u0441\u0438"
     ],
     "name:swe_x_preferred":[
         "Karpen\u00edsi"
+    ],
+    "name:tur_x_preferred":[
+        "Karpenisi"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043f\u0435\u043d\u0456\u0441\u0456\u043e\u043d"
@@ -162,7 +177,7 @@
         }
     ],
     "wof:id":101849325,
-    "wof:lastmodified":1561844003,
+    "wof:lastmodified":1563278081,
     "wof:name":"\u039a\u0391\u03a1\u03a0\u0395\u039d\u0397\u03a3\u0399\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

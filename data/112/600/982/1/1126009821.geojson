@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0643\u064a\u0645\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Lefk\u00edmmi"
+    ],
     "name:deu_x_preferred":[
         "Lefkimmi"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b5\u03c5\u03ba\u03af\u03bc\u03bc\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03c5\u03ba\u03af\u03bc\u03bc\u03b7 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Lefkimmi"
@@ -60,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "\u00c1gioi The\u00f3doroi"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u592b\u57fa\u7c73"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1126009821,
-    "wof:lastmodified":1561844043,
+    "wof:lastmodified":1563278900,
     "wof:name":"Lefkimmi",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

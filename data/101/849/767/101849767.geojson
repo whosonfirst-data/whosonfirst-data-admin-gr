@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u064a\u0648\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Oreo\u00ed"
+    ],
     "name:ell_x_preferred":[
         "\u03a9\u03c1\u03b5\u03bf\u03af"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Oreoi"
+    ],
+    "name:fin_x_preferred":[
+        "Oreo\u00ed"
     ],
     "name:fra_x_preferred":[
         "Oraioi"
@@ -50,8 +56,14 @@
     "name:por_x_preferred":[
         "Oreu"
     ],
+    "name:por_x_variant":[
+        "Oreoi"
+    ],
     "name:swe_x_preferred":[
         "Oreo\u00ed"
+    ],
+    "name:swe_x_variant":[
+        "Mitr\u00f3poli"
     ],
     "name:tur_x_preferred":[
         "Oreoi"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101849767,
-    "wof:lastmodified":1561844003,
+    "wof:lastmodified":1563278086,
     "wof:name":"\u03a9\u03a1\u0395\u039f\u0399",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

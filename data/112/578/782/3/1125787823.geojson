@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0627\u0646\u0648\u0641\u064a\u0631\u064a\u064a\u0648\u0646\u060c \u0625\u0645\u0627\u062b\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u064a\u0627\u0646\u0648\u0641\u064a\u0631\u063a\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u044f\u043d\u043e\u0432\u0435\u0440\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Lianov\u00e9rgi"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03b1\u03bd\u03bf\u03b2\u03ad\u03c1\u03b3\u03b9\u03bf\u03bd"
@@ -31,13 +37,17 @@
     "name:ell_x_variant":[
         "Lianov\u00e9rgi",
         "\u039b\u03b9\u03b1\u03bd\u03bf\u03b2\u03ad\u03c1\u03b3\u03b9",
-        "Lianov\u00e9rgion"
+        "Lianov\u00e9rgion",
+        "\u039b\u03b9\u03b1\u03bd\u03bf\u03b2\u03ad\u03c1\u03b3\u03b9 \u0397\u03bc\u03b1\u03b8\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Lianovergi"
     ],
     "name:mkd_x_preferred":[
         "\u0409\u0430\u043d\u043e\u0432\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0430\u043d\u043e\u0432\u0435\u0440\u044c\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Lianov\u00e9rgi"
@@ -82,7 +92,7 @@
         }
     ],
     "wof:id":1125787823,
-    "wof:lastmodified":1561844053,
+    "wof:lastmodified":1563279063,
     "wof:name":"Leianov\u00e9rgion",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

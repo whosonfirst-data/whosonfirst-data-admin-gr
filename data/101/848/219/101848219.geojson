@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0641\u0627\u0644\u0648\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "K\u00e9falos"
+    ],
     "name:dan_x_preferred":[
         "Kefalos"
     ],
@@ -56,14 +59,23 @@
     "name:por_x_preferred":[
         "C\u00e9falo"
     ],
+    "name:por_x_variant":[
+        "Kefalos"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0444\u0430\u043b\u043e\u0441"
     ],
     "name:swe_x_preferred":[
         "K\u00e9falos"
     ],
+    "name:swe_x_variant":[
+        "Mo\u00edres"
+    ],
     "name:unk_x_variant":[
         "Cefalo"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u6cd5\u6d1b\u65af"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u039d\u039f\u03a4\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":101848219,
-    "wof:lastmodified":1561843997,
+    "wof:lastmodified":1563277987,
     "wof:name":"\u039a\u0395\u03a6\u0391\u039b\u039f\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

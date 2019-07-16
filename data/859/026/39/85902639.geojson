@@ -29,17 +29,32 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u063a\u0627\u0644\u064a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Egaleo"
+    ],
     "name:bel_x_variant":[
         "\u042d\u0433\u0430\u043b\u0435\u043e"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u0997\u09be\u09b2\u09c7\u0993"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0433\u0430\u043b\u0435\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Aig\u00e1leo"
+    ],
+    "name:dan_x_preferred":[
+        "Aigaleo"
     ],
     "name:deu_x_preferred":[
         "Egaleo"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b9\u03b3\u03ac\u03bb\u03b5\u03c9"
     ],
     "name:eng_x_preferred":[
         "Egaleo"
@@ -53,17 +68,44 @@
     "name:fra_x_preferred":[
         "Aig\u00e1leo"
     ],
+    "name:guj_x_preferred":[
+        "\u0a87\u0a97\u0abe\u0ab2\u0abf\u0aaf\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0917\u090f\u0932\u0947\u0913"
+    ],
     "name:hun_x_preferred":[
         "Eg\u00e1leo"
+    ],
+    "name:ind_x_preferred":[
+        "Egaleo"
     ],
     "name:ita_x_preferred":[
         "Egaleo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ac\u30ec\u30aa"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0c97\u0cbe\u0cb2\u0cc6\u0caf\u0ccb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uac94\ub85c"
+    ],
     "name:lat_x_preferred":[
         "Aegaleo"
     ],
+    "name:lav_x_preferred":[
+        "Aigaleo"
+    ],
     "name:lit_x_preferred":[
         "Egal\u0117jas"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0917\u093e\u0932\u093f\u0913"
+    ],
+    "name:msa_x_preferred":[
+        "Egaleo"
     ],
     "name:nld_x_preferred":[
         "Aigaleo"
@@ -71,7 +113,13 @@
     "name:nno_x_preferred":[
         "Eg\u00e1leo i Aten"
     ],
+    "name:nob_x_preferred":[
+        "Egaleo"
+    ],
     "name:pol_x_preferred":[
+        "Egaleo"
+    ],
+    "name:por_x_preferred":[
         "Egaleo"
     ],
     "name:ron_x_preferred":[
@@ -80,11 +128,29 @@
     "name:rus_x_preferred":[
         "\u042d\u0433\u0430\u043b\u0435\u043e"
     ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0d9c\u0dbd\u0dd2\u0dba\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Egaleo"
+    ],
     "name:srp_x_preferred":[
         "\u0415\u0433\u0430\u043b\u0435\u043e"
     ],
     "name:swe_x_preferred":[
         "Dimos Aigaleo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0b95\u0bcd\u0bb3\u0bc7\u0bb5\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c17\u0c3e\u0c32\u0c3f\u0c2f\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e35\u0e01\u0e32\u0e40\u0e25\u0e42\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Egaleo"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0433\u0430\u043b\u0435\u043e"
@@ -97,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "Aegaleo"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u52a0\u91cc\u5965"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_id":0,
@@ -155,7 +224,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606688,
+    "wof:lastmodified":1563277020,
     "wof:name":"Egaleo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u0627\u060c \u0643\u064a\u0643\u0644\u0627\u062f\u064a\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u0987\u09af\u09bc\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "O\u00eda"
     ],
     "name:ces_x_preferred":[
         "Oia"
@@ -47,14 +56,26 @@
     "name:fra_x_preferred":[
         "Oia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u0575\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Oia"
     ],
     "name:ita_x_preferred":[
         "Oia"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30a2"
+    ],
+    "name:ltz_x_preferred":[
+        "Oia"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0458\u0430"
     ],
     "name:nld_x_preferred":[
         "Oia"
@@ -73,6 +94,9 @@
     ],
     "name:unk_x_variant":[
         "Ep\u00e1no Meri\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u4e9a"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -125,7 +149,7 @@
         }
     ],
     "wof:id":1125995757,
-    "wof:lastmodified":1561844034,
+    "wof:lastmodified":1563278721,
     "wof:name":"Oia",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

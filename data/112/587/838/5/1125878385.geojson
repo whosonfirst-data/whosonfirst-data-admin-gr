@@ -22,6 +22,9 @@
     "name:ell_x_preferred":[
         "\u0393\u03bb\u03c5\u03ba\u03ac \u039d\u03b5\u03c1\u03ac \u03a0\u03b1\u03b9\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0393\u03bb\u03c5\u03ba\u03ac \u039d\u03b5\u03c1\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Glyka Nera"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:ron_x_preferred":[
         "Glyka Nera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0438\u043a\u0430-\u041d\u0435\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Glika Nera"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0456\u043a\u0430-\u041d\u0435\u0440\u0430"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125878385,
-    "wof:lastmodified":1561844033,
+    "wof:lastmodified":1563278681,
     "wof:name":"Glyka Nera",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

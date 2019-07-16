@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u064a\u0641\u0648\u064a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Mel\u00edvoia"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bb\u03af\u03b2\u03bf\u03b9\u03b1 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Melivoia"
+    ],
+    "name:fin_x_preferred":[
+        "Mel\u00edvoia"
     ],
     "name:ita_x_preferred":[
         "Melivoia"
@@ -44,11 +50,17 @@
     "name:ron_x_preferred":[
         "Melivia"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u0432\u0438\u044f"
+    ],
     "name:spa_x_preferred":[
         "Melivoia"
     ],
     "name:swe_x_preferred":[
         "Mel\u00edvoia"
+    ],
+    "name:swe_x_variant":[
+        "Makrych\u00f3ri"
     ],
     "name:unk_x_variant":[
         "Ath\u00e1naton"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":101855019,
-    "wof:lastmodified":1561844008,
+    "wof:lastmodified":1563278159,
     "wof:name":"\u039c\u0395\u039b\u0399\u0392\u039f\u0399\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

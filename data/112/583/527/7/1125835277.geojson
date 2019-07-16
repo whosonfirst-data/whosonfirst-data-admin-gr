@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u064a\u060c \u0644\u0627\u0643\u0648\u0646\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0627\u0631\u064a\u064a"
+    ],
     "name:cat_x_preferred":[
         "Karuai"
+    ],
+    "name:ceb_x_preferred":[
+        "Karia\u00ed"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03c5\u03b1\u03af"
@@ -61,14 +67,23 @@
     "name:nob_x_preferred":[
         "Karyes"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u044c\u0435"
+    ],
     "name:slk_x_preferred":[
         "Karyes"
     ],
     "name:spa_x_preferred":[
         "Carias"
     ],
+    "name:swe_x_preferred":[
+        "Karia\u00ed"
+    ],
     "name:unk_x_variant":[
         "Ar\u00e1khova"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8036"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1125835277,
-    "wof:lastmodified":1561844059,
+    "wof:lastmodified":1563279187,
     "wof:name":"Kariai",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

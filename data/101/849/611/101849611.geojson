@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0643\u0633\u0648\u0631\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043a\u0441\u0443\u0440\u044b\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Lixouri"
+    ],
+    "name:ceb_x_preferred":[
+        "Lixo\u00fari"
     ],
     "name:deu_x_preferred":[
         "Lixouri"
@@ -53,6 +59,9 @@
     "name:ita_x_preferred":[
         "L\u012bxouri"
     ],
+    "name:ita_x_variant":[
+        "Lixouri"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30af\u30b9\u30ea"
     ],
@@ -71,11 +80,17 @@
     "name:por_x_preferred":[
         "Lix\u00fari"
     ],
+    "name:por_x_variant":[
+        "Lixouri"
+    ],
     "name:ron_x_preferred":[
         "Lixouri"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043a\u0441\u0443\u0440\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u043a\u0441\u0443\u0440\u0438\u043e\u043d"
     ],
     "name:spa_x_preferred":[
         "Lixouri"
@@ -139,7 +154,7 @@
         }
     ],
     "wof:id":101849611,
-    "wof:lastmodified":1561844001,
+    "wof:lastmodified":1563278053,
     "wof:name":"\u039b\u0397\u039e\u039f\u03a5\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

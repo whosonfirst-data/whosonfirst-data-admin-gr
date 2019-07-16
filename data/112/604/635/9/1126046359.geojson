@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u0633\u0648\u0646\u064a\u0633\u0648\u0633\u060c \u0625\u0631\u0627\u0643\u0644\u064a\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u064a\u0631\u0633\u0648\u0646\u064a\u0633\u0648\u0633"
+    ],
     "name:cat_x_preferred":[
         "Khers\u00f3nissos"
+    ],
+    "name:ceb_x_preferred":[
+        "Khers\u00f3nisos"
     ],
     "name:deu_x_preferred":[
         "Limenas Chersonisou"
@@ -70,6 +76,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d\u0438\u0441\u0441\u043e\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u043c\u0438\u043d-\u0425\u0435\u0440\u0441\u043e\u043d\u0438\u0441\u0443"
+    ],
     "name:spa_x_preferred":[
         "Quersoneso"
     ],
@@ -79,11 +88,20 @@
     "name:swe_x_preferred":[
         "Hersonissos"
     ],
+    "name:swe_x_variant":[
+        "Chersonisos"
+    ],
+    "name:tur_x_preferred":[
+        "Hersonissos"
+    ],
     "name:unk_x_variant":[
         "Chersoniso"
     ],
     "name:vie_x_preferred":[
         "Chersonissos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u7d22\u5c3c\u7d22\u65af"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":1126046359,
-    "wof:lastmodified":1561844021,
+    "wof:lastmodified":1563278433,
     "wof:name":"Khersonisos",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

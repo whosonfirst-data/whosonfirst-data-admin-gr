@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0628\u0648\u062a\u0627\u0645\u0648\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Parap\u00f3tamos"
+    ],
     "name:deu_x_preferred":[
         "Parapotamos"
     ],
@@ -27,9 +30,25 @@
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b1\u03c1\u03b1\u03c0\u03bf\u03c4\u03ac\u03bc\u03bf\u03c5"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03b1\u03c1\u03b1\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2"
+        "\u03a0\u03b1\u03c1\u03b1\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2",
+        "\u03a0\u03b1\u03c1\u03b1\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2 \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Parapotamos"
+    ],
+    "name:fin_x_preferred":[
+        "Parap\u00f3tamos"
+    ],
+    "name:fra_x_preferred":[
+        "Parapotamos"
     ],
     "name:ita_x_preferred":[
+        "Parapotamos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30dd\u30bf\u30e2\u30b9"
+    ],
+    "name:nld_x_preferred":[
         "Parapotamos"
     ],
     "name:nno_x_preferred":[
@@ -37,6 +56,9 @@
     ],
     "name:sqi_x_preferred":[
         "Varfanji"
+    ],
+    "name:swe_x_preferred":[
+        "Parap\u00f3tamos"
     ],
     "name:unk_x_variant":[
         "V\u00e1rfani"
@@ -88,7 +110,7 @@
         }
     ],
     "wof:id":101849711,
-    "wof:lastmodified":1544741079,
+    "wof:lastmodified":1563278125,
     "wof:name":"\u03a0\u0391\u03a1\u0391\u03a0\u039f\u03a4\u0391\u039c\u039f\u03a3",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

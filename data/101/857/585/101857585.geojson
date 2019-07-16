@@ -29,8 +29,14 @@
     "name:bul_x_variant":[
         "\u041a\u0430\u0432\u0430\u0300\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "N\u00e9a P\u00e9ramos"
+    ],
     "name:deu_x_preferred":[
         "Kavala"
+    ],
+    "name:deu_x_variant":[
+        "Nea Peramos"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u03a0\u03ad\u03c1\u03b1\u03bc\u03bf\u03c2 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
@@ -63,6 +69,9 @@
     ],
     "name:nno_x_preferred":[
         "N\u00e9a P\u00e9ramos i Kav\u00e1la"
+    ],
+    "name:nno_x_variant":[
+        "N\u00e9a P\u00e9ramos"
     ],
     "name:pol_x_preferred":[
         "Kawala"
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":101857585,
-    "wof:lastmodified":1544743972,
+    "wof:lastmodified":1563277944,
     "wof:name":"\u039d\u0395\u0391 \u03a0\u0395\u03a1\u0391\u039c\u039f\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

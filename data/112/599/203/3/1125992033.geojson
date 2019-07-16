@@ -19,14 +19,23 @@
     "name:cat_x_preferred":[
         "C\u00e8ncrees"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c1kra Kechri\u00e9s"
+    ],
     "name:deu_x_preferred":[
         "Kenchreai"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c7\u03c1\u03b9\u03ad\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03c7\u03c1\u03b9\u03ad\u03c2 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Kechries"
+    ],
+    "name:eng_x_variant":[
+        "Cenchrea"
     ],
     "name:fin_x_preferred":[
         "Kechri\u00e9s"
@@ -40,8 +49,14 @@
     "name:ita_x_preferred":[
         "Cencrea"
     ],
+    "name:lav_x_preferred":[
+        "Kenhreja"
+    ],
     "name:nld_x_preferred":[
         "Kechries"
+    ],
+    "name:por_x_preferred":[
+        "Cencreia"
     ],
     "name:ron_x_preferred":[
         "Kechries"
@@ -54,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Kenchreai"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0646\u062e\u0631\u06cc\u06cc\u06c1"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -100,7 +118,7 @@
         }
     ],
     "wof:id":1125992033,
-    "wof:lastmodified":1561844034,
+    "wof:lastmodified":1563278717,
     "wof:name":"Kechries",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

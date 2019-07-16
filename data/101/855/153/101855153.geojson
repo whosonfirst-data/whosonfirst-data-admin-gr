@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0424\u043b\u043e\u0433\u0438\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "N\u00e9a Flogit\u00e1"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u03a6\u03bb\u03bf\u03b3\u03b7\u03c4\u03ac \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
@@ -34,11 +37,17 @@
     "name:eng_x_preferred":[
         "Flogita"
     ],
+    "name:eng_x_variant":[
+        "Nea Flogita"
+    ],
     "name:nld_x_preferred":[
         "Flogita"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u0430 \u0424\u043b\u043e\u0433\u0438\u0442\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Nea Flogita"
     ],
     "name:swe_x_preferred":[
         "N\u00e9a Flogit\u00e1"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":101855153,
-    "wof:lastmodified":1561844007,
+    "wof:lastmodified":1563278148,
     "wof:name":"\u03a6\u039b\u039f\u0393\u0397\u03a4\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

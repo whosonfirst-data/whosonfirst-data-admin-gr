@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u064a\u0643\u064a\u062b\u064a\u0631\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0622\u0644\u064a\u0629 \u0623\u0646\u062a\u064a\u0643\u064a\u062b\u064a\u0631\u0627"
+    ],
     "name:arg_x_preferred":[
         "Maquina d'Antiquitera"
     ],
@@ -47,6 +50,9 @@
     "name:cat_x_preferred":[
         "Mecanisme d'Anticitera"
     ],
+    "name:cat_x_variant":[
+        "mecanisme d'Anticitera"
+    ],
     "name:ces_x_preferred":[
         "Mechanismus z Antikyth\u00e9ry"
     ],
@@ -66,6 +72,9 @@
     "name:eng_x_preferred":[
         "Isthmia"
     ],
+    "name:eng_x_variant":[
+        "Antikythera mechanism"
+    ],
     "name:epo_x_preferred":[
         "Me\u0125anismo de Antikithera"
     ],
@@ -83,6 +92,9 @@
     ],
     "name:fra_x_preferred":[
         "Machine d'Anticyth\u00e8re"
+    ],
+    "name:fra_x_variant":[
+        "machine d'Anticyth\u00e8re"
     ],
     "name:glg_x_preferred":[
         "Mecanismo de Anticitera"
@@ -105,6 +117,9 @@
     "name:ido_x_preferred":[
         "Antikythera-mekanismo"
     ],
+    "name:ind_x_preferred":[
+        "Mekanisme Antikythera"
+    ],
     "name:ita_x_preferred":[
         "Macchina di Anticitera"
     ],
@@ -117,8 +132,14 @@
     "name:kor_x_preferred":[
         "\uc548\ud2f0\ud0a4\ud2f0\ub77c \uae30\uacc4"
     ],
+    "name:kor_x_variant":[
+        "\uc548\ud2f0\ud0a4\ud2f0\ub77c \uba54\ucee4\ub2c8\uc998"
+    ],
     "name:lat_x_preferred":[
         "Machinatio Anticytherensis"
+    ],
+    "name:lav_x_preferred":[
+        "Antikitiras meh\u0101nisms"
     ],
     "name:lit_x_preferred":[
         "Antikiteros mechanizmas"
@@ -131,6 +152,9 @@
     ],
     "name:nld_x_preferred":[
         "Mechanisme van Antikythera"
+    ],
+    "name:nob_x_preferred":[
+        "Antikythera-mekanismen"
     ],
     "name:nor_x_preferred":[
         "Antikythera-mekanismen"
@@ -168,6 +192,12 @@
     "name:swe_x_preferred":[
         "Antikytheramekanismen"
     ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0ba9\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bbf\u0ba4\u0bcd\u0ba4\u0bc0\u0bb0\u0bbe \u0baa\u0bca\u0bb1\u0bbf\u0bae\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "Antikythera mechanism"
+    ],
     "name:tgl_x_preferred":[
         "Mekanismong Antikythera"
     ],
@@ -182,6 +212,9 @@
     ],
     "name:unk_x_variant":[
         "Isthm\u00f3s"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0679\u06cc\u06a9\u06cc\u062a\u06be\u06cc\u0631\u0627 \u0645\u06cc\u06a9\u0646\u0632\u0645"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u63d0\u57fa\u7279\u62c9\u673a\u68b0"
@@ -231,7 +264,7 @@
         }
     ],
     "wof:id":101849667,
-    "wof:lastmodified":1544741058,
+    "wof:lastmodified":1563278059,
     "wof:name":"\u0399\u03a3\u0398\u039c\u0399\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

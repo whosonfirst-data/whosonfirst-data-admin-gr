@@ -31,8 +31,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u062e\u0627\u062a\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u099a\u0995\u09be\u099f\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u0445\u0430\u0442\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Moskh\u00e1ton"
+    ],
+    "name:dan_x_preferred":[
+        "Moschato"
     ],
     "name:deu_x_preferred":[
         "Moschato"
@@ -64,20 +73,83 @@
     "name:fra_x_preferred":[
         "Mosch\u00e1to"
     ],
+    "name:fra_x_variant":[
+        "Moschato"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0ab6\u0abe\u0a9f\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0938\u094d\u091a\u093e\u091f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Moschato"
+    ],
     "name:ita_x_preferred":[
+        "Moschato"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30b9\u30c1\u30e3\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cca\u0cb8\u0ccd\u0c9a\u0cbe\u0c9f\u0cca"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc2a4\ucc28\ud1a0"
+    ],
+    "name:lav_x_preferred":[
+        "Moshata"
+    ],
+    "name:lit_x_preferred":[
+        "Moschatas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0938\u094d\u091a\u0947\u091f\u094b"
+    ],
+    "name:msa_x_preferred":[
+        "Moschato"
+    ],
+    "name:nld_x_preferred":[
         "Moschato"
     ],
     "name:nno_x_preferred":[
         "Moskh\u00e1to"
     ],
+    "name:nob_x_preferred":[
+        "Moschato"
+    ],
     "name:pol_x_preferred":[
+        "Moschato"
+    ],
+    "name:por_x_preferred":[
         "Moschato"
     ],
     "name:ron_x_preferred":[
         "Moschato"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0445\u0430\u0442\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0dc3\u0dca\u0da0\u0da7\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Moschato"
+    ],
     "name:swe_x_preferred":[
         "Moskh\u00e1ton"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0bb8\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4a\u0c36\u0c4d\u0c1a\u0c3e\u0c1f\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e2a\u0e0a\u0e32\u0e42\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Moshato"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u0445\u0430\u0442\u043e"
@@ -88,6 +160,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0633\u062e\u0627\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Moschato"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_fcode":"PPL",
@@ -150,7 +225,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606687,
+    "wof:lastmodified":1563277018,
     "wof:name":"Moskh\u00e1ton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

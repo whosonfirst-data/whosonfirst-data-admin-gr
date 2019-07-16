@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0646\u064a \u0633\u062a\u064a\u0631\u0627\u060c \u0625\u0641\u0641\u0648\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u064a \u0633\u062a\u064a\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u00e9a St\u00edra"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u03a3\u03c4\u03cd\u03c1\u03b1"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Nea Stira"
+    ],
+    "name:eng_x_variant":[
+        "Nea Styra"
     ],
     "name:swe_x_preferred":[
         "N\u00e9a St\u00edra"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1126027515,
-    "wof:lastmodified":1561844018,
+    "wof:lastmodified":1563278374,
     "wof:name":"Nea Stira",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

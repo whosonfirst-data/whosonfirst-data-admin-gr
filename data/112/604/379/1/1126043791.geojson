@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062a\u064a\u060c \u0641\u0648\u0643\u064a\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u062a\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "It\u00e9a"
+    ],
     "name:deu_x_preferred":[
         "Itea"
     ],
@@ -58,8 +64,14 @@
     "name:pol_x_preferred":[
         "Itea"
     ],
+    "name:ron_x_preferred":[
+        "Itea"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0435\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0442\u0435\u044f"
     ],
     "name:srp_x_preferred":[
         "\u0418\u0442\u0435\u0430"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1126043791,
-    "wof:lastmodified":1561844021,
+    "wof:lastmodified":1563278438,
     "wof:name":"Itea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

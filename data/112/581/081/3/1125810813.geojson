@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0644\u064a\u0648\u0646 \u0623\u0633\u062a\u0631\u0648\u0633\u060c \u0623\u0631\u0643\u0627\u062f\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u0627\u0644\u064a\u0648\u0646 \u0623\u0633\u062a\u0631\u0648\u0633"
+    ],
     "name:aze_x_preferred":[
         "Paralio Astros"
+    ],
+    "name:ceb_x_preferred":[
+        "Par\u00e1lion \u00c1stros"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03c1\u03ac\u03bb\u03b9\u03bf\u03bd \u0386\u03c3\u03c4\u03c1\u03bf\u03c2"
@@ -44,6 +50,9 @@
     ],
     "name:nld_x_preferred":[
         "Paralio Astros"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043b\u0438\u043e\u043d-\u0410\u0441\u0442\u0440\u043e\u0441"
     ],
     "name:swe_x_preferred":[
         "Par\u00e1lion \u00c1stros"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125810813,
-    "wof:lastmodified":1561844028,
+    "wof:lastmodified":1563278586,
     "wof:name":"Paralion Astros",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

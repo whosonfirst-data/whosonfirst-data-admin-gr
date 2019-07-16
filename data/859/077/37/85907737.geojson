@@ -25,6 +25,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Ex\u00e0rkhia"
+    ],
     "name:ces_x_preferred":[
         "Exarcheia"
     ],
@@ -38,7 +41,9 @@
         "Exarhia"
     ],
     "name:eng_x_variant":[
-        "Exarhia",
+        "Exarcheia"
+    ],
+    "name:epo_x_preferred":[
         "Exarcheia"
     ],
     "name:fin_x_preferred":[
@@ -67,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Exarchia"
+    ],
+    "name:tur_x_preferred":[
+        "Eksarhia"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043a\u0437\u0430\u0440\u0445\u0456\u044f"
@@ -134,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561843966,
+    "wof:lastmodified":1563277006,
     "wof:name":"Exarcheia",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

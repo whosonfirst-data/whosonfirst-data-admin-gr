@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "\u00cdtaca"
     ],
+    "name:cat_x_variant":[
+        "Vath\u00ed"
+    ],
     "name:ces_x_preferred":[
         "Ithaka"
     ],
@@ -68,6 +71,9 @@
     "name:est_x_preferred":[
         "Ithaka"
     ],
+    "name:est_x_variant":[
+        "Vath\u00fd"
+    ],
     "name:eus_x_preferred":[
         "Itaka"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:fin_x_preferred":[
         "Ithaka"
+    ],
+    "name:fin_x_variant":[
+        "Vath\u00fd"
     ],
     "name:fra_x_preferred":[
         "Ithaque"
@@ -125,8 +134,14 @@
     "name:nld_x_preferred":[
         "Ithaka"
     ],
+    "name:nld_x_variant":[
+        "Vathy"
+    ],
     "name:nno_x_preferred":[
         "Ith\u00e1ki"
+    ],
+    "name:nno_x_variant":[
+        "Vath\u00fd"
     ],
     "name:nor_x_preferred":[
         "Ithaka"
@@ -137,11 +152,17 @@
     "name:por_x_preferred":[
         "\u00cdtaca"
     ],
+    "name:por_x_variant":[
+        "Vathi"
+    ],
     "name:ron_x_preferred":[
         "Itaca"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0430\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0442\u0430\u043a\u0438"
     ],
     "name:sco_x_preferred":[
         "Ithaca"
@@ -151,6 +172,9 @@
     ],
     "name:spa_x_preferred":[
         "\u00cdtaca"
+    ],
+    "name:spa_x_variant":[
+        "Vath\u00ed"
     ],
     "name:sqi_x_preferred":[
         "Ithaka"
@@ -169,6 +193,9 @@
     ],
     "name:unk_x_variant":[
         "Vath\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0624\u0644\u0627"
     ],
     "name:vie_x_preferred":[
         "Ithaki"
@@ -222,7 +249,7 @@
         }
     ],
     "wof:id":101849099,
-    "wof:lastmodified":1561844001,
+    "wof:lastmodified":1563278061,
     "wof:name":"\u0399\u0398\u0391\u039a\u0397",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

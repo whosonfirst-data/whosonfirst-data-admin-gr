@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062b\u064a\u0645\u0646\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0442\u044b\u043c\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Metimna"
+    ],
+    "name:ceb_x_preferred":[
+        "Mithymna"
     ],
     "name:deu_x_preferred":[
         "Mithymna"
@@ -38,6 +44,9 @@
     "name:eng_x_preferred":[
         "Molivo"
     ],
+    "name:eng_x_variant":[
+        "Mithymna"
+    ],
     "name:fin_x_preferred":[
         "M\u00edthymna"
     ],
@@ -47,8 +56,14 @@
     "name:hbs_x_preferred":[
         "Mitimna"
     ],
+    "name:ind_x_preferred":[
+        "Mithymna"
+    ],
     "name:ita_x_preferred":[
         "Mithymna"
+    ],
+    "name:ita_x_variant":[
+        "Metimna"
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30c6\u30e5\u30e0\u30ca"
@@ -79,6 +94,9 @@
     ],
     "name:swe_x_preferred":[
         "M\u00edthymna"
+    ],
+    "name:swe_x_variant":[
+        "Mithymna"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0442\u0456\u043c\u043d\u0430"
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":101849629,
-    "wof:lastmodified":1561844001,
+    "wof:lastmodified":1563278052,
     "wof:name":"\u039c\u0397\u0398\u03a5\u039c\u039d\u0391",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

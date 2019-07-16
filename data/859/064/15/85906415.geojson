@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":34390445.539738,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.808851,38.086253,23.808851,38.086253",
     "geom:latitude":38.086253,
     "geom:longitude":23.808851,
@@ -33,11 +33,20 @@
     "name:eng_x_preferred":[
         "Nea Kifisia"
     ],
+    "name:eng_x_variant":[
+        "Nea Kifissia B.C."
+    ],
+    "name:fra_x_preferred":[
+        "Nea Kifisia B.C."
+    ],
     "name:ita_x_preferred":[
         "A.E. Neas K\u012bfisias"
     ],
     "name:por_x_preferred":[
         "Nea Kifissia BC"
+    ],
+    "name:spa_x_preferred":[
+        "A.E. Neas K\u012bfisias"
     ],
     "name:srp_x_preferred":[
         "\u041a\u041a \u041d\u0435\u0430 \u041a\u0438\u0444\u0438\u0441\u0438\u0458\u0430"
@@ -106,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936428,
+    "wof:lastmodified":1563277013,
     "wof:name":"Nea Kifisia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
