@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0643\u0648\u0628\u0648\u0644\u0648\u0646\u060c \u0623\u062a\u064a\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0631\u0643\u0648\u0628\u0648\u0644\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Markopoulo Mesogaias"
+    ],
     "name:ell_x_historical":[
         "\u039c\u03b1\u03c1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03bd"
     ],
@@ -28,7 +34,8 @@
     ],
     "name:ell_x_variant":[
         "\u039c\u03b1\u03c1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf \u039c\u03b5\u03c3\u03bf\u03b3\u03b1\u03af\u03b1\u03c2",
-        "\u039c\u03b1\u03c1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf \u039c\u03b5\u03c3\u03bf\u03b3\u03b1\u03af\u03b1\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+        "\u039c\u03b1\u03c1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf \u039c\u03b5\u03c3\u03bf\u03b3\u03b1\u03af\u03b1\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+        "\u039c\u03b1\u03c1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf"
     ],
     "name:eng_x_colloquial":[
         "Markopoulon",
@@ -65,8 +72,17 @@
     "name:ron_x_preferred":[
         "Markopoulo"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u043f\u0443\u043b\u043e\u043d"
+    ],
     "name:swe_x_preferred":[
         "Dimos Markopoulo Mesogaias"
+    ],
+    "name:swe_x_variant":[
+        "Markopoulo Mesogaias"
+    ],
+    "name:tur_x_preferred":[
+        "Markopulo Mesogeas"
     ],
     "name:unk_x_variant":[
         "Mavrovo\u00fani"
@@ -118,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561843989,
+    "wof:lastmodified":1563277873,
     "wof:name":"\u039c\u0391\u03a1\u039a\u039f\u03a0\u039f\u03a5\u039b\u039f\u039d",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

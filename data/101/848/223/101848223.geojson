@@ -24,6 +24,15 @@
     "name:ast_x_preferred":[
         "Kos"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09b8"
+    ],
+    "name:bos_x_preferred":[
+        "Kos"
+    ],
     "name:bre_x_preferred":[
         "Kos"
     ],
@@ -32,6 +41,12 @@
     ],
     "name:cat_x_preferred":[
         "Kos"
+    ],
+    "name:cdo_x_preferred":[
+        "G\u014f\u0324-s\u00ea\u0324\u1e73"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u00edsos Kos"
     ],
     "name:ces_x_preferred":[
         "K\u00f3s"
@@ -57,7 +72,13 @@
     "name:eng_x_variant":[
         "Kos Town"
     ],
+    "name:epo_x_preferred":[
+        "Kos"
+    ],
     "name:est_x_preferred":[
+        "Kos"
+    ],
+    "name:eus_x_preferred":[
         "Kos"
     ],
     "name:fao_x_preferred":[
@@ -66,11 +87,17 @@
     "name:fas_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Kos"
     ],
     "name:fra_x_preferred":[
         "Kos"
+    ],
+    "name:fra_x_variant":[
+        "Cos"
     ],
     "name:fry_x_preferred":[
         "Kos"
@@ -78,11 +105,20 @@
     "name:glg_x_preferred":[
         "Cos"
     ],
+    "name:grc_x_preferred":[
+        "\u039a\u1ff6\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0ab8"
+    ],
     "name:hbs_x_preferred":[
         "Kos"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0938"
     ],
     "name:hrv_x_preferred":[
         "Kos"
@@ -96,25 +132,49 @@
     "name:ind_x_preferred":[
         "Pulau Kos"
     ],
+    "name:isl_x_preferred":[
+        "Kos"
+    ],
     "name:ita_x_preferred":[
         "Coo"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30b9\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccb\u0cb8\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\uc2a4 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\uc2a4\uc12c"
     ],
     "name:lat_x_preferred":[
         "Cos"
     ],
+    "name:lav_x_preferred":[
+        "Kosa"
+    ],
     "name:lim_x_preferred":[
+        "Kos"
+    ],
+    "name:lit_x_preferred":[
+        "Kosas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u0938"
+    ],
+    "name:msa_x_preferred":[
         "Kos"
     ],
     "name:nld_x_preferred":[
         "Kos"
     ],
     "name:nno_x_preferred":[
+        "Kos"
+    ],
+    "name:nob_x_preferred":[
         "Kos"
     ],
     "name:nor_x_preferred":[
@@ -135,6 +195,9 @@
     "name:sco_x_preferred":[
         "Kos"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Kos"
     ],
@@ -144,11 +207,23 @@
     "name:spa_x_preferred":[
         "Isla de Cos"
     ],
+    "name:spa_x_variant":[
+        "Cos"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0441"
     ],
     "name:swe_x_preferred":[
         "Kos"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e2d\u0e2a"
     ],
     "name:tur_x_preferred":[
         "\u0130stank\u00f6y"
@@ -164,6 +239,9 @@
     ],
     "name:vie_x_preferred":[
         "Kos"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u65af\u5c9b"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u65af\u5c9b"
@@ -307,7 +385,7 @@
         }
     ],
     "wof:id":101848223,
-    "wof:lastmodified":1544740325,
+    "wof:lastmodified":1563278010,
     "wof:name":"\u039a\u03a9\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

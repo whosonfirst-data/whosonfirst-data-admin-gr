@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u0627\u0645\u0628\u0648\u0631\u0648\u0646\u060c \u0633\u064a\u0631\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0644\u0627\u0645\u0628\u0648\u0631\u0648\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0439\u0440\u0430\u043a\u0442\u0430\u0440 \u043c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Fl\u00e1mpouro"
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03bb\u03ac\u03bc\u03c0\u03bf\u03c5\u03c1\u03bf\u03bd"
@@ -31,10 +37,14 @@
     "name:ell_x_variant":[
         "Fl\u00e1mpouro",
         "\u03a6\u03bb\u03ac\u03bc\u03c0\u03bf\u03c5\u03c1\u03bf",
-        "Fl\u00e1mpouron"
+        "Fl\u00e1mpouron",
+        "\u03a6\u03bb\u03ac\u03bc\u03c0\u03bf\u03c5\u03c1\u03bf \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
     ],
     "name:eng_x_preferred":[
         "Flampouro"
+    ],
+    "name:eng_x_variant":[
+        "Flabouro"
     ],
     "name:swe_x_preferred":[
         "Fl\u00e1mpouro"
@@ -91,7 +101,7 @@
         }
     ],
     "wof:id":1126019285,
-    "wof:lastmodified":1553816704,
+    "wof:lastmodified":1563278876,
     "wof:name":"Flambouron",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

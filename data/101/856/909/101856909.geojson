@@ -23,6 +23,12 @@
     "name:bul_x_preferred":[
         "\u042f\u0441\u044a\u043a\u044c\u043e\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "\u00cdasmos"
+    ],
+    "name:deu_x_preferred":[
+        "Iasmos"
+    ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u0399\u03ac\u03c3\u03bc\u03bf\u03c5"
     ],
@@ -32,6 +38,9 @@
     "name:eng_x_preferred":[
         "Iasmos"
     ],
+    "name:eng_x_variant":[
+        "Iasmos Municipality"
+    ],
     "name:fin_x_preferred":[
         "\u00cdasmos"
     ],
@@ -40,6 +49,12 @@
     ],
     "name:ita_x_preferred":[
         "Iasmos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30b9\u30e2\u30b9"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u0441\u0438\u045c\u043e\u0458"
     ],
     "name:nld_x_preferred":[
         "Iasmos"
@@ -53,8 +68,14 @@
     "name:rus_x_preferred":[
         "\u0418\u0430\u0437\u043c\u043e\u0441"
     ],
+    "name:spa_x_preferred":[
+        "Iasmos"
+    ],
     "name:swe_x_preferred":[
         "\u00cdasmos"
+    ],
+    "name:tur_x_preferred":[
+        "Yass\u0131k\u00f6y"
     ],
     "name:unk_x_variant":[
         "\u00cdasmos"
@@ -107,7 +128,7 @@
         }
     ],
     "wof:id":101856909,
-    "wof:lastmodified":1544743623,
+    "wof:lastmodified":1563277957,
     "wof:name":"\u0399\u0391\u03a3\u039c\u039f\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

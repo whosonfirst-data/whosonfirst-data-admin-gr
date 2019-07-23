@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Kestrine"
     ],
+    "name:ceb_x_preferred":[
+        "Dimos Filiates"
+    ],
     "name:deu_x_preferred":[
         "Filiates"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ell_x_variant":[
         "\u03a6\u03b9\u03bb\u03b9\u03ac\u03c4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Filiates Municipality"
     ],
     "name:fin_x_preferred":[
         "Fili\u00e1tes"
@@ -41,6 +47,9 @@
     "name:ita_x_preferred":[
         "Filiates"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30ea\u30a2\u30c6\u30b9"
+    ],
     "name:nld_x_preferred":[
         "Filiates"
     ],
@@ -50,11 +59,20 @@
     "name:pol_x_preferred":[
         "Filiates"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u044c\u044f\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Filiates"
+    ],
     "name:sqi_x_preferred":[
         "Filati"
     ],
     "name:swe_x_preferred":[
         "Fili\u00e1tes"
+    ],
+    "name:tur_x_preferred":[
+        "Filat"
     ],
     "name:unk_x_variant":[
         "Fili\u00e1tes"
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":101849709,
-    "wof:lastmodified":1544741078,
+    "wof:lastmodified":1563278039,
     "wof:name":"\u03a6\u0399\u039b\u0399\u0391\u03a4\u0395\u03a3",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

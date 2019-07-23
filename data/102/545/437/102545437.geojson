@@ -12,17 +12,41 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sitia Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Sitia"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03a3\u03b7\u03c4\u03b5\u03af\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a3\u03b7\u03c4\u03b5\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Sitia Public Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0639\u0645\u0648\u0645\u06cc \u0633\u06cc\u062a\u06cc\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Site\u00edan lentoasema"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Publik Sitia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30c6\u30a3\u30a2\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sitia"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sitia"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Sitia Public"
     ],
     "name:slk_x_preferred":[
         "Letisko Sitia"
@@ -32,6 +56,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0443\u043c\u0443\u043c \u0441\u0438\u0442\u0438\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Sitia Kamu Havaliman\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0438\u0432\u0456\u043b\u044c\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0421\u0456\u0442\u0456\u044f"
@@ -72,7 +99,7 @@
         }
     ],
     "wof:id":102545437,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563276838,
     "wof:name":"Sitia Airport",
     "wof:parent_id":101848177,
     "wof:placetype":"campus",

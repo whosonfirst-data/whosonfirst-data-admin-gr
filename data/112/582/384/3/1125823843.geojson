@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648 \u0646\u064a\u0643\u0648\u0645\u064a\u062f\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0439\u043d\u0430\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u00e9a Nikom\u00eddeia"
     ],
     "name:deu_x_preferred":[
         "Nea Nikomedeia"
@@ -40,14 +46,29 @@
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0438\u043d\u0438\u0448\u0442\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0430\u045a\u0430\u0442\u0435"
+    ],
     "name:nld_x_preferred":[
         "Nea Nikomedeia"
     ],
     "name:pol_x_preferred":[
         "Nea Nikomidia"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0430-\u041d\u0438\u043a\u043e\u043c\u0438\u0434\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Nea Nikomedia"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00e9a Nikom\u00eddeia"
+    ],
     "name:tur_x_preferred":[
         "Nea Nikomedeia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0430-\u041d\u0456\u043a\u043e\u043c\u0435\u0434\u0456\u044f"
     ],
     "name:unk_x_variant":[
         "Brani\u00e1tes"
@@ -89,7 +110,7 @@
         }
     ],
     "wof:id":1125823843,
-    "wof:lastmodified":1561844046,
+    "wof:lastmodified":1563278947,
     "wof:name":"N\u00e9a Nikom\u00eddeia",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

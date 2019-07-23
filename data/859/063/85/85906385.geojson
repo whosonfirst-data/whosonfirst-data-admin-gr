@@ -24,6 +24,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u0623\u062b\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Universid\u00e1 d'Atenes"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u062a\u0646 \u0628\u06cc\u0644\u06cc\u0645\u200c\u06cc\u0648\u0631\u062f\u0648"
+    ],
     "name:aze_x_preferred":[
         "Afina Universiteti"
     ],
@@ -39,6 +48,9 @@
     "name:cat_x_preferred":[
         "Universitat d'Atenes"
     ],
+    "name:ces_x_preferred":[
+        "Ath\u00e9nsk\u00e1 univerzita"
+    ],
     "name:deu_x_preferred":[
         "Nationale und Kapodistrias-Universit\u00e4t Athen"
     ],
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Panepistimioupolis"
+    ],
+    "name:est_x_preferred":[
+        "Ateena \u00fclikool"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0622\u062a\u0646"
@@ -59,6 +74,12 @@
     ],
     "name:hbs_x_preferred":[
         "\u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442 \u0443 \u0410\u0442\u0435\u043d\u0438"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea \u05d0\u05ea\u05d5\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Ath\u00e9ni Egyetem"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0569\u0565\u0576\u0584\u056b \u0570\u0561\u0574\u0561\u056c\u057d\u0561\u0580\u0561\u0576"
@@ -99,11 +120,17 @@
     "name:rus_x_preferred":[
         "\u0410\u0444\u0438\u043d\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"
     ],
+    "name:slk_x_preferred":[
+        "At\u00e9nska Univerzita"
+    ],
     "name:spa_x_preferred":[
         "Universidad de Atenas"
     ],
     "name:swe_x_preferred":[
         "Atens universitet"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0444\u0438\u043d \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u044b"
     ],
     "name:tur_x_preferred":[
         "Atina \u00dcniversitesi"
@@ -114,8 +141,14 @@
     "name:unk_x_variant":[
         "Panepistimioupolis"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u06c1 \u0627\u06cc\u062a\u06be\u0646\u0632"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u1ea1i h\u1ecdc Athens"
+    ],
+    "name:yue_x_preferred":[
+        "\u96c5\u5178\u5927\u5b78"
     ],
     "name:zho_x_preferred":[
         "\u96c5\u5178\u5927\u5b66"
@@ -178,7 +211,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606692,
+    "wof:lastmodified":1563277010,
     "wof:name":"Panepistimioupolis",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

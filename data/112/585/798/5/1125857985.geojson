@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648\u0643\u0648\u0631\u0648\u062f\u0627\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0648\u0643\u0648\u0631\u0648\u062f\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u0442\u0435 \u0445\u0430\u043d\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Neochoro\u00fada"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b5\u03bf\u03c7\u03c9\u03c1\u03bf\u03cd\u03b4\u03b1"
@@ -42,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Neochoro\u00fada"
+    ],
+    "name:swe_x_variant":[
+        "Ieriss\u00f3s"
     ],
     "name:unk_x_variant":[
         "Neokhoro\u00fadha"
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":1125857985,
-    "wof:lastmodified":1561844049,
+    "wof:lastmodified":1563278996,
     "wof:name":"Neochoro\u00fada",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

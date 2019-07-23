@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0641\u064a\u0633\u0648\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "An\u00e1vyssos"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ac\u03b2\u03c5\u03c3\u03c3\u03bf\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
@@ -46,6 +49,9 @@
     "name:hbs_x_preferred":[
         "Anavysos"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d1\u05d9\u05e1\u05d5\u05e1"
+    ],
     "name:ita_x_preferred":[
         "Anavyssos"
     ],
@@ -64,8 +70,14 @@
     "name:ron_x_preferred":[
         "Anavyssos"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0430\u0432\u0438\u0441\u043e\u0441"
+    ],
     "name:swe_x_preferred":[
         "An\u00e1vyssos"
+    ],
+    "name:tur_x_preferred":[
+        "Anavissos"
     ],
     "name:zho_x_preferred":[
         "\u963f\u7d0d\u7dad\u7d22\u65af"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":101875589,
-    "wof:lastmodified":1561843989,
+    "wof:lastmodified":1563277872,
     "wof:name":"\u0391\u039d\u0391\u0392\u03a5\u03a3\u03a3\u039f\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

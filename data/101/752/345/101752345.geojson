@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
+    "name:afr_x_preferred":[
+        "Rhodosstad"
+    ],
     "name:ara_x_preferred":[
         "\u0631\u0648\u062f\u0633"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u0434\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0420\u043e\u0434\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u09a1\u09b8"
@@ -35,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Rodes"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00f3dos"
     ],
     "name:ces_x_preferred":[
         "Rhodos"
@@ -74,6 +83,9 @@
     ],
     "name:fin_x_preferred":[
         "R\u00f3dos"
+    ],
+    "name:fin_x_variant":[
+        "Rodos"
     ],
     "name:fra_x_preferred":[
         "Rhodes"
@@ -175,6 +187,9 @@
         "\u0dbb\u0ddd\u0da9\u0dca\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
+        "Rodos"
+    ],
+    "name:slv_x_preferred":[
         "Rodos"
     ],
     "name:spa_x_preferred":[
@@ -355,7 +370,7 @@
         }
     ],
     "wof:id":101752345,
-    "wof:lastmodified":1561843987,
+    "wof:lastmodified":1563277847,
     "wof:name":"\u03a1\u039f\u0394\u039f\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

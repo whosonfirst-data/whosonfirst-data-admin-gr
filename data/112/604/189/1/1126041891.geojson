@@ -19,6 +19,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "\u0130oannina adas\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u042f\u043d\u0438\u043d\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u00edsos Ioann\u00ednon"
+    ],
+    "name:cym_x_preferred":[
+        "Ynys Ioannina"
+    ],
+    "name:dan_x_preferred":[
+        "Ioannina \u00f8"
+    ],
     "name:deu_x_preferred":[
         "Ioannina-Insel"
     ],
@@ -35,6 +50,9 @@
     "name:eng_x_preferred":[
         "Nisos Ioanninon"
     ],
+    "name:eng_x_variant":[
+        "Ioannina Island"
+    ],
     "name:fin_x_preferred":[
         "Io\u00e1nnina-saari"
     ],
@@ -47,11 +65,20 @@
     "name:jpn_x_preferred":[
         "\u30e8\u30a2\u30cb\u30ca\u5cf6"
     ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u043d\u0438\u043d\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
     "name:nld_x_preferred":[
         "Ioannina Island"
     ],
     "name:nno_x_preferred":[
         "Io\u00e1nnina \u00f8y"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0438\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u045a\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "N\u00edsos Ioann\u00ednon"
@@ -96,7 +123,7 @@
         }
     ],
     "wof:id":1126041891,
-    "wof:lastmodified":1561844021,
+    "wof:lastmodified":1563278440,
     "wof:name":"N\u00edsos Ioann\u00ednon",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

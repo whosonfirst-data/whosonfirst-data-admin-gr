@@ -24,8 +24,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0648\u0646\u064a\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0644\u0627\u0646\u064a\u0643"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u0627\u0646\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Sal\u00f3nica"
+    ],
     "name:aze_x_preferred":[
         "Saloniki"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u043d\u0438\u043a\u0438"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043d\u0456\u043a\u0456"
@@ -48,6 +60,9 @@
     "name:cdo_x_preferred":[
         "T\u00e1ik-s\u00e1k-l\u00f2\u0324-n\u00e0\u0324-gi\u0103"
     ],
+    "name:ceb_x_preferred":[
+        "Dimos Thessaloniki"
+    ],
     "name:ces_x_preferred":[
         "Solu\u0148"
     ],
@@ -56,6 +71,9 @@
     ],
     "name:chu_x_preferred":[
         "\u0472\u0454\u0441\u0441\u0430\u043b\u043e\u043d\u0457\u043a\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Sel\u00e2nik"
     ],
     "name:cym_x_preferred":[
         "Thessalon\u00edci"
@@ -182,6 +200,9 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043d\u0438\u043a\u0438"
     ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u043d\u0438\u043a\u0438"
+    ],
     "name:kor_x_preferred":[
         "\ud14c\uc0b4\ub85c\ub2c8\ud0a4"
     ],
@@ -190,6 +211,9 @@
     ],
     "name:lad_x_preferred":[
         "Salonik"
+    ],
+    "name:lad_x_variant":[
+        "Selanik"
     ],
     "name:lat_x_preferred":[
         "Thessalonica"
@@ -205,6 +229,9 @@
     ],
     "name:lmo_x_preferred":[
         "Salunich"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d46\u0d38\u0d4d\u0d38\u0d32\u0d4b\u0d28\u0d3f\u0d15\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0925\u0947\u0938\u093e\u0932\u094b\u0928\u093f\u0915\u0940"
@@ -257,11 +284,17 @@
     "name:por_x_preferred":[
         "Sal\u00f3nica"
     ],
+    "name:por_x_variant":[
+        "Salonica"
+    ],
     "name:ron_x_preferred":[
         "Salonic"
     ],
     "name:rup_x_preferred":[
         "S\u0103runa"
+    ],
+    "name:rup_x_variant":[
+        "S\u00e3run\u00e3"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043d\u0438\u043a\u0438"
@@ -498,7 +531,7 @@
         }
     ],
     "wof:id":101752331,
-    "wof:lastmodified":1561843987,
+    "wof:lastmodified":1563277837,
     "wof:megacity":1,
     "wof:name":"\u0398\u0395\u03a3\u03a3\u0391\u039b\u039f\u039d\u0399\u039a\u0397",
     "wof:parent_id":85684637,

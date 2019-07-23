@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00089,
-    "geom:area_square_m":8662386.183644,
+    "geom:area_square_m":8662386.183646,
     "geom:bbox":"23.4838949127,38.0567228584,23.5158383395,38.093095525",
     "geom:latitude":38.074409,
     "geom:longitude":23.499814,
@@ -22,6 +22,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00e1ndra"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2"
@@ -42,17 +45,32 @@
     "name:fin_x_preferred":[
         "M\u00e1ndra"
     ],
+    "name:fra_x_preferred":[
+        "Mandra"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0576\u0564\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "Mandra"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30c9\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Mandra"
+    ],
     "name:nno_x_preferred":[
         "M\u00e1ndra"
     ],
+    "name:ron_x_preferred":[
+        "Mandra"
+    ],
     "name:swe_x_preferred":[
         "M\u00e1ndra"
+    ],
+    "name:tur_x_preferred":[
+        "Mandra"
     ],
     "name:und_x_variant":[
         "\u039c\u0391\u039d\u0394\u03a1\u0391"
@@ -65,6 +83,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e2ndra"
+    ],
+    "name:vie_x_variant":[
+        "Mandra"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -115,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642580,
+    "wof:lastmodified":1563277874,
     "wof:name":"\u039c\u0391\u039d\u0394\u03a1\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

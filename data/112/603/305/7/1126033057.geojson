@@ -19,15 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0440\u0438 \u042f\u043b\u043e\u0441"
+    ],
     "name:cat_x_preferred":[
         "Makr\u00ed Gial\u00f3s"
+    ],
+    "name:ceb_x_preferred":[
+        "Makry-Gialos"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03c1\u03cd \u0393\u03b9\u03b1\u03bb\u03cc\u03c2"
     ],
     "name:ell_x_variant":[
         "\u039c\u03b1\u03ba\u03c1\u03c5\u03b3\u03b9\u03b1\u03bb\u03cc\u03c2",
-        "\u039c\u03b1\u03ba\u03c1\u03cd-\u0393\u03b9\u03b1\u03bb\u03cc\u03c2"
+        "\u039c\u03b1\u03ba\u03c1\u03cd-\u0393\u03b9\u03b1\u03bb\u03cc\u03c2",
+        "\u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b1\u03ba\u03c1\u03cd \u0393\u03b9\u03b1\u03bb\u03bf\u03cd"
     ],
     "name:eng_x_historical":[
         "Makrigialos"
@@ -56,6 +63,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0440\u0438-\u042f\u043b\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Makr\u00ed Gial\u00f3s"
     ],
     "name:swe_x_preferred":[
         "Makry-Gialos"
@@ -96,7 +106,7 @@
         }
     ],
     "wof:id":1126033057,
-    "wof:lastmodified":1561844024,
+    "wof:lastmodified":1563278512,
     "wof:name":"Makry Gialos",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

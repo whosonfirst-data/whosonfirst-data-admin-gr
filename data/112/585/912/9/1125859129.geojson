@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u064a\u0627 \u0628\u0627\u0631\u0627\u0633\u0643\u064a\u0641\u064a\u060c \u0633\u064a\u0631\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u064a\u064a\u0627 \u0628\u0627\u0631\u0627\u0633\u0643\u064a\u0641\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u0445\u0430 \u0431\u0430\u043d\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Ag\u00eda Paraskev\u00ed"
     ],
     "name:ell_x_preferred":[
         "Ag\u00eda Paraskev\u00ed"
@@ -34,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Agia Paraskevi"
+    ],
+    "name:eng_x_variant":[
+        "Agia Paraskevi Serres"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u0445\u0430 \u0411\u0430\u045a\u0430"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125859129,
-    "wof:lastmodified":1561844050,
+    "wof:lastmodified":1563279012,
     "wof:name":"Ayia Paraskevi",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

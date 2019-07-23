@@ -22,12 +22,19 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0648\u064a\u060c \u0623\u0631\u063a\u0648\u0644\u064a\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0644\u0648\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00fdloi"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03cd\u03bb\u03bf\u03b9"
     ],
     "name:ell_x_variant":[
         "M\u00fdloi",
-        "M\u00edloi"
+        "M\u00edloi",
+        "\u039c\u03cd\u03bb\u03bf\u03b9 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Myloi"
@@ -81,7 +88,7 @@
         }
     ],
     "wof:id":1125865889,
-    "wof:lastmodified":1561844026,
+    "wof:lastmodified":1563278545,
     "wof:name":"M\u00fdloi",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

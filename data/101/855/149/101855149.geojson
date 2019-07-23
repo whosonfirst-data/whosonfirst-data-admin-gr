@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0633\u064a\u0627\u0631\u0643\u064a\u0633\u060c \u0647\u0627\u0644\u0643\u064a\u062f\u064a\u0643\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0643\u0633\u064a\u0627\u0631\u0643\u064a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0441\u0438\u0430\u0440\u0445\u0438\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Taxi\u00e1rchis"
     ],
     "name:ell_x_historical":[
         "\u039b\u03bf\u03cd\u03ba\u03bf\u03b2\u03b7"
@@ -37,8 +43,14 @@
     "name:eng_x_preferred":[
         "Taksiarchis"
     ],
+    "name:eng_x_variant":[
+        "Taxiarchis"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Taxiarchis"
     ],
     "name:swe_x_preferred":[
         "Taxi\u00e1rchis"
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":101855149,
-    "wof:lastmodified":1561844009,
+    "wof:lastmodified":1563278168,
     "wof:name":"\u03a4\u0391\u039e\u0399\u0391\u03a1\u03a7\u0397\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

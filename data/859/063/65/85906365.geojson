@@ -25,6 +25,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Gyzi"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03cd\u03b6\u03b7"
     ],
@@ -32,8 +35,8 @@
         "Gkyzi"
     ],
     "name:eng_x_variant":[
-        "Gkyzi",
-        "Gyzi"
+        "Gyzi",
+        "Gizi"
     ],
     "name:fin_x_preferred":[
         "Gk\u00fdzi"
@@ -43,6 +46,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0437\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u0490\u0456\u0437\u0456"
     ],
     "name:unk_x_variant":[
         "Gkyzi"
@@ -105,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606691,
+    "wof:lastmodified":1563277009,
     "wof:name":"Gizi",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

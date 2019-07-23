@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0631\u0648\u0628\u0648\u0644\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Mitr\u00f3poli"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b7 \u039a\u03b1\u03c1\u03b4\u03af\u03c4\u03c3\u03b1\u03c2"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:eng_x_preferred":[
         "Mitropoli"
+    ],
+    "name:fin_x_preferred":[
+        "Mitr\u00f3poli"
     ],
     "name:ita_x_preferred":[
         "Mitropoli"
@@ -41,6 +47,12 @@
     ],
     "name:nno_x_preferred":[
         "Mitr\u00f3poli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0441\u0444\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441"
     ],
     "name:swe_x_preferred":[
         "Mitr\u00f3poli"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":101849191,
-    "wof:lastmodified":1561844003,
+    "wof:lastmodified":1563278085,
     "wof:name":"\u039c\u0397\u03a4\u03a1\u039f\u03a0\u039f\u039b\u0399\u03a3",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

@@ -22,14 +22,21 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u0628\u064a\u0644\u0648\u064a\u060c \u0633\u064a\u0631\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0645\u0628\u064a\u0644\u0648\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1mpeloi"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bc\u03c0\u03b5\u03bb\u03bf\u03b9"
     ],
     "name:ell_x_variant":[
-        "\u00c1mpeloi"
+        "\u00c1mpeloi",
+        "\u0386\u03bc\u03c0\u03b5\u03bb\u03bf\u03b9 \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ampeloi"
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":1125836875,
-    "wof:lastmodified":1514444080,
+    "wof:lastmodified":1563279175,
     "wof:name":"\u00c1mbeloi",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

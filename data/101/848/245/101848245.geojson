@@ -26,11 +26,15 @@
     "name:bul_x_variant":[
         "\u041a\u0440\u0435\u0300\u0441\u0442\u0435\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kr\u00e9stena"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03ad\u03c3\u03c4\u03b5\u03bd\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03c1\u03ad\u03c3\u03c4\u03b1\u03b9\u03bd\u03b1"
+        "\u039a\u03c1\u03ad\u03c3\u03c4\u03b1\u03b9\u03bd\u03b1",
+        "\u039a\u03c1\u03ad\u03c3\u03c4\u03b5\u03bd\u03b1 \u0397\u03bb\u03b5\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Krestena"
@@ -38,11 +42,23 @@
     "name:fin_x_preferred":[
         "Kr\u00e9stena"
     ],
+    "name:fra_x_preferred":[
+        "Krestena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ec\u30b9\u30c6\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Krestena"
+    ],
     "name:nno_x_preferred":[
         "Kr\u00e9stena"
     ],
     "name:ron_x_preferred":[
         "Krestena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0435\u0441\u0442\u0435\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Kr\u00e9stena"
@@ -99,7 +115,7 @@
         }
     ],
     "wof:id":101848245,
-    "wof:lastmodified":1544740338,
+    "wof:lastmodified":1563277986,
     "wof:name":"\u039a\u03a1\u0395\u03a3\u03a4\u0395\u039d\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

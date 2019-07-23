@@ -30,6 +30,12 @@
     "name:arg_x_preferred":[
         "Tesalia"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0633\u0627\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Fessaliya"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0435\u0441\u0430\u043b\u0456\u044f"
     ],
@@ -51,8 +57,14 @@
     "name:chv_x_preferred":[
         "\u0424\u0435\u0441\u0441\u0430\u043b\u0438"
     ],
+    "name:cym_x_preferred":[
+        "Thessalia"
+    ],
     "name:dan_x_preferred":[
         "Thessaly"
+    ],
+    "name:dan_x_variant":[
+        "Thessalien"
     ],
     "name:deu_x_preferred":[
         "Thessalien"
@@ -92,6 +104,9 @@
     ],
     "name:glg_x_preferred":[
         "Tesalia"
+    ],
+    "name:grc_x_preferred":[
+        "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Thessalie"
@@ -138,11 +153,17 @@
     "name:kor_x_preferred":[
         "\ud14c\uc0b4\ub9ac\uc544 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud14c\uc0b4\ub9ac\uc544"
+    ],
     "name:lat_x_preferred":[
         "Thessalia"
     ],
     "name:lav_x_preferred":[
         "Tes\u0101lija"
+    ],
+    "name:lfn_x_preferred":[
+        "Tesalia"
     ],
     "name:lim_x_preferred":[
         "Thessali\u00eb"
@@ -170,6 +191,9 @@
     ],
     "name:nob_x_preferred":[
         "Thessalia"
+    ],
+    "name:oci_x_preferred":[
+        "Tess\u00e0lia"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u06be\u06cc\u0633\u06cc\u0644\u06d2"
@@ -342,7 +366,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1561843972,
+    "wof:lastmodified":1563277044,
     "wof:name":"Thessaly",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

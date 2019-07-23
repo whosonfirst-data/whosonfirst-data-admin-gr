@@ -27,10 +27,10 @@
     "name:aze_x_preferred":[
         "K\u0430terini"
     ],
-    "name:bel_x_preferred":[
-        "\u041a\u0430\u0442\u044d\u0440\u044b\u043d\u0456"
+    "name:bak_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0438"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041a\u0430\u0442\u044d\u0440\u044b\u043d\u0456"
     ],
     "name:ben_x_preferred":[
@@ -38,6 +38,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Kater\u00edni"
     ],
     "name:ces_x_preferred":[
         "Katerini"
@@ -66,11 +69,17 @@
     "name:est_x_preferred":[
         "Kater\u00edni"
     ],
+    "name:eus_x_preferred":[
+        "Katerini"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u062a\u0631\u06cc\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kater\u00edni"
+    ],
+    "name:fin_x_variant":[
+        "Katerini"
     ],
     "name:fra_x_preferred":[
         "Kater\u00edni"
@@ -366,7 +375,7 @@
         }
     ],
     "wof:id":101752327,
-    "wof:lastmodified":1561843987,
+    "wof:lastmodified":1563277846,
     "wof:name":"\u039a\u0391\u03a4\u0395\u03a1\u0399\u039d\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

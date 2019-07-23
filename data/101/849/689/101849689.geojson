@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u064a\u0646\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Salam\u00edna"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bb\u03b1\u03bc\u03af\u03bd\u03b1"
     ],
@@ -70,6 +73,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0438\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u043b\u0430\u043c\u0438\u043d"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0438\u043d\u0430"
     ],
@@ -78,6 +84,12 @@
     ],
     "name:unk_x_variant":[
         "Ko\u00falouri"
+    ],
+    "name:war_x_preferred":[
+        "Salamina"
+    ],
+    "name:zho_x_preferred":[
+        "\u6492\u62c9\u7c73"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -133,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561844001,
+    "wof:lastmodified":1563278049,
     "wof:name":"\u03a3\u0391\u039b\u0391\u039c\u0399\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

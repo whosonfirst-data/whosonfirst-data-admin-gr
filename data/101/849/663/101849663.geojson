@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0648\u063a\u0648\u0644\u0627\u0634\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Zevgolatei\u00f3"
+    ],
     "name:ell_x_historical":[
         "\u03a4\u03c1\u03b1\u03bd\u03bf\u03b6\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03b9\u03cc"
     ],
@@ -28,7 +31,8 @@
     ],
     "name:ell_x_variant":[
         "\u0396\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03b9\u03cc",
-        "\u03a4\u03c1\u03b1\u03bd\u03bf\u03b6\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03b9\u03cc"
+        "\u03a4\u03c1\u03b1\u03bd\u03bf\u03b6\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03b9\u03cc",
+        "\u0396\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03b9\u03cc \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Zevgolatio"
@@ -39,8 +43,14 @@
     "name:fin_x_preferred":[
         "Zevgolate\u00edo"
     ],
+    "name:nld_x_preferred":[
+        "Zevgolateio"
+    ],
     "name:nno_x_preferred":[
         "Zevgolati\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0432\u0433\u043e\u043b\u0430\u0442\u0438\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Zevgolatei\u00f3"
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":101849663,
-    "wof:lastmodified":1544741056,
+    "wof:lastmodified":1563278105,
     "wof:name":"\u0396\u0395\u03a5\u0393\u039f\u039b\u0391\u03a4\u0399\u039f\u039d",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -38,6 +38,12 @@
     "name:ita_x_preferred":[
         "Napasoq"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30d1\u30bd\u30c3\u30af"
+    ],
+    "name:kal_x_preferred":[
+        "Napasoq"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10de\u10d0\u10e1\u10dd\u10d9\u10d8"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Napasoq"
+    ],
+    "name:swe_x_variant":[
+        "Tussaaq"
     ],
     "name:unk_x_variant":[
         "Napassoq"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":101870727,
-    "wof:lastmodified":1561843996,
+    "wof:lastmodified":1563277976,
     "wof:name":"Napasoq",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648\u0643\u064a\u0633\u0627\u0631\u064a\u0627\u060c \u0625\u0648\u0627\u0646\u064a\u0646\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0648\u0643\u064a\u0633\u0627\u0631\u064a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Neokais\u00e1reia"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b5\u03bf\u03ba\u03b1\u03b9\u03c3\u03ac\u03c1\u03b5\u03b9\u03b1"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Neokaisareia"
+    ],
+    "name:eng_x_variant":[
+        "Neokesaria"
     ],
     "name:swe_x_preferred":[
         "Neokais\u00e1reia"
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1126035141,
-    "wof:lastmodified":1561844025,
+    "wof:lastmodified":1563278517,
     "wof:name":"Neokais\u00e1reia",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",
