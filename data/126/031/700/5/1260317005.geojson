@@ -27,11 +27,35 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u064a\u064a\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043a\u0430\u043d\u0434\u0436\u0430\u043b\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Mouri\u00e9s"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c1\u03b9\u03ad\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03c5\u03c1\u03b9\u03ad\u03c2 \u039a\u03b9\u03bb\u03ba\u03af\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Mouries"
+    ],
+    "name:fin_x_preferred":[
+        "Mouri\u00e9s"
+    ],
+    "name:ita_x_preferred":[
+        "Mouries"
+    ],
+    "name:nno_x_preferred":[
+        "Mouri\u00e9s"
+    ],
+    "name:swe_x_preferred":[
+        "Mouri\u00e9s"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1260317005,
-    "wof:lastmodified":1537625059,
+    "wof:lastmodified":1564224041,
     "wof:name":"Mouries",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

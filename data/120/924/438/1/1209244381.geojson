@@ -27,11 +27,23 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vater\u00e1"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03c4\u03b5\u03c1\u03ac"
     ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c4\u03b5\u03c1\u03ac \u039b\u03ad\u03c3\u03b2\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Vatera"
+    ],
+    "name:spa_x_preferred":[
+        "Vatera"
+    ],
+    "name:swe_x_preferred":[
+        "Vater\u00e1"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209244381,
-    "wof:lastmodified":1537563180,
+    "wof:lastmodified":1564223830,
     "wof:name":"Vatera",
     "wof:parent_id":85633171,
     "wof:placetype":"locality",

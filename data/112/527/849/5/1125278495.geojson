@@ -25,11 +25,23 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0442\u0435\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Kal\u00b7lithea"
+    ],
+    "name:ceb_x_preferred":[
+        "Kallith\u00e9a"
+    ],
+    "name:ces_x_preferred":[
+        "Kallithea"
+    ],
     "name:deu_x_preferred":[
         "Kallithea"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03b8\u03ad\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kallithea"
@@ -40,14 +52,26 @@
     "name:fin_x_preferred":[
         "Kallithea"
     ],
+    "name:fin_x_variant":[
+        "Kallith\u00e9a"
+    ],
     "name:fra_x_preferred":[
         "Kallith\u00e9a"
+    ],
+    "name:glv_x_preferred":[
+        "Kallithea"
     ],
     "name:hun_x_preferred":[
         "Kalith\u00e9a"
     ],
     "name:ita_x_preferred":[
         "Kallithea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30c6\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub9ac\ud14c\uc544"
     ],
     "name:lit_x_preferred":[
         "Kalit\u0117ja"
@@ -61,14 +85,23 @@
     "name:pol_x_preferred":[
         "Kallithea"
     ],
+    "name:pol_x_variant":[
+        "Kalitea"
+    ],
     "name:por_x_preferred":[
         "Kallithea"
+    ],
+    "name:por_x_variant":[
+        "Caliteia"
     ],
     "name:ron_x_preferred":[
         "Kallithea"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043b\u0438\u0444\u0435\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u043b\u0438\u0442\u0435\u044f"
     ],
     "name:slk_x_preferred":[
         "Kallithea"
@@ -82,17 +115,29 @@
     "name:swe_x_preferred":[
         "Kallithea"
     ],
+    "name:tur_x_preferred":[
+        "Kallithea"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u043b\u0456\u0442\u0435\u044f"
     ],
     "name:unk_x_variant":[
         "Kallith\u00e9a"
     ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0644\u06cc\u062a\u06be\u06cc\u0627"
+    ],
     "name:vie_x_preferred":[
         "Kallithea"
     ],
     "name:vol_x_preferred":[
         "Kallithea"
+    ],
+    "name:war_x_preferred":[
+        "Kallithea"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5229\u5730\u4e9e"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -142,7 +187,7 @@
         }
     ],
     "wof:id":1125278495,
-    "wof:lastmodified":1509387227,
+    "wof:lastmodified":1564224755,
     "wof:name":"Kallithea",
     "wof:parent_id":85684697,
     "wof:placetype":"localadmin",

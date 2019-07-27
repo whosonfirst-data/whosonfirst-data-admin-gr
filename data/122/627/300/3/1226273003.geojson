@@ -27,6 +27,9 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0628\u0648\u0644\u064a"
+    ],
     "name:ell_x_historical":[
         "\u03a1\u03bf\u03c5\u03c3\u03ad\u03ca\u03ba\u03b1",
         "\u03a1\u03bf\u03c5\u03c3\u03c3\u03b1\u03af\u03b9\u03ba\u03b1"
@@ -40,6 +43,15 @@
     ],
     "name:eng_x_preferred":[
         "Neapolis"
+    ],
+    "name:fin_x_preferred":[
+        "Ne\u00e1poli"
+    ],
+    "name:ita_x_preferred":[
+        "Neapoli"
+    ],
+    "name:ron_x_preferred":[
+        "Neapoli"
     ],
     "name:und_x_variant":[
         "Rousa\u00ed\u00efka",
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1226273003,
-    "wof:lastmodified":1537624256,
+    "wof:lastmodified":1564225520,
     "wof:name":"Neapolis",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

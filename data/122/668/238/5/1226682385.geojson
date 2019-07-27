@@ -27,11 +27,24 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043a\u043e\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Ko\u00fakkos"
+    ],
     "name:ell_x_preferred":[
         "Ko\u00fakkos"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03cd\u03ba\u03ba\u03bf\u03c2"
+        "\u039a\u03bf\u03cd\u03ba\u03ba\u03bf\u03c2",
+        "\u039a\u03bf\u03cd\u03ba\u03bf\u03c2 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ko\u00fakkos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":1226682385,
-    "wof:lastmodified":1537625013,
+    "wof:lastmodified":1564225564,
     "wof:name":"Koukkos",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

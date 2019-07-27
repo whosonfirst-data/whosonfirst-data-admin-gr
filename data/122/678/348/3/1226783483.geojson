@@ -27,13 +27,23 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u043c\u043d\u0438\u043e"
+    ],
     "name:ell_x_preferred":[
         "R\u00fdmnio"
     ],
     "name:ell_x_variant":[
         "\u03a1\u03cd\u03bc\u03bd\u03b9\u03bf",
         "R\u00fdmnion",
-        "\u03a1\u03cd\u03bc\u03bd\u03b9\u03bf\u03bd"
+        "\u03a1\u03cd\u03bc\u03bd\u03b9\u03bf\u03bd",
+        "\u03a1\u03cd\u03bc\u03bd\u03b9\u03bf \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043c\u043d\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043c\u043d\u0438\u043e"
     ],
     "name:und_x_variant":[
         "R\u00edmnion"
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1226783483,
-    "wof:lastmodified":1537624839,
+    "wof:lastmodified":1564225647,
     "wof:name":"Rymnio",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

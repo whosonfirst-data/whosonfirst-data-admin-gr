@@ -27,6 +27,12 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u0447\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Skl\u00edthro"
+    ],
     "name:ell_x_historical":[
         "\u0396\u03b5\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b9\u03bf\u03bd",
         "\u0396\u03b5\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b9",
@@ -39,10 +45,20 @@
         "\u03a3\u03ba\u03bb\u03ae\u03b8\u03c1\u03bf\u03bd",
         "\u0396\u03b5\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b9\u03bf\u03bd",
         "\u0396\u03b5\u03bb\u03b5\u03bd\u03af\u03c4\u03c3\u03b9",
-        "\u0396\u03ad\u03bb\u03b5\u03bd\u03b9\u03c4\u03c2"
+        "\u0396\u03ad\u03bb\u03b5\u03bd\u03b9\u03c4\u03c2",
+        "\u03a3\u03ba\u03bb\u03ae\u03b8\u03c1\u03bf \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Sklithro"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u0447\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Skl\u00edthro"
     ],
     "name:und_x_variant":[
         "Sk\u00e9lidhron",
@@ -73,7 +89,7 @@
         }
     ],
     "wof:id":1276263763,
-    "wof:lastmodified":1537624829,
+    "wof:lastmodified":1564223613,
     "wof:name":"Sklithro",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

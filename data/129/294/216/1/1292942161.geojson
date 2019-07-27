@@ -27,6 +27,12 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1gios German\u00f3s"
+    ],
     "name:ell_x_historical":[
         "\u0393\u03ad\u03c1\u03bc\u03b1\u03bd"
     ],
@@ -34,7 +40,8 @@
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03cc\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u0393\u03ad\u03c1\u03bc\u03b1\u03bd"
+        "\u0393\u03ad\u03c1\u03bc\u03b1\u03bd",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03cc\u03c2 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "G\u00e9rman",
@@ -50,6 +57,15 @@
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:sqi_x_preferred":[
+        "Gjermani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0458\u043e\u0441 \u0413\u0435\u0440\u043c\u0430\u043d\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios German\u00f3s"
     ],
     "name:und_x_variant":[
         "\u00c1yios Yerman\u00f3s"
@@ -77,7 +93,7 @@
         }
     ],
     "wof:id":1292942161,
-    "wof:lastmodified":1537624962,
+    "wof:lastmodified":1564223417,
     "wof:name":"Agios Germanos",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

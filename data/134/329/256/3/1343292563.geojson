@@ -27,8 +27,17 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0441\u043f\u0440\u0443\u043b\u0430"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c0\u03c1\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c3\u03c0\u03c1\u03bf\u03cd\u03bb\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0448\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Aspro\u00fala"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343292563,
-    "wof:lastmodified":1537624970,
+    "wof:lastmodified":1564223303,
     "wof:name":"Asproula",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

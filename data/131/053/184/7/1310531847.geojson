@@ -27,8 +27,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u063a\u064a\u0648\u0633 \u062f\u064a\u0645\u062a\u0631\u064a\u0648\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0431\u0430\u043d\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u043e\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Agios Dimitrios"
+    ],
+    "name:deu_x_preferred":[
+        "Agios Dimitrios"
     ],
     "name:ell_x_historical":[
         "\u03a0\u03b1\u03bb\u03b7\u03cc\u03c4\u03c1\u03bf"
@@ -38,7 +50,8 @@
     ],
     "name:ell_x_variant":[
         "\u00c1gios Dim\u00edtrios",
-        "\u03a0\u03b1\u03bb\u03b7\u03cc\u03c4\u03c1\u03bf"
+        "\u03a0\u03b1\u03bb\u03b7\u03cc\u03c4\u03c1\u03bf",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_historical":[
         "Paliotro"
@@ -49,11 +62,62 @@
     "name:eng_x_variant":[
         "Paliotro"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0698\u06cc\u0648\u0633 \u062f\u06cc\u0645\u06cc\u062a\u0631\u06cc\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c1gios Dim\u00edtrios"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c1gios Dim\u00edtrios"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d-\u0534\u056b\u0574\u056b\u057f\u0580\u056b\u0578\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Agios D\u012bm\u012btrios"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc694\uc2a4\ub514\ubbf8\ud2b8\ub9ac\uc624\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Agios Dimitrios"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c1jos Dim\u00edtrios"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Dimitrios"
+    ],
+    "name:ron_x_preferred":[
+        "Agios Dimitrios"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043e\u0441-\u0414\u0438\u043c\u0438\u0442\u0440\u0438\u043e\u0441"
+    ],
+    "name:sqi_x_preferred":[
+        "Brahami"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0458\u043e\u0441 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u043e\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Ayos Dimitrios"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043e\u0441-\u0414\u0456\u043c\u0456\u0442\u0440\u0456\u043e\u0441"
+    ],
     "name:und_x_variant":[
         "Pali\u00f3stros",
         "Pali\u00f3tros",
         "Pali\u00f3trous",
         "\u00c1yios Dhim\u00edtrios"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u062f\u06cc\u0645\u06cc\u062a\u0631\u06cc\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Aghios Dimitrios"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +141,7 @@
         }
     ],
     "wof:id":1310531847,
-    "wof:lastmodified":1537624965,
+    "wof:lastmodified":1564224168,
     "wof:name":"Agios Dimitrios",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

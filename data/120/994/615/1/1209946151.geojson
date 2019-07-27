@@ -28,11 +28,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0434\u0430\u043c\u0435\u0440\u0438"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03b4\u03b1\u03bc\u03ad\u03c1\u03b9"
     ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03b4\u03b1\u03bc\u03ad\u03c1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Ardam\u00e9ri"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0434\u0430\u043c\u0435\u0440\u0438"
     ],
     "name:und_x_variant":[
         "Ardam\u00e9rion"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1209946151,
-    "wof:lastmodified":1537624973,
+    "wof:lastmodified":1564223923,
     "wof:name":"Ardameri",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

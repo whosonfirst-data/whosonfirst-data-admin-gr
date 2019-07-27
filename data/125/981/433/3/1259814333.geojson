@@ -27,14 +27,26 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042f\u043d\u0438\u0446\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Yiannitso\u00fa"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03b1\u03bd\u03bd\u03b9\u03c4\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03b1\u03bd\u03bd\u03b9\u03c4\u03c3\u03bf\u03cd \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Giannitsou"
     ],
     "name:eng_x_variant":[
         "Yiannitsou"
+    ],
+    "name:swe_x_preferred":[
+        "Yiannitso\u00fa"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1259814333,
-    "wof:lastmodified":1537624136,
+    "wof:lastmodified":1564225492,
     "wof:name":"Yiannitsou",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

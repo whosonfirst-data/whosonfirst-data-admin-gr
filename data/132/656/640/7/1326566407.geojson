@@ -27,6 +27,12 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Eleutherna"
+    ],
+    "name:deu_x_preferred":[
+        "Eleutherna"
+    ],
     "name:ell_x_historical":[
         "\u0391\u03bd\u03b1\u03c7\u03bf\u03c5\u03c1\u03b4\u03bf\u03bc\u03ad\u03c4\u03bf\u03c7\u03b1"
     ],
@@ -34,7 +40,8 @@
         "\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bd\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u0391\u03bd\u03b1\u03c7\u03bf\u03c5\u03c1\u03b4\u03bf\u03bc\u03ad\u03c4\u03bf\u03c7\u03b1"
+        "\u0391\u03bd\u03b1\u03c7\u03bf\u03c5\u03c1\u03b4\u03bf\u03bc\u03ad\u03c4\u03bf\u03c7\u03b1",
+        "\u0391\u03c1\u03c7\u03b1\u03af\u03b1 \u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bd\u03b1"
     ],
     "name:eng_x_historical":[
         "Anachourdometocha"
@@ -45,6 +52,33 @@
     "name:eng_x_variant":[
         "Eleftherna",
         "Anachourdometocha"
+    ],
+    "name:fin_x_preferred":[
+        "Eleutherna"
+    ],
+    "name:fra_x_preferred":[
+        "Eleftherna"
+    ],
+    "name:ita_x_preferred":[
+        "Eleftherna"
+    ],
+    "name:lat_x_preferred":[
+        "Eleutherna"
+    ],
+    "name:nld_x_preferred":[
+        "Eleftherna"
+    ],
+    "name:por_x_preferred":[
+        "Eleuterna"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0435\u0444\u0442\u0435\u0440\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Eleuterna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u0435\u0432\u0442\u0435\u0440\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Elevth\u00e9rnai",
@@ -74,7 +108,7 @@
         }
     ],
     "wof:id":1326566407,
-    "wof:lastmodified":1537624647,
+    "wof:lastmodified":1564223011,
     "wof:name":"Eleftherna",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

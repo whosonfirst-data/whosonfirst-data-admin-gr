@@ -30,8 +30,26 @@
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03b8\u03b7\u03b4\u03ce\u03bd\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03bd\u03b8\u03b7\u03b4\u03ce\u03bd\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Anthidona"
+    ],
+    "name:fin_x_preferred":[
+        "Anthid\u00f3na"
+    ],
+    "name:fra_x_preferred":[
+        "Anthidon"
+    ],
+    "name:ita_x_preferred":[
+        "Anthidona"
+    ],
+    "name:lat_x_preferred":[
+        "Anthedon"
+    ],
+    "name:nno_x_preferred":[
+        "Anthid\u00f3na"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1260320563,
-    "wof:lastmodified":1537625085,
+    "wof:lastmodified":1564224107,
     "wof:name":"Anthidona",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

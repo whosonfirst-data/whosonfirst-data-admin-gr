@@ -30,8 +30,14 @@
     "name:ell_x_preferred":[
         "\u039c\u03b7\u03c4\u03ac\u03c4\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b7\u03c4\u03ac\u03c4\u03b1 \u039a\u03c5\u03b8\u03ae\u03c1\u03c9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Mitata"
+    ],
+    "name:fin_x_preferred":[
+        "Mit\u00e1ta"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360215735,
-    "wof:lastmodified":1537624374,
+    "wof:lastmodified":1564224311,
     "wof:name":"Mitata",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

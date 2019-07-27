@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "\u00c1kra Vo\u00faxa"
+    ],
     "name:ell_x_historical":[
         "\u039b\u03b1\u03c1\u03b4\u03ac\u03c2"
     ],
@@ -27,7 +30,8 @@
     ],
     "name:ell_x_variant":[
         "\u039b\u03b1\u03c1\u03b4\u03ac\u03c2",
-        "\u0393\u03c1\u03b1\u03bc\u03b2\u03bf\u03cd\u03c3\u03b1"
+        "\u0393\u03c1\u03b1\u03bc\u03b2\u03bf\u03cd\u03c3\u03b1",
+        "\u0393\u03c1\u03b1\u03bc\u03b2\u03bf\u03cd\u03c3\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:eng_x_historical":[
         "Lardas"
@@ -38,8 +42,38 @@
     "name:eng_x_variant":[
         "Lardas"
     ],
+    "name:fin_x_preferred":[
+        "Gramvo\u00fasa"
+    ],
+    "name:fra_x_preferred":[
+        "Gramvoussa"
+    ],
+    "name:glg_x_preferred":[
+        "Agria Gramvousa"
+    ],
+    "name:ita_x_preferred":[
+        "Grabusa"
+    ],
+    "name:nld_x_preferred":[
+        "Gramvoussa"
+    ],
+    "name:nor_x_preferred":[
+        "Gramvousa"
+    ],
+    "name:por_x_preferred":[
+        "Gramb\u00fassa"
+    ],
+    "name:swe_x_preferred":[
+        "Gramvousa"
+    ],
     "name:unk_x_variant":[
         "Lardh\u00e1s"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0631\u0627\u0645\u067e\u0648\u0633\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u59c6\u6b66\u85a9\u7fa4\u5cf6"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -89,7 +123,7 @@
         }
     ],
     "wof:id":1126031471,
-    "wof:lastmodified":1509407938,
+    "wof:lastmodified":1564224692,
     "wof:name":"Gramvousa",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

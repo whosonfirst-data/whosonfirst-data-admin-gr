@@ -27,14 +27,26 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pl\u00e1ka"
+    ],
     "name:deu_x_preferred":[
         "Plaka"
+    ],
+    "name:deu_x_variant":[
+        "Milos"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bb\u03ac\u03ba\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bb\u03ac\u03ba\u03b1 \u039c\u03ae\u03bb\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Plaka"
+    ],
+    "name:fin_x_preferred":[
+        "Pl\u00e1ka"
     ],
     "name:fra_x_preferred":[
         "Pl\u00e1ka"
@@ -42,8 +54,14 @@
     "name:lat_x_preferred":[
         "Placa"
     ],
+    "name:lit_x_preferred":[
+        "Plaka"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043b\u0430\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043b\u043e\u0441"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0430\u043a\u0438"
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1193052307,
-    "wof:lastmodified":1537625036,
+    "wof:lastmodified":1564224008,
     "wof:name":"Plaka",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

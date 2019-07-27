@@ -33,8 +33,14 @@
     "name:cat_x_preferred":[
         "Estageira"
     ],
+    "name:ceb_x_preferred":[
+        "St\u00e1geira"
+    ],
     "name:deu_x_preferred":[
         "Stageira"
+    ],
+    "name:deu_x_variant":[
+        "Stagira"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03ac\u03b3\u03b5\u03b9\u03c1\u03b1"
@@ -42,13 +48,17 @@
     "name:ell_x_variant":[
         "St\u00e1geira",
         "St\u00e1yira",
-        "\u03a3\u03c4\u03ac\u03b3\u03b9\u03c1\u03b1"
+        "\u03a3\u03c4\u03ac\u03b3\u03b9\u03c1\u03b1",
+        "\u03a3\u03c4\u03ac\u03b3\u03b5\u03b9\u03c1\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Stagira"
     ],
     "name:fin_x_preferred":[
         "Stageira"
+    ],
+    "name:fin_x_variant":[
+        "St\u00e1gira"
     ],
     "name:fra_x_preferred":[
         "Stagire"
@@ -67,6 +77,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud0c0\uac8c\uc774\ub77c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u045f\u0438 \u041c\u0430\u0430\u043b\u043e"
     ],
     "name:nld_x_preferred":[
         "Stageira"
@@ -95,6 +108,9 @@
     "name:spa_x_preferred":[
         "Estagira"
     ],
+    "name:swe_x_preferred":[
+        "Stageira"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0433\u0456\u0440\u0430"
     ],
@@ -121,7 +137,7 @@
         }
     ],
     "wof:id":1210047793,
-    "wof:lastmodified":1537624825,
+    "wof:lastmodified":1564223979,
     "wof:name":"Stageira",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

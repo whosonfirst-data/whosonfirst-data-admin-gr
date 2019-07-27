@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043a\u0430\u043b\u0443"
+    ],
     "name:ell_x_preferred":[
         "Kokkalo\u00fa"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03ba\u03ba\u03b1\u03bb\u03bf\u03cd"
+        "\u039a\u03bf\u03ba\u03ba\u03b1\u03bb\u03bf\u03cd",
+        "\u039a\u03bf\u03ba\u03ba\u03b1\u03bb\u03bf\u03cd \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043a\u0430\u043b\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1309941019,
-    "wof:lastmodified":1537624916,
+    "wof:lastmodified":1564224452,
     "wof:name":"Kokkalou",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

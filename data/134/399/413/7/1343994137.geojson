@@ -27,6 +27,12 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Sitari\u00e1"
+    ],
     "name:ell_x_historical":[
         "\u03a1\u03cc\u03c3\u03bd\u03b1"
     ],
@@ -35,7 +41,8 @@
     ],
     "name:ell_x_variant":[
         "\u03a1\u03cc\u03c3\u03bd\u03b1",
-        "\u03a3\u03b9\u03c4\u03b1\u03c1\u03b3\u03b9\u03ac"
+        "\u03a3\u03b9\u03c4\u03b1\u03c1\u03b3\u03b9\u03ac",
+        "\u03a3\u03b9\u03c4\u03b1\u03c1\u03b9\u03ac \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Rosna"
@@ -46,6 +53,12 @@
     "name:eng_x_variant":[
         "Sitari\u00e1",
         "Rosna"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d"
     ],
     "name:und_x_variant":[
         "R\u00f3sna"
@@ -73,7 +86,7 @@
         }
     ],
     "wof:id":1343994137,
-    "wof:lastmodified":1537624832,
+    "wof:lastmodified":1564223174,
     "wof:name":"Sitaria",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

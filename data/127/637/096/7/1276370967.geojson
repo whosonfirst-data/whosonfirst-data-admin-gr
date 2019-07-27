@@ -27,13 +27,23 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0641\u0646\u064a\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Dafnes"
+    ],
     "name:ell_x_preferred":[
         "D\u00e1fnes"
     ],
     "name:ell_x_variant":[
         "\u0394\u03ac\u03c6\u03bd\u03b5\u03c2",
         "D\u00e1fnai",
-        "\u0394\u03ac\u03c6\u03bd\u03b1\u03b9"
+        "\u0394\u03ac\u03c6\u03bd\u03b1\u03b9",
+        "\u0394\u03b1\u03c6\u03bd\u03ad\u03c2 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5"
+    ],
+    "name:fin_x_preferred":[
+        "Dafn\u00e9s"
     ],
     "name:und_x_variant":[
         "Kakokhori\u00f3",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1276370967,
-    "wof:lastmodified":1537624680,
+    "wof:lastmodified":1564223739,
     "wof:name":"Dafnes",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

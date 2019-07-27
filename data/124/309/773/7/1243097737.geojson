@@ -27,18 +27,31 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Episkopei\u00f3"
+    ],
     "name:ell_x_preferred":[
         "Episkope\u00edo"
     ],
     "name:ell_x_variant":[
         "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03af\u03bf",
         "Episkope\u00edon",
-        "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03af\u03bf\u03bd"
+        "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03af\u03bf\u03bd",
+        "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03b9\u03cc"
+    ],
+    "name:pol_x_preferred":[
+        "Episkopio"
+    ],
+    "name:swe_x_preferred":[
+        "Episkopei\u00f3"
     ],
     "name:und_x_variant":[
         "Episkopi\u00f3",
         "Episkop\u00ed",
         "Episkopi\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u067e\u06cc\u0633\u06a9\u0648\u067e\u06cc\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1243097737,
-    "wof:lastmodified":1537624641,
+    "wof:lastmodified":1564225191,
     "wof:name":"Episkopeio",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

@@ -27,13 +27,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u043a\u0430\u0441\u0442\u0430\u043d\u043e"
+    ],
     "name:ell_x_preferred":[
         "Polyk\u00e1stano"
     ],
     "name:ell_x_variant":[
         "\u03a0\u03bf\u03bb\u03c5\u03ba\u03ac\u03c3\u03c4\u03b1\u03bd\u03bf",
         "Polyk\u00e1stanon",
-        "\u03a0\u03bf\u03bb\u03c5\u03ba\u03ac\u03c3\u03c4\u03b1\u03bd\u03bf\u03bd"
+        "\u03a0\u03bf\u03bb\u03c5\u03ba\u03ac\u03c3\u03c4\u03b1\u03bd\u03bf\u03bd",
+        "\u03a0\u03bf\u03bb\u03c5\u03ba\u03ac\u03c3\u03c4\u03b1\u03bd\u03bf \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043b\u0435\u043f\u0438\u0448"
     ],
     "name:und_x_variant":[
         "Klep\u00edstion",
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1209549929,
-    "wof:lastmodified":1537624848,
+    "wof:lastmodified":1564223782,
     "wof:name":"Polykastano",
     "wof:parent_id":85633171,
     "wof:placetype":"locality",

@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0441"
+    ],
     "name:ell_x_preferred":[
         "Vyth\u00f3s"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03c5\u03b8\u03cc\u03c2"
+        "\u0392\u03c5\u03b8\u03cc\u03c2",
+        "\u0392\u03c5\u03b8\u03cc\u03c2 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043e\u0441"
     ],
     "name:und_x_variant":[
         "D\u00f3los",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1343796413,
-    "wof:lastmodified":1537624811,
+    "wof:lastmodified":1564223219,
     "wof:name":"Vythos",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

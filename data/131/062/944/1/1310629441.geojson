@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043f\u0441\u0438"
+    ],
     "name:ell_x_preferred":[
         "Le\u00edpsi"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03b5\u03af\u03c8\u03b9"
+        "\u039b\u03b5\u03af\u03c8\u03b9",
+        "\u039b\u03b5\u03af\u03c8\u03b9 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043f\u0441\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1310629441,
-    "wof:lastmodified":1537625046,
+    "wof:lastmodified":1564224154,
     "wof:name":"Leipsi",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

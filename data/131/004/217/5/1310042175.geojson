@@ -27,12 +27,19 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0442\u0435\u0440\u043e"
+    ],
     "name:ell_x_preferred":[
         "Vater\u00f3"
     ],
     "name:ell_x_variant":[
         "\u0392\u03b1\u03c4\u03b5\u03c1\u03cc",
-        "\u0392\u03b1\u03c4\u03b5\u03c1\u03cc\u03bd"
+        "\u0392\u03b1\u03c4\u03b5\u03c1\u03cc\u03bd",
+        "\u0392\u03b1\u03c4\u03b5\u03c1\u03cc \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u045f\u0430 \u0410\u0445\u043c\u0435\u0442\u043b\u0438"
     ],
     "name:und_x_variant":[
         "Koj\u00e1-Matl\u00ed",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1310042175,
-    "wof:lastmodified":1537624815,
+    "wof:lastmodified":1564224216,
     "wof:name":"Vatero",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

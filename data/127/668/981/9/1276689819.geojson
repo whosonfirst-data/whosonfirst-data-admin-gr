@@ -27,12 +27,19 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u044c\u043e\u043a\u0447\u0435\u0431\u0443\u043d\u0430\u0440"
+    ],
     "name:ell_x_preferred":[
         "Gl\u00e1fki"
     ],
     "name:ell_x_variant":[
         "\u0393\u03bb\u03b1\u03cd\u03ba\u03b7",
-        "Gl\u00e1vki"
+        "Gl\u00e1vki",
+        "\u0393\u03bb\u03b1\u03cd\u03ba\u03b7 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0444\u043a\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1276689819,
-    "wof:lastmodified":1537624944,
+    "wof:lastmodified":1564223676,
     "wof:name":"Glafki",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

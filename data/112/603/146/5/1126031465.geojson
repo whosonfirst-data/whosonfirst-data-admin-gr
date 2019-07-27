@@ -19,17 +19,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u043e\u043f\u043e\u043b\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "An\u00f3poli"
+    ],
+    "name:deu_x_preferred":[
+        "Anopolis"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ce\u03c0\u03bf\u03bb\u03b7"
     ],
     "name:ell_x_variant":[
-        "\u0391\u03bd\u03ce\u03c0\u03bf\u03bb\u03b9\u03c2"
+        "\u0391\u03bd\u03ce\u03c0\u03bf\u03bb\u03b9\u03c2",
+        "\u0391\u03bd\u03ce\u03c0\u03bf\u03bb\u03b7 \u03a3\u03c6\u03b1\u03ba\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Anopolis"
     ],
     "name:eng_x_variant":[
         "Anopoli"
+    ],
+    "name:fin_x_preferred":[
+        "An\u00f3poli"
+    ],
+    "name:ita_x_preferred":[
+        "Anopoli"
+    ],
+    "name:nld_x_preferred":[
+        "Anopolis"
+    ],
+    "name:pol_x_preferred":[
+        "Anopoli"
+    ],
+    "name:spa_x_preferred":[
+        "An\u00f3polis"
+    ],
+    "name:swe_x_preferred":[
+        "An\u00f3poli"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -79,7 +107,7 @@
         }
     ],
     "wof:id":1126031465,
-    "wof:lastmodified":1509407938,
+    "wof:lastmodified":1564224691,
     "wof:name":"Anopolis",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

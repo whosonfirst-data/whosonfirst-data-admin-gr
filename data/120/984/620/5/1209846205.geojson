@@ -27,8 +27,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062f\u064a\u0628\u0633\u0648\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Aidips\u00f3s"
+    ],
+    "name:deu_x_preferred":[
+        "Edipsos"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b9\u03b4\u03b7\u03c8\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b9\u03b4\u03b7\u03c8\u03cc\u03c2 \u0395\u03cd\u03b2\u03bf\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Edipsos"
@@ -36,17 +48,29 @@
     "name:eng_x_variant":[
         "Aedipsos"
     ],
+    "name:fin_x_preferred":[
+        "Aidips\u00f3s"
+    ],
     "name:fra_x_preferred":[
         "Edipsos"
     ],
     "name:ita_x_preferred":[
         "Aidipsos"
     ],
+    "name:lat_x_preferred":[
+        "Aedepsus"
+    ],
+    "name:nno_x_preferred":[
+        "Edips\u00f3s"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0434\u0438\u043f\u0441\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Edepso"
+    ],
+    "name:swe_x_preferred":[
+        "Aidips\u00f3s"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0434\u0456\u043f\u0441\u043e\u0441"
@@ -80,7 +104,7 @@
         }
     ],
     "wof:id":1209846205,
-    "wof:lastmodified":1537624782,
+    "wof:lastmodified":1564223818,
     "wof:name":"Aidipsos",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

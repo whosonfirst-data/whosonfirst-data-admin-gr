@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0434\u0435\u043b\u0443\u0449\u0430"
+    ],
     "name:ell_x_preferred":[
         "Damaskini\u00e1"
     ],
     "name:ell_x_variant":[
-        "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03b7\u03bd\u03b9\u03ac"
+        "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03b7\u03bd\u03b9\u03ac",
+        "\u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03b7\u03bd\u03b9\u03ac \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0434\u043e\u043b\u0443\u0448\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Vedilo\u00fastion",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1293326565,
-    "wof:lastmodified":1537624960,
+    "wof:lastmodified":1564223514,
     "wof:name":"Damaskinia",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

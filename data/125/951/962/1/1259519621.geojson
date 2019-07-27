@@ -27,8 +27,23 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0627\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0440\u0432\u0435\u043d\u0442"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03b2\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b2\u03b1\u03c2 \u0388\u03b2\u03c1\u03bf\u03c5"
+    ],
+    "name:ron_x_preferred":[
+        "Avantas"
+    ],
+    "name:tur_x_preferred":[
+        "Derbent"
     ],
     "name:und_x_variant":[
         "\u00c1vas"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259519621,
-    "wof:lastmodified":1537624969,
+    "wof:lastmodified":1564225464,
     "wof:name":"Avas",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

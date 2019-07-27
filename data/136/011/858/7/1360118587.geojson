@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0443\u0441\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Donusa"
+    ],
+    "name:ces_x_preferred":[
+        "Donousa"
+    ],
     "name:deu_x_preferred":[
         "Donousa"
     ],
@@ -55,6 +61,21 @@
     "name:eng_x_variant":[
         "Donousa"
     ],
+    "name:est_x_preferred":[
+        "Dono\u00fasa"
+    ],
+    "name:fin_x_preferred":[
+        "Dono\u00fasa"
+    ],
+    "name:fra_x_preferred":[
+        "Donoussa"
+    ],
+    "name:glg_x_preferred":[
+        "Donoussa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0576\u0578\u0582\u057d\u0561"
+    ],
     "name:ita_x_historical":[
         "Stenosa",
         "Spinosa"
@@ -64,14 +85,42 @@
     ],
     "name:ita_x_variant":[
         "Stenosa",
-        "Spinosa"
+        "Spinosa",
+        "Donoussa"
+    ],
+    "name:lat_x_preferred":[
+        "Donusa"
+    ],
+    "name:nld_x_preferred":[
+        "Donoussa"
+    ],
+    "name:nno_x_preferred":[
+        "Dono\u00fasa"
+    ],
+    "name:nor_x_preferred":[
+        "Donousa"
     ],
     "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0443\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Donoussa"
+    ],
+    "name:sqi_x_preferred":[
+        "Donusa"
+    ],
+    "name:tur_x_preferred":[
+        "Hac\u0131lar"
+    ],
+    "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0443\u0441\u0430"
     ],
     "name:und_x_variant":[
         "Dono\u00fasa",
         "Dhono\u00fasa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u52aa\u85a9\u5cf6"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -96,7 +145,7 @@
         }
     ],
     "wof:id":1360118587,
-    "wof:lastmodified":1537624662,
+    "wof:lastmodified":1564224293,
     "wof:name":"Donousa",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

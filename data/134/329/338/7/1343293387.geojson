@@ -27,6 +27,9 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oxya"
+    ],
     "name:ell_x_historical":[
         "\u039c\u03c0\u03bf\u03cd\u03ba\u03bf\u03b2\u03b9\u03ba",
         "\u039c\u03c0\u03bf\u03cd\u03ba\u03bf\u03b2\u03bf"
@@ -50,12 +53,24 @@
         "Boukovik",
         "Boukovo"
     ],
+    "name:fra_x_preferred":[
+        "Oxya"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u0438\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Oxya"
+    ],
+    "name:swe_x_preferred":[
+        "Oxya"
     ],
     "name:und_x_variant":[
         "B\u00fakovik",
         "Oxi\u00e1"
+    ],
+    "name:war_x_preferred":[
+        "Oxya"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":1343293387,
-    "wof:lastmodified":1537624865,
+    "wof:lastmodified":1564223298,
     "wof:name":"Oxya",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

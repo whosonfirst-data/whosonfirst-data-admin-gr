@@ -27,13 +27,17 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043a\u0440\u043e\u0432\u0430\u043b\u0442\u043e"
+    ],
     "name:ell_x_preferred":[
         "Mikr\u00f3valto"
     ],
     "name:ell_x_variant":[
         "\u039c\u03b9\u03ba\u03c1\u03cc\u03b2\u03b1\u03bb\u03c4\u03bf",
         "Mikr\u00f3valton",
-        "\u039c\u03b9\u03ba\u03c1\u03cc\u03b2\u03b1\u03bb\u03c4\u03bf\u03bd"
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03b2\u03b1\u03bb\u03c4\u03bf\u03bd",
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03b2\u03b1\u03bb\u03c4\u03bf \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343497317,
-    "wof:lastmodified":1537624880,
+    "wof:lastmodified":1564223228,
     "wof:name":"Mikrovalto",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

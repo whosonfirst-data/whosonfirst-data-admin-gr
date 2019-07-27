@@ -30,8 +30,17 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b7"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Saranti"
+    ],
+    "name:pol_x_preferred":[
+        "Sarandi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646\u062a\u06cc"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243002449,
-    "wof:lastmodified":1537625075,
+    "wof:lastmodified":1564225170,
     "wof:name":"Saranti",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u064a\u0646\u062a\u0627\u064a\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u0300\u0438\u043d\u0434\u0435\u043e"
     ],
     "name:bul_x_variant":[
         "\u0421\u0443\u0440\u043e\u0432\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Am\u00fdntaio"
     ],
     "name:deu_x_preferred":[
         "Amyndeo"
@@ -46,17 +52,56 @@
     "name:eng_x_preferred":[
         "Amyntaio"
     ],
+    "name:fin_x_preferred":[
+        "Am\u00fdntaio"
+    ],
     "name:fra_x_preferred":[
         "Am\u00fdntaio"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u056b\u0576\u0564\u0565\u0578\u0576"
     ],
     "name:ita_x_preferred":[
         "Amyntaio"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u0440\u043e\u0432\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Amyntaio"
+    ],
+    "name:nno_x_preferred":[
+        "Am\u00fdndeo"
+    ],
+    "name:pol_x_preferred":[
+        "Amindeo"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0438\u043d\u0434\u0435\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043c\u0438\u043d\u0434\u0435\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Amindeo"
+    ],
+    "name:sqi_x_preferred":[
+        "Sorovi\u00e7i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0440\u043e\u0432\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Am\u00fdntaio"
+    ],
+    "name:tur_x_preferred":[
+        "Sorovi\u00e7"
+    ],
     "name:unk_x_variant":[
         "S\u00f3rovits"
+    ],
+    "name:vie_x_preferred":[
+        "Amynteo"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -106,7 +151,7 @@
         }
     ],
     "wof:id":1125375355,
-    "wof:lastmodified":1509389442,
+    "wof:lastmodified":1564224804,
     "wof:name":"Amyntaio",
     "wof:parent_id":85684627,
     "wof:placetype":"localadmin",

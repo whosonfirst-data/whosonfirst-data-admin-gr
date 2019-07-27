@@ -30,8 +30,14 @@
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2 \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Agios Stefanos"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Stefanos"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1260110627,
-    "wof:lastmodified":1537625005,
+    "wof:lastmodified":1564224070,
     "wof:name":"Agios Stefanos",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

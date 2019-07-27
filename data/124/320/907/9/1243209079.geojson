@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0441\u043e\u043b\u043e\u043d\u0433\u043e\u0441"
+    ],
     "name:ell_x_preferred":[
         "Mes\u00f3longos"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03b5\u03c3\u03cc\u03bb\u03bf\u03b3\u03b3\u03bf\u03c2"
+        "\u039c\u03b5\u03c3\u03cc\u03bb\u03bf\u03b3\u03b3\u03bf\u03c2",
+        "\u039c\u03b5\u03c3\u03cc\u03bb\u03bf\u03b3\u03b3\u03bf\u03c2 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u0441\u043b\u0435\u0433\u043e\u0448\u0442\u0438"
     ],
     "name:und_x_variant":[
         "Mesolong\u00f3stion"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243209079,
-    "wof:lastmodified":1537624805,
+    "wof:lastmodified":1564225333,
     "wof:name":"Mesolongos",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

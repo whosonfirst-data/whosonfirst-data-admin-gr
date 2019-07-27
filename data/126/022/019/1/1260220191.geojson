@@ -27,11 +27,21 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043a\u0438"
+    ],
     "name:ell_x_preferred":[
         "L\u00e1kkoi"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03ac\u03ba\u03ba\u03bf\u03b9"
+        "\u039b\u03ac\u03ba\u03ba\u03bf\u03b9",
+        "\u039b\u03ac\u03ba\u03ba\u03bf\u03b9 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
+    ],
+    "name:fin_x_preferred":[
+        "L\u00e1kkoi"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e1kkoi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1260220191,
-    "wof:lastmodified":1537625007,
+    "wof:lastmodified":1564224038,
     "wof:name":"Lakkoi",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

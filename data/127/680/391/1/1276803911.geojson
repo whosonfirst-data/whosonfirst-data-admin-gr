@@ -27,13 +27,32 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0648\u063a\u0648\u0644\u0627\u0634\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Zevgolatei\u00f3"
+    ],
     "name:ell_x_preferred":[
         "Zevgolatei\u00f3"
     ],
     "name:ell_x_variant":[
         "\u0396\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03b9\u03cc",
         "Zevgolate\u00edon",
-        "\u0396\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03af\u03bf\u03bd"
+        "\u0396\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b5\u03af\u03bf\u03bd",
+        "\u0396\u03b5\u03c5\u03b3\u03bf\u03bb\u03b1\u03c4\u03b9\u03cc \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "Zevgolate\u00edo"
+    ],
+    "name:nno_x_preferred":[
+        "Zevgolati\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0432\u0433\u043e\u043b\u0430\u0442\u0438\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Zevgolatei\u00f3"
     ],
     "name:und_x_variant":[
         "Zevgolati\u00f3",
@@ -60,7 +79,7 @@
         }
     ],
     "wof:id":1276803911,
-    "wof:lastmodified":1537624131,
+    "wof:lastmodified":1564223624,
     "wof:name":"Zevgolateio",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -24,8 +24,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\u0430\u043b\u043d\u0430 \u0413\u044a\u0440\u0446\u0438\u044f"
+    ],
+    "name:cym_x_preferred":[
+        "Canolbarth Groeg"
+    ],
     "name:deu_x_preferred":[
         "Mittelgriechenland"
+    ],
+    "name:deu_x_variant":[
+        "Zentralgriechenland"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391"
@@ -37,14 +46,50 @@
     "name:eng_x_preferred":[
         "Central Greece"
     ],
+    "name:epo_x_preferred":[
+        "Centra Grekio"
+    ],
+    "name:fin_x_preferred":[
+        "Keski-Kreikka"
+    ],
     "name:fra_x_preferred":[
         "Gr\u00e8ce-Centrale"
     ],
     "name:ita_x_preferred":[
         "Grecia Centrale"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e1\u10d0\u10d1\u10d4\u10e0\u10eb\u10dc\u10d4\u10d7\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uadf8\ub9ac\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\uadf8\ub9ac\uc2a4"
+    ],
+    "name:nno_x_preferred":[
+        "Sentral-Hellas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0634\u06a9\u0627\u0631\u0644\u06c1 \u06cc\u0648\u0646\u0627\u0646"
+    ],
+    "name:slk_x_preferred":[
+        "Sterea Ellada"
+    ],
+    "name:spa_x_preferred":[
+        "Grecia Central"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u0438\u0448\u045a\u0430 \u0413\u0440\u0447\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Orta Yunanistan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u0413\u0440\u0435\u0446\u0456\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u81d8\u4e2d\u90e8"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GRC",
@@ -147,7 +192,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1553550806,
+    "wof:lastmodified":1564223360,
     "wof:name":"Central Greece",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
