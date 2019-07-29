@@ -30,14 +30,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kleiso\u00fara"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bb\u03b5\u03b9\u03c3\u03bf\u03cd\u03c1\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03bb\u03b1\u03c7\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03bf\u03cd\u03c1\u03b1"
+        "\u0392\u03bb\u03b1\u03c7\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03bf\u03cd\u03c1\u03b1",
+        "\u039a\u03bb\u03b5\u03b9\u03c3\u03bf\u03cd\u03c1\u03b1 \u039a\u03b1\u03c3\u03c4\u03bf\u03c1\u03b9\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Klisoura"
+    ],
+    "name:fin_x_preferred":[
+        "Kleiso\u00fara"
     ],
     "name:fra_x_preferred":[
         "Klisoura"
@@ -48,8 +55,17 @@
     "name:mkd_x_preferred":[
         "\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
     ],
+    "name:nno_x_preferred":[
+        "Kleiso\u00fara"
+    ],
+    "name:ron_x_preferred":[
+        "Kleisoura"
+    ],
     "name:rup_x_preferred":[
         "Klisoura"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
     ],
     "name:und_x_variant":[
         "Vlakhoklisura",
@@ -80,7 +96,7 @@
         }
     ],
     "wof:id":1309842883,
-    "wof:lastmodified":1537624918,
+    "wof:lastmodified":1564224422,
     "wof:name":"Kleisoura",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

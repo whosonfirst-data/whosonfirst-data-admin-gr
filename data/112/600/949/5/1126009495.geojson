@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u064a\u0646\u0648\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Oin\u00f3i"
+    ],
     "name:ell_x_historical":[
         "\u039c\u03ac\u03b6\u03b9"
     ],
@@ -26,10 +32,26 @@
         "\u039f\u03b9\u03bd\u03cc\u03b7"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03ac\u03b6\u03b9"
+        "\u039c\u03ac\u03b6\u03b9",
+        "\u039f\u03b9\u03bd\u03cc\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Oinoi"
+    ],
+    "name:fin_x_preferred":[
+        "Oin\u00f3i"
+    ],
+    "name:fra_x_preferred":[
+        "Oinoi"
+    ],
+    "name:ita_x_preferred":[
+        "Oinoi"
+    ],
+    "name:nno_x_preferred":[
+        "In\u00f3i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u043e\u044f"
     ],
     "name:unk_x_variant":[
         "M\u00e1zi"
@@ -82,7 +104,7 @@
         }
     ],
     "wof:id":1126009495,
-    "wof:lastmodified":1509406588,
+    "wof:lastmodified":1564224955,
     "wof:name":"Oinoi",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

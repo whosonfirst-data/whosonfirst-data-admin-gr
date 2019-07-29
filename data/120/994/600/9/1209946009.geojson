@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0430\u0432\u0433\u0438"
+    ],
     "name:ell_x_preferred":[
         "Chrysavg\u00ed"
     ],
     "name:ell_x_variant":[
-        "\u03a7\u03c1\u03c5\u03c3\u03b1\u03c5\u03b3\u03ae"
+        "\u03a7\u03c1\u03c5\u03c3\u03b1\u03c5\u03b3\u03ae",
+        "\u03a7\u03c1\u03c5\u03c3\u03b1\u03c5\u03b3\u03ae \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u043b\u0438"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1209946009,
-    "wof:lastmodified":1537625006,
+    "wof:lastmodified":1564223924,
     "wof:name":"Chrysavgi",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

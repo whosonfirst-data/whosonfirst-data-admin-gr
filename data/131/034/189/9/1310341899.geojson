@@ -27,13 +27,17 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u0648\u0645\u0648\u064a\u0631\u0648\u0646"
+    ],
     "name:ell_x_preferred":[
         "\u00c9vmoiro"
     ],
     "name:ell_x_variant":[
         "\u0395\u03cd\u03bc\u03bf\u03b9\u03c1\u03bf",
         "\u00c9vmoiron",
-        "\u0395\u03cd\u03bc\u03bf\u03b9\u03c1\u03bf\u03bd"
+        "\u0395\u03cd\u03bc\u03bf\u03b9\u03c1\u03bf\u03bd",
+        "\u0395\u03cd\u03bc\u03bf\u03b9\u03c1\u03bf \u039e\u03ac\u03bd\u03b8\u03b7\u03c2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310341899,
-    "wof:lastmodified":1537624948,
+    "wof:lastmodified":1564224226,
     "wof:name":"Evmoiro",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

@@ -36,6 +36,12 @@
     "name:cat_x_preferred":[
         "Amf\u00edpolis"
     ],
+    "name:ceb_x_preferred":[
+        "Amf\u00edpoli"
+    ],
+    "name:ces_x_preferred":[
+        "Amfipoli"
+    ],
     "name:deu_x_preferred":[
         "Amphipolis"
     ],
@@ -47,6 +53,12 @@
     ],
     "name:eng_x_preferred":[
         "Amphipolis"
+    ],
+    "name:epo_x_preferred":[
+        "Amfipolis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0641\u06cc\u067e\u0648\u0644\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "Amfipolis"
@@ -60,11 +72,23 @@
     "name:hbs_x_preferred":[
         "Amfipolis"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05e4\u05d9\u05e4\u05d5\u05dc\u05d9\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Amfipol"
+    ],
     "name:ita_x_preferred":[
         "Anfipoli"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30d5\u30a3\u30dd\u30ea"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30f3\u30d5\u30a3\u30dd\u30ea\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc554\ud53c\ud3f4\ub9ac\uc2a4"
     ],
     "name:nld_x_preferred":[
         "Amphipolis"
@@ -90,6 +114,9 @@
     "name:spa_x_preferred":[
         "Anf\u00edpolis"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u043c\u0444\u0438\u043f\u043e\u043b\u0438\u0441"
+    ],
     "name:swe_x_preferred":[
         "Amfipolis"
     ],
@@ -103,6 +130,18 @@
         "Neokh\u00f3rion",
         "Neokhori",
         "Amf\u00edpolis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0641\u067e\u0644\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Amfipoli"
+    ],
+    "name:wol_x_preferred":[
+        "Amfipolis"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u83f2\u6ce2\u5229\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -127,7 +166,7 @@
         }
     ],
     "wof:id":1209749601,
-    "wof:lastmodified":1537624982,
+    "wof:lastmodified":1564223946,
     "wof:name":"Amfipoli",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

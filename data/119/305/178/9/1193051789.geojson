@@ -27,15 +27,28 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043c\u0430\u043b\u0442\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Mikr\u00f3 So\u00fali"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03ba\u03c1\u03cc \u03a3\u03bf\u03cd\u03bb\u03b9"
     ],
     "name:ell_x_variant":[
         "Mikr\u00f3 So\u00fali",
-        "\u039c\u03b9\u03ba\u03c1\u03cc\u03bd \u03a3\u03bf\u03cd\u03bb\u03b9\u03bf\u03bd"
+        "\u039c\u03b9\u03ba\u03c1\u03cc\u03bd \u03a3\u03bf\u03cd\u03bb\u03b9\u03bf\u03bd",
+        "\u039c\u03b9\u03ba\u03c1\u03cc \u03a3\u03bf\u03cd\u03bb\u03b9 \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd"
     ],
     "name:eng_x_preferred":[
         "Mikro Souli"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0435\u043c\u043e\u043b\u0442\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Mikr\u00f3 So\u00fali"
     ],
     "name:und_x_variant":[
         "S\u00e9malton",
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1193051789,
-    "wof:lastmodified":1537624880,
+    "wof:lastmodified":1564224009,
     "wof:name":"Mikro Souli",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

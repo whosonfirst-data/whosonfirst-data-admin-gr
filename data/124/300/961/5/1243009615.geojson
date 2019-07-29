@@ -27,11 +27,33 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u0628\u0648\u062a\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Komp\u00f3ti"
+    ],
     "name:ell_x_preferred":[
         "Kompot\u00ed"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03bc\u03c0\u03c9\u03c4\u03ae"
+        "\u039a\u03bf\u03bc\u03c0\u03c9\u03c4\u03ae",
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03bf\u03bc\u03c0\u03bf\u03c4\u03af\u03bf\u03c5"
+    ],
+    "name:fin_x_preferred":[
+        "Kompot\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Kompoti"
+    ],
+    "name:nno_x_preferred":[
+        "Komb\u00f3ti"
+    ],
+    "name:ron_x_preferred":[
+        "Kompoti"
+    ],
+    "name:swe_x_preferred":[
+        "Komp\u00f3ti"
     ],
     "name:und_x_variant":[
         "P\u00e9rsevos"
@@ -57,7 +79,7 @@
         }
     ],
     "wof:id":1243009615,
-    "wof:lastmodified":1537624308,
+    "wof:lastmodified":1564225177,
     "wof:name":"Kompoti",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

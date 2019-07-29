@@ -27,6 +27,9 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kyrt\u00f3ni"
+    ],
     "name:ell_x_historical":[
         "\u039a\u03bf\u03bb\u03ac\u03ba\u03b1"
     ],
@@ -34,7 +37,8 @@
         "\u039a\u03c5\u03c1\u03c4\u03ce\u03bd\u03b7"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03bb\u03ac\u03ba\u03b1"
+        "\u039a\u03bf\u03bb\u03ac\u03ba\u03b1",
+        "\u039a\u03c5\u03c1\u03c4\u03ce\u03bd\u03b7 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Kolaka"
@@ -44,6 +48,12 @@
     ],
     "name:eng_x_variant":[
         "Kolaka"
+    ],
+    "name:spa_x_preferred":[
+        "Cirtones"
+    ],
+    "name:swe_x_preferred":[
+        "Kyrt\u00f3ni"
     ],
     "name:und_x_variant":[
         "Koll\u00e1ka",
@@ -72,7 +82,7 @@
         }
     ],
     "wof:id":1326564383,
-    "wof:lastmodified":1537624495,
+    "wof:lastmodified":1564223004,
     "wof:name":"Kyrtoni",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

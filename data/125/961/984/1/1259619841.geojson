@@ -27,11 +27,26 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0643\u064a\u0631\u0627\u062f\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Makhair\u00e1dhon"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c7\u03b1\u03b9\u03c1\u03ac\u03b4\u03bf"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c7\u03b1\u03b9\u03c1\u03ac\u03b4\u03bf \u0396\u03b1\u03ba\u03cd\u03bd\u03b8\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Machairado"
+    ],
+    "name:nno_x_preferred":[
+        "Makher\u00e1do"
+    ],
+    "name:swe_x_preferred":[
+        "Makhair\u00e1dhon"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1259619841,
-    "wof:lastmodified":1537624426,
+    "wof:lastmodified":1564225451,
     "wof:name":"Makhairadhon",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

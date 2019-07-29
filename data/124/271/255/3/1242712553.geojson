@@ -27,6 +27,9 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0432\u043e"
+    ],
     "name:ell_x_historical":[
         "\u0396\u03ad\u03bb\u03bf\u03b2\u03bf"
     ],
@@ -36,7 +39,8 @@
     "name:ell_x_variant":[
         "\u0391\u03bd\u03c4\u03ac\u03c1\u03c4\u03b9\u03ba\u03bf",
         "\u0396\u03ad\u03bb\u03bf\u03b2\u03bf",
-        "\u0391\u03bd\u03c4\u03b1\u03c1\u03c4\u03b9\u03ba\u03cc\u03bd"
+        "\u0391\u03bd\u03c4\u03b1\u03c1\u03c4\u03b9\u03ba\u03cc\u03bd",
+        "\u0391\u03bd\u03c4\u03b1\u03c1\u03c4\u03b9\u03ba\u03cc \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Zelovo"
@@ -47,6 +51,15 @@
     "name:eng_x_variant":[
         "Antartikon",
         "Zelovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Zhelova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u0430\u0440\u0442\u0438\u043a\u043e"
     ],
     "name:und_x_variant":[
         "Z\u00e9lovon",
@@ -75,7 +88,7 @@
         }
     ],
     "wof:id":1242712553,
-    "wof:lastmodified":1537624979,
+    "wof:lastmodified":1564225311,
     "wof:name":"Andartikon",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

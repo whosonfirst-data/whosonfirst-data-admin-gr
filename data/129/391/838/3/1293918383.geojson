@@ -27,15 +27,61 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0627\u0646\u0648\u0628\u0648\u0644\u064a\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0440\u0430\u043d\u0443\u043f\u043e\u043b\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Ouranopoli"
+    ],
+    "name:deu_x_preferred":[
+        "Ouranoupoli"
+    ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03c1\u03b1\u03bd\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
     ],
     "name:ell_x_variant":[
         "\u039f\u03c5\u03c1\u03b1\u03bd\u03cc\u03c0\u03bf\u03bb\u03b7",
-        "\u039f\u03c5\u03c1\u03b1\u03bd\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2"
+        "\u039f\u03c5\u03c1\u03b1\u03bd\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2",
+        "\u039f\u03c5\u03c1\u03b1\u03bd\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ouranoupoli"
+    ],
+    "name:fin_x_preferred":[
+        "Ourano\u00fapoli"
+    ],
+    "name:fra_x_preferred":[
+        "Ouranoupoli"
+    ],
+    "name:ita_x_preferred":[
+        "Uranopoli"
+    ],
+    "name:lat_x_preferred":[
+        "Uranopolis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u0440\u0430\u043d\u043e\u043f\u043e\u043b\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Uranupoli"
+    ],
+    "name:ron_x_preferred":[
+        "Uranopoli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0430\u043d\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Uran\u00f3polis"
+    ],
+    "name:swe_x_preferred":[
+        "Ouranopoli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0430\u043d\u0443\u043f\u043e\u043b\u0456"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -60,7 +106,7 @@
         }
     ],
     "wof:id":1293918383,
-    "wof:lastmodified":1537624996,
+    "wof:lastmodified":1564223385,
     "wof:name":"Ouranopoli",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

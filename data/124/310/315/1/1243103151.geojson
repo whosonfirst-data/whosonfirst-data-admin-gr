@@ -27,11 +27,36 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Karuai"
+    ],
+    "name:ceb_x_preferred":[
+        "Karia\u00ed"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03c5\u03ad\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03c1\u03c5\u03b1\u03af"
+        "\u039a\u03b1\u03c1\u03c5\u03b1\u03af",
+        "\u039a\u03b1\u03c1\u03c5\u03ad\u03c2 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "Kary\u00e9s"
+    ],
+    "name:fra_x_preferred":[
+        "Karyes"
+    ],
+    "name:ita_x_preferred":[
+        "Karyes"
+    ],
+    "name:nor_x_preferred":[
+        "Karyes"
+    ],
+    "name:slk_x_preferred":[
+        "Karyes"
     ],
     "name:und_x_variant":[
         "Karia\u00ed",
@@ -60,7 +85,7 @@
         }
     ],
     "wof:id":1243103151,
-    "wof:lastmodified":1537624566,
+    "wof:lastmodified":1564225372,
     "wof:name":"Karyes",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

@@ -27,13 +27,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u043b\u0430\u043a\u043e"
+    ],
     "name:ell_x_preferred":[
         "Pol\u00fdlakko"
     ],
     "name:ell_x_variant":[
         "\u03a0\u03bf\u03bb\u03cd\u03bb\u03b1\u03ba\u03ba\u03bf",
         "Pol\u00fdlakkon",
-        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03b1\u03ba\u03ba\u03bf\u03bd"
+        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03b1\u03ba\u03ba\u03bf\u03bd",
+        "\u03a0\u03bf\u03bb\u03cd\u03bb\u03b1\u03ba\u03ba\u03bf \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u043d\u0430\u043c"
     ],
     "name:und_x_variant":[
         "K\u00ednami",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1343796061,
-    "wof:lastmodified":1537624847,
+    "wof:lastmodified":1564223222,
     "wof:name":"Polylakko",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0431\u044a\u0440\u0434\u0435\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "L\u00f3foi"
+    ],
     "name:ell_x_historical":[
         "\u0396\u03b1\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7",
         "\u0396\u03b1\u03bc\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7"
@@ -36,7 +42,8 @@
     ],
     "name:ell_x_variant":[
         "\u0396\u03b1\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7",
-        "\u0396\u03b1\u03bc\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7"
+        "\u0396\u03b1\u03bc\u03c0\u03cd\u03c1\u03b4\u03b1\u03bd\u03b7",
+        "\u039b\u03cc\u03c6\u03bf\u03b9 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Zapyrdani",
@@ -49,6 +56,15 @@
         "L\u00f3foi",
         "Zapyrdani",
         "Zampyrdani"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u0431\u0440\u0434\u0435\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0431\u0440\u0434\u0435\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00f3foi"
     ],
     "name:und_x_variant":[
         "Zab\u00edrdani"
@@ -76,7 +92,7 @@
         }
     ],
     "wof:id":1360120691,
-    "wof:lastmodified":1537624898,
+    "wof:lastmodified":1564224256,
     "wof:name":"Lofoi",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

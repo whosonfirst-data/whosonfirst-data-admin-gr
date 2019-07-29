@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0433\u0435\u0440\u0438"
+    ],
     "name:ell_x_preferred":[
         "Lyger\u00ed"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03c5\u03b3\u03b5\u03c1\u03ae"
+        "\u039b\u03c5\u03b3\u03b5\u03c1\u03ae",
+        "\u039b\u03c5\u03b3\u03b5\u03c1\u03ae \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0438\u043d\u043b\u0438"
     ],
     "name:und_x_variant":[
         "De\u00efnl\u00ed",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1226677641,
-    "wof:lastmodified":1537624898,
+    "wof:lastmodified":1564225542,
     "wof:name":"Lygeri",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

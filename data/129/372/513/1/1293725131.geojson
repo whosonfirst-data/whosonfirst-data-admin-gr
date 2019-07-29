@@ -27,11 +27,36 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0644\u0648\u0646\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Kallon\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Kalloni"
+    ],
     "name:ell_x_preferred":[
         "Kallon\u00ed"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae"
+        "\u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae",
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b1\u03bb\u03bb\u03bf\u03bd\u03ae\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "Kallon\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Kalloni"
+    ],
+    "name:nld_x_preferred":[
+        "Kalloni"
+    ],
+    "name:nno_x_preferred":[
+        "Kallon\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6d1b\u5c3c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +79,7 @@
         }
     ],
     "wof:id":1293725131,
-    "wof:lastmodified":1537624587,
+    "wof:lastmodified":1564223584,
     "wof:name":"Kalloni",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

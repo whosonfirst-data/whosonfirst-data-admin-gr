@@ -27,13 +27,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u0445\u0438"
+    ],
     "name:ell_x_preferred":[
         "Kal\u00f3chi"
     ],
     "name:ell_x_variant":[
         "\u039a\u03b1\u03bb\u03cc\u03c7\u03b9",
         "Kal\u00f3chion",
-        "\u039a\u03b1\u03bb\u03cc\u03c7\u03b9\u03bf\u03bd"
+        "\u039a\u03b1\u03bb\u03cc\u03c7\u03b9\u03bf\u03bd",
+        "\u039a\u03b1\u03bb\u03cc\u03c7\u03b9 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u043a\u0438"
     ],
     "name:und_x_variant":[
         "Kal\u00f3khi",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1243488389,
-    "wof:lastmodified":1537624936,
+    "wof:lastmodified":1564225260,
     "wof:name":"Kalochi",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -27,8 +27,14 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u064a\u062a\u064a\u0631\u064a"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03b9\u03c4\u03ae\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b9\u03c4\u03ae\u03c1\u03b9 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360218671,
-    "wof:lastmodified":1537625122,
+    "wof:lastmodified":1564224309,
     "wof:name":"Kritiri",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

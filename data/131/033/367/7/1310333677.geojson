@@ -27,11 +27,26 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Avra"
+    ],
+    "name:deu_x_preferred":[
+        "Avra"
+    ],
     "name:ell_x_preferred":[
         "Avra"
     ],
+    "name:ell_x_variant":[
+        "\u0391\u03cd\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "\u0391\u03cd\u03c1\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Avra"
+    ],
+    "name:swe_x_preferred":[
+        "Avra"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310333677,
-    "wof:lastmodified":1537625042,
+    "wof:lastmodified":1564224243,
     "wof:name":"Avra",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

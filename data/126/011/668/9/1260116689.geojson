@@ -27,11 +27,18 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0415\u043b\u0435\u0432\u0442\u0435\u0440\u043e \u041f\u0440\u043e\u0441\u0444\u0438\u0433\u043e\u043d"
+    ],
     "name:ell_x_preferred":[
         "El\u00e9fthero Prosf\u00fdgon"
     ],
     "name:ell_x_variant":[
-        "\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf \u03a0\u03c1\u03bf\u03c3\u03c6\u03cd\u03b3\u03c9\u03bd"
+        "\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf \u03a0\u03c1\u03bf\u03c3\u03c6\u03cd\u03b3\u03c9\u03bd",
+        "\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf \u03a0\u03c1\u03bf\u03c3\u03c6\u03cd\u03b3\u03c9\u03bd \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u043b\u0435\u0432\u0442\u0435\u0440\u043e \u041f\u0440\u043e\u0441\u0444\u0438\u0433\u043e\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1260116689,
-    "wof:lastmodified":1537625046,
+    "wof:lastmodified":1564224074,
     "wof:name":"Elefthero Prosfygon",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

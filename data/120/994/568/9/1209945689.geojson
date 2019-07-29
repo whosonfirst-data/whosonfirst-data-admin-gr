@@ -27,12 +27,19 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0441\u0442\u0438\u043a\u043e"
+    ],
     "name:ell_x_preferred":[
         "Pistik\u00f3"
     ],
     "name:ell_x_variant":[
         "\u03a0\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc",
-        "\u03a0\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc\u03bd"
+        "\u03a0\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc\u03bd",
+        "\u03a0\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0435\u0441\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Pisk\u00f3",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1209945689,
-    "wof:lastmodified":1537624852,
+    "wof:lastmodified":1564223918,
     "wof:name":"Pistiko",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

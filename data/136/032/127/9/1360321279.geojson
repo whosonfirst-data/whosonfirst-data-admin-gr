@@ -27,14 +27,21 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kh\u00eddhira"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03af\u03b4\u03b7\u03c1\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u03a7\u03cd\u03b4\u03b7\u03c1\u03b1"
+        "\u03a7\u03cd\u03b4\u03b7\u03c1\u03b1",
+        "\u03a7\u03af\u03b4\u03b7\u03c1\u03b1 \u039b\u03ad\u03c3\u03b2\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Chidira"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u00eddhira"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1360321279,
-    "wof:lastmodified":1537624517,
+    "wof:lastmodified":1564224321,
     "wof:name":"Khidhira",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

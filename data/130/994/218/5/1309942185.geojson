@@ -33,6 +33,9 @@
     "name:bul_x_variant":[
         "\u0410\u0445\u043b\u0430\u0434\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Achl\u00e1da"
+    ],
     "name:ell_x_historical":[
         "\u039a\u03c1\u03bf\u03c5\u03c3\u03bf\u03c1\u03ac\u03c4\u03b7",
         "\u039a\u03c1\u03bf\u03c5\u03c3\u03bf\u03c5\u03c1\u03ac\u03c4\u03b7",
@@ -44,7 +47,8 @@
     "name:ell_x_variant":[
         "\u039a\u03c1\u03bf\u03c5\u03c3\u03bf\u03c1\u03ac\u03c4\u03b7",
         "\u039a\u03c1\u03bf\u03c5\u03c3\u03bf\u03c5\u03c1\u03ac\u03c4\u03b7",
-        "\u039a\u03c1\u03bf\u03c5\u03c3\u03bf\u03c1\u03ac\u03bd\u03c4"
+        "\u039a\u03c1\u03bf\u03c5\u03c3\u03bf\u03c1\u03ac\u03bd\u03c4",
+        "\u0391\u03c7\u03bb\u03ac\u03b4\u03b1 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Krousorati",
@@ -56,6 +60,15 @@
     "name:eng_x_variant":[
         "Krousorati",
         "Krousourati"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u043e\u0440\u0430\u0434\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0445\u043b\u0430\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Achl\u00e1da"
     ],
     "name:und_x_variant":[
         "Krousour\u00e1ti",
@@ -85,7 +98,7 @@
         }
     ],
     "wof:id":1309942185,
-    "wof:lastmodified":1537624987,
+    "wof:lastmodified":1564224446,
     "wof:name":"Achlada",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

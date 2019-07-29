@@ -27,13 +27,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u043a\u0441\u0438\u043e\u043a\u0430\u0441\u0442\u0440\u043e"
+    ],
     "name:ell_x_preferred":[
         "Axi\u00f3kastro"
     ],
     "name:ell_x_variant":[
         "\u0391\u03be\u03b9\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf",
         "Axi\u00f3kastron",
-        "\u0391\u03be\u03b9\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd"
+        "\u0391\u03be\u03b9\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf\u03bd",
+        "\u0391\u03be\u03b9\u03cc\u03ba\u03b1\u03c3\u03c4\u03c1\u03bf \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0443\u0440\u0434\u0430\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1310236167,
-    "wof:lastmodified":1537624968,
+    "wof:lastmodified":1564224123,
     "wof:name":"Axiokastro",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

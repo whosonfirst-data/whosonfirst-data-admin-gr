@@ -27,11 +27,30 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Riu Kh\u00e0radros"
+    ],
+    "name:ceb_x_preferred":[
+        "Kh\u00e1radhros R\u00e9ma"
+    ],
     "name:ell_x_preferred":[
         "Ch\u00e1radros"
     ],
     "name:ell_x_variant":[
-        "\u03a7\u03ac\u03c1\u03b1\u03b4\u03c1\u03bf\u03c2"
+        "\u03a7\u03ac\u03c1\u03b1\u03b4\u03c1\u03bf\u03c2",
+        "\u03a7\u03ac\u03c1\u03b1\u03b4\u03c1\u03bf\u03c2 \u03c0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10e0\u10d0\u10d3\u10e0\u10dd\u10e1\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Kh\u00e1radros"
+    ],
+    "name:ron_x_preferred":[
+        "R\u00e2ul Haradros"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u00e1radhros R\u00e9ma"
     ],
     "name:und_x_variant":[
         "Kh\u00e1radhros"
@@ -57,7 +76,7 @@
         }
     ],
     "wof:id":1260117271,
-    "wof:lastmodified":1537624521,
+    "wof:lastmodified":1564224085,
     "wof:name":"Charadros",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

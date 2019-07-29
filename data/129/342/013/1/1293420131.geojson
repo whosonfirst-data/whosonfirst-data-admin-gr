@@ -27,13 +27,23 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Methydrium"
+    ],
     "name:ell_x_preferred":[
         "Meth\u00fddrio"
     ],
     "name:ell_x_variant":[
         "\u039c\u03b5\u03b8\u03cd\u03b4\u03c1\u03b9\u03bf",
         "Meth\u00fddrion",
-        "\u039c\u03b5\u03b8\u03cd\u03b4\u03c1\u03b9\u03bf\u03bd"
+        "\u039c\u03b5\u03b8\u03cd\u03b4\u03c1\u03b9\u03bf\u03bd",
+        "\u039c\u03b5\u03b8\u03cd\u03b4\u03c1\u03b9\u03bf \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2"
+    ],
+    "name:ron_x_preferred":[
+        "Methydrio"
+    ],
+    "name:spa_x_preferred":[
+        "Metidrio"
     ],
     "name:und_x_variant":[
         "Nem\u00edtsa",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1293420131,
-    "wof:lastmodified":1537624389,
+    "wof:lastmodified":1564223540,
     "wof:name":"Methydrio",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

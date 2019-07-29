@@ -27,6 +27,15 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ir\u00e0klia"
+    ],
+    "name:ces_x_preferred":[
+        "Irakleia"
+    ],
+    "name:deu_x_preferred":[
+        "Iraklia"
+    ],
     "name:ell_x_colloquial":[
         "\u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03b9\u03ac",
         "\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ac"
@@ -46,10 +55,52 @@
         "Irakleia",
         "Iraklia"
     ],
+    "name:fin_x_preferred":[
+        "Iraklei\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Iraklia"
+    ],
+    "name:glg_x_preferred":[
+        "Irakleia"
+    ],
+    "name:ita_x_preferred":[
+        "Heraklia"
+    ],
+    "name:lat_x_preferred":[
+        "Heraclea"
+    ],
+    "name:nld_x_preferred":[
+        "Iraklia"
+    ],
+    "name:nno_x_preferred":[
+        "Ir\u00e1klia"
+    ],
+    "name:nor_x_preferred":[
+        "Iraklia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Iraklia"
+    ],
+    "name:sqi_x_preferred":[
+        "Iraklia"
+    ],
+    "name:tur_x_preferred":[
+        "\u00d6renli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0440\u0430\u043a\u043b\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Panay\u00eda",
         "Ir\u00e1klia",
         "Iraklei\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u62c9\u514b\u5229\u4e9e\u5cf6"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +125,7 @@
         }
     ],
     "wof:id":1243002487,
-    "wof:lastmodified":1537624606,
+    "wof:lastmodified":1564225180,
     "wof:name":"Irakleia",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

@@ -27,11 +27,20 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u0442\u0440\u0430 \u0412\u043e\u043b\u0432\u0438\u0441"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03cd\u03c4\u03c1\u03b1 \u0392\u03cc\u03bb\u03b2\u03b7\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03bf\u03c5\u03c4\u03c1\u03ac \u0392\u03cc\u03bb\u03b2\u03b7\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Loutr\u00e1 V\u00f3lvis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0448\u0438\u0447\u043a\u0438 \u0411\u0430\u045a\u0438"
     ],
     "name:und_x_variant":[
         "Loutr\u00e1 Besik\u00edon"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1309942141,
-    "wof:lastmodified":1537624897,
+    "wof:lastmodified":1564224454,
     "wof:name":"Loutra Volvis",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

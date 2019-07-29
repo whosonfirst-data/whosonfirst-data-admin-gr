@@ -27,11 +27,35 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0441\u0442\u0438\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ro\u00fastika"
+    ],
+    "name:deu_x_preferred":[
+        "Roustika"
+    ],
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03cd\u03c3\u03c4\u03b9\u03ba\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a1\u03bf\u03cd\u03c3\u03c4\u03b9\u03ba\u03b1 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Roustika"
+    ],
+    "name:fra_x_preferred":[
+        "Roustika"
+    ],
+    "name:ita_x_preferred":[
+        "Roustika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0442\u0438\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ro\u00fastika"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1292940271,
-    "wof:lastmodified":1537624255,
+    "wof:lastmodified":1564223423,
     "wof:name":"Roustika",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

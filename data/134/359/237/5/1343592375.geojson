@@ -27,6 +27,12 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b \u043a\u0430\u043c\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Drosopig\u00ed"
+    ],
     "name:ell_x_historical":[
         "\u039c\u03c0\u03b5\u03bb\u03ba\u03b1\u03bc\u03ad\u03bd\u03b7",
         "\u039c\u03c0\u03b5\u03bb \u039a\u03ac\u03bc\u03b5\u03bd",
@@ -38,7 +44,8 @@
     "name:ell_x_variant":[
         "\u039c\u03c0\u03b5\u03bb\u03ba\u03b1\u03bc\u03ad\u03bd\u03b7",
         "\u039c\u03c0\u03b5\u03bb \u039a\u03ac\u03bc\u03b5\u03bd",
-        "\u039c\u03c0\u03ad\u03bb\u03ba\u03b1\u03bc\u03b5\u03bd"
+        "\u039c\u03c0\u03ad\u03bb\u03ba\u03b1\u03bc\u03b5\u03bd",
+        "\u0394\u03c1\u03bf\u03c3\u03bf\u03c0\u03b7\u03b3\u03ae \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_historical":[
         "Belkam\u00e9ni"
@@ -48,6 +55,15 @@
     ],
     "name:eng_x_variant":[
         "Belkam\u00e9ni"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b \u041a\u0430\u043c\u0435\u043d"
+    ],
+    "name:sqi_x_preferred":[
+        "Bellkameni"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b \u041a\u0430\u043c\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Dhrosopiy\u00ed"
@@ -75,7 +91,7 @@
         }
     ],
     "wof:id":1343592375,
-    "wof:lastmodified":1537624952,
+    "wof:lastmodified":1564223260,
     "wof:name":"Drosopigi",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

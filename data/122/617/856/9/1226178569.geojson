@@ -27,12 +27,22 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0442\u0440\u0430\u043b\u043e\u0444\u043e\u0441"
+    ],
     "name:ell_x_preferred":[
         "Tetr\u00e1lofo"
     ],
     "name:ell_x_variant":[
         "\u03a4\u03b5\u03c4\u03c1\u03ac\u03bb\u03bf\u03c6\u03bf",
-        "\u03a4\u03b5\u03c4\u03c1\u03ac\u03bb\u03bf\u03c6\u03bf\u03bd"
+        "\u03a4\u03b5\u03c4\u03c1\u03ac\u03bb\u03bf\u03c6\u03bf\u03bd",
+        "\u03a4\u03b5\u03c4\u03c1\u03ac\u03bb\u03bf\u03c6\u03bf \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0440\u0442\u0430\u043b\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0442\u0440\u0430\u043b\u043e\u0444\u043e\u0441"
     ],
     "name:und_x_variant":[
         "Dortal\u00ed",
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1226178569,
-    "wof:lastmodified":1537624822,
+    "wof:lastmodified":1564225505,
     "wof:name":"Tetralofo",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

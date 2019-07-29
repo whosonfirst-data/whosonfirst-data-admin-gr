@@ -27,11 +27,27 @@
     "iso:country":"GR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u0443\u0434\u0436\u0430"
+    ],
     "name:ell_x_preferred":[
         "Kot\u00fdli"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03c4\u03cd\u03bb\u03b7"
+        "\u039a\u03bf\u03c4\u03cd\u03bb\u03b7",
+        "\u039a\u03bf\u03c4\u03cd\u03bb\u03b7 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "Kot\u00fdli"
+    ],
+    "name:ita_x_preferred":[
+        "Kotyli"
+    ],
+    "name:nno_x_preferred":[
+        "Kot\u00fdli"
+    ],
+    "name:tur_x_preferred":[
+        "Kozluca"
     ],
     "name:und_x_variant":[
         "Kozl\u00faja",
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1293920083,
-    "wof:lastmodified":1537624913,
+    "wof:lastmodified":1564223492,
     "wof:name":"Kotyli",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

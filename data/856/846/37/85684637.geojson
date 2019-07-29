@@ -24,6 +24,33 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Macedonia Central"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u06a9\u0632\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259rk\u0259zi Makedoniya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Maced\u00f2nia Central"
+    ],
+    "name:ceb_x_preferred":[
+        "Central Macedonia"
+    ],
+    "name:ces_x_preferred":[
+        "St\u0159edn\u00ed Makedonie"
+    ],
     "name:deu_x_preferred":[
         "Zentralmakedonien"
     ],
@@ -31,19 +58,149 @@
         "\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1"
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1",
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Central Macedonia"
     ],
+    "name:epo_x_preferred":[
+        "Meza Makedonio"
+    ],
+    "name:est_x_preferred":[
+        "Kesk-Makedoonia piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Erdialdeko Mazedonia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Keski-Makedonia"
+    ],
     "name:fra_x_preferred":[
         "Mac\u00e9doine-Centrale"
+    ],
+    "name:frr_x_preferred":[
+        "Madel-Makedoonien"
+    ],
+    "name:glg_x_preferred":[
+        "Macedonia Central"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6 \u05de\u05e7\u05d3\u05d5\u05e0\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Periferija Sredi\u0161nja Makedonija"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6z\u00e9p-Maked\u00f3nia"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0544\u0561\u056f\u0565\u0564\u0578\u0576\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Makedonia Tengah"
     ],
     "name:ita_x_preferred":[
         "Macedonia Centrale"
     ],
+    "name:jav_x_preferred":[
+        "Makedonia Tengah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e2d\u592e\u30de\u30b1\u30c9\u30cb\u30a2"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \ub9c8\ucf00\ub3c4\ub2c8\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\ub9c8\ucf00\ub3c4\ub2c8\uc544\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Macedonia Media"
+    ],
+    "name:lav_x_preferred":[
+        "Centr\u0101l\u0101s Ma\u0137edonijas perif\u0113rija"
+    ],
+    "name:lim_x_preferred":[
+        "Centraol-Macedoni\u00eb"
+    ],
+    "name:lit_x_preferred":[
+        "Centrin\u0117s Makedonijos periferija"
+    ],
+    "name:lmo_x_preferred":[
+        "Maced\u00f2nia Sentr\u00e0la"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Makedonia Tengah"
+    ],
+    "name:nld_x_preferred":[
+        "Centraal-Macedoni\u00eb"
+    ],
+    "name:nno_x_preferred":[
+        "Sentral-Makedon\u00eda"
+    ],
+    "name:nor_x_preferred":[
+        "Sentral-Makedonia"
+    ],
+    "name:oss_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043e\u043d \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0648\u0634\u06a9\u0627\u0631\u0644\u06c1 \u0645\u0641\u062f\u0648\u0646\u06cc\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Region Macedonia \u015arodkowa"
+    ],
+    "name:por_x_preferred":[
+        "Maced\u00f4nia Central"
+    ],
+    "name:ron_x_preferred":[
+        "Macedonia Central\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Central Macedonie"
+    ],
+    "name:slk_x_preferred":[
+        "Stredn\u00e1 Maked\u00f3nia"
+    ],
+    "name:sqi_x_preferred":[
+        "Maqedonia Qendrore"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0458\u0430 \u0421\u0440\u0435\u0434\u0438\u0448\u045a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mellersta Makedonien"
+    ],
+    "name:tur_x_preferred":[
+        "Orta Makedonya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0633\u0637\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Trung Macedonia"
+    ],
+    "name:war_x_preferred":[
+        "Butnga nga Macedonia"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u9a6c\u5176\u987f"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GRC",
@@ -146,7 +303,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1553550786,
+    "wof:lastmodified":1564223365,
     "wof:name":"Central Macedonia",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
