@@ -31,8 +31,14 @@
     "name:eng_x_colloquial":[
         "Kynosargous"
     ],
+    "name:eng_x_colloquial_x_variant":[
+        "Kynosargous"
+    ],
     "name:eng_x_preferred":[
         "Kynosargous"
+    ],
+    "name:gre_x_preferred_x_variant":[
+        "\u039a\u03c5\u03bd\u03bf\u03c3\u03ac\u03c1\u03b3\u03bf\u03c5\u03c2"
     ],
     "name:unk_x_variant":[
         "Kynosargous"
@@ -65,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606691,
+    "wof:lastmodified":1565999544,
     "wof:name":"Kinosargous",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
