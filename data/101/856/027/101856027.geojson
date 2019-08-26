@@ -10,12 +10,16 @@
     "geom:latitude":39.874653,
     "geom:longitude":25.272011,
     "iso:country":"GR",
+    "lbl:bbox":"25.252011,39.854653,25.292011,39.894653",
     "lbl:latitude":39.874653,
     "lbl:longitude":25.272011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.874653,
     "mps:longitude":25.272011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u0392\u039f\u03a1\u0395\u0399\u039f \u0391\u0399\u0393\u0391\u0399\u039f",
     "qs:a1_alt":"BOREIO AIGAIO",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":957692,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"GR",
     "wof:geomhash":"941d82281993cf381bef2913beaa77f8",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101856027,
-    "wof:lastmodified":1544743196,
+    "wof:lastmodified":1566641469,
     "wof:name":"\u039c\u039f\u03a5\u0394\u03a1\u039f\u03a3",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17893700.001938,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.722257,35.260579,25.722257,35.260579",
     "geom:latitude":35.260579,
     "geom:longitude":25.722257,
@@ -13,8 +13,10 @@
     "gn:longitude":25.71104,
     "gn:population":115,
     "iso:country":"GR",
+    "lbl:bbox":"25.717257,35.255579,25.727257,35.265579",
     "lbl:latitude":35.260579,
     "lbl:longitude":25.722257,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.256919,
     "mps:longitude":25.709276,
     "mz:hierarchy_label":0,
@@ -44,12 +46,6 @@
         "Upper Elounda",
         "Ano Elounda",
         "Pano Elounda"
-    ],
-    "name:und_x_variant":[
-        "Epano Elounta"
-    ],
-    "name:unk_x_variant":[
-        "Ep\u00e1no Elo\u00fanda"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_fcode":"PPLX",
@@ -81,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +89,6 @@
     "wof:concordances":{
         "gn:id":262681,
         "gp:id":949174,
-        "qs:id":240594,
         "qs_pg:id":240594
     },
     "wof:country":"GR",
@@ -111,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935916,
+    "wof:lastmodified":1566640747,
     "wof:name":"Ep\u00e1no Elo\u00fanda",
     "wof:parent_id":101848173,
     "wof:placetype":"neighbourhood",

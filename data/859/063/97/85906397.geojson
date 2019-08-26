@@ -13,6 +13,7 @@
     "iso:country":"GR",
     "lbl:latitude":37.964169,
     "lbl:longitude":23.722004,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.963762,
     "mps:longitude":23.723738,
     "mz:hierarchy_label":1,
@@ -52,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043a\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "Koukaki"
-    ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_id":0,
     "qs:gn_local":264371,
@@ -83,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":37.964,
     "wd:longitude":23.723,
     "wd:wordcount":318,
@@ -96,7 +94,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723933,
-        "qs:id":1087522,
         "qs_pg:id":1087522,
         "wd:id":"Q2613998"
     },
@@ -115,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561843967,
+    "wof:lastmodified":1566640739,
     "wof:name":"Koukaki",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

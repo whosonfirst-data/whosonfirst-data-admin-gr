@@ -9,15 +9,18 @@
     "geom:bbox":"21.95611,39.2725,21.95611,39.2725",
     "geom:latitude":39.2725,
     "geom:longitude":21.95611,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1208,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1208,
     "iso:country":"GR",
+    "lbl:bbox":"21.93611,39.2525,21.97611,39.2925",
     "lbl:latitude":39.2725,
     "lbl:longitude":21.95611,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03bb\u03b9\u03c6\u03ce\u03bd\u03b9\u03bf\u03bd"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u039a\u03b1\u03bb\u03bb\u03b9\u03c6\u03ce\u03bd\u03b9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kallif\u00f3nio"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":951024,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126035401,
-    "wof:lastmodified":1509408197,
+    "wof:lastmodified":1566641776,
     "wof:name":"Kallifonion",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

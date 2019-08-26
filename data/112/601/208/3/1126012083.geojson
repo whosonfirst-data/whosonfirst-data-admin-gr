@@ -9,15 +9,18 @@
     "geom:bbox":"23.98333,40.33333,23.98333,40.33333",
     "geom:latitude":40.33333,
     "geom:longitude":23.98333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1047,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1047,
     "iso:country":"GR",
+    "lbl:bbox":"23.96333,40.31333,24.00333,40.35333",
     "lbl:latitude":40.33333,
     "lbl:longitude":23.98333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0627\u0646\u0648\u0628\u0648\u0644\u064a\u0633"
@@ -84,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0430\u043d\u0443\u043f\u043e\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00edrgos"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +114,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":958632,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1126012083,
-    "wof:lastmodified":1563278873,
+    "wof:lastmodified":1566641971,
     "wof:name":"Ouranopolis",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

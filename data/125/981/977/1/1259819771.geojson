@@ -25,8 +25,12 @@
     "gn:population":200,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.55805,37.82142,22.59805,37.86142",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0391\u03b7\u03b4\u03cc\u03bd\u03b9\u03b1"
     ],
@@ -35,8 +39,7 @@
     ],
     "name:und_x_variant":[
         "B\u00f3tsika",
-        "A\u00efdh\u00f3nia",
-        "Aidonia"
+        "A\u00efdh\u00f3nia"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259819771,
-    "wof:lastmodified":1537624781,
+    "wof:lastmodified":1566642367,
     "wof:name":"Aidhonia",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

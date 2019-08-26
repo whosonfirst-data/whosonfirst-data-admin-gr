@@ -11,12 +11,16 @@
     "geom:longitude":22.009174,
     "gn:population":6773,
     "iso:country":"GR",
+    "lbl:bbox":"21.989174,37.029659,22.029174,37.069659",
     "lbl:latitude":37.049659,
     "lbl:longitude":22.009174,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.049659,
     "mps:longitude":22.009174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Messini"
     ],
@@ -47,7 +51,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u0441\u0438\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Messeni"
     ],
     "qs:a0":"Greece",
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +86,7 @@
         "gn:id":257152,
         "gp:id":957008,
         "nyt:id":"N14769193764947858511",
-        "qs:id":1248266,
+        "qs_pg:id":1248266,
         "wd:id":"Q12874064"
     },
     "wof:country":"GR",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101848333,
-    "wof:lastmodified":1561843998,
+    "wof:lastmodified":1566641485,
     "wof:name":"\u039c\u0395\u03a3\u03a3\u0397\u039d\u0397",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

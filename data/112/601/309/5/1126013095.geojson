@@ -9,15 +9,18 @@
     "geom:bbox":"20.65,38.76667,20.65,38.76667",
     "geom:latitude":38.76667,
     "geom:longitude":20.65,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":994,
-    "gn:population":589,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":994,
     "iso:country":"GR",
+    "lbl:bbox":"20.63,38.74667,20.67,38.78667",
     "lbl:latitude":38.76667,
     "lbl:longitude":20.65,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u064a\u0627\u060c \u0644\u064a\u0641\u0643\u0627\u0633"
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Kary\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kari\u00e1"
     ],
     "qs_pg:aaroncc":"GR",
@@ -89,7 +92,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":965994,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1126013095,
-    "wof:lastmodified":1563278851,
+    "wof:lastmodified":1566641958,
     "wof:name":"Karya",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

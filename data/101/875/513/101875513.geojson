@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2478769.707437,
+    "geom:area_square_m":2478769.707436,
     "geom:bbox":"23.6111771032,38.389474707,23.6293628875,38.4076597681",
     "geom:latitude":38.398523,
     "geom:longitude":23.620375,
@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":38.398567,
     "lbl:longitude":23.620548,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.398567,
     "mps:longitude":23.620548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Vuurtoring van Alexandri\u00eb"
     ],
@@ -240,7 +243,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043c\u0430\u044f\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yeral\u00edon"
     ],
     "name:urd_x_preferred":[
@@ -278,7 +281,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1832,
     "wof:belongsto":[
@@ -290,8 +293,10 @@
     "wof:concordances":{
         "gn:id":262465,
         "gp:id":959347,
-        "qs:id":1236804,
         "qs_pg:id":1101733
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1236804
     },
     "wof:country":"GR",
     "wof:geomhash":"ccbfe25d216b6d26f54cd19f33d6db35",
@@ -304,7 +309,7 @@
         }
     ],
     "wof:id":101875513,
-    "wof:lastmodified":1527642587,
+    "wof:lastmodified":1566641435,
     "wof:name":"\u03a6\u0391\u03a1\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

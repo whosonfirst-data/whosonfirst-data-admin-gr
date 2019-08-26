@@ -10,12 +10,16 @@
     "geom:latitude":38.915081,
     "geom:longitude":22.304367,
     "iso:country":"GR",
+    "lbl:bbox":"22.284367,38.895081,22.324367,38.935081",
     "lbl:latitude":38.915081,
     "lbl:longitude":22.304367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.915081,
     "mps:longitude":22.304367,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"STEREA ELLADA",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55869675,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"GR",
     "wof:geomhash":"c822fad7d4f0e84896dd6bd35034a2ff",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101849281,
-    "wof:lastmodified":1544740873,
+    "wof:lastmodified":1566641504,
     "wof:name":"\u039b\u0399\u0391\u039d\u039f\u039a\u039b\u0391\u0394\u0399\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":372,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.22973,37.69747,22.26973,37.73747",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0445\u0435\u0440\u043d\u0430"
     ],
@@ -55,8 +59,7 @@
         "Vlach\u00e9rna"
     ],
     "name:und_x_variant":[
-        "Bezen\u00edkon",
-        "Vlakh\u00e9rna"
+        "Bezen\u00edkon"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1259913665,
-    "wof:lastmodified":1564225391,
+    "wof:lastmodified":1566642306,
     "wof:name":"Vlacherna",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

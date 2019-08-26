@@ -11,12 +11,16 @@
     "geom:longitude":23.710241,
     "gn:population":601,
     "iso:country":"GR",
+    "lbl:bbox":"23.690241,41.063313,23.730241,41.103313",
     "lbl:latitude":41.083313,
     "lbl:longitude":23.710241,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":41.083313,
     "mps:longitude":23.710241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u0645\u0627\u0646\u0648\u064a\u0644 \u0628\u0627\u0628\u0628\u0627\u0633"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Emmanou\u00edl Papp\u00e1s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Papp\u00e1s Dhov\u00edsta"
     ],
     "qs:a0":"Greece",
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":41.082778,
     "wd:longitude":23.716944,
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":736323,
         "gp:id":949157,
-        "qs:id":422474,
+        "qs_pg:id":422474,
         "wd:id":"Q3399479",
         "wk:page":"Emmanouil Pappas (village)"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":101856965,
-    "wof:lastmodified":1563277958,
+    "wof:lastmodified":1566641465,
     "wof:name":"\u0395\u039c\u039c\u0391\u039d\u039f\u03a5\u0397\u039b \u03a0\u0391\u03a0\u03a0\u0391\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

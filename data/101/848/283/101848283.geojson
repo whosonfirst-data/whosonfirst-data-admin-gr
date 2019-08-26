@@ -11,12 +11,16 @@
     "geom:longitude":24.982086,
     "gn:population":2811,
     "iso:country":"GR",
+    "lbl:bbox":"24.962086,35.209927,25.002086,35.249927",
     "lbl:latitude":35.229927,
     "lbl:longitude":24.982086,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.229927,
     "mps:longitude":24.982086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Krous\u00f3n"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Krous\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kro\u00fasonas"
     ],
     "qs:a0":"Greece",
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -92,7 +96,6 @@
         "fct:id":"1147d192-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":258744,
         "gp:id":954785,
-        "qs:id":208555,
         "qs_pg:id":208555,
         "wd:id":"Q640658",
         "wk:page":"Krousonas"
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278008,
+    "wof:lastmodified":1566641485,
     "wof:name":"\u039a\u03a1\u039f\u03a5\u03a3\u03a9\u039d",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"21.6271,37.64788,21.6271,37.64788",
     "geom:latitude":37.64788,
     "geom:longitude":21.6271,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1208,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1208,
     "iso:country":"GR",
+    "lbl:bbox":"21.6071,37.62788,21.6471,37.66788",
     "lbl:latitude":37.64788,
     "lbl:longitude":21.6271,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u0432\u043d\u0430 \u041e\u043b\u0438\u043c\u043f\u0438\u044f"
@@ -78,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0445\u0430\u044f \u041e\u043b\u0456\u043c\u043f\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olimb\u00eda Arkha\u00eda"
     ],
     "qs_pg:aaroncc":"GR",
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":965953,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125810851,
-    "wof:lastmodified":1563278573,
+    "wof:lastmodified":1566641805,
     "wof:name":"Archaiaolympia",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

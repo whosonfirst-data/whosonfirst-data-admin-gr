@@ -9,15 +9,18 @@
     "geom:bbox":"21.5675,39.44472,21.5675,39.44472",
     "geom:latitude":39.44472,
     "geom:longitude":21.5675,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":148,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":148,
     "iso:country":"GR",
+    "lbl:bbox":"21.5475,39.42472,21.5875,39.46472",
     "lbl:latitude":39.44472,
     "lbl:longitude":21.5675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03b3\u03b3\u03b9\u03ad\u03c2"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u039b\u03bf\u03b3\u03b3\u03b9\u03b1\u03af"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Longi\u00e9s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":546621,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126042225,
-    "wof:lastmodified":1509408615,
+    "wof:lastmodified":1566641746,
     "wof:name":"Longia\u00ed",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

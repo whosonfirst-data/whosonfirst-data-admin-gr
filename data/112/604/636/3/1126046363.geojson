@@ -9,15 +9,18 @@
     "geom:bbox":"22.88917,41.08139,22.88917,41.08139",
     "geom:latitude":41.08139,
     "geom:longitude":22.88917,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":148,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":148,
     "iso:country":"GR",
+    "lbl:bbox":"22.86917,41.06139,22.90917,41.10139",
     "lbl:latitude":41.08139,
     "lbl:longitude":22.88917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "Koil\u00e1dio"
@@ -26,7 +29,7 @@
         "\u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b9\u03bf",
         "\u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b9\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koil\u00e1dhion"
     ],
     "qs_pg:aaroncc":"GR",
@@ -41,7 +44,7 @@
     "qs_pg:qs_id":552916,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1126046363,
-    "wof:lastmodified":1509408877,
+    "wof:lastmodified":1566641755,
     "wof:name":"Koil\u00e1dion",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

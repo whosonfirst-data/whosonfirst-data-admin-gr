@@ -10,8 +10,10 @@
     "geom:latitude":38.018992,
     "geom:longitude":23.727666,
     "iso:country":"GR",
+    "lbl:bbox":"23.7226657906,38.0139917839,23.7326657906,38.0239917839",
     "lbl:latitude":38.018992,
     "lbl:longitude":23.727666,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03b9\u03bf\u03c2"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -45,7 +47,7 @@
         }
     ],
     "wof:id":1108942359,
-    "wof:lastmodified":1538606681,
+    "wof:lastmodified":1566641250,
     "wof:name":"Agios Eleftherios",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":3366,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.5412,40.04032,22.5812,40.08032",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u062a\u0648\u0643\u0627\u0631\u064a\u0627"
     ],
@@ -72,8 +76,7 @@
     "name:und_x_variant":[
         "Sk\u00e1la Leptokari\u00e1s",
         "Leptokarja",
-        "Sk\u00e1la Leptokary\u00e1s",
-        "Leptokary\u00e1"
+        "Sk\u00e1la Leptokary\u00e1s"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1310630195,
-    "wof:lastmodified":1564224181,
+    "wof:lastmodified":1566641304,
     "wof:name":"Leptokarya",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

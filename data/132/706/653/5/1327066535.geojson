@@ -25,8 +25,12 @@
     "gn:population":2154,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"23.49971,40.99871,23.53971,41.03871",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u044f\u0440"
     ],
@@ -59,8 +63,7 @@
         "Sko\u00fatari"
     ],
     "name:und_x_variant":[
-        "Kopek\u00ed",
-        "Sko\u00fatari"
+        "Kopek\u00ed"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1327066535,
-    "wof:lastmodified":1564222955,
+    "wof:lastmodified":1566640462,
     "wof:name":"Skoutari",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

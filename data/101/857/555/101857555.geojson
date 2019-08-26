@@ -11,12 +11,16 @@
     "geom:longitude":22.917694,
     "gn:population":1523,
     "iso:country":"GR",
+    "lbl:bbox":"22.897694,40.870248,22.937694,40.910248",
     "lbl:latitude":40.890248,
     "lbl:longitude":22.917694,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.890248,
     "mps:longitude":22.917694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0627\u0646\u064a\u0633"
     ],
@@ -44,7 +48,7 @@
     "name:swe_x_preferred":[
         "Kamp\u00e1nis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00e1ltoi"
     ],
     "qs:a0":"Greece",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":736014,
         "gp:id":951266,
-        "qs:id":552925,
+        "qs_pg:id":552925,
         "wd:id":"Q3394267"
     },
     "wof:country":"GR",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101857555,
-    "wof:lastmodified":1563277925,
+    "wof:lastmodified":1566641450,
     "wof:name":"\u039a\u0391\u039c\u03a0\u0391\u039d\u0397\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

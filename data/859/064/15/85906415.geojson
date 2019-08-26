@@ -11,8 +11,10 @@
     "geom:longitude":23.808851,
     "gn:id":"",
     "iso:country":"GR",
+    "lbl:bbox":"23.803851,38.081253,23.813851,38.091253",
     "lbl:latitude":38.086253,
     "lbl:longitude":23.808851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.089307,
     "mps:longitude":23.808287,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:tur_x_preferred":[
         "Nea Kifisia BK"
     ],
-    "name:unk_x_variant":[
-        "Nea Kifisia"
-    ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_id":0,
     "qs:gn_local":8133694,
@@ -86,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":364,
     "wof:belongsto":[
         102191581,
@@ -96,7 +95,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723949,
-        "qs:id":366595,
         "qs_pg:id":366595,
         "wd:id":"Q12872692"
     },
@@ -115,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277013,
+    "wof:lastmodified":1566640741,
     "wof:name":"Nea Kifisia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

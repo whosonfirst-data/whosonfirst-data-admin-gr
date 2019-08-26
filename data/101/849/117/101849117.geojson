@@ -11,12 +11,16 @@
     "geom:longitude":23.077837,
     "gn:population":1182,
     "iso:country":"GR",
+    "lbl:bbox":"23.057837,39.078949,23.097837,39.118949",
     "lbl:latitude":39.098949,
     "lbl:longitude":23.077837,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.098949,
     "mps:longitude":23.077837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0643\u064a\u0631\u064a"
     ],
@@ -62,7 +66,7 @@
     "name:swe_x_preferred":[
         "Tr\u00edkeri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tr\u00edkerion"
     ],
     "qs:a0":"Greece",
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.100278,
     "wd:longitude":23.076944,
@@ -98,7 +102,6 @@
     "wof:concordances":{
         "gn:id":252655,
         "gp:id":963591,
-        "qs:id":1052532,
         "qs_pg:id":1052532,
         "wd:id":"Q2637021",
         "wk:page":"Trikeri"
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101849117,
-    "wof:lastmodified":1563278082,
+    "wof:lastmodified":1566641514,
     "wof:name":"\u03a4\u03a1\u0399\u039a\u0395\u03a1\u039f\u039d",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

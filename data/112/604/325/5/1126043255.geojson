@@ -9,15 +9,18 @@
     "geom:bbox":"20.94083,39.52,20.94083,39.52",
     "geom:latitude":39.52,
     "geom:longitude":20.94083,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":72,
-    "gn:population":49,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":72,
     "iso:country":"GR",
+    "lbl:bbox":"20.92083,39.5,20.96083,39.54",
     "lbl:latitude":39.52,
     "lbl:longitude":20.94083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_historical":[
         "\u039a\u03bf\u03c4\u03cc\u03c1\u03c4\u03c3\u03b9",
@@ -35,7 +38,7 @@
     "name:eng_x_preferred":[
         "Aetorrachi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u00ebtorr\u00e1khi"
     ],
     "qs_pg:aaroncc":"GR",
@@ -50,7 +53,7 @@
     "qs_pg:qs_id":546965,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126043255,
-    "wof:lastmodified":1509408682,
+    "wof:lastmodified":1566641732,
     "wof:name":"A\u00ebtorr\u00e1chi",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

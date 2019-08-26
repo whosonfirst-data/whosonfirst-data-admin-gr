@@ -9,15 +9,18 @@
     "geom:bbox":"27.8378,36.61246,27.8378,36.61246",
     "geom:latitude":36.61246,
     "geom:longitude":27.8378,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2508,
-    "gn:population":2354,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
+    "gn:population":2508,
     "iso:country":"GR",
+    "lbl:bbox":"27.7378,36.51246,27.9378,36.71246",
     "lbl:latitude":36.61246,
     "lbl:longitude":27.8378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u064a"
@@ -112,7 +115,7 @@
     "name:tur_x_preferred":[
         "S\u00f6mbeki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00edmi"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":24544061,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1125367709,
-    "wof:lastmodified":1564224892,
+    "wof:lastmodified":1566641929,
     "wof:name":"Symi",
     "wof:parent_id":85684659,
     "wof:placetype":"localadmin",

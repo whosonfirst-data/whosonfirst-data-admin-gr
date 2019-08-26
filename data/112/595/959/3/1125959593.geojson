@@ -9,15 +9,18 @@
     "geom:bbox":"24.87069,35.01021,24.87069,35.01021",
     "geom:latitude":35.01021,
     "geom:longitude":24.87069,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":953,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":953,
     "iso:country":"GR",
+    "lbl:bbox":"24.85069,34.99021,24.89069,35.03021",
     "lbl:latitude":35.01021,
     "lbl:longitude":24.87069,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0648\u0645\u0628\u06cc\u0627"
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043c\u0431\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00f3mbia"
     ],
     "name:uzb_x_preferred":[
@@ -160,7 +163,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":960500,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1125959593,
-    "wof:lastmodified":1564224556,
+    "wof:lastmodified":1566641662,
     "wof:name":"Pombia",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

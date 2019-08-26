@@ -11,12 +11,16 @@
     "geom:longitude":23.979479,
     "gn:population":15554,
     "iso:country":"GR",
+    "lbl:bbox":"23.959479,38.063449,23.999479,38.103449",
     "lbl:latitude":38.083449,
     "lbl:longitude":23.979479,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.083449,
     "mps:longitude":23.979479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627 \u0645\u0627\u0643\u0631\u064a"
     ],
@@ -90,9 +94,7 @@
         "\u041d\u0435\u0430-\u041c\u0430\u043a\u0440\u0456"
     ],
     "name:und_x_variant":[
-        "\u039d\u0395\u0391 \u039c\u0391\u039a\u03a1\u0397"
-    ],
-    "name:unk_x_variant":[
+        "\u039d\u0395\u0391 \u039c\u0391\u039a\u03a1\u0397",
         "\u00c1yios Konstand\u00ednos"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.083333,
     "wd:longitude":23.983333,
@@ -132,7 +134,6 @@
         "fct:id":"114e9e50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":256598,
         "gp:id":957953,
-        "qs:id":4090,
         "qs_pg:id":4090,
         "wd:id":"Q2292363",
         "wk:page":"Nea Makri"
@@ -151,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278110,
+    "wof:lastmodified":1566641527,
     "wof:name":"\u039d\u0395\u0391 \u039c\u0391\u039a\u03a1\u0397",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

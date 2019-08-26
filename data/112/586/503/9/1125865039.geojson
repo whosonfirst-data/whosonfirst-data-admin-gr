@@ -9,15 +9,18 @@
     "geom:bbox":"22.97861,40.74528,22.97861,40.74528",
     "geom:latitude":40.74528,
     "geom:longitude":22.97861,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3226,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":3226,
     "iso:country":"GR",
+    "lbl:bbox":"22.95861,40.72528,22.99861,40.76528",
     "lbl:latitude":40.74528,
     "lbl:longitude":22.97861,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u064a\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Lit\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u00efv\u00e1tion"
     ],
     "qs_pg:aaroncc":"GR",
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":129069,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125865039,
-    "wof:lastmodified":1563278530,
+    "wof:lastmodified":1566641783,
     "wof:name":"Lit\u00ed",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

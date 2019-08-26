@@ -9,15 +9,18 @@
     "geom:bbox":"20.11333,39.38389,20.11333,39.38389",
     "geom:latitude":39.38389,
     "geom:longitude":20.11333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":923,
-    "gn:population":685,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":923,
     "iso:country":"GR",
+    "lbl:bbox":"20.09333,39.36389,20.13333,39.40389",
     "lbl:latitude":39.38389,
     "lbl:longitude":20.11333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0648\u0633\u060c \u0643\u064a\u0631\u0643\u064a\u0631\u0627"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "K\u00e1vos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pantatika"
     ],
     "qs_pg:aaroncc":"GR",
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":952625,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125810383,
-    "wof:lastmodified":1563278575,
+    "wof:lastmodified":1566641806,
     "wof:name":"Kavos",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

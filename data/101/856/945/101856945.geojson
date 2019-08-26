@@ -11,12 +11,16 @@
     "geom:longitude":23.282215,
     "gn:population":3786,
     "iso:country":"GR",
+    "lbl:bbox":"23.262215,41.162953,23.302215,41.202953",
     "lbl:latitude":41.182953,
     "lbl:longitude":23.282215,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.182953,
     "mps:longitude":23.282215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u0631\u0627\u0643\u0644\u064a\u0627\u060c \u0633\u064a\u0631\u0631\u064a"
     ],
@@ -92,7 +96,7 @@
     "name:tur_x_preferred":[
         "Barakli Cuma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beirakl\u00ed Juma"
     ],
     "qs:a0":"Greece",
@@ -113,7 +117,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":177,
     "wof:belongsto":[
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":736108,
         "gp:id":56558207,
-        "qs:id":947064,
+        "qs_pg:id":947064,
         "wd:id":"Q3399421",
         "wk:page":"Irakleia, Serres"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":101856945,
-    "wof:lastmodified":1563277972,
+    "wof:lastmodified":1566641471,
     "wof:name":"\u0397\u03a1\u0391\u039a\u039b\u0395\u0399\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

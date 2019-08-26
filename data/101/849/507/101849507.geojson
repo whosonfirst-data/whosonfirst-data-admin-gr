@@ -11,12 +11,16 @@
     "geom:longitude":22.980824,
     "gn:population":11564,
     "iso:country":"GR",
+    "lbl:bbox":"22.960824,37.956582,23.000824,37.996582",
     "lbl:latitude":37.976582,
     "lbl:longitude":22.980824,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":37.976582,
     "mps:longitude":22.980824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u062a\u0631\u0627\u0643\u064a"
     ],
@@ -100,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0442\u0440\u0430\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "Lutraki"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0624\u062a\u0631\u0627\u06a9\u06cc"
     ],
@@ -128,7 +129,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":753,
     "wof:belongsto":[
@@ -140,10 +141,12 @@
     "wof:concordances":{
         "gn:id":258066,
         "gp:id":955780,
-        "qs:id":202360,
-        "qs_pg:id":1101164,
+        "qs_pg:id":202360,
         "wd:id":"Q1850556",
         "wk:page":"Loutraki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101164
     },
     "wof:country":"GR",
     "wof:geomhash":"652cffe2c539f4dca4100f2972b01942",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101849507,
-    "wof:lastmodified":1563278089,
+    "wof:lastmodified":1566641518,
     "wof:name":"\u039b\u039f\u03a5\u03a4\u03a1\u0391\u039a\u0399\u039f\u039d",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

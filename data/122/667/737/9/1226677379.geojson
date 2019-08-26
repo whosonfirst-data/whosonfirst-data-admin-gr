@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"24.342,38.10814,24.382,38.14814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0643\u0627\u0644\u064a"
     ],
@@ -71,8 +75,7 @@
     ],
     "name:und_x_variant":[
         "Ko\u00edlosi",
-        "Koil\u00f3sion",
-        "Ek\u00e1li"
+        "Koil\u00f3sion"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1226677379,
-    "wof:lastmodified":1564225543,
+    "wof:lastmodified":1566642402,
     "wof:name":"Ekali",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

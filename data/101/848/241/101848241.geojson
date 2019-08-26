@@ -10,12 +10,16 @@
     "geom:latitude":37.552674,
     "geom:longitude":21.821734,
     "iso:country":"GR",
+    "lbl:bbox":"21.801734,37.532674,21.841734,37.572674",
     "lbl:latitude":37.552674,
     "lbl:longitude":21.821734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.552674,
     "mps:longitude":21.821734,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"DYTIKH ELLADA",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":91673574,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"GR",
     "wof:geomhash":"a7674a5f344b9d7fa5d26b2027bfe5ec",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101848241,
-    "wof:lastmodified":1544740335,
+    "wof:lastmodified":1566641486,
     "wof:name":"\u039a\u0391\u039b\u039b\u0399\u0398\u0395\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"23.3,41.21667,23.3,41.21667",
     "geom:latitude":41.21667,
     "geom:longitude":23.3,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1490,
-    "gn:population":1414,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1490,
     "iso:country":"GR",
+    "lbl:bbox":"23.28,41.19667,23.32,41.23667",
     "lbl:latitude":41.21667,
     "lbl:longitude":23.3,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03af\u03bc\u03b7\u03c3\u03b9\u03c2"
@@ -29,7 +32,7 @@
     "name:eng_x_preferred":[
         "Koimisi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sp\u00e1tovon"
     ],
     "qs_pg:aaroncc":"GR",
@@ -49,7 +52,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":953681,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1125891521,
-    "wof:lastmodified":1509398830,
+    "wof:lastmodified":1566641839,
     "wof:name":"Koimisis",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

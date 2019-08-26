@@ -9,20 +9,23 @@
     "geom:bbox":"22.87056,41.03278,22.87056,41.03278",
     "geom:latitude":41.03278,
     "geom:longitude":22.87056,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":134,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":134,
     "iso:country":"GR",
+    "lbl:bbox":"22.85056,41.01278,22.89056,41.05278",
     "lbl:latitude":41.03278,
     "lbl:longitude":22.87056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a7\u03b7\u03c1\u03cc\u03b2\u03c1\u03c5\u03c3\u03b7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Serseml\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":552774,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125836431,
-    "wof:lastmodified":1509395007,
+    "wof:lastmodified":1566642141,
     "wof:name":"Xir\u00f3vrysi",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

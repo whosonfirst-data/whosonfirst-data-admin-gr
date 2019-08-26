@@ -9,15 +9,18 @@
     "geom:bbox":"20.875,39.67889,20.875,39.67889",
     "geom:latitude":39.67889,
     "geom:longitude":20.875,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":348,
-    "gn:population":219,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":348,
     "iso:country":"GR",
+    "lbl:bbox":"20.855,39.65889,20.895,39.69889",
     "lbl:latitude":39.67889,
     "lbl:longitude":20.875,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "\u0130oannina adas\u0131"
@@ -83,7 +86,7 @@
     "name:swe_x_preferred":[
         "N\u00edsos Ioann\u00ednon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nis\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -98,7 +101,7 @@
     "qs_pg:qs_id":546550,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1126041891,
-    "wof:lastmodified":1563278440,
+    "wof:lastmodified":1566641726,
     "wof:name":"N\u00edsos Ioann\u00ednon",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

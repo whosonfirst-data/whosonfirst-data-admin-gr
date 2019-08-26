@@ -9,15 +9,18 @@
     "geom:bbox":"20.98528,39.16056,20.98528,39.16056",
     "geom:latitude":39.16056,
     "geom:longitude":20.98528,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19540,
-    "gn:population":21895,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":19540,
     "iso:country":"GR",
+    "lbl:bbox":"20.96528,39.14056,21.00528,39.18056",
     "lbl:latitude":39.16056,
     "lbl:longitude":20.98528,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0622\u0631\u062a\u0627"
@@ -178,9 +181,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u00c1rta"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u062a\u0627\u060c \u06cc\u0648\u0646\u0627\u0646"
     ],
@@ -217,7 +217,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":946502,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -247,7 +247,7 @@
         }
     ],
     "wof:id":1126009975,
-    "wof:lastmodified":1563278883,
+    "wof:lastmodified":1566641977,
     "wof:name":"Arta",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

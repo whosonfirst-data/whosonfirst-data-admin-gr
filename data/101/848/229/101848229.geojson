@@ -11,12 +11,16 @@
     "geom:longitude":21.501427,
     "gn:population":1280,
     "iso:country":"GR",
+    "lbl:bbox":"21.481427,37.650711,21.521427,37.690711",
     "lbl:latitude":37.670711,
     "lbl:longitude":21.501427,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.670711,
     "mps:longitude":21.501427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0641\u0627\u0633\u064a\u0646\u0627"
     ],
@@ -41,9 +45,6 @@
     "name:swe_x_preferred":[
         "Varv\u00e1saina"
     ],
-    "name:unk_x_variant":[
-        "Varv\u00e1saina"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"DYTIKH ELLADA",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.671944,
     "wd:longitude":21.498333,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":252232,
         "gp:id":56024263,
-        "qs:id":539378,
+        "qs_pg:id":539378,
         "wd:id":"Q7916256",
         "wk:page":"Varvasaina"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101848229,
-    "wof:lastmodified":1563277982,
+    "wof:lastmodified":1566641476,
     "wof:name":"\u0392\u0391\u03a1\u0392\u0391\u03a3\u0391\u0399\u039d\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

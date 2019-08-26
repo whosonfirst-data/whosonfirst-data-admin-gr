@@ -9,15 +9,18 @@
     "geom:bbox":"21.72444,39.88861,21.72444,39.88861",
     "geom:latitude":39.88861,
     "geom:longitude":21.72444,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":11,
     "iso:country":"GR",
+    "lbl:bbox":"21.70444,39.86861,21.74444,39.90861",
     "lbl:latitude":39.88861,
     "lbl:longitude":21.72444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0414\u0438\u0430\u0441\u0435\u043b\u0430\u043a\u0438"
@@ -35,7 +38,7 @@
     "name:mkd_x_preferred":[
         "\u0421\u0435\u043b\u0438\u0441\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Diasell\u00e1ki"
     ],
     "qs_pg:aaroncc":"GR",
@@ -50,7 +53,7 @@
     "qs_pg:qs_id":546851,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1126042717,
-    "wof:lastmodified":1563278467,
+    "wof:lastmodified":1566641745,
     "wof:name":"Diasell\u00e1kion",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

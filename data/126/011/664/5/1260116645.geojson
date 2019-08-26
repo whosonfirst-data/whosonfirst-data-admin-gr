@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.98515,36.82543,23.02515,36.86543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Reich\u00e9a"
     ],
@@ -36,9 +40,6 @@
         "Rikhia",
         "Reichi\u00e1",
         "\u03a1\u03b5\u03b9\u03c7\u03b9\u03ac"
-    ],
-    "name:und_x_variant":[
-        "Rikhia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1260116645,
-    "wof:lastmodified":1537624263,
+    "wof:lastmodified":1566641230,
     "wof:name":"Reichia",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

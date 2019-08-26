@@ -11,12 +11,16 @@
     "geom:longitude":22.796655,
     "gn:population":805,
     "iso:country":"GR",
+    "lbl:bbox":"22.776655,39.731537,22.816655,39.771537",
     "lbl:latitude":39.751537,
     "lbl:longitude":22.796655,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":39.751537,
     "mps:longitude":22.796655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u064a\u0641\u0648\u064a\u0627"
     ],
@@ -62,7 +66,7 @@
     "name:swe_x_variant":[
         "Makrych\u00f3ri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ath\u00e1naton"
     ],
     "qs:a0":"Greece",
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":173,
     "wof:belongsto":[
@@ -96,7 +100,6 @@
     "wof:concordances":{
         "gn:id":257282,
         "gp:id":956772,
-        "qs:id":79777,
         "qs_pg:id":79777,
         "wd:id":"Q2463828",
         "wk:page":"Melivoia"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101855019,
-    "wof:lastmodified":1563278159,
+    "wof:lastmodified":1566641547,
     "wof:name":"\u039c\u0395\u039b\u0399\u0392\u039f\u0399\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

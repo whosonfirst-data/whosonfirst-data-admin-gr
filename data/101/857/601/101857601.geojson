@@ -11,12 +11,16 @@
     "geom:longitude":24.382812,
     "gn:population":1485,
     "iso:country":"GR",
+    "lbl:bbox":"24.362812,40.994492,24.402812,41.034492",
     "lbl:latitude":41.014492,
     "lbl:longitude":24.382812,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.014492,
     "mps:longitude":24.382812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0438\u0433\u043e\u0441"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Zyg\u00f3s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zig\u00f3s"
     ],
     "qs:a0":"Greece",
@@ -67,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.0167,
     "wd:longitude":24.3833,
@@ -81,10 +85,12 @@
     "wof:concordances":{
         "gn:id":251212,
         "gp:id":965700,
-        "qs:id":424128,
         "qs_pg:id":79720,
         "wd:id":"Q8075892",
         "wk:page":"Zygos"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":424128
     },
     "wof:country":"GR",
     "wof:geomhash":"97eaaa8d26f4acb7d36cb6afa582bc14",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101857601,
-    "wof:lastmodified":1563277940,
+    "wof:lastmodified":1566641457,
     "wof:name":"\u0396\u03a5\u0393\u039f\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

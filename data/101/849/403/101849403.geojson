@@ -11,12 +11,16 @@
     "geom:longitude":22.121683,
     "gn:population":1125,
     "iso:country":"GR",
+    "lbl:bbox":"22.101683,38.216126,22.141683,38.256126",
     "lbl:latitude":38.236126,
     "lbl:longitude":22.121683,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.236126,
     "mps:longitude":22.121683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u064a\u0646\u064a"
     ],
@@ -41,9 +45,6 @@
     "name:swe_x_preferred":[
         "T\u00e9meni"
     ],
-    "name:unk_x_variant":[
-        "T\u00e9meni"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"DYTIKH ELLADA",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -75,7 +76,6 @@
     "wof:concordances":{
         "gn:id":253003,
         "gp:id":963189,
-        "qs:id":123767,
         "qs_pg:id":123767,
         "wd:id":"Q4118464",
         "wk:page":"Temeni"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101849403,
-    "wof:lastmodified":1563278114,
+    "wof:lastmodified":1566641528,
     "wof:name":"\u03a4\u0395\u039c\u0395\u039d\u0397",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

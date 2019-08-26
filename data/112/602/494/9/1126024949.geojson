@@ -9,20 +9,23 @@
     "geom:bbox":"21.39472,39.20083,21.39472,39.20083",
     "geom:latitude":39.20083,
     "geom:longitude":21.39472,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":92,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":92,
     "iso:country":"GR",
+    "lbl:bbox":"21.37472,39.18083,21.41472,39.22083",
     "lbl:latitude":39.20083,
     "lbl:longitude":21.39472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03bb\u03bb\u03ac\u03c1\u03b9\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kel\u00e1ria"
     ],
     "qs_pg:aaroncc":"GR",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":546730,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1126024949,
-    "wof:lastmodified":1509407480,
+    "wof:lastmodified":1566641689,
     "wof:name":"Kell\u00e1ria",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

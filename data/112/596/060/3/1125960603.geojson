@@ -9,15 +9,18 @@
     "geom:bbox":"22.49336,38.47995,22.49336,38.47995",
     "geom:latitude":38.47995,
     "geom:longitude":22.49336,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2373,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2373,
     "iso:country":"GR",
+    "lbl:bbox":"22.47336,38.45995,22.51336,38.49995",
     "lbl:latitude":38.47995,
     "lbl:longitude":22.49336,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Delphi"
@@ -226,7 +229,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u044c\u0444\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhelfo\u00ed"
     ],
     "name:urd_x_preferred":[
@@ -259,7 +262,7 @@
     "qs_pg:qs_id":347586,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":1125960603,
-    "wof:lastmodified":1563278813,
+    "wof:lastmodified":1566641936,
     "wof:name":"Delphi",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

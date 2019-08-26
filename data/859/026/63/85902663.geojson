@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13081634.497297,
+    "geom:area_square_m":0.0,
     "geom:bbox":"22.978025,36.154364,22.978025,36.154364",
     "geom:latitude":36.154364,
     "geom:longitude":22.978025,
     "gn:latitude":36.16908,
     "gn:longitude":22.98495,
     "iso:country":"GR",
+    "lbl:bbox":"22.973025,36.149364,22.983025,36.159364",
     "lbl:latitude":36.154364,
     "lbl:longitude":22.978025,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.147576,
     "mps:longitude":22.996415,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:eng_x_variant":[
         "Kato Strapodi"
-    ],
-    "name:unk_x_variant":[
-        "K\u00e1to Strap\u00f3dhion"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_fcode":"PPLX",
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -80,7 +79,6 @@
     "wof:concordances":{
         "gn:id":260475,
         "gp:id":952437,
-        "qs:id":58470,
         "qs_pg:id":58470
     },
     "wof:country":"GR",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935921,
+    "wof:lastmodified":1566640747,
     "wof:name":"K\u00e1to Strap\u00f3dhion",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

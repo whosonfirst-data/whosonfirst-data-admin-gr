@@ -11,12 +11,16 @@
     "geom:longitude":23.969303,
     "gn:population":1432,
     "iso:country":"GR",
+    "lbl:bbox":"23.949303,38.182759,23.989303,38.222759",
     "lbl:latitude":38.202759,
     "lbl:longitude":23.969303,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.202759,
     "mps:longitude":23.969303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0645\u0627\u062a\u064a\u0643\u0648"
     ],
@@ -62,11 +66,7 @@
         "Grammatikos"
     ],
     "name:und_x_variant":[
-        "Grammatiko",
         "\u0393\u03a1\u0391\u039c\u039c\u0391\u03a4\u0399\u039a\u039f"
-    ],
-    "name:unk_x_variant":[
-        "Grammatik\u00f3n"
     ],
     "name:zho_x_preferred":[
         "\u845b\u62c9\u746a\u63d0\u514b"
@@ -90,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.2,
     "wd:longitude":23.966667,
@@ -105,7 +105,6 @@
         "fct:id":"114f9878-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":261903,
         "gp:id":950230,
-        "qs:id":471669,
         "qs_pg:id":471669,
         "wd:id":"Q2586549",
         "wk:page":"Grammatiko"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278055,
+    "wof:lastmodified":1566641504,
     "wof:name":"\u0393\u03a1\u0391\u039c\u039c\u0391\u03a4\u0399\u039a\u039f\u039d",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

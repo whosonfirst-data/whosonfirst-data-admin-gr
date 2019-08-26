@@ -9,15 +9,18 @@
     "geom:bbox":"22.04944,40.06556,22.04944,40.06556",
     "geom:latitude":40.06556,
     "geom:longitude":22.04944,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":938,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":938,
     "iso:country":"GR",
+    "lbl:bbox":"22.02944,40.04556,22.06944,40.08556",
     "lbl:latitude":40.06556,
     "lbl:longitude":22.04944,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0413\u043b\u0438\u043a\u043e\u0432\u043e"
@@ -65,7 +68,7 @@
     "name:tur_x_preferred":[
         "Sarantaporo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gl\u00edkovon"
     ],
     "qs_pg:aaroncc":"GR",
@@ -87,7 +90,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":961538,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1126004545,
-    "wof:lastmodified":1563278893,
+    "wof:lastmodified":1566641984,
     "wof:name":"Sarandaporon",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

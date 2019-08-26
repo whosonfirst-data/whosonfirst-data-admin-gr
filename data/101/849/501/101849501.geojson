@@ -11,12 +11,16 @@
     "geom:longitude":21.28693,
     "gn:population":1339,
     "iso:country":"GR",
+    "lbl:bbox":"21.26693,37.791508,21.30693,37.831508",
     "lbl:latitude":37.811508,
     "lbl:longitude":21.28693,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.811508,
     "mps:longitude":21.28693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0627\u0644\u064a\u0627"
     ],
@@ -41,7 +45,7 @@
     "name:swe_x_preferred":[
         "Sav\u00e1lia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sav\u00e1llia"
     ],
     "qs:a0":"Greece",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.816667,
     "wd:longitude":21.283333,
@@ -77,7 +81,6 @@
     "wof:concordances":{
         "gn:id":254045,
         "gp:id":961593,
-        "qs:id":123778,
         "qs_pg:id":123778,
         "wd:id":"Q3556146",
         "wk:page":"Savalia"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101849501,
-    "wof:lastmodified":1563278084,
+    "wof:lastmodified":1566641515,
     "wof:name":"\u03a3\u0391\u0392\u0391\u039b\u0399\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":36,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.37385,38.05168,22.41385,38.09168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_historical":[
         "\u0396\u03ac\u03c7\u03bf\u03bb\u03b7",
         "\u039a\u03bf\u03c5\u03bd\u03b9\u03ac\u03bd\u03b9\u03ba\u03b1"
@@ -62,8 +66,7 @@
     ],
     "name:und_x_variant":[
         "Z\u00e1kholi",
-        "Evrost\u00edni",
-        "Evrost\u00edna"
+        "Evrost\u00edni"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1343595695,
-    "wof:lastmodified":1564223245,
+    "wof:lastmodified":1566640668,
     "wof:name":"Evrostina",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"20.66917,39.20556,20.66917,39.20556",
     "geom:latitude":39.20556,
     "geom:longitude":20.66917,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":148,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":148,
     "iso:country":"GR",
+    "lbl:bbox":"20.64917,39.18556,20.68917,39.22556",
     "lbl:latitude":39.20556,
     "lbl:longitude":20.66917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0394\u03b5\u03c3\u03c0\u03bf\u03c4\u03b9\u03ba\u03cc"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u0394\u03b5\u03c3\u03c0\u03bf\u03c4\u03b9\u03ba\u03cc\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vl\u00e1ndho"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":948424,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125942181,
-    "wof:lastmodified":1509402137,
+    "wof:lastmodified":1566641597,
     "wof:name":"Dhespotikon",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

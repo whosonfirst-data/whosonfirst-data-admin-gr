@@ -9,14 +9,18 @@
     "geom:bbox":"24.2264,35.4541,24.2264,35.4541",
     "geom:latitude":35.4541,
     "geom:longitude":24.2264,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"24.2064,35.4341,24.2464,35.4741",
     "lbl:latitude":35.4541,
     "lbl:longitude":24.2264,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc"
@@ -30,7 +34,7 @@
     "name:nld_x_preferred":[
         "Kokkino Chorio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f3kkino Khori\u00f3"
     ],
     "qs_pg:aaroncc":"GR",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":953728,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1125990635,
-    "wof:lastmodified":1561844034,
+    "wof:lastmodified":1566641883,
     "wof:name":"Kokkino Khorio",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

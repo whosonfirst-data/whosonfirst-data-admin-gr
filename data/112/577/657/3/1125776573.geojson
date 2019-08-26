@@ -9,15 +9,18 @@
     "geom:bbox":"24.03333,41.11667,24.03333,41.11667",
     "geom:latitude":41.11667,
     "geom:longitude":24.03333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1105,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1105,
     "iso:country":"GR",
+    "lbl:bbox":"24.01333,41.09667,24.05333,41.13667",
     "lbl:latitude":41.11667,
     "lbl:longitude":24.03333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0627\u063a\u0631\u0648\u064a"
@@ -70,7 +73,7 @@
     "name:tur_x_preferred":[
         "Minare \u00c7iflik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minar\u00e9 Chifl\u00edk"
     ],
     "qs_pg:aaroncc":"GR",
@@ -90,7 +93,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":962135,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125776573,
-    "wof:lastmodified":1563279142,
+    "wof:lastmodified":1566642124,
     "wof:name":"Sitagroi",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

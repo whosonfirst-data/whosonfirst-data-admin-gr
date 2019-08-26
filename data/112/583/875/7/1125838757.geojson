@@ -9,15 +9,18 @@
     "geom:bbox":"21.18528,39.15639,21.18528,39.15639",
     "geom:latitude":39.15639,
     "geom:longitude":21.18528,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":69,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":69,
     "iso:country":"GR",
+    "lbl:bbox":"21.16528,39.13639,21.20528,39.17639",
     "lbl:latitude":39.15639,
     "lbl:longitude":21.18528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0393\u03b1\u03bb\u03ac\u03bd\u03b9"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u0393\u03b1\u03bb\u03ac\u03bd\u03b9\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gal\u00e1ni"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":79821,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125838757,
-    "wof:lastmodified":1509395148,
+    "wof:lastmodified":1566642143,
     "wof:name":"Gal\u00e1nion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

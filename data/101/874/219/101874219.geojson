@@ -11,12 +11,16 @@
     "geom:longitude":22.763603,
     "gn:population":2827,
     "iso:country":"GR",
+    "lbl:bbox":"22.743603,39.700353,22.783603,39.740353",
     "lbl:latitude":39.720353,
     "lbl:longitude":22.763603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.720353,
     "mps:longitude":22.763603,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u064a\u0627"
     ],
@@ -80,7 +84,7 @@
     "name:tur_x_preferred":[
         "Akya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayi\u00e1"
     ],
     "name:zho_x_preferred":[
@@ -105,7 +109,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":208,
     "wof:belongsto":[
@@ -117,10 +121,12 @@
     "wof:concordances":{
         "gn:id":264284,
         "gp:id":56558315,
-        "qs:id":973605,
         "qs_pg:id":546904,
         "wd:id":"Q2355675",
         "wk:page":"Agia, Larissa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":973605
     },
     "wof:country":"GR",
     "wof:geomhash":"8f968fd2dcaee1a8dc6f79d631d69c9a",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":101874219,
-    "wof:lastmodified":1563277851,
+    "wof:lastmodified":1566641415,
     "wof:name":"\u0391\u0393\u0399\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

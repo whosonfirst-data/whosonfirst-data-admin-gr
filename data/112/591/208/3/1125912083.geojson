@@ -9,14 +9,18 @@
     "geom:bbox":"22.23333,38.73333,22.23333,38.73333",
     "geom:latitude":38.73333,
     "geom:longitude":22.23333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"22.21333,38.71333,22.25333,38.75333",
     "lbl:latitude":38.73333,
     "lbl:longitude":22.23333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "Mavrolith\u00e1ri"
@@ -25,7 +29,7 @@
         "\u039c\u03b1\u03c5\u03c1\u03bf\u03bb\u03b9\u03b8\u03ac\u03c1\u03b9",
         "\u039c\u03b1\u03c5\u03c1\u03bf\u03bb\u03b9\u03b8\u03ac\u03c1\u03b9\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mavrolith\u00e1rion"
     ],
     "qs_pg:aaroncc":"GR",
@@ -49,7 +53,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":956440,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Thessaly and Continental Greece",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1125912083,
-    "wof:lastmodified":1509400247,
+    "wof:lastmodified":1566641942,
     "wof:name":"Mavrolitharion",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"22.95194,41.02139,22.95194,41.02139",
     "geom:latitude":41.02139,
     "geom:longitude":22.95194,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":198,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":198,
     "iso:country":"GR",
+    "lbl:bbox":"22.93194,41.00139,22.97194,41.04139",
     "lbl:latitude":41.02139,
     "lbl:longitude":22.95194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chomlekch\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -42,7 +45,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":948559,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125979453,
-    "wof:lastmodified":1509404674,
+    "wof:lastmodified":1566641919,
     "wof:name":"Dhipotamos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

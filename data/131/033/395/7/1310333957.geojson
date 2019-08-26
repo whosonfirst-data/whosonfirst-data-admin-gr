@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"23.05439,38.22922,23.09439,38.26922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Xironom\u00ed"
     ],
@@ -37,9 +41,6 @@
         "\u039e\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03ae \u0392\u03bf\u03b9\u03c9\u03c4\u03af\u03b1\u03c2"
     ],
     "name:swe_x_preferred":[
-        "Xironom\u00ed"
-    ],
-    "name:und_x_variant":[
         "Xironom\u00ed"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1310333957,
-    "wof:lastmodified":1564224240,
+    "wof:lastmodified":1566641348,
     "wof:name":"Xironomi",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":38.45398,
     "lbl:longitude":23.689499,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.45398,
     "mps:longitude":23.689499,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0391\u03c6\u03c1\u03ac\u03c4\u03b9\u03bf\u03bd"
     ],
@@ -26,7 +29,7 @@
     "name:eng_x_preferred":[
         "Afrati"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Afr\u00e1ti"
     ],
     "qs:a0":"Greece",
@@ -44,7 +47,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":265650,
         "gp:id":944913,
-        "qs:id":1283604
+        "qs_pg:id":1283604
     },
     "wof:country":"GR",
     "wof:geomhash":"1219de68dd2844031888f4ec4f5582a7",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101875751,
-    "wof:lastmodified":1505338446,
+    "wof:lastmodified":1566641427,
     "wof:name":"\u0391\u03a6\u03a1\u0391\u03a4\u0399\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

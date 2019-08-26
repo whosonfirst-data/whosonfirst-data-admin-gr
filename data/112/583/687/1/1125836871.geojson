@@ -9,15 +9,18 @@
     "geom:bbox":"22.43278,40.19222,22.43278,40.19222",
     "geom:latitude":40.19222,
     "geom:longitude":22.43278,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2196,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2196,
     "iso:country":"GR",
+    "lbl:bbox":"22.41278,40.17222,22.45278,40.21222",
     "lbl:latitude":40.19222,
     "lbl:longitude":22.43278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u0440\u043e\u043d\u0434\u0443"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Vronto\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kal\u00edvia Vrondo\u00fas"
     ],
     "qs_pg:aaroncc":"GR",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":83285,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125836871,
-    "wof:lastmodified":1563279175,
+    "wof:lastmodified":1566642143,
     "wof:name":"Vronto\u00fa",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

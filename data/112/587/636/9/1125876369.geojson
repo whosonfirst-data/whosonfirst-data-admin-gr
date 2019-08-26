@@ -9,15 +9,18 @@
     "geom:bbox":"20.62694,39.96917,20.62694,39.96917",
     "geom:latitude":39.96917,
     "geom:longitude":20.62694,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":153,
-    "gn:population":128,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":153,
     "iso:country":"GR",
+    "lbl:bbox":"20.60694,39.94917,20.64694,39.98917",
     "lbl:latitude":39.96917,
     "lbl:longitude":20.62694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0393\u03b5\u03c1\u03bf\u03c0\u03bb\u03ac\u03c4\u03b1\u03bd\u03bf\u03c2"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Geroplatanos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yeropl\u00e1tanos"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":965407,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125876369,
-    "wof:lastmodified":1509397743,
+    "wof:lastmodified":1566641865,
     "wof:name":"Yeroplatanos",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

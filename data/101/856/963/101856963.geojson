@@ -10,12 +10,16 @@
     "geom:latitude":41.093823,
     "geom:longitude":23.644483,
     "iso:country":"GR",
+    "lbl:bbox":"23.624483,41.073823,23.664483,41.113823",
     "lbl:latitude":41.093823,
     "lbl:longitude":23.644483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.093823,
     "mps:longitude":23.644483,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
     "qs:a1_alt":"KENTRIKH MAKEDONIA",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":958220,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"GR",
     "wof:geomhash":"6e1808fdcc6d2c9aa92104f16b45ec7c",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101856963,
-    "wof:lastmodified":1544743651,
+    "wof:lastmodified":1566641465,
     "wof:name":"\u039d\u0395\u039f\u039d \u03a0\u0395\u03a4\u03a1\u0399\u03a4\u03a3\u0399\u039f\u039d",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

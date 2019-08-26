@@ -11,12 +11,16 @@
     "geom:longitude":24.4746,
     "gn:population":32468,
     "iso:country":"GR",
+    "lbl:bbox":"24.4546,35.348065,24.4946,35.388065",
     "lbl:latitude":35.368065,
     "lbl:longitude":24.4746,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.368065,
     "mps:longitude":24.4746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u062b\u064a\u0645\u0646\u0648"
     ],
@@ -214,9 +218,6 @@
     "name:und_x_variant":[
         "\u03a1\u0395\u0398\u03a5\u039c\u039d\u039f"
     ],
-    "name:unk_x_variant":[
-        "Retimo"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u062a\u06be\u06cc\u0645\u0646\u0648"
     ],
@@ -248,7 +249,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.366667,
     "wd:longitude":24.466667,
@@ -263,7 +264,6 @@
         "fct:id":"114e5b52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":254352,
         "gp:id":961110,
-        "qs:id":805222,
         "qs_pg:id":805222,
         "wd:id":"Q200908",
         "wk:page":"Rethymno"
@@ -282,7 +282,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278004,
+    "wof:lastmodified":1566641483,
     "wof:name":"\u03a1\u0395\u0398\u03a5\u039c\u039d\u039f\u039d",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

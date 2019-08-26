@@ -12,12 +12,16 @@
     "gn:elevation":1,
     "gn:population":3030,
     "iso:country":"GR",
+    "lbl:bbox":"22.363324,38.356621,22.403324,38.396621",
     "lbl:latitude":38.376621,
     "lbl:longitude":22.383324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.376621,
     "mps:longitude":22.383324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0644\u0627\u0643\u0633\u064a\u062f\u064a"
     ],
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.625278,
     "wd:longitude":22.636389,
@@ -111,10 +115,12 @@
     "wof:concordances":{
         "gn:id":262133,
         "gp:id":949851,
-        "qs:id":280959,
-        "qs_pg:id":1100324,
+        "qs_pg:id":280959,
         "wd:id":"Q677906",
         "wk:page":"Galaxidi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1100324
     },
     "wof:country":"GR",
     "wof:geomhash":"a2ee14a1f3ced7a7b17af4f25e5af891",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":101849159,
-    "wof:lastmodified":1563278032,
+    "wof:lastmodified":1566641495,
     "wof:name":"\u0393\u0391\u039b\u0391\u039e\u0399\u0394\u0399\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

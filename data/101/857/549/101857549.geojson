@@ -11,12 +11,16 @@
     "geom:longitude":22.450609,
     "gn:population":4010,
     "iso:country":"GR",
+    "lbl:bbox":"22.430609,40.927254,22.470609,40.967254",
     "lbl:latitude":40.947254,
     "lbl:longitude":22.450609,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.947254,
     "mps:longitude":22.450609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0645\u064a\u0646\u064a\u0633\u0627"
     ],
@@ -68,7 +72,7 @@
     "name:swe_x_preferred":[
         "Goum\u00e9nissa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goum\u00e9nitsa"
     ],
     "name:vep_x_preferred":[
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.943889,
     "wd:longitude":22.444167,
@@ -108,7 +112,6 @@
     "wof:concordances":{
         "gn:id":736166,
         "gp:id":91803076,
-        "qs:id":275663,
         "qs_pg:id":275663,
         "wd:id":"Q2354194",
         "wk:page":"Goumenissa"
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101857549,
-    "wof:lastmodified":1563277944,
+    "wof:lastmodified":1566641458,
     "wof:name":"\u0393\u039f\u03a5\u039c\u0395\u039d\u0399\u03a3\u03a3\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

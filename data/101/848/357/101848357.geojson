@@ -11,12 +11,16 @@
     "geom:longitude":23.390423,
     "gn:population":892,
     "iso:country":"GR",
+    "lbl:bbox":"23.370423,37.561227,23.410423,37.601227",
     "lbl:latitude":37.581227,
     "lbl:longitude":23.390423,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":37.581227,
     "mps:longitude":23.390423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062b\u0627\u0646\u0627"
     ],
@@ -111,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":752,
     "wof:belongsto":[
@@ -124,10 +128,12 @@
         "fct:id":"115112b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":257126,
         "gp:id":957048,
-        "qs:id":1277663,
         "qs_pg:id":1101382,
         "wd:id":"Q1925381",
         "wk:page":"Methana"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1277663
     },
     "wof:country":"GR",
     "wof:geomhash":"e019734061c0f3da3c642d45d9759f74",
@@ -143,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278003,
+    "wof:lastmodified":1566641483,
     "wof:name":"\u039c\u0395\u0398\u0391\u039d\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

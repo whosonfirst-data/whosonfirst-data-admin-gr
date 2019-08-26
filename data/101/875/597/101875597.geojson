@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":37.956317,
     "lbl:longitude":23.851723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":37.956317,
     "mps:longitude":23.851723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u0646\u064a\u0627"
     ],
@@ -94,9 +97,7 @@
         "\u041f\u0435\u0430\u043d\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "\u03a0\u0391\u0399\u0391\u039d\u0399\u0391"
-    ],
-    "name:unk_x_variant":[
+        "\u03a0\u0391\u0399\u0391\u039d\u0399\u0391",
         "Li\u00f3pesi"
     ],
     "name:urd_x_preferred":[
@@ -122,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":166,
     "wof:belongsto":[
@@ -135,7 +136,6 @@
         "fct:id":"11500b82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":256197,
         "gp:id":958662,
-        "qs:id":481412,
         "qs_pg:id":481412,
         "wd:id":"Q1236193",
         "wk:page":"Paiania"
@@ -154,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277876,
+    "wof:lastmodified":1566641427,
     "wof:name":"\u03a0\u0391\u0399\u0391\u039d\u0399\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

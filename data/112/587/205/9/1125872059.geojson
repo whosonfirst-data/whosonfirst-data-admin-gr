@@ -9,15 +9,18 @@
     "geom:bbox":"24.78129,35.01555,24.78129,35.01555",
     "geom:latitude":35.01555,
     "geom:longitude":24.78129,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":666,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"24.76129,34.99555,24.80129,35.03555",
     "lbl:latitude":35.01555,
     "lbl:longitude":24.78129,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03b9\u03c4\u03c3\u03af\u03b4\u03b9\u03b1"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Pitsidia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pits\u00eddia"
     ],
     "qs_pg:aaroncc":"GR",
@@ -49,7 +52,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":960108,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1125872059,
-    "wof:lastmodified":1509397397,
+    "wof:lastmodified":1566641860,
     "wof:name":"Pitsidhia",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

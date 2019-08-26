@@ -9,15 +9,18 @@
     "geom:bbox":"22.74342,37.35235,22.74342,37.35235",
     "geom:latitude":37.35235,
     "geom:longitude":22.74342,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":710,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":710,
     "iso:country":"GR",
+    "lbl:bbox":"22.72342,37.33235,22.76342,37.37235",
     "lbl:latitude":37.35235,
     "lbl:longitude":22.74342,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "Korakovo\u00fani"
@@ -29,9 +32,6 @@
         "Karakovo\u00fani",
         "\u039a\u03bf\u03c1\u03b1\u03ba\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9",
         "\u039a\u03bf\u03c1\u03b1\u03ba\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9\u03bf\u03bd"
-    ],
-    "name:unk_x_variant":[
-        "Karakovo\u00fani"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -45,7 +45,7 @@
     "qs_pg:qs_id":546687,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1126042473,
-    "wof:lastmodified":1509408631,
+    "wof:lastmodified":1566641743,
     "wof:name":"Karakovo\u00fanion",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":21.535153,
     "gn:population":1018,
     "iso:country":"GR",
+    "lbl:bbox":"21.515153,38.508198,21.555153,38.548198",
     "lbl:latitude":38.528198,
     "lbl:longitude":21.535153,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.528198,
     "mps:longitude":21.535153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0641\u0627\u0644\u0648"
     ],
@@ -44,7 +48,7 @@
     "name:swe_x_preferred":[
         "Gavalo\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gavalu"
     ],
     "qs:a0":"Greece",
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":301,
     "wof:belongsto":[
@@ -78,7 +82,6 @@
     "wof:concordances":{
         "gn:id":262091,
         "gp:id":949934,
-        "qs:id":123864,
         "qs_pg:id":123864,
         "wd:id":"Q4120007",
         "wk:page":"Gavalou"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101849547,
-    "wof:lastmodified":1563278118,
+    "wof:lastmodified":1566641530,
     "wof:name":"\u0393\u0391\u0392\u0391\u039b\u039f\u03a5",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

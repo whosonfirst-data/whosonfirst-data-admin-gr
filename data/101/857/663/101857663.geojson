@@ -11,12 +11,16 @@
     "geom:longitude":22.52774,
     "gn:population":2476,
     "iso:country":"GR",
+    "lbl:bbox":"22.50774,40.741467,22.54774,40.781467",
     "lbl:latitude":40.761467,
     "lbl:longitude":22.52774,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.761467,
     "mps:longitude":22.52774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627"
     ],
@@ -164,9 +168,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043b\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "P\u00e9lla"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0644\u0627"
     ],
@@ -198,7 +199,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -209,7 +210,7 @@
     "wof:concordances":{
         "gn:id":734726,
         "gp:id":959475,
-        "qs:id":129040,
+        "qs_pg:id":129040,
         "wd:id":"Q213679",
         "wk:page":"Pella"
     },
@@ -224,7 +225,7 @@
         }
     ],
     "wof:id":101857663,
-    "wof:lastmodified":1563277939,
+    "wof:lastmodified":1566641456,
     "wof:name":"\u03a0\u0395\u039b\u039b\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

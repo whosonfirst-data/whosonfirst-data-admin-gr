@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":41.121678,
     "lbl:longitude":24.747063,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.121678,
     "mps:longitude":24.747063,
     "mz:hierarchy_label":1,
@@ -121,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171
@@ -149,7 +150,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1565713092,
+    "wof:lastmodified":1566640787,
     "wof:name":"East Macedonia and Thrace",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

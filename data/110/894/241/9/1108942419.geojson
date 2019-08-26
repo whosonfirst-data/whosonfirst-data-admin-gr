@@ -10,8 +10,10 @@
     "geom:latitude":37.990523,
     "geom:longitude":23.733537,
     "iso:country":"GR",
+    "lbl:bbox":"23.7285374078,37.9855233062,23.7385374078,37.9955233062",
     "lbl:latitude":37.990523,
     "lbl:longitude":23.733537,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:eng_x_variant":[
         "Museum"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108942419,
-    "wof:lastmodified":1538606685,
+    "wof:lastmodified":1566641252,
     "wof:name":"Mouseio",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

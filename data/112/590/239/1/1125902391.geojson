@@ -9,15 +9,18 @@
     "geom:bbox":"21.39167,39.07806,21.39167,39.07806",
     "geom:latitude":39.07806,
     "geom:longitude":21.39167,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":60,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":60,
     "iso:country":"GR",
+    "lbl:bbox":"21.37167,39.05806,21.41167,39.09806",
     "lbl:latitude":39.07806,
     "lbl:longitude":21.39167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Pigadia"
@@ -34,7 +37,7 @@
     "name:lat_x_preferred":[
         "Pigadia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pig\u00e1dhia"
     ],
     "qs_pg:aaroncc":"GR",
@@ -54,7 +57,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":55869602,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125902391,
-    "wof:lastmodified":1564224853,
+    "wof:lastmodified":1566641899,
     "wof:name":"Pigadia",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

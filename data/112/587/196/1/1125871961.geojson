@@ -9,15 +9,18 @@
     "geom:bbox":"25.95,35.03333,25.95,35.03333",
     "geom:latitude":35.03333,
     "geom:longitude":25.95,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":869,
-    "gn:population":775,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":869,
     "iso:country":"GR",
+    "lbl:bbox":"25.93,35.01333,25.97,35.05333",
     "lbl:latitude":35.03333,
     "lbl:longitude":25.95,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0633\u0648\u0631\u0627\u0633"
@@ -46,9 +49,6 @@
     "name:swe_x_preferred":[
         "Koutsour\u00e1s"
     ],
-    "name:unk_x_variant":[
-        "Koutsour\u00e1s"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":954524,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125871961,
-    "wof:lastmodified":1563278677,
+    "wof:lastmodified":1566641861,
     "wof:name":"Koutsouras",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

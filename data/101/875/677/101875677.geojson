@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":40.907295,
     "lbl:longitude":24.673624,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":40.907295,
     "mps:longitude":24.673624,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u03a0\u03b7\u03b3\u03b1\u03af"
     ],
@@ -27,7 +30,7 @@
     "name:eng_x_preferred":[
         "Piges"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kutunjal\u00ed"
     ],
     "qs:a0":"Greece",
@@ -45,7 +48,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":734602,
         "gp:id":960121,
-        "qs:id":552809
+        "qs_pg:id":552809
     },
     "wof:country":"GR",
     "wof:geomhash":"2123268d2dd5acc35005b2b81f0ed9a5",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101875677,
-    "wof:lastmodified":1505338445,
+    "wof:lastmodified":1566641431,
     "wof:name":"\u03a0\u0397\u0393\u0391\u0399",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

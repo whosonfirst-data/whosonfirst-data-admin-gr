@@ -11,12 +11,16 @@
     "geom:longitude":20.559628,
     "gn:population":838,
     "iso:country":"GR",
+    "lbl:bbox":"20.539628,39.995873,20.579628,40.035873",
     "lbl:latitude":40.015873,
     "lbl:longitude":20.559628,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":40.015873,
     "mps:longitude":20.559628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0641\u0627\u0644\u0648\u0641\u0631\u064a\u0633\u0648\u0646"
     ],
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Kefal\u00f3vryso"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Metziti\u00e9"
     ],
     "qs:a0":"Greece",
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.013889,
     "wd:longitude":20.563889,
@@ -101,10 +105,12 @@
     "wof:concordances":{
         "gn:id":445139,
         "gp:id":55869364,
-        "qs:id":1285540,
         "qs_pg:id":71897,
         "wd:id":"Q380624",
         "wk:page":"Kefalovryso, Ioannina"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1285540
     },
     "wof:country":"GR",
     "wof:geomhash":"4bf126c6e6ca43918402fd55de805611",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":101855201,
-    "wof:lastmodified":1563278162,
+    "wof:lastmodified":1566641548,
     "wof:name":"\u039a\u0395\u03a6\u0391\u039b\u039f\u0392\u03a1\u03a5\u03a3\u039f\u039d",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

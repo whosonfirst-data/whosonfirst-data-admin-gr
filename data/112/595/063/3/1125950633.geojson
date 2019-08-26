@@ -9,14 +9,18 @@
     "geom:bbox":"23.91168,35.45408,23.91168,35.45408",
     "geom:latitude":35.45408,
     "geom:longitude":23.91168,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"23.89168,35.43408,23.93168,35.47408",
     "lbl:latitude":35.45408,
     "lbl:longitude":23.91168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b9\u03ba\u03b9\u03b1\u03bd\u03cc\u03c2"
@@ -39,7 +43,7 @@
     "name:nob_x_preferred":[
         "Alikianos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alikiano\u00fa"
     ],
     "qs_pg:aaroncc":"GR",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":945327,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1125950633,
-    "wof:lastmodified":1561844015,
+    "wof:lastmodified":1566641659,
     "wof:name":"Alikianos",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

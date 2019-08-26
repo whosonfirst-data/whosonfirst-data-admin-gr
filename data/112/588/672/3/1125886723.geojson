@@ -9,14 +9,18 @@
     "geom:bbox":"25.372581,36.360174,25.372581,36.360174",
     "geom:latitude":36.360174,
     "geom:longitude":25.372581,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":null,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"25.352581,36.340174,25.392581,36.380174",
     "lbl:latitude":36.360174,
     "lbl:longitude":25.372581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0643\u0631\u0648\u062a\u064a\u0631\u064a"
@@ -93,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0440\u043e\u0442\u0438\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akrot\u00edrion"
     ],
     "qs_pg:aaroncc":"GR",
@@ -117,7 +121,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":945222,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Aegean",
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1125886723,
-    "wof:lastmodified":1563278594,
+    "wof:lastmodified":1566641815,
     "wof:name":"Akrotiri",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

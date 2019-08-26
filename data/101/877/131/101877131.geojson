@@ -13,17 +13,20 @@
     "iso:country":"GR",
     "lbl:latitude":39.615993,
     "lbl:longitude":19.887189,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.615993,
     "mps:longitude":19.887189,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b5\u03c0\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Alepou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alepo\u00fa"
     ],
     "qs:a0":"Greece",
@@ -41,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":2463800,
         "gp:id":945277,
-        "qs:id":1243680
+        "qs_pg:id":1243680
     },
     "wof:country":"GR",
     "wof:geomhash":"15c4fd9dd801031075cd63acbf5d65c2",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101877131,
-    "wof:lastmodified":1505338451,
+    "wof:lastmodified":1566641472,
     "wof:name":"\u0391\u039b\u0395\u03a0\u039f\u03a5",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

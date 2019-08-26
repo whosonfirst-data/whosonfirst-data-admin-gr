@@ -9,15 +9,18 @@
     "geom:bbox":"19.84583,39.56472,19.84583,39.56472",
     "geom:latitude":39.56472,
     "geom:longitude":19.84583,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1150,
-    "gn:population":854,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1150,
     "iso:country":"GR",
+    "lbl:bbox":"19.82583,39.54472,19.86583,39.58472",
     "lbl:latitude":39.56472,
     "lbl:longitude":19.84583,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0627\u0631\u0627\u062f\u064a\u0633\u060c \u0643\u064a\u0631\u0643\u064a\u0631\u0627"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Sinar\u00e1des"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sinar\u00e1dhes"
     ],
     "qs_pg:aaroncc":"GR",
@@ -73,7 +76,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":961944,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125771425,
-    "wof:lastmodified":1563279144,
+    "wof:lastmodified":1566642125,
     "wof:name":"Sinaradhes",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

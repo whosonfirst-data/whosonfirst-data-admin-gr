@@ -9,14 +9,18 @@
     "geom:bbox":"24.92345,34.93036,24.92345,34.93036",
     "geom:latitude":34.93036,
     "geom:longitude":24.92345,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"24.90345,34.91036,24.94345,34.95036",
     "lbl:latitude":34.93036,
     "lbl:longitude":24.92345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lendas"
@@ -45,7 +49,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0434\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Metokhi L\u00e9ndas"
     ],
     "qs_pg:aaroncc":"GR",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957081,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1126013065,
-    "wof:lastmodified":1563278853,
+    "wof:lastmodified":1566641960,
     "wof:name":"Metokhi Lendas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

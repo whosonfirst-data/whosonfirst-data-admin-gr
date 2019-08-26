@@ -11,12 +11,16 @@
     "geom:longitude":21.494232,
     "gn:population":1953,
     "iso:country":"GR",
+    "lbl:bbox":"21.474232,37.60695,21.514232,37.64695",
     "lbl:latitude":37.62695,
     "lbl:longitude":21.494232,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.62695,
     "mps:longitude":21.494232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u0628\u064a\u062a\u0627\u0644\u064a\u0648\u0646"
     ],
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Epit\u00e1lion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agulinitza"
     ],
     "qs:a0":"Greece",
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":262636,
         "gp:id":949249,
-        "qs:id":1284009,
+        "qs_pg:id":1284009,
         "wd:id":"Q5259102"
     },
     "wof:country":"GR",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101848235,
-    "wof:lastmodified":1563277990,
+    "wof:lastmodified":1566641479,
     "wof:name":"\u0395\u03a0\u0399\u03a4\u0391\u039b\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

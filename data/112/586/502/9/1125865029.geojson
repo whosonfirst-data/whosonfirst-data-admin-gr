@@ -9,15 +9,18 @@
     "geom:bbox":"22.15167,40.125,22.15167,40.125",
     "geom:latitude":40.125,
     "geom:longitude":22.15167,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2655,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2655,
     "iso:country":"GR",
+    "lbl:bbox":"22.13167,40.105,22.17167,40.145",
     "lbl:latitude":40.125,
     "lbl:longitude":22.15167,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0627\u062f\u064a"
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Liv\u00e1di"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liv\u00e1dhion"
     ],
     "qs_pg:aaroncc":"GR",
@@ -80,7 +83,7 @@
     "qs_pg:qs_id":129067,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125865029,
-    "wof:lastmodified":1563278527,
+    "wof:lastmodified":1566641782,
     "wof:name":"Liv\u00e1dion",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

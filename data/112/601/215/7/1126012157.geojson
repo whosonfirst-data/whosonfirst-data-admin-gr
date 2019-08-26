@@ -9,15 +9,18 @@
     "geom:bbox":"21.25,40.5,21.25,40.5",
     "geom:latitude":40.5,
     "geom:longitude":21.25,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2771,
-    "gn:population":3055,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":2771,
     "iso:country":"GR",
+    "lbl:bbox":"21.23,40.48,21.27,40.52",
     "lbl:latitude":40.5,
     "lbl:longitude":21.25,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u0627\u0643\u0648\u064a"
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "Mani\u00e1koi"
     ],
-    "name:unk_x_variant":[
-        "Mani\u00e1ki"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +71,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":956152,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1126012157,
-    "wof:lastmodified":1563278868,
+    "wof:lastmodified":1566641969,
     "wof:name":"Maniakoi",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"23.21667,40.26667,23.21667,40.26667",
     "geom:latitude":40.26667,
     "geom:longitude":23.21667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1589,
-    "gn:population":1604,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1589,
     "iso:country":"GR",
+    "lbl:bbox":"23.19667,40.24667,23.23667,40.28667",
     "lbl:latitude":40.26667,
     "lbl:longitude":23.21667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u063a\u064a\u062a\u0627"
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "N\u00e9a Flogit\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Floyit\u00e1"
     ],
     "qs_pg:aaroncc":"GR",
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":949624,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125884969,
-    "wof:lastmodified":1563278600,
+    "wof:lastmodified":1566641817,
     "wof:name":"Floyita",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

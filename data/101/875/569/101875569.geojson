@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":38.182484,
     "lbl:longitude":21.690256,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.182484,
     "mps:longitude":21.690256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u064a\u064a\u062a\u064a\u0643\u0627"
     ],
@@ -45,7 +48,7 @@
     "name:swe_x_preferred":[
         "Roy\u00edtika"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ro\u1e2ftika"
     ],
     "qs:a0":"Greece",
@@ -63,7 +66,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":254165,
         "gp:id":961393,
-        "qs:id":388030,
+        "qs_pg:id":388030,
         "wd:id":"Q7359892",
         "wk:page":"Roitika"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101875569,
-    "wof:lastmodified":1563277851,
+    "wof:lastmodified":1566641416,
     "wof:name":"\u03a1\u039f\u0393\u0399\u03a4\u0399\u039a\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

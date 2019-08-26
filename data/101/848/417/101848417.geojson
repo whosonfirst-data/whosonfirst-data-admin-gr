@@ -11,12 +11,16 @@
     "geom:longitude":23.173308,
     "gn:population":1047,
     "iso:country":"GR",
+    "lbl:bbox":"23.153308,37.443707,23.193308,37.483707",
     "lbl:latitude":37.463707,
     "lbl:longitude":23.173308,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.463707,
     "mps:longitude":23.173308,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "D\u00eddyma"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:eng_x_preferred":[
         "Didyma"
-    ],
-    "name:unk_x_variant":[
-        "Dh\u00eddhimoi"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
@@ -49,7 +50,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":263115,
         "gp:id":948840,
-        "qs:id":271289
+        "qs_pg:id":271289
     },
     "wof:country":"GR",
     "wof:geomhash":"c82bffdb0464d3483b68bf5218d967b9",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":101848417,
-    "wof:lastmodified":1544740438,
+    "wof:lastmodified":1566641486,
     "wof:name":"\u0394\u0399\u0394\u03a5\u039c\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

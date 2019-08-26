@@ -9,14 +9,18 @@
     "geom:bbox":"23.67674,37.94855,23.67674,37.94855",
     "geom:latitude":37.94855,
     "geom:longitude":23.67674,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"23.65674,37.92855,23.69674,37.96855",
     "lbl:latitude":37.94855,
     "lbl:longitude":23.67674,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "N\u00e9o F\u00e1liro"
@@ -27,7 +31,7 @@
     "name:eng_x_preferred":[
         "Neo Faliro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neu Phaleron"
     ],
     "qs_pg:aaroncc":"GR",
@@ -51,7 +55,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":965871,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Attica",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1125947447,
-    "wof:lastmodified":1509402478,
+    "wof:lastmodified":1566641616,
     "wof:name":"Neo Faliro",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

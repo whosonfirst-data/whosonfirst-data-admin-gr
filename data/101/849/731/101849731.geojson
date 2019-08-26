@@ -11,12 +11,16 @@
     "geom:longitude":23.672228,
     "gn:population":6571,
     "iso:country":"GR",
+    "lbl:bbox":"23.652228,38.409463,23.692228,38.449463",
     "lbl:latitude":38.429463,
     "lbl:longitude":23.672228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.429463,
     "mps:longitude":23.672228,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03cc\u03bd"
     ],
@@ -24,9 +28,6 @@
         "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03cc"
     ],
     "name:eng_x_preferred":[
-        "Vasiliko"
-    ],
-    "name:unk_x_variant":[
         "Vasiliko"
     ],
     "qs:a0":"Greece",
@@ -47,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":252190,
         "gp:id":964270,
-        "qs:id":423982
+        "qs_pg:id":423982
     },
     "wof:country":"GR",
     "wof:geomhash":"2618ecf50c95f7ed9bb3f9fd7218ded6",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":101849731,
-    "wof:lastmodified":1544741091,
+    "wof:lastmodified":1566641498,
     "wof:name":"\u0392\u0391\u03a3\u0399\u039b\u0399\u039a\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

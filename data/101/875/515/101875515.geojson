@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":37.788166,
     "lbl:longitude":20.900676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":37.788166,
     "mps:longitude":20.900676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0643\u064a\u0646\u062b\u0648\u0633"
     ],
@@ -117,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043a\u0456\u043d\u0444"
     ],
-    "name:unk_x_variant":[
-        "Zante"
-    ],
     "name:war_x_preferred":[
         "Zakynthos"
     ],
@@ -143,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":284,
     "wof:belongsto":[
@@ -153,7 +153,6 @@
     "wof:concordances":{
         "gn:id":251280,
         "gp:id":965569,
-        "qs:id":274782,
         "qs_pg:id":274782,
         "wd:id":"Q144869",
         "wk:page":"Zakynthos (city)"
@@ -169,7 +168,7 @@
         }
     ],
     "wof:id":101875515,
-    "wof:lastmodified":1563277898,
+    "wof:lastmodified":1566641437,
     "wof:name":"\u0396\u0391\u039a\u03a5\u039d\u0398\u039f\u03a3",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

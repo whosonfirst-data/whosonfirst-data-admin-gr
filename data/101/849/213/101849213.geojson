@@ -11,12 +11,16 @@
     "geom:longitude":20.864601,
     "gn:population":971,
     "iso:country":"GR",
+    "lbl:bbox":"20.844601,39.124794,20.884601,39.164794",
     "lbl:latitude":39.144794,
     "lbl:longitude":20.864601,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":39.144794,
     "mps:longitude":20.864601,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c0\u03c5\u03c1\u03af\u03b4\u03c9\u03bd"
     ],
@@ -26,7 +30,7 @@
     "name:eng_x_preferred":[
         "Agios Spyridon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Im\u00e1m Cha\u00fcs"
     ],
     "qs:a0":"Greece",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":263730,
         "gp:id":947383,
-        "qs:id":79825
+        "qs_pg:id":79825
     },
     "wof:country":"GR",
     "wof:geomhash":"c3c5fe44de71344b6e1ece481b521ecc",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101849213,
-    "wof:lastmodified":1544740837,
+    "wof:lastmodified":1566641524,
     "wof:name":"\u0391\u0393\u0399\u039f\u03a3 \u03a3\u03a0\u03a5\u03a1\u0399\u0394\u03a9\u039d",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

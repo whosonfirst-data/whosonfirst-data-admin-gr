@@ -9,15 +9,18 @@
     "geom:bbox":"20.28028,39.64778,20.28028,39.64778",
     "geom:latitude":39.64778,
     "geom:longitude":20.28028,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":192,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":192,
     "iso:country":"GR",
+    "lbl:bbox":"20.26028,39.62778,20.30028,39.66778",
     "lbl:latitude":39.64778,
     "lbl:longitude":20.28028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Pla\u00edsio"
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Pla\u00edsio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Par\u00e1vrison"
     ],
     "qs_pg:aaroncc":"GR",
@@ -61,7 +64,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":960140,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125935225,
-    "wof:lastmodified":1563278282,
+    "wof:lastmodified":1566641632,
     "wof:name":"Plaision",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

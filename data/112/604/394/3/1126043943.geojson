@@ -9,15 +9,18 @@
     "geom:bbox":"26.91889,37.68667,26.91889,37.68667",
     "geom:latitude":37.68667,
     "geom:longitude":26.91889,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18,
-    "gn:population":122,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":18,
     "iso:country":"GR",
+    "lbl:bbox":"26.89889,37.66667,26.93889,37.70667",
     "lbl:latitude":37.68667,
     "lbl:longitude":26.91889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c4\u03bf\u03ba\u03ac\u03ba\u03b9"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Potokaki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chori\u00f3 Potok\u00e1ki"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":548321,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126043943,
-    "wof:lastmodified":1538594925,
+    "wof:lastmodified":1566641737,
     "wof:name":"Potok\u00e1ki",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"24.01667,37.73333,24.01667,37.73333",
     "geom:latitude":37.73333,
     "geom:longitude":24.01667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":659,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"23.99667,37.71333,24.03667,37.75333",
     "lbl:latitude":37.73333,
     "lbl:longitude":24.01667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u064a\u064a\u0648\u0633 \u0643\u0648\u0646\u0633\u062a\u0627\u0646\u062a\u064a\u0646\u0648\u0633\u060c \u0623\u062a\u064a\u0643\u064a"
@@ -69,7 +72,7 @@
     "name:tur_x_preferred":[
         "Ayos Konstantinos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kam\u00e1riza"
     ],
     "qs_pg:aaroncc":"GR",
@@ -91,7 +94,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":55869438,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125796191,
-    "wof:lastmodified":1563279088,
+    "wof:lastmodified":1566642091,
     "wof:name":"Agios Konstantinos",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

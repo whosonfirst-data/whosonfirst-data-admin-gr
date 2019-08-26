@@ -11,12 +11,16 @@
     "geom:longitude":22.320085,
     "gn:population":1242,
     "iso:country":"GR",
+    "lbl:bbox":"22.300085,40.467808,22.340085,40.507808",
     "lbl:latitude":40.487808,
     "lbl:longitude":22.320085,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.487808,
     "mps:longitude":22.320085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u063a\u064a\u0646\u0627"
     ],
@@ -152,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0433\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00fatles"
     ],
     "name:urd_x_preferred":[
@@ -180,7 +184,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2671,
     "wof:belongsto":[
@@ -192,7 +196,6 @@
     "wof:concordances":{
         "gn:id":733901,
         "gp:id":964489,
-        "qs:id":276118,
         "qs_pg:id":276118,
         "wd:id":"Q213916",
         "wk:page":"Vergina"
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":101855955,
-    "wof:lastmodified":1563278134,
+    "wof:lastmodified":1566641536,
     "wof:name":"\u0392\u0395\u03a1\u0393\u0399\u039d\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

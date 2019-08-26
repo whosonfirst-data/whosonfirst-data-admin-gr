@@ -9,15 +9,18 @@
     "geom:bbox":"21.25778,39.56833,21.25778,39.56833",
     "geom:latitude":39.56833,
     "geom:longitude":21.25778,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":228,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":228,
     "iso:country":"GR",
+    "lbl:bbox":"21.23778,39.54833,21.27778,39.58833",
     "lbl:latitude":39.56833,
     "lbl:longitude":21.25778,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u044f \u041f\u0430\u0440\u0430\u0441\u043a\u0435\u0432\u0438"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Ag\u00eda Paraskev\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tzo\u00fartza"
     ],
     "qs_pg:aaroncc":"GR",
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":546895,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1126042941,
-    "wof:lastmodified":1563278430,
+    "wof:lastmodified":1566641719,
     "wof:name":"Ag\u00eda Paraskev\u00ed",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

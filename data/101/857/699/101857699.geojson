@@ -11,12 +11,16 @@
     "geom:longitude":23.611076,
     "gn:population":1934,
     "iso:country":"GR",
+    "lbl:bbox":"23.591076,41.003957,23.631076,41.043957",
     "lbl:latitude":41.023957,
     "lbl:longitude":23.611076,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.023957,
     "mps:longitude":23.611076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648\u0633 \u0633\u0643\u0648\u0628\u0648\u0633"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "N\u00e9os Skop\u00f3s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Toumb\u00edsta"
     ],
     "qs:a0":"Greece",
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":734935,
         "gp:id":958242,
-        "qs:id":1116634,
+        "qs_pg:id":1116634,
         "wd:id":"Q3395553"
     },
     "wof:country":"GR",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101857699,
-    "wof:lastmodified":1563277937,
+    "wof:lastmodified":1566641456,
     "wof:name":"\u039d\u0395\u039f\u03a3 \u03a3\u039a\u039f\u03a0\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

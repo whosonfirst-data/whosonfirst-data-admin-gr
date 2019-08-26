@@ -11,12 +11,16 @@
     "geom:longitude":26.047741,
     "gn:population":985,
     "iso:country":"GR",
+    "lbl:bbox":"26.027741,40.862542,26.067741,40.902542",
     "lbl:latitude":40.882542,
     "lbl:longitude":26.047741,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":40.882542,
     "mps:longitude":26.047741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u062a\u0631\u0648\u0633\u060c \u0625\u0641\u0631\u0648\u0633"
     ],
@@ -53,7 +57,7 @@
     "name:tur_x_preferred":[
         "Ulucabeyk\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ilitr\u00e1"
     ],
     "qs:a0":"Greece",
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":735364,
         "gp:id":955806,
-        "qs:id":1141156,
+        "qs_pg:id":1141156,
         "wd:id":"Q6689878"
     },
     "wof:country":"GR",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":101857781,
-    "wof:lastmodified":1563277945,
+    "wof:lastmodified":1566641459,
     "wof:name":"\u039b\u039f\u03a5\u03a4\u03a1\u039f\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

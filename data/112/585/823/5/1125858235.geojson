@@ -9,15 +9,18 @@
     "geom:bbox":"22.93333,37.9,22.93333,37.9",
     "geom:latitude":37.9,
     "geom:longitude":22.93333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1631,
-    "gn:population":1810,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1631,
     "iso:country":"GR",
+    "lbl:bbox":"22.91333,37.88,22.95333,37.92",
     "lbl:latitude":37.9,
     "lbl:longitude":22.93333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0643\u0633\u0627\u0645\u064a\u0644\u064a\u0627"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Exam\u00edlia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Exam\u00edlion"
     ],
     "name:vie_x_preferred":[
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":949358,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125858235,
-    "wof:lastmodified":1563279031,
+    "wof:lastmodified":1566642061,
     "wof:name":"Examillia",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

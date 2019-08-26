@@ -9,15 +9,18 @@
     "geom:bbox":"22.75,37.7,22.75,37.7",
     "geom:latitude":37.7,
     "geom:longitude":22.75,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":276,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"22.73,37.68,22.77,37.72",
     "lbl:latitude":37.7,
     "lbl:longitude":22.75,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Monastir\u00e1kion"
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Monastir\u00e1kion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00edftani"
     ],
     "qs_pg:aaroncc":"GR",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957579,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125895119,
-    "wof:lastmodified":1563278639,
+    "wof:lastmodified":1566641839,
     "wof:name":"Monastiraki",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

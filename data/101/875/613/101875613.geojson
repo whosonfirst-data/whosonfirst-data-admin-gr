@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":37.080281,
     "lbl:longitude":22.409403,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.080281,
     "mps:longitude":22.409403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0648\u0644\u0627"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Mago\u00fala"
     ],
-    "name:unk_x_variant":[
-        "Mago\u00fala"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
     "qs:a1_alt":"PELOPONNHSOS",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.066667,
     "wd:longitude":22.4,
@@ -78,7 +78,6 @@
     "wof:concordances":{
         "gn:id":258011,
         "gp:id":955861,
-        "qs:id":1284575,
         "qs_pg:id":1284575,
         "wd:id":"Q2749866",
         "wk:page":"Magoula"
@@ -94,7 +93,7 @@
         }
     ],
     "wof:id":101875613,
-    "wof:lastmodified":1563277881,
+    "wof:lastmodified":1566641429,
     "wof:name":"\u039c\u0391\u0393\u039f\u03a5\u039b\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

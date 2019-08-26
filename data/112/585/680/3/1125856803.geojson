@@ -9,15 +9,18 @@
     "geom:bbox":"22.8558,40.64121,22.8558,40.64121",
     "geom:latitude":40.64121,
     "geom:longitude":22.8558,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4162,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":4162,
     "iso:country":"GR",
+    "lbl:bbox":"22.8358,40.62121,22.8758,40.66121",
     "lbl:latitude":40.64121,
     "lbl:longitude":22.8558,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u0648\u0643\u0648\u0631\u064a\u0648\u0646\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
@@ -56,7 +59,7 @@
     "name:swe_x_preferred":[
         "Kaloch\u00f3ri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaskar\u00edka"
     ],
     "qs_pg:aaroncc":"GR",
@@ -71,7 +74,7 @@
     "qs_pg:qs_id":129097,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125856803,
-    "wof:lastmodified":1563279002,
+    "wof:lastmodified":1566642044,
     "wof:name":"Kaloch\u00f3rion",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

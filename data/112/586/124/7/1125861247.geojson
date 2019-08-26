@@ -9,15 +9,18 @@
     "geom:bbox":"22.18333,37.66667,22.18333,37.66667",
     "geom:latitude":37.66667,
     "geom:longitude":22.18333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":906,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":906,
     "iso:country":"GR",
+    "lbl:bbox":"22.16333,37.64667,22.20333,37.68667",
     "lbl:latitude":37.66667,
     "lbl:longitude":22.18333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u062a\u064a\u0646\u0627"
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Vyt\u00edna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vit\u00edna"
     ],
     "qs_pg:aaroncc":"GR",
@@ -86,7 +89,7 @@
     "qs_pg:qs_id":123748,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125861247,
-    "wof:lastmodified":1563278566,
+    "wof:lastmodified":1566641801,
     "wof:name":"Vyt\u00edna",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"21.29528,39.59806,21.29528,39.59806",
     "geom:latitude":39.59806,
     "geom:longitude":21.29528,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":215,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":215,
     "iso:country":"GR",
+    "lbl:bbox":"21.27528,39.57806,21.31528,39.61806",
     "lbl:latitude":39.59806,
     "lbl:longitude":21.29528,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Polyth\u00e9a"
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Polyth\u00e9a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dragov\u00edstion"
     ],
     "qs_pg:aaroncc":"GR",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":79753,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125838293,
-    "wof:lastmodified":1563279171,
+    "wof:lastmodified":1566642140,
     "wof:name":"Polyth\u00e9a",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

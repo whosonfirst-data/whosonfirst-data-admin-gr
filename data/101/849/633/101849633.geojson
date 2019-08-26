@@ -11,8 +11,11 @@
     "geom:longitude":26.555618,
     "gn:population":28322,
     "iso:country":"GR",
+    "lbl:bbox":"26.535618,39.087887,26.575618,39.127887",
     "lbl:latitude":39.107887,
     "lbl:longitude":26.555618,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":39.107887,
     "mps:longitude":26.555618,
     "mz:hierarchy_label":1,
@@ -204,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0442\u0456\u043b\u0456\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kastro"
     ],
     "name:urd_x_preferred":[
@@ -329,7 +332,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.103611,
     "wd:longitude":26.533056,
@@ -343,7 +346,7 @@
     "wof:concordances":{
         "gn:id":256866,
         "gp:id":91673338,
-        "qs:id":202105,
+        "qs_pg:id":202105,
         "wd:id":"Q189059",
         "wk:page":"Mytilene"
     },
@@ -358,7 +361,7 @@
         }
     ],
     "wof:id":101849633,
-    "wof:lastmodified":1563278055,
+    "wof:lastmodified":1566641504,
     "wof:name":"\u039c\u03a5\u03a4\u0399\u039b\u0397\u039d\u0397",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

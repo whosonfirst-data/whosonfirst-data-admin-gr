@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"27.80095,35.99099,27.84095,36.03099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03c3\u03b1\u03bd\u03b1\u03b3\u03c1\u03cc\u03c2"
     ],
@@ -34,8 +38,7 @@
         "Mesanagr\u00f3s"
     ],
     "name:und_x_variant":[
-        "Messanagro",
-        "Mesanagr\u00f3s"
+        "Messanagro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293037933,
-    "wof:lastmodified":1564223500,
+    "wof:lastmodified":1566640871,
     "wof:name":"Mesanagros",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

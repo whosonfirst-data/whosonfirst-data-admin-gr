@@ -11,16 +11,20 @@
     "geom:longitude":26.545044,
     "gn:population":1116,
     "iso:country":"GR",
+    "lbl:bbox":"26.525044,39.037064,26.565044,39.077064",
     "lbl:latitude":39.057064,
     "lbl:longitude":26.545044,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.057064,
     "mps:longitude":26.545044,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03c4\u03c1\u03ac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loutr\u00e1"
     ],
     "qs:a0":"Greece",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":258076,
         "gp:id":955756,
-        "qs:id":886627
+        "qs_pg:id":886627
     },
     "wof:country":"GR",
     "wof:geomhash":"ea06262dc8b93d1e0dc372063a6ec9b2",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101849623,
-    "wof:lastmodified":1544741038,
+    "wof:lastmodified":1566641522,
     "wof:name":"\u039b\u039f\u03a5\u03a4\u03a1\u0391",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

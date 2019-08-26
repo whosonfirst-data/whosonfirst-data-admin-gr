@@ -11,12 +11,16 @@
     "geom:longitude":23.836764,
     "gn:population":1908,
     "iso:country":"GR",
+    "lbl:bbox":"23.816764,38.185776,23.856764,38.225776",
     "lbl:latitude":38.205776,
     "lbl:longitude":23.836764,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.205776,
     "mps:longitude":23.836764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0641\u064a\u062f\u0646\u064a\u0633"
     ],
@@ -82,12 +86,8 @@
         "Afidnes"
     ],
     "name:und_x_variant":[
-        "Afidnes",
         "\u0391\u03a6\u0399\u0394\u039d\u0395\u03a3",
         "\u039a\u0399\u039f\u03a5\u03a1\u039a\u0391"
-    ],
-    "name:unk_x_variant":[
-        "Kio\u00farka"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -107,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.2,
     "wd:longitude":23.833333,
@@ -122,7 +122,7 @@
         "fct:id":"114f3702-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":265658,
         "gp:id":953429,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2282673",
         "wk:page":"Afidnes"
     },
@@ -140,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278056,
+    "wof:lastmodified":1566641505,
     "wof:name":"\u0391\u03a6\u0399\u0394\u039d\u0391\u0399",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

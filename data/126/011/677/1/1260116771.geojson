@@ -25,8 +25,12 @@
     "gn:population":9,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"25.66115,35.22072,25.70115,35.26072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u03a0\u03b5\u03bb\u03b1\u03b3\u03af\u03b1"
     ],
@@ -49,7 +53,6 @@
         "Agia Pelagia"
     ],
     "name:und_x_variant":[
-        "Ag\u00eda Pelag\u00eda",
         "Ay\u00eda Pelay\u00eda"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1260116771,
-    "wof:lastmodified":1564224079,
+    "wof:lastmodified":1566641229,
     "wof:name":"Agia Pelagia",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

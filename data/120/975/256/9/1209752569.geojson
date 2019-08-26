@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"20.88639,39.33519,20.92639,39.37519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0393\u03c1\u03b1\u03b2\u03b9\u03ac"
     ],
@@ -49,8 +53,7 @@
         "\u0413\u0440\u0430\u0432\u044c\u044f"
     ],
     "name:und_x_variant":[
-        "Pouli\u00e1na",
-        "Gravi\u00e1"
+        "Pouli\u00e1na"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1209752569,
-    "wof:lastmodified":1564223970,
+    "wof:lastmodified":1566641161,
     "wof:name":"Gravia",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

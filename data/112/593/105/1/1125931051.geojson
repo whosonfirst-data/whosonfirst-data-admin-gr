@@ -9,15 +9,18 @@
     "geom:bbox":"20.855,39.54083,20.855,39.54083",
     "geom:latitude":39.54083,
     "geom:longitude":20.855,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":244,
-    "gn:population":320,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":244,
     "iso:country":"GR",
+    "lbl:bbox":"20.835,39.52083,20.875,39.56083",
     "lbl:latitude":39.54083,
     "lbl:longitude":20.855,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Episkopik\u00f3"
@@ -48,9 +51,6 @@
     "name:swe_x_preferred":[
         "Episkopik\u00f3"
     ],
-    "name:unk_x_variant":[
-        "Episkopik\u00f3"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":949243,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125931051,
-    "wof:lastmodified":1563278265,
+    "wof:lastmodified":1566641620,
     "wof:name":"Episkopikon",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

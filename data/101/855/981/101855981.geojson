@@ -11,12 +11,16 @@
     "geom:longitude":22.562231,
     "gn:population":1704,
     "iso:country":"GR",
+    "lbl:bbox":"22.542231,40.577519,22.582231,40.617519",
     "lbl:latitude":40.597519,
     "lbl:longitude":22.562231,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.597519,
     "mps:longitude":22.562231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u043a\u0430\u043b\u0430"
     ],
@@ -44,7 +48,7 @@
     "name:swe_x_preferred":[
         "Tr\u00edkala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tr\u00edkkala"
     ],
     "qs:a0":"Greece",
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":271,
     "wof:belongsto":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":734018,
         "gp:id":963589,
-        "qs:id":772210,
+        "qs_pg:id":772210,
         "wd:id":"Q7841944",
         "wk:page":"Trikala, Imathia"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101855981,
-    "wof:lastmodified":1563278168,
+    "wof:lastmodified":1566641551,
     "wof:name":"\u03a4\u03a1\u0399\u039a\u0391\u039b\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

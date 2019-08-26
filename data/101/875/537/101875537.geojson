@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":38.073997,
     "lbl:longitude":23.498521,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.073997,
     "mps:longitude":23.498521,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0631\u0627"
     ],
@@ -75,9 +78,6 @@
     "name:und_x_variant":[
         "\u039c\u0391\u039d\u0394\u03a1\u0391"
     ],
-    "name:unk_x_variant":[
-        "M\u00e1ndhra"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0631\u0627"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -117,7 +117,6 @@
         "fct:id":"1150583a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":257811,
         "gp:id":965885,
-        "qs:id":236954,
         "qs_pg:id":236954,
         "wd:id":"Q2715331",
         "wk:page":"Mandra"
@@ -136,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277874,
+    "wof:lastmodified":1566641426,
     "wof:name":"\u039c\u0391\u039d\u0394\u03a1\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

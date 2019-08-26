@@ -10,8 +10,10 @@
     "geom:latitude":37.990144,
     "geom:longitude":23.710762,
     "iso:country":"GR",
+    "lbl:bbox":"23.7057624154,37.9851438656,23.7157624154,37.9951438656",
     "lbl:latitude":37.990144,
     "lbl:longitude":23.710762,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -51,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u0434\u0435\u043c\u0456\u044f \u041f\u043b\u0430\u0442\u043e\u043d\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108942341,
-    "wof:lastmodified":1563277639,
+    "wof:lastmodified":1566641252,
     "wof:name":"Akadimia Platonos",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

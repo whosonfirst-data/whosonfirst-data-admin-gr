@@ -11,12 +11,16 @@
     "geom:longitude":23.517893,
     "gn:population":4710,
     "iso:country":"GR",
+    "lbl:bbox":"23.497893,37.931923,23.537893,37.971923",
     "lbl:latitude":37.951923,
     "lbl:longitude":23.517893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.951923,
     "mps:longitude":23.517893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0628\u064a\u0644\u0627\u0643\u064a\u0627"
     ],
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Ampel\u00e1kia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ambel\u00e1kia"
     ],
     "qs:a0":"Greece",
@@ -83,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.95,
     "wd:longitude":23.516667,
@@ -98,10 +102,12 @@
         "fct:id":"1146fd1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":265239,
         "gp:id":56023080,
-        "qs:id":481355,
-        "qs_pg:id":546955,
+        "qs_pg:id":481355,
         "wd:id":"Q2021739",
         "wk:page":"Ampelakia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":546955
     },
     "wof:country":"GR",
     "wof:geomhash":"834227a599f37e08572d3ce1d1085cec",
@@ -117,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278108,
+    "wof:lastmodified":1566641526,
     "wof:name":"\u0391\u039c\u03a0\u0395\u039b\u0391\u039a\u0399\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

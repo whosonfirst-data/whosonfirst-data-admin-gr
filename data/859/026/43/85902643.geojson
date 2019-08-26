@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18152095.153268,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.735244,35.301505,25.735244,35.301505",
     "geom:latitude":35.301505,
     "geom:longitude":25.735244,
@@ -13,8 +13,10 @@
     "gn:longitude":25.70869,
     "gn:population":16,
     "iso:country":"GR",
+    "lbl:bbox":"25.730244,35.296505,25.740244,35.306505",
     "lbl:latitude":35.301505,
     "lbl:longitude":25.735244,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.314558,
     "mps:longitude":25.739085,
     "mz:hierarchy_label":0,
@@ -39,10 +41,6 @@
     "name:eng_x_variant":[
         "Ep\u00e1no Lo\u00fama",
         "Epano Loumas"
-    ],
-    "name:unk_x_variant":[
-        "Ep\u00e1no Lo\u00fama",
-        "Ep\u00e1no Lo\u00famas"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_fcode":"PPLX",
@@ -74,14 +72,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":262667,
         "gp:id":949190,
-        "qs:id":240593,
         "qs_pg:id":240593
     },
     "wof:country":"GR",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935917,
+    "wof:lastmodified":1566640745,
     "wof:name":"Ep\u00e1no Lo\u00famas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

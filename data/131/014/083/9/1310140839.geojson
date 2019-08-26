@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"21.50496,40.43405,21.54496,40.47405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0448\u043a\u0430 \u0411\u043b\u0430\u0446\u0430"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Vl\u00e1tsi",
-        "Polin\u00e9ri",
-        "Vl\u00e1sti"
+        "Polin\u00e9ri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310140839,
-    "wof:lastmodified":1564224145,
+    "wof:lastmodified":1566641277,
     "wof:name":"Vlasti",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"27.17085,35.49272,27.17085,35.49272",
     "geom:latitude":35.49272,
     "geom:longitude":27.17085,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"27.15085,35.47272,27.19085,35.51272",
     "lbl:latitude":35.49272,
     "lbl:longitude":27.17085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bd\u03b5\u03c4\u03ad\u03c2"
@@ -24,7 +28,7 @@
     "name:ell_x_variant":[
         "\u039c\u03b5\u03bd\u03b5\u03c4\u03b1\u03af"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Menete"
     ],
     "qs_pg:aaroncc":"GR",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":956792,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Aegean",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1126013071,
-    "wof:lastmodified":1509406786,
+    "wof:lastmodified":1566641957,
     "wof:name":"Menetes",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

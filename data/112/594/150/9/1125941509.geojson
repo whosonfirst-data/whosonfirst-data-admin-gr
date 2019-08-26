@@ -9,15 +9,18 @@
     "geom:bbox":"20.70611,39.36194,20.70611,39.36194",
     "geom:latitude":39.36194,
     "geom:longitude":20.70611,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":232,
-    "gn:population":208,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":232,
     "iso:country":"GR",
+    "lbl:bbox":"20.68611,39.34194,20.72611,39.38194",
     "lbl:latitude":39.36194,
     "lbl:longitude":20.70611,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b5\u03c0\u03bf\u03c7\u03ce\u03c1\u03b9 \u039c\u03c0\u03cc\u03c4\u03c3\u03b1\u03c1\u03b7"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Alepochori Botsari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alepokh\u00f3rion B\u00f3tsari"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":945269,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125941509,
-    "wof:lastmodified":1509402100,
+    "wof:lastmodified":1566641594,
     "wof:name":"Alepokhorion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

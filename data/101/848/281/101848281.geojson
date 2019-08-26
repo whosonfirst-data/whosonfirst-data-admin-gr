@@ -11,12 +11,16 @@
     "geom:longitude":25.159828,
     "gn:population":3913,
     "iso:country":"GR",
+    "lbl:bbox":"25.139828,35.215047,25.179828,35.255047",
     "lbl:latitude":35.235047,
     "lbl:longitude":25.159828,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.235047,
     "mps:longitude":25.159828,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03ac\u03bd\u03c9 \u0391\u03c1\u03c7\u03ac\u03bd\u03b1\u03b9"
     ],
@@ -31,9 +35,7 @@
     ],
     "name:und_x_variant":[
         "Epano Archanes",
-        "\u0395\u03a0\u0391\u039d\u03a9 \u0391\u03a1\u03a7\u0391\u039d\u0395\u03a3"
-    ],
-    "name:unk_x_variant":[
+        "\u0395\u03a0\u0391\u039d\u03a9 \u0391\u03a1\u03a7\u0391\u039d\u0395\u03a3",
         "Ano Arkh\u00e1nai"
     ],
     "qs:a0":"Greece",
@@ -55,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +69,7 @@
         "fct:id":"115188ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":262683,
         "gp:id":945808,
-        "qs:id":909831
+        "qs_pg:id":909831
     },
     "wof:country":"GR",
     "wof:geomhash":"db55ec2025d4b04ddbe77435642fee08",
@@ -83,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740363,
+    "wof:lastmodified":1566641478,
     "wof:name":"\u0395\u03a0\u0391\u039d\u03a9 \u0391\u03a1\u03a7\u0391\u039d\u0391\u0399",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

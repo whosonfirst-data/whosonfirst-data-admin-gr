@@ -11,12 +11,16 @@
     "geom:longitude":22.703591,
     "gn:population":725,
     "iso:country":"GR",
+    "lbl:bbox":"22.683591,38.781822,22.723591,38.821822",
     "lbl:latitude":38.801822,
     "lbl:longitude":22.703591,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":38.801822,
     "mps:longitude":22.703591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u064a\u0648\u0633 \u0633\u064a\u0631\u0627\u0641\u064a\u0645"
     ],
@@ -41,7 +45,7 @@
     "name:swe_x_preferred":[
         "\u00c1yios Seraf\u00edm"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dervis\u00e1dhes"
     ],
     "qs:a0":"Greece",
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.8,
     "wd:longitude":22.7,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":263751,
         "gp:id":947373,
-        "qs:id":262510,
+        "qs_pg:id":262510,
         "wd:id":"Q3566828",
         "wk:page":"Agios Serafim"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101849291,
-    "wof:lastmodified":1563278108,
+    "wof:lastmodified":1566641526,
     "wof:name":"\u0391\u0393\u0399\u039f\u03a3 \u03a3\u0395\u03a1\u0391\u03a6\u0395\u0399\u039c",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

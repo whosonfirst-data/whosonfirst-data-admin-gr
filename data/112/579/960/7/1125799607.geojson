@@ -9,15 +9,18 @@
     "geom:bbox":"21.58333,37.68333,21.58333,37.68333",
     "geom:latitude":37.68333,
     "geom:longitude":21.58333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1073,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1073,
     "iso:country":"GR",
+    "lbl:bbox":"21.56333,37.66333,21.60333,37.70333",
     "lbl:latitude":37.68333,
     "lbl:longitude":21.58333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0628\u064a\u0648"
@@ -45,7 +48,7 @@
     "name:swe_x_preferred":[
         "Pel\u00f3pion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kreko\u00faki"
     ],
     "qs_pg:aaroncc":"GR",
@@ -60,7 +63,7 @@
     "qs_pg:qs_id":78339,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125799607,
-    "wof:lastmodified":1563279096,
+    "wof:lastmodified":1566642095,
     "wof:name":"Pel\u00f3pion",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

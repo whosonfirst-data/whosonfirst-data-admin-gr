@@ -11,12 +11,16 @@
     "geom:longitude":22.335511,
     "gn:population":1595,
     "iso:country":"GR",
+    "lbl:bbox":"22.315511,38.14338,22.355511,38.18338",
     "lbl:latitude":38.16338,
     "lbl:longitude":22.335511,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.16338,
     "mps:longitude":22.335511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u064a\u0641\u064a\u0646\u064a\u0648\u062a\u064a\u0643\u0627\u060c \u0623\u0647\u064a\u0627"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Siliveni\u00f3tika"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sil\u00edvaina"
     ],
     "qs:a0":"Greece",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":253866,
         "gp:id":91803543,
-        "qs:id":546453,
+        "qs_pg:id":546453,
         "wd:id":"Q7660569"
     },
     "wof:country":"GR",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101849411,
-    "wof:lastmodified":1563278098,
+    "wof:lastmodified":1566641522,
     "wof:name":"\u03a3\u03a5\u039b\u0399\u0392\u0391\u0399\u039d\u0399\u03a9\u03a4\u0399\u039a\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

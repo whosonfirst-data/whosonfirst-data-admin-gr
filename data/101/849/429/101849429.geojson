@@ -11,12 +11,16 @@
     "geom:longitude":23.823889,
     "gn:population":2549,
     "iso:country":"GR",
+    "lbl:bbox":"23.803889,38.271016,23.843889,38.311016",
     "lbl:latitude":38.291016,
     "lbl:longitude":23.823889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.291016,
     "mps:longitude":23.823889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mark\u00f3poulo Oropo\u00fa"
     ],
@@ -55,10 +59,7 @@
         "Mark\u00f3poulo Oropo\u00fa"
     ],
     "name:und_x_variant":[
-        "Markopoulo Oropou",
-        "\u039c\u0391\u03a1\u039a\u039f\u03a0\u039f\u03a5\u039b\u039f \u03a9\u03a1\u03a9\u03a0\u039f\u03a5"
-    ],
-    "name:unk_x_variant":[
+        "\u039c\u0391\u03a1\u039a\u039f\u03a0\u039f\u03a5\u039b\u039f \u03a9\u03a1\u03a9\u03a0\u039f\u03a5",
         "Mark\u00f3poulon"
     ],
     "qs:a0":"Greece",
@@ -80,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.283333,
     "wd:longitude":23.816667,
@@ -95,7 +96,6 @@
         "fct:id":"114e5558-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":257669,
         "gp:id":956284,
-        "qs:id":1248888,
         "qs_pg:id":1248888,
         "wd:id":"Q3562844",
         "wk:page":"Markopoulo Oropou"
@@ -114,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278099,
+    "wof:lastmodified":1566641522,
     "wof:name":"\u039c\u0391\u03a1\u039a\u039f\u03a0\u039f\u03a5\u039b\u039f\u039d",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"21.05889,39.32694,21.05889,39.32694",
     "geom:latitude":39.32694,
     "geom:longitude":21.05889,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":48,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":48,
     "iso:country":"GR",
+    "lbl:bbox":"21.03889,39.30694,21.07889,39.34694",
     "lbl:latitude":39.32694,
     "lbl:longitude":21.05889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03b3\u03ba\u03ac\u03b4\u03b9\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lang\u00e1dhia"
     ],
     "qs_pg:aaroncc":"GR",
@@ -42,7 +45,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56024615,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125965783,
-    "wof:lastmodified":1509403646,
+    "wof:lastmodified":1566641936,
     "wof:name":"Lagkadia",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

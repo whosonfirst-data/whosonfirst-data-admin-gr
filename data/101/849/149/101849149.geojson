@@ -11,12 +11,16 @@
     "geom:longitude":23.547222,
     "gn:population":24910,
     "iso:country":"GR",
+    "lbl:bbox":"23.527222,38.020355,23.567222,38.060355",
     "lbl:latitude":38.040355,
     "lbl:longitude":23.547222,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.040355,
     "mps:longitude":23.547222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Eleusis"
     ],
@@ -167,9 +171,7 @@
         "\u0415\u043b\u0435\u0444\u0441\u0456\u043d"
     ],
     "name:und_x_variant":[
-        "\u0395\u039b\u0395\u03a5\u03a3\u0399\u039d\u0391"
-    ],
-    "name:unk_x_variant":[
+        "\u0395\u039b\u0395\u03a5\u03a3\u0399\u039d\u0391",
         "Lepsina"
     ],
     "name:urd_x_preferred":[
@@ -199,7 +201,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":812,
     "wof:belongsto":[
@@ -213,7 +215,7 @@
         "gn:id":262752,
         "gp:id":949048,
         "loc:id":"n83035318",
-        "qs:id":3988,
+        "qs_pg:id":3988,
         "wd:id":"Q204905",
         "wk:page":"Eleusis"
     },
@@ -231,7 +233,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278127,
+    "wof:lastmodified":1566641533,
     "wof:name":"\u0395\u039b\u0395\u03a5\u03a3\u0399\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

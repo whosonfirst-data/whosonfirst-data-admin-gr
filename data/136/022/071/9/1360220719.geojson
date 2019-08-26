@@ -25,8 +25,12 @@
     "gn:population":30251,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"23.56971,38.04134,23.60971,38.08134",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0628\u0631\u0648\u0628\u064a\u0631\u063a\u0648\u0633"
     ],
@@ -96,9 +100,7 @@
     "name:und_x_variant":[
         "Kal\u00edvia Khasi\u00e1s",
         "Kal\u00edvia",
-        "Aspr\u00f3pirgos",
-        "Aspr\u00f3pyrgos",
-        "\u0391\u03c3\u03c0\u03c1\u03cc\u03c0\u03c5\u03c1\u03b3\u03bf\u03c2"
+        "Aspr\u00f3pirgos"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u067e\u0631\u0648\u067e\u06cc\u0631\u06af\u0648\u0633"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":1360220719,
-    "wof:lastmodified":1564224259,
+    "wof:lastmodified":1566641361,
     "wof:name":"Aspropyrgos",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"20.94778,39.49444,20.94778,39.49444",
     "geom:latitude":39.49444,
     "geom:longitude":20.94778,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":117,
-    "gn:population":59,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":117,
     "iso:country":"GR",
+    "lbl:bbox":"20.92778,39.47444,20.96778,39.51444",
     "lbl:latitude":39.49444,
     "lbl:longitude":20.94778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c1\u03af\u03c4\u03b9\u03b1\u03bd\u03b7"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Koritiani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kor\u00edtiani"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":954083,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125942997,
-    "wof:lastmodified":1509402184,
+    "wof:lastmodified":1566641615,
     "wof:name":"Koritiani",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

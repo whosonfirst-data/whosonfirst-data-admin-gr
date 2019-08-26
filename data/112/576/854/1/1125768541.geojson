@@ -9,15 +9,18 @@
     "geom:bbox":"20.74833,39.88167,20.74833,39.88167",
     "geom:latitude":39.88167,
     "geom:longitude":20.74833,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":132,
-    "gn:population":129,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":132,
     "iso:country":"GR",
+    "lbl:bbox":"20.72833,39.86167,20.76833,39.90167",
     "lbl:latitude":39.88167,
     "lbl:longitude":20.74833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Monod\u00e9ndri"
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Monod\u00e9ndri"
     ],
-    "name:unk_x_variant":[
-        "Monod\u00e9ndri"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -65,7 +65,7 @@
     "qs_pg:qs_id":79775,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125768541,
-    "wof:lastmodified":1563278985,
+    "wof:lastmodified":1566642033,
     "wof:name":"Monod\u00e9ndrion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

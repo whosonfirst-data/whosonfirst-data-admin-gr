@@ -9,15 +9,18 @@
     "geom:bbox":"22.8,37.95,22.8,37.95",
     "geom:latitude":37.95,
     "geom:longitude":22.8,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":961,
-    "gn:population":1020,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":961,
     "iso:country":"GR",
+    "lbl:bbox":"22.78,37.93,22.82,37.97",
     "lbl:latitude":37.95,
     "lbl:longitude":22.8,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c7\u03b1\u03ca\u03ba\u03cc"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Vochaiko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krokidh\u00e1s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":964751,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125936879,
-    "wof:lastmodified":1509401811,
+    "wof:lastmodified":1566641621,
     "wof:name":"Vokhaikon",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

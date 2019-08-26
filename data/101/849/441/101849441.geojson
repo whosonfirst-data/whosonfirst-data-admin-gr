@@ -11,12 +11,16 @@
     "geom:longitude":23.829612,
     "gn:population":5040,
     "iso:country":"GR",
+    "lbl:bbox":"23.809612,38.120705,23.849612,38.160705",
     "lbl:latitude":38.140705,
     "lbl:longitude":23.829612,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.140705,
     "mps:longitude":23.829612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0648\u0646\u064a\u0631\u064a\u0648\u0646"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Kryon\u00e9ri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00e1fi"
     ],
     "qs:a0":"Greece",
@@ -82,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
     "wof:belongsto":[
@@ -94,7 +98,6 @@
     "wof:concordances":{
         "gn:id":258793,
         "gp:id":954705,
-        "qs:id":202530,
         "qs_pg:id":202530,
         "wd:id":"Q1135200",
         "wk:page":"Kryoneri, Attica"
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101849441,
-    "wof:lastmodified":1563278050,
+    "wof:lastmodified":1566641502,
     "wof:name":"\u039a\u03a1\u03a5\u039f\u039d\u0395\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

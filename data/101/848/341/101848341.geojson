@@ -12,12 +12,16 @@
     "gn:elevation":3,
     "gn:population":2345,
     "iso:country":"GR",
+    "lbl:bbox":"21.678379,36.893231,21.718379,36.933231",
     "lbl:latitude":36.913231,
     "lbl:longitude":21.698379,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":36.913231,
     "mps:longitude":21.698379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Pylos"
     ],
@@ -150,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043b\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00edlos"
     ],
     "name:uzb_x_preferred":[
@@ -181,7 +185,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":36.9,
     "wd:longitude":21.683333,
@@ -195,10 +199,12 @@
     "wof:concordances":{
         "gn:id":255293,
         "gp:id":957860,
-        "qs:id":201880,
-        "qs_pg:id":1101535,
+        "qs_pg:id":201880,
         "wd:id":"Q7263152",
         "wk:page":"Pylos"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1101535
     },
     "wof:country":"GR",
     "wof:geomhash":"0659ecaf6b91a39591c57bd4bf6e637e",
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":101848341,
-    "wof:lastmodified":1563277995,
+    "wof:lastmodified":1566641480,
     "wof:name":"\u03a0\u03a5\u039b\u039f\u03a3",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

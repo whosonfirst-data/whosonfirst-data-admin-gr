@@ -11,12 +11,16 @@
     "geom:longitude":23.303922,
     "gn:population":1414,
     "iso:country":"GR",
+    "lbl:bbox":"23.283922,41.192094,23.323922,41.232094",
     "lbl:latitude":41.212094,
     "lbl:longitude":23.303922,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.212094,
     "mps:longitude":23.303922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03af\u03bc\u03b7\u03c3\u03b9\u03c2"
     ],
@@ -27,7 +31,7 @@
     "name:eng_x_preferred":[
         "Koimisi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sp\u00e1tovon"
     ],
     "qs:a0":"Greece",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":735674,
         "gp:id":953681,
-        "qs:id":1284376
+        "qs_pg:id":1284376
     },
     "wof:country":"GR",
     "wof:geomhash":"63e8ef240739371ef1a8bc212a01c2f1",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101856941,
-    "wof:lastmodified":1544743639,
+    "wof:lastmodified":1566641467,
     "wof:name":"\u039a\u039f\u0399\u039c\u0397\u03a3\u0399\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

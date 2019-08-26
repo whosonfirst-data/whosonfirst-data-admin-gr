@@ -9,15 +9,18 @@
     "geom:bbox":"22.4,38.83333,22.4,38.83333",
     "geom:latitude":38.83333,
     "geom:longitude":22.4,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":420,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"22.38,38.81333,22.42,38.85333",
     "lbl:latitude":38.83333,
     "lbl:longitude":22.4,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0433\u043e\u043f\u043e\u0442\u0430\u043c\u043e\u0441"
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Gorgop\u00f3tamos"
     ],
-    "name:unk_x_variant":[
-        "Gorgop\u00f3tamos"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +86,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":950092,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1125950205,
-    "wof:lastmodified":1563278337,
+    "wof:lastmodified":1566641664,
     "wof:name":"Gorgopotamos",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

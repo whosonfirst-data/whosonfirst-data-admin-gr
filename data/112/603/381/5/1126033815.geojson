@@ -9,15 +9,18 @@
     "geom:bbox":"22.0125,40.97028,22.0125,40.97028",
     "geom:latitude":40.97028,
     "geom:longitude":22.0125,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":542,
-    "gn:population":558,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":542,
     "iso:country":"GR",
+    "lbl:bbox":"21.9925,40.95028,22.0325,40.99028",
     "lbl:latitude":40.97028,
     "lbl:longitude":22.0125,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_historical":[
         "\u039c\u03c0\u03af\u03c4\u03b6\u03b9\u03bf \u039c\u03b1\u03c7\u03b1\u03bb\u03ac"
@@ -32,7 +35,7 @@
     "name:eng_x_preferred":[
         "Piperies"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piperi\u00e9s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -54,7 +57,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":959960,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1126033815,
-    "wof:lastmodified":1509408100,
+    "wof:lastmodified":1566641777,
     "wof:name":"Piperiai",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

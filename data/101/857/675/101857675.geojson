@@ -11,12 +11,16 @@
     "geom:longitude":22.306017,
     "gn:population":6839,
     "iso:country":"GR",
+    "lbl:bbox":"22.286017,40.666504,22.326017,40.706504",
     "lbl:latitude":40.686504,
     "lbl:longitude":22.306017,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.686504,
     "mps:longitude":22.306017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0627 \u0641\u0631\u064a\u0633\u064a"
     ],
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Kr\u00fda Vr\u00fdsi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kr\u00eda Vr\u00edsi"
     ],
     "qs:a0":"Greece",
@@ -89,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.683333,
     "wd:longitude":22.3,
@@ -104,10 +108,12 @@
     "wof:concordances":{
         "gn:id":258839,
         "gp:id":56024262,
-        "qs:id":129087,
-        "qs_pg:id":546662,
+        "qs_pg:id":129087,
         "wd:id":"Q3400478",
         "wk:page":"Krya Vrysi, Pella"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":546662
     },
     "wof:country":"GR",
     "wof:geomhash":"99a26e3fa3dba5be35339d3293bd566f",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101857675,
-    "wof:lastmodified":1563277905,
+    "wof:lastmodified":1566641441,
     "wof:name":"\u039a\u03a1\u03a5\u0391 \u0392\u03a1\u03a5\u03a3\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -13,17 +13,20 @@
     "iso:country":"GR",
     "lbl:latitude":39.185403,
     "lbl:longitude":20.978406,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.185403,
     "mps:longitude":20.978406,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0393\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03af\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Grammenitsa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gramen\u00edtsa"
     ],
     "qs:a0":"Greece",
@@ -42,7 +45,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":261895,
         "gp:id":950240,
-        "qs:id":869493
+        "qs_pg:id":869493
     },
     "wof:country":"GR",
     "wof:geomhash":"b19e39d8c8461f4b40bc745f033ca348",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101875549,
-    "wof:lastmodified":1505338444,
+    "wof:lastmodified":1566641433,
     "wof:name":"\u0393\u03a1\u0391\u039c\u039c\u0395\u039d\u0399\u03a4\u03a3\u0391",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

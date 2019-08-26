@@ -13,6 +13,7 @@
     "iso:country":"GR",
     "lbl:latitude":38.025249,
     "lbl:longitude":23.717622,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.022651,
     "mps:longitude":23.712221,
     "mz:hierarchy_label":1,
@@ -96,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0456\u0457 \u0410\u043d\u0430\u0440\u0433\u0456\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Ayioi Anaryiroi"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u06cc\u0648\u0626\u06cc \u0627\u0646\u0627\u0631\u06af\u06cc\u0631\u0648\u06cc"
     ],
@@ -130,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -140,7 +138,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723947,
-        "qs:id":366597,
         "qs_pg:id":366597,
         "wd:id":"Q393693"
     },
@@ -159,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277012,
+    "wof:lastmodified":1566640741,
     "wof:name":"Ayioi Anaryiroi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

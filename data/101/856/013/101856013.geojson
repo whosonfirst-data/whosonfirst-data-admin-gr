@@ -11,12 +11,16 @@
     "geom:longitude":23.038622,
     "gn:population":16551,
     "iso:country":"GR",
+    "lbl:bbox":"23.018622,40.56963,23.058622,40.60963",
     "lbl:latitude":40.58963,
     "lbl:longitude":23.038622,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":40.58963,
     "mps:longitude":23.038622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0648\u0631\u0627\u0645\u0627"
     ],
@@ -80,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u043e\u0440\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arsakl\u00ed"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
@@ -120,10 +124,12 @@
     "wof:concordances":{
         "gn:id":734771,
         "gp:id":959166,
-        "qs:id":129041,
-        "qs_pg:id":232406,
+        "qs_pg:id":129041,
         "wd:id":"Q1014278",
         "wk:page":"Panorama, Thessaloniki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":232406
     },
     "wof:country":"GR",
     "wof:geomhash":"7d9b2c5ea8b02a096e8fa8c775377433",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":101856013,
-    "wof:lastmodified":1563277961,
+    "wof:lastmodified":1566641466,
     "wof:name":"\u03a0\u0391\u039d\u039f\u03a1\u0391\u039c\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

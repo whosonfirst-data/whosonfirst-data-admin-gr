@@ -9,15 +9,18 @@
     "geom:bbox":"23.71667,37.95,23.71667,37.95",
     "geom:latitude":37.95,
     "geom:longitude":23.71667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":75421,
-    "gn:population":73076,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
+    "gn:population":75421,
     "iso:country":"GR",
+    "lbl:bbox":"23.69667,37.93,23.73667,37.97",
     "lbl:latitude":37.95,
     "lbl:longitude":23.71667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627 \u0633\u0645\u064a\u0631\u0646\u064a"
@@ -97,7 +100,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0430-\u0421\u043c\u0456\u0440\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9a Sm\u00edrni"
     ],
     "name:urd_x_preferred":[
@@ -125,7 +128,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":965853,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1126028555,
-    "wof:lastmodified":1563278382,
+    "wof:lastmodified":1566641690,
     "wof:name":"Neasmyrni",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

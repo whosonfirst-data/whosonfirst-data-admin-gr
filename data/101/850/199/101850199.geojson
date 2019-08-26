@@ -10,12 +10,16 @@
     "geom:latitude":38.195656,
     "geom:longitude":24.058769,
     "iso:country":"GR",
+    "lbl:bbox":"24.038769,38.175656,24.078769,38.215656",
     "lbl:latitude":38.195656,
     "lbl:longitude":24.058769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.195656,
     "mps:longitude":24.058769,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
     "qs:a1_alt":"ATTIKH",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -42,7 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"GR",
     "wof:geomhash":"0f190c3d98379b6134b35a7062ab737e",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101850199,
-    "wof:lastmodified":1544741307,
+    "wof:lastmodified":1566641463,
     "wof:name":"\u0391\u0393\u0399\u0391 \u039c\u0391\u03a1\u0399\u039d\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":123,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"24.61878,35.32798,24.65878,35.36798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u03a3\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd\u03c6\u03b9\u03b1"
     ],
@@ -34,9 +38,6 @@
         "Skouloufia"
     ],
     "name:fra_x_preferred":[
-        "Skoulo\u00fafia"
-    ],
-    "name:und_x_variant":[
         "Skoulo\u00fafia"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1243590067,
-    "wof:lastmodified":1564225275,
+    "wof:lastmodified":1566642238,
     "wof:name":"Skouloufia",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

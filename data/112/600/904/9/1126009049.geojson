@@ -9,15 +9,18 @@
     "geom:bbox":"22.00056,40.805,22.00056,40.805",
     "geom:latitude":40.805,
     "geom:longitude":22.00056,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":854,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":854,
     "iso:country":"GR",
+    "lbl:bbox":"21.98056,40.785,22.02056,40.825",
     "lbl:latitude":40.805,
     "lbl:longitude":22.00056,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0434\u043e\u0432\u043e"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "\u00c1gras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vl\u00e1dovon"
     ],
     "qs_pg:aaroncc":"GR",
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":944993,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1126009049,
-    "wof:lastmodified":1563278906,
+    "wof:lastmodified":1566641990,
     "wof:name":"Agras",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

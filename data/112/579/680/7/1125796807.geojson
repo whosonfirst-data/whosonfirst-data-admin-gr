@@ -9,15 +9,18 @@
     "geom:bbox":"20.6,39.23361,20.6,39.23361",
     "geom:latitude":39.23361,
     "geom:longitude":20.6,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2446,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
     "gn:population":2446,
     "iso:country":"GR",
+    "lbl:bbox":"20.58,39.21361,20.62,39.25361",
     "lbl:latitude":39.23361,
     "lbl:longitude":20.6,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03b1\u03bb\u03bb\u03ac\u03ba\u03b9\u03bf\u03bd"
@@ -26,7 +29,7 @@
         "Kanal\u00e1ki",
         "\u039a\u03b1\u03bd\u03b1\u03bb\u03ac\u03ba\u03b9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanall\u00e1ki"
     ],
     "qs_pg:aaroncc":"GR",
@@ -41,7 +44,7 @@
     "qs_pg:qs_id":307461,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1125796807,
-    "wof:lastmodified":1509392644,
+    "wof:lastmodified":1566642091,
     "wof:name":"Kanal\u00e1ki",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

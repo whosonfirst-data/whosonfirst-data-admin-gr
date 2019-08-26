@@ -11,12 +11,16 @@
     "geom:longitude":21.405512,
     "gn:population":17686,
     "iso:country":"GR",
+    "lbl:bbox":"21.385512,40.76014,21.425512,40.80014",
     "lbl:latitude":40.78014,
     "lbl:longitude":21.405512,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":40.78014,
     "mps:longitude":21.405512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u0631\u064a\u0646\u0627"
     ],
@@ -173,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plorina"
     ],
     "name:urd_x_preferred":[
@@ -207,7 +211,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1644,
     "wof:belongsto":[
@@ -219,10 +223,12 @@
     "wof:concordances":{
         "gn:id":736229,
         "gp:id":949622,
-        "qs:id":275664,
-        "qs_pg:id":1100303,
+        "qs_pg:id":275664,
         "wd:id":"Q202272",
         "wk:page":"Florina"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1100303
     },
     "wof:country":"GR",
     "wof:geomhash":"4dd8d188365ab8ca8efa4f8b50138865",
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":101857451,
-    "wof:lastmodified":1563277939,
+    "wof:lastmodified":1566641456,
     "wof:name":"\u03a6\u039b\u03a9\u03a1\u0399\u039d\u0391",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

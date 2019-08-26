@@ -9,15 +9,18 @@
     "geom:bbox":"23.38333,41.13333,23.38333,41.13333",
     "geom:latitude":41.13333,
     "geom:longitude":23.38333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1371,
-    "gn:population":1415,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1371,
     "iso:country":"GR",
+    "lbl:bbox":"23.36333,41.11333,23.40333,41.15333",
     "lbl:latitude":41.13333,
     "lbl:longitude":23.38333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0643\u0648\u062a\u0648\u0633\u0627\u060c \u0633\u064a\u0631\u0631\u064a"
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Skoto\u00fassa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00f3snik"
     ],
     "qs_pg:aaroncc":"GR",
@@ -90,7 +93,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":962440,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125782221,
-    "wof:lastmodified":1563279069,
+    "wof:lastmodified":1566642083,
     "wof:name":"Skotoussa",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

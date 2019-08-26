@@ -25,8 +25,12 @@
     "gn:population":435,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"21.44765,40.73289,21.48765,40.77289",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0447\u043a\u043e\u0432\u0435\u043d\u0438"
     ],
@@ -70,8 +74,7 @@
         "P\u00e9rasma"
     ],
     "name:und_x_variant":[
-        "Koutskova\u00edni",
-        "P\u00e9rasma"
+        "Koutskova\u00edni"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1242811907,
-    "wof:lastmodified":1564225223,
+    "wof:lastmodified":1566642204,
     "wof:name":"Perasma",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

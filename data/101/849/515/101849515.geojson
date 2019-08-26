@@ -11,12 +11,16 @@
     "geom:longitude":20.886778,
     "gn:population":4703,
     "iso:country":"GR",
+    "lbl:bbox":"20.866778,38.900567,20.906778,38.940567",
     "lbl:latitude":38.920567,
     "lbl:longitude":20.886778,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.920567,
     "mps:longitude":20.886778,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u064a\u062a\u0633\u0627"
     ],
@@ -83,9 +87,6 @@
     "name:swe_x_preferred":[
         "V\u00f3nitsa"
     ],
-    "name:unk_x_variant":[
-        "V\u00f3nitsa"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"DYTIKH ELLADA",
@@ -106,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.915278,
     "wd:longitude":20.891111,
@@ -120,10 +121,12 @@
     "wof:concordances":{
         "gn:id":251823,
         "gp:id":964778,
-        "qs:id":1242738,
         "qs_pg:id":1024373,
         "wd:id":"Q1727945",
         "wk:page":"Vonitsa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1242738
     },
     "wof:country":"GR",
     "wof:geomhash":"759de0a01a46f556d701b330825f8268",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101849515,
-    "wof:lastmodified":1563278128,
+    "wof:lastmodified":1566641533,
     "wof:name":"\u0392\u039f\u039d\u0399\u03a4\u03a3\u0391",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

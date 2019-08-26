@@ -11,12 +11,16 @@
     "geom:longitude":24.625193,
     "gn:population":26,
     "iso:country":"GR",
+    "lbl:bbox":"24.605193,40.703122,24.645193,40.743122",
     "lbl:latitude":40.723122,
     "lbl:longitude":24.625193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":40.723122,
     "mps:longitude":24.625193,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tables Eugubinas"
     ],
@@ -78,7 +82,7 @@
     "name:spa_x_preferred":[
         "Tablas Eugubinas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meg\u00e1lon Kazav\u00edtion"
     ],
     "name:zho_x_preferred":[
@@ -102,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":7612,
     "wof:belongsto":[
@@ -114,7 +118,7 @@
     "wof:concordances":{
         "gn:id":735251,
         "gp:id":956656,
-        "qs:id":968451,
+        "qs_pg:id":968451,
         "wd:id":"Q943972"
     },
     "wof:country":"GR",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101857409,
-    "wof:lastmodified":1563277914,
+    "wof:lastmodified":1566641445,
     "wof:name":"\u03a0\u03a1\u0399\u039d\u039f\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

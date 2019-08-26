@@ -11,12 +11,16 @@
     "geom:longitude":26.544138,
     "gn:population":2673,
     "iso:country":"GR",
+    "lbl:bbox":"26.524138,41.569954,26.564138,41.609954",
     "lbl:latitude":41.589954,
     "lbl:longitude":26.544138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.589954,
     "mps:longitude":26.544138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627 \u0641\u064a\u0633\u0627"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "N\u00e9a V\u00fdssa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akhirokh\u00f3rion"
     ],
     "qs:a0":"Greece",
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":65.0,
     "wd:latitude":41.583333,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":734978,
         "gp:id":958013,
-        "qs:id":129053,
+        "qs_pg:id":129053,
         "wd:id":"Q1014288",
         "wk:page":"Nea Vyssa"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101857783,
-    "wof:lastmodified":1563277921,
+    "wof:lastmodified":1566641448,
     "wof:name":"\u039d\u0395\u0391 \u0392\u03a5\u03a3\u03a3\u0391",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"21.10639,39.59361,21.10639,39.59361",
     "geom:latitude":39.59361,
     "geom:longitude":21.10639,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":141,
-    "gn:population":270,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":141,
     "iso:country":"GR",
+    "lbl:bbox":"21.08639,39.57361,21.12639,39.61361",
     "lbl:latitude":39.59361,
     "lbl:longitude":21.10639,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0438\u0440\u0430\u043a\u043e"
@@ -78,7 +81,7 @@
     "name:swe_x_preferred":[
         "Sir\u00e1ko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sirr\u00e1kon"
     ],
     "qs_pg:aaroncc":"GR",
@@ -102,7 +105,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":962104,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125794051,
-    "wof:lastmodified":1563279101,
+    "wof:lastmodified":1566642097,
     "wof:name":"Sirakon",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

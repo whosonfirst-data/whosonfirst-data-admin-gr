@@ -11,12 +11,16 @@
     "geom:longitude":24.177492,
     "gn:population":1404,
     "iso:country":"GR",
+    "lbl:bbox":"24.157492,40.923798,24.197492,40.963798",
     "lbl:latitude":40.943798,
     "lbl:longitude":24.177492,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.943798,
     "mps:longitude":24.177492,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
     ],
@@ -28,7 +32,7 @@
     "name:eng_x_preferred":[
         "Palaiochori"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palaiokh\u00f3ri"
     ],
     "qs:a0":"Greece",
@@ -49,7 +53,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":734821,
         "gp:id":958758,
-        "qs:id":275652
+        "qs_pg:id":275652
     },
     "wof:country":"GR",
     "wof:geomhash":"6976aacbbd443d0aa694d6dde32e63e4",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101857579,
-    "wof:lastmodified":1544743969,
+    "wof:lastmodified":1566641460,
     "wof:name":"\u03a0\u0391\u039b\u0391\u0399\u039f\u03a7\u03a9\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

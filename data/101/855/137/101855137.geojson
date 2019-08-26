@@ -11,12 +11,16 @@
     "geom:longitude":23.787835,
     "gn:population":3158,
     "iso:country":"GR",
+    "lbl:bbox":"23.767835,40.073273,23.807835,40.113273",
     "lbl:latitude":40.093273,
     "lbl:longitude":23.787835,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.093273,
     "mps:longitude":23.787835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648\u0633 \u0645\u0627\u0631\u0645\u0627\u0631\u0627\u0633"
     ],
@@ -71,7 +75,7 @@
     "name:tur_x_preferred":[
         "Neos Marmaras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marmar\u00e1s"
     ],
     "qs:a0":"Greece",
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.096667,
     "wd:longitude":23.783056,
@@ -108,10 +112,12 @@
     "wof:concordances":{
         "gn:id":257657,
         "gp:id":956300,
-        "qs:id":182594,
-        "qs_pg:id":1284616,
+        "qs_pg:id":182594,
         "wd:id":"Q200417",
         "wk:page":"Neos Marmaras"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1284616
     },
     "wof:country":"GR",
     "wof:geomhash":"228ad7af50d1d125dba6d4407e7d06cd",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":101855137,
-    "wof:lastmodified":1563278155,
+    "wof:lastmodified":1566641545,
     "wof:name":"\u039d\u0395\u039f\u03a3 \u039c\u0391\u03a1\u039c\u0391\u03a1\u0391\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

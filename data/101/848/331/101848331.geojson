@@ -10,12 +10,16 @@
     "geom:latitude":37.055046,
     "geom:longitude":21.722387,
     "iso:country":"GR",
+    "lbl:bbox":"21.702387,37.035046,21.742387,37.075046",
     "lbl:latitude":37.055046,
     "lbl:longitude":21.722387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.055046,
     "mps:longitude":21.722387,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
     "qs:a1_alt":"PELOPONNHSOS",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":953219,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"GR",
     "wof:geomhash":"211bc27cb8abc3af468d37eb9c02ed84",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101848331,
-    "wof:lastmodified":1544740386,
+    "wof:lastmodified":1566641473,
     "wof:name":"\u03a7\u03a9\u03a1\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

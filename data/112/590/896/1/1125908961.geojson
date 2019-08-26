@@ -9,14 +9,18 @@
     "geom:bbox":"20.51667,38.11667,20.51667,38.11667",
     "geom:latitude":38.11667,
     "geom:longitude":20.51667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"20.49667,38.09667,20.53667,38.13667",
     "lbl:latitude":38.11667,
     "lbl:longitude":20.51667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a3\u03b2\u03bf\u03c1\u03c9\u03bd\u03ac\u03c4\u03b1"
@@ -33,7 +37,7 @@
     "name:ron_x_preferred":[
         "Svoronata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svoron\u00e1ta"
     ],
     "qs_pg:aaroncc":"GR",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":963097,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125908961,
-    "wof:lastmodified":1563278745,
+    "wof:lastmodified":1566641899,
     "wof:name":"Svoronata",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

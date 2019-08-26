@@ -9,15 +9,18 @@
     "geom:bbox":"20.95139,40.39222,20.95139,40.39222",
     "geom:latitude":40.39222,
     "geom:longitude":20.95139,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":33,
-    "gn:population":18,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":33,
     "iso:country":"GR",
+    "lbl:bbox":"20.93139,40.37222,20.97139,40.41222",
     "lbl:latitude":40.39222,
     "lbl:longitude":20.95139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03cd\u03ba\u03bf\u03c2"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Pefkos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "To\u00fakhoula"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":83303,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125840059,
-    "wof:lastmodified":1509395234,
+    "wof:lastmodified":1566642112,
     "wof:name":"P\u00e9fkos",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":23.820906,
     "gn:population":1094,
     "iso:country":"GR",
+    "lbl:bbox":"23.800906,41.170609,23.840906,41.210609",
     "lbl:latitude":41.190609,
     "lbl:longitude":23.820906,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.190609,
     "mps:longitude":23.820906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u0631\u0648\u0628\u0648\u0644\u064a\u0633\u060c \u062f\u0631\u0627\u0645\u0627"
     ],
@@ -47,7 +51,7 @@
     "name:swe_x_preferred":[
         "Mikr\u00f3polis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karl\u00edkova"
     ],
     "qs:a0":"Greece",
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":735111,
         "gp:id":957287,
-        "qs:id":1086231,
+        "qs_pg:id":1086231,
         "wd:id":"Q3409019"
     },
     "wof:country":"GR",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101857753,
-    "wof:lastmodified":1563277902,
+    "wof:lastmodified":1566641440,
     "wof:name":"\u039c\u0399\u039a\u03a1\u039f\u03a0\u039f\u039b\u0399\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

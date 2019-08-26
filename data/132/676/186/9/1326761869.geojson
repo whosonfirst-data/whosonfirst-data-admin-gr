@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"25.41611,36.41449,25.45611,36.45449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c5\u03c1\u03b2\u03bf\u03cd\u03bb\u03bf\u03c2"
     ],
@@ -35,10 +39,6 @@
     ],
     "name:fin_x_preferred":[
         "Vourvo\u00falos"
-    ],
-    "name:und_x_variant":[
-        "Vourvo\u00falos",
-        "\u0392\u03bf\u03c5\u03c1\u03b2\u03bf\u03cd\u03bb\u03bf\u03c2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1326761869,
-    "wof:lastmodified":1564223072,
+    "wof:lastmodified":1566640546,
     "wof:name":"Vourvoulos",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

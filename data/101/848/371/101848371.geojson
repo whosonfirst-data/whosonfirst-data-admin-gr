@@ -10,12 +10,16 @@
     "geom:latitude":35.536331,
     "geom:longitude":24.077417,
     "iso:country":"GR",
+    "lbl:bbox":"24.057417,35.516331,24.097417,35.556331",
     "lbl:latitude":35.536331,
     "lbl:longitude":24.077417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.536331,
     "mps:longitude":24.077417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0648\u0628\u064a\u062f\u064a\u0627\u0646\u0627"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.536,
     "wd:longitude":24.076,
     "wd:wordcount":33,
@@ -82,7 +86,6 @@
         "fct:id":"114ed000-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":259038,
         "gp:id":954377,
-        "qs:id":191600,
         "qs_pg:id":191600,
         "wd:id":"Q6434654",
         "wk:page":"Kounoupidiana"
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277998,
+    "wof:lastmodified":1566641481,
     "wof:name":"\u039a\u039f\u03a5\u039d\u039f\u03a5\u03a0\u0399\u0394\u0399\u0391\u039d\u0391",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":22.876187,
     "gn:population":3580,
     "iso:country":"GR",
+    "lbl:bbox":"22.856187,40.479832,22.896187,40.519832",
     "lbl:latitude":40.499832,
     "lbl:longitude":22.876187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.499832,
     "mps:longitude":22.876187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u064a\u0627 \u062a\u0631\u064a\u0627\u0633\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
     ],
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Ag\u00eda Tri\u00e1da"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sk\u00e1la Ay\u00edas Tri\u00e1dhos"
     ],
     "qs:a0":"Greece",
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.666667,
     "wd:longitude":21.483333,
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":736638,
         "gp:id":946978,
-        "qs:id":845304,
+        "qs_pg:id":845304,
         "wd:id":"Q3564048"
     },
     "wof:country":"GR",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101855989,
-    "wof:lastmodified":1563278166,
+    "wof:lastmodified":1566641550,
     "wof:name":"\u0391\u0393\u0399\u0391 \u03a4\u03a1\u0399\u0391\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

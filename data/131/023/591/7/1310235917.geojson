@@ -25,8 +25,12 @@
     "gn:population":542,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"23.34243,37.95536,23.38243,37.99536",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pachi"
     ],
@@ -50,9 +54,6 @@
     "name:swe_x_preferred":[
         "Pachi"
     ],
-    "name:und_x_variant":[
-        "Sk\u00e1la Meg\u00e1ron"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1310235917,
-    "wof:lastmodified":1564224129,
+    "wof:lastmodified":1566641266,
     "wof:name":"Pachi",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

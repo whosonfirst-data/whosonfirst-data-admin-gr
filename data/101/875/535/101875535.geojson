@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":38.079594,
     "lbl:longitude":23.5231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.079594,
     "mps:longitude":23.5231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0648\u0644\u0627"
     ],
@@ -63,9 +66,6 @@
     "name:und_x_variant":[
         "\u039c\u0391\u0393\u039f\u03a5\u039b\u0391"
     ],
-    "name:unk_x_variant":[
-        "Mago\u00fala"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
     "qs:a1_alt":"ATTIKH",
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.083333,
     "wd:longitude":23.516667,
@@ -98,7 +98,6 @@
         "fct:id":"114f1326-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":258007,
         "gp:id":955862,
-        "qs:id":123812,
         "qs_pg:id":123812,
         "wd:id":"Q1135222",
         "wk:page":"Magoula, Attica"
@@ -117,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277856,
+    "wof:lastmodified":1566641418,
     "wof:name":"\u039c\u0391\u0393\u039f\u03a5\u039b\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

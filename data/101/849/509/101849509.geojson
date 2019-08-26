@@ -11,12 +11,16 @@
     "geom:longitude":23.141533,
     "gn:population":4643,
     "iso:country":"GR",
+    "lbl:bbox":"23.121533,37.917866,23.161533,37.957866",
     "lbl:latitude":37.937866,
     "lbl:longitude":23.141533,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.937866,
     "mps:longitude":23.141533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u064a\u0648\u064a \u062b\u064a\u0648\u062f\u0648\u0631\u0648\u064a"
     ],
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "\u00c1gioi The\u00f3doroi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayioi Theodoroi"
     ],
     "qs:a0":"Greece",
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":475,
     "wof:belongsto":[
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":101849509,
-    "wof:lastmodified":1563278091,
+    "wof:lastmodified":1566641519,
     "wof:name":"\u0391\u0393\u0399\u039f\u0399 \u0398\u0395\u039f\u0394\u03a9\u03a1\u039f\u0399",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

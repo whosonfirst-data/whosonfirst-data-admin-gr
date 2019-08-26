@@ -10,8 +10,10 @@
     "geom:latitude":37.984136,
     "geom:longitude":23.718977,
     "iso:country":"GR",
+    "lbl:bbox":"23.7139771398,37.9791363452,23.7239771398,37.9891363452",
     "lbl:latitude":37.984136,
     "lbl:longitude":23.718977,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -60,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0442\u0430\u043a\u0441\u0443\u0440\u0433\u0456\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1108942365,
-    "wof:lastmodified":1563277642,
+    "wof:lastmodified":1566641254,
     "wof:name":"Metaxourgeio",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

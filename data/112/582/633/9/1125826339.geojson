@@ -9,15 +9,18 @@
     "geom:bbox":"21.46528,39.16139,21.46528,39.16139",
     "geom:latitude":39.16139,
     "geom:longitude":21.46528,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":287,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":287,
     "iso:country":"GR",
+    "lbl:bbox":"21.44528,39.14139,21.48528,39.18139",
     "lbl:latitude":39.16139,
     "lbl:longitude":21.46528,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c4\u03c9 \u03a1\u03b1\u03c0\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u039a\u03ac\u03c4\u03c9 \u03a1\u03b1\u03c0\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kato Ravt\u00f3poulon"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":546734,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125826339,
-    "wof:lastmodified":1509394419,
+    "wof:lastmodified":1566642008,
     "wof:name":"K\u00e1to Rapt\u00f3poulon",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

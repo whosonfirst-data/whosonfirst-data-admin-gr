@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":2391541.319907,
+    "geom:area_square_m":2391541.319908,
     "geom:bbox":"22.9629223826,40.4571257585,22.9810968524,40.4753004031",
     "geom:latitude":40.466134,
     "geom:longitude":22.972164,
@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":40.466213,
     "lbl:longitude":22.972338,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.466213,
     "mps:longitude":22.972338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_historical":[
         "\u0396\u03bf\u03bc\u03b2\u03ac\u03c4\u03bf\u03b9",
         "\u0396\u03bf\u03c5\u03bc\u03c0\u03ac\u03c4",
@@ -37,7 +40,7 @@
     "name:eng_x_preferred":[
         "Trilofos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zoumb\u00e1tes"
     ],
     "qs:a0":"Greece",
@@ -55,7 +58,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":734014,
         "gp:id":963617,
-        "qs:id":552794
+        "qs_pg:id":552794
     },
     "wof:country":"GR",
     "wof:geomhash":"4c39d2bd16b153be5203aab0873b3f05",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101875661,
-    "wof:lastmodified":1505338445,
+    "wof:lastmodified":1566641422,
     "wof:name":"\u03a4\u03a1\u0399\u039b\u039f\u03a6\u039f\u039d",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

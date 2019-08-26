@@ -9,14 +9,18 @@
     "geom:bbox":"26.76667,37.28333,26.76667,37.28333",
     "geom:latitude":37.28333,
     "geom:longitude":26.76667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"26.66667,37.18333,26.86667,37.38333",
     "lbl:latitude":37.28333,
     "lbl:longitude":26.76667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lips\u00ed"
@@ -87,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leigoi"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +121,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":24544551,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Aegean",
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":1125328247,
-    "wof:lastmodified":1564224570,
+    "wof:lastmodified":1566641673,
     "wof:name":"Leipsoi",
     "wof:parent_id":85684659,
     "wof:placetype":"localadmin",

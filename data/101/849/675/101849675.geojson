@@ -11,12 +11,16 @@
     "geom:longitude":22.927103,
     "gn:population":1834,
     "iso:country":"GR",
+    "lbl:bbox":"22.907103,37.798272,22.947103,37.838272",
     "lbl:latitude":37.818272,
     "lbl:longitude":22.927103,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.818272,
     "mps:longitude":22.927103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u062b\u064a\u0643\u064a\u0627"
     ],
@@ -44,9 +48,6 @@
     "name:swe_x_preferred":[
         "Ath\u00edkia"
     ],
-    "name:unk_x_variant":[
-        "Ath\u00edkia"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
     "qs:a1_alt":"PELOPONNHSOS",
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.816667,
     "wd:longitude":22.933333,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":264374,
         "gp:id":946737,
-        "qs:id":123877,
+        "qs_pg:id":123877,
         "wd:id":"Q3566843",
         "wk:page":"Athikia"
     },
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":101849675,
-    "wof:lastmodified":1563278043,
+    "wof:lastmodified":1566641499,
     "wof:name":"\u0391\u0398\u0399\u039a\u0399\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

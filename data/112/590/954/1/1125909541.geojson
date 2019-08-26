@@ -9,15 +9,18 @@
     "geom:bbox":"20.8675,39.76583,20.8675,39.76583",
     "geom:latitude":39.76583,
     "geom:longitude":20.8675,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":71,
-    "gn:population":70,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":71,
     "iso:country":"GR",
+    "lbl:bbox":"20.8475,39.74583,20.8875,39.78583",
     "lbl:latitude":39.76583,
     "lbl:longitude":20.8675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kaminia"
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Kaminia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anthrak\u00edtis"
     ],
     "qs_pg:aaroncc":"GR",
@@ -61,7 +64,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":951329,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125909541,
-    "wof:lastmodified":1564224844,
+    "wof:lastmodified":1566641891,
     "wof:name":"Kaminia",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

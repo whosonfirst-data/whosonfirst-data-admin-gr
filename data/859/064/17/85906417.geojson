@@ -13,6 +13,7 @@
     "iso:country":"GR",
     "lbl:latitude":37.942091,
     "lbl:longitude":23.76091,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.940948,
     "mps:longitude":23.768439,
     "mz:hierarchy_label":1,
@@ -95,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0456\u0443\u043f\u043e\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "Ilioupolis"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u06cc\u0624\u067e\u0648\u0644\u06cc"
     ],
@@ -132,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":289,
     "wof:belongsto":[
         102191581,
@@ -143,7 +141,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723950,
-        "qs:id":14410,
         "qs_pg:id":14410,
         "wd:id":"Q1997239"
     },
@@ -162,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277012,
+    "wof:lastmodified":1566640741,
     "wof:name":"Ilioupolis",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

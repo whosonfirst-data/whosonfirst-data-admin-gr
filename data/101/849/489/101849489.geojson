@@ -11,12 +11,16 @@
     "geom:longitude":21.143282,
     "gn:population":1079,
     "iso:country":"GR",
+    "lbl:bbox":"21.123282,37.913071,21.163282,37.953071",
     "lbl:latitude":37.933071,
     "lbl:longitude":21.143282,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.933071,
     "mps:longitude":21.143282,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039a\u03c5\u03bb\u03bb\u03ae\u03bd\u03b7"
     ],
@@ -26,7 +30,7 @@
     "name:eng_x_preferred":[
         "Kyllini"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kill\u00edni"
     ],
     "qs:a0":"Greece",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":259813,
         "gp:id":965958,
-        "qs:id":917312
+        "qs_pg:id":917312
     },
     "wof:country":"GR",
     "wof:geomhash":"99d76776ca38c6a2ce6ac2ca8cd92dde",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101849489,
-    "wof:lastmodified":1544740975,
+    "wof:lastmodified":1566641523,
     "wof:name":"\u039a\u03a5\u039b\u039b\u0397\u039d\u0397",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

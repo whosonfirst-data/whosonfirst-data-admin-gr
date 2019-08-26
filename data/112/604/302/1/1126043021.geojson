@@ -9,15 +9,18 @@
     "geom:bbox":"20.72944,39.82222,20.72944,39.82222",
     "geom:latitude":39.82222,
     "geom:longitude":20.72944,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":208,
-    "gn:population":165,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
+    "gn:population":208,
     "iso:country":"GR",
+    "lbl:bbox":"20.70944,39.80222,20.74944,39.84222",
     "lbl:latitude":39.82222,
     "lbl:longitude":20.72944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_historical":[
         "\u0394\u03bf\u03b2\u03c1\u03ac",
@@ -36,7 +39,7 @@
     "name:eng_x_variant":[
         "Asprangeloi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00f3vra"
     ],
     "qs_pg:aaroncc":"GR",
@@ -51,7 +54,7 @@
     "qs_pg:qs_id":546914,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1126043021,
-    "wof:lastmodified":1509408666,
+    "wof:lastmodified":1566641738,
     "wof:name":"Aspr\u00e1ngeloi",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

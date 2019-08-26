@@ -11,12 +11,16 @@
     "geom:longitude":21.314663,
     "gn:population":2414,
     "iso:country":"GR",
+    "lbl:bbox":"21.294663,37.877617,21.334663,37.917617",
     "lbl:latitude":37.897617,
     "lbl:longitude":21.314663,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.897617,
     "mps:longitude":21.314663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0627\u063a\u0627\u0646\u0648"
     ],
@@ -50,9 +54,6 @@
     "name:swe_x_preferred":[
         "Tragan\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Tragan\u00f3n"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"DYTIKH ELLADA",
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +83,7 @@
     "wof:concordances":{
         "gn:id":252747,
         "gp:id":963506,
-        "qs:id":1285350,
+        "qs_pg:id":1285350,
         "wd:id":"Q1923665"
     },
     "wof:country":"GR",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":101849503,
-    "wof:lastmodified":1563278040,
+    "wof:lastmodified":1566641497,
     "wof:name":"\u03a4\u03a1\u0391\u0393\u0391\u039d\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

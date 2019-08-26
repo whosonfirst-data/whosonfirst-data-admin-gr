@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23752753.701649,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.904349,35.136449,24.904349,35.136449",
     "geom:latitude":35.136449,
     "geom:longitude":24.904349,
     "gn:latitude":35.12875,
     "gn:longitude":24.90519,
     "iso:country":"GR",
+    "lbl:bbox":"24.899349,35.131449,24.909349,35.141449",
     "lbl:latitude":35.136449,
     "lbl:longitude":24.904349,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.13481,
     "mps:longitude":24.903994,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Kato Zaros"
     ],
     "name:eng_x_preferred":[
-        "K\u00e1to Zar\u00f3s"
-    ],
-    "name:unk_x_variant":[
         "K\u00e1to Zar\u00f3s"
     ],
     "qs:gn_adm0_cc":"GR",
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -74,7 +73,6 @@
     "wof:concordances":{
         "gn:id":260439,
         "gp:id":952491,
-        "qs:id":1159303,
         "qs_pg:id":1159303
     },
     "wof:country":"GR",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935921,
+    "wof:lastmodified":1566640746,
     "wof:name":"K\u00e1to Zar\u00f3s",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

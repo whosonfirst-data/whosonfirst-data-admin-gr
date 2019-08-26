@@ -9,15 +9,18 @@
     "geom:bbox":"22.2025,41.10417,22.2025,41.10417",
     "geom:latitude":41.10417,
     "geom:longitude":22.2025,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":367,
-    "gn:population":309,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":367,
     "iso:country":"GR",
+    "lbl:bbox":"22.1825,41.08417,22.2225,41.12417",
     "lbl:latitude":41.10417,
     "lbl:longitude":22.2025,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041d\u044a\u0442\u0435"
@@ -59,7 +62,7 @@
     "name:tur_x_preferred":[
         "Nutya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Enot\u00eda"
     ],
     "qs_pg:aaroncc":"GR",
@@ -74,7 +77,7 @@
     "qs_pg:qs_id":552861,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126046087,
-    "wof:lastmodified":1563278473,
+    "wof:lastmodified":1566641749,
     "wof:name":"N\u00f3tia",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

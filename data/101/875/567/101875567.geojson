@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":38.184322,
     "lbl:longitude":21.704059,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.184322,
     "mps:longitude":21.704059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u062a\u064a\u0644\u0648\u063a\u0644\u064a"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Mindil\u00f3glion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mintil\u00f3gli"
     ],
     "qs:a0":"Greece",
@@ -65,7 +68,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.183333,
     "wd:longitude":21.7,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":256944,
         "gp:id":91803383,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4118397",
         "wk:page":"Mintilogli"
     },
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101875567,
-    "wof:lastmodified":1563277852,
+    "wof:lastmodified":1566641416,
     "wof:name":"\u039c\u0399\u039d\u03a4\u0399\u039b\u039f\u0393\u039b\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",
