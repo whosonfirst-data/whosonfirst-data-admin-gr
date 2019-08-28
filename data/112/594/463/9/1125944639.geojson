@@ -9,15 +9,18 @@
     "geom:bbox":"22.18861,40.94972,22.18861,40.94972",
     "geom:latitude":40.94972,
     "geom:longitude":22.18861,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":745,
-    "gn:population":583,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":745,
     "iso:country":"GR",
+    "lbl:bbox":"22.16861,40.92972,22.20861,40.96972",
     "lbl:latitude":40.94972,
     "lbl:longitude":22.18861,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03ac\u03ba\u03b5\u03b9\u03bf"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03ac\u03ba\u03b5\u03b9\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u00fadortsi"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":963251,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125944639,
-    "wof:lastmodified":1509402310,
+    "wof:lastmodified":1566641601,
     "wof:name":"Theodhorion",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

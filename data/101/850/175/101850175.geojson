@@ -11,12 +11,16 @@
     "geom:longitude":20.758087,
     "gn:population":1378,
     "iso:country":"GR",
+    "lbl:bbox":"20.738087,37.809808,20.778087,37.849808",
     "lbl:latitude":37.829808,
     "lbl:longitude":20.758087,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.829808,
     "mps:longitude":20.758087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062a\u0627\u0633\u062a\u0627\u0631\u064a\u0648\u0646"
     ],
@@ -45,9 +49,6 @@
     "name:swe_x_preferred":[
         "Katast\u00e1rion"
     ],
-    "name:unk_x_variant":[
-        "Katast\u00e1ri"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0399\u039f\u039d\u0399\u0391 \u039d\u0397\u03a3\u0399\u0391",
     "qs:a1_alt":"IONIA NHSIA",
@@ -67,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.827778,
     "wd:longitude":20.756667,
@@ -81,7 +82,6 @@
     "wof:concordances":{
         "gn:id":260674,
         "gp:id":952076,
-        "qs:id":546742,
         "qs_pg:id":546742,
         "wd:id":"Q12234179",
         "wk:page":"Katastari"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101850175,
-    "wof:lastmodified":1563277953,
+    "wof:lastmodified":1566641463,
     "wof:name":"\u039a\u0391\u03a4\u0391\u03a3\u03a4\u0391\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

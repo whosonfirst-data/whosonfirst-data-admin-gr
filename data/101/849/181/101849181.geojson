@@ -11,12 +11,16 @@
     "geom:longitude":21.662052,
     "gn:population":2127,
     "iso:country":"GR",
+    "lbl:bbox":"21.642052,39.413453,21.682052,39.453453",
     "lbl:latitude":39.433453,
     "lbl:longitude":21.662052,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.433453,
     "mps:longitude":21.662052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mouz\u00e1ki"
     ],
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "Mouz\u00e1ki"
     ],
-    "name:unk_x_variant":[
-        "Mouz\u00e1ki"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
     "qs:a1_alt":"UESSALIA",
@@ -64,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +76,7 @@
     "wof:concordances":{
         "gn:id":256662,
         "gp:id":56558312,
-        "qs:id":347183,
+        "qs_pg:id":347183,
         "wd:id":"Q16329646"
     },
     "wof:country":"GR",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":101849181,
-    "wof:lastmodified":1563278077,
+    "wof:lastmodified":1566641513,
     "wof:name":"\u039c\u039f\u03a5\u0396\u0391\u039a\u0399\u039f\u039d",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

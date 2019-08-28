@@ -11,12 +11,16 @@
     "geom:longitude":23.940855,
     "gn:population":1903,
     "iso:country":"GR",
+    "lbl:bbox":"23.920855,40.018815,23.960855,40.058815",
     "lbl:latitude":40.038815,
     "lbl:longitude":23.940855,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.038815,
     "mps:longitude":23.940855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0643\u064a\u060c \u0647\u0627\u0644\u0643\u064a\u062f\u064a\u0643\u064a"
     ],
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Syki\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sik\u00e9a"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":734299,
         "gp:id":963102,
-        "qs:id":1030153,
+        "qs_pg:id":1030153,
         "wd:id":"Q695163"
     },
     "wof:country":"GR",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":101855147,
-    "wof:lastmodified":1563278168,
+    "wof:lastmodified":1566641551,
     "wof:name":"\u03a3\u03a5\u039a\u0395\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

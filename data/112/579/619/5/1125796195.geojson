@@ -9,15 +9,18 @@
     "geom:bbox":"26.84139,37.80222,26.84139,37.80222",
     "geom:latitude":37.80222,
     "geom:longitude":26.84139,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3,
-    "gn:population":91,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":3,
     "iso:country":"GR",
+    "lbl:bbox":"26.82139,37.78222,26.86139,37.82222",
     "lbl:latitude":37.80222,
     "lbl:longitude":26.84139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kampos"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Kampos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00e1mbos"
     ],
     "qs_pg:aaroncc":"GR",
@@ -65,7 +68,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56023368,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125796195,
-    "wof:lastmodified":1564225083,
+    "wof:lastmodified":1566642091,
     "wof:name":"Kampos",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

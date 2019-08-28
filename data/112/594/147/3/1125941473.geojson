@@ -9,15 +9,18 @@
     "geom:bbox":"22.64611,40.83889,22.64611,40.83889",
     "geom:latitude":40.83889,
     "geom:longitude":22.64611,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":635,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":635,
     "iso:country":"GR",
+    "lbl:bbox":"22.62611,40.81889,22.66611,40.85889",
     "lbl:latitude":40.83889,
     "lbl:longitude":22.64611,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u0445\u043b\u043e\u0432\u043e"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Akrop\u00f3tamos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yahal\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":945219,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125941473,
-    "wof:lastmodified":1563278261,
+    "wof:lastmodified":1566641618,
     "wof:name":"Akropotamos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

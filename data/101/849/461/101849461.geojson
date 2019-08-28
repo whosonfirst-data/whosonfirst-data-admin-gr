@@ -11,12 +11,16 @@
     "geom:longitude":23.942152,
     "gn:population":2009,
     "iso:country":"GR",
+    "lbl:bbox":"23.922152,37.983559,23.962152,38.023559",
     "lbl:latitude":38.003559,
     "lbl:longitude":23.942152,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.003559,
     "mps:longitude":23.942152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u064a\u0631\u0645\u064a"
     ],
@@ -67,9 +71,7 @@
         "Pikermi"
     ],
     "name:und_x_variant":[
-        "\u03a0\u0399\u039a\u0395\u03a1\u039c\u0399"
-    ],
-    "name:unk_x_variant":[
+        "\u03a0\u0399\u039a\u0395\u03a1\u039c\u0399",
         "K\u00e1to Pik\u00e9rmi"
     ],
     "qs:a0":"Greece",
@@ -91,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.0,
     "wd:longitude":23.933333,
@@ -106,7 +108,6 @@
         "fct:id":"11513c82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":255319,
         "gp:id":959905,
-        "qs:id":123783,
         "qs_pg:id":123783,
         "wd:id":"Q2277358",
         "wk:page":"Pikermi"
@@ -125,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278112,
+    "wof:lastmodified":1566641527,
     "wof:name":"\u03a0\u0399\u039a\u0395\u03a1\u039c\u0399\u039f\u039d",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

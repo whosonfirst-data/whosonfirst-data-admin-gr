@@ -11,12 +11,16 @@
     "geom:longitude":22.741043,
     "gn:population":3044,
     "iso:country":"GR",
+    "lbl:bbox":"22.721043,39.361619,22.761043,39.401619",
     "lbl:latitude":39.381619,
     "lbl:longitude":22.741043,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.381619,
     "mps:longitude":22.741043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0633\u062a\u064a\u0646\u0648"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Velest\u00edno"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velestina"
     ],
     "qs:a0":"Greece",
@@ -83,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.3817,
     "wd:longitude":22.745,
@@ -97,7 +101,6 @@
     "wof:concordances":{
         "gn:id":252074,
         "gp:id":966033,
-        "qs:id":75097,
         "qs_pg:id":75097,
         "wd:id":"Q7918899",
         "wk:page":"Velestino"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101849133,
-    "wof:lastmodified":1563278038,
+    "wof:lastmodified":1566641497,
     "wof:name":"\u0392\u0395\u039b\u0395\u03a3\u03a4\u0399\u039d\u039f\u039d",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

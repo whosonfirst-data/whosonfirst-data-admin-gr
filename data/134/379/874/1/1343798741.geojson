@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.82437,36.87966,22.86437,36.91966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039d\u03b9\u03ac\u03c4\u03b1"
     ],
@@ -43,9 +47,6 @@
         "Niata"
     ],
     "name:nno_x_preferred":[
-        "Ni\u00e1ta"
-    ],
-    "name:und_x_variant":[
         "Ni\u00e1ta"
     ],
     "src:geom":"geonames",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1343798741,
-    "wof:lastmodified":1564223207,
+    "wof:lastmodified":1566640639,
     "wof:name":"Niata",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

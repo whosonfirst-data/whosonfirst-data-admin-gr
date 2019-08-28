@@ -13,6 +13,8 @@
     "iso:country":"GR",
     "lbl:latitude":36.437235,
     "lbl:longitude":28.218122,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":36.437235,
     "mps:longitude":28.218122,
     "mz:hierarchy_label":1,
@@ -216,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0434\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00f3dhos"
     ],
     "name:urd_x_preferred":[
@@ -340,7 +342,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":36.433333,
     "wd:longitude":28.216667,
@@ -354,7 +356,6 @@
     "wof:concordances":{
         "gn:id":400666,
         "gp:id":91672403,
-        "qs:id":206561,
         "qs_pg:id":206561,
         "wd:id":"Q188731",
         "wk:page":"Rhodes (city)"
@@ -370,7 +371,7 @@
         }
     ],
     "wof:id":101752345,
-    "wof:lastmodified":1563277847,
+    "wof:lastmodified":1566641414,
     "wof:name":"\u03a1\u039f\u0394\u039f\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

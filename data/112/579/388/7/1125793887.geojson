@@ -9,20 +9,23 @@
     "geom:bbox":"19.79167,39.70778,19.79167,39.70778",
     "geom:latitude":39.70778,
     "geom:longitude":19.79167,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":837,
-    "gn:population":946,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":837,
     "iso:country":"GR",
+    "lbl:bbox":"19.77167,39.68778,19.81167,39.72778",
     "lbl:latitude":39.70778,
     "lbl:longitude":19.79167,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0386\u03bd\u03c9 \u039a\u03bf\u03c1\u03b1\u03ba\u03b9\u03ac\u03bd\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c1no Koraki\u00e1na"
     ],
     "qs_pg:aaroncc":"GR",
@@ -46,7 +49,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":945939,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125793887,
-    "wof:lastmodified":1509392491,
+    "wof:lastmodified":1566642099,
     "wof:name":"Ano Korakiana",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

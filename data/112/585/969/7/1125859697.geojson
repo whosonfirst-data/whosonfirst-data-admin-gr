@@ -9,15 +9,18 @@
     "geom:bbox":"21.86722,39.43833,21.86722,39.43833",
     "geom:latitude":39.43833,
     "geom:longitude":21.86722,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":501,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":501,
     "iso:country":"GR",
+    "lbl:bbox":"21.84722,39.41833,21.88722,39.45833",
     "lbl:latitude":39.43833,
     "lbl:longitude":21.86722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a1\u03b9\u03b6\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u03a1\u03b9\u03b6\u03bf\u03b2\u03bf\u03cd\u03bd\u03b9\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riz\u00e1va"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":961230,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125859697,
-    "wof:lastmodified":1509396510,
+    "wof:lastmodified":1566642059,
     "wof:name":"Rizovounion",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

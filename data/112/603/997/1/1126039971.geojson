@@ -9,20 +9,23 @@
     "geom:bbox":"22.98333,38.25,22.98333,38.25",
     "geom:latitude":38.25,
     "geom:longitude":22.98333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1138,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1138,
     "iso:country":"GR",
+    "lbl:bbox":"22.96333,38.23,23.00333,38.27",
     "lbl:latitude":38.25,
     "lbl:longitude":22.98333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0394\u03bf\u03bc\u03b2\u03c1\u03b1\u03af\u03bd\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhomvra\u00edna"
     ],
     "qs_pg:aaroncc":"GR",
@@ -44,7 +47,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":954071,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126039971,
-    "wof:lastmodified":1509408448,
+    "wof:lastmodified":1566641765,
     "wof:name":"Korini",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

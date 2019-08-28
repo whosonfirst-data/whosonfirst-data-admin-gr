@@ -11,12 +11,16 @@
     "geom:longitude":20.926625,
     "gn:population":1111,
     "iso:country":"GR",
+    "lbl:bbox":"20.906625,39.066307,20.946625,39.106307",
     "lbl:latitude":39.086307,
     "lbl:longitude":20.926625,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.086307,
     "mps:longitude":20.926625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u064a\u0632\u0627\u060c \u0623\u0631\u062a\u0627"
     ],
@@ -47,9 +51,6 @@
     "name:swe_x_preferred":[
         "An\u00e9za"
     ],
-    "name:unk_x_variant":[
-        "An\u00e9za"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0397\u03a0\u0395\u0399\u03a1\u039f\u03a3",
     "qs:a1_alt":"HPEIROS",
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":265028,
         "gp:id":945724,
-        "qs:id":186364,
+        "qs_pg:id":186364,
         "wd:id":"Q7348453"
     },
     "wof:country":"GR",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":101849219,
-    "wof:lastmodified":1563278049,
+    "wof:lastmodified":1566641502,
     "wof:name":"\u0391\u039d\u0395\u0396\u0391",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

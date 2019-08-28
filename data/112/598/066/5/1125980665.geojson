@@ -9,15 +9,18 @@
     "geom:bbox":"23.03571,40.74418,23.03571,40.74418",
     "geom:latitude":40.74418,
     "geom:longitude":23.03571,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":841,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":841,
     "iso:country":"GR",
+    "lbl:bbox":"23.01571,40.72418,23.05571,40.76418",
     "lbl:latitude":40.74418,
     "lbl:longitude":23.03571,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Perivol\u00e1kion"
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Perivol\u00e1kion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perivol\u00e1ki"
     ],
     "qs_pg:aaroncc":"GR",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":959639,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125980665,
-    "wof:lastmodified":1563278843,
+    "wof:lastmodified":1566641953,
     "wof:name":"Perivolakion",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

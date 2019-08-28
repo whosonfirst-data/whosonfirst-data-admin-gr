@@ -11,12 +11,16 @@
     "geom:longitude":21.995854,
     "gn:population":3390,
     "iso:country":"GR",
+    "lbl:bbox":"21.975854,40.16449,22.015854,40.20449",
     "lbl:latitude":40.18449,
     "lbl:longitude":21.995854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.18449,
     "mps:longitude":21.995854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0641\u064a\u0627"
     ],
@@ -86,7 +90,7 @@
     "name:tur_x_preferred":[
         "Serfi\u00e7e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selfije"
     ],
     "qs:a0":"Greece",
@@ -109,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.197222,
     "wd:longitude":22.013889,
@@ -123,7 +127,6 @@
     "wof:concordances":{
         "gn:id":734328,
         "gp:id":961713,
-        "qs:id":129030,
         "qs_pg:id":129030,
         "wd:id":"Q1711138",
         "wk:page":"Servia, Greece"
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101855091,
-    "wof:lastmodified":1563278139,
+    "wof:lastmodified":1566641538,
     "wof:name":"\u03a3\u0395\u03a1\u0392\u0399\u0391",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

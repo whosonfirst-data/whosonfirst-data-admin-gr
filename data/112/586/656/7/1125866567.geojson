@@ -9,15 +9,18 @@
     "geom:bbox":"23.91667,40.38333,23.91667,40.38333",
     "geom:latitude":40.38333,
     "geom:longitude":23.91667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1153,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"23.89667,40.36333,23.93667,40.40333",
     "lbl:latitude":40.38333,
     "lbl:longitude":23.91667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627 \u0631\u0648\u062f\u0627"
@@ -56,7 +59,7 @@
     "name:swe_x_preferred":[
         "N\u00e9a R\u00f3da"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00f3vlax"
     ],
     "qs_pg:aaroncc":"GR",
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957983,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125866567,
-    "wof:lastmodified":1563278539,
+    "wof:lastmodified":1566641788,
     "wof:name":"Nea Rodha",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

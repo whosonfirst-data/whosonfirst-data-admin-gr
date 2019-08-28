@@ -9,14 +9,18 @@
     "geom:bbox":"24.99196,35.21584,24.99196,35.21584",
     "geom:latitude":35.21584,
     "geom:longitude":24.99196,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"ADMD",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"ADMD",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"24.89196,35.11584,25.09196,35.31584",
     "lbl:latitude":35.21584,
     "lbl:longitude":24.99196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "Kr\u00edti"
@@ -24,7 +28,7 @@
     "name:ell_x_variant":[
         "\u039a\u03c1\u03ae\u03c4\u03b7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2"
     ],
     "qs_pg:aaroncc":"GR",
@@ -39,7 +43,7 @@
     "qs_pg:qs_id":904455,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1125270457,
-    "wof:lastmodified":1509387007,
+    "wof:lastmodified":1566641828,
     "wof:name":"Apokentrom\u00e9ni Dio\u00edkisi Kr\u00edtis",
     "wof:parent_id":85684655,
     "wof:placetype":"localadmin",

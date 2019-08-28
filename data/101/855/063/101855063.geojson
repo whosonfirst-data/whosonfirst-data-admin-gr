@@ -10,12 +10,16 @@
     "geom:latitude":40.347527,
     "geom:longitude":21.828338,
     "iso:country":"GR",
+    "lbl:bbox":"21.808338,40.327527,21.848338,40.367527",
     "lbl:latitude":40.347527,
     "lbl:longitude":21.828338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.347527,
     "mps:longitude":21.828338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Dr\u00e9pano"
     ],
@@ -24,7 +28,7 @@
         "Dr\u00e9panon",
         "\u0394\u03c1\u03ad\u03c0\u03b1\u03bd\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karajil\u00e1r"
     ],
     "qs:a0":"Greece",
@@ -46,7 +50,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":101855063,
-    "wof:lastmodified":1544742809,
+    "wof:lastmodified":1566641539,
     "wof:name":"\u0394\u03a1\u0395\u03a0\u0391\u039d\u039f\u039d",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

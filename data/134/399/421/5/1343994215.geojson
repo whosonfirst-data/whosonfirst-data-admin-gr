@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"21.09472,39.40944,21.13472,39.44944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u0432\u0430\u0434\u0438\u044f"
     ],
@@ -69,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0432\u0430\u0434\u0456\u044f"
     ],
-    "name:und_x_variant":[
-        "Liv\u00e1dia"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1343994215,
-    "wof:lastmodified":1564223179,
+    "wof:lastmodified":1566640620,
     "wof:name":"Livadia",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

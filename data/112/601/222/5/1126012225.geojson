@@ -9,15 +9,18 @@
     "geom:bbox":"20.84028,40.18722,20.84028,40.18722",
     "geom:latitude":40.18722,
     "geom:longitude":20.84028,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":205,
-    "gn:population":79,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":205,
     "iso:country":"GR",
+    "lbl:bbox":"20.82028,40.16722,20.86028,40.20722",
     "lbl:latitude":40.18722,
     "lbl:longitude":20.84028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_historical":[
         "\u039a\u03b1\u03c3\u03c4\u03b1\u03bd\u03ad\u03b1"
@@ -35,7 +38,7 @@
     "name:eng_x_variant":[
         "Kastania"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kast\u00e1niani"
     ],
     "qs_pg:aaroncc":"GR",
@@ -50,7 +53,7 @@
     "qs_pg:qs_id":552954,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126012225,
-    "wof:lastmodified":1509406744,
+    "wof:lastmodified":1566641970,
     "wof:name":"Kastan\u00e9a",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

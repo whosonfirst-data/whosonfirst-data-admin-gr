@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":38.14304,
     "lbl:longitude":23.866949,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.14304,
     "mps:longitude":23.866949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u064a\u0648\u0633 \u0633\u062a\u064a\u0641\u0627\u0646\u0648\u0633"
     ],
@@ -81,11 +84,7 @@
         "Ayos Stefanos"
     ],
     "name:und_x_variant":[
-        "Agios Stefanos",
         "\u0391\u0393\u0399\u039f\u03a3 \u03a3\u03a4\u0395\u03a6\u0391\u039d\u039f\u03a3"
-    ],
-    "name:unk_x_variant":[
-        "\u00c1yios St\u00e9fanos"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -104,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.133333,
     "wd:longitude":23.85,
@@ -119,10 +118,12 @@
         "fct:id":"114f6970-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2463758,
         "gp:id":56023347,
-        "qs:id":211069,
-        "qs_pg:id":1013227,
+        "qs_pg:id":211069,
         "wd:id":"Q2698815",
         "wk:page":"Agios Stefanos, Attica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1013227
     },
     "wof:country":"GR",
     "wof:geomhash":"7886712d4de18246fa07f261b2bd75f7",
@@ -138,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277880,
+    "wof:lastmodified":1566641428,
     "wof:name":"\u0391\u0393\u0399\u039f\u03a3 \u03a3\u03a4\u0395\u03a6\u0391\u039d\u039f\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"23.0,40.72306,23.0,40.72306",
     "geom:latitude":40.72306,
     "geom:longitude":23.0,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2649,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2649,
     "iso:country":"GR",
+    "lbl:bbox":"22.98,40.70306,23.02,40.74306",
     "lbl:latitude":40.72306,
     "lbl:longitude":23.0,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a\u064a\u0646\u0627\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Lagyn\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La\u00efn\u00e1"
     ],
     "qs_pg:aaroncc":"GR",
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":83316,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125837147,
-    "wof:lastmodified":1563279187,
+    "wof:lastmodified":1566642150,
     "wof:name":"Lagyn\u00e1",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

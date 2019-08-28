@@ -11,12 +11,16 @@
     "geom:longitude":23.876461,
     "gn:population":3266,
     "iso:country":"GR",
+    "lbl:bbox":"23.856461,40.377285,23.896461,40.417285",
     "lbl:latitude":40.397285,
     "lbl:longitude":23.876461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.397285,
     "mps:longitude":23.876461,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u0435\u0440\u0438\u0441\u043e\u0441"
     ],
@@ -93,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u043d\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ieris\u00f3s"
     ],
     "qs:a0":"Greece",
@@ -114,7 +118,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":736130,
         "gp:id":950425,
-        "qs:id":129098,
+        "qs_pg:id":129098,
         "wd:id":"Q181109",
         "wk:page":"Akanthos (Greece)"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":101855107,
-    "wof:lastmodified":1563278151,
+    "wof:lastmodified":1566641544,
     "wof:name":"\u0399\u0395\u03a1\u0399\u03a3\u03a3\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

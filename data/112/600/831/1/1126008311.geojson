@@ -9,15 +9,18 @@
     "geom:bbox":"21.70389,39.31139,21.70389,39.31139",
     "geom:latitude":39.31139,
     "geom:longitude":21.70389,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":63,
-    "gn:population":54,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":63,
     "iso:country":"GR",
+    "lbl:bbox":"21.68389,39.29139,21.72389,39.33139",
     "lbl:latitude":39.31139,
     "lbl:longitude":21.70389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03cd\u03b2\u03b9\u03b1 \u03a6\u03c5\u03bb\u03b1\u03ba\u03c4\u03ae\u03c2"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Kalyvia Fylaktis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kal\u00edvia Filakt\u00eds"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":546776,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126008311,
-    "wof:lastmodified":1509406523,
+    "wof:lastmodified":1566641995,
     "wof:name":"Kal\u00fdvia Fylakt\u00eds",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

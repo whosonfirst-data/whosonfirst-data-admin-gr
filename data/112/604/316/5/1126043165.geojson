@@ -9,15 +9,18 @@
     "geom:bbox":"22.96857,36.75198,22.96857,36.75198",
     "geom:latitude":36.75198,
     "geom:longitude":22.96857,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":518,
-    "gn:population":458,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":518,
     "iso:country":"GR",
+    "lbl:bbox":"22.94857,36.73198,22.98857,36.77198",
     "lbl:latitude":36.75198,
     "lbl:longitude":22.96857,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03ba\u03b5\u03bb\u03ce\u03bd\u03b1"
@@ -31,9 +34,6 @@
     "name:eng_x_preferred":[
         "Angelona"
     ],
-    "name:unk_x_variant":[
-        "Angel\u00f3na"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -46,7 +46,7 @@
     "qs_pg:qs_id":546943,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126043165,
-    "wof:lastmodified":1509408678,
+    "wof:lastmodified":1566641758,
     "wof:name":"Agkel\u00f3na",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

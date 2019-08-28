@@ -9,15 +9,18 @@
     "geom:bbox":"23.96667,41.18333,23.96667,41.18333",
     "geom:latitude":41.18333,
     "geom:longitude":23.96667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4021,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
     "gn:population":4021,
     "iso:country":"GR",
+    "lbl:bbox":"23.86667,41.08333,24.06667,41.28333",
     "lbl:latitude":41.18333,
     "lbl:longitude":23.96667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0633\u0648\u062a\u0633\u0627\u0646\u064a"
@@ -73,7 +76,7 @@
     "name:tur_x_preferred":[
         "Pr\u00fcs\u00e7an"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pirs\u00f3polis"
     ],
     "qs_pg:aaroncc":"GR",
@@ -95,7 +98,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56558239,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1125307063,
-    "wof:lastmodified":1564224817,
+    "wof:lastmodified":1566641872,
     "wof:name":"Prosotsani",
     "wof:parent_id":85684701,
     "wof:placetype":"localadmin",

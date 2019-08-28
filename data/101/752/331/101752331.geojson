@@ -13,6 +13,8 @@
     "iso:country":"GR",
     "lbl:latitude":40.656485,
     "lbl:longitude":22.937343,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":40.656485,
     "mps:longitude":22.937343,
     "mz:hierarchy_label":1,
@@ -362,7 +364,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043d\u0456\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salon\u00edki"
     ],
     "name:urd_x_preferred":[
@@ -502,7 +504,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -517,7 +519,7 @@
         "gp:id":963291,
         "loc:id":"n80056641",
         "nyt:id":"82115818492667938711",
-        "qs:id":273820,
+        "qs_pg:id":273820,
         "wd:id":"Q17151"
     },
     "wof:country":"GR",
@@ -531,7 +533,7 @@
         }
     ],
     "wof:id":101752331,
-    "wof:lastmodified":1563277837,
+    "wof:lastmodified":1566641412,
     "wof:megacity":1,
     "wof:name":"\u0398\u0395\u03a3\u03a3\u0391\u039b\u039f\u039d\u0399\u039a\u0397",
     "wof:parent_id":85684637,

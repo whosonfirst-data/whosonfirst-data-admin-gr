@@ -9,14 +9,18 @@
     "geom:bbox":"25.27101,39.87486,25.27101,39.87486",
     "geom:latitude":39.87486,
     "geom:longitude":25.27101,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"25.25101,39.85486,25.29101,39.89486",
     "lbl:latitude":39.87486,
     "lbl:longitude":25.27101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0648\u062f\u0631\u0648\u0633"
@@ -69,9 +73,6 @@
     "name:tur_x_preferred":[
         "Mondros Liman\u0131"
     ],
-    "name:unk_x_variant":[
-        "Mudros"
-    ],
     "name:zho_x_preferred":[
         "\u7a46\u5179\u7f57\u65af"
     ],
@@ -96,7 +97,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957692,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Aegean",
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1125991969,
-    "wof:lastmodified":1561844034,
+    "wof:lastmodified":1566641886,
     "wof:name":"Moudhros",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

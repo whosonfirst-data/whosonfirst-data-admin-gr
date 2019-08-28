@@ -11,12 +11,16 @@
     "geom:longitude":21.087303,
     "gn:population":2150,
     "iso:country":"GR",
+    "lbl:bbox":"21.067303,39.083031,21.107303,39.123031",
     "lbl:latitude":39.103031,
     "lbl:longitude":21.087303,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.103031,
     "mps:longitude":21.087303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0628\u0648\u062a\u064a"
     ],
@@ -53,7 +57,7 @@
     "name:swe_x_preferred":[
         "Komp\u00f3ti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komb\u00f3tion"
     ],
     "qs:a0":"Greece",
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":249,
     "wof:belongsto":[
@@ -87,7 +91,6 @@
     "wof:concordances":{
         "gn:id":259452,
         "gp:id":56024842,
-        "qs:id":78021,
         "qs_pg:id":78021,
         "wd:id":"Q2277242",
         "wk:page":"Kompoti"
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101849217,
-    "wof:lastmodified":1563278050,
+    "wof:lastmodified":1566641502,
     "wof:name":"\u039a\u039f\u039c\u03a0\u039f\u03a4\u0399\u039f\u039d",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

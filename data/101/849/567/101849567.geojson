@@ -11,12 +11,16 @@
     "geom:longitude":21.76447,
     "gn:population":1018,
     "iso:country":"GR",
+    "lbl:bbox":"21.74447,38.309617,21.78447,38.349617",
     "lbl:latitude":38.329617,
     "lbl:longitude":21.76447,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.329617,
     "mps:longitude":21.76447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u064a\u0631\u064a\u0648"
     ],
@@ -83,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0456\u0440\u0456\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antirhion"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.333333,
     "wd:longitude":21.766667,
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":265067,
         "gp:id":945680,
-        "qs:id":909832,
+        "qs_pg:id":909832,
         "wd:id":"Q588198",
         "wk:page":"Antirrio"
     },
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":101849567,
-    "wof:lastmodified":1563278030,
+    "wof:lastmodified":1566641495,
     "wof:name":"\u0391\u039d\u03a4\u0399\u03a1\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

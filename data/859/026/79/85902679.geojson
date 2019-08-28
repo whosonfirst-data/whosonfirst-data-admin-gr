@@ -13,6 +13,7 @@
     "iso:country":"GR",
     "lbl:latitude":38.035723,
     "lbl:longitude":23.780396,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.042319,
     "mps:longitude":23.799161,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "Nea Alexandia"
     ],
     "name:eng_x_preferred":[
-        "N\u00e9a Alex\u00e1ndia"
-    ],
-    "name:unk_x_variant":[
         "N\u00e9a Alex\u00e1ndia"
     ],
     "qs:gn_adm0_cc":"GR",
@@ -61,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":957870,
-        "qs:id":1101538,
         "qs_pg:id":1101538
     },
     "wof:country":"GR",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606688,
+    "wof:lastmodified":1566640747,
     "wof:name":"N\u00e9a Alex\u00e1ndia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

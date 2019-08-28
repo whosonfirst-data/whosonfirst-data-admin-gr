@@ -11,12 +11,16 @@
     "geom:longitude":24.434107,
     "gn:population":1392,
     "iso:country":"GR",
+    "lbl:bbox":"24.414107,35.33321,24.454107,35.37321",
     "lbl:latitude":35.35321,
     "lbl:longitude":24.434107,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":35.35321,
     "mps:longitude":24.434107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u0633\u064a\u0628\u0648\u0628\u0648\u0644\u0648\u0646\u060c \u0631\u064a\u062b\u064a\u0645\u0646\u064a"
     ],
@@ -56,10 +60,7 @@
         "Atsip\u00f3poulon"
     ],
     "name:und_x_variant":[
-        "Atsipopoulo",
-        "\u0391\u03a4\u03a3\u0399\u03a0\u039f\u03a0\u039f\u03a5\u039b\u039f"
-    ],
-    "name:unk_x_variant":[
+        "\u0391\u03a4\u03a3\u0399\u03a0\u039f\u03a0\u039f\u03a5\u039b\u039f",
         "Atsot\u00f3poulon"
     ],
     "qs:a0":"Greece",
@@ -81,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +94,6 @@
         "fct:id":"114eb1ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":264359,
         "gp:id":946753,
-        "qs:id":771111,
         "qs_pg:id":771111,
         "wd:id":"Q757785"
     },
@@ -111,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277989,
+    "wof:lastmodified":1566641479,
     "wof:name":"\u0391\u03a4\u03a3\u0399\u03a0\u039f\u03a0\u039f\u03a5\u039b\u039f\u039d",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

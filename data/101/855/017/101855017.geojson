@@ -11,12 +11,16 @@
     "geom:longitude":22.489698,
     "gn:population":1835,
     "iso:country":"GR",
+    "lbl:bbox":"22.469698,39.78373,22.509698,39.82373",
     "lbl:latitude":39.80373,
     "lbl:longitude":22.489698,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.80373,
     "mps:longitude":22.489698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0631\u064a\u062e\u0648\u0631\u064a"
     ],
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Makrych\u00f3ri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makrikh\u00f3ri"
     ],
     "qs:a0":"Greece",
@@ -86,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.8,
     "wd:longitude":22.483333,
@@ -100,7 +104,6 @@
     "wof:concordances":{
         "gn:id":257948,
         "gp:id":91802463,
-        "qs:id":202274,
         "qs_pg:id":202274,
         "wd:id":"Q2463817",
         "wk:page":"Makrychori"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101855017,
-    "wof:lastmodified":1563278159,
+    "wof:lastmodified":1566641547,
     "wof:name":"\u039c\u0391\u039a\u03a1\u03a5\u03a7\u03a9\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

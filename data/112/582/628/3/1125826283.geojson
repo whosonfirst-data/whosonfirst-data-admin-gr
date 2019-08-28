@@ -9,15 +9,18 @@
     "geom:bbox":"20.88806,39.57806,20.88806,39.57806",
     "geom:latitude":39.57806,
     "geom:longitude":20.88806,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":92,
-    "gn:population":77,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":92,
     "iso:country":"GR",
+    "lbl:bbox":"20.86806,39.55806,20.90806,39.59806",
     "lbl:latitude":39.57806,
     "lbl:longitude":20.88806,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bb\u03c9\u03bd\u03b9\u03ac\u03c4\u03b9"
@@ -28,7 +31,7 @@
     "name:eng_x_preferred":[
         "Koloniati"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koloni\u00e1tes"
     ],
     "qs_pg:aaroncc":"GR",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":546692,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125826283,
-    "wof:lastmodified":1509394416,
+    "wof:lastmodified":1566642005,
     "wof:name":"Koloni\u00e1tion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

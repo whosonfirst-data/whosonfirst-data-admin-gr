@@ -11,12 +11,16 @@
     "geom:longitude":25.377495,
     "gn:population":7070,
     "iso:country":"GR",
+    "lbl:bbox":"25.357495,37.08469,25.397495,37.12469",
     "lbl:latitude":37.10469,
     "lbl:longitude":25.377495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.10469,
     "mps:longitude":25.377495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Naxos"
     ],
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0441\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e1xia"
     ],
     "name:zho_x_preferred":[
@@ -116,7 +120,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.101994,
     "wd:longitude":25.376194,
@@ -130,7 +134,6 @@
     "wof:concordances":{
         "gn:id":256632,
         "gp:id":957865,
-        "qs:id":460287,
         "qs_pg:id":460287,
         "wd:id":"Q530644",
         "wk:page":"Naxos (city)"
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101848261,
-    "wof:lastmodified":1563277989,
+    "wof:lastmodified":1566641478,
     "wof:name":"\u039d\u0391\u039e\u039f\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"21.68972,39.71111,21.68972,39.71111",
     "geom:latitude":39.71111,
     "geom:longitude":21.68972,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":579,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":579,
     "iso:country":"GR",
+    "lbl:bbox":"21.66972,39.69111,21.70972,39.73111",
     "lbl:latitude":39.71111,
     "lbl:longitude":21.68972,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Avra"
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Avra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f3prena"
     ],
     "qs_pg:aaroncc":"GR",
@@ -56,7 +59,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":946817,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126020121,
-    "wof:lastmodified":1564224581,
+    "wof:lastmodified":1566641679,
     "wof:name":"Avra",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

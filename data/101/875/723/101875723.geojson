@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":37.448734,
     "lbl:longitude":24.923696,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.448734,
     "mps:longitude":24.923696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0648 \u0633\u064a\u0631\u0648\u0633"
     ],
@@ -78,7 +81,7 @@
     "name:tur_x_preferred":[
         "Ano Siros"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00edros"
     ],
     "qs:a0":"Greece",
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":373,
     "wof:belongsto":[
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":264839,
         "gp:id":963105,
-        "qs:id":203510,
-        "qs_pg:id":295933,
+        "qs_pg:id":203510,
         "wd:id":"Q1801890",
         "wk:page":"Ano Syros"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":295933
     },
     "wof:country":"GR",
     "wof:geomhash":"982759fee1d6fc3d6da7c8f39403cfb8",
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101875723,
-    "wof:lastmodified":1563277871,
+    "wof:lastmodified":1566641425,
     "wof:name":"\u0391\u039d\u03a9 \u03a3\u03a5\u03a1\u039f\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":24.303719,
     "gn:population":3514,
     "iso:country":"GR",
+    "lbl:bbox":"24.283719,40.81968,24.323719,40.85968",
     "lbl:latitude":40.83968,
     "lbl:longitude":24.303719,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.83968,
     "mps:longitude":24.303719,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a \u0628\u064a\u0631\u0627\u0645\u0648\u0633"
     ],
@@ -106,9 +110,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0432\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "N\u00e9a P\u00e9ramos"
-    ],
     "name:zho_x_preferred":[
         "\u5361\u74e6\u62c9"
     ],
@@ -131,7 +132,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.838889,
     "wd:longitude":24.303611,
@@ -145,10 +146,12 @@
     "wof:concordances":{
         "gn:id":735861,
         "gp:id":957973,
-        "qs:id":83306,
-        "qs_pg:id":349890,
+        "qs_pg:id":83306,
         "wd:id":"Q3555810",
         "wk:page":"Nea Peramos, Kavala"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":349890
     },
     "wof:country":"GR",
     "wof:geomhash":"52f7512bc189048c1f3dea6ffbe27102",
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101857585,
-    "wof:lastmodified":1563277944,
+    "wof:lastmodified":1566641459,
     "wof:name":"\u039d\u0395\u0391 \u03a0\u0395\u03a1\u0391\u039c\u039f\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

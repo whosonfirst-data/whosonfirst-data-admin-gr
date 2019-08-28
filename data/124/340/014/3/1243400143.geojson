@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"25.26143,35.07407,25.30143,35.11407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0645\u062d\u062f\u0648\u0629"
     ],
@@ -56,8 +60,7 @@
         "\u0e42\u0e2b\u0e19\u0e01\u0e17\u0e49\u0e32\u0e22\u0e17\u0e2d\u0e22"
     ],
     "name:und_x_variant":[
-        "\u00cdni",
-        "\u00cdnion"
+        "\u00cdni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1243400143,
-    "wof:lastmodified":1564225270,
+    "wof:lastmodified":1566642235,
     "wof:name":"Inion",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"20.43139,38.20194,20.43139,38.20194",
     "geom:latitude":38.20194,
     "geom:longitude":20.43139,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3758,
-    "gn:population":3752,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":3758,
     "iso:country":"GR",
+    "lbl:bbox":"20.41139,38.18194,20.45139,38.22194",
     "lbl:latitude":38.20194,
     "lbl:longitude":20.43139,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u0643\u0633\u0648\u0631\u064a"
@@ -91,7 +94,7 @@
     "name:swe_x_preferred":[
         "Lixo\u00fari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lixuri"
     ],
     "qs_pg:aaroncc":"GR",
@@ -111,7 +114,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":955627,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1126054407,
-    "wof:lastmodified":1563278387,
+    "wof:lastmodified":1566641693,
     "wof:name":"Lixourion",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

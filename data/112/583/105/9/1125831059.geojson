@@ -9,15 +9,18 @@
     "geom:bbox":"22.66667,38.58333,22.66667,38.58333",
     "geom:latitude":38.58333,
     "geom:longitude":22.66667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":865,
-    "gn:population":630,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":865,
     "iso:country":"GR",
+    "lbl:bbox":"22.64667,38.56333,22.68667,38.60333",
     "lbl:latitude":38.58333,
     "lbl:longitude":22.66667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u064a\u062b\u0648\u0631\u064a\u0627"
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Tithor\u00e9a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vel\u00edtsa"
     ],
     "qs_pg:aaroncc":"GR",
@@ -87,7 +90,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":963403,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125831059,
-    "wof:lastmodified":1563279167,
+    "wof:lastmodified":1566642137,
     "wof:name":"Tithorea",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

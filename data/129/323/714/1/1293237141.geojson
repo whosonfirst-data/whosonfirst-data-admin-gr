@@ -25,8 +25,12 @@
     "gn:population":77,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"21.68916,38.91678,21.72916,38.95678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03b5\u03c3\u03bc\u03ad\u03bd\u03bf"
     ],
@@ -34,9 +38,6 @@
         "\u039a\u03b1\u03bb\u03b5\u03c3\u03bc\u03ad\u03bd\u03bf \u0395\u03c5\u03c1\u03c5\u03c4\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Kalesmeno"
-    ],
-    "name:und_x_variant":[
         "Kalesmeno"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1293237141,
-    "wof:lastmodified":1564223443,
+    "wof:lastmodified":1566640834,
     "wof:name":"Kalesmenon",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

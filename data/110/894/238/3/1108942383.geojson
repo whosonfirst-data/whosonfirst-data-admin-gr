@@ -10,8 +10,10 @@
     "geom:latitude":37.960247,
     "geom:longitude":23.742384,
     "iso:country":"GR",
+    "lbl:bbox":"23.7373838385,37.9552466578,23.7473838385,37.9652466578",
     "lbl:latitude":37.960247,
     "lbl:longitude":23.742384,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03c1\u03c4\u03ad\u03bc\u03b9\u03bf\u03c2"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":1108942383,
-    "wof:lastmodified":1538606683,
+    "wof:lastmodified":1566641254,
     "wof:name":"Agios Artemios",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

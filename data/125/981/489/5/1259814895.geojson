@@ -25,8 +25,12 @@
     "gn:population":3,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.97401,36.63081,23.01401,36.67081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a\u0641\u0633"
     ],
@@ -60,9 +64,6 @@
     "name:por_x_preferred":[
         "Kalives"
     ],
-    "name:und_x_variant":[
-        "Kalives"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1259814895,
-    "wof:lastmodified":1564225492,
+    "wof:lastmodified":1566642372,
     "wof:name":"Kalyves",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

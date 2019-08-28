@@ -9,15 +9,18 @@
     "geom:bbox":"19.73861,39.76333,19.73861,39.76333",
     "geom:latitude":39.76333,
     "geom:longitude":19.73861,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":375,
-    "gn:population":180,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":375,
     "iso:country":"GR",
+    "lbl:bbox":"19.71861,39.74333,19.75861,39.78333",
     "lbl:latitude":39.76333,
     "lbl:longitude":19.73861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03c1\u03b1\u03c6\u03bf\u03af"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Agrafoi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aqrafi"
     ],
     "qs_pg:aaroncc":"GR",
@@ -47,7 +50,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":944982,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125863457,
-    "wof:lastmodified":1509396799,
+    "wof:lastmodified":1566641801,
     "wof:name":"Agrafoi",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"24.69091,35.41815,24.69091,35.41815",
     "geom:latitude":35.41815,
     "geom:longitude":24.69091,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1157,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1157,
     "iso:country":"GR",
+    "lbl:bbox":"24.67091,35.39815,24.71091,35.43815",
     "lbl:latitude":35.41815,
     "lbl:longitude":24.69091,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03bd\u03bf\u03c1\u03bc\u03bf\u03c2"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u03a0\u03ac\u03bd\u03bf\u03c1\u03bc\u03bf \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kast\u00e9lli Milopot\u00e1mou"
     ],
     "qs_pg:aaroncc":"GR",
@@ -49,7 +52,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":959172,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1126009751,
-    "wof:lastmodified":1509406600,
+    "wof:lastmodified":1566642001,
     "wof:name":"Panormon",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

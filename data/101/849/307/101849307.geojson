@@ -11,12 +11,16 @@
     "geom:longitude":22.712459,
     "gn:population":2753,
     "iso:country":"GR",
+    "lbl:bbox":"22.692459,38.588582,22.732459,38.628582",
     "lbl:latitude":38.608582,
     "lbl:longitude":22.712459,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.608582,
     "mps:longitude":22.712459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u062a\u0648 \u062a\u064a\u062b\u0648\u0631\u064a"
     ],
@@ -53,7 +57,7 @@
     "name:swe_x_preferred":[
         "K\u00e1to Tithor\u00e9a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kifisokh\u00f3ri"
     ],
     "qs:a0":"Greece",
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.6,
     "wd:longitude":22.716667,
@@ -90,7 +94,6 @@
     "wof:concordances":{
         "gn:id":260473,
         "gp:id":952445,
-        "qs:id":871317,
         "qs_pg:id":871317,
         "wd:id":"Q3563975",
         "wk:page":"Kato Tithorea"
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101849307,
-    "wof:lastmodified":1563278028,
+    "wof:lastmodified":1566641494,
     "wof:name":"\u039a\u0391\u03a4\u03a9 \u03a4\u0399\u0398\u039f\u03a1\u0395\u0391",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

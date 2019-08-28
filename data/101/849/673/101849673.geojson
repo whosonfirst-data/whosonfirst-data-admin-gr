@@ -11,12 +11,16 @@
     "geom:longitude":22.662962,
     "gn:population":3853,
     "iso:country":"GR",
+    "lbl:bbox":"22.642962,37.800762,22.682962,37.840762",
     "lbl:latitude":37.820762,
     "lbl:longitude":22.662962,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.820762,
     "mps:longitude":22.662962,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nem\u00e9a"
     ],
@@ -66,7 +70,7 @@
     "name:spa_x_variant":[
         "Nemea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c1yios Ye\u00f3ryios"
     ],
     "qs:a0":"Greece",
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.816667,
     "wd:longitude":22.666667,
@@ -102,10 +106,12 @@
     "wof:concordances":{
         "gn:id":256558,
         "gp:id":958042,
-        "qs:id":1112994,
         "qs_pg:id":1101559,
         "wd:id":"Q15261586",
         "wk:page":"Nemea (town)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1112994
     },
     "wof:country":"GR",
     "wof:geomhash":"77e11d690c12eb2211390c9df21d4e44",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":101849673,
-    "wof:lastmodified":1563278050,
+    "wof:lastmodified":1566641502,
     "wof:name":"\u039d\u0395\u039c\u0395\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

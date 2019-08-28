@@ -9,15 +9,18 @@
     "geom:bbox":"20.51583,39.81167,20.51583,39.81167",
     "geom:latitude":39.81167,
     "geom:longitude":20.51583,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":36,
-    "gn:population":19,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":36,
     "iso:country":"GR",
+    "lbl:bbox":"20.49583,39.79167,20.53583,39.83167",
     "lbl:latitude":39.81167,
     "lbl:longitude":20.51583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039b\u03ac\u03b2\u03b4\u03b1\u03bd\u03b7"
@@ -52,7 +55,7 @@
     "name:sqi_x_preferred":[
         "Lavdani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00e1vdhani"
     ],
     "qs_pg:aaroncc":"GR",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":546641,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126042291,
-    "wof:lastmodified":1563278407,
+    "wof:lastmodified":1566641706,
     "wof:name":"L\u00e1vdani",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

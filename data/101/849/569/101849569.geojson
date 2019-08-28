@@ -11,12 +11,16 @@
     "geom:longitude":21.445459,
     "gn:population":2935,
     "iso:country":"GR",
+    "lbl:bbox":"21.425459,38.560291,21.465459,38.600291",
     "lbl:latitude":38.580291,
     "lbl:longitude":21.445459,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.580291,
     "mps:longitude":21.445459,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bd\u03b1\u03b9\u03c4\u03ce\u03bb\u03b9\u03bf\u03bd"
     ],
@@ -26,7 +30,7 @@
     "name:eng_x_preferred":[
         "Panaitolio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moustafo\u00fali"
     ],
     "qs:a0":"Greece",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":255945,
         "gp:id":55869536,
-        "qs:id":530372
+        "qs_pg:id":530372
     },
     "wof:country":"GR",
     "wof:geomhash":"d1e9fffa712fb97d6ef756bf8af0be1b",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101849569,
-    "wof:lastmodified":1544741013,
+    "wof:lastmodified":1566641494,
     "wof:name":"\u03a0\u0391\u039d\u0391\u0399\u03a4\u03a9\u039b\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

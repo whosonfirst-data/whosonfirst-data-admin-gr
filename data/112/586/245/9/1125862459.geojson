@@ -9,15 +9,18 @@
     "geom:bbox":"25.95031,38.57197,25.95031,38.57197",
     "geom:latitude":38.57197,
     "geom:longitude":25.95031,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":81,
-    "gn:population":34,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":81,
     "iso:country":"GR",
+    "lbl:bbox":"25.93031,38.55197,25.97031,38.59197",
     "lbl:latitude":38.57197,
     "lbl:longitude":25.95031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039b\u03b5\u03c0\u03c4\u03cc\u03c0\u03bf\u03b4\u03b1"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Leptopoda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lept\u00f3podha"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":955208,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125862459,
-    "wof:lastmodified":1538594921,
+    "wof:lastmodified":1566641785,
     "wof:name":"Leptopodha",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

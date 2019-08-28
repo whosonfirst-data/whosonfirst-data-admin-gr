@@ -11,12 +11,16 @@
     "geom:longitude":21.907528,
     "gn:population":1113,
     "iso:country":"GR",
+    "lbl:bbox":"21.887528,40.415341,21.927528,40.455341",
     "lbl:latitude":40.435341,
     "lbl:longitude":21.907528,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.435341,
     "mps:longitude":21.907528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043a\u0440\u0438\u043d\u0438"
     ],
@@ -44,7 +48,7 @@
     "name:swe_x_preferred":[
         "Akrin\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ine\u00f3va"
     ],
     "qs:a0":"Greece",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":736944,
         "gp:id":945207,
-        "qs:id":256128,
+        "qs_pg:id":256128,
         "wd:id":"Q3402684"
     },
     "wof:country":"GR",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101855049,
-    "wof:lastmodified":1563278137,
+    "wof:lastmodified":1566641538,
     "wof:name":"\u0391\u039a\u03a1\u0399\u039d\u0397",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

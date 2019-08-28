@@ -11,16 +11,20 @@
     "geom:longitude":26.518,
     "gn:population":1176,
     "iso:country":"GR",
+    "lbl:bbox":"26.498,39.114094,26.538,39.154094",
     "lbl:latitude":39.134094,
     "lbl:longitude":26.518,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.134094,
     "mps:longitude":26.518,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039c\u03cc\u03c1\u03b9\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Morea"
     ],
     "qs:a0":"Greece",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":256757,
         "gp:id":957663,
-        "qs:id":490746
+        "qs_pg:id":490746
     },
     "wof:country":"GR",
     "wof:geomhash":"bb1705fa5f9fb16f102a1197220f8e7f",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101849631,
-    "wof:lastmodified":1544741041,
+    "wof:lastmodified":1566641528,
     "wof:name":"\u039c\u039f\u03a1\u0399\u0391",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

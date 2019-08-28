@@ -11,12 +11,16 @@
     "geom:longitude":22.28908,
     "gn:population":10796,
     "iso:country":"GR",
+    "lbl:bbox":"22.26908,39.723396,22.30908,39.763396",
     "lbl:latitude":39.743396,
     "lbl:longitude":22.28908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.743396,
     "mps:longitude":22.28908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u0646\u0627\u0641\u0648\u0633"
     ],
@@ -80,7 +84,7 @@
     "name:tur_x_preferred":[
         "T\u0131rnova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u00edrnavos"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":965,
     "wof:belongsto":[
@@ -120,10 +124,12 @@
     "wof:concordances":{
         "gn:id":252848,
         "gp:id":963393,
-        "qs:id":1225890,
         "qs_pg:id":53497,
         "wd:id":"Q950532",
         "wk:page":"Tyrnavos"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1225890
     },
     "wof:country":"GR",
     "wof:geomhash":"c02fa99bbd48468bcd050a53ce01fa4e",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":101874221,
-    "wof:lastmodified":1563277850,
+    "wof:lastmodified":1566641415,
     "wof:name":"\u03a4\u03a5\u03a1\u039d\u0391\u0392\u039f\u03a3",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

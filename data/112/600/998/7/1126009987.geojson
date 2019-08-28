@@ -9,15 +9,18 @@
     "geom:bbox":"22.86861,40.81417,22.86861,40.81417",
     "geom:latitude":40.81417,
     "geom:longitude":22.86861,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":232,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":232,
     "iso:country":"GR",
+    "lbl:bbox":"22.84861,40.79417,22.88861,40.83417",
     "lbl:latitude":40.81417,
     "lbl:longitude":22.86861,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u043d\u0438 \u043c\u0430\u0445\u0430\u043b\u0430"
@@ -41,9 +44,6 @@
     "name:swe_x_preferred":[
         "Petrot\u00f3"
     ],
-    "name:unk_x_variant":[
-        "Petrot\u00f3"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -56,7 +56,7 @@
     "qs_pg:qs_id":554697,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1126009987,
-    "wof:lastmodified":1563278880,
+    "wof:lastmodified":1566641975,
     "wof:name":"Petrot\u00f3n",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

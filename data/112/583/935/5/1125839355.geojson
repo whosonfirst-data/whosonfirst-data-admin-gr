@@ -9,14 +9,18 @@
     "geom:bbox":"25.20547,37.57192,25.20547,37.57192",
     "geom:latitude":37.57192,
     "geom:longitude":25.20547,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"25.18547,37.55192,25.22547,37.59192",
     "lbl:latitude":37.57192,
     "lbl:longitude":25.20547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Pot\u00e1mi"
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Pot\u00e1mi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potami\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":960575,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Thessaly and Continental Greece",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1125839355,
-    "wof:lastmodified":1564225150,
+    "wof:lastmodified":1566642153,
     "wof:name":"Potami",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

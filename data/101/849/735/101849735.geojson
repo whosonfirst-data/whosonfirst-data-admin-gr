@@ -11,12 +11,16 @@
     "geom:longitude":23.883281,
     "gn:population":2008,
     "iso:country":"GR",
+    "lbl:bbox":"23.863281,38.418926,23.903281,38.458926",
     "lbl:latitude":38.438926,
     "lbl:longitude":23.883281,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.438926,
     "mps:longitude":23.883281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0393\u03c5\u03bc\u03bd\u03cc\u03bd"
     ],
@@ -26,7 +30,7 @@
     "name:eng_x_preferred":[
         "Gymno"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yimn\u00f3n"
     ],
     "qs:a0":"Greece",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":251317,
         "gp:id":965502,
-        "qs:id":424111
+        "qs_pg:id":424111
     },
     "wof:country":"GR",
     "wof:geomhash":"09602368cab46238dd7debd9fae2f34f",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101849735,
-    "wof:lastmodified":1544741092,
+    "wof:lastmodified":1566641518,
     "wof:name":"\u0393\u03a5\u039c\u039d\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

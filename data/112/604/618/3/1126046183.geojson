@@ -9,15 +9,18 @@
     "geom:bbox":"22.56556,41.06778,22.56556,41.06778",
     "geom:latitude":41.06778,
     "geom:longitude":22.56556,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":415,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":415,
     "iso:country":"GR",
+    "lbl:bbox":"22.54556,41.04778,22.58556,41.08778",
     "lbl:latitude":41.06778,
     "lbl:longitude":22.56556,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_historical":[
         "\u03a3\u03bc\u03cc\u03bb\u03b7"
@@ -29,7 +32,7 @@
         "\u039c\u03b9\u03ba\u03c1\u03cc\u03b4\u03b1\u03c3\u03bf\u03c2",
         "\u03a3\u03bc\u03cc\u03bb\u03b7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikr\u00f3n Dh\u00e1sos"
     ],
     "qs_pg:aaroncc":"GR",
@@ -44,7 +47,7 @@
     "qs_pg:qs_id":552881,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1126046183,
-    "wof:lastmodified":1509408868,
+    "wof:lastmodified":1566641711,
     "wof:name":"Mikr\u00f3n D\u00e1sos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"GR",
     "lbl:latitude":37.942921,
     "lbl:longitude":23.696063,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.948042,
     "mps:longitude":23.700491,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "Kallitheaathinas"
     ],
     "name:eng_x_preferred":[
-        "Kallith\u00e9aathinas"
-    ],
-    "name:unk_x_variant":[
         "Kallith\u00e9aathinas"
     ],
     "qs:gn_adm0_cc":"GR",
@@ -63,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -72,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":965852,
-        "qs:id":1079772,
         "qs_pg:id":1079772
     },
     "wof:country":"GR",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1538606686,
+    "wof:lastmodified":1566640742,
     "wof:name":"Kallith\u00e9aathinas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

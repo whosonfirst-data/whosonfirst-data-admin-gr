@@ -11,12 +11,16 @@
     "geom:longitude":23.613863,
     "gn:population":987,
     "iso:country":"GR",
+    "lbl:bbox":"23.593863,39.155899,23.633863,39.195899",
     "lbl:latitude":39.175899,
     "lbl:longitude":23.613863,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":39.175899,
     "mps:longitude":23.613863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u0648\u0633\u0627"
     ],
@@ -44,7 +48,7 @@
     "name:swe_x_preferred":[
         "Gl\u00f3ssa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plat\u00e1nia"
     ],
     "qs:a0":"Greece",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.183333,
     "wd:longitude":23.616667,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":262019,
         "gp:id":950046,
-        "qs:id":906117,
+        "qs_pg:id":906117,
         "wd:id":"Q3566812",
         "wk:page":"Glossa, Skopelos"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101849467,
-    "wof:lastmodified":1563278104,
+    "wof:lastmodified":1566641524,
     "wof:name":"\u0393\u039b\u03a9\u03a3\u03a3\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

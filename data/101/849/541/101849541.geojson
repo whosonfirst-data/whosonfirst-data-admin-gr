@@ -11,12 +11,16 @@
     "geom:longitude":21.297342,
     "gn:population":1220,
     "iso:country":"GR",
+    "lbl:bbox":"21.277342,38.547368,21.317342,38.587368",
     "lbl:latitude":38.567368,
     "lbl:longitude":21.297342,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.567368,
     "mps:longitude":21.297342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u062c\u0644\u0648\u0643\u0627\u0633\u062a\u0631\u0648\u0646\u060c \u0623\u064a\u062a\u0648\u0644\u064a\u0627 \u0643\u064a \u0623\u0643\u0627\u0631\u0646\u0627\u0646\u064a\u0627"
     ],
@@ -66,9 +70,6 @@
     "name:tur_x_preferred":[
         "Angelokastro"
     ],
-    "name:unk_x_variant":[
-        "Angel\u00f3kastro"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"DYTIKH ELLADA",
@@ -87,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":265013,
         "gp:id":945735,
-        "qs:id":1283696,
+        "qs_pg:id":1283696,
         "wd:id":"Q2466281"
     },
     "wof:country":"GR",
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":101849541,
-    "wof:lastmodified":1563278122,
+    "wof:lastmodified":1566641531,
     "wof:name":"\u0391\u0393\u0393\u0395\u039b\u039f\u039a\u0391\u03a3\u03a4\u03a1\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

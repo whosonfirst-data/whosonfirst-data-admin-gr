@@ -9,15 +9,18 @@
     "geom:bbox":"20.53056,39.2375,20.53056,39.2375",
     "geom:latitude":39.2375,
     "geom:longitude":20.53056,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":503,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":503,
     "iso:country":"GR",
+    "lbl:bbox":"20.51056,39.2175,20.55056,39.2575",
     "lbl:latitude":39.2375,
     "lbl:longitude":20.53056,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03c3\u03bf\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u039c\u03b5\u03c3\u03bf\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liko\u00fartsi"
     ],
     "qs_pg:aaroncc":"GR",
@@ -47,7 +50,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":956971,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126004475,
-    "wof:lastmodified":1509406342,
+    "wof:lastmodified":1566641979,
     "wof:name":"Mesopotamo",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

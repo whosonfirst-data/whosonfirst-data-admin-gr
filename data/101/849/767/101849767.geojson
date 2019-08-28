@@ -11,12 +11,16 @@
     "geom:longitude":23.091135,
     "gn:population":1293,
     "iso:country":"GR",
+    "lbl:bbox":"23.071135,38.930489,23.111135,38.970489",
     "lbl:latitude":38.950489,
     "lbl:longitude":23.091135,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.950489,
     "mps:longitude":23.091135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u064a\u0648\u064a"
     ],
@@ -68,9 +72,6 @@
     "name:tur_x_preferred":[
         "Oreoi"
     ],
-    "name:unk_x_variant":[
-        "Oreo\u00ed"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
     "qs:a1_alt":"STEREA ELLADA",
@@ -90,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":267,
     "wof:belongsto":[
@@ -102,7 +103,6 @@
     "wof:concordances":{
         "gn:id":256284,
         "gp:id":958537,
-        "qs:id":1207834,
         "qs_pg:id":1207834,
         "wd:id":"Q1227681",
         "wk:page":"Oreoi"
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":101849767,
-    "wof:lastmodified":1563278086,
+    "wof:lastmodified":1566641516,
     "wof:name":"\u03a9\u03a1\u0395\u039f\u0399",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

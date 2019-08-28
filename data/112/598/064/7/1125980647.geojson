@@ -9,15 +9,18 @@
     "geom:bbox":"20.69667,39.26417,20.69667,39.26417",
     "geom:latitude":39.26417,
     "geom:longitude":20.69667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":337,
-    "gn:population":172,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":337,
     "iso:country":"GR",
+    "lbl:bbox":"20.67667,39.24417,20.71667,39.28417",
     "lbl:latitude":39.26417,
     "lbl:longitude":20.69667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_historical":[
         "\u0396\u03b5\u03c1\u03bc\u03ae"
@@ -31,7 +34,7 @@
     "name:eng_x_preferred":[
         "Vrysoula"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zerm\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -51,7 +54,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56024291,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125980647,
-    "wof:lastmodified":1509404745,
+    "wof:lastmodified":1566641947,
     "wof:name":"Vrysopoula",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

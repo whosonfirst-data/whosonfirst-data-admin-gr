@@ -11,12 +11,16 @@
     "geom:longitude":25.162988,
     "gn:population":4573,
     "iso:country":"GR",
+    "lbl:bbox":"25.142988,37.518471,25.182988,37.558471",
     "lbl:latitude":37.538471,
     "lbl:longitude":25.162988,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.538471,
     "mps:longitude":25.162988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u00ednos"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043d\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint Nicholas"
     ],
     "qs:a0":"Greece",
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.5333,
     "wd:longitude":25.1667,
@@ -104,10 +108,12 @@
     "wof:concordances":{
         "gn:id":252854,
         "gp:id":963192,
-        "qs:id":1235081,
         "qs_pg:id":222182,
         "wd:id":"Q1231074",
         "wk:page":"Tinos (town)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1235081
     },
     "wof:country":"GR",
     "wof:geomhash":"e4df9ce28bc4a8e354ee4f5fb3eeefff",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101848353,
-    "wof:lastmodified":1563277979,
+    "wof:lastmodified":1566641474,
     "wof:name":"\u03a4\u0397\u039d\u039f\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":103,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.40636,37.73239,22.44636,37.77239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Al\u00e9a"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Boyi\u00e1ti",
-        "Boy\u00e1ti",
-        "Al\u00e9a"
+        "Boy\u00e1ti"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1259914863,
-    "wof:lastmodified":1564225393,
+    "wof:lastmodified":1566642308,
     "wof:name":"Alea",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

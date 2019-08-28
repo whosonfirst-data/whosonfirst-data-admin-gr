@@ -9,15 +9,18 @@
     "geom:bbox":"22.79889,41.16278,22.79889,41.16278",
     "geom:latitude":41.16278,
     "geom:longitude":22.79889,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1148,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1148,
     "iso:country":"GR",
+    "lbl:bbox":"22.77889,41.14278,22.81889,41.18278",
     "lbl:latitude":41.16278,
     "lbl:longitude":22.79889,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0631\u0648\u0633\u0627\u062a\u0648\u0646\u060c \u0643\u064a\u0644\u0643\u064a\u0633"
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Dros\u00e1to"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potar\u00f3s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -65,7 +68,7 @@
     "qs_pg:qs_id":552956,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126009499,
-    "wof:lastmodified":1563278899,
+    "wof:lastmodified":1566641987,
     "wof:name":"Dros\u00e1ton",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

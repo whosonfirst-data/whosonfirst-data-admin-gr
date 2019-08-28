@@ -9,15 +9,18 @@
     "geom:bbox":"22.02861,40.88194,22.02861,40.88194",
     "geom:latitude":40.88194,
     "geom:longitude":22.02861,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":228,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":228,
     "iso:country":"GR",
+    "lbl:bbox":"22.00861,40.86194,22.04861,40.90194",
     "lbl:latitude":40.88194,
     "lbl:longitude":22.02861,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u063a\u0631\u064a\u062a\u0627"
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00f3tsep"
     ],
     "name:zho_x_preferred":[
@@ -126,7 +129,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":956236,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1125973501,
-    "wof:lastmodified":1564224867,
+    "wof:lastmodified":1566641912,
     "wof:name":"Margarita",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

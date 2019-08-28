@@ -11,12 +11,16 @@
     "geom:longitude":22.869398,
     "gn:population":1141,
     "iso:country":"GR",
+    "lbl:bbox":"22.849398,38.008892,22.889398,38.048892",
     "lbl:latitude":38.028892,
     "lbl:longitude":22.869398,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.028892,
     "mps:longitude":22.869398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u0643\u0648\u0631\u0627"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0430\u0445\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perakh\u00f3ra"
     ],
     "qs:a0":"Greece",
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.031389,
     "wd:longitude":22.948611,
@@ -93,7 +97,6 @@
     "wof:concordances":{
         "gn:id":255594,
         "gp:id":56023720,
-        "qs:id":208231,
         "qs_pg:id":208231,
         "wd:id":"Q2973204",
         "wk:page":"Perachora"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101850205,
-    "wof:lastmodified":1563277952,
+    "wof:lastmodified":1566641462,
     "wof:name":"\u03a0\u0395\u03a1\u0391\u03a7\u03a9\u03a1\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

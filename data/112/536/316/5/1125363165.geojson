@@ -9,15 +9,18 @@
     "geom:bbox":"23.8,38.4,23.8,38.4",
     "geom:latitude":38.4,
     "geom:longitude":23.8,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":3217,
-    "gn:population":4166,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
+    "gn:population":3217,
     "iso:country":"GR",
+    "lbl:bbox":"23.7,38.3,23.9,38.5",
     "lbl:latitude":38.4,
     "lbl:longitude":23.8,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0631\u064a\u062a\u0631\u064a\u0627"
@@ -115,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0435\u0442\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9a Psar\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -143,7 +146,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56558164,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1125363165,
-    "wof:lastmodified":1564224894,
+    "wof:lastmodified":1566641929,
     "wof:name":"Eretria",
     "wof:parent_id":85684681,
     "wof:placetype":"localadmin",

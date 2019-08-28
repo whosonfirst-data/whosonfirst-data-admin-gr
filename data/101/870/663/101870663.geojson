@@ -10,13 +10,17 @@
     "geom:latitude":73.05446,
     "geom:longitude":-56.17117,
     "iso:country":"GR",
+    "lbl:bbox":"-56.19117,73.03446,-56.15117,73.07446",
     "lbl:latitude":73.05446,
     "lbl:longitude":-56.17117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":73.05446,
     "mps:longitude":-56.17117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tuvgss\u00e2q"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -35,14 +39,13 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3419107,
         "gp:id":28752645,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"GR",
     "wof:geomhash":"17433c3bde6ce2efc255b78bb194bd91",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101870663,
-    "wof:lastmodified":1544750754,
+    "wof:lastmodified":1566641472,
     "wof:name":"Tussaaq",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

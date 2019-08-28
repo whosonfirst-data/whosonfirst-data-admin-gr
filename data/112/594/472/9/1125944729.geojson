@@ -9,15 +9,18 @@
     "geom:bbox":"22.15667,41.05889,22.15667,41.05889",
     "geom:latitude":41.05889,
     "geom:longitude":22.15667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":361,
-    "gn:population":334,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":361,
     "iso:country":"GR",
+    "lbl:bbox":"22.13667,41.03889,22.17667,41.07889",
     "lbl:latitude":41.05889,
     "lbl:longitude":22.15667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_historical":[
         "\u0422\u0440\u044a\u0441\u0442\u0435\u043d\u0438\u043a"
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Thiri\u00f3petra"
     ],
-    "name:unk_x_variant":[
-        "Thiri\u00f3petra"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":963310,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125944729,
-    "wof:lastmodified":1563278251,
+    "wof:lastmodified":1566641612,
     "wof:name":"Thiriopetra",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

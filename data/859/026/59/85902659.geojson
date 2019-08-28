@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2699431.468116,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.726318,35.303669,25.726318,35.303669",
     "geom:latitude":35.303669,
     "geom:longitude":25.726318,
@@ -13,8 +13,10 @@
     "gn:longitude":25.71479,
     "gn:population":10,
     "iso:country":"GR",
+    "lbl:bbox":"25.721318,35.298669,25.731318,35.308669",
     "lbl:latitude":35.303669,
     "lbl:longitude":25.726318,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.301586,
     "mps:longitude":25.722452,
     "mz:hierarchy_label":0,
@@ -39,10 +41,6 @@
     "name:eng_x_variant":[
         "K\u00e1to Lo\u00fama",
         "Kato Loumas"
-    ],
-    "name:unk_x_variant":[
-        "K\u00e1to Lo\u00fama",
-        "K\u00e1to Lo\u00famas"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_fcode":"PPLX",
@@ -74,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +83,6 @@
     "wof:concordances":{
         "gn:id":260539,
         "gp:id":952297,
-        "qs:id":226122,
         "qs_pg:id":226122
     },
     "wof:country":"GR",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935920,
+    "wof:lastmodified":1566640743,
     "wof:name":"K\u00e1to Lo\u00famas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

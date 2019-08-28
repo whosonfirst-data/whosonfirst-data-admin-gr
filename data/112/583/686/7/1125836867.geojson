@@ -9,20 +9,23 @@
     "geom:bbox":"22.47083,40.55583,22.47083,40.55583",
     "geom:latitude":40.55583,
     "geom:longitude":22.47083,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1459,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1459,
     "iso:country":"GR",
+    "lbl:bbox":"22.45083,40.53583,22.49083,40.57583",
     "lbl:latitude":40.55583,
     "lbl:longitude":22.47083,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03ba\u03b1\u03b8\u03b9\u03ac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grij\u00e1li"
     ],
     "qs_pg:aaroncc":"GR",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":553004,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125836867,
-    "wof:lastmodified":1509395029,
+    "wof:lastmodified":1566642139,
     "wof:name":"Agkathi\u00e1",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

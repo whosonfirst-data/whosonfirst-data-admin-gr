@@ -25,8 +25,12 @@
     "gn:population":444,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.86289,38.61412,22.90289,38.65412",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kalap\u00f3dhion"
     ],
@@ -61,9 +65,6 @@
     "name:swe_x_preferred":[
         "Kalap\u00f3dhion"
     ],
-    "name:und_x_variant":[
-        "Kalap\u00f3dhion"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1327469615,
-    "wof:lastmodified":1564223056,
+    "wof:lastmodified":1566640534,
     "wof:name":"Kalapodi",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

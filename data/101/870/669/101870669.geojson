@@ -11,12 +11,16 @@
     "geom:longitude":-55.822492,
     "gn:population":57,
     "iso:country":"GR",
+    "lbl:bbox":"-55.842492,73.123071,-55.802492,73.163071",
     "lbl:latitude":73.143071,
     "lbl:longitude":-55.822492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":73.143071,
     "mps:longitude":-55.822492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Naajaat"
     ],
@@ -74,7 +78,7 @@
     "name:swe_x_preferred":[
         "Naajaat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nauj\u00e2t"
     ],
     "qs:a0":"Kalaallit Nunaat#Gr\u00f8nland",
@@ -93,16 +97,15 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3421812,
         "gp:id":28752645,
-        "qs:id":95521,
+        "qs_pg:id":95521,
         "wd:id":"Q1813347"
     },
     "wof:country":"GR",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101870669,
-    "wof:lastmodified":1561843996,
+    "wof:lastmodified":1566641472,
     "wof:name":"Naajaat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

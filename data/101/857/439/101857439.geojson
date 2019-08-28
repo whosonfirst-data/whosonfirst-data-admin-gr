@@ -11,12 +11,16 @@
     "geom:longitude":21.678677,
     "gn:population":3671,
     "iso:country":"GR",
+    "lbl:bbox":"21.658677,40.671391,21.698677,40.711391",
     "lbl:latitude":40.691391,
     "lbl:longitude":21.678677,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.691391,
     "mps:longitude":21.678677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0646\u062a\u0627\u064a\u0648"
     ],
@@ -102,7 +106,7 @@
     "name:tur_x_preferred":[
         "Sorovi\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00f3rovits"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +130,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":736882,
         "gp:id":56558348,
-        "qs:id":947139,
+        "qs_pg:id":947139,
         "wd:id":"Q482094"
     },
     "wof:country":"GR",
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":101857439,
-    "wof:lastmodified":1563277912,
+    "wof:lastmodified":1566641444,
     "wof:name":"\u0391\u039c\u03a5\u039d\u03a4\u0391\u0399\u039f\u039d",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

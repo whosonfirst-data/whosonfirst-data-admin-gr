@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.35134,37.01178,22.39134,37.05178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03b1\u03b2\u03c1\u03c5\u03c4\u03ae"
     ],
@@ -41,7 +45,6 @@
         "Anavriti"
     ],
     "name:und_x_variant":[
-        "Anavryti",
         "Anavrit\u00ed"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1210047787,
-    "wof:lastmodified":1564223979,
+    "wof:lastmodified":1566641166,
     "wof:name":"Anavriti",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

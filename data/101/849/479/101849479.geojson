@@ -11,12 +11,16 @@
     "geom:longitude":21.245144,
     "gn:population":8114,
     "iso:country":"GR",
+    "lbl:bbox":"21.225144,37.827668,21.265144,37.867668",
     "lbl:latitude":37.847668,
     "lbl:longitude":21.245144,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.847668,
     "mps:longitude":21.245144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0633\u062a\u0648\u0646\u064a"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Gasto\u00fani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gastuni"
     ],
     "qs:a0":"Greece",
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":213,
     "wof:belongsto":[
@@ -91,7 +95,6 @@
     "wof:concordances":{
         "gn:id":262098,
         "gp:id":949919,
-        "qs:id":347459,
         "qs_pg:id":347459,
         "wd:id":"Q2408463",
         "wk:page":"Gastouni"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101849479,
-    "wof:lastmodified":1563278049,
+    "wof:lastmodified":1566641502,
     "wof:name":"\u0393\u0391\u03a3\u03a4\u039f\u03a5\u039d\u0397",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

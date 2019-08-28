@@ -10,12 +10,16 @@
     "geom:latitude":40.273624,
     "geom:longitude":21.78088,
     "iso:country":"GR",
+    "lbl:bbox":"21.76088,40.253624,21.80088,40.293624",
     "lbl:latitude":40.273624,
     "lbl:longitude":21.78088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.273624,
     "mps:longitude":21.78088,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
     "qs:a1_alt":"DYTIKH MAKEDONIA",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":955300,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"GR",
     "wof:geomhash":"ccaef455d604e03c43b7c2a2189e3a3a",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101855073,
-    "wof:lastmodified":1544742815,
+    "wof:lastmodified":1566641546,
     "wof:name":"\u039b\u0395\u03a5\u039a\u039f\u0392\u03a1\u03a5\u03a3\u0397",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

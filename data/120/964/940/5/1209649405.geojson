@@ -25,8 +25,12 @@
     "gn:population":628,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.28361,39.55356,22.32361,39.59356",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b1"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Amarl\u00e1r",
-        "Koil\u00e1s",
-        "Koil\u00e1da"
+        "Koil\u00e1s"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1209649405,
-    "wof:lastmodified":1564223802,
+    "wof:lastmodified":1566641059,
     "wof:name":"Koilada",
     "wof:parent_id":85633171,
     "wof:placetype":"locality",

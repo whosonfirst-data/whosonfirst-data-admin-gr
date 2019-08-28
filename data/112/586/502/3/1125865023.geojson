@@ -9,15 +9,18 @@
     "geom:bbox":"22.60278,40.41639,22.60278,40.41639",
     "geom:latitude":40.41639,
     "geom:longitude":22.60278,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2009,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2009,
     "iso:country":"GR",
+    "lbl:bbox":"22.58278,40.39639,22.62278,40.43639",
     "lbl:latitude":40.41639,
     "lbl:longitude":22.60278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0631\u064a\u064a\u064a\u0627\u0644\u0648\u0633\u060c \u0628\u064a\u0631\u064a\u0627"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Makr\u00fdgialos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makr\u00edyialos"
     ],
     "qs_pg:aaroncc":"GR",
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":129066,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125865023,
-    "wof:lastmodified":1563278527,
+    "wof:lastmodified":1566641782,
     "wof:name":"Makr\u00fdgialos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

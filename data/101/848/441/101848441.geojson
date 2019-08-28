@@ -12,16 +12,20 @@
     "gn:elevation":713,
     "gn:population":2024,
     "iso:country":"GR",
+    "lbl:bbox":"25.262542,36.70353,25.302542,36.74353",
     "lbl:latitude":36.72353,
     "lbl:longitude":25.282542,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":36.72353,
     "mps:longitude":25.282542,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u038a\u03bf\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nio"
     ],
     "qs:a0":"Greece",
@@ -42,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":261772,
         "gp:id":24544324,
-        "qs:id":1200220
+        "qs_pg:id":1200220
     },
     "wof:country":"GR",
     "wof:geomhash":"b2506f2b66f1c79f71bb9a41db87601f",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101848441,
-    "wof:lastmodified":1544740450,
+    "wof:lastmodified":1566641478,
     "wof:name":"\u0399\u039f\u03a3",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

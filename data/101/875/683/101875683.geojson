@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":40.802563,
     "lbl:longitude":22.362715,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.802563,
     "mps:longitude":22.362715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0643\u0633\u0648\u0633\u060c \u0628\u064a\u0644\u0627"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Ax\u00f3s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eskij\u00e9"
     ],
     "qs:a0":"Greece",
@@ -65,7 +68,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":734819,
         "gp:id":55869714,
-        "qs:id":207629,
+        "qs_pg:id":207629,
         "wd:id":"Q3394707",
         "wk:page":"Axos"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101875683,
-    "wof:lastmodified":1563277884,
+    "wof:lastmodified":1566641431,
     "wof:name":"\u0391\u039e\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

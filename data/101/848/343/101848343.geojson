@@ -11,12 +11,16 @@
     "geom:longitude":21.705015,
     "gn:population":1165,
     "iso:country":"GR",
+    "lbl:bbox":"21.685015,36.798375,21.725015,36.838375",
     "lbl:latitude":36.818375,
     "lbl:longitude":21.705015,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":36.818375,
     "mps:longitude":21.705015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062b\u0648\u0646\u064a"
     ],
@@ -98,7 +102,7 @@
     "name:tur_x_preferred":[
         "Methone"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9on Elevtherokh\u00f3rion"
     ],
     "name:vec_x_preferred":[
@@ -123,7 +127,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":36.816667,
     "wd:longitude":21.733333,
@@ -137,10 +141,12 @@
     "wof:concordances":{
         "gn:id":735157,
         "gp:id":957051,
-        "qs:id":202162,
-        "qs_pg:id":1284698,
+        "qs_pg:id":202162,
         "wd:id":"Q998805",
         "wk:page":"Methoni, Messenia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1284698
     },
     "wof:country":"GR",
     "wof:geomhash":"79ef346cf70f4a50ba07cead1225df11",
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":101848343,
-    "wof:lastmodified":1563278028,
+    "wof:lastmodified":1566641493,
     "wof:name":"\u039c\u0395\u0398\u03a9\u039d\u0397",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

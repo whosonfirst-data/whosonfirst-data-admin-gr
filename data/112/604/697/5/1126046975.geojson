@@ -9,15 +9,18 @@
     "geom:bbox":"22.39222,40.34,22.39222,40.34",
     "geom:latitude":40.34,
     "geom:longitude":22.39222,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":255,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":255,
     "iso:country":"GR",
+    "lbl:bbox":"22.37222,40.32,22.41222,40.36",
     "lbl:latitude":40.34,
     "lbl:longitude":22.39222,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a4\u03cc\u03be\u03bf"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u03a4\u03cc\u03be\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ko\u00farsova"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":554699,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126046975,
-    "wof:lastmodified":1509408921,
+    "wof:lastmodified":1566641748,
     "wof:name":"T\u00f3xon",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

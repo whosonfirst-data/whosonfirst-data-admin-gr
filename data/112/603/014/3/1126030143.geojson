@@ -9,15 +9,18 @@
     "geom:bbox":"24.51,40.96167,24.51,40.96167",
     "geom:latitude":40.96167,
     "geom:longitude":24.51,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2380,
-    "gn:population":2160,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":2380,
     "iso:country":"GR",
+    "lbl:bbox":"24.49,40.94167,24.53,40.98167",
     "lbl:latitude":40.96167,
     "lbl:longitude":24.51,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u064a \u0643\u0627\u0631\u0641\u0627\u0644\u064a\u060c \u0643\u0627\u0641\u0627\u0644\u0627"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "N\u00e9a Karv\u00e1li"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsabran\u00e1s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957916,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126030143,
-    "wof:lastmodified":1563278499,
+    "wof:lastmodified":1566641767,
     "wof:name":"Nea Karvali",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

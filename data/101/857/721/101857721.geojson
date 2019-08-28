@@ -11,12 +11,16 @@
     "geom:longitude":23.975378,
     "gn:population":2072,
     "iso:country":"GR",
+    "lbl:bbox":"23.955378,40.900384,23.995378,40.940384",
     "lbl:latitude":40.920384,
     "lbl:longitude":23.975378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.920384,
     "mps:longitude":23.975378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u043e\u043b\u0438\u043e\u0432\u043e"
     ],
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Rodol\u00edvos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rodoleivos"
     ],
     "qs:a0":"Greece",
@@ -83,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":225,
     "wof:belongsto":[
@@ -95,7 +99,6 @@
     "wof:concordances":{
         "gn:id":734377,
         "gp:id":966127,
-        "qs:id":1026823,
         "qs_pg:id":1026823,
         "wd:id":"Q2016397",
         "wk:page":"Rodolivos"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101857721,
-    "wof:lastmodified":1563277945,
+    "wof:lastmodified":1566641459,
     "wof:name":"\u03a1\u039f\u0394\u039f\u039b\u0399\u0392\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

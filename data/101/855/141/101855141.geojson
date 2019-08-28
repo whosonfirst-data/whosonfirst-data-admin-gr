@@ -11,12 +11,16 @@
     "geom:longitude":23.978084,
     "gn:population":1156,
     "iso:country":"GR",
+    "lbl:bbox":"23.958084,40.07779,23.998084,40.11779",
     "lbl:latitude":40.09779,
     "lbl:longitude":23.978084,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.09779,
     "mps:longitude":23.978084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u062a\u064a"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "S\u00e1rti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9a Afissi\u00e1"
     ],
     "qs:a0":"Greece",
@@ -82,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.097222,
     "wd:longitude":23.979444,
@@ -97,7 +101,6 @@
     "wof:concordances":{
         "gn:id":734339,
         "gp:id":961581,
-        "qs:id":917289,
         "qs_pg:id":917289,
         "wd:id":"Q750762",
         "wk:page":"Sarti, Chalkidiki"
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101855141,
-    "wof:lastmodified":1563278165,
+    "wof:lastmodified":1566641550,
     "wof:name":"\u03a3\u0391\u03a1\u03a4\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

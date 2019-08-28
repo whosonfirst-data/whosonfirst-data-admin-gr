@@ -9,15 +9,18 @@
     "geom:bbox":"25.56667,35.31667,25.56667,35.31667",
     "geom:latitude":35.31667,
     "geom:longitude":25.56667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1259,
-    "gn:population":157,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1259,
     "iso:country":"GR",
+    "lbl:bbox":"25.54667,35.29667,25.58667,35.33667",
     "lbl:latitude":35.31667,
     "lbl:longitude":25.56667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u039c\u03b9\u03bb\u03ac\u03c4\u03bf\u03c5"
@@ -28,7 +31,7 @@
     "name:eng_x_preferred":[
         "Paralia Milatou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paral\u00eda Mil\u00e1tou"
     ],
     "qs_pg:aaroncc":"GR",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":244742,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1126006275,
-    "wof:lastmodified":1509406423,
+    "wof:lastmodified":1566641981,
     "wof:name":"An\u00e1lipsis",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

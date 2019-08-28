@@ -9,15 +9,18 @@
     "geom:bbox":"21.36056,39.54917,21.36056,39.54917",
     "geom:latitude":39.54917,
     "geom:longitude":21.36056,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":32,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":32,
     "iso:country":"GR",
+    "lbl:bbox":"21.34056,39.52917,21.38056,39.56917",
     "lbl:latitude":39.54917,
     "lbl:longitude":21.36056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u041d\u0438\u043a\u043e\u043b\u0430\u043e\u0441"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043e\u0441-\u041d\u0456\u043a\u043e\u043b\u0430\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Psikh\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56024294,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125909705,
-    "wof:lastmodified":1564224847,
+    "wof:lastmodified":1566641894,
     "wof:name":"Agios Nikolaos",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"24.53333,35.31667,24.53333,35.31667",
     "geom:latitude":35.31667,
     "geom:longitude":24.53333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":133,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"24.51333,35.29667,24.55333,35.33667",
     "lbl:latitude":35.31667,
     "lbl:longitude":24.53333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_colloquial":[
         "\u03a0\u03c1\u03b1\u03c3\u03ad\u03c2"
@@ -36,7 +39,7 @@
     "name:eng_x_preferred":[
         "Prasies"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pras\u00e9s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":960683,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125773391,
-    "wof:lastmodified":1509391122,
+    "wof:lastmodified":1566642116,
     "wof:name":"Prasiai",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

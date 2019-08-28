@@ -11,12 +11,16 @@
     "geom:longitude":24.039778,
     "gn:population":5184,
     "iso:country":"GR",
+    "lbl:bbox":"24.019778,38.390022,24.059778,38.430022",
     "lbl:latitude":38.410022,
     "lbl:longitude":24.039778,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.410022,
     "mps:longitude":24.039778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0641\u064a\u0631\u064a"
     ],
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Aliv\u00e9ri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aliv\u00e9rion"
     ],
     "qs:a0":"Greece",
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.408333,
     "wd:longitude":24.041667,
@@ -95,10 +99,12 @@
     "wof:concordances":{
         "gn:id":265309,
         "gp:id":966009,
-        "qs:id":203574,
-        "qs_pg:id":1198210,
+        "qs_pg:id":203574,
         "wd:id":"Q649852",
         "wk:page":"Aliveri"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1198210
     },
     "wof:country":"GR",
     "wof:geomhash":"67cb31b8b49ae1ae98db980e222203be",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101849727,
-    "wof:lastmodified":1563278128,
+    "wof:lastmodified":1566641533,
     "wof:name":"\u0391\u039b\u0399\u0392\u0395\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

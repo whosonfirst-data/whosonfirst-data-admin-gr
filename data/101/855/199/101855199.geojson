@@ -11,12 +11,16 @@
     "geom:longitude":21.180795,
     "gn:population":2503,
     "iso:country":"GR",
+    "lbl:bbox":"21.160795,39.74878,21.200795,39.78878",
     "lbl:latitude":39.76878,
     "lbl:longitude":21.180795,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.76878,
     "mps:longitude":21.180795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0633\u0648\u0641\u0648"
     ],
@@ -145,7 +149,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.770278,
     "wd:longitude":21.183889,
@@ -159,10 +163,12 @@
     "wof:concordances":{
         "gn:id":257083,
         "gp:id":966067,
-        "qs:id":1305619,
         "qs_pg:id":232409,
         "wd:id":"Q985630",
         "wk:page":"Metsovo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1305619
     },
     "wof:country":"GR",
     "wof:geomhash":"717f278bb1fa886b385803c5c47299c2",
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":101855199,
-    "wof:lastmodified":1563278154,
+    "wof:lastmodified":1566641545,
     "wof:name":"\u039c\u0395\u03a4\u03a3\u039f\u0392\u039f\u039d",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

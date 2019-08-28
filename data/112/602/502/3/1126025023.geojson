@@ -9,15 +9,18 @@
     "geom:bbox":"22.54472,40.89444,22.54472,40.89444",
     "geom:latitude":40.89444,
     "geom:longitude":22.54472,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2314,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2314,
     "iso:country":"GR",
+    "lbl:bbox":"22.52472,40.87444,22.56472,40.91444",
     "lbl:latitude":40.89444,
     "lbl:longitude":22.54472,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0641\u0631\u0648\u0628\u0648\u0633"
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Evrop\u00f3s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Asikl\u00e1r"
     ],
     "qs_pg:aaroncc":"GR",
@@ -86,7 +89,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":949343,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1126025023,
-    "wof:lastmodified":1563278361,
+    "wof:lastmodified":1566641677,
     "wof:name":"Evropos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

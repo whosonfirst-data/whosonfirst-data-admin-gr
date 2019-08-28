@@ -11,12 +11,16 @@
     "geom:longitude":20.485819,
     "gn:population":9820,
     "iso:country":"GR",
+    "lbl:bbox":"20.465819,38.158131,20.505819,38.198131",
     "lbl:latitude":38.178131,
     "lbl:longitude":20.485819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.178131,
     "mps:longitude":20.485819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u063a\u0648\u0633\u062a\u0648\u0644\u064a"
     ],
@@ -113,9 +117,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0433\u043e\u0441\u0442\u043e\u043b\u0456\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Argost\u00f3li"
-    ],
     "name:war_x_preferred":[
         "Argostoli"
     ],
@@ -141,7 +142,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":38.173889,
     "wd:longitude":20.488333,
@@ -156,10 +157,12 @@
     "wof:concordances":{
         "gn:id":264668,
         "gp:id":946364,
-        "qs:id":203402,
-        "qs_pg:id":1099809,
+        "qs_pg:id":203402,
         "wd:id":"Q643695",
         "wk:page":"Argostoli"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1099809
     },
     "wof:country":"GR",
     "wof:geomhash":"60669733b9b556892c6b8b3641ef1693",
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101849609,
-    "wof:lastmodified":1563278115,
+    "wof:lastmodified":1566641529,
     "wof:name":"\u0391\u03a1\u0393\u039f\u03a3\u03a4\u039f\u039b\u0399\u039f\u039d",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

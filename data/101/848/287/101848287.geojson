@@ -11,12 +11,16 @@
     "geom:longitude":24.768499,
     "gn:population":5285,
     "iso:country":"GR",
+    "lbl:bbox":"24.748499,35.051033,24.788499,35.091033",
     "lbl:latitude":35.071033,
     "lbl:longitude":24.768499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.071033,
     "mps:longitude":24.768499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u0628\u0627\u0643\u064a\u0648\u0646"
     ],
@@ -69,9 +73,6 @@
     "name:swe_x_preferred":[
         "Tymp\u00e1ki"
     ],
-    "name:unk_x_variant":[
-        "Dhiv\u00e1ki"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u039a\u03a1\u0397\u03a4\u0397",
     "qs:a1_alt":"KRHTH",
@@ -91,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.071944,
     "wd:longitude":24.768333,
@@ -106,7 +107,6 @@
         "fct:id":"1148fb80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":252862,
         "gp:id":948578,
-        "qs:id":229712,
         "qs_pg:id":229712,
         "wd:id":"Q2462767",
         "wk:page":"Tympaki"
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277985,
+    "wof:lastmodified":1566641477,
     "wof:name":"\u03a4\u03a5\u039c\u03a0\u0391\u039a\u0399\u039f\u039d",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

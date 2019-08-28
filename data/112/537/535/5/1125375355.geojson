@@ -9,15 +9,18 @@
     "geom:bbox":"21.68333,40.68333,21.68333,40.68333",
     "geom:latitude":40.68333,
     "geom:longitude":21.68333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":0,
-    "gn:population":3671,
+    "gn:country":"GR",
+    "gn:fcode":"PPLA3",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"21.58333,40.58333,21.78333,40.78333",
     "lbl:latitude":40.68333,
     "lbl:longitude":21.68333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0645\u064a\u0646\u062a\u0627\u064a\u0648"
@@ -97,7 +100,7 @@
     "name:tur_x_preferred":[
         "Sorovi\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00f3rovits"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +125,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56558348,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1125375355,
-    "wof:lastmodified":1564224804,
+    "wof:lastmodified":1566641867,
     "wof:name":"Amyntaio",
     "wof:parent_id":85684627,
     "wof:placetype":"localadmin",

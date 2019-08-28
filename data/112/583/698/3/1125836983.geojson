@@ -9,15 +9,18 @@
     "geom:bbox":"22.80722,41.24722,22.80722,41.24722",
     "geom:latitude":41.24722,
     "geom:longitude":22.80722,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":59,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":59,
     "iso:country":"GR",
+    "lbl:bbox":"22.78722,41.22722,22.82722,41.26722",
     "lbl:latitude":41.24722,
     "lbl:longitude":22.80722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03ba\u03b1\u03ba\u03af\u03b5\u03c2"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u0391\u03ba\u03b1\u03ba\u03af\u03b1\u03b9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akak\u00edes"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":553032,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125836983,
-    "wof:lastmodified":1509395040,
+    "wof:lastmodified":1566642164,
     "wof:name":"Akak\u00edai",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

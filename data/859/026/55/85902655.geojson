@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16831647.948839,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.727312,35.268341,25.727312,35.268341",
     "geom:latitude":35.268341,
     "geom:longitude":25.727312,
@@ -13,8 +13,10 @@
     "gn:longitude":25.7162,
     "gn:population":86,
     "iso:country":"GR",
+    "lbl:bbox":"25.722312,35.263341,25.732312,35.273341",
     "lbl:latitude":35.268341,
     "lbl:longitude":25.727312,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.271471,
     "mps:longitude":25.739643,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
         "Kato Elounta",
         "Kato Elounda",
         "Lower Elounda"
-    ],
-    "name:unk_x_variant":[
-        "K\u00e1to Elo\u00fanda"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_fcode":"PPLX",
@@ -73,9 +72,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         101848173,
@@ -86,7 +84,6 @@
     "wof:concordances":{
         "gn:id":260612,
         "gp:id":952166,
-        "qs:id":1083506,
         "qs_pg:id":1083506
     },
     "wof:country":"GR",
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935918,
+    "wof:lastmodified":1566640747,
     "wof:name":"K\u00e1to Elo\u00fanda",
     "wof:parent_id":101848173,
     "wof:placetype":"neighbourhood",

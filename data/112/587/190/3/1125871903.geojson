@@ -9,14 +9,18 @@
     "geom:bbox":"24.73563,35.15606,24.73563,35.15606",
     "geom:latitude":35.15606,
     "geom:longitude":24.73563,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"24.71563,35.13606,24.75563,35.17606",
     "lbl:latitude":35.15606,
     "lbl:longitude":24.73563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03c0\u03bf\u03b4\u03bf\u03cd\u03bb\u03bf\u03c5"
@@ -33,7 +37,7 @@
     "name:nld_x_preferred":[
         "Apodoulou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ap\u00f3dhoulo"
     ],
     "qs_pg:aaroncc":"GR",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":946229,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125871903,
-    "wof:lastmodified":1561844033,
+    "wof:lastmodified":1566641862,
     "wof:name":"Apodhoulou",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

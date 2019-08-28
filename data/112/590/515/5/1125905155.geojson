@@ -9,15 +9,18 @@
     "geom:bbox":"21.95278,39.51722,21.95278,39.51722",
     "geom:latitude":39.51722,
     "geom:longitude":21.95278,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":819,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":819,
     "iso:country":"GR",
+    "lbl:bbox":"21.93278,39.49722,21.97278,39.53722",
     "lbl:latitude":39.51722,
     "lbl:longitude":21.95278,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03b4\u03b9\u03bd\u03cc"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u03a0\u03b5\u03b4\u03b9\u03bd\u03cc\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ek\u00edm Vel\u00e9si"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":540366,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125905155,
-    "wof:lastmodified":1509399705,
+    "wof:lastmodified":1566641901,
     "wof:name":"Pedin\u00f3n",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

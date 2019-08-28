@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":40.492748,
     "lbl:longitude":21.573032,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.492748,
     "mps:longitude":21.573032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0631\u0627\u062e\u064a"
     ],
@@ -49,7 +52,7 @@
     "name:tur_x_preferred":[
         "Debre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9vri"
     ],
     "qs:a0":"Greece",
@@ -68,7 +71,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.492778,
     "wd:longitude":21.571667,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":736866,
         "gp:id":945610,
-        "qs:id":1085572,
+        "qs_pg:id":1085572,
         "wd:id":"Q3394129",
         "wk:page":"Anarrachi"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101875623,
-    "wof:lastmodified":1563277883,
+    "wof:lastmodified":1566641430,
     "wof:name":"\u0391\u039d\u0391\u03a1\u03a1\u0391\u03a7\u0397",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

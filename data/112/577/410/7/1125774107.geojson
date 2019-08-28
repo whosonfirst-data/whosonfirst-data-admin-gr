@@ -9,20 +9,23 @@
     "geom:bbox":"25.98333,36.9,25.98333,36.9",
     "geom:latitude":36.9,
     "geom:longitude":25.98333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":147,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"25.96333,36.88,26.00333,36.92",
     "lbl:latitude":36.9,
     "lbl:longitude":25.98333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u038c\u03c1\u03bc\u03bf\u03c2 \u0391\u03b9\u03b3\u03b9\u03ac\u03bb\u03b7\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aiyi\u00e1li"
     ],
     "qs_pg:aaroncc":"GR",
@@ -46,7 +49,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":958575,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125774107,
-    "wof:lastmodified":1509391168,
+    "wof:lastmodified":1566642129,
     "wof:name":"Ormos Aiyialis",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"22.43361,40.53611,22.43361,40.53611",
     "geom:latitude":40.53611,
     "geom:longitude":22.43361,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":222,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":222,
     "iso:country":"GR",
+    "lbl:bbox":"22.41361,40.51611,22.45361,40.55611",
     "lbl:latitude":40.53611,
     "lbl:longitude":22.43361,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03bf\u03c2 \u03a0\u03c1\u03cc\u03b4\u03c1\u03bf\u03bc\u03bf\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9os Pr\u00f3dhromos"
     ],
     "qs_pg:aaroncc":"GR",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":552866,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1126046109,
-    "wof:lastmodified":1509408864,
+    "wof:lastmodified":1566641707,
     "wof:name":"N\u00e9os Pr\u00f3dromos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

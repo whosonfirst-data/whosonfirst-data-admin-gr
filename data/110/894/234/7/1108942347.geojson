@@ -10,8 +10,10 @@
     "geom:latitude":38.003018,
     "geom:longitude":23.714527,
     "iso:country":"GR",
+    "lbl:bbox":"23.7095274974,37.998018431,23.7195274974,38.008018431",
     "lbl:latitude":38.003018,
     "lbl:longitude":23.714527,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,7 +50,7 @@
     "name:zho_x_preferred":[
         "\u7d22\u666e\u5229\u4e9e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1108942347,
-    "wof:lastmodified":1561843983,
+    "wof:lastmodified":1566641251,
     "wof:name":"Sepolia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

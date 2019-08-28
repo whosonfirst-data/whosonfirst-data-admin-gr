@@ -11,12 +11,16 @@
     "geom:longitude":22.885864,
     "gn:population":1015,
     "iso:country":"GR",
+    "lbl:bbox":"22.865864,39.480995,22.905864,39.520995",
     "lbl:latitude":39.500995,
     "lbl:longitude":22.885864,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.500995,
     "mps:longitude":22.885864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0627\u0644\u064a\u0627"
     ],
@@ -38,9 +42,6 @@
     "name:swe_x_preferred":[
         "Kan\u00e1lia"
     ],
-    "name:unk_x_variant":[
-        "Kan\u00e1lia"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0398\u0395\u03a3\u03a3\u0391\u039b\u0399\u0391",
     "qs:a1_alt":"UESSALIA",
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":222,
     "wof:belongsto":[
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":261169,
         "gp:id":951354,
-        "qs:id":123841,
+        "qs_pg:id":123841,
         "wd:id":"Q6360511",
         "wk:page":"Kanalia"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":101849127,
-    "wof:lastmodified":1563278073,
+    "wof:lastmodified":1566641511,
     "wof:name":"\u039a\u0391\u039d\u0391\u039b\u0399\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

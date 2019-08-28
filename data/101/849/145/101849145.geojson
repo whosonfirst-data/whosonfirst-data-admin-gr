@@ -11,12 +11,16 @@
     "geom:longitude":23.669243,
     "gn:population":2937,
     "iso:country":"GR",
+    "lbl:bbox":"23.649243,38.08389,23.689243,38.12389",
     "lbl:latitude":38.10389,
     "lbl:longitude":23.669243,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.10389,
     "mps:longitude":23.669243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a"
     ],
@@ -82,10 +86,7 @@
         "Fyl\u00ed"
     ],
     "name:und_x_variant":[
-        "Fyli",
-        "\u03a6\u03a5\u039b\u0397"
-    ],
-    "name:unk_x_variant":[
+        "\u03a6\u03a5\u039b\u0397",
         "Khasi\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.1,
     "wd:longitude":23.666667,
@@ -124,7 +125,7 @@
         "fct:id":"1151058c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":262426,
         "gp:id":953083,
-        "qs:id":883651,
+        "qs_pg:id":883651,
         "wd:id":"Q4677068",
         "wk:page":"Fyli"
     },
@@ -142,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278070,
+    "wof:lastmodified":1566641510,
     "wof:name":"\u03a6\u03a5\u039b\u0397",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

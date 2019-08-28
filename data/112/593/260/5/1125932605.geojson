@@ -9,20 +9,23 @@
     "geom:bbox":"22.83889,41.2625,22.83889,41.2625",
     "geom:latitude":41.2625,
     "geom:longitude":22.83889,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":254,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":254,
     "iso:country":"GR",
+    "lbl:bbox":"22.81889,41.2425,22.85889,41.2825",
     "lbl:latitude":41.2625,
     "lbl:longitude":22.83889,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0386\u03bd\u03c9 \u03a3\u03bf\u03cd\u03c1\u03bc\u03b5\u03bd\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c1no Girb\u00e1s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -42,7 +45,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":946074,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125932605,
-    "wof:lastmodified":1509401492,
+    "wof:lastmodified":1566641623,
     "wof:name":"Ano Sourmena",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

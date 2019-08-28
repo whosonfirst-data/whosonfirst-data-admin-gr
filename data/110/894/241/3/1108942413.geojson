@@ -10,8 +10,10 @@
     "geom:latitude":37.978944,
     "geom:longitude":23.730476,
     "iso:country":"GR",
+    "lbl:bbox":"23.7254761117,37.9739439469,23.7354761117,37.9839439469",
     "lbl:latitude":37.978944,
     "lbl:longitude":23.730476,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:ell_x_preferred":[
         "\u03a0\u03bb\u03b1\u03c4\u03b5\u03af\u03b1 \u039a\u03bb\u03b1\u03c5\u03b8\u03bc\u03ce\u03bd\u03bf\u03c2"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":1108942413,
-    "wof:lastmodified":1538606682,
+    "wof:lastmodified":1566641252,
     "wof:name":"Klafthmonos Square",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

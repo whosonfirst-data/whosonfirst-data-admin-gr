@@ -25,8 +25,12 @@
     "gn:population":456,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"24.06207,40.84621,24.10207,40.88621",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0440\u0443\u043f"
     ],
@@ -46,9 +50,6 @@
         "\u041a\u0443\u0441\u043e\u0440\u043e\u0431"
     ],
     "name:swe_x_preferred":[
-        "Mesor\u00f3pi"
-    ],
-    "name:und_x_variant":[
         "Mesor\u00f3pi"
     ],
     "src:geom":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1193054529,
-    "wof:lastmodified":1564224001,
+    "wof:lastmodified":1566641180,
     "wof:name":"Mesoropi",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"GR",
     "lbl:latitude":37.996976,
     "lbl:longitude":23.722262,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.998155,
     "mps:longitude":23.719528,
     "mz:hierarchy_label":1,
@@ -47,10 +48,6 @@
     "name:rus_x_preferred":[
         "\u0410\u0442\u0442\u0438\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Attik\u00ed",
-        "Attiki"
-    ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":264371,
@@ -80,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -92,7 +89,6 @@
     "wof:concordances":{
         "gn:id":264354,
         "gp:id":946759,
-        "qs:id":1145391,
         "qs_pg:id":1145391,
         "wd:id":"Q4818367",
         "wk:page":"Attiki, Athens"
@@ -112,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277016,
+    "wof:lastmodified":1566640743,
     "wof:name":"Attiki",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

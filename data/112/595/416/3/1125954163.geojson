@@ -9,15 +9,18 @@
     "geom:bbox":"20.60722,39.255,20.60722,39.255",
     "geom:latitude":39.255,
     "geom:longitude":20.60722,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":365,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":365,
     "iso:country":"GR",
+    "lbl:bbox":"20.58722,39.235,20.62722,39.275",
     "lbl:latitude":39.255,
     "lbl:longitude":20.60722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "N\u00e1rkissos"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "N\u00e1rkissos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Artsa\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957850,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125954163,
-    "wof:lastmodified":1563278339,
+    "wof:lastmodified":1566641665,
     "wof:name":"Narkissos",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

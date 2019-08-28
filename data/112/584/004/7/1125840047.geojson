@@ -9,14 +9,18 @@
     "geom:bbox":"22.08472,41.075,22.08472,41.075",
     "geom:latitude":41.075,
     "geom:longitude":22.08472,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":268,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":268,
     "iso:country":"GR",
+    "lbl:bbox":"22.06472,41.055,22.10472,41.095",
     "lbl:latitude":41.075,
     "lbl:longitude":22.08472,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c5\u03ba\u03c9\u03c4\u03cc"
@@ -27,7 +31,7 @@
     "name:eng_x_preferred":[
         "Pefkoto"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pefkot\u00f3"
     ],
     "qs_pg:aaroncc":"GR",
@@ -42,7 +46,7 @@
     "qs_pg:qs_id":83302,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "wof:belongsto":[
         102191581,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1125840047,
-    "wof:lastmodified":1509395234,
+    "wof:lastmodified":1566642111,
     "wof:name":"Pefkot\u00f3n",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

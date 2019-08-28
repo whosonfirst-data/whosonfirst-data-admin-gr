@@ -9,15 +9,18 @@
     "geom:bbox":"24.05,40.98333,24.05,40.98333",
     "geom:latitude":40.98333,
     "geom:longitude":24.05,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1008,
-    "gn:population":555,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1008,
     "iso:country":"GR",
+    "lbl:bbox":"24.03,40.96333,24.07,41.00333",
     "lbl:latitude":40.98333,
     "lbl:longitude":24.05,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0645\u064a\u0633\u062a\u0627"
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Korm\u00edsta"
     ],
-    "name:unk_x_variant":[
-        "Korm\u00edsta"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -78,7 +78,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":954085,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125776321,
-    "wof:lastmodified":1563279141,
+    "wof:lastmodified":1566642123,
     "wof:name":"Kormista",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

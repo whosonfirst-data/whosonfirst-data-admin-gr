@@ -9,15 +9,18 @@
     "geom:bbox":"22.73278,40.62861,22.73278,40.62861",
     "geom:latitude":40.62861,
     "geom:longitude":22.73278,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7360,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":7360,
     "iso:country":"GR",
+    "lbl:bbox":"22.71278,40.60861,22.75278,40.64861",
     "lbl:latitude":40.62861,
     "lbl:longitude":22.73278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u0627\u0644\u0627\u0633\u062a\u0631\u0627"
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Chal\u00e1stra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koulo\u00fakia"
     ],
     "qs_pg:aaroncc":"GR",
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":129037,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125856637,
-    "wof:lastmodified":1563279036,
+    "wof:lastmodified":1566642064,
     "wof:name":"P\u00fdrgos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

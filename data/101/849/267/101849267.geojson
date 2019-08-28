@@ -11,12 +11,16 @@
     "geom:longitude":21.69366,
     "gn:population":1064,
     "iso:country":"GR",
+    "lbl:bbox":"21.67366,39.445023,21.71366,39.485023",
     "lbl:latitude":39.465023,
     "lbl:longitude":21.69366,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.465023,
     "mps:longitude":21.69366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0645\u0641\u0648\u064a"
     ],
@@ -59,7 +63,7 @@
     "name:swe_x_preferred":[
         "G\u00f3mfoi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e1psista"
     ],
     "qs:a0":"Greece",
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.463611,
     "wd:longitude":21.6925,
@@ -95,7 +99,6 @@
     "wof:concordances":{
         "gn:id":262007,
         "gp:id":950066,
-        "qs:id":1284092,
         "qs_pg:id":1284092,
         "wd:id":"Q379272",
         "wk:page":"Gomfoi"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101849267,
-    "wof:lastmodified":1563278062,
+    "wof:lastmodified":1566641506,
     "wof:name":"\u0393\u039f\u039c\u03a6\u039f\u0399",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

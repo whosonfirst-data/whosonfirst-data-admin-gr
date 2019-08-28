@@ -13,6 +13,7 @@
     "iso:country":"GR",
     "lbl:latitude":37.973171,
     "lbl:longitude":23.723711,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.973461,
     "mps:longitude":23.723156,
     "mz:hierarchy_label":1,
@@ -184,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0435\u043e\u043f\u0430\u0433"
     ],
-    "name:unk_x_variant":[
-        "Areopagos Hill"
-    ],
     "name:wol_x_preferred":[
         "Areyopas"
     ],
@@ -221,7 +219,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":728,
     "wof:belongsto":[
         102191581,
@@ -232,7 +230,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701328,
-        "qs:id":976683,
         "qs_pg:id":976683,
         "wd:id":"Q202487"
     },
@@ -251,7 +248,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277005,
+    "wof:lastmodified":1566640736,
     "wof:name":"Areopagos Hill",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

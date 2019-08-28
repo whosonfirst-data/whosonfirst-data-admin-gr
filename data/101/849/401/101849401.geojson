@@ -11,12 +11,16 @@
     "geom:longitude":22.077498,
     "gn:population":20422,
     "iso:country":"GR",
+    "lbl:bbox":"22.057498,38.23082,22.097498,38.27082",
     "lbl:latitude":38.25082,
     "lbl:longitude":22.077498,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.25082,
     "mps:longitude":22.077498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u063a\u064a\u0648"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0433\u0456\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vostitza"
     ],
     "name:urd_x_preferred":[
@@ -148,7 +152,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1367,
     "wof:belongsto":[
@@ -160,10 +164,12 @@
     "wof:concordances":{
         "gn:id":265500,
         "gp:id":944866,
-        "qs:id":1056494,
-        "qs_pg:id":1099570,
+        "qs_pg:id":1056494,
         "wd:id":"Q212686",
         "wk:page":"Aigio"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1099570
     },
     "wof:country":"GR",
     "wof:geomhash":"fc1fc57f3ec8b965a345482681e1aab3",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":101849401,
-    "wof:lastmodified":1563278054,
+    "wof:lastmodified":1566641504,
     "wof:name":"\u0391\u0399\u0393\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

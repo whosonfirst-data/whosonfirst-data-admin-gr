@@ -11,12 +11,16 @@
     "geom:longitude":21.79055,
     "gn:population":1849,
     "iso:country":"GR",
+    "lbl:bbox":"21.77055,39.477436,21.81055,39.517436",
     "lbl:latitude":39.497436,
     "lbl:longitude":21.79055,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.497436,
     "mps:longitude":21.79055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u063a\u0627\u0644\u0627 \u0643\u0627\u0644\u064a\u0641\u064a\u0627"
     ],
@@ -53,7 +57,7 @@
     "name:swe_x_preferred":[
         "Meg\u00e1la Kal\u00fdvia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meg\u00e1la Kal\u00edvia"
     ],
     "qs:a0":"Greece",
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.5,
     "wd:longitude":21.783333,
@@ -89,7 +93,6 @@
     "wof:concordances":{
         "gn:id":257448,
         "gp:id":966044,
-        "qs:id":202253,
         "qs_pg:id":202253,
         "wd:id":"Q3559041",
         "wk:page":"Megala Kalyvia"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101849263,
-    "wof:lastmodified":1563278113,
+    "wof:lastmodified":1566641528,
     "wof:name":"\u039c\u0395\u0393\u0391\u039b\u0391 \u039a\u0391\u039b\u03a5\u0392\u0399\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

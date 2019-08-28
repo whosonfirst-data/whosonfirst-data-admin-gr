@@ -11,12 +11,16 @@
     "geom:longitude":23.131811,
     "gn:population":4519,
     "iso:country":"GR",
+    "lbl:bbox":"23.111811,40.460697,23.151811,40.500697",
     "lbl:latitude":40.480697,
     "lbl:longitude":23.131811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.480697,
     "mps:longitude":23.131811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0633\u064a\u0644\u064a\u0643\u0627"
     ],
@@ -62,9 +66,6 @@
     "name:swe_x_preferred":[
         "Vasilik\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Vasilik\u00e1"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
     "qs:a1_alt":"KENTRIKH MAKEDONIA",
@@ -84,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.48,
     "wd:longitude":23.1367,
@@ -99,7 +100,6 @@
     "wof:concordances":{
         "gn:id":733941,
         "gp:id":964251,
-        "qs:id":1028773,
         "qs_pg:id":1028773,
         "wd:id":"Q4008935",
         "wk:page":"Vasilika, Thessaloniki"
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":101855991,
-    "wof:lastmodified":1563278132,
+    "wof:lastmodified":1566641535,
     "wof:name":"\u0392\u0391\u03a3\u0399\u039b\u0399\u039a\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

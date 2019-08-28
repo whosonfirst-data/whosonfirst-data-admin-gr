@@ -11,12 +11,16 @@
     "geom:longitude":20.752394,
     "gn:population":2942,
     "iso:country":"GR",
+    "lbl:bbox":"20.732394,40.02454,20.772394,40.06454",
     "lbl:latitude":40.04454,
     "lbl:longitude":20.752394,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.04454,
     "mps:longitude":20.752394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u064a\u062a\u0633\u0627"
     ],
@@ -86,9 +90,6 @@
     "name:tur_x_preferred":[
         "Koni\u00e7e"
     ],
-    "name:unk_x_variant":[
-        "K\u00f3nitsa"
-    ],
     "name:vie_x_preferred":[
         "Konitsa"
     ],
@@ -111,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":760,
     "wof:belongsto":[
@@ -123,10 +124,12 @@
     "wof:concordances":{
         "gn:id":735636,
         "gp:id":953975,
-        "qs:id":890865,
-        "qs_pg:id":1100891,
+        "qs_pg:id":890865,
         "wd:id":"Q1014221",
         "wk:page":"Konitsa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1100891
     },
     "wof:country":"GR",
     "wof:geomhash":"44af65d0f2b3487c7a4064dec9c28803",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101855197,
-    "wof:lastmodified":1563278153,
+    "wof:lastmodified":1566641544,
     "wof:name":"\u039a\u039f\u039d\u0399\u03a4\u03a3\u0391",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

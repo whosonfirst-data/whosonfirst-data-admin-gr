@@ -11,12 +11,16 @@
     "geom:longitude":22.15853,
     "gn:population":2655,
     "iso:country":"GR",
+    "lbl:bbox":"22.13853,40.106053,22.17853,40.146053",
     "lbl:latitude":40.126053,
     "lbl:longitude":22.15853,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.126053,
     "mps:longitude":22.15853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0627\u062f\u064a"
     ],
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Liv\u00e1di"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liv\u00e1dhion"
     ],
     "qs:a0":"Greece",
@@ -85,7 +89,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.133333,
     "wd:longitude":22.15,
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":735390,
         "gp:id":955601,
-        "qs:id":129067,
+        "qs_pg:id":129067,
         "wd:id":"Q2634117",
         "wk:page":"Livadi"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":101855015,
-    "wof:lastmodified":1563278135,
+    "wof:lastmodified":1566641537,
     "wof:name":"\u039b\u0399\u0392\u0391\u0394\u0399\u039f\u039d",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

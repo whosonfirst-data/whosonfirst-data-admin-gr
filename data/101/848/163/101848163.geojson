@@ -11,12 +11,16 @@
     "geom:longitude":26.244707,
     "gn:population":1094,
     "iso:country":"GR",
+    "lbl:bbox":"26.224707,35.178559,26.264707,35.218559",
     "lbl:latitude":35.198559,
     "lbl:longitude":26.244707,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":35.198559,
     "mps:longitude":26.244707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a\u0643\u0627\u0633\u062a\u0631\u0648"
     ],
@@ -93,9 +97,6 @@
     "name:tur_x_preferred":[
         "Kale"
     ],
-    "name:unk_x_variant":[
-        "Palai\u00f3kastron"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u039a\u03a1\u0397\u03a4\u0397",
     "qs:a1_alt":"KRHTH",
@@ -115,7 +116,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.197778,
     "wd:longitude":26.254722,
@@ -130,10 +131,12 @@
         "fct:id":"114836be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":734828,
         "gp:id":958736,
-        "qs:id":201940,
-        "qs_pg:id":1060767,
+        "qs_pg:id":201940,
         "wd:id":"Q941860",
         "wk:page":"Palekastro"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060767
     },
     "wof:country":"GR",
     "wof:geomhash":"74ba086488075cc6666e4b7e0dc3eeca",
@@ -149,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278005,
+    "wof:lastmodified":1566641484,
     "wof:name":"\u03a0\u0391\u039b\u0391\u0399\u039a\u0391\u03a3\u03a4\u03a1\u039f\u039d",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

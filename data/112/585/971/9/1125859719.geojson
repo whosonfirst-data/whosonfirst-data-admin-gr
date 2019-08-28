@@ -9,15 +9,18 @@
     "geom:bbox":"20.69806,39.41111,20.69806,39.41111",
     "geom:latitude":39.41111,
     "geom:longitude":20.69806,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":280,
-    "gn:population":303,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":280,
     "iso:country":"GR",
+    "lbl:bbox":"20.67806,39.39111,20.71806,39.43111",
     "lbl:latitude":39.41111,
     "lbl:longitude":20.69806,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03c3\u03c4\u03c1\u03bf\u03cd\u03bd\u03b9"
@@ -28,7 +31,7 @@
     "name:eng_x_preferred":[
         "Sistrouni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sistro\u00fani"
     ],
     "qs_pg:aaroncc":"GR",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":962133,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125859719,
-    "wof:lastmodified":1509396511,
+    "wof:lastmodified":1566642053,
     "wof:name":"Sistrounion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

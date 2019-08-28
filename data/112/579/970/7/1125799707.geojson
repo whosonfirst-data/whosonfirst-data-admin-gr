@@ -9,15 +9,18 @@
     "geom:bbox":"22.40306,40.9525,22.40306,40.9525",
     "geom:latitude":40.9525,
     "geom:longitude":22.40306,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":779,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":779,
     "iso:country":"GR",
+    "lbl:bbox":"22.38306,40.9325,22.42306,40.9725",
     "lbl:latitude":40.9525,
     "lbl:longitude":22.40306,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430"
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Gr\u00edva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kr\u00edvas"
     ],
     "qs_pg:aaroncc":"GR",
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":950306,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125799707,
-    "wof:lastmodified":1563279093,
+    "wof:lastmodified":1566642094,
     "wof:name":"Griva",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

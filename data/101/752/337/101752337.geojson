@@ -13,6 +13,8 @@
     "iso:country":"GR",
     "lbl:latitude":40.945742,
     "lbl:longitude":24.405788,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":40.945742,
     "mps:longitude":24.405788,
     "mz:hierarchy_label":1,
@@ -204,7 +206,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0432\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neapolis"
     ],
     "name:urd_x_preferred":[
@@ -327,7 +329,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -339,7 +341,7 @@
     "wof:concordances":{
         "gn:id":735861,
         "gp:id":91672614,
-        "qs:id":349890,
+        "qs_pg:id":349890,
         "wd:id":"Q187352"
     },
     "wof:country":"GR",
@@ -353,7 +355,7 @@
         }
     ],
     "wof:id":101752337,
-    "wof:lastmodified":1563277837,
+    "wof:lastmodified":1566641412,
     "wof:name":"\u039a\u0391\u0392\u0391\u039b\u0391",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

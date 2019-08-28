@@ -25,8 +25,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"25.54521,35.04954,25.58521,35.08954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Metaxoch\u00f3ri"
     ],
@@ -46,7 +50,6 @@
     "name:und_x_variant":[
         "Pars\u00e1s",
         "Metaxokh\u00f3rion",
-        "Metaxoch\u00f3ri",
         "Metaxoch\u00f3rion"
     ],
     "src:geom":"geonames",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1344090419,
-    "wof:lastmodified":1564223194,
+    "wof:lastmodified":1566640631,
     "wof:name":"Metaxochori",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

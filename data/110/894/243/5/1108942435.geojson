@@ -10,8 +10,10 @@
     "geom:latitude":37.987493,
     "geom:longitude":23.726027,
     "iso:country":"GR",
+    "lbl:bbox":"23.7210272187,37.9824933438,23.7310272187,37.9924933438",
     "lbl:latitude":37.987493,
     "lbl:longitude":23.726027,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -31,7 +33,7 @@
     "name:eng_x_variant":[
         "Independence Square"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1108942435,
-    "wof:lastmodified":1538606685,
+    "wof:lastmodified":1566641250,
     "wof:name":"Vathi Square",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

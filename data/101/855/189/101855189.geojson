@@ -11,12 +11,16 @@
     "geom:longitude":22.563553,
     "gn:population":3366,
     "iso:country":"GR",
+    "lbl:bbox":"22.543553,40.041088,22.583553,40.081088",
     "lbl:latitude":40.061088,
     "lbl:longitude":22.563553,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.061088,
     "mps:longitude":22.563553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u062a\u0648\u0643\u0627\u0631\u064a\u0627"
     ],
@@ -71,7 +75,7 @@
     "name:swe_x_preferred":[
         "Leptokary\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sk\u00e1la Leptokari\u00e1s"
     ],
     "qs:a0":"Greece",
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.066667,
     "wd:longitude":22.566667,
@@ -108,10 +112,12 @@
     "wof:concordances":{
         "gn:id":258483,
         "gp:id":955203,
-        "qs:id":1030151,
         "qs_pg:id":546637,
         "wd:id":"Q3491767",
         "wk:page":"Leptokarya"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1030151
     },
     "wof:country":"GR",
     "wof:geomhash":"0f6ef796a8ec6e69c5da7127b6cc6a48",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":101855189,
-    "wof:lastmodified":1563278143,
+    "wof:lastmodified":1566641540,
     "wof:name":"\u039b\u0395\u03a0\u03a4\u039f\u039a\u0391\u03a1\u03a5\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

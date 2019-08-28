@@ -11,12 +11,16 @@
     "geom:longitude":23.957384,
     "gn:population":2127,
     "iso:country":"GR",
+    "lbl:bbox":"23.937384,41.045277,23.977384,41.085277",
     "lbl:latitude":41.065277,
     "lbl:longitude":23.957384,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.065277,
     "mps:longitude":23.957384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0633\u062a\u0631\u0627\u062a\u064a"
     ],
@@ -59,9 +63,6 @@
     "name:swe_x_preferred":[
         "Alistr\u00e1ti"
     ],
-    "name:unk_x_variant":[
-        "Alistr\u00e1ti"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
     "qs:a1_alt":"KENTRIKH MAKEDONIA",
@@ -81,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":41.026667,
     "wd:longitude":24.01,
@@ -96,7 +97,6 @@
     "wof:concordances":{
         "gn:id":736921,
         "gp:id":945342,
-        "qs:id":1242948,
         "qs_pg:id":1242948,
         "wd:id":"Q2706465",
         "wk:page":"Alistrati"
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":101856973,
-    "wof:lastmodified":1563277971,
+    "wof:lastmodified":1566641471,
     "wof:name":"\u0391\u039b\u0399\u03a3\u03a4\u03a1\u0391\u03a4\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

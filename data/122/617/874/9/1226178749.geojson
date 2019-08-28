@@ -25,8 +25,12 @@
     "gn:population":2228,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.51458,40.62241,22.55458,40.66241",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u062a\u064a"
     ],
@@ -67,8 +71,7 @@
         "Plati"
     ],
     "name:und_x_variant":[
-        "Plat\u00ed",
-        "Plat\u00fd"
+        "Plat\u00ed"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1226178749,
-    "wof:lastmodified":1564225503,
+    "wof:lastmodified":1566642379,
     "wof:name":"Platy",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

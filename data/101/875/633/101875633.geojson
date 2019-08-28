@@ -13,6 +13,8 @@
     "iso:country":"GR",
     "lbl:latitude":38.624678,
     "lbl:longitude":21.417139,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.624678,
     "mps:longitude":21.417139,
     "mz:hierarchy_label":1,
@@ -159,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0440\u0456\u043d\u0456\u043e"
     ],
-    "name:unk_x_variant":[
-        "Agr\u00ednio"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0631\u06cc\u0646\u06cc\u0648"
     ],
@@ -281,7 +280,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":38.616667,
     "wd:longitude":21.4,
@@ -296,10 +295,12 @@
     "wof:concordances":{
         "gn:id":265560,
         "gp:id":945035,
-        "qs:id":446961,
-        "qs_pg:id":1164273,
+        "qs_pg:id":446961,
         "wd:id":"Q396807",
         "wk:page":"Agrinio"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1164273
     },
     "wof:country":"GR",
     "wof:geomhash":"7948727a263112937fcb5308cf143c7c",
@@ -312,7 +313,7 @@
         }
     ],
     "wof:id":101875633,
-    "wof:lastmodified":1563277862,
+    "wof:lastmodified":1566641421,
     "wof:name":"\u0391\u0393\u03a1\u0399\u039d\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

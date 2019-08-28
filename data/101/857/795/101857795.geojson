@@ -11,12 +11,16 @@
     "geom:longitude":26.293143,
     "gn:population":2029,
     "iso:country":"GR",
+    "lbl:bbox":"26.273143,41.008496,26.313143,41.048496",
     "lbl:latitude":41.028496,
     "lbl:longitude":26.293143,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.028496,
     "mps:longitude":26.293143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u062e\u064a\u0631\u0648"
     ],
@@ -60,7 +64,7 @@
     "name:tur_x_preferred":[
         "B\u0131d\u0131kl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tikher\u00f3n"
     ],
     "qs:a0":"Greece",
@@ -82,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.0167,
     "wd:longitude":26.2833,
@@ -96,7 +100,6 @@
     "wof:concordances":{
         "gn:id":734061,
         "gp:id":963365,
-        "qs:id":552795,
         "qs_pg:id":552795,
         "wd:id":"Q779647",
         "wk:page":"Tychero"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101857795,
-    "wof:lastmodified":1563277929,
+    "wof:lastmodified":1566641452,
     "wof:name":"\u03a4\u03a5\u03a7\u0395\u03a1\u039f\u039d",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"27.76744,35.95415,27.76744,35.95415",
     "geom:latitude":35.95415,
     "geom:longitude":27.76744,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"27.74744,35.93415,27.78744,35.97415",
     "lbl:latitude":35.95415,
     "lbl:longitude":27.76744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kattav\u00eda"
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Kattav\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katabia"
     ],
     "qs_pg:aaroncc":"GR",
@@ -66,7 +70,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":952583,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Aegean",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1125848825,
-    "wof:lastmodified":1563279120,
+    "wof:lastmodified":1566642110,
     "wof:name":"Kattavia",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

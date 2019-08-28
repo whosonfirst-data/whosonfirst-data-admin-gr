@@ -9,15 +9,18 @@
     "geom:bbox":"27.16139,36.84778,27.16139,36.84778",
     "geom:latitude":36.84778,
     "geom:longitude":27.16139,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2430,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2430,
     "iso:country":"GR",
+    "lbl:bbox":"27.14139,36.82778,27.18139,36.86778",
     "lbl:latitude":36.84778,
     "lbl:longitude":27.16139,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03c5\u03bb\u03af\u03bf\u03bd"
@@ -26,7 +29,7 @@
         "Pyl\u00ed",
         "\u03a0\u03c5\u03bb\u03af"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pil\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -41,7 +44,7 @@
     "qs_pg:qs_id":546520,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1126041727,
-    "wof:lastmodified":1509408558,
+    "wof:lastmodified":1566641729,
     "wof:name":"Pyl\u00edon",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

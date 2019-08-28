@@ -9,15 +9,18 @@
     "geom:bbox":"24.39102,35.19485,24.39102,35.19485",
     "geom:latitude":35.19485,
     "geom:longitude":24.39102,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":450,
-    "gn:population":143,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":450,
     "iso:country":"GR",
+    "lbl:bbox":"24.37102,35.17485,24.41102,35.21485",
     "lbl:latitude":35.19485,
     "lbl:longitude":24.39102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "placias"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Plaki\u00e1s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plaki\u00e1"
     ],
     "qs_pg:aaroncc":"GR",
@@ -90,7 +93,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":56024700,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1125805673,
-    "wof:lastmodified":1563278653,
+    "wof:lastmodified":1566641848,
     "wof:name":"Plakias",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"23.95,35.4,23.95,35.4",
     "geom:latitude":35.4,
     "geom:longitude":23.95,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"23.93,35.38,23.97,35.42",
     "lbl:latitude":35.4,
     "lbl:longitude":23.95,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0438"
@@ -39,9 +43,6 @@
     "name:nld_x_preferred":[
         "Lakkoi"
     ],
-    "name:unk_x_variant":[
-        "L\u00e1kkoi"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -63,7 +64,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":954935,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1125842225,
-    "wof:lastmodified":1563279121,
+    "wof:lastmodified":1566642111,
     "wof:name":"Lakkoi",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

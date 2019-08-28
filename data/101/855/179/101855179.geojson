@@ -11,12 +11,16 @@
     "geom:longitude":22.450407,
     "gn:population":2088,
     "iso:country":"GR",
+    "lbl:bbox":"22.430407,40.210305,22.470407,40.250305",
     "lbl:latitude":40.230305,
     "lbl:longitude":22.450407,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.230305,
     "mps:longitude":22.450407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u062a\u0627\u0631\u064a\u0648\u062a\u064a\u0633\u0627"
     ],
@@ -56,7 +60,7 @@
     "name:swe_x_preferred":[
         "Kontari\u00f3tissa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koundouri\u00f3tissa"
     ],
     "qs:a0":"Greece",
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.216667,
     "wd:longitude":22.45,
@@ -94,7 +98,6 @@
     "wof:concordances":{
         "gn:id":735638,
         "gp:id":953911,
-        "qs:id":1292106,
         "qs_pg:id":1292106,
         "wd:id":"Q2735497",
         "wk:page":"Kondariotissa"
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101855179,
-    "wof:lastmodified":1563278166,
+    "wof:lastmodified":1566641550,
     "wof:name":"\u039a\u039f\u039d\u03a4\u0391\u03a1\u0399\u03a9\u03a4\u0399\u03a3\u03a3\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

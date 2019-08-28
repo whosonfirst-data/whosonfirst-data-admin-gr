@@ -9,15 +9,18 @@
     "geom:bbox":"28.11893,36.41112,28.11893,36.41112",
     "geom:latitude":36.41112,
     "geom:longitude":28.11893,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4700,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":4700,
     "iso:country":"GR",
+    "lbl:bbox":"28.09893,36.39112,28.13893,36.43112",
     "lbl:latitude":36.41112,
     "lbl:longitude":28.11893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0645\u0627\u0633\u062a\u064a\u060c \u062f\u0648\u062f\u064a\u0643\u0627\u0646\u064a\u0633\u0648\u0633"
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "Kremast\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Kremast\u00ed"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -79,7 +79,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":954628,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125932591,
-    "wof:lastmodified":1563278270,
+    "wof:lastmodified":1566641622,
     "wof:name":"Kremasti",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

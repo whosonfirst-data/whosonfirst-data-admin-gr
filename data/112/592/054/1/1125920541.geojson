@@ -9,17 +9,20 @@
     "geom:bbox":"25.2047,35.20944,25.2047,35.20944",
     "geom:latitude":35.20944,
     "geom:longitude":25.2047,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":864,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":864,
     "iso:country":"GR",
+    "lbl:bbox":"25.1847,35.18944,25.2247,35.22944",
     "lbl:latitude":35.20944,
     "lbl:longitude":25.2047,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paraskia\u00eds"
     ],
     "qs_pg:aaroncc":"GR",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":546902,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125920541,
-    "wof:lastmodified":1509400773,
+    "wof:lastmodified":1566641642,
     "wof:name":"\u00c1yiai Paraskia\u00ed",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":23.776584,
     "gn:population":1430,
     "iso:country":"GR",
+    "lbl:bbox":"23.756584,38.297196,23.796584,38.337196",
     "lbl:latitude":38.317196,
     "lbl:longitude":23.776584,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.317196,
     "mps:longitude":23.776584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0627\u0644\u0627 \u0623\u0648\u0631\u0648\u0628\u0648"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Sk\u00e1la Oropo\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Scalaorapou"
     ],
     "qs:a0":"Greece",
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.316667,
     "wd:longitude":23.8,
@@ -94,7 +98,6 @@
         "fct:id":"114884de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":253716,
         "gp:id":962220,
-        "qs:id":279231,
         "qs_pg:id":279231,
         "wd:id":"Q1142659",
         "wk:page":"Skala Oropou"
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563277950,
+    "wof:lastmodified":1566641462,
     "wof:name":"\u03a3\u039a\u0391\u039b\u0391 \u03a9\u03a1\u03a9\u03a0\u039f\u03a5",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

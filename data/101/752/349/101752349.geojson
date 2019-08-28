@@ -13,6 +13,8 @@
     "iso:country":"GR",
     "lbl:latitude":41.08823,
     "lbl:longitude":23.543164,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":41.08823,
     "mps:longitude":23.543164,
     "mz:hierarchy_label":1,
@@ -195,9 +197,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Seres"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0631\u0633"
     ],
@@ -318,7 +317,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":41.083333,
     "wd:longitude":23.55,
@@ -333,7 +332,7 @@
     "wof:concordances":{
         "gn:id":734330,
         "gp:id":91672717,
-        "qs:id":349871,
+        "qs_pg:id":349871,
         "wd:id":"Q206957",
         "wk:page":"Serres"
     },
@@ -348,7 +347,7 @@
         }
     ],
     "wof:id":101752349,
-    "wof:lastmodified":1563277842,
+    "wof:lastmodified":1566641413,
     "wof:name":"\u03a3\u0395\u03a1\u03a1\u0391\u0399",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

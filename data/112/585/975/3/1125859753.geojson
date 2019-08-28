@@ -9,15 +9,18 @@
     "geom:bbox":"20.48306,39.85556,20.48306,39.85556",
     "geom:latitude":39.85556,
     "geom:longitude":20.48306,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":159,
-    "gn:population":62,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":159,
     "iso:country":"GR",
+    "lbl:bbox":"20.46306,39.83556,20.50306,39.87556",
     "lbl:latitude":39.85556,
     "lbl:longitude":20.48306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03c1\u03b1\u03c4\u03af\u03bd\u03b9\u03c3\u03c4\u03b1"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Stratinitsa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strat\u00ednista"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":963002,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125859753,
-    "wof:lastmodified":1509396512,
+    "wof:lastmodified":1566642073,
     "wof:name":"Stratinista",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

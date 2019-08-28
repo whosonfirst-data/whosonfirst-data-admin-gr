@@ -9,20 +9,23 @@
     "geom:bbox":"22.31889,40.80222,22.31889,40.80222",
     "geom:latitude":40.80222,
     "geom:longitude":22.31889,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":819,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":819,
     "iso:country":"GR",
+    "lbl:bbox":"22.29889,40.78222,22.33889,40.82222",
     "lbl:latitude":40.80222,
     "lbl:longitude":22.31889,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c2 \u039c\u03c5\u03bb\u03cc\u03c4\u03bf\u03c0\u03bf\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palai\u00f3s Mil\u00f3topos"
     ],
     "qs_pg:aaroncc":"GR",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":552849,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125928185,
-    "wof:lastmodified":1509401218,
+    "wof:lastmodified":1566641641,
     "wof:name":"Palai\u00f3s Myl\u00f3topos",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

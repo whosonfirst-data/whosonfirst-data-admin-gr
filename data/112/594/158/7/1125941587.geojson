@@ -9,15 +9,18 @@
     "geom:bbox":"22.78333,37.66667,22.78333,37.66667",
     "geom:latitude":37.66667,
     "geom:longitude":22.78333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":922,
-    "gn:population":745,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":922,
     "iso:country":"GR",
+    "lbl:bbox":"22.76333,37.64667,22.80333,37.68667",
     "lbl:latitude":37.66667,
     "lbl:longitude":22.78333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03cd\u03c6\u03b9\u03bf\u03bd"
@@ -28,7 +31,7 @@
     "name:eng_x_preferred":[
         "Anyfi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anef\u00ed"
     ],
     "qs_pg:aaroncc":"GR",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":945771,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125941587,
-    "wof:lastmodified":1509402104,
+    "wof:lastmodified":1566641595,
     "wof:name":"Anifion",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

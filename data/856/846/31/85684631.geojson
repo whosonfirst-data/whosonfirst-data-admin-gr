@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":39.59639,
     "lbl:longitude":20.734722,
+    "lbl:min_zoom":8.0,
     "mps:latitude":39.59639,
     "mps:longitude":20.734722,
     "mz:hierarchy_label":1,
@@ -118,7 +119,7 @@
     "qs:type":"\u03a0\u0395\u03a1\u0399\u03a6\u0395\u03a1\u0395\u0399\u0391",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1260,
     "wof:belongsto":[
         102191581,
@@ -148,7 +149,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1565713088,
+    "wof:lastmodified":1566640782,
     "wof:name":"Epirus",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

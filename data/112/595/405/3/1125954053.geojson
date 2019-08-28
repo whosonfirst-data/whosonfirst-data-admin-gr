@@ -9,14 +9,18 @@
     "geom:bbox":"20.61667,38.21667,20.61667,38.21667",
     "geom:latitude":38.21667,
     "geom:longitude":20.61667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"20.59667,38.19667,20.63667,38.23667",
     "lbl:latitude":38.21667,
     "lbl:longitude":20.61667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "Chaliot\u00e1ta"
@@ -27,7 +31,7 @@
     "name:eng_x_preferred":[
         "Chaliotata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khaliot\u00e1ta"
     ],
     "qs_pg:aaroncc":"GR",
@@ -51,7 +55,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":952936,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1125954053,
-    "wof:lastmodified":1509402873,
+    "wof:lastmodified":1566641666,
     "wof:name":"Khaliotata",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

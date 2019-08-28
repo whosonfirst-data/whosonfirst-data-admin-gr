@@ -11,12 +11,16 @@
     "geom:longitude":22.369028,
     "gn:population":2489,
     "iso:country":"GR",
+    "lbl:bbox":"22.349028,38.883137,22.389028,38.923137",
     "lbl:latitude":38.903137,
     "lbl:longitude":22.369028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.903137,
     "mps:longitude":22.369028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0648\u0631\u0648\u0633"
     ],
@@ -35,7 +39,7 @@
     "name:swe_x_preferred":[
         "Stavr\u00f3s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bek\u00ed"
     ],
     "qs:a0":"Greece",
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":253242,
         "gp:id":962853,
-        "qs:id":44076,
+        "qs_pg:id":44076,
         "wd:id":"Q21533389"
     },
     "wof:country":"GR",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101849317,
-    "wof:lastmodified":1563278122,
+    "wof:lastmodified":1566641531,
     "wof:name":"\u03a3\u03a4\u0391\u03a5\u03a1\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

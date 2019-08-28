@@ -11,12 +11,16 @@
     "geom:longitude":23.031177,
     "gn:population":2409,
     "iso:country":"GR",
+    "lbl:bbox":"23.011177,40.802678,23.051177,40.842678",
     "lbl:latitude":40.822678,
     "lbl:longitude":23.031177,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.822678,
     "mps:longitude":23.031177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u064a\u0631\u0648\u0633"
     ],
@@ -68,7 +72,7 @@
     "name:swe_x_preferred":[
         "\u00c1ssiros"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yuv\u00e9sna"
     ],
     "qs:a0":"Greece",
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":359,
     "wof:belongsto":[
@@ -102,7 +106,6 @@
     "wof:concordances":{
         "gn:id":736692,
         "gp:id":946681,
-        "qs:id":905047,
         "qs_pg:id":905047,
         "wd:id":"Q779073",
         "wk:page":"Assiros"
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101857477,
-    "wof:lastmodified":1563277908,
+    "wof:lastmodified":1566641442,
     "wof:name":"\u0391\u03a3\u03a3\u0397\u03a1\u039f\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

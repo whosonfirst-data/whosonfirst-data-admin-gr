@@ -11,12 +11,16 @@
     "geom:longitude":23.518391,
     "gn:population":2154,
     "iso:country":"GR",
+    "lbl:bbox":"23.498391,40.996769,23.538391,41.036769",
     "lbl:latitude":41.016769,
     "lbl:longitude":23.518391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.016769,
     "mps:longitude":23.518391,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u044f\u0440"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kopek\u00ed"
     ],
     "name:zho_x_preferred":[
@@ -148,7 +152,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":41.016667,
     "wd:longitude":23.516667,
@@ -163,10 +167,12 @@
     "wof:concordances":{
         "gn:id":734330,
         "gp:id":962476,
-        "qs:id":1285260,
         "qs_pg:id":349871,
         "wd:id":"Q3405718",
         "wk:page":"Skoutari, Serres"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1285260
     },
     "wof:country":"GR",
     "wof:geomhash":"24e77a2fe47effaa78ad40525b71937c",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":101857735,
-    "wof:lastmodified":1563277927,
+    "wof:lastmodified":1566641451,
     "wof:name":"\u03a3\u039a\u039f\u03a5\u03a4\u0391\u03a1\u0399",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

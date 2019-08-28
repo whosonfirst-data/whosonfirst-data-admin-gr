@@ -9,15 +9,18 @@
     "geom:bbox":"26.22667,41.13028,26.22667,41.13028",
     "geom:latitude":41.13028,
     "geom:longitude":26.22667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":784,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":784,
     "iso:country":"GR",
+    "lbl:bbox":"26.20667,41.11028,26.24667,41.15028",
     "lbl:latitude":41.13028,
     "lbl:longitude":26.22667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0427\u0430\u043c\u043a\u044c\u043e\u0439"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Dad\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhadhi\u00e1"
     ],
     "qs_pg:aaroncc":"GR",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":552992,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125836797,
-    "wof:lastmodified":1563279202,
+    "wof:lastmodified":1566642159,
     "wof:name":"Dad\u00eda",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

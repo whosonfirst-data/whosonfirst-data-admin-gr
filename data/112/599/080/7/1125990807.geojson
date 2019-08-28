@@ -9,14 +9,18 @@
     "geom:bbox":"24.58333,35.16667,24.58333,35.16667",
     "geom:latitude":35.16667,
     "geom:longitude":24.58333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"GR",
+    "lbl:bbox":"24.56333,35.14667,24.60333,35.18667",
     "lbl:latitude":35.16667,
     "lbl:longitude":24.58333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03ba\u03bf\u03cd\u03bc\u03b9\u03b1"
@@ -33,7 +37,7 @@
     "name:sqi_x_preferred":[
         "Akumia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ako\u00famia"
     ],
     "qs_pg:aaroncc":"GR",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":945193,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125990807,
-    "wof:lastmodified":1563278727,
+    "wof:lastmodified":1566641888,
     "wof:name":"Akoumia",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":23.466412,
     "gn:population":1900,
     "iso:country":"GR",
+    "lbl:bbox":"23.446412,37.327019,23.486412,37.367019",
     "lbl:latitude":37.347019,
     "lbl:longitude":23.466412,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.347019,
     "mps:longitude":23.466412,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u038e\u03b4\u03c1\u03b1"
     ],
@@ -33,9 +37,6 @@
     "name:und_x_variant":[
         "Ydra",
         "\u03a5\u0394\u03a1\u0391"
-    ],
-    "name:unk_x_variant":[
-        "\u00cddhra"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,6 @@
         "fct:id":"1147742c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":261822,
         "gp:id":965877,
-        "qs:id":123848,
         "qs_pg:id":123848
     },
     "wof:country":"GR",
@@ -85,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740344,
+    "wof:lastmodified":1566641478,
     "wof:name":"\u03a5\u0394\u03a1\u0391",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

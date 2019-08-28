@@ -9,15 +9,18 @@
     "geom:bbox":"24.4,35.35,24.4,35.35",
     "geom:latitude":35.35,
     "geom:longitude":24.4,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":804,
-    "gn:population":821,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":804,
     "iso:country":"GR",
+    "lbl:bbox":"24.38,35.33,24.42,35.37",
     "lbl:latitude":35.35,
     "lbl:longitude":24.4,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ger\u00e1ni"
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Ger\u00e1ni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yer\u00e1ni"
     ],
     "qs_pg:aaroncc":"GR",
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":965382,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125924101,
-    "wof:lastmodified":1563278315,
+    "wof:lastmodified":1566641649,
     "wof:name":"Yerani",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

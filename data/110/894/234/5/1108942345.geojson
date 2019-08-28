@@ -10,8 +10,10 @@
     "geom:latitude":37.999948,
     "geom:longitude":23.717002,
     "iso:country":"GR",
+    "lbl:bbox":"23.7120024464,37.9949478294,23.7220024464,38.0049478294",
     "lbl:latitude":37.999948,
     "lbl:longitude":23.717002,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:fin_x_preferred":[
         "L\u00f3fos Skouz\u00e9"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1175612731,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1108942345,
-    "wof:lastmodified":1564224112,
+    "wof:lastmodified":1566641252,
     "wof:name":"Skouze Hill",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

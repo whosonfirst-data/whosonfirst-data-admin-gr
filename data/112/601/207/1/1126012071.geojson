@@ -9,15 +9,18 @@
     "geom:bbox":"22.51917,40.76,22.51917,40.76",
     "geom:latitude":40.76,
     "geom:longitude":22.51917,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2476,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":2476,
     "iso:country":"GR",
+    "lbl:bbox":"22.49917,40.74,22.53917,40.78",
     "lbl:latitude":40.76,
     "lbl:longitude":22.51917,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627"
@@ -166,9 +169,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043b\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "P\u00e9lla"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0644\u0627"
     ],
@@ -202,7 +202,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":959475,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -232,7 +232,7 @@
         }
     ],
     "wof:id":1126012071,
-    "wof:lastmodified":1563278872,
+    "wof:lastmodified":1566641970,
     "wof:name":"Pella",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

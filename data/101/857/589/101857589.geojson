@@ -10,12 +10,16 @@
     "geom:latitude":40.962478,
     "geom:longitude":24.360105,
     "iso:country":"GR",
+    "lbl:bbox":"24.340105,40.942478,24.380105,40.982478",
     "lbl:latitude":40.962478,
     "lbl:longitude":24.360105,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.962478,
     "mps:longitude":24.360105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
     "qs:a1_alt":"ANATOLIKH MAKEDONIA KAI URAKH",
@@ -34,7 +38,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":91802860,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"GR",
     "wof:geomhash":"2fd6add56cbfed0a27a8b37414bee73a",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101857589,
-    "wof:lastmodified":1544743974,
+    "wof:lastmodified":1566641448,
     "wof:name":"\u0391\u039c\u03a5\u0393\u0394\u0391\u039b\u0395\u03a9\u039d",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

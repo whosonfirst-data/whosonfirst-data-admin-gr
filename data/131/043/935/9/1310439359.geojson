@@ -25,8 +25,12 @@
     "gn:population":118,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"22.56665,38.75677,22.60665,38.79677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0641\u0631\u0627"
     ],
@@ -61,8 +65,7 @@
         "Anavra"
     ],
     "name:und_x_variant":[
-        "Katm\u00e1ta",
-        "An\u00e1vra"
+        "Katm\u00e1ta"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1310439359,
-    "wof:lastmodified":1564224197,
+    "wof:lastmodified":1566641319,
     "wof:name":"Anavra",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

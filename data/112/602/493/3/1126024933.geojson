@@ -9,20 +9,23 @@
     "geom:bbox":"25.58333,41.06667,25.58333,41.06667",
     "geom:latitude":41.06667,
     "geom:longitude":25.58333,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1068,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":1068,
     "iso:country":"GR",
+    "lbl:bbox":"25.56333,41.04667,25.60333,41.08667",
     "lbl:latitude":41.06667,
     "lbl:longitude":25.58333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03af\u03c3\u03b2\u03b7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Irj\u00e1n"
     ],
     "qs_pg:aaroncc":"GR",
@@ -44,7 +47,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":946393,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126024933,
-    "wof:lastmodified":1509407479,
+    "wof:lastmodified":1566641689,
     "wof:name":"Arisvi",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

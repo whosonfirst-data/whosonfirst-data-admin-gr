@@ -11,12 +11,16 @@
     "geom:longitude":22.984005,
     "gn:population":1374,
     "iso:country":"GR",
+    "lbl:bbox":"22.964005,40.821377,23.004005,40.861377",
     "lbl:latitude":40.841377,
     "lbl:longitude":22.984005,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.841377,
     "mps:longitude":22.984005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u062b\u064a\u0627\u060c \u062b\u064a\u0633\u0627\u0644\u0648\u0646\u064a\u0643\u064a"
     ],
@@ -50,7 +54,7 @@
     "name:swe_x_preferred":[
         "Krithi\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yen\u00ed-Ko\u1e2f"
     ],
     "qs:a0":"Greece",
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":735523,
         "gp:id":954752,
-        "qs:id":129086,
+        "qs_pg:id":129086,
         "wd:id":"Q12234856"
     },
     "wof:country":"GR",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101857497,
-    "wof:lastmodified":1563277913,
+    "wof:lastmodified":1566641444,
     "wof:name":"\u039a\u03a1\u0399\u0398\u0399\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"21.50809,40.79547,21.54809,40.83547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c1gios Athan\u00e1sios"
     ],
@@ -47,9 +51,6 @@
     ],
     "name:swe_x_preferred":[
         "Agios Athanasios"
-    ],
-    "name:und_x_variant":[
-        "\u00c1gios Athan\u00e1sios"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1293231689,
-    "wof:lastmodified":1564223436,
+    "wof:lastmodified":1566640830,
     "wof:name":"Agios Athanasios",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

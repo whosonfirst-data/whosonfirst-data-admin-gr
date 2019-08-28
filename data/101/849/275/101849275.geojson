@@ -11,12 +11,16 @@
     "geom:longitude":22.298006,
     "gn:population":1531,
     "iso:country":"GR",
+    "lbl:bbox":"22.278006,39.109681,22.318006,39.149681",
     "lbl:latitude":39.129681,
     "lbl:longitude":22.298006,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.129681,
     "mps:longitude":22.298006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0645\u0648\u0643\u0648\u0633"
     ],
@@ -80,7 +84,7 @@
     "name:tur_x_preferred":[
         "D\u00f6meke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhomok\u00f3s"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.1,
     "wd:longitude":22.333333,
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":263000,
         "gp:id":56558174,
-        "qs:id":947043,
+        "qs_pg:id":947043,
         "wd:id":"Q1235572",
         "wk:page":"Domokos"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":101849275,
-    "wof:lastmodified":1563278053,
+    "wof:lastmodified":1566641503,
     "wof:name":"\u0394\u039f\u039c\u039f\u039a\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

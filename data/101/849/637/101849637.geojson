@@ -11,12 +11,16 @@
     "geom:longitude":26.177189,
     "gn:population":1299,
     "iso:country":"GR",
+    "lbl:bbox":"26.157189,39.307671,26.197189,39.347671",
     "lbl:latitude":39.327671,
     "lbl:longitude":26.177189,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":39.327671,
     "mps:longitude":26.177189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0631\u0627"
     ],
@@ -66,7 +70,7 @@
     "name:swe_x_preferred":[
         "P\u00e9tra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lokovo"
     ],
     "qs:a0":"Greece",
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.316667,
     "wd:longitude":26.183333,
@@ -102,10 +106,12 @@
     "wof:concordances":{
         "gn:id":864856,
         "gp:id":959731,
-        "qs:id":4116,
-        "qs_pg:id":954484,
+        "qs_pg:id":4116,
         "wd:id":"Q1240371",
         "wk:page":"Petra, Lesbos"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":954484
     },
     "wof:country":"GR",
     "wof:geomhash":"bb0c48e9a31cbfb9024fb69d4d1595c4",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":101849637,
-    "wof:lastmodified":1563278106,
+    "wof:lastmodified":1566641525,
     "wof:name":"\u03a0\u0395\u03a4\u03a1\u0391",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

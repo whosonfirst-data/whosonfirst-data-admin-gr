@@ -9,15 +9,18 @@
     "geom:bbox":"20.6,38.66667,20.6,38.66667",
     "geom:latitude":38.66667,
     "geom:longitude":20.6,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":647,
-    "gn:population":422,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":647,
     "iso:country":"GR",
+    "lbl:bbox":"20.58,38.64667,20.62,38.68667",
     "lbl:latitude":38.66667,
     "lbl:longitude":20.6,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "\u00c1gios P\u00e9tros"
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "\u00c1gios P\u00e9tros"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Apoll\u00f3nios"
     ],
     "qs_pg:aaroncc":"GR",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":546854,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126042739,
-    "wof:lastmodified":1563278409,
+    "wof:lastmodified":1566641707,
     "wof:name":"\u00c1gios P\u00e9tros",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

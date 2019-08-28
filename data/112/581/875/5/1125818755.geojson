@@ -9,15 +9,18 @@
     "geom:bbox":"22.05889,41.00917,22.05889,41.00917",
     "geom:latitude":41.00917,
     "geom:longitude":22.05889,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":63,
-    "gn:population":32,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":63,
     "iso:country":"GR",
+    "lbl:bbox":"22.03889,40.98917,22.07889,41.02917",
     "lbl:latitude":41.00917,
     "lbl:longitude":22.05889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03ac\u03b8\u03b7"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u0391\u03b3\u03b1\u03b8\u03ae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agathi"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":369994,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125818755,
-    "wof:lastmodified":1509393956,
+    "wof:lastmodified":1566641805,
     "wof:name":"Ag\u00e1thi",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

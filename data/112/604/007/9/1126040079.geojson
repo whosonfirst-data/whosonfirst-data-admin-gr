@@ -9,15 +9,18 @@
     "geom:bbox":"21.20861,39.43417,21.20861,39.43417",
     "geom:latitude":39.43417,
     "geom:longitude":21.20861,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":999,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":999,
     "iso:country":"GR",
+    "lbl:bbox":"21.18861,39.41417,21.22861,39.45417",
     "lbl:latitude":39.43417,
     "lbl:longitude":21.20861,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062b\u064a\u0648\u062f\u0648\u0631\u064a\u0627\u0646\u0627"
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Theod\u00f3riana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Theodh\u00f3riana"
     ],
     "qs_pg:aaroncc":"GR",
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":963250,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126040079,
-    "wof:lastmodified":1563278427,
+    "wof:lastmodified":1566641717,
     "wof:name":"Theodhoriana",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

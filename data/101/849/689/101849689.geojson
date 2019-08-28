@@ -11,12 +11,16 @@
     "geom:longitude":23.491068,
     "gn:population":25370,
     "iso:country":"GR",
+    "lbl:bbox":"23.471068,37.942787,23.511068,37.982787",
     "lbl:latitude":37.962787,
     "lbl:longitude":23.491068,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":37.962787,
     "mps:longitude":23.491068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u064a\u0646\u0627"
     ],
@@ -82,9 +86,6 @@
     "name:swe_x_preferred":[
         "Salam\u00edna"
     ],
-    "name:unk_x_variant":[
-        "Ko\u00falouri"
-    ],
     "name:war_x_preferred":[
         "Salamina"
     ],
@@ -111,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.933333,
     "wd:longitude":23.5,
@@ -126,7 +127,6 @@
         "fct:id":"1147cb02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":254144,
         "gp:id":961441,
-        "qs:id":460300,
         "qs_pg:id":460300,
         "wd:id":"Q3500883",
         "wk:page":"Salamina (city)"
@@ -145,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563278049,
+    "wof:lastmodified":1566641502,
     "wof:name":"\u03a3\u0391\u039b\u0391\u039c\u0399\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

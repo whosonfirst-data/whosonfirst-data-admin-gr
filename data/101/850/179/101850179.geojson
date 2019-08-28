@@ -11,12 +11,16 @@
     "geom:longitude":21.775753,
     "gn:population":61653,
     "iso:country":"GR",
+    "lbl:bbox":"21.755753,39.535455,21.795753,39.575455",
     "lbl:latitude":39.555455,
     "lbl:longitude":21.775753,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":39.555455,
     "mps:longitude":21.775753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0643\u0627\u0644\u0627"
     ],
@@ -174,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0438\u043a\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trik\u00e1lon"
     ],
     "name:urd_x_preferred":[
@@ -207,7 +211,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":273,
     "wof:belongsto":[
@@ -219,7 +223,7 @@
     "wof:concordances":{
         "gn:id":252664,
         "gp:id":91673174,
-        "qs:id":349451,
+        "qs_pg:id":349451,
         "wd:id":"Q207467"
     },
     "wof:country":"GR",
@@ -233,7 +237,7 @@
         }
     ],
     "wof:id":101850179,
-    "wof:lastmodified":1563277956,
+    "wof:lastmodified":1566641464,
     "wof:name":"\u03a4\u03a1\u0399\u039a\u0391\u039b\u0391",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

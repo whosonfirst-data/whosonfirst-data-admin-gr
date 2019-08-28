@@ -11,12 +11,16 @@
     "geom:longitude":21.42922,
     "gn:population":12785,
     "iso:country":"GR",
+    "lbl:bbox":"21.40922,38.349117,21.44922,38.389117",
     "lbl:latitude":38.369117,
     "lbl:longitude":21.42922,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.369117,
     "mps:longitude":21.42922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0648\u0644\u0648\u0646\u063a\u064a"
     ],
@@ -185,9 +189,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0441\u043e\u043b\u043e\u043d\u0433\u0456\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Missolonghi"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0633\u0648\u0644\u0648\u0646\u06af\u06be\u06cc"
     ],
@@ -219,7 +220,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1326,
     "wof:belongsto":[
@@ -231,10 +232,12 @@
     "wof:concordances":{
         "gn:id":6693122,
         "gp:id":956951,
-        "qs:id":202235,
         "qs_pg:id":160968,
         "wd:id":"Q642810",
         "wk:page":"Missolonghi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":202235
     },
     "wof:country":"GR",
     "wof:geomhash":"49287fca23b31c08414309a65b9c2742",
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":101849561,
-    "wof:lastmodified":1563278037,
+    "wof:lastmodified":1566641497,
     "wof:name":"\u039c\u0395\u03a3\u039f\u039b\u039f\u0393\u0393\u0399\u039f\u039d",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

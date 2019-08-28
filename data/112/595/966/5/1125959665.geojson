@@ -9,15 +9,18 @@
     "geom:bbox":"20.82028,39.90611,20.82028,39.90611",
     "geom:latitude":39.90611,
     "geom:longitude":20.82028,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":304,
-    "gn:population":261,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":304,
     "iso:country":"GR",
+    "lbl:bbox":"20.80028,39.88611,20.84028,39.92611",
     "lbl:latitude":39.90611,
     "lbl:longitude":20.82028,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0426\u0435\u043f\u0435\u043b\u043e\u0432\u043e"
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Tsep\u00e9lovo"
     ],
-    "name:unk_x_variant":[
-        "Tsep\u00e9lovo"
-    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -74,7 +74,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":963778,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125959665,
-    "wof:lastmodified":1563278333,
+    "wof:lastmodified":1566641662,
     "wof:name":"Tsepelovon",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

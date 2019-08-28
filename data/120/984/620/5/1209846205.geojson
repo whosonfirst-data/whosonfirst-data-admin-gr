@@ -25,8 +25,12 @@
     "gn:population":1249,
     "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
+    "lbl:bbox":"23.02691,38.85924,23.06691,38.89924",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u062f\u064a\u0628\u0633\u0648\u0633"
     ],
@@ -76,10 +80,8 @@
         "\u0415\u0434\u0456\u043f\u0441\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "Aedipsos",
         "Aidhipso\u00fa",
-        "Aidhips\u00f3s",
-        "Aidips\u00f3s"
+        "Aidhips\u00f3s"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1209846205,
-    "wof:lastmodified":1564223818,
+    "wof:lastmodified":1566641069,
     "wof:name":"Aidipsos",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

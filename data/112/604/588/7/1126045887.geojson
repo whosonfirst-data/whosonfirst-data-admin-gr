@@ -9,15 +9,18 @@
     "geom:bbox":"22.69611,41.04417,22.69611,41.04417",
     "geom:latitude":41.04417,
     "geom:longitude":22.69611,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":69,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":69,
     "iso:country":"GR",
+    "lbl:bbox":"22.67611,41.02417,22.71611,41.06417",
     "lbl:latitude":41.04417,
     "lbl:longitude":22.69611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03bb\u03c4\u03bf\u03cd\u03b4\u03b9"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u0392\u03b1\u03bb\u03c4\u03bf\u03cd\u03b4\u03b9\u03bf\u03bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gavali\u00e1noi"
     ],
     "qs_pg:aaroncc":"GR",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":552784,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126045887,
-    "wof:lastmodified":1509408853,
+    "wof:lastmodified":1566641727,
     "wof:name":"Valto\u00fadion",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

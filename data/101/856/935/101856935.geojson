@@ -11,12 +11,16 @@
     "geom:longitude":23.036667,
     "gn:population":965,
     "iso:country":"GR",
+    "lbl:bbox":"23.016667,41.265587,23.056667,41.305587",
     "lbl:latitude":41.285587,
     "lbl:longitude":23.036667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":41.285587,
     "mps:longitude":23.036667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0648 \u0628\u0648\u0631\u0648\u064a\u0627"
     ],
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "\u00c1no Por\u00f3\u00efa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poroi"
     ],
     "qs:a0":"Greece",
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":41.283333,
     "wd:longitude":23.033333,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":736792,
         "gp:id":946027,
-        "qs:id":129119,
+        "qs_pg:id":129119,
         "wd:id":"Q3394711",
         "wk:page":"Ano Poroia"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101856935,
-    "wof:lastmodified":1563277967,
+    "wof:lastmodified":1566641469,
     "wof:name":"\u0391\u039d\u03a9 \u03a0\u039f\u03a1\u039f\u0399\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

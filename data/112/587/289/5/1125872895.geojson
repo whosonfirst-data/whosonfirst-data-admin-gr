@@ -9,15 +9,18 @@
     "geom:bbox":"23.93011,35.51877,23.93011,35.51877",
     "geom:latitude":35.51877,
     "geom:longitude":23.93011,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1671,
-    "gn:population":2005,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1671,
     "iso:country":"GR",
+    "lbl:bbox":"23.91011,35.49877,23.95011,35.53877",
     "lbl:latitude":35.51877,
     "lbl:longitude":23.93011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u064a\u064a\u0627 \u0645\u0627\u0631\u064a\u0646\u0627\u060c \u0647\u0627\u0646\u064a\u0627"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Agia Marina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ay\u00eda Mar\u00edna"
     ],
     "qs_pg:aaroncc":"GR",
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":946905,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125872895,
-    "wof:lastmodified":1563278667,
+    "wof:lastmodified":1566641857,
     "wof:name":"Ayia Marina",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

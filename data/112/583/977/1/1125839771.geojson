@@ -9,15 +9,18 @@
     "geom:bbox":"25.32872,37.44529,25.32872,37.44529",
     "geom:latitude":37.44529,
     "geom:longitude":25.32872,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7739,
-    "gn:population":3783,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":7739,
     "iso:country":"GR",
+    "lbl:bbox":"25.30872,37.42529,25.34872,37.46529",
     "lbl:latitude":37.44529,
     "lbl:longitude":25.32872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "M\u00edkonos"
@@ -47,7 +50,7 @@
     "name:spa_x_preferred":[
         "M\u00edkonos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamenaki"
     ],
     "qs_pg:aaroncc":"GR",
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957177,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125839771,
-    "wof:lastmodified":1509395219,
+    "wof:lastmodified":1566642149,
     "wof:name":"Mikonos",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

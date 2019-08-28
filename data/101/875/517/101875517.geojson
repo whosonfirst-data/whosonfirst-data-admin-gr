@@ -13,10 +13,13 @@
     "iso:country":"GR",
     "lbl:latitude":37.719723,
     "lbl:longitude":20.82943,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.719723,
     "mps:longitude":20.82943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062b\u0627\u0643\u064a\u0627"
     ],
@@ -41,9 +44,6 @@
     "name:swe_x_preferred":[
         "Lithaki\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Lithaki\u00e1"
-    ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0399\u039f\u039d\u0399\u0391 \u039d\u0397\u03a3\u0399\u0391",
     "qs:a1_alt":"IONIA NHSIA",
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":258241,
         "gp:id":955531,
-        "qs:id":912247,
         "qs_pg:id":912247,
         "wd:id":"Q385106",
         "wk:page":"Lithakia"
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":101875517,
-    "wof:lastmodified":1563277865,
+    "wof:lastmodified":1566641423,
     "wof:name":"\u039b\u0399\u0398\u0391\u039a\u0399\u0391",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

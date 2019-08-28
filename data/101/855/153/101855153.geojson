@@ -11,12 +11,16 @@
     "geom:longitude":23.224219,
     "gn:population":1604,
     "iso:country":"GR",
+    "lbl:bbox":"23.204219,40.242322,23.244219,40.282322",
     "lbl:latitude":40.262322,
     "lbl:longitude":23.224219,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":40.262322,
     "mps:longitude":23.224219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u0648\u063a\u064a\u062a\u0627"
     ],
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "N\u00e9a Flogit\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Floyit\u00e1"
     ],
     "qs:a0":"Greece",
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":40.26,
     "wd:longitude":23.22,
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":736226,
         "gp:id":949624,
-        "qs:id":1332528,
+        "qs_pg:id":1332528,
         "wd:id":"Q3566817",
         "wk:page":"Flogita"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101855153,
-    "wof:lastmodified":1563278148,
+    "wof:lastmodified":1566641542,
     "wof:name":"\u03a6\u039b\u039f\u0393\u0397\u03a4\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

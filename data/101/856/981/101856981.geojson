@@ -11,12 +11,16 @@
     "geom:longitude":23.99867,
     "gn:population":1225,
     "iso:country":"GR",
+    "lbl:bbox":"23.97867,41.298146,24.01867,41.338146",
     "lbl:latitude":41.318146,
     "lbl:longitude":23.99867,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.318146,
     "mps:longitude":23.99867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u0628\u064a\u062a\u0627\u0644\u064a\u0648\u0646"
     ],
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "V\u00f3lakas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00f3lax"
     ],
     "qs:a0":"Greece",
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":733877,
         "gp:id":964756,
-        "qs:id":552753,
+        "qs_pg:id":552753,
         "wk:page":"Volakas, Elis"
     },
     "wof:country":"GR",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101856981,
-    "wof:lastmodified":1564224368,
+    "wof:lastmodified":1566641471,
     "wof:name":"\u0392\u03a9\u039b\u0391\u039e",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

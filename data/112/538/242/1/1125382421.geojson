@@ -9,20 +9,23 @@
     "geom:bbox":"20.57806,38.22444,20.57806,38.22444",
     "geom:latitude":38.22444,
     "geom:longitude":20.57806,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":34544,
+    "gn:country":"GR",
+    "gn:fcode":"ADM3",
     "gn:population":34544,
     "iso:country":"GR",
+    "lbl:bbox":"20.47806,38.12444,20.67806,38.32444",
     "lbl:latitude":38.22444,
     "lbl:longitude":20.57806,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c6\u03b1\u03bb\u03bf\u03bd\u03b9\u03ac\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00edmos Kefalloni\u00e1s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":381484,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125382421,
-    "wof:lastmodified":1509389610,
+    "wof:lastmodified":1566641921,
     "wof:name":"Dimos Kefalonia",
     "wof:parent_id":85684693,
     "wof:placetype":"localadmin",

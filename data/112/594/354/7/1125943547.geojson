@@ -9,15 +9,18 @@
     "geom:bbox":"20.85833,39.15556,20.85833,39.15556",
     "geom:latitude":39.15556,
     "geom:longitude":20.85833,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":925,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
     "gn:population":925,
     "iso:country":"GR",
+    "lbl:bbox":"20.83833,39.13556,20.87833,39.17556",
     "lbl:latitude":39.15556,
     "lbl:longitude":20.85833,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "N\u00e9a Keraso\u00fanta"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u039d\u03ad\u03b1 \u039a\u03b5\u03c1\u03b1\u03c3\u03bf\u03cd\u03bd\u03c4\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9a Keraso\u00fas"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":957923,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125943547,
-    "wof:lastmodified":1509402225,
+    "wof:lastmodified":1566641594,
     "wof:name":"Nea Kerasous",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

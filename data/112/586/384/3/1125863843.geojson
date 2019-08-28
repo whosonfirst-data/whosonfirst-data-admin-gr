@@ -9,15 +9,18 @@
     "geom:bbox":"22.86667,37.81667,22.86667,37.81667",
     "geom:latitude":37.81667,
     "geom:longitude":22.86667,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1769,
-    "gn:population":1699,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":1769,
     "iso:country":"GR",
+    "lbl:bbox":"22.84667,37.79667,22.88667,37.83667",
     "lbl:latitude":37.81667,
     "lbl:longitude":22.86667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u064a\u0644\u064a\u0648\u0645\u0648\u062f\u064a"
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Khiliom\u00f3dhi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khiliomodion"
     ],
     "qs_pg:aaroncc":"GR",
@@ -81,7 +84,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":953139,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125863843,
-    "wof:lastmodified":1563278543,
+    "wof:lastmodified":1566641790,
     "wof:name":"Khiliomodhion",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

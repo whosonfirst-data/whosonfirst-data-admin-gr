@@ -9,15 +9,18 @@
     "geom:bbox":"21.8175,39.01111,21.8175,39.01111",
     "geom:latitude":39.01111,
     "geom:longitude":21.8175,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":122,
-    "gn:population":49,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":122,
     "iso:country":"GR",
+    "lbl:bbox":"21.7975,38.99111,21.8375,39.03111",
     "lbl:latitude":39.01111,
     "lbl:longitude":21.8175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041f\u044f\u0442\u0440\u0430\u043b\u0430\u043d\u0430"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430\u043b\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arakhov\u00edtsa"
     ],
     "qs_pg:aaroncc":"GR",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":959741,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125776531,
-    "wof:lastmodified":1564225129,
+    "wof:lastmodified":1566642133,
     "wof:name":"Petralona",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

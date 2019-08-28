@@ -11,12 +11,16 @@
     "geom:longitude":23.679684,
     "gn:population":2592,
     "iso:country":"GR",
+    "lbl:bbox":"23.659684,40.425584,23.699684,40.465584",
     "lbl:latitude":40.445584,
     "lbl:longitude":23.679684,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.445584,
     "mps:longitude":23.679684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Meg\u00e1li Panag\u00eda"
     ],
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Meg\u00e1li Panag\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reven\u00edkia"
     ],
     "qs:a0":"Greece",
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -92,10 +96,12 @@
     "wof:concordances":{
         "gn:id":255909,
         "gp:id":959051,
-        "qs:id":1284639,
         "qs_pg:id":543211,
         "wd:id":"Q1309801",
         "wk:page":"Panagia, Chalkidiki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1284639
     },
     "wof:country":"GR",
     "wof:geomhash":"780cbb8116ddfe39bec379acc2d3d694",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":101855105,
-    "wof:lastmodified":1563278132,
+    "wof:lastmodified":1566641535,
     "wof:name":"\u039c\u0395\u0393\u0391\u039b\u0397 \u03a0\u0391\u039d\u0391\u0393\u0399\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

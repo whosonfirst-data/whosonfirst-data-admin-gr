@@ -9,15 +9,18 @@
     "geom:bbox":"20.68167,39.545,20.68167,39.545",
     "geom:latitude":39.545,
     "geom:longitude":20.68167,
-    "gn:gn_country":"GR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":128,
-    "gn:population":95,
+    "gn:country":"GR",
+    "gn:fcode":"PPL",
+    "gn:population":128,
     "iso:country":"GR",
+    "lbl:bbox":"20.66167,39.525,20.70167,39.565",
     "lbl:latitude":39.545,
     "lbl:longitude":20.68167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03bc\u03b1\u03c1\u03b9\u03ac"
@@ -25,7 +28,7 @@
     "name:eng_x_preferred":[
         "Koumaria"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koumbari\u00e9s"
     ],
     "qs_pg:aaroncc":"GR",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":954329,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125943039,
-    "wof:lastmodified":1509402186,
+    "wof:lastmodified":1566641608,
     "wof:name":"Koumaria",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18295447.023297,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.83332,38.395342,21.83332,38.395342",
     "geom:latitude":38.395342,
     "geom:longitude":21.83332,
     "gn:latitude":38.41667,
     "gn:longitude":21.86667,
     "iso:country":"GR",
+    "lbl:bbox":"21.82832,38.390342,21.83832,38.400342",
     "lbl:latitude":38.395342,
     "lbl:longitude":21.83332,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.398575,
     "mps:longitude":21.828316,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Ano Dhafni"
     ],
     "name:eng_x_preferred":[
-        "\u00c1no Dh\u00e1fni"
-    ],
-    "name:unk_x_variant":[
         "\u00c1no Dh\u00e1fni"
     ],
     "qs:gn_adm0_cc":"GR",
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101875639,
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gn:id":264955,
         "gp:id":945830,
-        "qs:id":1167809,
         "qs_pg:id":1167809
     },
     "wof:country":"GR",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935913,
+    "wof:lastmodified":1566640744,
     "wof:name":"\u00c1no Dh\u00e1fni",
     "wof:parent_id":101875639,
     "wof:placetype":"neighbourhood",
