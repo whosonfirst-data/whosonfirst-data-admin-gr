@@ -1,10 +1,12 @@
 {
   "id": 101849461,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-gr",
+  "properties": {
+    "src:alt_label":"quattroshapes_pg",
     "src:geom":"quattroshapes_pg",
     "wof:geomhash":"149478286ffd7920972ae9da43ea24e8",
-    "wof:id":101849461
+    "wof:id":101849461,
+    "wof:repo":"whosonfirst-data-admin-gr"
 },
   "bbox": [
     23.95,
