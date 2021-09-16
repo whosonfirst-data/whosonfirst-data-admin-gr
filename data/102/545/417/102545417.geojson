@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.0256361111,37.0683833333,22.0256361111,37.0683833333",
+    "geom:bbox":"22.025636,37.068383,22.025636,37.068383",
     "geom:latitude":37.068383,
     "geom:longitude":22.025636,
     "iso:country":"GR",
@@ -18,6 +18,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Kalamata"
+    ],
+    "name:eng_x_variant":[
+        "KLX",
+        "LGKL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u0644\u0627\u0645\u0627\u062a\u0627"
@@ -82,7 +86,7 @@
         "wd:id":"Q924954"
     },
     "wof:country":"GR",
-    "wof:geomhash":"8dee0e0c46433740f415b12dde266f23",
+    "wof:geomhash":"e238c3a31217cd297c29810b7a4c4591",
     "wof:hierarchy":[
         {
             "campus_id":102545417,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":102545417,
-    "wof:lastmodified":1566640594,
+    "wof:lastmodified":1631753131,
     "wof:name":"Kalamata Airport",
     "wof:parent_id":85684643,
     "wof:placetype":"campus",
@@ -103,10 +107,10 @@
     ]
 },
   "bbox": [
-    22.025636111111,
-    37.068383333333,
-    22.025636111111,
-    37.068383333333
+    22.025636,
+    37.068383,
+    22.025636,
+    37.068383
 ],
-  "geometry": {"coordinates":[22.025636111111,37.068383333333],"type":"Point"}
+  "geometry": {"coordinates":[22.025636,37.068383],"type":"Point"}
 }

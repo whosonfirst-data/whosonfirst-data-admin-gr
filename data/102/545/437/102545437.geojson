@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.101325,35.2161083333,26.101325,35.2161083333",
+    "geom:bbox":"26.101325,35.216108,26.101325,35.216108",
     "geom:latitude":35.216108,
     "geom:longitude":26.101325,
     "iso:country":"GR",
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred":[
         "Sitia Public Airport"
+    ],
+    "name:eng_x_variant":[
+        "JSH",
+        "LGST"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0639\u0645\u0648\u0645\u06cc \u0633\u06cc\u062a\u06cc\u0627"
@@ -90,7 +94,7 @@
         "wd:id":"Q630703"
     },
     "wof:country":"GR",
-    "wof:geomhash":"e6ba8872cc2ef5f121a7ab931a862581",
+    "wof:geomhash":"fbceee331fac804d844c08d687f24541",
     "wof:hierarchy":[
         {
             "campus_id":102545437,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":102545437,
-    "wof:lastmodified":1566640593,
+    "wof:lastmodified":1631753131,
     "wof:name":"Sitia Airport",
     "wof:parent_id":101848177,
     "wof:placetype":"campus",
@@ -113,9 +117,9 @@
 },
   "bbox": [
     26.101325,
-    35.216108333333,
+    35.216108,
     26.101325,
-    35.216108333333
+    35.216108
 ],
-  "geometry": {"coordinates":[26.101325,35.216108333333],"type":"Point"}
+  "geometry": {"coordinates":[26.101325,35.216108],"type":"Point"}
 }
