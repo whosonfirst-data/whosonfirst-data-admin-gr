@@ -110,6 +110,9 @@
         "\u0932\u093e\u0917\u094b\u0938"
     ],
     "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b3\u03ba\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
         "\u039b\u03ac\u03b3\u03bf\u03c2"
     ],
     "name:epo_x_preferred":[
@@ -432,7 +435,7 @@
         "gn:id":258707
     },
     "wof:country":"GR",
-    "wof:geomhash":"b85bc2bb796236427395b66049f5bcb2",
+    "wof:geomhash":"d1b1396feef9103010b4552ee5b518ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -442,7 +445,7 @@
         }
     ],
     "wof:id":1242907327,
-    "wof:lastmodified":1566642268,
+    "wof:lastmodified":1636503088,
     "wof:name":"Lagos",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",
@@ -452,10 +455,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.33542000000001,
+    25.33542,
     35.25172,
-    25.33542000000001,
+    25.33542,
     35.25172
 ],
-  "geometry": {"coordinates":[25.33542000000001,35.25172],"type":"Point"}
+  "geometry": {"coordinates":[25.33542,35.25172],"type":"Point"}
 }

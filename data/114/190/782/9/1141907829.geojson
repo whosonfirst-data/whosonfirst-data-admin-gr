@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.9332995185,37.4504130239,24.9332995185,37.4504130239",
+    "geom:bbox":"24.9333,37.450413,24.9333,37.450413",
     "geom:latitude":37.450413,
     "geom:longitude":24.9333,
     "iso:country":"GR",
@@ -20,6 +20,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0645\u0648\u0628\u0648\u0644\u064a\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b0\u09ae\u09cb\u0989\u09aa\u09cb\u09b2\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0415\u0440\u043c\u0443\u043f\u043e\u043b\u0438"
@@ -54,11 +57,17 @@
     "name:eus_x_preferred":[
         "Ermoupoli"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0645\u0648\u067e\u0648\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ermo\u00fapoli"
     ],
     "name:fra_x_preferred":[
         "Ermo\u00fapoli"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0930\u094d\u092e\u094b\u092a\u094b\u0932\u0940"
     ],
     "name:hrv_x_preferred":[
         "Ermoupolis"
@@ -131,6 +140,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u0645\u0624\u067e\u0648\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Ermoupoli"
     ],
     "name:war_x_preferred":[
         "Ermoupoli"
@@ -245,7 +257,7 @@
     },
     "wof:country":"GR",
     "wof:created":1499130776,
-    "wof:geomhash":"168d493adfd78de78c9781f2341fede4",
+    "wof:geomhash":"08be668e0d1248d69d9ca92e0721edb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":1141907829,
-    "wof:lastmodified":1566642503,
+    "wof:lastmodified":1636503089,
     "wof:name":"Ermoupoli",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",
@@ -265,10 +277,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.93329951854184,
-    37.45041302392923,
-    24.93329951854184,
-    37.45041302392923
+    24.9333,
+    37.450413,
+    24.9333,
+    37.450413
 ],
-  "geometry": {"coordinates":[24.93329951854184,37.45041302392923],"type":"Point"}
+  "geometry": {"coordinates":[24.9333,37.450413],"type":"Point"}
 }

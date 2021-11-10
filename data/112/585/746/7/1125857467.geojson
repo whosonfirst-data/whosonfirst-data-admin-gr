@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.941142,37.4422565,24.941142,37.4422565",
+    "geom:bbox":"24.941142,37.442256,24.941142,37.442256",
     "geom:latitude":37.442256,
     "geom:longitude":24.941142,
     "gn:country":null,
@@ -22,6 +22,9 @@
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0631\u0645\u0648\u0628\u0648\u0644\u064a\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b0\u09ae\u09cb\u0989\u09aa\u09cb\u09b2\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0415\u0440\u043c\u0443\u043f\u043e\u043b\u0438"
@@ -56,11 +59,17 @@
     "name:eus_x_preferred":[
         "Ermoupoli"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0645\u0648\u067e\u0648\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ermo\u00fapoli"
     ],
     "name:fra_x_preferred":[
         "Ermo\u00fapoli"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0930\u094d\u092e\u094b\u092a\u094b\u0932\u0940"
     ],
     "name:hrv_x_preferred":[
         "Ermoupolis"
@@ -134,6 +143,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0645\u0624\u067e\u0648\u0644\u06cc"
     ],
+    "name:vie_x_preferred":[
+        "Ermoupoli"
+    ],
     "name:war_x_preferred":[
         "Ermoupoli"
     ],
@@ -176,7 +188,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497293679,
-    "wof:geomhash":"39fc339b66f226f67a115ab26c90d804",
+    "wof:geomhash":"16fc95f73f4a4ed3e86c70fe252d8d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +198,7 @@
         }
     ],
     "wof:id":1125857467,
-    "wof:lastmodified":1566642055,
+    "wof:lastmodified":1636503088,
     "wof:name":"Ermoupoli",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",
@@ -197,9 +209,9 @@
 },
   "bbox": [
     24.941142,
-    37.4422565,
+    37.442256,
     24.941142,
-    37.4422565
+    37.442256
 ],
-  "geometry": {"coordinates":[24.941142,37.4422565],"type":"Point"}
+  "geometry": {"coordinates":[24.941142,37.442256],"type":"Point"}
 }

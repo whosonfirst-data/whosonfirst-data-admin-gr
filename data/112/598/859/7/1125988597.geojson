@@ -29,10 +29,11 @@
         "Lagos"
     ],
     "name:ell_x_preferred":[
-        "\u039b\u03ac\u03b3\u03bf\u03c2"
+        "\u039b\u03ac\u03b3\u03ba\u03bf\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03ac\u03b3\u03bf\u03c2 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2"
+        "\u039b\u03ac\u03b3\u03bf\u03c2 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2",
+        "\u039b\u03ac\u03b3\u03bf\u03c2"
     ],
     "name:eng_x_historical":[
         "Porto Lago"
@@ -44,6 +45,9 @@
         "Lagos"
     ],
     "name:fra_x_preferred":[
+        "Lagos"
+    ],
+    "name:hun_x_preferred":[
         "Lagos"
     ],
     "name:ita_x_preferred":[
@@ -60,6 +64,9 @@
     ],
     "name:und_x_variant":[
         "Karag\u00e1ch"
+    ],
+    "name:vie_x_preferred":[
+        "Lagos"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -111,7 +118,7 @@
         }
     ],
     "wof:id":1125988597,
-    "wof:lastmodified":1566641946,
+    "wof:lastmodified":1636503087,
     "wof:name":"Lagos",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

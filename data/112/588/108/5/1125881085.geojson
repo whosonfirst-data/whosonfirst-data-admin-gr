@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.97978,40.3255215,23.97978,40.3255215",
+    "geom:bbox":"23.97978,40.325522,23.97978,40.325522",
     "geom:latitude":40.325522,
     "geom:longitude":23.97978,
     "gn:country":"GR",
@@ -20,6 +20,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u09b0\u0997\u09b8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u0930\u094d\u0917\u094b\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Pirgos"
+    ],
+    "name:vie_x_preferred":[
+        "Pirgos"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:name":"Pirgos",
@@ -51,7 +63,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497294809,
-    "wof:geomhash":"cdb5354e45a7718c4a86ba473ab392fd",
+    "wof:geomhash":"cf60ee6af08cb6b0ded92bd62b8be794",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1125881085,
-    "wof:lastmodified":1566641820,
+    "wof:lastmodified":1636503086,
     "wof:name":"Pirgos",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -72,9 +84,9 @@
 },
   "bbox": [
     23.97978,
-    40.3255215,
+    40.325522,
     23.97978,
-    40.3255215
+    40.325522
 ],
-  "geometry": {"coordinates":[23.97978,40.3255215],"type":"Point"}
+  "geometry": {"coordinates":[23.97978,40.325522],"type":"Point"}
 }
