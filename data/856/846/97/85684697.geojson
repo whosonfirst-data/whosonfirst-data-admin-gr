@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Attiki",
+    "eurostat:name_local":"A\u03c4\u03c4\u03b9\u03ba\u03ae",
+    "eurostat:nuts_2021_id":"EL30",
+    "eurostat:nuts_2021_level_0":"",
+    "eurostat:nuts_2021_level_1":"",
+    "eurostat:nuts_2021_level_2":"EL30",
+    "eurostat:population":3806550,
+    "eurostat:population_year":2022,
     "geom:area":0.396295,
-    "geom:area_square_m":3869721964.917675,
+    "geom:area_square_m":3869721419.023921,
     "geom:bbox":"22.883449,35.823658,24.091463,38.339138",
     "geom:latitude":37.839878,
     "geom:longitude":23.602836,
@@ -234,14 +244,18 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL30"
+    },
     "wof:country":"GR",
-    "wof:geomhash":"cadf11e6d62731894f1f3c8996512cde",
+    "wof:geomhash":"4b26b3ad1364482806967278bc7479e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,11 +270,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894072,
+    "wof:lastmodified":1684351434,
     "wof:name":"Attica",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":3806550,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"AT",
     "wof:superseded_by":[],

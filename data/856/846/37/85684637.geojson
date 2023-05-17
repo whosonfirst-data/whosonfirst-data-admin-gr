@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Kentriki Makedonia",
+    "eurostat:name_local":"\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1",
+    "eurostat:nuts_2021_id":"EL52",
+    "eurostat:nuts_2021_level_0":"EL",
+    "eurostat:nuts_2021_level_1":"EL5",
+    "eurostat:nuts_2021_level_2":"EL52",
+    "eurostat:population":1790686,
+    "eurostat:population_year":2022,
     "geom:area":2.016949,
-    "geom:area_square_m":18895137260.795578,
+    "geom:area_square_m":18895137890.291874,
     "geom:bbox":"21.704187,39.906585,24.261028,41.410988",
     "geom:latitude":40.743632,
     "geom:longitude":22.9577,
@@ -280,12 +290,15 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL52",
         "fips:code":"GR05",
         "gn:id":6697801,
         "gp:id":12577884,
@@ -295,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f944346d08c0d81eb1de65b2e2ad6725",
+    "wof:geomhash":"c224019d79998bf3c116e82a32d033b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,11 +323,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894072,
+    "wof:lastmodified":1684351426,
     "wof:name":"Central Macedonia",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":1790686,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"MC",
     "wof:superseded_by":[],

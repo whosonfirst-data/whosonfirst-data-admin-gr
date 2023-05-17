@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Dytiki Makedonia",
+    "eurostat:name_local":"\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1",
+    "eurostat:nuts_2021_id":"EL53",
+    "eurostat:nuts_2021_level_0":"EL",
+    "eurostat:nuts_2021_level_1":"EL5",
+    "eurostat:nuts_2021_level_2":"EL53",
+    "eurostat:population":253954,
+    "eurostat:population_year":2022,
     "geom:area":1.003287,
-    "geom:area_square_m":9452894313.741705,
+    "geom:area_square_m":9452894912.732904,
     "geom:bbox":"20.776516,39.830353,22.195308,40.939296",
     "geom:latitude":40.360931,
     "geom:longitude":21.483283,
@@ -120,19 +130,22 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL53",
         "fips:code":"GR08",
         "gn:id":6697811,
         "gp:id":12577881,
         "hasc:id":"GR.MW"
     },
     "wof:country":"GR",
-    "wof:geomhash":"62c5a86d207d4f7ec57c92fd2c8be015",
+    "wof:geomhash":"b3dea3af6818c7731c2bf825a1d0f48d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,11 +160,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894071,
+    "wof:lastmodified":1684351426,
     "wof:name":"West Macedonia",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":253954,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"MW",
     "wof:superseded_by":[],
