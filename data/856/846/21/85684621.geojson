@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Dytiki Ell\u00e1da",
+    "eurostat:name_local":"\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "eurostat:nuts_2021_id":"EL63",
+    "eurostat:nuts_2021_level_0":"",
+    "eurostat:nuts_2021_level_1":"",
+    "eurostat:nuts_2021_level_2":"EL63",
+    "eurostat:population":646621,
+    "eurostat:population_year":2022,
     "geom:area":1.182669,
-    "geom:area_square_m":11478722166.223099,
+    "geom:area_square_m":11478721542.723627,
     "geom:bbox":"20.718449,37.376484,22.378053,39.174736",
     "geom:latitude":38.284012,
     "geom:longitude":21.572361,
@@ -213,17 +223,21 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL63"
+    },
     "wof:country":"GR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a1842c50a684d0a7f805f44e4339276",
+    "wof:geomhash":"4af715ea9d169196bf4d03b1817545f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -238,11 +252,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894071,
+    "wof:lastmodified":1684351425,
     "wof:name":"Western Greece",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":646621,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"WG",
     "wof:superseded_by":[],

@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Thessalia",
+    "eurostat:name_local":"\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1",
+    "eurostat:nuts_2021_id":"EL61",
+    "eurostat:nuts_2021_level_0":"EL",
+    "eurostat:nuts_2021_level_1":"EL6",
+    "eurostat:nuts_2021_level_2":"EL61",
+    "eurostat:population":686344,
+    "eurostat:population_year":2022,
     "geom:area":1.472132,
-    "geom:area_square_m":14039407245.23712,
+    "geom:area_square_m":14039406885.034187,
     "geom:bbox":"21.120411,38.969696,24.333246,40.19611",
     "geom:latitude":39.532085,
     "geom:longitude":22.217959,
@@ -342,12 +352,15 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL61",
         "fips:code":"GR21",
         "gn:id":6697809,
         "gp:id":12577889,
@@ -358,7 +371,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90fcffcb2fc2715f652bdb60be2a0afa",
+    "wof:geomhash":"d150752d0413ba0de30c4a761e44e2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -373,11 +386,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894073,
+    "wof:lastmodified":1684351433,
     "wof:name":"Thessaly",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":686344,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"TS",
     "wof:superseded_by":[],

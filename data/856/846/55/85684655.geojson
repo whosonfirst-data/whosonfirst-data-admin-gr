@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Kriti",
+    "eurostat:name_local":"\u039a\u03c1\u03ae\u03c4\u03b7",
+    "eurostat:nuts_2021_id":"EL43",
+    "eurostat:nuts_2021_level_0":"EL",
+    "eurostat:nuts_2021_level_1":"EL4",
+    "eurostat:nuts_2021_level_2":"EL43",
+    "eurostat:population":623633,
+    "eurostat:population_year":2022,
     "geom:area":0.828392,
-    "geom:area_square_m":8366608797.946146,
+    "geom:area_square_m":8366609086.46156,
     "geom:bbox":"23.523992,34.802524,26.357095,35.694042",
     "geom:latitude":35.234607,
     "geom:longitude":24.850769,
@@ -447,19 +457,22 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL43",
         "fips:code":"GR43",
         "gn:id":6697802,
         "gp:id":12577885,
         "hasc:id":"GR.CR"
     },
     "wof:country":"GR",
-    "wof:geomhash":"718dba7babbd6f8268a2ea1e198ff3e0",
+    "wof:geomhash":"39381f811d599da11b1c0e9553872b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -474,11 +487,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894072,
+    "wof:lastmodified":1684351426,
     "wof:name":"Crete",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":623633,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"CR",
     "wof:superseded_by":[],

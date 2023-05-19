@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Notio Aigaio",
+    "eurostat:name_local":"\u039d\u03cc\u03c4\u03b9\u03bf \u0391\u03b9\u03b3\u03b1\u03af\u03bf",
+    "eurostat:nuts_2021_id":"EL42",
+    "eurostat:nuts_2021_level_0":"",
+    "eurostat:nuts_2021_level_1":"",
+    "eurostat:nuts_2021_level_2":"EL42",
+    "eurostat:population":327517,
+    "eurostat:population_year":2022,
     "geom:area":0.543554,
-    "geom:area_square_m":5385741970.762345,
+    "geom:area_square_m":5385741580.378572,
     "geom:bbox":"24.107037,35.339867,29.643049,38.211708",
     "geom:latitude":36.73978,
     "geom:longitude":26.31831,
@@ -204,14 +214,18 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL42"
+    },
     "wof:country":"GR",
-    "wof:geomhash":"2a0a3e2f9aa153d46e59146530d00fca",
+    "wof:geomhash":"717a295012827654cae42bc7b3ea7438",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,11 +240,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894067,
+    "wof:lastmodified":1684351427,
     "wof:name":"South Aegean",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":327517,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

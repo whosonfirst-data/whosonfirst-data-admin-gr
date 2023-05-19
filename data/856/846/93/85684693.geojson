@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Ionia Nisia",
+    "eurostat:name_local":"\u0399\u03cc\u03bd\u03b9\u03b1 \u039d\u03b7\u03c3\u03b9\u03ac",
+    "eurostat:nuts_2021_id":"EL62",
+    "eurostat:nuts_2021_level_0":"",
+    "eurostat:nuts_2021_level_1":"",
+    "eurostat:nuts_2021_level_2":"EL62",
+    "eurostat:population":204081,
+    "eurostat:population_year":2022,
     "geom:area":0.242531,
-    "geom:area_square_m":2342169787.475952,
+    "geom:area_square_m":2342169903.103809,
     "geom:bbox":"19.373762,37.242058,21.119074,39.891487",
     "geom:latitude":38.642649,
     "geom:longitude":20.416601,
@@ -234,17 +244,21 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL62"
+    },
     "wof:country":"GR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d36d6a1a23a41d3b89426c49844c8110",
+    "wof:geomhash":"0605a2cfe2500ef4617c3fae40f7d197",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -259,11 +273,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894071,
+    "wof:lastmodified":1684351434,
     "wof:name":"Ionian Islands",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":204081,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"II",
     "wof:superseded_by":[],

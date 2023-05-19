@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Ell\u00e1da",
+    "eurostat:name_local":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "eurostat:nuts_2021_id":"EL",
+    "eurostat:nuts_2021_level_0":"EL",
+    "eurostat:population":10459782,
+    "eurostat:population_year":2022,
     "geom:area":13.80935,
-    "geom:area_square_m":132588120972.926025,
+    "geom:area_square_m":132565734565.379303,
     "geom:bbox":"19.373762,34.802524,29.643049,41.75032",
     "geom:latitude":39.042787,
     "geom:longitude":22.983387,
@@ -1233,7 +1241,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"30",
     "statoids:ds":"GR",
     "statoids:fifa":"GRE",
@@ -1262,6 +1271,7 @@
     "wof:concordances":{
         "dbp:id":"Greece",
         "digitalenvoy:country_code":300,
+        "eurostat:nuts_2021_id":"EL",
         "fb:id":"en.greece",
         "fifa:id":"GRE",
         "fips:code":"GR",
@@ -1292,7 +1302,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"b27381bbe9504c75c66411a7483eb689",
+    "wof:geomhash":"688dea4d7a502cac5ce98d3e2cbb9034",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1306,11 +1316,11 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1617828571,
+    "wof:lastmodified":1684351313,
     "wof:name":"Greece",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":10815197,
+    "wof:population":10459782,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"GR",

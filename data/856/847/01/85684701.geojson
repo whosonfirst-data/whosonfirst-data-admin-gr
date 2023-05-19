@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Anatoliki Makedonia, Thraki",
+    "eurostat:name_local":"A\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1, \u0398\u03c1\u03ac\u03ba\u03b7",
+    "eurostat:nuts_2021_id":"EL51",
+    "eurostat:nuts_2021_level_0":"EL",
+    "eurostat:nuts_2021_level_1":"EL5",
+    "eurostat:nuts_2021_level_2":"EL51",
+    "eurostat:population":560826,
+    "eurostat:population_year":2022,
     "geom:area":1.528,
-    "geom:area_square_m":14223835753.853338,
+    "geom:area_square_m":14223835022.023581,
     "geom:bbox":"23.623537,40.37968,26.634763,41.75032",
     "geom:latitude":41.164018,
     "geom:longitude":25.138318,
@@ -123,12 +133,15 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL51",
         "fips:code":"GR01",
         "gn:id":6697803,
         "gp:id":12577878,
@@ -138,7 +151,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"594123ddb58c771ed735df4e5ca17a96",
+    "wof:geomhash":"94969297f42fccd818dbc333b5319193",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,11 +166,13 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894073,
+    "wof:lastmodified":1684351434,
     "wof:name":"East Macedonia and Thrace",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
+    "wof:population":560826,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"MT",
     "wof:superseded_by":[],

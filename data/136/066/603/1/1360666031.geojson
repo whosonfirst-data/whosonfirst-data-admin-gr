@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"EL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Voreio Aigaio",
+    "eurostat:name_local":"\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u0391\u03b9\u03b3\u03b1\u03af\u03bf",
+    "eurostat:nuts_2021_id":"EL41",
+    "eurostat:nuts_2021_level_0":"",
+    "eurostat:nuts_2021_level_1":"",
+    "eurostat:nuts_2021_level_2":"EL41",
+    "eurostat:population":195229,
+    "eurostat:population_year":2022,
     "geom:area":0.395096,
-    "geom:area_square_m":3806757297.276749,
+    "geom:area_square_m":3806757297.276751,
     "geom:bbox":"24.973643,37.51317,27.067882,40.0362",
     "geom:latitude":38.806767,
     "geom:longitude":26.105232,
@@ -188,14 +198,18 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[],
     "src:geom_via":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"EL41"
+    },
     "wof:country":"GR",
-    "wof:geomhash":"36db54adaab00e0a01f7c327e45a7182",
+    "wof:geomhash":"d3d94ea3a524dc589ad12f6274fe57d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -210,10 +224,12 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1614894073,
+    "wof:lastmodified":1684351434,
     "wof:name":"North Aegean",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
+    "wof:population":195229,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:shortcode":"NA",
     "wof:superseded_by":[],
