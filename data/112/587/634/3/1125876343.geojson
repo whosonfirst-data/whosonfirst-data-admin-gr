@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u0643\u0633\u064a\u0644\u0648\u0628\u0648\u0644\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0633\u064a\u0644\u0648\u067e\u0648\u0644\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0432\u0430\u043d"
     ],
@@ -38,10 +41,14 @@
         "\u039e\u03c5\u03bb\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2"
     ],
     "name:ell_x_variant":[
-        "\u039e\u03c5\u03bb\u03cc\u03c0\u03bf\u03bb\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
+        "\u039e\u03c5\u03bb\u03cc\u03c0\u03bf\u03bb\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2",
+        "\u039e\u03c5\u03bb\u03cc\u03c0\u03bf\u03bb\u03b7"
     ],
     "name:eng_x_preferred":[
         "Xylopoli"
+    ],
+    "name:fra_x_preferred":[
+        "Xyl\u00f3poli"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0432\u0430\u043d"
@@ -51,6 +58,9 @@
     ],
     "name:nno_x_preferred":[
         "Xylo\u00fapoli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0441\u0438\u043b\u043e\u043f\u043e\u043b\u0438\u0441"
     ],
     "name:swe_x_preferred":[
         "Xil\u00f3polis"
@@ -105,7 +115,7 @@
         }
     ],
     "wof:id":1125876343,
-    "wof:lastmodified":1566641858,
+    "wof:lastmodified":1690924606,
     "wof:name":"Xilopolis",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

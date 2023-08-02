@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.555564,39.1078515,26.555564,39.1078515",
+    "geom:bbox":"26.555564,39.107852,26.555564,39.107852",
     "geom:latitude":39.107852,
     "geom:longitude":26.555564,
     "gn:country":null,
@@ -25,6 +25,15 @@
     ],
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u064a\u0644\u064a\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062a\u064a\u0644\u064a\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Mytilene"
+    ],
+    "name:aze_x_preferred":[
+        "Mitilini"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u0442\u044b\u043b\u0456\u043d\u0456"
@@ -77,6 +86,9 @@
     "name:fra_x_preferred":[
         "Mytil\u00e8ne"
     ],
+    "name:gle_x_preferred":[
+        "Mitil\u00e9ine"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0a9f\u0abf\u0ab2\u0ac7\u0aa8"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:hrv_x_preferred":[
         "Mitilene"
+    ],
+    "name:hun_x_preferred":[
+        "Mitil\u00edni"
     ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u057f\u056b\u056c\u056b\u0576\u056b"
@@ -121,6 +136,12 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u094d\u092f\u0924\u093f\u0932\u0940\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u0442\u0438\u043b\u0435\u043d\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Mitilena"
     ],
     "name:msa_x_preferred":[
         "Mytilene"
@@ -170,11 +191,17 @@
     "name:srp_x_preferred":[
         "\u041c\u0438\u0442\u0438\u043b\u0435\u043d\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Mutilene"
+    ],
     "name:swe_x_preferred":[
         "Mytilene"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bc7\u0ba9\u0bc7"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bc0\u0ba9\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c48\u0c1f\u0c40\u0c32\u0c47\u0c28\u0c47"
@@ -192,6 +219,9 @@
         "\u0645\u06cc\u062a\u06cc\u0644\u06cc\u0646\u06cc"
     ],
     "name:vie_x_preferred":[
+        "Mytilene"
+    ],
+    "name:vol_x_preferred":[
         "Mytilene"
     ],
     "name:war_x_preferred":[
@@ -236,7 +266,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497292814,
-    "wof:geomhash":"09e4a98b5238caafbf0659271ad49d80",
+    "wof:geomhash":"74fc88055103d0ba559f83cd91efbde3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,7 +276,7 @@
         }
     ],
     "wof:id":1125838247,
-    "wof:lastmodified":1566642156,
+    "wof:lastmodified":1690924879,
     "wof:name":"Mytilene",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",
@@ -257,9 +287,9 @@
 },
   "bbox": [
     26.555564,
-    39.1078515,
+    39.107852,
     26.555564,
-    39.1078515
+    39.107852
 ],
-  "geometry": {"coordinates":[26.555564,39.1078515],"type":"Point"}
+  "geometry": {"coordinates":[26.555564,39.107852],"type":"Point"}
 }

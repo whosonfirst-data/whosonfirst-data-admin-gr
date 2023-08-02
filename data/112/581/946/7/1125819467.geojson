@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u062e\u0627\u062a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0633\u062e\u0627\u062a\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u099a\u0995\u09be\u099f\u09cb"
     ],
@@ -56,11 +59,20 @@
     "name:fra_x_preferred":[
         "Moschato"
     ],
+    "name:fra_x_variant":[
+        "Mosch\u00e1to"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab6\u0abe\u0a9f\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05d7\u05d8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0938\u094d\u091a\u093e\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Moszh\u00e1to"
     ],
     "name:ind_x_preferred":[
         "Moschato"
@@ -143,6 +155,9 @@
     "name:vie_x_preferred":[
         "Moschato"
     ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u54c8\u6258"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Moschato",
@@ -189,7 +204,7 @@
         }
     ],
     "wof:id":1125819467,
-    "wof:lastmodified":1566641807,
+    "wof:lastmodified":1690924561,
     "wof:name":"Moschato",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

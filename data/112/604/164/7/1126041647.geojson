@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u067e\u064a\u0627\u0644\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "Nera\u00efdoch\u00f3ri"
     ],
@@ -43,6 +46,9 @@
     "name:fra_x_preferred":[
         "Pialeia"
     ],
+    "name:fra_x_variant":[
+        "Pial\u00eda"
+    ],
     "name:ita_x_preferred":[
         "Pialeia"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:nno_x_preferred":[
         "Pial\u00eda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044c\u044f\u043b\u0438\u044f"
     ],
     "name:swe_x_preferred":[
         "Pi\u00e1leia"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1126041647,
-    "wof:lastmodified":1566641736,
+    "wof:lastmodified":1690924498,
     "wof:name":"Pi\u00e1leia",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

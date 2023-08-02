@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.0773715,37.596496,23.0773715,37.596496",
+    "geom:bbox":"23.077372,37.596496,23.077372,37.596496",
     "geom:latitude":37.596496,
     "geom:longitude":23.077372,
     "gn:country":null,
@@ -31,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "Asklipieio"
+    ],
+    "name:fra_x_variant":[
+        "Asklipi\u00edo"
     ],
     "name:ita_x_preferred":[
         "Asklipieio"
@@ -80,7 +83,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497302081,
-    "wof:geomhash":"326629d350e66dfdbeb55b538c9cc00b",
+    "wof:geomhash":"fde5914c6393bb3016678d243a9d38aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126039989,
-    "wof:lastmodified":1566641763,
+    "wof:lastmodified":1690924514,
     "wof:name":"Asklipieio",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
@@ -100,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.0773715,
+    23.077372,
     37.596496,
-    23.0773715,
+    23.077372,
     37.596496
 ],
-  "geometry": {"coordinates":[23.0773715,37.596496],"type":"Point"}
+  "geometry": {"coordinates":[23.077372,37.596496],"type":"Point"}
 }

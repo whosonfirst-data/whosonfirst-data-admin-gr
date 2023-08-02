@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u062b\u064a\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0633\u062b\u064a\u0646\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u0449\u0435\u043d\u0438"
     ],
@@ -36,6 +39,12 @@
     "name:ell_x_variant":[
         "\u039c\u03bf\u03c5\u03c3\u03b8\u03ad\u03bd\u03b7 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2"
     ],
+    "name:eng_x_preferred":[
+        "Moustheni"
+    ],
+    "name:fra_x_preferred":[
+        "Mousth\u00e9ni"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0448\u0442\u0438\u0458\u0430\u043d"
     ],
@@ -44,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "Mousth\u00e9ni"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00fc\u015ftiyan"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391 \u039a\u0391\u0399 \u0398\u03a1\u0391\u039a\u0397",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":101857609,
-    "wof:lastmodified":1582360187,
+    "wof:lastmodified":1690924174,
     "wof:name":"\u039c\u039f\u03a5\u03a3\u0398\u0395\u039d\u0397",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

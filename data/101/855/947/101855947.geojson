@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0648\u0628\u0648\u062a\u0627\u0645\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0633\u0648\u0628\u0648\u062a\u0627\u0645\u064a\u0627"
+    ],
     "name:bul_x_historical":[
         "\u0427\u0435\u0442\u0438\u0440\u043e\u043a"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:ceb_x_preferred":[
         "Mesopotam\u00eda"
+    ],
+    "name:deu_x_preferred":[
+        "Mesopotamia"
     ],
     "name:ell_x_historical":[
         "\u03a4\u03c3\u03b5\u03c4\u03b9\u03c1\u03ac\u03ba\u03b7",
@@ -54,11 +60,23 @@
     "name:eng_x_preferred":[
         "Mesopotamia"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u0648\u067e\u0648\u062a\u0627\u0645\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mesopotam\u00eda"
     ],
+    "name:fra_x_preferred":[
+        "Mesopotam\u00eda"
+    ],
+    "name:gle_x_preferred":[
+        "Mesopotamia"
+    ],
     "name:ita_x_preferred":[
         "Mesopotamia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30bd\u30dd\u30bf\u30df\u30a2"
     ],
     "name:mkd_x_historical":[
         "\u0427\u0435\u0442\u0438\u0440\u043e\u043a"
@@ -95,6 +113,9 @@
     ],
     "name:und_x_variant":[
         "Tseter\u00e1ki"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u7d22\u4e0d\u9054\u7c73\u4e9e"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":101855947,
-    "wof:lastmodified":1582360203,
+    "wof:lastmodified":1690924352,
     "wof:name":"\u039c\u0395\u03a3\u039f\u03a0\u039f\u03a4\u0391\u039c\u0399\u0391",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

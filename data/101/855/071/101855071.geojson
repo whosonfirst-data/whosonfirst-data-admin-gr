@@ -24,6 +24,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0632\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0632\u0627\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kozani"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09be\u09a8\u09bf"
     ],
@@ -38,6 +47,9 @@
     ],
     "name:ces_x_preferred":[
         "Kozani"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "Kozani"
@@ -72,6 +84,9 @@
     "name:fra_x_preferred":[
         "Kozani"
     ],
+    "name:fra_x_variant":[
+        "Koz\u00e1ni"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9d\u0abe\u0aa8\u0ac0"
     ],
@@ -89,6 +104,9 @@
     ],
     "name:hun_x_preferred":[
         "Koz\u00e1ni"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0566\u0561\u0576\u056b"
     ],
     "name:ind_x_preferred":[
         "Kozani"
@@ -174,6 +192,9 @@
     "name:sqi_x_preferred":[
         "Kozani"
     ],
+    "name:sqi_x_variant":[
+        "Kozhan"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0436\u0430\u043d\u0438"
     ],
@@ -203,6 +224,9 @@
     ],
     "name:war_x_preferred":[
         "Kozani"
+    ],
+    "name:yue_x_preferred":[
+        "\u54e5\u624e\u5c3c"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u624e\u5c3c"
@@ -262,7 +286,7 @@
         }
     ],
     "wof:id":101855071,
-    "wof:lastmodified":1582360203,
+    "wof:lastmodified":1690924344,
     "wof:name":"\u039a\u039f\u0396\u0391\u039d\u0397",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

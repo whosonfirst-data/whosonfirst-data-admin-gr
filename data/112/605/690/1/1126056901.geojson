@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.6204715,39.715704,21.6204715,39.715704",
+    "geom:bbox":"21.620472,39.715704,21.620472,39.715704",
     "geom:latitude":39.715704,
     "geom:longitude":21.620472,
     "gn:country":null,
@@ -26,8 +26,14 @@
     "name:ara_x_variant":[
         "\u0643\u0627\u0633\u062a\u0631\u0627\u0643\u064a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0633\u062a\u0631\u0627\u0643\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Kastr\u00e1ki"
+    ],
+    "name:deu_x_preferred":[
+        "Kastraki"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd"
@@ -38,10 +44,19 @@
     "name:fin_x_preferred":[
         "Kastr\u00e1ki"
     ],
+    "name:fra_x_preferred":[
+        "Kastr\u00e1ki"
+    ],
     "name:nld_x_preferred":[
         "Kastraki"
     ],
     "name:pol_x_preferred":[
+        "Kastraki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0440\u0430\u043a\u0438\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
         "Kastraki"
     ],
     "name:swe_x_preferred":[
@@ -86,7 +101,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497303318,
-    "wof:geomhash":"337ef58cfaa4cea37a0f4a0870b91fab",
+    "wof:geomhash":"cce9da5eb27d8e527a44fa5f77c2fb93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":1126056901,
-    "wof:lastmodified":1566641697,
+    "wof:lastmodified":1690924473,
     "wof:name":"Kastraki",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",
@@ -106,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.6204715,
+    21.620472,
     39.715704,
-    21.6204715,
+    21.620472,
     39.715704
 ],
-  "geometry": {"coordinates":[21.6204715,39.715704],"type":"Point"}
+  "geometry": {"coordinates":[21.620472,39.715704],"type":"Point"}
 }

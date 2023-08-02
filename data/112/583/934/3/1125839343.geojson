@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Plaka"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bb\u03ac\u03ba\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Plaka"
+    ],
+    "name:fin_x_preferred":[
+        "Pl\u00e1ka"
+    ],
+    "name:fra_x_preferred":[
+        "Pl\u00e1ka"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30e9\u30ab"
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1125839343,
-    "wof:lastmodified":1566642154,
+    "wof:lastmodified":1690924876,
     "wof:name":"Plaka",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

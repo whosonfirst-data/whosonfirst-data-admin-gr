@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.619288,40.5952175,24.619288,40.5952175",
+    "geom:bbox":"24.619288,40.595217,24.619288,40.595217",
     "geom:latitude":40.595217,
     "geom:longitude":24.619288,
     "gn:country":"GR",
@@ -26,11 +26,17 @@
     "name:ceb_x_preferred":[
         "Pot\u00f3s"
     ],
+    "name:deu_x_preferred":[
+        "Potos"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c4\u03cc\u03c2 \u0398\u03ac\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Potos"
+    ],
+    "name:fra_x_preferred":[
+        "Pot\u00f3s"
     ],
     "name:slk_x_preferred":[
         "Potos"
@@ -77,7 +83,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497293773,
-    "wof:geomhash":"4d95e2adf7962f30ff33adc42b7e706f",
+    "wof:geomhash":"0825d715838a23312561cf79007e4d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125859659,
-    "wof:lastmodified":1566642039,
+    "wof:lastmodified":1690924768,
     "wof:name":"Potos",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",
@@ -98,9 +104,9 @@
 },
   "bbox": [
     24.619288,
-    40.5952175,
+    40.595217,
     24.619288,
-    40.5952175
+    40.595217
 ],
-  "geometry": {"coordinates":[24.619288,40.5952175],"type":"Point"}
+  "geometry": {"coordinates":[24.619288,40.595217],"type":"Point"}
 }

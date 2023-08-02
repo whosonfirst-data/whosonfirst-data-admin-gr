@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.295665,37.6855095,22.295665,37.6855095",
+    "geom:bbox":"22.295665,37.68551,22.295665,37.68551",
     "geom:latitude":37.68551,
     "geom:longitude":22.295665,
     "gn:country":null,
@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u064a\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u06a4\u064a\u062f\u0649"
+    ],
     "name:deu_x_preferred":[
         "Levidi"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Levidi"
+    ],
+    "name:fra_x_variant":[
+        "Lev\u00eddi"
     ],
     "name:ita_x_preferred":[
         "Levidi"
@@ -92,7 +98,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497293734,
-    "wof:geomhash":"05ec55ab930eee6863aba292b40f15d6",
+    "wof:geomhash":"eb87439d1c2787e683d6989bec466616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125858721,
-    "wof:lastmodified":1566642045,
+    "wof:lastmodified":1690924772,
     "wof:name":"Levidi",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
@@ -113,9 +119,9 @@
 },
   "bbox": [
     22.295665,
-    37.6855095,
+    37.68551,
     22.295665,
-    37.6855095
+    37.68551
 ],
-  "geometry": {"coordinates":[22.295665,37.6855095],"type":"Point"}
+  "geometry": {"coordinates":[22.295665,37.68551],"type":"Point"}
 }

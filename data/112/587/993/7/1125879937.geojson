@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0641\u0643\u0648\u062e\u0648\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0641\u0643\u0648\u062e\u0648\u0631\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0432\u043a\u043e\u0445\u043e\u0440\u0438"
     ],
@@ -40,8 +43,17 @@
     "name:eng_x_preferred":[
         "Pefkochori"
     ],
+    "name:fin_x_preferred":[
+        "Pefkoch\u00f3ri"
+    ],
+    "name:fra_x_preferred":[
+        "Pefkoch\u00f3ri"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0444\u043a\u043e\u0445\u043e\u0440\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u041a\u0430\u043f\u0441\u043e\u0445\u043e\u0440"
     ],
     "name:nld_x_preferred":[
         "Pefkochori"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125879937,
-    "wof:lastmodified":1566641862,
+    "wof:lastmodified":1690924612,
     "wof:name":"Pefkochori",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062b\u0648\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062b\u0648\u0646\u0649"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u043d\u0438"
+    ],
     "name:cat_x_preferred":[
         "Modona"
     ],
@@ -32,6 +38,9 @@
     ],
     "name:ceb_x_preferred":[
         "Meth\u00f3ni"
+    ],
+    "name:ces_x_preferred":[
+        "Methoni"
     ],
     "name:deu_x_preferred":[
         "Methoni"
@@ -54,6 +63,9 @@
     "name:fra_x_preferred":[
         "Modon"
     ],
+    "name:fra_x_variant":[
+        "Meth\u00f3ni"
+    ],
     "name:glg_x_preferred":[
         "Modon"
     ],
@@ -63,8 +75,14 @@
     "name:hbs_x_preferred":[
         "Metoni"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05ea\u05d5\u05e0\u05d9"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0569\u0578\u0576\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Methoni"
     ],
     "name:ita_x_preferred":[
         "Modone"
@@ -102,11 +120,17 @@
     "name:tur_x_preferred":[
         "Methone"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u043d\u0456"
+    ],
     "name:und_x_variant":[
         "N\u00e9on Elevtherokh\u00f3rion"
     ],
     "name:vec_x_preferred":[
         "Modon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u7d22\u5185"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
@@ -163,7 +187,7 @@
         }
     ],
     "wof:id":101848343,
-    "wof:lastmodified":1582360194,
+    "wof:lastmodified":1690924241,
     "wof:name":"\u039c\u0395\u0398\u03a9\u039d\u0397",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

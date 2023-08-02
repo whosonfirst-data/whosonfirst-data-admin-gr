@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062f\u0627\u0645\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0631\u062f\u0627\u0645\u0627\u064a\u0646\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Kard\u00e1maina"
+    ],
+    "name:deu_x_preferred":[
+        "Kardamena"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c1\u03b4\u03ac\u03bc\u03b1\u03b9\u03bd\u03b1 \u039a\u03c9"
@@ -56,6 +62,9 @@
     ],
     "name:swe_x_variant":[
         "K\u00e9falos"
+    ],
+    "name:tur_x_preferred":[
+        "Kardamaina"
     ],
     "name:und_x_variant":[
         "Cardamena"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101848217,
-    "wof:lastmodified":1582360191,
+    "wof:lastmodified":1690924209,
     "wof:name":"\u039a\u0391\u03a1\u0394\u0391\u039c\u0391\u0399\u039d\u0391",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u062a\u0649"
+    ],
     "name:bul_x_historical":[
         "\u041a\u044e\u043f\u043a\u044c\u043e\u0439"
     ],
@@ -52,11 +55,20 @@
     "name:eng_x_preferred":[
         "Proti"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pr\u00f3ti"
     ],
     "name:fra_x_preferred":[
         "Proti"
+    ],
+    "name:fra_x_variant":[
+        "Pr\u00f3ti"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05d8\u05d9"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0580\u0578\u057f\u056b"
@@ -91,6 +103,9 @@
     ],
     "name:und_x_variant":[
         "Kup K\u00f3\u00ef"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f57\u8482"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u039a\u0395\u039d\u03a4\u03a1\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":101857715,
-    "wof:lastmodified":1582360185,
+    "wof:lastmodified":1690924155,
     "wof:name":"\u03a0\u03a1\u03a9\u03a4\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u067e\u0648\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043f\u0438"
     ],
@@ -49,6 +52,9 @@
     "name:fra_x_preferred":[
         "Filippoi"
     ],
+    "name:fra_x_variant":[
+        "F\u00edlippi"
+    ],
     "name:hun_x_preferred":[
         "Filippoi"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:nno_x_preferred":[
         "F\u00edlippi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u0438"
     ],
     "name:sco_x_preferred":[
         "Filippoi"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1125859643,
-    "wof:lastmodified":1566642042,
+    "wof:lastmodified":1690924771,
     "wof:name":"Perni",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

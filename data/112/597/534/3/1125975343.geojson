@@ -26,6 +26,12 @@
     "name:ara_x_variant":[
         "\u0633\u062a\u0627\u0648\u0631\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u0627\u0648\u0631\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Stavros"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0440\u043e\u0441"
     ],
@@ -38,11 +44,17 @@
     "name:eng_x_preferred":[
         "Stavros"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0648\u0631\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Stavr\u00f3s"
     ],
     "name:fra_x_preferred":[
         "Stavros"
+    ],
+    "name:fra_x_variant":[
+        "Stavr\u00f3s"
     ],
     "name:lat_x_preferred":[
         "Staurus"
@@ -61,6 +73,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0440\u043e\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u592b\u7f57\u65af"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1125975343,
-    "wof:lastmodified":1566641903,
+    "wof:lastmodified":1690924641,
     "wof:name":"Stavros",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u064a\u0633\u062a\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Ar\u00edsti"
     ],
@@ -39,6 +42,12 @@
         "Aristi"
     ],
     "name:fra_x_preferred":[
+        "Aristi"
+    ],
+    "name:fra_x_variant":[
+        "Ar\u00edsti"
+    ],
+    "name:ita_x_preferred":[
         "Aristi"
     ],
     "name:mkd_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1125779289,
-    "wof:lastmodified":1566642135,
+    "wof:lastmodified":1690924854,
     "wof:name":"Aristi",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0641\u0627\u0644\u0627\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Kefalas"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c6\u03b1\u03bb\u03ac\u03c2"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Kefalas"
+    ],
+    "name:fra_x_preferred":[
+        "Kefal\u00e1s"
     ],
     "name:nld_x_preferred":[
         "Kefalas"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1125781589,
-    "wof:lastmodified":1566642074,
+    "wof:lastmodified":1690924796,
     "wof:name":"Kefalas",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

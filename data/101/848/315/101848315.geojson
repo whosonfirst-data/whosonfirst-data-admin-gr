@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u064a\u063a\u0627\u0644\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0644\u064a\u062c\u0627\u0644\u0627\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Meligal\u00e1s"
+    ],
+    "name:dan_x_preferred":[
+        "Meligalas"
     ],
     "name:deu_x_preferred":[
         "Meligalas"
@@ -44,6 +50,9 @@
     ],
     "name:fra_x_preferred":[
         "Meligalas"
+    ],
+    "name:fra_x_variant":[
+        "Meligal\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Meligalas"
@@ -65,6 +74,9 @@
     ],
     "name:und_x_variant":[
         "Meligal\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u5229\u52a0\u62c9\u65af"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":101848315,
-    "wof:lastmodified":1582360192,
+    "wof:lastmodified":1690924217,
     "wof:name":"\u039c\u0395\u039b\u0399\u0393\u0391\u039b\u0391\u03a3",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

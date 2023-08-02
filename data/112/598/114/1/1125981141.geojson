@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u0641\u0644\u0627\u0643\u0648\u064a\u064a\u0627\u0646\u064a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0644\u0627\u0643\u0648\u064a\u064a\u0627\u0646\u064a\u0648\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Vlachogi\u00e1nni"
     ],
@@ -43,8 +46,14 @@
     "name:eng_x_preferred":[
         "Vlachogianni"
     ],
+    "name:mkd_x_preferred":[
+        "\u0412\u043b\u0430\u0445\u043e\u0458\u0430\u043d\u0438"
+    ],
     "name:nno_x_preferred":[
         "Vlakhoj\u00e1nni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0445\u043e\u0439\u044f\u043d\u0438\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Vlachogi\u00e1nni"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125981141,
-    "wof:lastmodified":1566641956,
+    "wof:lastmodified":1690924681,
     "wof:name":"Vlakhoyianni",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

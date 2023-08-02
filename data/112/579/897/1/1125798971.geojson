@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0631\u0648\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Tyr\u00f3s"
     ],
@@ -31,12 +34,16 @@
     "name:ell_x_variant":[
         "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u03a4\u03c5\u03c1\u03bf\u03cd",
         "Paral\u00eda",
-        "\u03a4\u03c5\u03c1\u03cc\u03c2 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2"
+        "\u03a4\u03c5\u03c1\u03cc\u03c2 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2",
+        "\u03a4\u03c5\u03c1\u03cc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tyros"
     ],
     "name:fin_x_preferred":[
+        "Tyr\u00f3s"
+    ],
+    "name:fra_x_preferred":[
         "Tyr\u00f3s"
     ],
     "name:grc_x_preferred":[
@@ -117,7 +124,7 @@
         }
     ],
     "wof:id":1125798971,
-    "wof:lastmodified":1566642098,
+    "wof:lastmodified":1690924820,
     "wof:name":"Paralia Tyrou",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

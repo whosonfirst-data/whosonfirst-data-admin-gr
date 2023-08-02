@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0435\u0432\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u041d\u0435\u0430 \u041a\u0435\u0440\u0434\u0438\u043b\u0438\u044f"
+    ],
     "name:ceb_x_preferred":[
         "N\u00e9a Kerd\u00fdlia"
     ],
@@ -42,17 +45,24 @@
     "name:eng_x_variant":[
         "Nea Kardylia"
     ],
+    "name:fra_x_preferred":[
+        "N\u00e9a Kerd\u00fdlia"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041a\u0440\u0443\u0448\u0435\u0432\u043e"
     ],
     "name:mkd_x_variant":[
-        "\u041a\u0440\u0443\u0448\u0435\u0432\u043e"
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u043e",
+        "\u041d\u043e\u0432\u043e \u041a\u0440\u0443\u0448\u0435\u0432\u043e"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0430-\u041a\u0435\u0440\u0434\u0438\u043b\u0438\u044f"
     ],
     "name:sco_x_preferred":[
         "Nea Kardylia"
+    ],
+    "name:sco_x_variant":[
+        "Nea Kerdylia"
     ],
     "name:swe_x_preferred":[
         "N\u00e9a Kerd\u00fdlia"
@@ -108,7 +118,7 @@
         }
     ],
     "wof:id":1125921115,
-    "wof:lastmodified":1566641645,
+    "wof:lastmodified":1690924422,
     "wof:name":"Nea Kerdhilia",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

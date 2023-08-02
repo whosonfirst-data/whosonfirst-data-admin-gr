@@ -25,6 +25,12 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043c\u043e\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Gramos"
+    ],
+    "name:deu_x_preferred":[
+        "Gramos"
+    ],
     "name:ell_x_historical":[
         "\u0393\u03c1\u03ac\u03bc\u03bc\u03bf\u03c3\u03c4\u03b1"
     ],
@@ -52,8 +58,20 @@
     "name:fra_x_preferred":[
         "Gramos"
     ],
+    "name:fra_x_variant":[
+        "Gr\u00e1mos"
+    ],
+    "name:gle_x_preferred":[
+        "Gramos"
+    ],
+    "name:hun_x_preferred":[
+        "Gr\u00e1mosz"
+    ],
     "name:ita_x_preferred":[
         "Gramos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30e2\u30b9"
     ],
     "name:mkd_x_historical":[
         "\u0413\u0440\u0430\u043c\u043e\u0448\u0442\u0430"
@@ -73,6 +91,12 @@
     ],
     "name:rup_x_preferred":[
         "Gramosta"
+    ],
+    "name:rup_x_variant":[
+        "Gramuste"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043c\u043e\u0441"
     ],
     "name:sqi_x_preferred":[
         "Gramozi"
@@ -114,7 +138,7 @@
         }
     ],
     "wof:id":1125896887,
-    "wof:lastmodified":1566641836,
+    "wof:lastmodified":1690924586,
     "wof:name":"Gramos",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

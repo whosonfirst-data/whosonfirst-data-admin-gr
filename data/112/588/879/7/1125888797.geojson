@@ -28,8 +28,14 @@
     "name:ara_x_variant":[
         "\u0643\u064a\u0641\u064a\u0631\u064a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u06a4\u064a\u0631\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Kiv\u00e9ri"
+    ],
+    "name:deu_x_preferred":[
+        "Kiveri"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03b2\u03ad\u03c1\u03b9\u03bf\u03bd"
@@ -41,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Kiveri"
+    ],
+    "name:fra_x_preferred":[
+        "Kiv\u00e9ri"
     ],
     "name:grc_x_preferred":[
         "Genesion"
@@ -56,6 +65,9 @@
     ],
     "name:und_x_variant":[
         "Kiv\u00e9r"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u97e6\u5229"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1125888797,
-    "wof:lastmodified":1566641820,
+    "wof:lastmodified":1690924580,
     "wof:name":"Kiverio",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

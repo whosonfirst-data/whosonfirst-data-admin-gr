@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0648 \u0628\u0648\u0631\u0648\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0646\u0648 \u0628\u0648\u0631\u0648\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0438 \u041f\u043e\u0440\u043e\u0439"
     ],
@@ -45,8 +48,14 @@
     "name:eng_x_preferred":[
         "Ano Poroia"
     ],
+    "name:fra_x_preferred":[
+        "\u00c1no Por\u00f3ia"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0438 \u041f\u043e\u0440\u043e\u0458"
+    ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u0440\u043d\u043e \u041f\u043e\u0440\u043e\u0458"
     ],
     "name:nld_x_preferred":[
         "Ano Poroia"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1126012251,
-    "wof:lastmodified":1566641969,
+    "wof:lastmodified":1690924697,
     "wof:name":"Ano Poroia",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

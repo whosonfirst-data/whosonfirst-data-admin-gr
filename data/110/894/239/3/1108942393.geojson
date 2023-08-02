@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7267705963,37.9732510009,23.7267705963,37.9732510009",
+    "geom:bbox":"23.726771,37.973251,23.726771,37.973251",
     "geom:latitude":37.973251,
     "geom:longitude":23.726771,
     "iso:country":"GR",
@@ -62,6 +62,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0430\u0444\u0456\u043e\u0442\u0438\u043a\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0622\u0646\u0627\u0641\u06cc\u0648\u062a\u06cc\u06a9\u0627"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363068,
-    "wof:geomhash":"925d552dd702a69c6fae9cd0c52a80fc",
+    "wof:geomhash":"4ef62dd2adaac4b635e662133a476ef1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108942393,
-    "wof:lastmodified":1566641255,
+    "wof:lastmodified":1690924096,
     "wof:name":"Anafiotika",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
@@ -96,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.72677059628736,
-    37.97325100093939,
-    23.72677059628736,
-    37.97325100093939
+    23.726771,
+    37.973251,
+    23.726771,
+    37.973251
 ],
-  "geometry": {"coordinates":[23.72677059628736,37.97325100093939],"type":"Point"}
+  "geometry": {"coordinates":[23.726771,37.973251],"type":"Point"}
 }

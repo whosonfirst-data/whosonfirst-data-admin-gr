@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0631\u0648\u0641\u064a\u0644\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u043e\u0444\u0438\u043b\u043e"
     ],
     "name:ceb_x_preferred":[
         "Myr\u00f3fyllo"
+    ],
+    "name:ces_x_preferred":[
+        "Myrofyllo"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c5\u03c1\u03cc\u03c6\u03c5\u03bb\u03bb\u03bf"
@@ -41,6 +47,9 @@
     "name:fin_x_preferred":[
         "Myr\u00f3fyllo"
     ],
+    "name:fra_x_preferred":[
+        "Myr\u00f3fyllo"
+    ],
     "name:ita_x_preferred":[
         "Myrofyllo"
     ],
@@ -52,6 +61,9 @@
     ],
     "name:nno_x_preferred":[
         "Myr\u00f3fyllo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u0444\u0438\u043b\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Myr\u00f3fyllo"
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1126041931,
-    "wof:lastmodified":1566641704,
+    "wof:lastmodified":1690924478,
     "wof:name":"Myr\u00f3fyllon",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

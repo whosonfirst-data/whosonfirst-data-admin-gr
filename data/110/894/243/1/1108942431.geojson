@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7492944996,37.965854516,23.7492944996,37.965854516",
+    "geom:bbox":"23.749294,37.965855,23.749294,37.965855",
     "geom:latitude":37.965855,
     "geom:longitude":23.749294,
     "iso:country":"GR",
@@ -35,11 +35,17 @@
     "name:fra_x_preferred":[
         "Profitis Ilias"
     ],
+    "name:nld_x_preferred":[
+        "Profitis Ilias"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0444\u0438\u0442\u0438\u0441 \u0418\u043b\u0438\u0430\u0441"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0444\u0456\u0442\u0456\u0441 \u0406\u043b\u0456\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0648\u0641\u06cc\u062a\u06cc\u0633 \u0627\u0644\u06cc\u0627\u0633"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363089,
-    "wof:geomhash":"62a6b5a3f7a901e6407807ac985e8bd4",
+    "wof:geomhash":"881dd936366a2745a4dd5f9af1ed6ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108942431,
-    "wof:lastmodified":1566641250,
+    "wof:lastmodified":1690924088,
     "wof:name":"Profitis Ilias",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.74929449957323,
-    37.96585451604011,
-    23.74929449957323,
-    37.96585451604011
+    23.749294,
+    37.965855,
+    23.749294,
+    37.965855
 ],
-  "geometry": {"coordinates":[23.74929449957323,37.96585451604011],"type":"Point"}
+  "geometry": {"coordinates":[23.749294,37.965855],"type":"Point"}
 }

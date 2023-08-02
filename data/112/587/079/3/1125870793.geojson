@@ -22,17 +22,27 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "\u00c9xo Ch\u00f3ra"
+    ],
     "name:ell_x_preferred":[
         "\u0388\u03be\u03c9 \u03a7\u03ce\u03c1\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u00c9xo Ch\u00f3ra"
+        "\u00c9xo Ch\u00f3ra",
+        "\u0388\u03be\u03c9 \u03a7\u03ce\u03c1\u03b1 \u0396\u03b1\u03ba\u03cd\u03bd\u03b8\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ekso Chora"
     ],
     "name:eng_x_variant":[
         "Exo Chora"
+    ],
+    "name:por_x_preferred":[
+        "Exo Chora"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c9xo Ch\u00f3ra"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -85,7 +95,7 @@
         }
     ],
     "wof:id":1125870793,
-    "wof:lastmodified":1566641856,
+    "wof:lastmodified":1690924605,
     "wof:name":"Exo Khora",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

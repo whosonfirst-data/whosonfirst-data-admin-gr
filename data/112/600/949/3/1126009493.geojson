@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0644\u064a\u0641\u062b\u064a\u0631\u0648\u0628\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u064a\u0641\u062b\u064a\u0631\u0648\u0628\u0648\u0644\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0438\u0449\u0430"
     ],
     "name:ceb_x_preferred":[
         "Elefthero\u00fapolis"
+    ],
+    "name:dan_x_preferred":[
+        "Eleftheroupoli"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2"
@@ -45,6 +51,9 @@
     ],
     "name:fra_x_preferred":[
         "Eleftheroupolis"
+    ],
+    "name:fra_x_variant":[
+        "Elefthero\u00fapoli"
     ],
     "name:ita_x_preferred":[
         "Eleftheroupoli"
@@ -81,6 +90,9 @@
     ],
     "name:und_x_variant":[
         "Pr\u00e1vion"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u83b1\u592b\u585e\u9c81\u6ce2\u5229"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1126009493,
-    "wof:lastmodified":1566641987,
+    "wof:lastmodified":1690924714,
     "wof:name":"Elefthero\u00fapolis",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

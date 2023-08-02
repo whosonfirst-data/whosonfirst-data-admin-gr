@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0648 \u0646\u064a\u0643\u0648\u0645\u064a\u062f\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0648 \u0646\u064a\u0643\u0648\u0645\u064a\u062f\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0439\u043d\u0430\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Nea Nikom\u00eddia"
     ],
     "name:ceb_x_preferred":[
         "N\u00e9a Nikom\u00eddeia"
@@ -42,6 +48,15 @@
     ],
     "name:eng_x_preferred":[
         "Nea Nikomedeia"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9a Nikom\u00eddia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d9 \u05e0\u05d9\u05e7\u05d5\u05de\u05d3\u05d9\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30a2\u30fb\u30cb\u30b3\u30e1\u30c7\u30a3\u30a2"
     ],
     "name:lat_x_preferred":[
         "Nova Nicomedia"
@@ -75,6 +90,9 @@
     ],
     "name:und_x_variant":[
         "Brani\u00e1tes"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5c3c\u79d1\u95e8\u8fea\u4e9a"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1125823843,
-    "wof:lastmodified":1566642012,
+    "wof:lastmodified":1690924741,
     "wof:name":"N\u00e9a Nikom\u00eddeia",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

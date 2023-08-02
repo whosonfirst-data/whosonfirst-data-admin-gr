@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u064a\u062a\u064a\u0644\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0442\u0438\u043b\u043e"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:deu_x_preferred":[
         "Itylo"
+    ],
+    "name:deu_x_variant":[
+        "Itilo"
     ],
     "name:ell_x_historical":[
         "\u0392\u03bf\u03af\u03c4\u03c5\u03bb\u03bf\u03bd",
@@ -47,11 +53,17 @@
     "name:eng_x_preferred":[
         "Oitylo"
     ],
+    "name:eng_x_variant":[
+        "Itilo"
+    ],
     "name:fin_x_preferred":[
         "O\u00edtylo"
     ],
     "name:fra_x_preferred":[
         "Oitylo"
+    ],
+    "name:fra_x_variant":[
+        "Itilo"
     ],
     "name:gsw_x_preferred":[
         "Oitylos"
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1125774131,
-    "wof:lastmodified":1566642118,
+    "wof:lastmodified":1690924839,
     "wof:name":"Oitilon",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:aka_x_preferred":[
         "Greekman"
     ],
+    "name:aka_x_variant":[
+        "Greece"
+    ],
     "name:als_x_preferred":[
         "Griechenland"
     ],
@@ -60,11 +63,17 @@
         "\u130d\u122a\u12ad (\u12a0\u1308\u122d)",
         "\u130d\u122a\u12ad"
     ],
+    "name:ami_x_preferred":[
+        "Greece"
+    ],
     "name:ang_x_preferred":[
         "Gr\u0113cland"
     ],
     "name:ang_x_variant":[
         "Cr\u0113cland"
+    ],
+    "name:anp_x_preferred":[
+        "\u0917\u094d\u0930\u0940\u0938"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u064a\u0648\u0646\u0627\u0646"
@@ -95,6 +104,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Ellasa"
+    ],
+    "name:awa_x_preferred":[
+        "\u092f\u0942\u0928\u093e\u0928"
     ],
     "name:aym_x_preferred":[
         "Grisya"
@@ -182,7 +197,8 @@
         "\u0413\u0440\u0435\u0446\u0438"
     ],
     "name:che_x_variant":[
-        "\u0413\u0440\u0435\u043a\u0438\u0439\u043d"
+        "\u0413\u0440\u0435\u043a\u0438\u0439\u043d",
+        "\u0416\u0435\u043b\u0442\u043e\u0439\u0447\u043e\u044c"
     ],
     "name:chr_x_preferred":[
         "\u13aa\u13a2\u13af"
@@ -213,6 +229,9 @@
     ],
     "name:cym_x_preferred":[
         "Gwlad Groeg"
+    ],
+    "name:dag_x_preferred":[
+        "Greece"
     ],
     "name:dan_x_colloquial":[
         "Graekenland"
@@ -386,6 +405,12 @@
     "name:got_x_preferred":[
         "\ud800\udf3a\ud800\udf42\ud800\udf34\ud800\udf3a\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
     ],
+    "name:gpe_x_preferred":[
+        "Greece"
+    ],
+    "name:grc_x_preferred":[
+        "\u1f19\u03bb\u03bb\u03ac\u03c2"
+    ],
     "name:grn_x_preferred":[
         "Gyresia"
     ],
@@ -516,6 +541,9 @@
     "name:kbp_x_preferred":[
         "Kr\u025bs\u0269"
     ],
+    "name:kcg_x_preferred":[
+        "Helat"
+    ],
     "name:kea_x_preferred":[
         "Gr\u00e9sia"
     ],
@@ -583,6 +611,9 @@
     "name:lij_x_preferred":[
         "Gre\u00e7ia"
     ],
+    "name:lij_x_variant":[
+        "Gr\u00eacia"
+    ],
     "name:lim_x_preferred":[
         "Griekeland"
     ],
@@ -597,6 +628,9 @@
     ],
     "name:liv_x_preferred":[
         "Gr\u012bekm\u014d"
+    ],
+    "name:lld_x_preferred":[
+        "Grecia"
     ],
     "name:lmo_x_preferred":[
         "Grecia"
@@ -621,6 +655,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u5e0c\u81d8\u5171\u548c\u570b"
+    ],
+    "name:mad_x_preferred":[
+        "Yunani"
     ],
     "name:mai_x_preferred":[
         "\u092f\u0942\u0928\u093e\u0928"
@@ -649,8 +686,14 @@
     "name:mlt_x_preferred":[
         "Gre\u010bja"
     ],
+    "name:mni_x_preferred":[
+        "\uabd2\uabed\uabd4\uabe4\uabc1"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0440\u0435\u043a"
+    ],
+    "name:mos_x_preferred":[
+        "Greece"
     ],
     "name:mri_x_preferred":[
         "Kirihi"
@@ -690,6 +733,9 @@
     ],
     "name:nav_x_preferred":[
         "Gw\u00ed\u00edk Dine\u02bc\u00e9 Bik\u00e9yah"
+    ],
+    "name:nav_x_variant":[
+        "Dahojiy\u00e1anii Bik\u00e9yah"
     ],
     "name:nde_x_preferred":[
         "Greece"
@@ -770,6 +816,9 @@
     "name:pcd_x_preferred":[
         "Gr\u00e8che"
     ],
+    "name:pdc_x_preferred":[
+        "Griechenlen"
+    ],
     "name:pih_x_preferred":[
         "Griese"
     ],
@@ -845,6 +894,9 @@
     "name:sat_x_preferred":[
         "\u1c5c\u1c68\u1c64\u1c60"
     ],
+    "name:sat_x_variant":[
+        "\u1c5c\u1c7d\u1c68\u1c64\u1c60"
+    ],
     "name:scn_x_preferred":[
         "Grecia"
     ],
@@ -854,11 +906,20 @@
     "name:sgs_x_preferred":[
         "Graik\u0117j\u0117"
     ],
+    "name:shi_x_preferred":[
+        "Lyunan"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u101b\u102d\u1010\u103a\u1088"
+    ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0dc3\u0dd2\u0dba"
     ],
     "name:sin_x_variant":[
         "\u0d9c\u0dca \u0dbb\u0dd3\u0dc3\u0dd2\u0dba"
+    ],
+    "name:skr_x_preferred":[
+        "\u06af\u0631\u06cc\u0633"
     ],
     "name:slk_x_preferred":[
         "Gr\u00e9cko"
@@ -872,6 +933,9 @@
     "name:sme_x_preferred":[
         "Greika"
     ],
+    "name:smj_x_preferred":[
+        "Grekl\u00e1nnda"
+    ],
     "name:smn_x_preferred":[
         "Kreikka"
     ],
@@ -883,6 +947,9 @@
     ],
     "name:sms_x_preferred":[
         "Greikkaj\u00e2nnam"
+    ],
+    "name:sms_x_variant":[
+        "Kreikka"
     ],
     "name:sna_x_preferred":[
         "Greece"
@@ -941,6 +1008,9 @@
     "name:szl_x_preferred":[
         "Grecyjo"
     ],
+    "name:szl_x_variant":[
+        "Grecyj\u014f"
+    ],
     "name:szy_x_preferred":[
         "Greece"
     ],
@@ -956,6 +1026,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0413\u0440\u0435\u0446\u0438\u044f"
+    ],
+    "name:tay_x_preferred":[
+        "Greece"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c40\u0c38\u0c4d"
@@ -978,11 +1051,17 @@
     "name:tir_x_preferred":[
         "\u130d\u122a\u12ad"
     ],
+    "name:tok_x_preferred":[
+        "ma Elina"
+    ],
     "name:ton_x_preferred":[
         "Kalisi"
     ],
     "name:tpi_x_preferred":[
         "Gris"
+    ],
+    "name:trv_x_preferred":[
+        "Greece"
     ],
     "name:tso_x_preferred":[
         "Greece"
@@ -1027,6 +1106,9 @@
     ],
     "name:vec_x_preferred":[
         "Gresia"
+    ],
+    "name:vec_x_variant":[
+        "Gresa"
     ],
     "name:vep_x_preferred":[
         "Grekanma"
@@ -1302,7 +1384,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"688dea4d7a502cac5ce98d3e2cbb9034",
+    "wof:geomhash":"b27381bbe9504c75c66411a7483eb689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1316,7 +1398,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351313,
+    "wof:lastmodified":1690924079,
     "wof:name":"Greece",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

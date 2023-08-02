@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u043e \u0417\u0430\u043a\u0440\u043e\u0441"
+    ],
     "name:cat_x_preferred":[
         "Zakros"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0396\u03ac\u03ba\u03c1\u03bf\u03c2 \u039b\u03b1\u03c3\u03b9\u03b8\u03af\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03ac\u03ba\u03c1\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Zakros"
@@ -46,6 +52,18 @@
     ],
     "name:fra_x_preferred":[
         "Zakros"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e7\u05e8\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Zakr\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u056f\u0580\u0578\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0536\u0561\u0584\u0580\u0578\u057d"
     ],
     "name:ita_x_preferred":[
         "Zakros"
@@ -91,6 +109,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u06a9\u0631\u0648\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Zakros"
     ],
     "name:zho_x_preferred":[
         "\u624e\u514b\u7f85\u65af"
@@ -141,7 +162,7 @@
         }
     ],
     "wof:id":1125862827,
-    "wof:lastmodified":1566641797,
+    "wof:lastmodified":1690924549,
     "wof:name":"Zakros",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

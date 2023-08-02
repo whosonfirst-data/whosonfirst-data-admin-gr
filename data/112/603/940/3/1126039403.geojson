@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062a\u0627\u0644\u064a\u0643\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u042f\u043d\u0435\u0448\u0435\u0432\u043e"
     ],
@@ -38,8 +41,14 @@
     "name:eng_x_preferred":[
         "Metalliko"
     ],
+    "name:fra_x_preferred":[
+        "Metalliko"
+    ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u043d\u0435\u0441"
+    ],
+    "name:mkd_x_variant":[
+        "\u0408\u0430\u043d\u0435\u0448\u0435\u0432\u043e"
     ],
     "name:nld_x_preferred":[
         "Metalliko"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1126039403,
-    "wof:lastmodified":1566641770,
+    "wof:lastmodified":1690924520,
     "wof:name":"Metallikon",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

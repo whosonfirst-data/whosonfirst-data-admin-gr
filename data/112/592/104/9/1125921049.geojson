@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u0646\u0648\u0633"
+    ],
     "name:ell_x_historical":[
         "\u0392\u03cc\u03b8\u03c1\u03bf\u03b9"
     ],
@@ -50,8 +53,14 @@
     "name:nld_x_preferred":[
         "Koronos"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u043e\u0441"
+    ],
     "name:und_x_variant":[
         "V\u00f3thros"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7f57\u8bfa\u65af"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125921049,
-    "wof:lastmodified":1566641639,
+    "wof:lastmodified":1690924418,
     "wof:name":"Koronos",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

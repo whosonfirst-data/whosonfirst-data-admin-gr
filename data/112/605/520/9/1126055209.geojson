@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.079061,37.5964915,23.079061,37.5964915",
+    "geom:bbox":"23.079061,37.596491,23.079061,37.596491",
     "geom:latitude":37.596491,
     "geom:longitude":23.079061,
     "gn:country":null,
@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u063a\u0648\u0631\u064a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u062c\u0648\u0631\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Lygourio"
+    ],
     "name:ceb_x_preferred":[
         "Ligouri\u00f3n"
     ],
@@ -32,10 +38,16 @@
     "name:ell_x_preferred":[
         "\u039b\u03c5\u03b3\u03bf\u03c5\u03c1\u03b9\u03cc \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03c5\u03b3\u03bf\u03c5\u03c1\u03b9\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Lygourio"
     ],
     "name:fin_x_preferred":[
+        "Lygouri\u00f3"
+    ],
+    "name:fra_x_preferred":[
         "Lygouri\u00f3"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +101,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497303089,
-    "wof:geomhash":"2fd801a5e99c11c9e4528c91e71bc654",
+    "wof:geomhash":"60eae25a639eb87373dfd43337fa618a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1126055209,
-    "wof:lastmodified":1566641696,
+    "wof:lastmodified":1690924471,
     "wof:name":"Lygourio",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
@@ -110,9 +122,9 @@
 },
   "bbox": [
     23.079061,
-    37.5964915,
+    37.596491,
     23.079061,
-    37.5964915
+    37.596491
 ],
-  "geometry": {"coordinates":[23.079061,37.5964915],"type":"Point"}
+  "geometry": {"coordinates":[23.079061,37.596491],"type":"Point"}
 }

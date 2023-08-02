@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0627\u0631\u0627\u0643\u0627\u0633"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03ac\u03c1\u03b1\u03ba\u03b1\u03c2"
     ],
@@ -34,8 +37,14 @@
     "name:fin_x_preferred":[
         "Ch\u00e1rakas"
     ],
+    "name:fra_x_preferred":[
+        "Ch\u00e1rakas"
+    ],
     "name:nld_x_preferred":[
         "Charakas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u043a\u0430\u0441"
     ],
     "name:und_x_variant":[
         "Kh\u00e1rakas"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1125801253,
-    "wof:lastmodified":1566641853,
+    "wof:lastmodified":1690924602,
     "wof:name":"Charakas",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

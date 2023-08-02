@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.7513975,37.726041,22.7513975,37.726041",
+    "geom:bbox":"22.751397,37.726041,22.751397,37.726041",
     "geom:latitude":37.726041,
     "geom:longitude":22.751397,
     "gn:country":null,
@@ -37,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Mykines"
+    ],
+    "name:ita_x_variant":[
+        "Micene"
     ],
     "name:jpn_x_preferred":[
         "\u30df\u30ad\u30cd\u30b9"
@@ -89,7 +92,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497299215,
-    "wof:geomhash":"ea3336d6c14c1034dbd10f424047ffd5",
+    "wof:geomhash":"f201a8d3ec596884483b09b4310f80a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125994327,
-    "wof:lastmodified":1566641890,
+    "wof:lastmodified":1690924628,
     "wof:name":"Mykines",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
@@ -109,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.7513975,
+    22.751397,
     37.726041,
-    22.7513975,
+    22.751397,
     37.726041
 ],
-  "geometry": {"coordinates":[22.7513975,37.726041],"type":"Point"}
+  "geometry": {"coordinates":[22.751397,37.726041],"type":"Point"}
 }

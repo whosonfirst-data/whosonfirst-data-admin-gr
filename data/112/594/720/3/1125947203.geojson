@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062f\u0631\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Andros"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09a1\u09cd\u09b0\u09cb\u09b8"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:deu_x_preferred":[
         "Verwaltungsgliederung von Andros"
+    ],
+    "name:deu_x_variant":[
+        "Andros"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bd\u03b4\u03c1\u03bf\u03c2"
@@ -49,7 +55,13 @@
     "name:est_x_preferred":[
         "\u00c1ndros"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062f\u0631\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
+        "\u00c1ndros"
+    ],
+    "name:fra_x_preferred":[
         "\u00c1ndros"
     ],
     "name:hin_x_preferred":[
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":1125947203,
-    "wof:lastmodified":1636503085,
+    "wof:lastmodified":1690924405,
     "wof:name":"Andros",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

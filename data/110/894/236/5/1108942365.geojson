@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7189771398,37.9841363452,23.7189771398,37.9841363452",
+    "geom:bbox":"23.718977,37.984136,23.718977,37.984136",
     "geom:latitude":37.984136,
     "geom:longitude":23.718977,
     "iso:country":"GR",
@@ -25,6 +25,9 @@
     "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Metaxourgio"
+    ],
+    "name:cat_x_variant":[
+        "Metaxurgio"
     ],
     "name:deu_x_preferred":[
         "Metaxourgio"
@@ -62,6 +65,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0442\u0430\u043a\u0441\u0443\u0440\u0433\u0456\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062a\u0627\u06a9\u0633\u0648\u0631\u06af\u06cc\u0648"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -75,7 +81,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363043,
-    "wof:geomhash":"04e169c0722c7f32b2013bf79ff96aa9",
+    "wof:geomhash":"117fbb74303a55d052520f40aa6664ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108942365,
-    "wof:lastmodified":1566641254,
+    "wof:lastmodified":1690924094,
     "wof:name":"Metaxourgeio",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
@@ -96,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.71897713978385,
-    37.98413634520122,
-    23.71897713978385,
-    37.98413634520122
+    23.718977,
+    37.984136,
+    23.718977,
+    37.984136
 ],
-  "geometry": {"coordinates":[23.71897713978385,37.98413634520122],"type":"Point"}
+  "geometry": {"coordinates":[23.718977,37.984136],"type":"Point"}
 }

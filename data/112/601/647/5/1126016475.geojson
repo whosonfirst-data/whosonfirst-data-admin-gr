@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "\u00c1limos"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb\u03b1\u03bc\u03ac\u03ba\u03b9\u03bf\u03bd"
     ],
@@ -38,11 +41,17 @@
     "name:eng_x_variant":[
         "Kalamaki"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30de\u30ad"
+    ],
     "name:pol_x_preferred":[
         "Kalamaki"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043c\u0430\u043a\u0438\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1limos"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1126016475,
-    "wof:lastmodified":1566641969,
+    "wof:lastmodified":1690924696,
     "wof:name":"Kalamaki",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

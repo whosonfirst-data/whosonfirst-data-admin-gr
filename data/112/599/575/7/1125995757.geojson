@@ -28,6 +28,9 @@
     "name:ara_x_variant":[
         "\u0623\u0648\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0987\u09af\u09bc\u09be"
     ],
@@ -86,14 +89,26 @@
     "name:nno_x_preferred":[
         "\u00cda"
     ],
+    "name:pol_x_preferred":[
+        "Oia"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u044f"
     ],
     "name:spa_x_preferred":[
         "Oia"
     ],
+    "name:srp_x_preferred":[
+        "\u0418\u0430"
+    ],
     "name:swe_x_preferred":[
         "O\u00eda"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e35\u0e2d\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Oia"
     ],
     "name:und_x_variant":[
         "Ep\u00e1no Meri\u00e1"
@@ -152,7 +167,7 @@
         }
     ],
     "wof:id":1125995757,
-    "wof:lastmodified":1566641884,
+    "wof:lastmodified":1690924623,
     "wof:name":"Oia",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

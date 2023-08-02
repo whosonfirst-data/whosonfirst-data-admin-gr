@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0627\u06a4\u064a\u0627"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03c1\u03b1\u03b2\u03b9\u03ac"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fra_x_preferred":[
         "Gravia"
+    ],
+    "name:fra_x_variant":[
+        "Gravi\u00e1"
     ],
     "name:ita_x_preferred":[
         "Gravia"
@@ -54,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u0432\u044c\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u7ef4\u4e9a"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125810221,
-    "wof:lastmodified":1566641804,
+    "wof:lastmodified":1690924556,
     "wof:name":"Gravia",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

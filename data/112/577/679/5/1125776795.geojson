@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u062c\u0643\u0627\u062f\u064a\u0643\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0433\u0430\u0434\u0438\u043a\u0438\u044f"
     ],
@@ -44,6 +47,9 @@
         "Lagkad\u00edkia",
         "Langavuk",
         "Lagkadikia"
+    ],
+    "name:fra_x_preferred":[
+        "Langad\u00edkia"
     ],
     "name:mkd_x_preferred":[
         "\u0409\u0430\u043d\u0433\u0430\u0432\u0438\u0447"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125776795,
-    "wof:lastmodified":1566642130,
+    "wof:lastmodified":1690924853,
     "wof:name":"Lagkadikia",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

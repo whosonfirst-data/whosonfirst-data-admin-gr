@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.7208285,39.3432915,21.7208285,39.3432915",
+    "geom:bbox":"21.720828,39.343291,21.720828,39.343291",
     "geom:latitude":39.343291,
     "geom:longitude":21.720828,
     "gn:country":null,
@@ -31,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "Plastiras"
+    ],
+    "name:fra_x_variant":[
+        "Plast\u00edras"
     ],
     "name:ita_x_preferred":[
         "Plastiras"
@@ -83,7 +86,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497295529,
-    "wof:geomhash":"0d2c5014307a279455f890e29e9ff4a2",
+    "wof:geomhash":"c617e6ca150b34c7e5373e81f97c93ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125895433,
-    "wof:lastmodified":1566641839,
+    "wof:lastmodified":1690924590,
     "wof:name":"Plastiras",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",
@@ -103,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.7208285,
-    39.3432915,
-    21.7208285,
-    39.3432915
+    21.720828,
+    39.343291,
+    21.720828,
+    39.343291
 ],
-  "geometry": {"coordinates":[21.7208285,39.3432915],"type":"Point"}
+  "geometry": {"coordinates":[21.720828,39.343291],"type":"Point"}
 }
