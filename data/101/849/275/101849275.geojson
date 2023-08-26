@@ -24,8 +24,17 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0645\u0648\u0643\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0645\u0648\u0643\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Domokos"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043c\u043e\u043a\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Domok\u00f3s"
     ],
     "name:ceb_x_preferred":[
         "Domok\u00f3s"
@@ -42,14 +51,26 @@
     "name:eng_x_preferred":[
         "Domokos"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0648\u06a9\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Domok\u00f3s"
     ],
     "name:fra_x_preferred":[
         "Domokos"
     ],
+    "name:fra_x_variant":[
+        "Domok\u00f3s"
+    ],
     "name:glg_x_preferred":[
         "Domok\u00f3s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d5\u05e7\u05d5\u05e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0574\u0578\u056f\u0578\u057d"
     ],
     "name:ita_x_preferred":[
         "Domokos"
@@ -78,6 +99,9 @@
     "name:spa_x_preferred":[
         "Domokos"
     ],
+    "name:sqi_x_preferred":[
+        "Domokos"
+    ],
     "name:swe_x_preferred":[
         "Domok\u00f3s"
     ],
@@ -89,6 +113,9 @@
     ],
     "name:vie_x_preferred":[
         "Domokos"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u83ab\u79d1\u4ec0"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
@@ -140,7 +167,7 @@
         }
     ],
     "wof:id":101849275,
-    "wof:lastmodified":1582360196,
+    "wof:lastmodified":1690924267,
     "wof:name":"\u0394\u039f\u039c\u039f\u039a\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

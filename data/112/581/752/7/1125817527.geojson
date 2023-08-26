@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0625\u0631\u064a\u062b\u0631\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u064a\u062b\u0631\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Erythres"
+    ],
     "name:cat_x_preferred":[
         "Eritres"
+    ],
+    "name:cat_x_variant":[
+        "\u00c8ritres"
     ],
     "name:ceb_x_preferred":[
         "Erythr\u00e9s"
@@ -45,11 +54,17 @@
     "name:eng_x_preferred":[
         "Erythres"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u06cc\u062a\u0631\u0633"
+    ],
     "name:fin_x_preferred":[
         "Erythr\u00e9s"
     ],
     "name:fra_x_preferred":[
         "Erythres"
+    ],
+    "name:fra_x_variant":[
+        "Erythr\u00e9s"
     ],
     "name:ita_x_preferred":[
         "Erythres"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":1125817527,
-    "wof:lastmodified":1566641803,
+    "wof:lastmodified":1690924554,
     "wof:name":"Erithrai",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

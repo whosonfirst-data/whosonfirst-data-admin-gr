@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:cat_x_preferred":[
+        "Nea Kifissia"
+    ],
     "name:deu_x_preferred":[
         "Kifisia"
     ],
@@ -47,6 +50,9 @@
     "name:por_x_preferred":[
         "Nea Kifissia BC"
     ],
+    "name:por_x_variant":[
+        "Nea Kifissia"
+    ],
     "name:spa_x_preferred":[
         "A.E. Neas K\u012bfisias"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:tur_x_preferred":[
         "Nea Kifisia BK"
+    ],
+    "name:tur_x_variant":[
+        "Nea Kifisia"
     ],
     "qs:gn_adm0_cc":"GR",
     "qs:gn_id":0,
@@ -117,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1690924071,
     "wof:name":"Nea Kifisia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

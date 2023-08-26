@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7101342283,37.985686581,23.7101342283,37.985686581",
+    "geom:bbox":"23.710134,37.985687,23.710134,37.985687",
     "geom:latitude":37.985687,
     "geom:longitude":23.710134,
     "iso:country":"GR",
@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Prof\u00edtis Dani\u00edl"
     ],
+    "name:nld_x_preferred":[
+        "Profitis Daniil"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0648\u0641\u06cc\u062a\u06cc\u0633 \u062f\u0627\u0646\u06cc\u0626\u0644"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -54,7 +60,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363088,
-    "wof:geomhash":"0f843a9dbbe7c96685d69a6b4766f795",
+    "wof:geomhash":"4178e4de7358859d39f129a087195418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108942429,
-    "wof:lastmodified":1566641249,
+    "wof:lastmodified":1690924087,
     "wof:name":"Profitis Daniil",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.71013422825228,
-    37.98568658095849,
-    23.71013422825228,
-    37.98568658095849
+    23.710134,
+    37.985687,
+    23.710134,
+    37.985687
 ],
-  "geometry": {"coordinates":[23.71013422825228,37.98568658095849],"type":"Point"}
+  "geometry": {"coordinates":[23.710134,37.985687],"type":"Point"}
 }

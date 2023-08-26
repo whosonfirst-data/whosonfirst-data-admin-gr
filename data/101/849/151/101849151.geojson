@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627 \u0628\u064a\u0631\u0627\u0645\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0627 \u0628\u064a\u0631\u0627\u0645\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Nea Peramos"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0430 \u041f\u0435\u0440\u0430\u043c\u043e\u0441"
     ],
@@ -51,6 +57,12 @@
     "name:fra_x_preferred":[
         "Nea Peramos"
     ],
+    "name:fra_x_variant":[
+        "N\u00e9a P\u00e9ramos"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0561 \u054a\u0565\u0580\u0561\u0574\u0578\u057d"
+    ],
     "name:ita_x_preferred":[
         "Nea Peramos"
     ],
@@ -66,12 +78,18 @@
     "name:ron_x_preferred":[
         "Neos Peramos"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0430-\u041f\u0435\u0440\u0430\u043c\u043e\u0441"
+    ],
     "name:swe_x_preferred":[
         "N\u00e9a P\u00e9ramos"
     ],
     "name:und_x_variant":[
         "\u039d\u0395\u0391 \u03a0\u0395\u03a1\u0391\u039c\u039f\u03a3",
         "Meg\u00e1lo P\u00e9vko"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u4f69\u62c9\u83ab\u65af"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -130,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582360195,
+    "wof:lastmodified":1690924253,
     "wof:name":"\u039d\u0395\u0391 \u03a0\u0395\u03a1\u0391\u039c\u039f\u03a3",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

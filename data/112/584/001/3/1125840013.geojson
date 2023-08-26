@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Katakolo"
+    ],
     "name:ceb_x_preferred":[
         "Kat\u00e1kolon"
+    ],
+    "name:ces_x_preferred":[
+        "Katakolo"
     ],
     "name:deu_x_preferred":[
         "Katakolo"
@@ -44,8 +50,14 @@
     "name:fra_x_preferred":[
         "Katakolon"
     ],
+    "name:fra_x_variant":[
+        "Kat\u00e1kolo"
+    ],
     "name:ita_x_preferred":[
         "Katakolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30bf\u30b3\u30ed"
     ],
     "name:ltz_x_preferred":[
         "Katakolon"
@@ -67,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Katakalon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5854\u79d1\u9686"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":1125840013,
-    "wof:lastmodified":1566642105,
+    "wof:lastmodified":1690924825,
     "wof:name":"Kat\u00e1kolon",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",

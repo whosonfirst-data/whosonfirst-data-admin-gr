@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u062a\u0634\u0644\u0648\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0445\u043b\u043e\u0441"
     ],
@@ -50,6 +53,15 @@
     ],
     "name:fra_x_preferred":[
         "Mochlos"
+    ],
+    "name:hun_x_preferred":[
+        "Mokhlosz"
+    ],
+    "name:lat_x_preferred":[
+        "Mochlus"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0445\u043b\u043e\u0441"
     ],
     "name:nld_x_preferred":[
         "Mochlos"
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125820387,
-    "wof:lastmodified":1566642009,
+    "wof:lastmodified":1690924738,
     "wof:name":"Mokhlos",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

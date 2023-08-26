@@ -23,6 +23,18 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Corfu"
+    ],
+    "name:aze_x_preferred":[
+        "Korfu"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u0440\u043a\u0456\u0440\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b0\u09ab\u09c1"
     ],
@@ -43,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Korfu"
+    ],
+    "name:deu_x_variant":[
+        "Korfu Stadt"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1"
@@ -67,6 +82,9 @@
     ],
     "name:fra_x_preferred":[
         "Corfou"
+    ],
+    "name:gle_x_preferred":[
+        "Corfu"
     ],
     "name:glg_x_preferred":[
         "Corf\u00fa"
@@ -125,6 +143,9 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u0930\u094d\u092b\u094d\u092f\u0941"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u044d\u0440\u043a\u0438\u0440\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0440\u0444"
     ],
@@ -139,6 +160,9 @@
     ],
     "name:nob_x_preferred":[
         "Corfu"
+    ],
+    "name:nob_x_variant":[
+        "Korfu by"
     ],
     "name:pol_x_preferred":[
         "Korfu"
@@ -200,6 +224,12 @@
     "name:war_x_preferred":[
         "Kerkyra"
     ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05e4\u05d5"
+    ],
+    "name:yue_x_preferred":[
+        "\u514b\u57fa\u62c9"
+    ],
     "name:zho_x_preferred":[
         "\u514b\u57fa\u62c9\u5e02"
     ],
@@ -249,7 +279,7 @@
         }
     ],
     "wof:id":1125963763,
-    "wof:lastmodified":1566641933,
+    "wof:lastmodified":1690924664,
     "wof:name":"Corfu",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

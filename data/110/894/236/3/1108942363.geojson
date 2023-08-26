@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7339321509,37.9808989282,23.7339321509,37.9808989282",
+    "geom:bbox":"23.733932,37.980899,23.733932,37.980899",
     "geom:latitude":37.980899,
     "geom:longitude":23.733932,
     "iso:country":"GR",
@@ -38,11 +38,23 @@
     "name:fra_x_preferred":[
         "Akadim\u00eda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ab\u30c7\u30df\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Academy"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u0434\u0435\u043c\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06a9\u0627\u062f\u06cc\u0645\u06cc\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Akadimia"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363042,
-    "wof:geomhash":"b1e887227f72ae722fb9176a1e035573",
+    "wof:geomhash":"1365587f19859690ad2cd14e307c5769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1108942363,
-    "wof:lastmodified":1566641254,
+    "wof:lastmodified":1690924094,
     "wof:name":"Akadimia",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
@@ -78,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.73393215091221,
-    37.98089892817866,
-    23.73393215091221,
-    37.98089892817866
+    23.733932,
+    37.980899,
+    23.733932,
+    37.980899
 ],
-  "geometry": {"coordinates":[23.73393215091221,37.98089892817866],"type":"Point"}
+  "geometry": {"coordinates":[23.733932,37.980899],"type":"Point"}
 }

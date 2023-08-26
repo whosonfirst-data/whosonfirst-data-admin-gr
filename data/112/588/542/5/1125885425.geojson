@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u064a\u0630\u0627\u0644\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u064a\u0630\u0627\u0644\u0648\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0438\u0434\u0430\u043b\u043e\u0441"
     ],
@@ -52,8 +55,14 @@
     "name:fra_x_preferred":[
         "Korydallos"
     ],
+    "name:fra_x_variant":[
+        "Korydall\u00f3s"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05d9\u05d3\u05dc\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Koridal\u00f3sz"
     ],
     "name:ita_x_preferred":[
         "Korydallos"
@@ -75,6 +84,9 @@
     ],
     "name:pol_x_preferred":[
         "Koridallos"
+    ],
+    "name:pol_x_variant":[
+        "Koridalos"
     ],
     "name:ron_x_preferred":[
         "Korydallos"
@@ -111,6 +123,9 @@
     ],
     "name:vie_x_preferred":[
         "Korydallos"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u91cc\u8fbe\u6d1b\u65af"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -149,7 +164,7 @@
         }
     ],
     "wof:id":1125885425,
-    "wof:lastmodified":1566641819,
+    "wof:lastmodified":1690924576,
     "wof:name":"Korydall\u00f3s",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

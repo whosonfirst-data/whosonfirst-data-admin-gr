@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7279027538,37.9968770991,23.7279027538,37.9968770991",
+    "geom:bbox":"23.727903,37.996877,23.727903,37.996877",
     "geom:latitude":37.996877,
     "geom:longitude":23.727903,
     "iso:country":"GR",
@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "\u00c1gios Pandele\u00edmonas"
     ],
+    "name:nld_x_preferred":[
+        "Agios Panteleimonas"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u043e\u0441-\u041f\u0430\u043d\u0442\u0435\u043b\u0435\u0438\u043c\u043e\u043d\u0430\u0441"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043e\u0441-\u041f\u0430\u043d\u0442\u0435\u043b\u0435\u0439\u043c\u043e\u043d\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u067e\u0627\u0646\u062a\u06cc\u0644\u06cc\u0645\u0648\u0646\u0627\u0633"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -63,7 +69,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363034,
-    "wof:geomhash":"d9f9c8a19f0866b6a44ab426592faaa8",
+    "wof:geomhash":"82fcffb318bbc342374aedfddfed6b07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108942349,
-    "wof:lastmodified":1566641251,
+    "wof:lastmodified":1690924090,
     "wof:name":"Agios Panteleimonas",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.72790275381997,
-    37.99687709913469,
-    23.72790275381997,
-    37.99687709913469
+    23.727903,
+    37.996877,
+    23.727903,
+    37.996877
 ],
-  "geometry": {"coordinates":[23.72790275381997,37.99687709913469],"type":"Point"}
+  "geometry": {"coordinates":[23.727903,37.996877],"type":"Point"}
 }

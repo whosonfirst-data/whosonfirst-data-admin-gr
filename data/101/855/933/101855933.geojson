@@ -27,6 +27,9 @@
     "name:ara_x_variant":[
         "\u0646\u064a \u0641\u0648\u0643\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0649 \u0641\u0648\u0643\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0430 \u0424\u043e\u043a\u0435\u044f"
     ],
@@ -48,8 +51,23 @@
     "name:eng_x_variant":[
         "Nea Fokea"
     ],
+    "name:fin_x_preferred":[
+        "N\u00e9a F\u00f3kaia"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9a F\u00f3kea"
+    ],
+    "name:ita_x_preferred":[
+        "Nea Fokea"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u0445 \u0421\u0432\u0435\u0442\u0438 \u041f\u0430\u0432\u043b\u0435"
+    ],
     "name:nld_x_preferred":[
         "Nea Fokea"
+    ],
+    "name:spa_x_preferred":[
+        "N\u00e9a F\u00f3kaia"
     ],
     "name:swe_x_preferred":[
         "N\u00e9a F\u00f3kaia"
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":101855933,
-    "wof:lastmodified":1582360204,
+    "wof:lastmodified":1690924363,
     "wof:name":"\u039d\u0395\u0391 \u03a6\u03a9\u039a\u0391\u0399\u0391",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

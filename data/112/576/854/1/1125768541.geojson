@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0646\u0648\u062f\u064a\u0646\u062f\u0631\u0649"
+    ],
     "name:ceb_x_preferred":[
+        "Monod\u00e9ndri"
+    ],
+    "name:deu_x_preferred":[
         "Monod\u00e9ndri"
     ],
     "name:ell_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Monodendri"
+    ],
+    "name:fra_x_variant":[
+        "Monod\u00e9ndri"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041c\u0430\u0430\u043b\u043e"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125768541,
-    "wof:lastmodified":1566642033,
+    "wof:lastmodified":1690924765,
     "wof:name":"Monod\u00e9ndrion",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0648\u0631\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u043c\u043e\u0441"
     ],
     "name:ces_x_preferred":[
         "Patmos"
+    ],
+    "name:deu_x_preferred":[
+        "Chora"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03c4\u03bc\u03bf\u03c2"
@@ -38,7 +44,8 @@
         "Patmos"
     ],
     "name:eng_x_variant":[
-        "Chor\u00e1"
+        "Chor\u00e1",
+        "Chora"
     ],
     "name:fin_x_preferred":[
         "Ch\u00f3ra"
@@ -51,6 +58,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0442\u043c\u043e\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u0440\u0430"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0442\u043c\u043e\u0441"
@@ -109,7 +119,7 @@
         }
     ],
     "wof:id":1125794057,
-    "wof:lastmodified":1566642097,
+    "wof:lastmodified":1690924819,
     "wof:name":"Patmos",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

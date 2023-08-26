@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u06a4\u064a\u062a\u0633\u0627"
+    ],
     "name:ceb_x_preferred":[
         "V\u00edtsa"
     ],
@@ -42,6 +45,12 @@
         "Ano Vitsa"
     ],
     "name:eng_x_variant":[
+        "Vitsa"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00edtsa"
+    ],
+    "name:ita_x_preferred":[
         "Vitsa"
     ],
     "name:mkd_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125836137,
-    "wof:lastmodified":1566642154,
+    "wof:lastmodified":1690924876,
     "wof:name":"V\u00edtsa",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

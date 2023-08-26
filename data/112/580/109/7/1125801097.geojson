@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u062a\u0627\u064a\u0646\u0627"
+    ],
     "name:deu_x_preferred":[
         "Karitena"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Karytaina"
+    ],
+    "name:fra_x_variant":[
+        "Kar\u00fdtena"
     ],
     "name:ita_x_preferred":[
         "Karytaina"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125801097,
-    "wof:lastmodified":1566641852,
+    "wof:lastmodified":1690924601,
     "wof:name":"Karitaina",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u0645\u0649"
+    ],
     "name:cat_x_preferred":[
         "M\u00e0leme"
+    ],
+    "name:ces_x_preferred":[
+        "Maleme"
     ],
     "name:deu_x_preferred":[
         "Maleme"
@@ -46,6 +52,9 @@
     ],
     "name:fra_x_preferred":[
         "Maleme"
+    ],
+    "name:fra_x_variant":[
+        "M\u00e1leme"
     ],
     "name:ita_x_preferred":[
         "Mal\u00e9me"
@@ -76,6 +85,9 @@
     ],
     "name:und_x_variant":[
         "Molame"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u840a\u9081"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125810701,
-    "wof:lastmodified":1566641804,
+    "wof:lastmodified":1690924555,
     "wof:name":"Maleme",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

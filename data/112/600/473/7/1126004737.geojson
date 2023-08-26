@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u062c\u064a\u0627 \u0627\u0641\u064a\u0645\u064a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Agia Efimia"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fra_x_preferred":[
         "Agia Effimia"
+    ],
+    "name:fra_x_variant":[
+        "Ag\u00eda Effim\u00eda"
     ],
     "name:ita_x_preferred":[
         "Agia Effimia"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1126004737,
-    "wof:lastmodified":1566641994,
+    "wof:lastmodified":1690924722,
     "wof:name":"Agia Effimia",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

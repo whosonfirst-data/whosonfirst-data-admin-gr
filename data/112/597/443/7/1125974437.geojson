@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.9183705,40.720721,22.9183705,40.720721",
+    "geom:bbox":"22.918371,40.720721,22.918371,40.720721",
     "geom:latitude":40.720721,
     "geom:longitude":22.918371,
     "gn:country":null,
@@ -22,6 +22,9 @@
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0627\u064a\u0648\u0643\u0627\u0633\u062a\u0631\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0631\u0627\u064a\u0648\u0643\u0627\u0633\u062a\u0631\u0648"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0443\u0442\u0431\u0430\u043b"
@@ -46,6 +49,12 @@
     ],
     "name:fra_x_preferred":[
         "Oraiokastro"
+    ],
+    "name:fra_x_variant":[
+        "Ore\u00f3kastro"
+    ],
+    "name:hun_x_preferred":[
+        "Ore\u00f3kasztro"
     ],
     "name:ita_x_preferred":[
         "Oraiokastro"
@@ -131,7 +140,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497298292,
-    "wof:geomhash":"d2bf9c49c97394244aa36e5f32323074",
+    "wof:geomhash":"ab2b82aecf44c85fc46453bfb79536a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":1125974437,
-    "wof:lastmodified":1566641916,
+    "wof:lastmodified":1690924654,
     "wof:name":"Oraiokastron",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",
@@ -151,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.9183705,
+    22.918371,
     40.720721,
-    22.9183705,
+    22.918371,
     40.720721
 ],
-  "geometry": {"coordinates":[22.9183705,40.720721],"type":"Point"}
+  "geometry": {"coordinates":[22.918371,40.720721],"type":"Point"}
 }

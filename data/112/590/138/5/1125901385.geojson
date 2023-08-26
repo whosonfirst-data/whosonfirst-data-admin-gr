@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0633\u0643\u0627\u0644\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Sk\u00e1la"
     ],
@@ -41,8 +44,14 @@
     "name:fra_x_preferred":[
         "Skala"
     ],
+    "name:fra_x_variant":[
+        "Sk\u00e1la"
+    ],
     "name:ita_x_preferred":[
         "Skala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ab\u30e9"
     ],
     "name:nld_x_preferred":[
         "Skala"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125901385,
-    "wof:lastmodified":1566641896,
+    "wof:lastmodified":1690924634,
     "wof:name":"Sk\u00e1la",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

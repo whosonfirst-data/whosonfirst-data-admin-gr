@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062b\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062b\u064a\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0430\u0440\u0438\u043d\u0442\u043e\u0441"
+    ],
     "name:ceb_x_preferred":[
         "Am\u00e1rynthos"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Amarynthos"
+    ],
+    "name:fra_x_variant":[
+        "Am\u00e1rynthos"
     ],
     "name:ita_x_preferred":[
         "Amarynthos"
@@ -70,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "K\u00e1to V\u00e1thia"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9a6c\u6797\u7d22\u65af"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1125835187,
-    "wof:lastmodified":1566642150,
+    "wof:lastmodified":1690924872,
     "wof:name":"Amarynthos",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

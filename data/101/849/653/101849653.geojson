@@ -24,8 +24,17 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0627\u062a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0627\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Kiato"
+    ],
     "name:ceb_x_preferred":[
         "Ki\u00e1to"
+    ],
+    "name:dan_x_preferred":[
+        "Kiato"
     ],
     "name:deu_x_preferred":[
         "Kiato"
@@ -42,6 +51,12 @@
     "name:fin_x_preferred":[
         "Ki\u00e1to"
     ],
+    "name:fra_x_preferred":[
+        "Ki\u00e1to"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d0\u05d8\u05d5"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30e3\u30c8"
     ],
@@ -57,6 +72,9 @@
     "name:rus_x_preferred":[
         "\u041a\u044c\u044f\u0442\u043e\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Kiato"
+    ],
     "name:sqi_x_preferred":[
         "Qato"
     ],
@@ -68,6 +86,12 @@
     ],
     "name:und_x_variant":[
         "Sikion\u00eda"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0627\u062a\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u4e9e\u6258"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a0\u0395\u039b\u039f\u03a0\u039f\u039d\u039d\u0397\u03a3\u039f\u03a3",
@@ -121,7 +145,7 @@
         }
     ],
     "wof:id":101849653,
-    "wof:lastmodified":1582360201,
+    "wof:lastmodified":1690924314,
     "wof:name":"\u039a\u0399\u0391\u03a4\u039f",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

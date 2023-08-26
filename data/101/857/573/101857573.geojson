@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0643\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0644\u0643\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Kilkis"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0456\u043b\u043a\u0456\u0441"
     ],
@@ -33,8 +39,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Kilk\u00eds"
+    ],
+    "name:ces_x_preferred":[
+        "Kuku\u0161"
+    ],
     "name:chu_x_preferred":[
         "\u041a\u043e\u0443\u043a\u043e\u0443\u0448\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0438\u043b\u043a\u0438\u0441"
     ],
     "name:cym_x_preferred":[
         "Kilkis"
@@ -55,6 +70,9 @@
     "name:eng_x_preferred":[
         "Kilkis"
     ],
+    "name:epo_x_preferred":[
+        "Kilkiso"
+    ],
     "name:est_x_preferred":[
         "Kilk\u00eds"
     ],
@@ -70,17 +88,26 @@
     "name:fra_x_preferred":[
         "Kilk\u00eds"
     ],
+    "name:grc_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b9\u03ba\u03cc\u03bd"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab2\u0a95\u0abf\u0ab8"
     ],
     "name:hbs_x_preferred":[
         "Kilkis"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05e7\u05d9\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0932\u0915\u093f\u0938"
     ],
     "name:hrv_x_preferred":[
         "Kilkis"
+    ],
+    "name:hun_x_preferred":[
+        "Kilk\u00edsz"
     ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u056c\u056f\u056b\u057d"
@@ -102,6 +129,9 @@
     ],
     "name:lat_x_preferred":[
         "Cilcis"
+    ],
+    "name:lat_x_variant":[
+        "Callicum"
     ],
     "name:lav_x_preferred":[
         "Kilkisa"
@@ -185,6 +215,9 @@
     "name:war_x_preferred":[
         "Kilkis"
     ],
+    "name:yue_x_preferred":[
+        "\u5b0c\u57fa\u65af"
+    ],
     "name:zho_x_preferred":[
         "\u57fa\u5c14\u57fa\u65af"
     ],
@@ -242,7 +275,7 @@
         }
     ],
     "wof:id":101857573,
-    "wof:lastmodified":1582360185,
+    "wof:lastmodified":1690924157,
     "wof:name":"\u039a\u0399\u039b\u039a\u0399\u03a3",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a \u0632\u064a\u0643\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0649 \u0632\u064a\u0643\u0646\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0430 \u0417\u0438\u0445\u043d\u0438"
     ],
@@ -73,7 +76,8 @@
     ],
     "name:rus_x_variant":[
         "\u0417\u0438\u043b\u0438\u044f",
-        "\u0417\u0438\u043b\u044f\u0445\u043e\u0432\u0430"
+        "\u0417\u0438\u043b\u044f\u0445\u043e\u0432\u0430",
+        "\u041d\u0435\u0430-\u0417\u0438\u0445\u043d\u0438"
     ],
     "name:swe_x_preferred":[
         "N\u00e9a Z\u00edchni"
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":101857697,
-    "wof:lastmodified":1582360186,
+    "wof:lastmodified":1690924170,
     "wof:name":"\u039d\u0395\u0391 \u0396\u0399\u03a7\u039d\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

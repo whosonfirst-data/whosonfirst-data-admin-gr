@@ -33,8 +33,14 @@
     "name:arg_x_preferred":[
         "Maquina d'Antiquitera"
     ],
+    "name:arg_x_variant":[
+        "maquina d'Antiquitera"
+    ],
     "name:ast_x_preferred":[
         "Mecanismu d'Antikythera"
+    ],
+    "name:ast_x_variant":[
+        "mecanismu d'Antikythera"
     ],
     "name:aze_x_preferred":[
         "Antikitera mexanizmi"
@@ -44,6 +50,9 @@
     ],
     "name:bel_x_variant":[
         "\u0410\u043d\u0442\u044b\u043a\u0456\u0442\u044d\u0440\u0441\u043a\u0456 \u043c\u044d\u0445\u0430\u043d\u0456\u0437\u043c"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0995\u09bf\u09a5\u09c7\u09b0\u09be \u09af\u09a8\u09cd\u09a4\u09cd\u09b0\u0995\u09cc\u09b6\u09b2"
     ],
     "name:bos_x_preferred":[
         "Antikitera mehanizam"
@@ -124,6 +133,9 @@
     "name:ind_x_preferred":[
         "Mekanisme Antikythera"
     ],
+    "name:ind_x_variant":[
+        "mekanisme Antikythera"
+    ],
     "name:ita_x_preferred":[
         "Macchina di Anticitera"
     ],
@@ -137,10 +149,14 @@
         "\uc548\ud2f0\ud0a4\ud2f0\ub77c \uae30\uacc4"
     ],
     "name:kor_x_variant":[
-        "\uc548\ud2f0\ud0a4\ud2f0\ub77c \uba54\ucee4\ub2c8\uc998"
+        "\uc548\ud2f0\ud0a4\ud2f0\ub77c \uba54\ucee4\ub2c8\uc998",
+        "\uc548\ud2f0\ud0a4\ud14c\ub77c \uba54\ucee4\ub2c8\uc998"
     ],
     "name:lat_x_preferred":[
         "Machinatio Anticytherensis"
+    ],
+    "name:lat_x_variant":[
+        "machinatio Anticytherensis"
     ],
     "name:lav_x_preferred":[
         "Antikitiras meh\u0101nisms"
@@ -153,6 +169,12 @@
     ],
     "name:mal_x_preferred":[
         "\u0d06\u0d28\u0d4d\u0d31\u0d3f\u0d15\u0d40\u0d24\u0d46\u0d31 \u0d2e\u0d46\u0d15\u0d4d\u0d15\u0d3e\u0d28\u0d3f\u0d38\u0d02"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043a\u0438\u0442\u0435\u0440\u0441\u043a\u0438 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u0430\u043c"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe6\uabdf\uabc7\uabe4\uabc0\uabe5\uabcf\uabca\uabe6\uabd4\uabe5 \uabc3\uabe6\uabc0\uabe5\uabc5\uabe4\uabd6\uabdd"
     ],
     "name:nld_x_preferred":[
         "Mechanisme van Antikythera"
@@ -205,11 +227,17 @@
     "name:tgl_x_preferred":[
         "Mekanismong Antikythera"
     ],
+    "name:tgl_x_variant":[
+        "mekanismong Antikythera"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e25\u0e44\u0e01\u0e41\u0e2d\u0e19\u0e15\u0e34\u0e04\u0e34\u0e40\u0e18\u0e35\u0e22\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Antikythera d\u00fczene\u011fi"
+    ],
+    "name:tur_x_variant":[
+        "Antikitera d\u00fczene\u011fi"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0438\u043a\u0456\u0442\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u043c\u0435\u0445\u0430\u043d\u0456\u0437\u043c"
@@ -219,6 +247,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0646\u0679\u06cc\u06a9\u06cc\u062a\u06be\u06cc\u0631\u0627 \u0645\u06cc\u06a9\u0646\u0632\u0645"
+    ],
+    "name:uzb_x_preferred":[
+        "Antikiteriya mexanizmi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5b89\u63d0\u57fa\u7279\u62c9\u673a\u68b0"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u63d0\u57fa\u7279\u62c9\u673a\u68b0"
@@ -271,7 +305,7 @@
         }
     ],
     "wof:id":101849667,
-    "wof:lastmodified":1582360196,
+    "wof:lastmodified":1690924272,
     "wof:name":"\u0399\u03a3\u0398\u039c\u0399\u0391",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

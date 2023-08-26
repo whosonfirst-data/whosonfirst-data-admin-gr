@@ -28,11 +28,20 @@
     "name:ara_x_variant":[
         "\u0646\u064a \u0645\u064a\u0633\u064a\u0645\u0641\u0631\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0649 \u0645\u064a\u0633\u064a\u0645\u0641\u0631\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nea Mesimvria"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0440\u0438\u0435\u0432\u043e"
     ],
     "name:ceb_x_preferred":[
         "N\u00e9a Mesimvr\u00eda"
+    ],
+    "name:deu_x_preferred":[
+        "Nea Mesimvria"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u039c\u03b5\u03c3\u03b7\u03bc\u03b2\u03c1\u03af\u03b1"
@@ -42,6 +51,15 @@
     ],
     "name:eng_x_preferred":[
         "Nea Mesimvria"
+    ],
+    "name:fin_x_preferred":[
+        "N\u00e9a Mesimvr\u00eda"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9a Mesimvr\u00eda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05d4\u05e8\u05d9\u05d9\u05dd \u05d7\u05d3\u05e9\u05d9\u05dd"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0440\u0438\u0435\u0432\u043e"
@@ -104,7 +122,7 @@
         }
     ],
     "wof:id":1126030109,
-    "wof:lastmodified":1566641774,
+    "wof:lastmodified":1690924525,
     "wof:name":"Nea Mesimvria",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

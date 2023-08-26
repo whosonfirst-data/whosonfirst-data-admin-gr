@@ -25,14 +25,26 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u063a\u0631\u0627\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0648\u062c\u0631\u0627\u0641\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0433\u0440\u0430\u0444\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u0997\u09cd\u09b0\u09be\u09ab\u09c1"
     ],
     "name:bul_x_preferred":[
         "\u0417\u043e\u0433\u0440\u0430\u0444\u0443"
     ],
+    "name:cat_x_preferred":[
+        "Zografou"
+    ],
     "name:ceb_x_preferred":[
         "Dimos Zografos"
+    ],
+    "name:ceb_x_variant":[
+        "Zografos"
     ],
     "name:dan_x_preferred":[
         "Zografou"
@@ -53,6 +65,9 @@
         "Zografou",
         "Zografos"
     ],
+    "name:epo_x_preferred":[
+        "Zografu"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u06af\u0631\u0627\u0641\u0648"
     ],
@@ -70,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Zogr\u00e1fosz"
+    ],
+    "name:hun_x_variant":[
+        "Zogr\u00e1fu"
     ],
     "name:ind_x_preferred":[
         "Zografou"
@@ -110,6 +128,12 @@
     "name:pol_x_preferred":[
         "Zografu"
     ],
+    "name:pol_x_variant":[
+        "Zografos"
+    ],
+    "name:por_x_preferred":[
+        "Zografu"
+    ],
     "name:ron_x_preferred":[
         "Zografou"
     ],
@@ -124,6 +148,9 @@
     ],
     "name:swe_x_preferred":[
         "Dimos Zografos"
+    ],
+    "name:swe_x_variant":[
+        "Zografos"
     ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bcb\u0b95\u0bcd\u0bb0\u0bbe\u0baa\u0bcb\u0bb5\u0bc1"
@@ -183,7 +210,7 @@
         }
     ],
     "wof:id":1125826093,
-    "wof:lastmodified":1566642024,
+    "wof:lastmodified":1690924755,
     "wof:name":"Zogr\u00e1fos",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

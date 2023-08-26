@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u0644\u0627 \u0643\u0631\u064a\u062a\u0649"
+    ],
     "name:cat_x_preferred":[
         "Matala"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:fra_x_preferred":[
         "Matala"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057f\u0561\u056c\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u0569\u0561\u056c\u0561"
     ],
     "name:ita_x_preferred":[
         "Matala"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1125828469,
-    "wof:lastmodified":1566642015,
+    "wof:lastmodified":1690924744,
     "wof:name":"Matala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

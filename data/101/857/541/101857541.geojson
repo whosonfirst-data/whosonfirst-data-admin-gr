@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u064a\u0643\u0627\u0633\u062a\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u064a\u0643\u0627\u0633\u062a\u0631\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Polykastro"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u0433\u0443\u043d\u043e\u0432\u0435\u0446"
     ],
@@ -51,8 +57,14 @@
     "name:fra_x_preferred":[
         "Polykastro"
     ],
+    "name:fra_x_variant":[
+        "Pol\u00fdkastro"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05dc\u05d9\u05e7\u05e1\u05d8\u05e8\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056c\u056b\u056f\u0561\u057d\u057f\u0580\u0578\u0576"
     ],
     "name:ita_x_preferred":[
         "Polykastro"
@@ -143,7 +155,7 @@
         }
     ],
     "wof:id":101857541,
-    "wof:lastmodified":1582360187,
+    "wof:lastmodified":1690924177,
     "wof:name":"\u03a0\u039f\u039b\u03a5\u039a\u0391\u03a3\u03a4\u03a1\u039f\u039d",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

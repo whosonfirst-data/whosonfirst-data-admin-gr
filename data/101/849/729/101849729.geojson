@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062b\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062b\u064a\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0430\u0440\u0438\u043d\u0442\u043e\u0441"
+    ],
     "name:ceb_x_preferred":[
         "Am\u00e1rynthos"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "Amarynthos"
+    ],
+    "name:fra_x_variant":[
+        "Am\u00e1rynthos"
     ],
     "name:ita_x_preferred":[
         "Amarynthos"
@@ -69,6 +78,9 @@
     ],
     "name:und_x_variant":[
         "K\u00e1to V\u00e1thia"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9a6c\u6797\u7d22\u65af"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u03a3\u03a4\u0395\u03a1\u0395\u0391 \u0395\u039b\u039b\u0391\u0394\u0391",
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":101849729,
-    "wof:lastmodified":1582360202,
+    "wof:lastmodified":1690924333,
     "wof:name":"\u0391\u039c\u0391\u03a1\u03a5\u039d\u0398\u039f\u03a3",
     "wof:parent_id":85684681,
     "wof:placetype":"locality",

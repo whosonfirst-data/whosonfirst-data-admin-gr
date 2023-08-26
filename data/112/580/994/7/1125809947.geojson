@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0623\u062e\u0627\u0631\u0646\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u062e\u0627\u0631\u0646\u064a\u0633"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09c7\u09b8"
     ],
@@ -67,6 +70,12 @@
     "name:fra_x_preferred":[
         "Acharnes"
     ],
+    "name:fra_x_variant":[
+        "Acharn\u00e9s"
+    ],
+    "name:glg_x_preferred":[
+        "Acarnas"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9a\u0ab0\u0acd\u0aa8\u0ac7\u0ab8"
     ],
@@ -93,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uce74\ub974\ub124\uc2a4"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ud558\ub974\ub124\uc2a4"
     ],
     "name:lav_x_preferred":[
         "Aharnesa"
@@ -226,7 +238,7 @@
         }
     ],
     "wof:id":1125809947,
-    "wof:lastmodified":1566641852,
+    "wof:lastmodified":1690924601,
     "wof:name":"Akharnai",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

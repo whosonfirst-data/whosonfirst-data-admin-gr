@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u067e\u064a\u0633\u0643\u0648\u067e\u0649 \u062c\u0648\u0646\u064a\u0627\u0633"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03ae \u0393\u03c9\u03bd\u03b9\u03ac\u03c2 \u0398\u03ae\u03c1\u03b1\u03c2"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fin_x_preferred":[
         "Episkop\u00ed Goni\u00e1s"
+    ],
+    "name:fra_x_preferred":[
+        "Episkop\u00ed Goni\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Mesa Gonia"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043f\u0438\u0441\u043a\u043e\u043f\u0438-\u0413\u043e\u043d\u044c\u044f\u0441"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125836141,
-    "wof:lastmodified":1566642154,
+    "wof:lastmodified":1690924876,
     "wof:name":"Episkopi Gonias",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",

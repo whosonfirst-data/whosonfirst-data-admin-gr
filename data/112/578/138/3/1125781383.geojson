@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0631\u0643\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0443\u0440\u043a\u0430"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fra_x_preferred":[
         "Fourka"
+    ],
+    "name:fra_x_variant":[
+        "Fo\u00farka"
     ],
     "name:ita_x_preferred":[
         "Fourka"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1125781383,
-    "wof:lastmodified":1566642081,
+    "wof:lastmodified":1690924804,
     "wof:name":"Fourka",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

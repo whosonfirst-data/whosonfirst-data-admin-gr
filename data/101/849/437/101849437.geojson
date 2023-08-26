@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0641\u064a\u062f\u0646\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0641\u064a\u062f\u0646\u064a\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Afidnes"
+    ],
     "name:ceb_x_preferred":[
         "Afidn\u00e9s"
     ],
@@ -58,11 +64,17 @@
     "name:fra_x_preferred":[
         "Afidnes"
     ],
+    "name:fra_x_variant":[
+        "Af\u00eddnes"
+    ],
     "name:ita_x_preferred":[
         "Afidnes"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d5\u30a3\u30c9\u30cd\u30b9"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040c\u0443\u0440\u043a\u0430"
     ],
     "name:nld_x_preferred":[
         "Afidnes"
@@ -88,6 +100,9 @@
     "name:und_x_variant":[
         "\u0391\u03a6\u0399\u0394\u039d\u0395\u03a3",
         "\u039a\u0399\u039f\u03a5\u03a1\u039a\u0391"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0641\u06cc\u062f\u0646\u06cc\u0633"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0391\u03a4\u03a4\u0399\u039a\u0397",
@@ -143,7 +158,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582360196,
+    "wof:lastmodified":1690924270,
     "wof:name":"\u0391\u03a6\u0399\u0394\u039d\u0391\u0399",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

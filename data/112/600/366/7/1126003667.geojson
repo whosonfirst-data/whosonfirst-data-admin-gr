@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0632\u0648\u0631\u0648\u0633"
+    ],
     "name:ceb_x_preferred":[
         "\u00c1zoros"
     ],
@@ -33,6 +36,15 @@
     ],
     "name:eng_x_preferred":[
         "Azoros"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c1zoros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30be\u30ed\u30b9"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0443\u0432\u0430\u043b\u0430"
     ],
     "name:nld_x_preferred":[
         "Azoros"
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1126003667,
-    "wof:lastmodified":1566641988,
+    "wof:lastmodified":1690924716,
     "wof:name":"Azoros",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062b\u064a\u0631\u0645\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062b\u064a\u0631\u0645\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Thermi"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u043c\u0438"
     ],
@@ -35,6 +41,9 @@
     "name:ell_x_preferred":[
         "\u0398\u03ad\u03c1\u03bc\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0398\u03ad\u03c1\u03bc\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Thermi"
     ],
@@ -46,6 +55,12 @@
     ],
     "name:fra_x_preferred":[
         "Thermi"
+    ],
+    "name:fra_x_variant":[
+        "Th\u00e9rmi"
+    ],
+    "name:hun_x_preferred":[
+        "Th\u00e9rmi"
     ],
     "name:hye_x_preferred":[
         "\u0539\u0565\u0580\u0574\u056b"
@@ -62,6 +77,9 @@
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0434\u0435\u0448"
     ],
+    "name:mkd_x_variant":[
+        "\u0421\u0435\u0434\u0435\u0441"
+    ],
     "name:nld_x_preferred":[
         "Thermi"
     ],
@@ -70,6 +88,9 @@
     ],
     "name:pol_x_preferred":[
         "Thermi"
+    ],
+    "name:pol_x_variant":[
+        "Termi"
     ],
     "name:ron_x_preferred":[
         "Thermi"
@@ -147,7 +168,7 @@
         }
     ],
     "wof:id":1125804615,
-    "wof:lastmodified":1566641853,
+    "wof:lastmodified":1690924602,
     "wof:name":"Thermi",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

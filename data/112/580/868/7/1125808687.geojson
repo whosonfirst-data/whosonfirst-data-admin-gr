@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.5770805,40.758887,24.5770805,40.758887",
+    "geom:bbox":"24.577081,40.758887,24.577081,40.758887",
     "geom:latitude":40.758887,
     "geom:longitude":24.577081,
     "gn:country":null,
@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0646\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u067e\u0631\u064a\u0646\u0648\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043d\u043e\u0441"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Prinos"
+    ],
+    "name:fin_x_preferred":[
+        "Pr\u00ednos"
     ],
     "name:swe_x_preferred":[
         "Pr\u00ednos"
@@ -74,7 +80,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497291569,
-    "wof:geomhash":"1234332ce52d406d8298cc1ed60df4e0",
+    "wof:geomhash":"5010a32efe5a2350d1717d47f29bf83b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125808687,
-    "wof:lastmodified":1566641849,
+    "wof:lastmodified":1690924599,
     "wof:name":"Prinos",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",
@@ -94,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.5770805,
+    24.577081,
     40.758887,
-    24.5770805,
+    24.577081,
     40.758887
 ],
-  "geometry": {"coordinates":[24.5770805,40.758887],"type":"Point"}
+  "geometry": {"coordinates":[24.577081,40.758887],"type":"Point"}
 }

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Thermis"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2 \u0398\u03b5\u03c1\u03bc\u03ae\u03c2"
     ],
@@ -35,13 +38,17 @@
         "Therm\u00ed"
     ],
     "name:eng_x_variant":[
-        "Loutropoli Thermis"
+        "Loutropoli Thermis",
+        "Loutropolis Thermis Municipal Unit"
     ],
     "name:fin_x_preferred":[
         "Loutr\u00f3poli Therm\u00eds"
     ],
     "name:fra_x_preferred":[
         "Loutropoli Thermis"
+    ],
+    "name:fra_x_variant":[
+        "Loutr\u00f3poli Therm\u00eds"
     ],
     "name:ita_x_preferred":[
         "Loutropoli Thermis"
@@ -115,7 +122,7 @@
         }
     ],
     "wof:id":1125788503,
-    "wof:lastmodified":1566642077,
+    "wof:lastmodified":1690924800,
     "wof:name":"Loutropolis Thermis",
     "wof:parent_id":1360666031,
     "wof:placetype":"locality",

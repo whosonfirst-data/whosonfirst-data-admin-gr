@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u062c\u064a\u0648\u0649 \u062f\u064a\u0643\u0627"
+    ],
     "name:ell_x_preferred":[
         "\u00c1gioi D\u00e9ka"
     ],
@@ -35,11 +38,17 @@
     "name:fin_x_preferred":[
         "\u00c1gioi D\u00e9ka"
     ],
+    "name:fra_x_preferred":[
+        "\u00c1gii D\u00e9ka"
+    ],
     "name:nld_x_preferred":[
         "Agioi Deka"
     ],
     "name:nno_x_preferred":[
         "\u00c1ji D\u00e9ka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0438-\u0414\u0435\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Hagios Deka"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125945055,
-    "wof:lastmodified":1566641595,
+    "wof:lastmodified":1690924381,
     "wof:name":"Agioi Deka",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

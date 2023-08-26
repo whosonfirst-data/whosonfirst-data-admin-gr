@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u0628\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0631\u0628\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Terpni"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043f\u0438\u0449\u0430"
     ],
@@ -48,11 +54,18 @@
     "name:eng_x_preferred":[
         "Terpni"
     ],
+    "name:fin_x_preferred":[
+        "Terpn\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Terpn\u00ed"
+    ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0440\u043f\u0438\u0448\u0442\u0430"
     ],
     "name:mkd_x_variant":[
-        "\u0427\u0438\u0440\u0438\u043f\u0438\u0448\u0447\u0430"
+        "\u0427\u0438\u0440\u0438\u043f\u0438\u0448\u0447\u0430",
+        "\u0427\u0438\u0440\u0438\u043f\u0438\u0448\u0442\u0430"
     ],
     "name:nno_x_preferred":[
         "Terpn\u00ed"
@@ -109,7 +122,7 @@
         }
     ],
     "wof:id":101857739,
-    "wof:lastmodified":1582360183,
+    "wof:lastmodified":1690924138,
     "wof:name":"\u03a4\u0395\u03a1\u03a0\u039d\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

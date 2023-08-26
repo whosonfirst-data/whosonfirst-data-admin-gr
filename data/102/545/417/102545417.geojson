@@ -16,6 +16,12 @@
     "name:ceb_x_preferred":[
         "Kalamata Airport"
     ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Kalamata"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Kalamata"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Kalamata"
     ],
@@ -29,11 +35,20 @@
     "name:fin_x_preferred":[
         "Kalam\u00e1tan kansainv\u00e4linen lentoasema"
     ],
+    "name:hun_x_preferred":[
+        "Kalam\u00e1ta nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u056c\u0561\u0574\u0561\u057f\u0561 \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30de\u30bf"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Kalamata AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Kalamata"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Kalamata"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":102545417,
-    "wof:lastmodified":1631753131,
+    "wof:lastmodified":1690924058,
     "wof:name":"Kalamata Airport",
     "wof:parent_id":85684643,
     "wof:placetype":"campus",

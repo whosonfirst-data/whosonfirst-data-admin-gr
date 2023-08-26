@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0625\u0630\u064a\u0633\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0630\u064a\u0633\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Edessa"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09a1\u09c7\u09b8\u09be"
     ],
@@ -82,6 +88,12 @@
     "name:hun_x_preferred":[
         "Edessa"
     ],
+    "name:hun_x_variant":[
+        "\u00c9desza"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0564\u0565\u057d\u0561"
+    ],
     "name:ind_x_preferred":[
         "Edessa"
     ],
@@ -93,6 +105,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c8e\u0ca1\u0cc6\u0cb8\u0ccd\u0cb8\u0cbe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0434\u0435\u0441\u0430"
     ],
     "name:kor_x_preferred":[
         "\uc5d0\ub370\uc0ac"
@@ -127,6 +142,9 @@
     "name:pol_x_preferred":[
         "Edessa"
     ],
+    "name:pol_x_variant":[
+        "Edesa"
+    ],
     "name:por_x_preferred":[
         "Edessa"
     ],
@@ -135,6 +153,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u0434\u0435\u0441\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u0434\u0435\u0441\u0430"
     ],
     "name:sco_x_preferred":[
         "Edessa"
@@ -190,6 +211,9 @@
     "name:war_x_preferred":[
         "Edessa"
     ],
+    "name:yue_x_preferred":[
+        "\u827e\u5fb7\u838e"
+    ],
     "name:zho_x_preferred":[
         "\u57c3\u6cfd\u8428"
     ],
@@ -230,7 +254,7 @@
         }
     ],
     "wof:id":1125865059,
-    "wof:lastmodified":1566641782,
+    "wof:lastmodified":1690924530,
     "wof:name":"\u00c9dessa",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

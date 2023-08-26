@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0644\u0627\u0631\u064a\u062a\u064a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0440\u0438\u0442\u0438"
     ],
@@ -39,11 +42,17 @@
     "name:eng_x_preferred":[
         "Kalarites"
     ],
+    "name:eng_x_variant":[
+        "Kalarrytes"
+    ],
     "name:fin_x_preferred":[
         "Kalar\u00edtes"
     ],
     "name:fra_x_preferred":[
         "Kalarites"
+    ],
+    "name:fra_x_variant":[
+        "Kalarr\u00fdtes"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u056c\u0561\u0580\u056b\u057f\u0565\u057d"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1125820285,
-    "wof:lastmodified":1566642019,
+    "wof:lastmodified":1690924747,
     "wof:name":"Kalarritai",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",

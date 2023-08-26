@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Skiathos"
+    ],
     "name:ceb_x_preferred":[
         "Ski\u00e1thos"
     ],
@@ -46,6 +49,9 @@
     "name:fra_x_preferred":[
         "Skiathos"
     ],
+    "name:fra_x_variant":[
+        "Ski\u00e1thos"
+    ],
     "name:ita_x_preferred":[
         "Sciato"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:swe_x_preferred":[
         "Ski\u00e1thos"
+    ],
+    "name:swe_x_variant":[
+        "Skiathos"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1125853325,
-    "wof:lastmodified":1566642057,
+    "wof:lastmodified":1690924783,
     "wof:name":"Skiathos",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0645\u0627\u0631\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u043b\u0438"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:fra_x_preferred":[
         "Komara"
+    ],
+    "name:fra_x_variant":[
+        "K\u00f3mara"
     ],
     "name:nld_x_preferred":[
         "Komara"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125927487,
-    "wof:lastmodified":1566641646,
+    "wof:lastmodified":1690924424,
     "wof:name":"Komara",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

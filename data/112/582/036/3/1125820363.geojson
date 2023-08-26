@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0631\u062b\u064a\u0648\u0633"
+    ],
     "name:ceb_x_preferred":[
         "M\u00fdrthios"
     ],
@@ -38,6 +41,15 @@
         "Mirthios"
     ],
     "name:eng_x_variant":[
+        "Myrthios"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00fdrthios"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00fdrthios"
+    ],
+    "name:ita_x_preferred":[
         "Myrthios"
     ],
     "name:nld_x_preferred":[
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1125820363,
-    "wof:lastmodified":1566642010,
+    "wof:lastmodified":1690924738,
     "wof:name":"Mirthios",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",

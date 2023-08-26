@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u0648\u064a\u0632\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Trizin"
+    ],
     "name:cat_x_preferred":[
         "Trozen"
+    ],
+    "name:cat_x_variant":[
+        "Trez\u00e8"
     ],
     "name:ceb_x_preferred":[
         "Troiz\u00edna"
@@ -55,11 +64,17 @@
     "name:fra_x_preferred":[
         "Tr\u00e9z\u00e8ne"
     ],
+    "name:glg_x_preferred":[
+        "Trec\u00e9n"
+    ],
     "name:grc_x_preferred":[
         "\u03a4\u03c1\u03bf\u03b9\u03b6\u03ae\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d5\u05d9\u05d6\u05df"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0580\u056b\u0566\u056b\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Troezen"
@@ -79,6 +94,9 @@
     "name:lat_x_preferred":[
         "Troezen"
     ],
+    "name:lav_x_preferred":[
+        "Troiz\u0113na"
+    ],
     "name:nld_x_preferred":[
         "Troezen"
     ],
@@ -90,6 +108,9 @@
     ],
     "name:pol_x_preferred":[
         "Trizin"
+    ],
+    "name:pol_x_variant":[
+        "Trojzena"
     ],
     "name:por_x_preferred":[
         "Trezena"
@@ -105,6 +126,9 @@
     ],
     "name:swe_x_preferred":[
         "Troizen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbf\u0bb0\u0bcb\u0b9a\u0bc6\u0ba9\u0bcd"
     ],
     "name:tur_x_preferred":[
         "Trizina"
@@ -170,7 +194,7 @@
         }
     ],
     "wof:id":1125818331,
-    "wof:lastmodified":1566641807,
+    "wof:lastmodified":1690924560,
     "wof:name":"Troizin",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062b\u064a\u0631\u0645\u064a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u044a\u0434\u0436\u0430"
     ],
@@ -35,6 +38,9 @@
     "name:fra_x_preferred":[
         "Thermes"
     ],
+    "name:fra_x_variant":[
+        "Th\u00e9rmes"
+    ],
     "name:ita_x_preferred":[
         "Thermes"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:nno_x_preferred":[
         "Th\u00e9rmes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u043c\u0435"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125858531,
-    "wof:lastmodified":1566642065,
+    "wof:lastmodified":1690924790,
     "wof:name":"Thermes",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

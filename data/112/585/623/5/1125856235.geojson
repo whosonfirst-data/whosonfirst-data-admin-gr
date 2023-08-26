@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.2158275,39.2269485,23.2158275,39.2269485",
+    "geom:bbox":"23.215827,39.226948,23.215827,39.226948",
     "geom:latitude":39.226948,
     "geom:longitude":23.215827,
     "gn:country":null,
@@ -22,6 +22,9 @@
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0631\u063a\u0627\u0644\u0627\u0633\u062a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u062c\u0627\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ceb_x_preferred":[
         "Argalast\u00ed"
@@ -40,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Argalasti"
+    ],
+    "name:fra_x_variant":[
+        "Argalast\u00ed"
     ],
     "name:ita_x_preferred":[
         "Argalasti"
@@ -101,7 +107,7 @@
     },
     "wof:country":"GR",
     "wof:created":1497293632,
-    "wof:geomhash":"80328a354feed10e42f50165c526a5e7",
+    "wof:geomhash":"570f5f1cd570dfaceb88b8166a39a4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125856235,
-    "wof:lastmodified":1566642062,
+    "wof:lastmodified":1690924787,
     "wof:name":"Argalasti",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",
@@ -121,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.2158275,
-    39.2269485,
-    23.2158275,
-    39.2269485
+    23.215827,
+    39.226948,
+    23.215827,
+    39.226948
 ],
-  "geometry": {"coordinates":[23.2158275,39.2269485],"type":"Point"}
+  "geometry": {"coordinates":[23.215827,39.226948],"type":"Point"}
 }

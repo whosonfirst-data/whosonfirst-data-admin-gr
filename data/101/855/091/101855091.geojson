@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0641\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0631\u0641\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Servia"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0440\u0432\u0438\u044f"
     ],
@@ -45,6 +51,9 @@
     "name:eng_x_preferred":[
         "Servia"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0648\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "S\u00e9rvia"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:ita_x_preferred":[
         "Servia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30eb\u30f4\u30a3\u30a2"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0440\u0444\u0438\u045f\u0435"
@@ -75,11 +87,17 @@
     "name:por_x_preferred":[
         "S\u00e9rvia"
     ],
+    "name:ron_x_preferred":[
+        "Servia"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0432\u0438\u044f"
     ],
     "name:spa_x_preferred":[
         "Servia"
+    ],
+    "name:sqi_x_preferred":[
+        "Selfixhe"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0440\u0432\u0438\u0458\u0430"
@@ -92,6 +110,9 @@
     ],
     "name:und_x_variant":[
         "Selfije"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5c14\u7ef4\u4e9a"
     ],
     "qs:a0":"Greece",
     "qs:a1":"*\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0399\u0391",
@@ -146,7 +167,7 @@
         }
     ],
     "wof:id":101855091,
-    "wof:lastmodified":1582360203,
+    "wof:lastmodified":1690924346,
     "wof:name":"\u03a3\u0395\u03a1\u0392\u0399\u0391",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",

@@ -24,6 +24,18 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0641\u0631\u064a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Lavrio"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0432\u0440\u0438\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Lavrio"
+    ],
+    "name:ceb_x_preferred":[
+        "L\u00e1vrio"
+    ],
     "name:deu_x_preferred":[
         "Lavrio"
     ],
@@ -45,7 +57,11 @@
     ],
     "name:eng_x_variant":[
         "Ergast\u00edria",
-        "Laurium"
+        "Laurium",
+        "Lavrio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u06cc\u0648\u0645"
     ],
     "name:fin_x_preferred":[
         "L\u00e1vrio"
@@ -61,6 +77,9 @@
     ],
     "name:hrv_x_preferred":[
         "Lavrio"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u057e\u0580\u056b\u0578\u0576"
     ],
     "name:ind_x_preferred":[
         "Lavrio"
@@ -116,11 +135,17 @@
     "name:swe_x_preferred":[
         "Laurion"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd"
+    ],
     "name:tur_x_preferred":[
         "Lavrion"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0432\u0440\u0456\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0631\u06cc\u0648\u0645"
     ],
     "name:vie_x_preferred":[
         "Lavrio"
@@ -185,7 +210,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582360194,
+    "wof:lastmodified":1690924237,
     "wof:name":"\u039b\u0391\u03a5\u03a1\u0399\u039f\u039d",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",

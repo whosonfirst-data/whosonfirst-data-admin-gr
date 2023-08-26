@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Kenchreai"
     ],
+    "name:deu_x_variant":[
+        "Kenchries"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c7\u03c1\u03b9\u03ad\u03c2"
     ],
@@ -39,7 +42,8 @@
         "Kechries"
     ],
     "name:eng_x_variant":[
-        "Cenchrea"
+        "Cenchrea",
+        "Kenchries"
     ],
     "name:fin_x_preferred":[
         "Kechri\u00e9s"
@@ -68,14 +72,23 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0445\u0440\u0435\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0435\u0445\u0440\u0438\u0435"
+    ],
     "name:spa_x_preferred":[
         "C\u00e9ncreas"
+    ],
+    "name:swa_x_preferred":[
+        "Kenkre"
     ],
     "name:swe_x_preferred":[
         "Kenchreai"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0646\u062e\u0631\u06cc\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5805\u9769\u54e9"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -122,7 +135,7 @@
         }
     ],
     "wof:id":1125992033,
-    "wof:lastmodified":1566641883,
+    "wof:lastmodified":1690924621,
     "wof:name":"Kechries",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

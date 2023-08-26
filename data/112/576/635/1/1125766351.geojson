@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u062c\u0627\u0646\u0627\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Lagan\u00e1s"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Laganas"
+    ],
+    "name:fra_x_variant":[
+        "Lagan\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Laganas"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1125766351,
-    "wof:lastmodified":1566642028,
+    "wof:lastmodified":1690924760,
     "wof:name":"Laganas",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",

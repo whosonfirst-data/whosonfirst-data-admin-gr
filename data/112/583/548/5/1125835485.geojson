@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u06a4\u0627\u062a\u064a\u0631\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Vater\u00e1"
     ],
@@ -28,6 +31,12 @@
     ],
     "name:eng_x_preferred":[
         "Vatera"
+    ],
+    "name:fin_x_preferred":[
+        "Vater\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Vater\u00e1"
     ],
     "name:nld_x_preferred":[
         "Vatera"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1125835485,
-    "wof:lastmodified":1566642168,
+    "wof:lastmodified":1690924888,
     "wof:name":"Vatera",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

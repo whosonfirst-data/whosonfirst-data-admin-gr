@@ -28,7 +28,13 @@
     "name:als_x_preferred":[
         "Pylos"
     ],
+    "name:ang_x_preferred":[
+        "Pylosfleot"
+    ],
     "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0648\u0633"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0633"
     ],
     "name:ast_x_preferred":[
@@ -36,6 +42,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0456\u043b\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0456\u043b\u0430\u0441"
     ],
     "name:bre_x_preferred":[
         "Pilos"
@@ -45,6 +54,9 @@
     ],
     "name:cat_x_preferred":[
         "Pilos"
+    ],
+    "name:ceb_x_preferred":[
+        "P\u00fdlos"
     ],
     "name:ces_x_preferred":[
         "Pylos"
@@ -67,11 +79,17 @@
     "name:eus_x_preferred":[
         "Pilos"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0644\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "P\u00fdlos"
     ],
     "name:fra_x_preferred":[
         "Pylos"
+    ],
+    "name:fra_x_variant":[
+        "P\u00fdlos"
     ],
     "name:gsw_x_preferred":[
         "Pylos"
@@ -100,11 +118,20 @@
     "name:jpn_x_preferred":[
         "\u30d4\u30e5\u30ed\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10da\u10dd\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud544\ub85c\uc2a4"
     ],
     "name:lat_x_preferred":[
         "Pylos"
+    ],
+    "name:lav_x_preferred":[
+        "Pila"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u043b\u043e\u0441"
     ],
     "name:nld_x_preferred":[
         "Pylos"
@@ -145,6 +172,12 @@
     "name:swe_x_preferred":[
         "Pylos"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc8\u0bb2\u0bcb\u0bb8\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e35\u0e42\u0e25\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Pilos"
     ],
@@ -156,6 +189,9 @@
     ],
     "name:und_x_variant":[
         "P\u00edlos"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0644\u0648\u0633"
     ],
     "name:uzb_x_preferred":[
         "Pilos"
@@ -221,7 +257,7 @@
         }
     ],
     "wof:id":101848341,
-    "wof:lastmodified":1582360191,
+    "wof:lastmodified":1690924216,
     "wof:name":"\u03a0\u03a5\u039b\u039f\u03a3",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.70212336,37.9760121737,23.70212336,37.9760121737",
+    "geom:bbox":"23.702123,37.976012,23.702123,37.976012",
     "geom:latitude":37.976012,
     "geom:longitude":23.702123,
     "iso:country":"GR",
@@ -47,6 +47,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0444"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0624\u0641"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363085,
-    "wof:geomhash":"94f619df0304dc15229ab92d51bd471e",
+    "wof:geomhash":"cb1b0919bb87fc38b13a6f61804f47ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108942423,
-    "wof:lastmodified":1566641249,
+    "wof:lastmodified":1690924088,
     "wof:name":"Rouf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -80,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.70212335996379,
-    37.97601217367396,
-    23.70212335996379,
-    37.97601217367396
+    23.702123,
+    37.976012,
+    23.702123,
+    37.976012
 ],
-  "geometry": {"coordinates":[23.70212335996379,37.97601217367396],"type":"Point"}
+  "geometry": {"coordinates":[23.702123,37.976012],"type":"Point"}
 }

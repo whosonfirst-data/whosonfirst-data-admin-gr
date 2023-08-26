@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.7748872914,37.997011965,23.7748872914,37.997011965",
+    "geom:bbox":"23.774887,37.997012,23.774887,37.997012",
     "geom:latitude":37.997012,
     "geom:longitude":23.774887,
     "iso:country":"GR",
@@ -35,11 +35,17 @@
     "name:fra_x_preferred":[
         "Ellinor\u00f3son"
     ],
+    "name:nld_x_preferred":[
+        "Ellinoroson"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u043b\u0438\u043d\u043e\u0440\u043e\u0441\u043e\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u043b\u0456\u043d\u043e\u0440\u043e\u0441\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u06cc\u0646\u0648\u0631\u0648\u0633\u0648\u0646"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
     },
     "wof:country":"GR",
     "wof:created":1491363071,
-    "wof:geomhash":"614c9c46f6e2cda6b6dc7a9d05b0304d",
+    "wof:geomhash":"94174f65c9e89ff63b7ce11e7f6309d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108942399,
-    "wof:lastmodified":1566641254,
+    "wof:lastmodified":1690924095,
     "wof:name":"Ellinoroson",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.77488729142305,
-    37.99701196498635,
-    23.77488729142305,
-    37.99701196498635
+    23.774887,
+    37.997012,
+    23.774887,
+    37.997012
 ],
-  "geometry": {"coordinates":[23.77488729142305,37.99701196498635],"type":"Point"}
+  "geometry": {"coordinates":[23.774887,37.997012],"type":"Point"}
 }

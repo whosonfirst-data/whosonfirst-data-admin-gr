@@ -27,6 +27,12 @@
     "name:ara_x_variant":[
         "\u0642\u0648\u0644\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0649 \u0628\u064a\u0631\u0627\u0645\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Nea Peramos"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0435 \u0447\u0438\u0444\u043b\u0438\u043a"
     ],
@@ -59,8 +65,14 @@
     "name:fin_x_preferred":[
         "Kavala"
     ],
+    "name:fin_x_variant":[
+        "N\u00e9a P\u00e9ramos"
+    ],
     "name:fra_x_preferred":[
         "Kavala"
+    ],
+    "name:fra_x_variant":[
+        "N\u00e9a P\u00e9ramos"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30f4\u30a1\u30e9"
@@ -88,6 +100,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0432\u0430\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0435\u0430-\u041f\u0435\u0440\u0430\u043c\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Kavala"
@@ -168,7 +183,7 @@
         }
     ],
     "wof:id":101857585,
-    "wof:lastmodified":1582360187,
+    "wof:lastmodified":1690924175,
     "wof:name":"\u039d\u0395\u0391 \u03a0\u0395\u03a1\u0391\u039c\u039f\u03a3",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",

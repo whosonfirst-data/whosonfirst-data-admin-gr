@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0625\u0628\u0627\u0646\u0648\u0645\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0627\u0646\u0648\u0645\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Epanomi"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u043f\u0430\u043d\u043e\u043c\u0438"
     ],
@@ -39,11 +45,20 @@
     "name:eng_x_preferred":[
         "Epanomi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u067e\u0627\u0646\u0648\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Epanom\u00ed"
     ],
     "name:fra_x_preferred":[
         "Epanomi"
+    ],
+    "name:fra_x_variant":[
+        "Epanom\u00ed"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u057a\u0561\u0576\u0578\u0574\u056b"
     ],
     "name:ita_x_preferred":[
         "Epanomi"
@@ -59,6 +74,12 @@
     ],
     "name:nno_x_preferred":[
         "Epanom\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043f\u0430\u043d\u043e\u043c\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Epanomi"
     ],
     "name:swe_x_preferred":[
         "Epanom\u00ed"
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":101855993,
-    "wof:lastmodified":1582360204,
+    "wof:lastmodified":1690924359,
     "wof:name":"\u0395\u03a0\u0391\u039d\u039f\u039c\u0397",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",
