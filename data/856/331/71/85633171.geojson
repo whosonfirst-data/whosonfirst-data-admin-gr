@@ -1366,6 +1366,7 @@
         "hasc:id":"GR",
         "icao:code":"SX",
         "ioc:id":"GRE",
+        "iso:code":"GR",
         "itu:id":"GRC",
         "loc:id":"n80046090",
         "m49:code":"300",
@@ -1380,6 +1381,7 @@
         "wk:page":"Greece",
         "wmo:id":"GR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GR",
     "wof:country_alpha3":"GRC",
     "wof:geom_alt":[
@@ -1401,7 +1403,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1694492229,
+    "wof:lastmodified":1695881342,
     "wof:name":"Greece",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
