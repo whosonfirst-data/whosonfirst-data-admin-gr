@@ -145,8 +145,14 @@
         "fips:code":"GR01",
         "gn:id":6697803,
         "gp:id":12577878,
-        "hasc:id":"GR.MT"
+        "hasc:id":"GR.MT",
+        "iso:code":"GR-A",
+        "qs:local_id":"01"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geom_alt":[
         "quattroshapes"
@@ -166,7 +172,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351434,
+    "wof:lastmodified":1695885171,
     "wof:name":"East Macedonia and Thrace",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

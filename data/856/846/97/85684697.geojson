@@ -252,8 +252,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"EL30"
+        "eurostat:nuts_2021_id":"EL30",
+        "iso:code":"GR-I",
+        "qs:local_id":"09"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geomhash":"4b26b3ad1364482806967278bc7479e8",
     "wof:hierarchy":[
@@ -270,7 +276,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351434,
+    "wof:lastmodified":1695885170,
     "wof:name":"Attica",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

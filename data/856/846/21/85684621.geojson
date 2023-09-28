@@ -231,8 +231,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"EL63"
+        "eurostat:nuts_2021_id":"EL63",
+        "iso:code":"GR-G",
+        "qs:local_id":"07"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geom_alt":[
         "quattroshapes"
@@ -252,7 +258,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351425,
+    "wof:lastmodified":1695885161,
     "wof:name":"Western Greece",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

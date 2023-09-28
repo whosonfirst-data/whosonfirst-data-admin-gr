@@ -386,13 +386,19 @@
         "gn:id":6697809,
         "gp:id":12577889,
         "hasc:id":"GR.TS",
+        "iso:code":"GR-E",
+        "qs:local_id":"05",
         "wd:id":"Q166919"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90fcffcb2fc2715f652bdb60be2a0afa",
+    "wof:geomhash":"d150752d0413ba0de30c4a761e44e2b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -407,7 +413,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1690924083,
+    "wof:lastmodified":1695885169,
     "wof:name":"Thessaly",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

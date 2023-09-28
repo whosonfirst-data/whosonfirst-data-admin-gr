@@ -302,8 +302,14 @@
         "fips:code":"GR05",
         "gn:id":6697801,
         "gp:id":12577884,
-        "hasc:id":"GR.MC"
+        "hasc:id":"GR.MC",
+        "iso:code":"GR-B",
+        "qs:local_id":"02"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geom_alt":[
         "quattroshapes"
@@ -323,7 +329,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351426,
+    "wof:lastmodified":1695885162,
     "wof:name":"Central Macedonia",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
