@@ -469,8 +469,14 @@
         "fips:code":"GR43",
         "gn:id":6697802,
         "gp:id":12577885,
-        "hasc:id":"GR.CR"
+        "hasc:id":"GR.CR",
+        "iso:code":"GR-M",
+        "qs:local_id":"13"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geomhash":"39381f811d599da11b1c0e9553872b8c",
     "wof:hierarchy":[
@@ -487,7 +493,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351426,
+    "wof:lastmodified":1695885162,
     "wof:name":"Crete",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

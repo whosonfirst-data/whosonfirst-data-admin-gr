@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036518,
-    "geom:area_square_m":344546594.55327,
-    "geom:bbox":"23.99290649999978,40.11372449999984,24.40486899999976,40.45344199999985",
+    "geom:area_square_m":344546594.553276,
+    "geom:bbox":"23.9929065,40.1137245,24.404869,40.453442",
     "geom:latitude":40.268112,
     "geom:longitude":24.198975,
     "iso:country":"GR",
@@ -252,9 +252,12 @@
         85633171
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code":"GR-69"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GR",
-    "wof:geomhash":"409906d6de08cccdb94aa6276671e361",
+    "wof:geomhash":"48c1a23ea3de4c779882a0a4230f0ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,7 +272,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1602619681,
+    "wof:lastmodified":1695884442,
     "wof:name":"Mount Athos",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

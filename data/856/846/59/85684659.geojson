@@ -222,8 +222,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"EL42"
+        "eurostat:nuts_2021_id":"EL42",
+        "iso:code":"GR-L",
+        "qs:local_id":"12"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geomhash":"717a295012827654cae42bc7b3ea7438",
     "wof:hierarchy":[
@@ -240,7 +246,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351427,
+    "wof:lastmodified":1695885163,
     "wof:name":"South Aegean",
     "wof:parent_id":85633171,
     "wof:placetype":"region",

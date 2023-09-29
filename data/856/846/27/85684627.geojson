@@ -142,8 +142,14 @@
         "fips:code":"GR08",
         "gn:id":6697811,
         "gp:id":12577881,
-        "hasc:id":"GR.MW"
+        "hasc:id":"GR.MW",
+        "iso:code":"GR-C",
+        "qs:local_id":"03"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"GR",
     "wof:geomhash":"b3dea3af6818c7731c2bf825a1d0f48d",
     "wof:hierarchy":[
@@ -160,7 +166,7 @@
     "wof:lang_x_spoken":[
         "ell"
     ],
-    "wof:lastmodified":1684351426,
+    "wof:lastmodified":1695885161,
     "wof:name":"West Macedonia",
     "wof:parent_id":85633171,
     "wof:placetype":"region",
