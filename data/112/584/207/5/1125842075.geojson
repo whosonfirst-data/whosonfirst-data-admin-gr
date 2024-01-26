@@ -6,10 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.1726545,35.5499915,27.1726545,35.5499915",
+    "geom:bbox":"27.172655,35.549991,27.172655,35.549991",
     "geom:latitude":35.549991,
     "geom:longitude":27.172655,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"47.0",
+    "gn:admin3_code":"9280",
+    "gn:asciiname":"Aperi",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":264769,
+    "gn:latitude":35.54923,
+    "gn:longitude":27.17018,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ap\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"27.1526545,35.5299915,27.1926545,35.5699915",
     "lbl:latitude":35.549991,
@@ -20,6 +35,16 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03ad\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c0\u03ad\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Ap\u00e9ri",
+        "Ap\u00e9rion"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Aperi",
@@ -50,12 +75,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":264769,
         "gp:id":946209,
         "qs_pg:id":1172730
     },
     "wof:country":"GR",
     "wof:created":1497292976,
-    "wof:geomhash":"5426c0879cf79f341ea2f5c6b7bce59e",
+    "wof:geomhash":"17c71cb4782925f5f71dc3cd1d519db4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,20 +91,22 @@
         }
     ],
     "wof:id":1125842075,
-    "wof:lastmodified":1566642112,
+    "wof:lastmodified":1706239754,
     "wof:name":"Aperi",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344093343
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    27.1726545,
-    35.5499915,
-    27.1726545,
-    35.5499915
+    27.172655,
+    35.549991,
+    27.172655,
+    35.549991
 ],
-  "geometry": {"coordinates":[27.1726545,35.5499915],"type":"Point"}
+  "geometry": {"coordinates":[27.172655,35.549991],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.89736,39.59011,19.89736,39.59011",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u03a7\u03c1\u03c5\u03c3\u03b7\u03af\u03b4\u03b1"
@@ -62,14 +64,16 @@
         }
     ],
     "wof:id":1344191267,
-    "wof:lastmodified":1566640698,
+    "wof:lastmodified":1706239753,
     "wof:name":"Chrysiida",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",
     "wof:population":898,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-gr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125817021
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

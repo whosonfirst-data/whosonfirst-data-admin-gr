@@ -9,7 +9,22 @@
     "geom:bbox":"21.854639,36.989562,21.854639,36.989562",
     "geom:latitude":36.989562,
     "geom:longitude":21.854639,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"40.0",
+    "gn:admin3_code":"9255",
+    "gn:asciiname":"Charavgi",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261833,
+    "gn:latitude":36.99101,
+    "gn:longitude":21.85433,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Charavg\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"21.834639,36.969562,21.874639,37.009562",
     "lbl:latitude":36.989562,
@@ -20,6 +35,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Charavg\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03c1\u03b1\u03c5\u03b3\u03ae"
+    ],
+    "name:und_x_variant":[
+        "Gro\u00fastesi",
+        "Go\u00fastesi",
+        "Groust\u00e9sion"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Charavgi",
@@ -50,6 +76,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":261833,
         "gp:id":56023817,
         "qs_pg:id":7098
     },
@@ -65,13 +92,15 @@
         }
     ],
     "wof:id":1125817171,
-    "wof:lastmodified":1566641812,
+    "wof:lastmodified":1706239754,
     "wof:name":"Charavgi",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1210050709
+    ],
     "wof:tags":[]
 },
   "bbox": [

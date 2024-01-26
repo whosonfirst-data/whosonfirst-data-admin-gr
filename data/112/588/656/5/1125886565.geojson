@@ -9,7 +9,22 @@
     "geom:bbox":"20.715777,38.347636,20.715777,38.347636",
     "geom:latitude":38.347636,
     "geom:longitude":20.715777,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"9117",
+    "gn:asciiname":"Perachori",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255591,
+    "gn:latitude":38.34856,
+    "gn:longitude":20.71694,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Perach\u00f3ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"20.695777,38.327636,20.735777,38.367636",
     "lbl:latitude":38.347636,
@@ -20,6 +35,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Perach\u00f3ri"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b1\u03c7\u03ce\u03c1\u03b9",
+        "Perach\u00f3rion",
+        "\u03a0\u03b5\u03c1\u03b1\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Perakh\u00f3rion"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Perachori",
@@ -50,6 +76,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":255591,
         "gp:id":56023279,
         "qs_pg:id":910117
     },
@@ -65,13 +92,15 @@
         }
     ],
     "wof:id":1125886565,
-    "wof:lastmodified":1566641816,
+    "wof:lastmodified":1706239755,
     "wof:name":"Perachori",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226377249
+    ],
     "wof:tags":[]
 },
   "bbox": [

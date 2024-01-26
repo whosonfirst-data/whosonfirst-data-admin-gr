@@ -40,6 +40,10 @@
     "name:ell_x_variant":[
         "\u0391\u03bb\u03b1\u03b4\u03b9\u03bd\u03cc\u03bd"
     ],
+    "name:und_x_variant":[
+        "Aladhino\u00fa Vouno\u00fa",
+        "Aladhin\u00f3n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11468537
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            265385
+        ]
     },
     "wof:country":"GR",
     "wof:geomhash":"9cb4411db1df4bb3be745cc3f68a9fe3",
@@ -61,13 +70,15 @@
         }
     ],
     "wof:id":1343793215,
-    "wof:lastmodified":1566640652,
+    "wof:lastmodified":1706239758,
     "wof:name":"Aladino",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360220789
+    ],
     "wof:tags":[]
 },
   "bbox": [

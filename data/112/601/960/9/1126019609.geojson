@@ -9,7 +9,22 @@
     "geom:bbox":"20.816001,37.660993,20.816001,37.660993",
     "geom:latitude":37.660993,
     "geom:longitude":20.816001,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"9116",
+    "gn:asciiname":"Keri",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166444,
+    "gn:latitude":37.6611,
+    "gn:longitude":20.81592,
+    "gn:modification_date":"2014-06-18",
+    "gn:name":"Ker\u00ed",
+    "gn:population":469,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"20.796001,37.640993,20.836001,37.680993",
     "lbl:latitude":37.660993,
@@ -23,11 +38,17 @@
     "name:ceb_x_preferred":[
         "L\u00edmni Ker\u00edou"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03af"
+    ],
     "name:eng_x_preferred":[
         "Keri"
     ],
     "name:fin_x_preferred":[
         "Ker\u00ed"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e2\u05dc \u05e7\u05e8\u05d9"
     ],
     "name:nld_x_preferred":[
         "Keri"
@@ -54,6 +75,7 @@
     "qs_pg:woe_id":952858,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -65,6 +87,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":9166444,
         "gp:id":952858,
         "qs_pg:id":959431,
         "wd:id":"Q6393862"
@@ -81,13 +104,17 @@
         }
     ],
     "wof:id":1126019609,
-    "wof:lastmodified":1690924693,
+    "wof:lastmodified":1706239756,
     "wof:name":"Keri",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",
+    "wof:population":469,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326463993
+    ],
     "wof:tags":[]
 },
   "bbox": [

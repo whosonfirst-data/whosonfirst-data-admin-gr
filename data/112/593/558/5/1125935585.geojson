@@ -9,7 +9,22 @@
     "geom:bbox":"24.650037,35.418032,24.650037,35.418032",
     "geom:latitude":35.418032,
     "geom:longitude":24.650037,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9317",
+    "gn:asciiname":"Lavris",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529172,
+    "gn:latitude":35.41675,
+    "gn:longitude":24.64862,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"L\u00e1vris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"24.630037,35.398032,24.670037,35.438032",
     "lbl:latitude":35.418032,
@@ -20,6 +35,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "L\u00e1vris"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1\u03cd\u03c1\u03b9\u03c2"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:name":"Lavris",
@@ -50,6 +71,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":8529172,
         "gp:id":56024004,
         "qs_pg:id":1090040
     },
@@ -65,13 +87,15 @@
         }
     ],
     "wof:id":1125935585,
-    "wof:lastmodified":1566641619,
+    "wof:lastmodified":1706239755,
     "wof:name":"Lavris",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293328771
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,10 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.8528525,39.502285,19.8528525,39.502285",
+    "geom:bbox":"19.852853,39.502285,19.852853,39.502285",
     "geom:latitude":39.502285,
     "geom:longitude":19.852853,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Paramonas",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643067,
+    "gn:latitude":39.5038,
+    "gn:longitude":19.85556,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Param\u00f3nas",
+    "gn:population":36,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"19.8328525,39.482285,19.8728525,39.522285",
     "lbl:latitude":39.502285,
@@ -20,6 +35,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u03bc\u03cc\u03bd\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Paramonas"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Paramonas",
@@ -39,6 +60,7 @@
     "qs_pg:woe_id":56023359,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -50,12 +72,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":8643067,
         "gp:id":56023359,
         "qs_pg:id":785451
     },
     "wof:country":"GR",
     "wof:created":1497293013,
-    "wof:geomhash":"238eee5fcf69eb69664c3dc3c6148f2e",
+    "wof:geomhash":"f8cf3392b6b4071657a3bfbe28f414ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,20 +88,24 @@
         }
     ],
     "wof:id":1125842901,
-    "wof:lastmodified":1566642113,
+    "wof:lastmodified":1706239754,
     "wof:name":"Paramonas",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",
+    "wof:population":36,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243101929
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    19.8528525,
+    19.852853,
     39.502285,
-    19.8528525,
+    19.852853,
     39.502285
 ],
-  "geometry": {"coordinates":[19.8528525,39.502285],"type":"Point"}
+  "geometry": {"coordinates":[19.852853,39.502285],"type":"Point"}
 }

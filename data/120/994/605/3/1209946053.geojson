@@ -34,6 +34,12 @@
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03af\u03ba\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "Kak\u00ed Sk\u00e1la",
+        "\u039a\u03b1\u03ba\u03ae \u03a3\u03ba\u03ac\u03bb\u03b1",
+        "St\u00edkas",
+        "\u03a3\u03c4\u03af\u03ba\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Stikas"
     ],
@@ -48,6 +54,11 @@
     "wof:concordances":{
         "gn:id":9036836
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7350231
+        ]
+    },
     "wof:country":"GR",
     "wof:geomhash":"edd2ed86d2caa559fbb17da86fef6c4b",
     "wof:hierarchy":[
@@ -59,7 +70,7 @@
         }
     ],
     "wof:id":1209946053,
-    "wof:lastmodified":1566641131,
+    "wof:lastmodified":1706239757,
     "wof:name":"Stikas",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",
@@ -67,7 +78,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326959383
+    ],
     "wof:tags":[]
 },
   "bbox": [

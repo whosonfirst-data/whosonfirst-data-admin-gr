@@ -9,7 +9,22 @@
     "geom:bbox":"24.500996,41.267227,24.500996,41.267227",
     "geom:latitude":41.267227,
     "geom:longitude":24.500996,
+    "gn:admin1_code":"ESYE11",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"9004",
+    "gn:asciiname":"Paranesti",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":734753,
+    "gn:latitude":41.26667,
+    "gn:longitude":24.5,
+    "gn:modification_date":"2012-03-04",
+    "gn:name":"Paran\u00e9sti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"24.480996,41.247227,24.520996,41.287227",
     "lbl:latitude":41.267227,
@@ -26,10 +41,22 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043a"
     ],
+    "name:deu_x_preferred":[
+        "Paranesti"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03c1\u03b1\u03bd\u03ad\u03c3\u03c4\u03b9 \u0394\u03c1\u03ac\u03bc\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
+        "Paranesti"
+    ],
+    "name:fin_x_preferred":[
+        "Paran\u00e9sti"
+    ],
+    "name:fra_x_preferred":[
+        "Paranesti"
+    ],
+    "name:ita_x_preferred":[
         "Paranesti"
     ],
     "name:mkd_x_preferred":[
@@ -38,11 +65,31 @@
     "name:nld_x_preferred":[
         "Paranesti"
     ],
+    "name:nno_x_preferred":[
+        "Paran\u00e9sti"
+    ],
     "name:pol_x_preferred":[
         "Paranesti"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043d\u0435\u0441\u0442\u0438\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Paranesti"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0443\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Paranesti"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00fakia",
+        "Paran\u00e9stion",
+        "\u03a0\u03b1\u03c1\u03b1\u03bd\u03ad\u03c3\u03c4\u03b9"
+    ],
+    "name:vie_x_preferred":[
+        "Paranesti"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -74,9 +121,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":734753,
         "gp:id":966149,
         "qs_pg:id":1026217,
-        "wd:id":"Q3403265"
+        "wd:id":"Q3403265",
+        "wk:page":"Paranesti"
     },
     "wof:country":"GR",
     "wof:created":1497301591,
@@ -90,13 +139,15 @@
         }
     ],
     "wof:id":1126032935,
-    "wof:lastmodified":1690924518,
+    "wof:lastmodified":1706239756,
     "wof:name":"Paranesti",
     "wof:parent_id":85684701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293820855
+    ],
     "wof:tags":[]
 },
   "bbox": [

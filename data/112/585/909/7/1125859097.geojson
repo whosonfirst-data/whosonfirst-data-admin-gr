@@ -6,10 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.4752585,40.1807295,21.4752585,40.1807295",
+    "geom:bbox":"21.475258,40.180729,21.475258,40.180729",
     "geom:latitude":40.180729,
     "geom:longitude":21.475258,
+    "gn:admin1_code":"ESYE13",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"9061",
+    "gn:asciiname":"Milia",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":735104,
+    "gn:latitude":40.17948,
+    "gn:longitude":21.47514,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mili\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"21.4552585,40.1607295,21.4952585,40.2007295",
     "lbl:latitude":40.180729,
@@ -20,6 +35,19 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b7\u03bb\u03b9\u03ac"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0458\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mili\u00e1",
+        "Mil\u00e9a"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Milia",
@@ -50,12 +78,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":735104,
         "gp:id":957337,
-        "qs_pg:id":1101441
+        "qs_pg:id":1101441,
+        "wk:page":"Milea%2C_Grevena"
     },
     "wof:country":"GR",
     "wof:created":1497293749,
-    "wof:geomhash":"4cb5dce96fd1d4a1872bf83c4300c700",
+    "wof:geomhash":"692b90d089d70f07de2d59c5d6e6f11f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,20 +95,22 @@
         }
     ],
     "wof:id":1125859097,
-    "wof:lastmodified":1566642037,
+    "wof:lastmodified":1706239755,
     "wof:name":"Milia",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360215245
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    21.4752585,
-    40.1807295,
-    21.4752585,
-    40.1807295
+    21.475258,
+    40.180729,
+    21.475258,
+    40.180729
 ],
-  "geometry": {"coordinates":[21.4752585,40.1807295],"type":"Point"}
+  "geometry": {"coordinates":[21.475258,40.180729],"type":"Point"}
 }

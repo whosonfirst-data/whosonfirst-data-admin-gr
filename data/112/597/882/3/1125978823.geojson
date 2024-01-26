@@ -6,10 +6,24 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.9796215,39.036186,22.9796215,39.036186",
+    "geom:bbox":"22.979622,39.036186,22.979622,39.036186",
     "geom:latitude":39.036186,
     "geom:longitude":22.979622,
+    "gn:admin1_code":"ESYE14",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Pigadi",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9168242,
+    "gn:latitude":39.03755,
+    "gn:longitude":22.97984,
+    "gn:modification_date":"2014-06-24",
+    "gn:name":"Pig\u00e1di",
+    "gn:population":99,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"22.9596215,39.016186,22.9996215,39.056186",
     "lbl:latitude":39.036186,
@@ -20,6 +34,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b7\u03b3\u03ac\u03b4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Pigadi"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:name":"Pigadi",
@@ -39,6 +59,7 @@
     "qs_pg:woe_id":55869820,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Thessaly and Continental Greece",
@@ -50,12 +71,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":9168242,
         "gp:id":55869820,
         "qs_pg:id":993079
     },
     "wof:country":"GR",
     "wof:created":1497298462,
-    "wof:geomhash":"b62ccc910bd2a9c3d0e9bee9d5f2e2f8",
+    "wof:geomhash":"5c51d10ce8ee7e30aa8bac1986ecf5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,20 +87,24 @@
         }
     ],
     "wof:id":1125978823,
-    "wof:lastmodified":1566641916,
+    "wof:lastmodified":1706239756,
     "wof:name":"Pigadi",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209449429
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    22.9796215,
+    22.979622,
     39.036186,
-    22.9796215,
+    22.979622,
     39.036186
 ],
-  "geometry": {"coordinates":[22.9796215,39.036186],"type":"Point"}
+  "geometry": {"coordinates":[22.979622,39.036186],"type":"Point"}
 }

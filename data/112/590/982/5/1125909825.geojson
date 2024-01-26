@@ -9,7 +9,22 @@
     "geom:bbox":"23.218703,38.11103,23.218703,38.11103",
     "geom:latitude":38.11103,
     "geom:longitude":23.218703,
+    "gn:admin1_code":"ESYE31",
+    "gn:admin2_code":"445407.0",
+    "gn:admin3_code":"9230",
+    "gn:asciiname":"Psatha",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8658877,
+    "gn:latitude":38.10954,
+    "gn:longitude":23.21875,
+    "gn:modification_date":"2014-05-22",
+    "gn:name":"Ps\u00e1tha",
+    "gn:population":15,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"23.198703,38.09103,23.238703,38.13103",
     "lbl:latitude":38.11103,
@@ -20,6 +35,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a8\u03ac\u03b8\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Psatha"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Psatha",
@@ -39,6 +60,7 @@
     "qs_pg:woe_id":55869436,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Attica",
@@ -49,6 +71,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":8658877,
         "gp:id":55869436,
         "qs_pg:id":923423
     },
@@ -64,13 +87,17 @@
         }
     ],
     "wof:id":1125909825,
-    "wof:lastmodified":1566641895,
+    "wof:lastmodified":1706239755,
     "wof:name":"Psatha",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242909989
+    ],
     "wof:tags":[]
 },
   "bbox": [

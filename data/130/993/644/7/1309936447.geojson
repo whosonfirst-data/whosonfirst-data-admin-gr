@@ -43,6 +43,10 @@
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03c4\u03b1\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03c4\u03b1\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7",
+        "\u039c\u03b5\u03c4\u03b1\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u062a\u0627\u0645\u0648\u0631\u0641\u0648\u0633\u06cc"
     ],
@@ -85,6 +89,10 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456"
     ],
+    "name:und_x_variant":[
+        "Kourt\u00edki",
+        "Kourt\u00edkion"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u062a\u0627\u0645\u0648\u0631\u0641\u0648\u0633\u06cc"
     ],
@@ -101,8 +109,13 @@
     "wof:concordances":{
         "gn:id":9409944
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            258985
+        ]
+    },
     "wof:country":"GR",
-    "wof:geomhash":"7511f4f464170af805ad4bba2810296f",
+    "wof:geomhash":"d72641533ef8b6040f9e07115cefc304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,20 +125,22 @@
         }
     ],
     "wof:id":1309936447,
-    "wof:lastmodified":1566641566,
+    "wof:lastmodified":1706239758,
     "wof:name":"Metamorfosi",
     "wof:parent_id":85684685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310239779
+    ],
     "wof:tags":[]
 },
   "bbox": [
     22.05454,
-    39.50729000000001,
+    39.50729,
     22.05454,
-    39.50729000000001
+    39.50729
 ],
-  "geometry": {"coordinates":[22.05454,39.50729000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.05454,39.50729],"type":"Point"}
 }

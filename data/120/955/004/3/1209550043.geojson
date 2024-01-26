@@ -40,6 +40,11 @@
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b7\u03b4\u03cc\u03bd\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b7\u03b4\u03cc\u03bd\u03b1",
+        "N\u00e9a Chalkid\u00f3n",
+        "\u039d\u03ad\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b7\u03b4\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Nea Chalkidona"
     ],
@@ -70,6 +75,9 @@
     "name:tur_x_preferred":[
         "Nea Halkidona"
     ],
+    "name:und_x_variant":[
+        "N\u00e9a Khalkidh\u00f3n"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -80,6 +88,11 @@
         "gn:id":9035867,
         "wk:page":"Nea_Chalkidona"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            256609
+        ]
+    },
     "wof:country":"GR",
     "wof:geomhash":"63a1b2abbda14f8b6c81ff9802b1ddc7",
     "wof:hierarchy":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1209550043,
-    "wof:lastmodified":1566641067,
+    "wof:lastmodified":1706239757,
     "wof:name":"Nea Chalkidona",
     "wof:parent_id":85633171,
     "wof:placetype":"locality",
@@ -97,7 +110,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276263201
+    ],
     "wof:tags":[]
 },
   "bbox": [

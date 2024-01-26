@@ -6,10 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.8559555,39.2408925,20.8559555,39.2408925",
+    "geom:bbox":"20.855956,39.240893,20.855956,39.240893",
     "geom:latitude":39.240893,
     "geom:longitude":20.855956,
+    "gn:admin1_code":"ESYE21",
+    "gn:admin2_code":"19.0",
+    "gn:admin3_code":"9088",
+    "gn:asciiname":"Paidopoli Zirou",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":256195,
+    "gn:latitude":39.24169,
+    "gn:longitude":20.85772,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Paid\u00f3poli Ziro\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"20.8359555,39.2208925,20.8759555,39.2608925",
     "lbl:latitude":39.240893,
@@ -20,6 +35,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Paid\u00f3poli Ziro\u00fa"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03b9\u03b4\u03cc\u03c0\u03bf\u03bb\u03b7 \u0396\u03b7\u03c1\u03bf\u03cd",
+        "Paid\u00f3polis Ziro\u00fa",
+        "\u03a0\u03b1\u03b9\u03b4\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2 \u0396\u03b7\u03c1\u03bf\u03cd"
+    ],
+    "name:und_x_variant":[
+        "Paidho\u00fapolis",
+        "Paidp\u00f3lis Ziro\u00fa"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Paidopoli Zirou",
@@ -50,12 +77,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":256195,
         "gp:id":56024147,
         "qs_pg:id":785539
     },
     "wof:country":"GR",
     "wof:created":1497290924,
-    "wof:geomhash":"e2bf67df4261205fca93b951ea65e612",
+    "wof:geomhash":"a5a1a118eab58e52759c555e27d25c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,20 +93,22 @@
         }
     ],
     "wof:id":1125792643,
-    "wof:lastmodified":1566642097,
+    "wof:lastmodified":1706239753,
     "wof:name":"Paidopoli Zirou",
     "wof:parent_id":85684631,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293913745
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    20.8559555,
-    39.2408925,
-    20.8559555,
-    39.2408925
+    20.855956,
+    39.240893,
+    20.855956,
+    39.240893
 ],
-  "geometry": {"coordinates":[20.8559555,39.2408925],"type":"Point"}
+  "geometry": {"coordinates":[20.855956,39.240893],"type":"Point"}
 }

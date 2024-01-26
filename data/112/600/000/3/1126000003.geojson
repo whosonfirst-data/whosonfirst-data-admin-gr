@@ -9,7 +9,22 @@
     "geom:bbox":"22.400529,36.481536,22.400529,36.481536",
     "geom:latitude":36.481536,
     "geom:longitude":22.400529,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Gerolimenas",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251385,
+    "gn:latitude":36.48297,
+    "gn:longitude":22.40054,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Gerolim\u00e9nas",
+    "gn:population":43,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"22.380529,36.461536,22.420529,36.501536",
     "lbl:latitude":36.481536,
@@ -24,6 +39,10 @@
         "\u062c\u064a\u0631\u0648\u0644\u064a\u0645\u064a\u0646\u0627\u0633"
     ],
     "name:ell_x_preferred":[
+        "\u0393\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ae\u03bd",
         "\u0393\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
@@ -44,6 +63,12 @@
     "name:rus_x_preferred":[
         "\u0415\u0440\u043e\u043b\u0438\u043c\u0438\u043d"
     ],
+    "name:und_x_variant":[
+        "Yerolim\u00edn",
+        "Gerolim\u00edn",
+        "Gerolim\u00e9nas",
+        "Yerolim\u00e9nas"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:name":"Gerolimenas",
@@ -63,6 +88,7 @@
     "qs_pg:woe_id":55869900,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -74,9 +100,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":251385,
         "gp:id":55869900,
         "qs_pg:id":1003159,
-        "wd:id":"Q5552400"
+        "wd:id":"Q5552400",
+        "wk:page":"Gerolimenas"
     },
     "wof:country":"GR",
     "wof:created":1497299589,
@@ -90,13 +118,17 @@
         }
     ],
     "wof:id":1126000003,
-    "wof:lastmodified":1690924708,
+    "wof:lastmodified":1706239756,
     "wof:name":"Gerolimenas",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309748349
+    ],
     "wof:tags":[]
 },
   "bbox": [

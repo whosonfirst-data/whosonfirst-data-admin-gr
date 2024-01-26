@@ -9,7 +9,22 @@
     "geom:bbox":"21.319313,37.707636,21.319313,37.707636",
     "geom:latitude":37.707636,
     "geom:longitude":21.319313,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"39.0",
+    "gn:admin3_code":"9141.0",
+    "gn:asciiname":"Patronikolaiika",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11524196,
+    "gn:latitude":37.70725,
+    "gn:longitude":21.32116,
+    "gn:modification_date":"2017-04-28",
+    "gn:name":"Patronikola\u00edika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"21.299313,37.687636,21.339313,37.727636",
     "lbl:latitude":37.707636,
@@ -20,6 +35,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03bf\u03bb\u03b1\u03af\u03b9\u03ba\u03b1"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Patronikolaiika",
@@ -50,6 +68,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":11524196,
         "gp:id":55869595,
         "qs_pg:id":136715
     },
@@ -65,13 +84,15 @@
         }
     ],
     "wof:id":1125867641,
-    "wof:lastmodified":1566641781,
+    "wof:lastmodified":1706239755,
     "wof:name":"Patronikolaiika",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209041497
+    ],
     "wof:tags":[]
 },
   "bbox": [

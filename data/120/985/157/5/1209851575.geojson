@@ -13,6 +13,7 @@
     "gn:admin2_code":"43.0",
     "gn:admin3_code":"9321",
     "gn:asciiname":"Tsiskiana",
+    "gn:cc2":"GR",
     "gn:country_code":"GR",
     "gn:dem":512,
     "gn:feature_class":"P",
@@ -52,8 +53,13 @@
     "wof:concordances":{
         "gn:id":252451
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            252450
+        ]
+    },
     "wof:country":"GR",
-    "wof:geomhash":"cbc48e952c928e5de419131bb7bedc10",
+    "wof:geomhash":"bbdb05016fe7f15511ddc3f9cc67b8b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +69,22 @@
         }
     ],
     "wof:id":1209851575,
-    "wof:lastmodified":1566641083,
+    "wof:lastmodified":1706239757,
     "wof:name":"Tsiskiana",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327165273
+    ],
     "wof:tags":[]
 },
   "bbox": [
     23.8099,
-    35.31800000000001,
+    35.318,
     23.8099,
-    35.31800000000001
+    35.318
 ],
-  "geometry": {"coordinates":[23.8099,35.31800000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.8099,35.318],"type":"Point"}
 }

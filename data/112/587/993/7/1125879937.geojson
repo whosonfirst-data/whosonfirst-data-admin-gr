@@ -9,9 +9,23 @@
     "geom:bbox":"23.61288,39.98883,23.61288,39.98883",
     "geom:latitude":39.98883,
     "geom:longitude":23.61288,
+    "gn:admin1_code":"ESYE12",
+    "gn:admin2_code":"15.0",
+    "gn:admin3_code":"9057",
+    "gn:asciiname":"Pefkochori",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":15,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":261080,
+    "gn:latitude":39.98784,
+    "gn:longitude":23.61219,
+    "gn:modification_date":"2014-08-13",
+    "gn:name":"Pefkoch\u00f3ri",
     "gn:population":1650,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"23.59288,39.96883,23.63288,40.00883",
     "lbl:latitude":39.98883,
@@ -37,11 +51,25 @@
     "name:deu_x_preferred":[
         "Pefkochori"
     ],
+    "name:ell_x_historical":[
+        "\u039a\u03b1\u03c8\u03cc\u03c7\u03c9\u03c1\u03b1"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c5\u03ba\u03bf\u03c7\u03ce\u03c1\u03b9 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c8\u03cc\u03c7\u03c9\u03c1\u03b1",
+        "\u03a0\u03b5\u03c5\u03ba\u03bf\u03c7\u03ce\u03c1\u03b9 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2"
+    ],
+    "name:eng_x_historical":[
+        "Kapsochora"
+    ],
     "name:eng_x_preferred":[
         "Pefkochori"
+    ],
+    "name:eng_x_variant":[
+        "Pefkohori",
+        "Kapsochora"
     ],
     "name:fin_x_preferred":[
         "Pefkoch\u00f3ri"
@@ -107,7 +135,13 @@
         "gn:id":6692661,
         "gp:id":55869746,
         "qs_pg:id":965307,
-        "wd:id":"Q3560020"
+        "wd:id":"Q3560020",
+        "wk:page":"Pefkochori"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            261080
+        ]
     },
     "wof:country":"GR",
     "wof:created":1497294749,
@@ -121,7 +155,7 @@
         }
     ],
     "wof:id":1125879937,
-    "wof:lastmodified":1690924612,
+    "wof:lastmodified":1706239755,
     "wof:name":"Pefkochori",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",
@@ -129,7 +163,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209345999
+    ],
     "wof:tags":[]
 },
   "bbox": [
