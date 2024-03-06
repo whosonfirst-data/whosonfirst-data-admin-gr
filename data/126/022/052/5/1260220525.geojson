@@ -10,6 +10,7 @@
     "geom:latitude":39.94038,
     "geom:longitude":25.28413,
     "gn:admin1_code":"ESYE41",
+    "gn:admin2_code":"51.0",
     "gn:asciiname":"Kotsinas",
     "gn:country_code":"GR",
     "gn:dem":6,
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":254754
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8349511
+        ]
+    },
     "wof:country":"GR",
     "wof:geomhash":"d708c67453aaf5051045b7b796a87534",
     "wof:hierarchy":[
@@ -58,13 +64,15 @@
         }
     ],
     "wof:id":1260220525,
-    "wof:lastmodified":1566641199,
+    "wof:lastmodified":1706239758,
     "wof:name":"Kotsinas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310235455
+    ],
     "wof:tags":[]
 },
   "bbox": [

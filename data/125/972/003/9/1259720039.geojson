@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":253794
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8469349
+        ]
+    },
     "wof:country":"GR",
     "wof:geomhash":"4c58e5c810cb7302fe6ed8c37ab5daef",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1259720039,
-    "wof:lastmodified":1566642376,
+    "wof:lastmodified":1706239757,
     "wof:name":"Tsikoliana",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260220873
+    ],
     "wof:tags":[]
 },
   "bbox": [

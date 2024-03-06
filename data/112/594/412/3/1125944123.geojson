@@ -9,7 +9,22 @@
     "geom:bbox":"19.93334,39.743666,19.93334,39.743666",
     "geom:latitude":39.743666,
     "geom:longitude":19.93334,
+    "gn:admin1_code":"ESYE22",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"9118",
+    "gn:asciiname":"Vlachatika",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165941,
+    "gn:latitude":39.74455,
+    "gn:longitude":19.9304,
+    "gn:modification_date":"2014-06-13",
+    "gn:name":"Vlach\u00e1tika",
+    "gn:population":31,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"19.91334,39.723666,19.95334,39.763666",
     "lbl:latitude":39.743666,
@@ -20,6 +35,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0392\u03bb\u03b1\u03c7\u03ac\u03c4\u03b9\u03ba\u03b1"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Vlachatika",
@@ -39,6 +57,7 @@
     "qs_pg:woe_id":56023558,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -50,6 +69,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":9165941,
         "gp:id":56023558,
         "qs_pg:id":218424
     },
@@ -65,13 +85,17 @@
         }
     ],
     "wof:id":1125944123,
-    "wof:lastmodified":1566641600,
+    "wof:lastmodified":1706239755,
     "wof:name":"Vlachatika",
     "wof:parent_id":85684693,
     "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310340163
+    ],
     "wof:tags":[]
 },
   "bbox": [

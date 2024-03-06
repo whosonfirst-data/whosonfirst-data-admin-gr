@@ -9,7 +9,22 @@
     "geom:bbox":"24.397115,35.189233,24.397115,35.189233",
     "geom:latitude":35.189233,
     "geom:longitude":24.397115,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"9314",
+    "gn:asciiname":"Myrthianos Plakias",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10278181,
+    "gn:latitude":35.18947,
+    "gn:longitude":24.39948,
+    "gn:modification_date":"2015-05-12",
+    "gn:name":"Myrthian\u00f3s Plaki\u00e1s",
+    "gn:population":182,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"24.377115,35.169233,24.417115,35.209233",
     "lbl:latitude":35.189233,
@@ -20,6 +35,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039c\u03c5\u03c1\u03b8\u03b9\u03b1\u03bd\u03cc\u03c2 \u03a0\u03bb\u03b1\u03ba\u03b9\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Myrthianos Plakias"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:name":"Myrthianos Plakias",
@@ -39,6 +60,7 @@
     "qs_pg:woe_id":56024571,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -46,6 +68,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":10278181,
         "gp:id":56024571,
         "qs_pg:id":482436
     },
@@ -61,13 +84,17 @@
         }
     ],
     "wof:id":1125850559,
-    "wof:lastmodified":1566642048,
+    "wof:lastmodified":1706239754,
     "wof:name":"Myrthianos Plakias",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326566289
+    ],
     "wof:tags":[]
 },
   "bbox": [

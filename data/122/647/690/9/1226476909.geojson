@@ -34,8 +34,18 @@
     "name:ell_x_preferred":[
         "\u0395\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "Elaioch\u00f3rion",
+        "\u0395\u03bb\u03b1\u03b9\u03bf\u03c7\u03ce\u03c1\u03b9\u03bf\u03bd"
+    ],
     "name:sco_x_preferred":[
         "Elaiochori"
+    ],
+    "name:und_x_variant":[
+        "Masil\u00edna",
+        "M\u00e1sklina",
+        "Elaiokh\u00f3rion"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,6 +56,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8478282
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            262794
+        ]
     },
     "wof:country":"GR",
     "wof:geomhash":"32a52a72696e348203a236bad9dbed55",
@@ -58,13 +73,15 @@
         }
     ],
     "wof:id":1226476909,
-    "wof:lastmodified":1566642464,
+    "wof:lastmodified":1706239757,
     "wof:name":"Elaiochori",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309942043
+    ],
     "wof:tags":[]
 },
   "bbox": [

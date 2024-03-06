@@ -9,9 +9,23 @@
     "geom:bbox":"25.56167,34.9975,25.56167,34.9975",
     "geom:latitude":34.9975,
     "geom:longitude":25.56167,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9311",
+    "gn:asciiname":"Vatos",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":6,
     "gn:fcode":"FRMS",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608512,
+    "gn:latitude":34.99775,
+    "gn:longitude":25.56093,
+    "gn:modification_date":"2015-09-13",
+    "gn:name":"V\u00e1tos",
     "gn:population":5,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"25.54167,34.9775,25.58167,35.0175",
     "lbl:latitude":34.9975,
@@ -22,6 +36,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03c4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Vatos"
+    ],
     "name:hun_x_preferred":[
         "A l\u00e1tnok"
     ],
@@ -33,6 +53,9 @@
     ],
     "name:tur_x_preferred":[
         "Vatos"
+    ],
+    "name:und_x_variant":[
+        "V\u00e1tos"
     ],
     "name:vie_x_preferred":[
         "Vatos"
@@ -57,6 +80,11 @@
         "gn:id":6697434,
         "qs_pg:id":644080
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8608512
+        ]
+    },
     "wof:country":"GR",
     "wof:created":1497291288,
     "wof:geomhash":"7fbfc6e87e42d6b54e5442a58e660b30",
@@ -69,7 +97,7 @@
         }
     ],
     "wof:id":1125801701,
-    "wof:lastmodified":1566641853,
+    "wof:lastmodified":1706239753,
     "wof:name":"Vatos",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -77,7 +105,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343892451
+    ],
     "wof:tags":[]
 },
   "bbox": [

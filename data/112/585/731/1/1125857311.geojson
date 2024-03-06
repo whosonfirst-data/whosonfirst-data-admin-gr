@@ -9,7 +9,20 @@
     "geom:bbox":"27.115631,35.492472,27.115631,35.492472",
     "geom:latitude":35.492472,
     "geom:longitude":27.115631,
+    "gn:admin1_code":"ESYE42",
+    "gn:asciiname":"Foiniki",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":262333,
+    "gn:latitude":35.49262,
+    "gn:longitude":27.11737,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Foin\u00edki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"27.095631,35.472472,27.135631,35.512472",
     "lbl:latitude":35.492472,
@@ -20,6 +33,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03b9\u03bd\u03af\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03bf\u03b9\u03bd\u03af\u03ba\u03b9\u03bf\u03bd"
+    ],
+    "name:und_x_variant":[
+        "Finichi",
+        "Foin\u00edki",
+        "Faniki",
+        "Foin\u00edkion"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:name":"Foiniki",
@@ -50,6 +75,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":262333,
         "gp:id":949629,
         "qs_pg:id":1100308
     },
@@ -65,13 +91,15 @@
         }
     ],
     "wof:id":1125857311,
-    "wof:lastmodified":1566642042,
+    "wof:lastmodified":1706239754,
     "wof:name":"Foiniki",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327367395
+    ],
     "wof:tags":[]
 },
   "bbox": [

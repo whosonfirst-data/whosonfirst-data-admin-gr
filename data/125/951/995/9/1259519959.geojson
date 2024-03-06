@@ -58,7 +58,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":734380
+        "gn:id":734380,
+        "wk:page":"Rodochori"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8658964
+        ]
     },
     "wof:country":"GR",
     "wof:geomhash":"424dd58647562f17ca0243ba0e4513bf",
@@ -71,13 +77,15 @@
         }
     ],
     "wof:id":1259519959,
-    "wof:lastmodified":1566642358,
+    "wof:lastmodified":1706239757,
     "wof:name":"Rodochori",
     "wof:parent_id":85684627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326666073
+    ],
     "wof:tags":[]
 },
   "bbox": [

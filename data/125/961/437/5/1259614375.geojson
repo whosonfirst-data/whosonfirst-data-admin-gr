@@ -34,8 +34,14 @@
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03ba\u03b1\u03c1\u03b9\u03ac"
     ],
+    "name:ell_x_variant":[
+        "Vokari\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Vokaria"
+    ],
+    "name:und_x_variant":[
+        "Voukaryi\u00e1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8349503
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            251784
+        ]
     },
     "wof:country":"GR",
     "wof:geomhash":"4409935719328209566a335a92add1c4",
@@ -56,13 +67,15 @@
         }
     ],
     "wof:id":1259614375,
-    "wof:lastmodified":1566642341,
+    "wof:lastmodified":1706239757,
     "wof:name":"Vokaria",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259820687
+    ],
     "wof:tags":[]
 },
   "bbox": [

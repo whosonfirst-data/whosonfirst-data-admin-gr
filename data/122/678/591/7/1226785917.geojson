@@ -61,10 +61,14 @@
     "name:spa_x_preferred":[
         "Arkoudi"
     ],
+    "name:und_x_variant":[
+        "\u00c1yios Nik\u00f3laos"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u5e93\u5b63\u5c9b"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -73,6 +77,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8604625
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            263809
+        ]
     },
     "wof:country":"GR",
     "wof:geomhash":"c0b79099bef22cd47c60d96c7e427336",
@@ -85,13 +94,17 @@
         }
     ],
     "wof:id":1226785917,
-    "wof:lastmodified":1566642471,
+    "wof:lastmodified":1706239757,
     "wof:name":"Arkoudi",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",
+    "wof:population":1305,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293326619
+    ],
     "wof:tags":[]
 },
   "bbox": [

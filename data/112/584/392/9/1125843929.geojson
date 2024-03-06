@@ -9,9 +9,23 @@
     "geom:bbox":"25.71307,35.16272,25.71307,35.16272",
     "geom:latitude":35.16272,
     "geom:longitude":25.71307,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9310",
+    "gn:asciiname":"Ammoudara",
     "gn:country":"GR",
+    "gn:country_code":"GR",
+    "gn:dem":26,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6950987,
+    "gn:latitude":35.16328,
+    "gn:longitude":25.71307,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Ammoud\u00e1ra",
     "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"25.69307,35.14272,25.73307,35.18272",
     "lbl:latitude":35.16272,
@@ -22,6 +36,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03bc\u03bf\u03c5\u03b4\u03ac\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ammoudara"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":"GR",
     "qs_pg:gn_fcode":"PPL",
@@ -44,6 +64,7 @@
     "qs_pg:woe_id":56023405,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Crete",
@@ -60,8 +81,15 @@
         "qs_pg:id":240852
     },
     "wof:concordances_alt":{
-        "gp:id":56023203,
-        "qs_pg:id":386019
+        "gn:id":[
+            6950987
+        ],
+        "gp:id":[
+            56023203
+        ],
+        "qs_pg:id":[
+            386019
+        ]
     },
     "wof:country":"GR",
     "wof:created":1497293061,
@@ -75,14 +103,17 @@
         }
     ],
     "wof:id":1125843929,
-    "wof:lastmodified":1566642107,
+    "wof:lastmodified":1706239754,
     "wof:name":"Ammoudara",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",
+    "wof:population":493,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125923039
+        1125923039,
+        1276690751
     ],
     "wof:tags":[]
 },

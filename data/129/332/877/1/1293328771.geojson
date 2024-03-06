@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.64862,35.41675,24.64862,35.41675",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "L\u00e1vris"
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":1293328771,
-    "wof:lastmodified":1566640885,
+    "wof:lastmodified":1706239755,
     "wof:name":"Lavris",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125935585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

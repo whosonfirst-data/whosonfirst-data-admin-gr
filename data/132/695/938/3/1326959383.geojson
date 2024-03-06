@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"23.31261,37.97557,23.31261,37.97557",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03ba\u03b9\u03ac \u03a3\u03ba\u03ac\u03bb\u03b1"
@@ -51,7 +53,7 @@
         "gn:id":7350231
     },
     "wof:country":"GR",
-    "wof:geomhash":"3db944e013956ced224b67707c7a1395",
+    "wof:geomhash":"a60e027274d681d8daeed3edafdabd22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1326959383,
-    "wof:lastmodified":1566640519,
+    "wof:lastmodified":1706239757,
     "wof:name":"Stikas",
     "wof:parent_id":85684697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209946053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     23.31261,
-    37.97557000000001,
+    37.97557,
     23.31261,
-    37.97557000000001
+    37.97557
 ],
-  "geometry": {"coordinates":[23.31261,37.97557000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.31261,37.97557],"type":"Point"}
 }

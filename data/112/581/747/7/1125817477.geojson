@@ -9,7 +9,22 @@
     "geom:bbox":"25.439872,35.177351,25.439872,35.177351",
     "geom:latitude":35.177351,
     "geom:longitude":25.439872,
+    "gn:admin1_code":"ESYE43",
+    "gn:admin2_code":"46.0",
+    "gn:admin3_code":"9312",
+    "gn:asciiname":"Agios Charalampos",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251380,
+    "gn:latitude":35.17634,
+    "gn:longitude":25.43896,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"\u00c1gios Char\u00e1lampos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"25.419872,35.157351,25.459872,35.197351",
     "lbl:latitude":35.177351,
@@ -26,8 +41,16 @@
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a7\u03b1\u03c1\u03ac\u03bb\u03b1\u03bc\u03c0\u03bf\u03c2 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a7\u03b1\u03c1\u03ac\u03bb\u03b1\u03bc\u03c0\u03bf\u03c2",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a7\u03b1\u03c1\u03ac\u03bb\u03b1\u03bc\u03c0\u03bf\u03c2 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2"
+    ],
     "name:mkd_x_preferred":[
         "\u0418\u0448\u0430\u043a\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Yerondomour\u00ed",
+        "Yerondomour\u00edon"
     ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
@@ -59,6 +82,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":251380,
         "gp:id":56024735,
         "qs_pg:id":7202
     },
@@ -74,13 +98,15 @@
         }
     ],
     "wof:id":1125817477,
-    "wof:lastmodified":1566641807,
+    "wof:lastmodified":1706239754,
     "wof:name":"Agios Charalampos",
     "wof:parent_id":85684655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326959495
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,11 +37,15 @@
     "name:ell_x_variant":[
         "\u03a7\u03b1\u03c1\u03b1\u03c5\u03b3\u03ae"
     ],
+    "name:eng_x_preferred":[
+        "Charavgi"
+    ],
     "name:und_x_variant":[
         "Long\u00edsti",
         "Ellinik\u00e1"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633171,
@@ -50,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":262726
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9781726
+        ]
     },
     "wof:country":"GR",
     "wof:geomhash":"8c89f4ca8e4506625b55c06496239c46",
@@ -62,13 +71,17 @@
         }
     ],
     "wof:id":1293237913,
-    "wof:lastmodified":1566640830,
+    "wof:lastmodified":1706239758,
     "wof:name":"Charavgi",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360221717
+    ],
     "wof:tags":[]
 },
   "bbox": [

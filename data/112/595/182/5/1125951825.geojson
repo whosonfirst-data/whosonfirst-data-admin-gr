@@ -9,7 +9,22 @@
     "geom:bbox":"21.881901,38.326221,21.881901,38.326221",
     "geom:latitude":38.326221,
     "geom:longitude":21.881901,
+    "gn:admin1_code":"ESYE23",
+    "gn:admin2_code":"38.0",
+    "gn:admin3_code":"9134.0",
+    "gn:asciiname":"Kyani Akti",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10792369,
+    "gn:latitude":38.32487,
+    "gn:longitude":21.88307,
+    "gn:modification_date":"2015-09-11",
+    "gn:name":"Kyan\u00ed Akt\u00ed",
+    "gn:population":33,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"21.861901,38.306221,21.901901,38.346221",
     "lbl:latitude":38.326221,
@@ -20,6 +35,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b1\u03bd\u03ae \u0391\u03ba\u03c4\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Kyani Akti"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kyani Akti",
@@ -39,6 +60,7 @@
     "qs_pg:woe_id":56024762,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -50,6 +72,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":10792369,
         "gp:id":56024762,
         "qs_pg:id":7207
     },
@@ -65,13 +88,17 @@
         }
     ],
     "wof:id":1125951825,
-    "wof:lastmodified":1566641668,
+    "wof:lastmodified":1706239756,
     "wof:name":"Kyani Akti",
     "wof:parent_id":85684621,
     "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226473537
+    ],
     "wof:tags":[]
 },
   "bbox": [

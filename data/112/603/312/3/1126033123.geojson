@@ -9,7 +9,22 @@
     "geom:bbox":"25.426466,36.462583,25.426466,36.462583",
     "geom:latitude":36.462583,
     "geom:longitude":25.426466,
+    "gn:admin1_code":"ESYE42",
+    "gn:admin2_code":"49.0",
+    "gn:admin3_code":"9270",
+    "gn:asciiname":"Pori",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134128,
+    "gn:latitude":36.46195,
+    "gn:longitude":25.42605,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Por\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"25.406466,36.442583,25.446466,36.482583",
     "lbl:latitude":36.462583,
@@ -173,6 +188,10 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0456"
     ],
+    "name:und_x_variant":[
+        "Por\u00ed",
+        "\u03a0\u03bf\u03c1\u03af"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u06cc"
     ],
@@ -215,6 +234,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":8134128,
         "gp:id":56024471,
         "qs_pg:id":146913
     },
@@ -230,13 +250,15 @@
         }
     ],
     "wof:id":1126033123,
-    "wof:lastmodified":1566641770,
+    "wof:lastmodified":1706239756,
     "wof:name":"Pori",
     "wof:parent_id":85684659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259412497
+    ],
     "wof:tags":[]
 },
   "bbox": [

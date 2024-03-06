@@ -9,7 +9,22 @@
     "geom:bbox":"22.380995,36.625034,22.380995,36.625034",
     "geom:latitude":36.625034,
     "geom:longitude":22.380995,
+    "gn:admin1_code":"ESYE25",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"9248",
+    "gn:asciiname":"Pyrgos Dirou",
     "gn:country":null,
+    "gn:country_code":"GR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":255212,
+    "gn:latitude":36.62621,
+    "gn:longitude":22.3825,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"P\u00fdrgos Diro\u00fa",
+    "gn:population":246,
+    "gn:timezone":"Europe/Athens",
     "iso:country":"GR",
     "lbl:bbox":"22.360995,36.605034,22.400995,36.645034",
     "lbl:latitude":36.625034,
@@ -38,6 +53,10 @@
     "name:swe_x_preferred":[
         "P\u00fdrgos Diro\u00fa"
     ],
+    "name:und_x_variant":[
+        "P\u00edrgos",
+        "Pyrgos"
+    ],
     "qs_pg:aaroncc":"GR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pyrgos Dirou",
@@ -57,6 +76,7 @@
     "qs_pg:woe_id":965926,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Peloponnese Western Greece and the Ionian Islands",
@@ -68,9 +88,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":255212,
         "gp:id":965926,
         "qs_pg:id":361831,
-        "wd:id":"Q7263519"
+        "wd:id":"Q7263519",
+        "wk:page":"Pyrgos_Dirou"
     },
     "wof:country":"GR",
     "wof:created":1497295707,
@@ -84,13 +106,17 @@
         }
     ],
     "wof:id":1125898625,
-    "wof:lastmodified":1566641843,
+    "wof:lastmodified":1706239755,
     "wof:name":"Pyrgos Dirou",
     "wof:parent_id":85684643,
     "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-gr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259813851
+    ],
     "wof:tags":[]
 },
   "bbox": [
